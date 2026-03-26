@@ -1,0 +1,73 @@
+name: Veille Juridique — Collecte quotidienne
+
+on:
+  schedule:
+    # Chaque matin à 9h15 heure de Paris (UTC+2 été / UTC+1 hiver)
+    # En UTC : 7h15 (heure d'été) — ajuster à 8h15 en hiver
+    - cron: '15 7 * * *'
+
+  # Permet aussi de lancer manuellement depuis l'interface GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write   # Pour committer data.json mis à jour
+  pages: write      # Pour publier sur GitHub Pages
+  id-token: write
+
+jobs:
+  collect-and-publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 📥 Checkout du dépôt
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Historique complet pour conserver data.json
+
+      - name: 🐍 Installation Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Installation des dépendances
+        run: |
+          pip install feedparser requests
+
+      - name: 🔍 Collecte des sources
+        env:
+          JUDILIBRE_API_KEY: ${{ secrets.JUDILIBRE_API_KEY }}
+          LEGIFRANCE_CLIENT_ID: ${{ secrets.LEGIFRANCE_CLIENT_ID }}
+          LEGIFRANCE_CLIENT_SECRET: ${{ secrets.LEGIFRANCE_CLIENT_SECRET }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python collect.py
+
+      - name: 📊 Résumé de la collecte
+        run: |
+          echo "Articles collectés :"
+          python -c "
+          import json
+          with open('data.json') as f:
+            d = json.load(f)
+          total = sum(len(day['articles']) for day in d['days'])
+          today = d['days'][0] if d['days'] else {}
+          print(f'  Total archive : {total} articles')
+          print(f'  Jours archivés : {len(d[\"days\"])}')
+          print(f'  Aujourd\\'hui : {len(today.get(\"articles\", []))} articles')
+          "
+
+      - name: 💾 Commit et push de data.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions — Veille Juridique"
+          git add data.json
+          git diff --staged --quiet || git commit -m "🔍 Veille du $(date +'%d/%m/%Y à %H:%M')"
+          git push
+
+      - name: 🚀 Publication sur GitHub Pages
+        uses: actions/deploy-pages@v4
+        id: deployment
+        with:
+          artifact_name: github-pages
