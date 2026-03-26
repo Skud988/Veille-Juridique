@@ -1,0 +1,1247 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lexwatch · Veille Juridique</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Instrument+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0d0d0f;
+  --surface: #141417;
+  --surface2: #1c1c21;
+  --surface3: #242429;
+  --border: #2a2a30;
+  --border2: #38383f;
+  --text: #e8e8ec;
+  --text2: #9898a6;
+  --text3: #5a5a6a;
+  --accent: #7c6af7;
+  --accent-dim: rgba(124,106,247,0.12);
+  --accent-glow: rgba(124,106,247,0.25);
+  --gold: #c9a84c;
+  --gold-dim: rgba(201,168,76,0.12);
+  --like: #e05a6b;
+  --like-dim: rgba(224,90,107,0.12);
+  --c-justice: #e05a6b;
+  --c-instit: #4d9de0;
+  --c-musique: #7c6af7;
+  --c-ia: #3ec9a7;
+  --c-loi: #c9a84c;
+  --c-cnil: #e07c4d;
+  --radius: 10px;
+  --font-display: 'DM Serif Display', serif;
+  --font-body: 'Instrument Sans', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-weight: 400;
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── SCROLLBAR ── */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border2); border-radius: 2px; }
+
+/* ── SIDEBAR ── */
+.sidebar {
+  position: fixed;
+  left: 0; top: 0; bottom: 0;
+  width: 220px;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  z-index: 200;
+  padding: 28px 0 20px;
+}
+
+.logo {
+  padding: 0 22px 28px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 8px;
+}
+
+.logo-name {
+  font-family: var(--font-display);
+  font-size: 1.45rem;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  line-height: 1;
+}
+
+.logo-sub {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  color: var(--text3);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-top: 6px;
+}
+
+.nav-section {
+  padding: 14px 14px 4px;
+}
+
+.nav-label {
+  font-family: var(--font-mono);
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--text3);
+  padding: 0 8px;
+  margin-bottom: 4px;
+}
+
+.nav-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 9px 12px;
+  border-radius: 7px;
+  border: none;
+  background: transparent;
+  color: var(--text2);
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-align: left;
+  margin-bottom: 1px;
+}
+
+.nav-btn:hover { background: var(--surface2); color: var(--text); }
+
+.nav-btn.active {
+  background: var(--accent-dim);
+  color: var(--accent);
+  font-weight: 500;
+}
+
+.nav-btn.likes-btn.active { background: var(--like-dim); color: var(--like); }
+
+.nav-icon { font-size: 0.9rem; width: 18px; text-align: center; flex-shrink: 0; }
+
+.nav-count {
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  background: var(--surface3);
+  padding: 2px 7px;
+  border-radius: 20px;
+  color: var(--text3);
+}
+
+.nav-btn.active .nav-count { background: var(--accent-dim); color: var(--accent); }
+.nav-btn.likes-btn.active .nav-count { background: var(--like-dim); color: var(--like); }
+
+.sidebar-footer {
+  margin-top: auto;
+  padding: 14px 22px 0;
+  border-top: 1px solid var(--border);
+}
+
+.update-info {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  color: var(--text3);
+  line-height: 1.7;
+}
+
+.dot-live {
+  display: inline-block;
+  width: 5px; height: 5px;
+  background: #4caf50;
+  border-radius: 50%;
+  margin-right: 4px;
+  animation: blink 2.5s infinite;
+}
+
+@keyframes blink { 0%,100%{opacity:1} 50%{opacity:0.2} }
+
+/* ── MAIN ── */
+.main-wrap {
+  margin-left: 220px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── TOPBAR ── */
+.topbar {
+  position: sticky;
+  top: 0;
+  background: rgba(13,13,15,0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  z-index: 100;
+  padding: 12px 28px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.search-wrap {
+  flex: 1;
+  max-width: 480px;
+  position: relative;
+}
+
+.search-icon {
+  position: absolute;
+  left: 12px; top: 50%;
+  transform: translateY(-50%);
+  color: var(--text3);
+  font-size: 0.85rem;
+  pointer-events: none;
+}
+
+.search-input {
+  width: 100%;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 9px 12px 9px 36px;
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.search-input::placeholder { color: var(--text3); }
+.search-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-glow);
+}
+
+.search-clear {
+  position: absolute;
+  right: 10px; top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text3);
+  cursor: pointer;
+  font-size: 0.9rem;
+  display: none;
+  padding: 2px;
+}
+
+.search-clear.visible { display: block; }
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+}
+
+/* ── FILTER CHIPS ── */
+.chips-bar {
+  padding: 12px 28px;
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.chip {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 13px;
+  border-radius: 20px;
+  border: 1px solid var(--border2);
+  background: transparent;
+  color: var(--text2);
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+
+.chip:hover { border-color: var(--text3); color: var(--text); }
+
+.chip.active {
+  background: var(--accent-dim);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.chip[data-cat="justice"].active { background: rgba(224,90,107,0.1); border-color: var(--c-justice); color: var(--c-justice); }
+.chip[data-cat="institutionnel"].active { background: rgba(77,157,224,0.1); border-color: var(--c-instit); color: var(--c-instit); }
+.chip[data-cat="musique"].active { background: var(--accent-dim); border-color: var(--c-musique); color: var(--c-musique); }
+.chip[data-cat="ia"].active { background: rgba(62,201,167,0.1); border-color: var(--c-ia); color: var(--c-ia); }
+.chip[data-cat="loi"].active { background: var(--gold-dim); border-color: var(--c-loi); color: var(--c-loi); }
+.chip[data-cat="cnil"].active { background: rgba(224,124,77,0.1); border-color: var(--c-cnil); color: var(--c-cnil); }
+
+/* ── CONTENT ── */
+.content {
+  padding: 28px 28px 60px;
+  flex: 1;
+}
+
+/* ── VIEW ── */
+.view { display: none; }
+.view.active { display: block; }
+
+/* ── TODAY HEADER ── */
+.view-header {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.view-title {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-style: italic;
+  letter-spacing: -0.02em;
+  color: var(--text);
+}
+
+.view-meta {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--text3);
+}
+
+/* ── DAY TABS (fil) ── */
+.day-tabs {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 24px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-bottom: 4px;
+}
+
+.day-tabs::-webkit-scrollbar { display: none; }
+
+.day-tab {
+  padding: 7px 16px;
+  border-radius: 7px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text2);
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s;
+  flex-shrink: 0;
+}
+
+.day-tab:hover { border-color: var(--border2); color: var(--text); }
+
+.day-tab.active {
+  background: var(--surface2);
+  border-color: var(--border2);
+  color: var(--text);
+}
+
+.day-tab .tab-count {
+  display: inline-block;
+  margin-left: 6px;
+  font-size: 0.58rem;
+  color: var(--text3);
+}
+
+/* ── ARTICLES GRID ── */
+.articles-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 14px;
+}
+
+/* ── CARD ── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  position: relative;
+  transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+  animation: fadeUp 0.35s ease both;
+  overflow: hidden;
+}
+
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  border-radius: var(--radius) var(--radius) 0 0;
+  opacity: 0.7;
+}
+
+.card[data-cat="justice"]::before { background: var(--c-justice); }
+.card[data-cat="institutionnel"]::before { background: var(--c-instit); }
+.card[data-cat="musique"]::before { background: var(--c-musique); }
+.card[data-cat="ia"]::before { background: var(--c-ia); }
+.card[data-cat="loi"]::before { background: var(--c-loi); }
+.card[data-cat="cnil"]::before { background: var(--c-cnil); }
+
+.card:hover {
+  border-color: var(--border2);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+}
+
+.card.liked { border-color: rgba(224,90,107,0.3); }
+.card.liked::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: var(--radius);
+  background: radial-gradient(ellipse at top right, rgba(224,90,107,0.04), transparent 60%);
+  pointer-events: none;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.card-badges { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+
+.badge {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 3px 9px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.badge-cat {
+  background: var(--surface3);
+  color: var(--text2);
+}
+
+.badge[data-cat="justice"] { background: rgba(224,90,107,0.12); color: var(--c-justice); }
+.badge[data-cat="institutionnel"] { background: rgba(77,157,224,0.12); color: var(--c-instit); }
+.badge[data-cat="musique"] { background: var(--accent-dim); color: var(--c-musique); }
+.badge[data-cat="ia"] { background: rgba(62,201,167,0.12); color: var(--c-ia); }
+.badge[data-cat="loi"] { background: var(--gold-dim); color: var(--c-loi); }
+.badge[data-cat="cnil"] { background: rgba(224,124,77,0.12); color: var(--c-cnil); }
+
+.card-actions { display: flex; gap: 6px; align-items: center; flex-shrink: 0; }
+
+.like-btn {
+  width: 30px; height: 30px;
+  border-radius: 7px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text3);
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.8rem;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.like-btn:hover { border-color: var(--like); color: var(--like); background: var(--like-dim); }
+
+.like-btn.liked {
+  background: var(--like-dim);
+  border-color: var(--like);
+  color: var(--like);
+}
+
+.like-btn.liked svg { fill: var(--like); }
+
+.card-source {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  color: var(--text3);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 7px;
+}
+
+.card-title {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  line-height: 1.3;
+  color: var(--text);
+  margin-bottom: 10px;
+  letter-spacing: -0.01em;
+}
+
+.card-summary {
+  font-size: 0.8rem;
+  line-height: 1.65;
+  color: var(--text2);
+  margin-bottom: 16px;
+}
+
+.summary-label {
+  font-family: var(--font-mono);
+  font-size: 0.55rem;
+  color: var(--text3);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+.card-time {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  color: var(--text3);
+}
+
+.read-link {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--accent);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  transition: opacity 0.15s;
+  font-weight: 500;
+}
+
+.read-link:hover { opacity: 0.75; }
+
+/* ── SEARCH RESULTS ── */
+.search-results-header {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--text3);
+  margin-bottom: 20px;
+  padding: 14px 18px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.search-results-header strong { color: var(--accent); }
+
+mark {
+  background: rgba(124,106,247,0.25);
+  color: var(--accent);
+  border-radius: 2px;
+  padding: 0 2px;
+}
+
+/* ── LIBRARY ── */
+.library-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 22px;
+  flex-wrap: wrap;
+}
+
+.library-sort {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  padding: 7px 12px;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--text2);
+  cursor: pointer;
+  outline: none;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.library-stats {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--text3);
+  margin-left: auto;
+}
+
+/* ── EMPTY / NO RESULTS ── */
+.empty {
+  grid-column: 1/-1;
+  text-align: center;
+  padding: 64px 24px;
+}
+
+.empty-icon { font-size: 2.5rem; margin-bottom: 16px; display: block; opacity: 0.5; }
+
+.empty-title {
+  font-family: var(--font-display);
+  font-size: 1.3rem;
+  font-style: italic;
+  color: var(--text2);
+  margin-bottom: 8px;
+}
+
+.empty-sub {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--text3);
+}
+
+/* ── MOBILE ── */
+.hamburger {
+  display: none;
+  position: fixed;
+  top: 14px; left: 14px;
+  z-index: 400;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  width: 36px; height: 36px;
+  align-items: center; justify-content: center;
+  cursor: pointer;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.hamburger span {
+  width: 18px; height: 1.5px;
+  background: var(--text2);
+  border-radius: 2px;
+  transition: all 0.2s;
+}
+
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 150;
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+    z-index: 300;
+  }
+
+  .sidebar.open { transform: translateX(0); }
+  .sidebar-overlay.open { display: block; }
+  .hamburger { display: flex; }
+  .main-wrap { margin-left: 0; }
+  .topbar { padding: 12px 16px 12px 60px; }
+  .chips-bar { padding: 10px 16px; }
+  .content { padding: 20px 16px 40px; }
+  .articles-grid { grid-template-columns: 1fr; }
+  .day-tabs { flex-wrap: nowrap; }
+}
+</style>
+</head>
+<body>
+
+<!-- SIDEBAR -->
+<button class="hamburger" id="hamburger" aria-label="Menu">
+  <span></span><span></span><span></span>
+</button>
+<div class="sidebar-overlay" id="overlay"></div>
+
+<aside class="sidebar" id="sidebar">
+  <div class="logo">
+    <div class="logo-name">Lexwatch</div>
+    <div class="logo-sub">Veille juridique privée</div>
+  </div>
+
+  <div class="nav-section">
+    <div class="nav-label">Navigation</div>
+    <button class="nav-btn active" data-view="feed">
+      <span class="nav-icon">◈</span> Fil du jour
+      <span class="nav-count" id="count-feed">—</span>
+    </button>
+    <button class="nav-btn likes-btn" data-view="likes">
+      <span class="nav-icon">♡</span> Favoris
+      <span class="nav-count" id="count-likes">0</span>
+    </button>
+    <button class="nav-btn" data-view="library">
+      <span class="nav-icon">⊞</span> Bibliothèque
+      <span class="nav-count" id="count-library">—</span>
+    </button>
+  </div>
+
+  <div class="nav-section" style="margin-top:8px">
+    <div class="nav-label">Catégories</div>
+    <button class="nav-btn" data-view="feed" data-autocat="justice">
+      <span class="nav-icon" style="color:var(--c-justice)">⚖</span> Décisions
+    </button>
+    <button class="nav-btn" data-view="feed" data-autocat="institutionnel">
+      <span class="nav-icon" style="color:var(--c-instit)">🏛</span> Institutionnel
+    </button>
+    <button class="nav-btn" data-view="feed" data-autocat="musique">
+      <span class="nav-icon" style="color:var(--c-musique)">♪</span> Musique
+    </button>
+    <button class="nav-btn" data-view="feed" data-autocat="ia">
+      <span class="nav-icon" style="color:var(--c-ia)">◎</span> IA & Numérique
+    </button>
+    <button class="nav-btn" data-view="feed" data-autocat="loi">
+      <span class="nav-icon" style="color:var(--c-loi)">§</span> Textes de loi
+    </button>
+    <button class="nav-btn" data-view="feed" data-autocat="cnil">
+      <span class="nav-icon" style="color:var(--c-cnil)">🔒</span> CNIL
+    </button>
+  </div>
+
+  <div class="sidebar-footer">
+    <div class="update-info">
+      <span class="dot-live"></span>màj 9h15 chaque matin<br>
+      <span id="last-update-display">—</span>
+    </div>
+  </div>
+</aside>
+
+<!-- MAIN -->
+<div class="main-wrap">
+
+  <!-- TOPBAR -->
+  <div class="topbar">
+    <div class="search-wrap">
+      <span class="search-icon">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      </span>
+      <input class="search-input" id="search-input" type="text" placeholder="Rechercher dans toutes les archives…" autocomplete="off">
+      <button class="search-clear" id="search-clear">✕</button>
+    </div>
+  </div>
+
+  <!-- FILTER CHIPS -->
+  <div class="chips-bar" id="chips-bar">
+    <button class="chip active" data-cat="all">Tout</button>
+    <button class="chip" data-cat="justice">⚖ Décisions</button>
+    <button class="chip" data-cat="institutionnel">🏛 Institutionnel</button>
+    <button class="chip" data-cat="musique">♪ Musique</button>
+    <button class="chip" data-cat="ia">◎ IA & Numérique</button>
+    <button class="chip" data-cat="loi">§ Textes de loi</button>
+    <button class="chip" data-cat="cnil">🔒 CNIL</button>
+  </div>
+
+  <!-- CONTENT -->
+  <div class="content">
+
+    <!-- VUE FIL -->
+    <div class="view active" id="view-feed">
+      <div class="view-header">
+        <h1 class="view-title" id="feed-title">Aujourd'hui</h1>
+        <span class="view-meta" id="feed-meta"></span>
+      </div>
+      <div class="day-tabs" id="day-tabs"></div>
+      <div class="articles-grid" id="feed-grid"></div>
+    </div>
+
+    <!-- VUE FAVORIS -->
+    <div class="view" id="view-likes">
+      <div class="view-header">
+        <h1 class="view-title">Favoris</h1>
+        <span class="view-meta" id="likes-meta"></span>
+      </div>
+      <div class="articles-grid" id="likes-grid"></div>
+    </div>
+
+    <!-- VUE BIBLIOTHÈQUE -->
+    <div class="view" id="view-library">
+      <div class="view-header">
+        <h1 class="view-title">Bibliothèque</h1>
+        <span class="view-meta" id="library-meta"></span>
+      </div>
+      <div class="library-toolbar">
+        <select class="library-sort" id="library-sort">
+          <option value="date-desc">Plus récents</option>
+          <option value="date-asc">Plus anciens</option>
+          <option value="cat">Par catégorie</option>
+        </select>
+        <span class="library-stats" id="library-stats"></span>
+      </div>
+      <div class="articles-grid" id="library-grid"></div>
+    </div>
+
+    <!-- VUE RECHERCHE -->
+    <div class="view" id="view-search">
+      <div class="view-header">
+        <h1 class="view-title">Recherche</h1>
+      </div>
+      <div class="search-results-header" id="search-info"></div>
+      <div class="articles-grid" id="search-grid"></div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+// ═══════════════════════════════════════════
+// STATE
+// ═══════════════════════════════════════════
+let allData = null;
+let allArticles = [];   // flat array de tous les articles
+let likedIds = new Set(JSON.parse(localStorage.getItem('lw_likes') || '[]'));
+let currentView = 'feed';
+let currentCat = 'all';
+let currentDay = null;
+let searchQuery = '';
+
+// ═══════════════════════════════════════════
+// UTILS
+// ═══════════════════════════════════════════
+const catLabels = {
+  justice: '⚖ Décision',
+  institutionnel: '🏛 Institutionnel',
+  musique: '♪ Musique',
+  ia: '◎ IA & Numérique',
+  loi: '§ Texte de loi',
+  cnil: '🔒 CNIL'
+};
+
+function formatDate(dateStr) {
+  const d = new Date(dateStr + 'T12:00:00');
+  return d.toLocaleDateString('fr-FR', { weekday:'long', day:'numeric', month:'long', year:'numeric' });
+}
+
+function formatShortDate(dateStr) {
+  const d = new Date(dateStr + 'T12:00:00');
+  return d.toLocaleDateString('fr-FR', { weekday:'short', day:'numeric', month:'short' });
+}
+
+function formatTime(iso) {
+  const d = new Date(iso);
+  return d.toLocaleTimeString('fr-FR', { hour:'2-digit', minute:'2-digit' });
+}
+
+function isToday(dateStr) {
+  return dateStr === new Date().toISOString().split('T')[0];
+}
+
+function saveLikes() {
+  localStorage.setItem('lw_likes', JSON.stringify([...likedIds]));
+}
+
+function highlight(text, query) {
+  if (!query) return text;
+  const re = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})`, 'gi');
+  return text.replace(re, '<mark>$1</mark>');
+}
+
+// ═══════════════════════════════════════════
+// DATA
+// ═══════════════════════════════════════════
+async function loadData() {
+  try {
+    const r = await fetch('data.json');
+    if (!r.ok) throw new Error();
+    return await r.json();
+  } catch {
+    return getDemoData();
+  }
+}
+
+function getDemoData() {
+  const today = new Date();
+  const d = (offset) => {
+    const x = new Date(today);
+    x.setDate(today.getDate() - offset);
+    return x.toISOString().split('T')[0];
+  };
+
+  const makeArt = (id, title, source, cat, dayOffset, summary, summaryType='résumé IA') => ({
+    id, title, source, url: '#', category: cat,
+    published_at: new Date(new Date().setDate(today.getDate() - dayOffset)).toISOString(),
+    summary, summary_type: summaryType
+  });
+
+  const articles = [
+    makeArt('a1','Cour de Cassation — Droits voisins : condamnation d\'une plateforme de streaming','Judilibre','justice',0,'La chambre civile confirme la condamnation d\'une plateforme pour non-paiement des droits voisins des producteurs phonographiques. L\'arrêt précise les modalités de calcul de la rémunération équitable.'),
+    makeArt('a2','CNIL sanctionne une plateforme musicale pour traitement illicite de données biométriques','CNIL','cnil',0,'Une amende de 3,2 M€ est prononcée à l\'encontre d\'un service de streaming ayant collecté des données vocales sans base légale conforme au RGPD.'),
+    makeArt('a3','SACEM : nouveau partenariat sur la rémunération des IA génératives','SACEM','musique',0,'La SACEM annonce un accord cadre avec la Commission européenne pour définir les modalités de rémunération des auteurs dont les œuvres servent à entraîner les modèles d\'IA musicale.'),
+    makeArt('a4','EU AI Act : obligations spécifiques aux modèles d\'IA générative musicale','Commission Européenne','ia',0,'Les nouvelles obligations de transparence sur les données d\'entraînement s\'appliquent désormais, avec des implications directes pour les outils de composition assistée par IA.'),
+    makeArt('a5','Nomination : renouvellement à la présidence de l\'ARCOM','ARCOM','institutionnel',0,'Le Conseil annonce un changement à sa présidence. Le successeur sera désigné par décret présidentiel dans les prochaines semaines, selon nos informations.','extrait source'),
+    makeArt('a6','Décret sur la transparence algorithmique des plateformes culturelles','Légifrance','loi',0,'Publication au JO d\'un décret d\'application précisant les obligations de transparence sur les algorithmes de recommandation musicale des plateformes numériques.','extrait source'),
+    makeArt('a7','Cour d\'appel de Paris — L\'IA comme outil d\'expertise judiciaire en matière de plagiat','Cour d\'appel de Paris','justice',1,'La Cour valide pour la première fois le recours à un logiciel d\'analyse musicale par IA comme preuve recevable pour établir la similarité entre deux œuvres protégées.'),
+    makeArt('a8','IFPI Global Music Report 2026 : le streaming représente 69% des revenus','IFPI','musique',1,'Le rapport annuel révèle une croissance de 8,2% des revenus globaux, tirée par les abonnements premium dans les marchés émergents d\'Asie du Sud-Est.'),
+    makeArt('a9','Universal Music Group et TikTok signent un nouvel accord de licence pluriannuel','Billboard','musique',2,'UMG et TikTok mettent fin à leur conflit sur les droits d\'auteur avec un accord intégrant un système de rémunération basé sur l\'engagement des contenus musicaux.'),
+    makeArt('a10','Proposition de loi : encadrement des NFT musicaux et des tokens d\'artistes','Assemblée Nationale','loi',3,'Première lecture d\'une proposition visant à définir un cadre juridique pour les actifs numériques liés aux œuvres musicales, incluant la question des droits patrimoiaux.'),
+    makeArt('a11','HADOPI : bilan d\'activité 2025 et perspectives de régulation','ARCOM','institutionnel',4,'Le rapport annuel de l\'ARCOM dresse un bilan des actions de lutte contre le piratage et annonce de nouvelles mesures pour 2026, notamment contre le piratage live.'),
+    makeArt('a12','Décision CNIL : obligations de consentement renforcées pour les cookies musicaux','CNIL','cnil',5,'La CNIL précise ses lignes directrices sur la collecte de données de préférence musicale, imposant un consentement explicite distinct pour chaque finalité de traitement.'),
+  ];
+
+  // Group by day
+  const dayMap = {};
+  articles.forEach(a => {
+    const day = a.published_at.split('T')[0];
+    if (!dayMap[day]) dayMap[day] = [];
+    dayMap[day].push(a);
+  });
+
+  const days = Object.entries(dayMap)
+    .sort(([a],[b]) => b.localeCompare(a))
+    .map(([date, arts]) => ({ date, articles: arts }));
+
+  return { generated_at: new Date().toISOString(), days };
+}
+
+// ═══════════════════════════════════════════
+// RENDER CARD
+// ═══════════════════════════════════════════
+function renderCard(article, query='') {
+  const liked = likedIds.has(article.id);
+  const time = formatTime(article.published_at);
+  const title = query ? highlight(article.title, query) : article.title;
+  const summary = query ? highlight(article.summary, query) : article.summary;
+
+  return `
+  <div class="card ${liked?'liked':''}" data-id="${article.id}" data-cat="${article.category}">
+    <div class="card-top">
+      <div class="card-badges">
+        <span class="badge" data-cat="${article.category}">${catLabels[article.category]||article.category}</span>
+      </div>
+      <div class="card-actions">
+        <button class="like-btn ${liked?'liked':''}" data-id="${article.id}" aria-label="Ajouter aux favoris" title="${liked?'Retirer des favoris':'Ajouter aux favoris'}">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="${liked?'currentColor':'none'}" stroke="currentColor" stroke-width="2">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div class="card-source">${article.source}</div>
+    <h2 class="card-title">${title}</h2>
+    <div class="card-summary">
+      <span class="summary-label">${article.summary_type}</span>
+      ${summary}
+    </div>
+    <div class="card-footer">
+      <span class="card-time">${time}</span>
+      <a href="${article.url}" target="_blank" rel="noopener" class="read-link">
+        Lire
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>`;
+}
+
+function renderEmpty(msg='Aucun article', sub='') {
+  return `<div class="empty">
+    <span class="empty-icon">◈</span>
+    <div class="empty-title">${msg}</div>
+    ${sub ? `<div class="empty-sub">${sub}</div>` : ''}
+  </div>`;
+}
+
+// ═══════════════════════════════════════════
+// VIEWS
+// ═══════════════════════════════════════════
+
+/* ── FIL ── */
+function renderFeed() {
+  const tabs = document.getElementById('day-tabs');
+  const grid = document.getElementById('feed-grid');
+  const title = document.getElementById('feed-title');
+  const meta = document.getElementById('feed-meta');
+
+  if (!allData || !allData.days.length) {
+    grid.innerHTML = renderEmpty('Aucune donnée disponible', 'Lancez la collecte pour remplir le fil.');
+    return;
+  }
+
+  // Build tabs
+  tabs.innerHTML = allData.days.map((day, i) => {
+    const active = day.date === currentDay;
+    const label = isToday(day.date) ? "Aujourd'hui" : formatShortDate(day.date);
+    return `<button class="day-tab${active?' active':''}" data-date="${day.date}">
+      ${label}<span class="tab-count">${day.articles.length}</span>
+    </button>`;
+  }).join('');
+
+  tabs.querySelectorAll('.day-tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      currentDay = btn.dataset.date;
+      renderFeed();
+    });
+  });
+
+  // Current day articles
+  const dayData = allData.days.find(d => d.date === currentDay) || allData.days[0];
+  const dayArticles = dayData ? dayData.articles : [];
+
+  title.textContent = isToday(dayData.date) ? "Aujourd'hui" : formatDate(dayData.date);
+  meta.textContent = `${dayArticles.length} article${dayArticles.length>1?'s':''}`;
+
+  const filtered = currentCat === 'all' ? dayArticles : dayArticles.filter(a => a.category === currentCat);
+
+  if (!filtered.length) {
+    grid.innerHTML = renderEmpty('Rien ici', currentCat !== 'all' ? 'Aucun article dans cette catégorie ce jour.' : 'Pas d\'articles pour cette journée.');
+  } else {
+    grid.innerHTML = filtered.map((a,i) => `<div style="animation-delay:${i*0.04}s">${renderCard(a)}</div>`).join('');
+  }
+
+  bindLikeBtns(grid);
+}
+
+/* ── FAVORIS ── */
+function renderLikes() {
+  const grid = document.getElementById('likes-grid');
+  const meta = document.getElementById('likes-meta');
+
+  const liked = allArticles.filter(a => likedIds.has(a.id));
+  const filtered = currentCat === 'all' ? liked : liked.filter(a => a.category === currentCat);
+
+  document.getElementById('count-likes').textContent = likedIds.size;
+  meta.textContent = `${likedIds.size} favori${likedIds.size>1?'s':''}`;
+
+  if (!filtered.length) {
+    grid.innerHTML = renderEmpty('Aucun favori', likedIds.size===0 ? 'Cliquez sur ♡ sur une carte pour sauvegarder.' : 'Aucun favori dans cette catégorie.');
+  } else {
+    grid.innerHTML = filtered.map((a,i) => `<div style="animation-delay:${i*0.04}s">${renderCard(a)}</div>`).join('');
+  }
+
+  bindLikeBtns(grid);
+}
+
+/* ── BIBLIOTHÈQUE ── */
+function renderLibrary() {
+  const grid = document.getElementById('library-grid');
+  const meta = document.getElementById('library-meta');
+  const stats = document.getElementById('library-stats');
+  const sort = document.getElementById('library-sort').value;
+
+  let arts = [...allArticles];
+  if (currentCat !== 'all') arts = arts.filter(a => a.category === currentCat);
+
+  if (sort === 'date-desc') arts.sort((a,b) => b.published_at.localeCompare(a.published_at));
+  else if (sort === 'date-asc') arts.sort((a,b) => a.published_at.localeCompare(b.published_at));
+  else if (sort === 'cat') arts.sort((a,b) => a.category.localeCompare(b.category) || b.published_at.localeCompare(a.published_at));
+
+  const days = allData ? allData.days.length : 0;
+  meta.textContent = `Archive complète · ${allArticles.length} articles`;
+  stats.textContent = `${arts.length} résultat${arts.length>1?'s':''} · ${days} jour${days>1?'s':''}`;
+
+  document.getElementById('count-library').textContent = allArticles.length;
+
+  if (!arts.length) {
+    grid.innerHTML = renderEmpty('Bibliothèque vide', 'Les articles collectés apparaîtront ici.');
+  } else {
+    grid.innerHTML = arts.map((a,i) => `<div style="animation-delay:${Math.min(i,10)*0.03}s">${renderCard(a)}</div>`).join('');
+  }
+
+  bindLikeBtns(grid);
+}
+
+/* ── RECHERCHE ── */
+function renderSearch(query) {
+  const grid = document.getElementById('search-grid');
+  const info = document.getElementById('search-info');
+
+  const q = query.toLowerCase().trim();
+  const results = allArticles.filter(a =>
+    a.title.toLowerCase().includes(q) ||
+    a.summary.toLowerCase().includes(q) ||
+    a.source.toLowerCase().includes(q) ||
+    (a.category && catLabels[a.category]?.toLowerCase().includes(q))
+  );
+
+  const filtered = currentCat === 'all' ? results : results.filter(a => a.category === currentCat);
+
+  info.innerHTML = `Recherche pour <strong>"${query}"</strong> — ${filtered.length} résultat${filtered.length>1?'s':''} dans ${allArticles.length} articles archivés`;
+
+  if (!filtered.length) {
+    grid.innerHTML = renderEmpty('Aucun résultat', `Aucun article ne correspond à "${query}".`);
+  } else {
+    grid.innerHTML = filtered.map((a,i) => `<div style="animation-delay:${Math.min(i,8)*0.04}s">${renderCard(a, query)}</div>`).join('');
+  }
+
+  bindLikeBtns(grid);
+}
+
+// ═══════════════════════════════════════════
+// LIKES
+// ═══════════════════════════════════════════
+function bindLikeBtns(container) {
+  container.querySelectorAll('.like-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const id = btn.dataset.id;
+      if (likedIds.has(id)) {
+        likedIds.delete(id);
+      } else {
+        likedIds.add(id);
+        // micro-animation
+        btn.style.transform = 'scale(1.3)';
+        setTimeout(() => btn.style.transform = '', 200);
+      }
+      saveLikes();
+      refreshCurrentView();
+      document.getElementById('count-likes').textContent = likedIds.size;
+    });
+  });
+}
+
+// ═══════════════════════════════════════════
+// VIEW SWITCHING
+// ═══════════════════════════════════════════
+function switchView(view) {
+  currentView = view;
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.getElementById('view-' + view).classList.add('active');
+
+  document.querySelectorAll('.nav-btn[data-view]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.view === view && !btn.dataset.autocat);
+  });
+
+  // Show/hide chips
+  document.getElementById('chips-bar').style.display = view === 'search' ? 'none' : '';
+
+  refreshCurrentView();
+  closeSidebar();
+}
+
+function refreshCurrentView() {
+  if (currentView === 'feed') renderFeed();
+  else if (currentView === 'likes') renderLikes();
+  else if (currentView === 'library') renderLibrary();
+  else if (currentView === 'search' && searchQuery) renderSearch(searchQuery);
+}
+
+// ═══════════════════════════════════════════
+// SEARCH
+// ═══════════════════════════════════════════
+let searchTimeout;
+const searchInput = document.getElementById('search-input');
+const searchClear = document.getElementById('search-clear');
+
+searchInput.addEventListener('input', () => {
+  const q = searchInput.value.trim();
+  searchClear.classList.toggle('visible', q.length > 0);
+
+  clearTimeout(searchTimeout);
+  if (q.length >= 2) {
+    searchTimeout = setTimeout(() => {
+      searchQuery = q;
+      currentView = 'search';
+      document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+      document.getElementById('view-search').classList.add('active');
+      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+      document.getElementById('chips-bar').style.display = 'none';
+      renderSearch(q);
+    }, 280);
+  } else if (q.length === 0) {
+    searchQuery = '';
+    switchView('feed');
+  }
+});
+
+searchClear.addEventListener('click', () => {
+  searchInput.value = '';
+  searchClear.classList.remove('visible');
+  searchQuery = '';
+  switchView('feed');
+});
+
+// ═══════════════════════════════════════════
+// CATEGORY FILTER
+// ═══════════════════════════════════════════
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    currentCat = chip.dataset.cat;
+    refreshCurrentView();
+  });
+});
+
+// ═══════════════════════════════════════════
+// NAV
+// ═══════════════════════════════════════════
+document.querySelectorAll('.nav-btn[data-view]').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const view = btn.dataset.view;
+    const autocat = btn.dataset.autocat;
+    if (autocat) {
+      currentCat = autocat;
+      document.querySelectorAll('.chip').forEach(c => {
+        c.classList.toggle('active', c.dataset.cat === autocat);
+      });
+    }
+    switchView(view);
+  });
+});
+
+document.getElementById('library-sort').addEventListener('change', renderLibrary);
+
+// ═══════════════════════════════════════════
+// MOBILE SIDEBAR
+// ═══════════════════════════════════════════
+function closeSidebar() {
+  document.getElementById('sidebar').classList.remove('open');
+  document.getElementById('overlay').classList.remove('open');
+}
+
+document.getElementById('hamburger').addEventListener('click', () => {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('overlay').classList.toggle('open');
+});
+
+document.getElementById('overlay').addEventListener('click', closeSidebar);
+
+// ═══════════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════════
+async function init() {
+  allData = await loadData();
+
+  // Flatten all articles
+  allArticles = allData.days.flatMap(d => d.articles);
+
+  // Set current day to most recent
+  currentDay = allData.days[0]?.date || new Date().toISOString().split('T')[0];
+
+  // Update counters
+  document.getElementById('count-feed').textContent = allData.days[0]?.articles.length || 0;
+  document.getElementById('count-library').textContent = allArticles.length;
+  document.getElementById('count-likes').textContent = likedIds.size;
+
+  // Last update display
+  if (allData.generated_at) {
+    const d = new Date(allData.generated_at);
+    document.getElementById('last-update-display').textContent =
+      d.toLocaleDateString('fr-FR', {day:'numeric',month:'short'}) + ' à ' +
+      d.toLocaleTimeString('fr-FR', {hour:'2-digit',minute:'2-digit'});
+  }
+
+  renderFeed();
+}
+
+init();
+</script>
+</body>
+</html>
