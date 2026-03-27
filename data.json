@@ -1,6 +1,341 @@
 {
-  "generated_at": "2026-03-26T22:09:54.973746+00:00",
+  "generated_at": "2026-03-27T11:10:08.575698+00:00",
   "days": [
+    {
+      "date": "2026-03-27",
+      "articles": [
+        {
+          "id": "7745e61a72c2",
+          "title": "Xiaomi est accusé de violation de brevets, mais pas par Porsche ou Ferrari",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2219919-xiaomi-est-accuse-de-violation-de-brevets-mais-pas-par-porsche-ou-ferrari.html",
+          "category": "ia",
+          "published_at": "2026-03-27T10:56:17+00:00",
+          "summary": "Malgré des ressemblances frappantes avec Porsche ou Ferrari, ce n’est pas sur ce terrain que Xiaomi est attaqué. C'est un tout petit constructeur qui veut invalider plusieurs brevets du constructeur chinois.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca6e8299e101",
+          "title": "Netflix monte encore ses prix : à quoi faut-il s’attendre en France ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2219813-netflix-monte-encore-ses-prix-a-quoi-faut-il-sattendre-en-france.html",
+          "category": "ia",
+          "published_at": "2026-03-27T10:53:10+00:00",
+          "summary": "Mauvaise surprise pour les abonnés Netflix outre-Atlantique : la plateforme vient d’officialiser une révision à la hausse de ses tarifs aux États-Unis. Il s'agit de la seconde augmentation en à peine un an, preuve que le géant du streaming n’a plus peur de tester la fidélité de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8749189fe8db",
+          "title": "TRIBE v2 : Meta lance une IA capable de simuler les réactions du cerveau",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2219639-tribe-v2-meta-lance-une-ia-capable-de-simuler-les-reactions-du-cerveau.html",
+          "category": "ia",
+          "published_at": "2026-03-27T10:39:31+00:00",
+          "summary": "Le 26 mars 2026, Meta a dévoilé TRIBE v2, un modèle open source capable de prédire « la réaction du cerveau humain à presque tous les sons et images ». Son objectif : reproduire, sans passer par un scanner, les schémas d’activité cérébrale déclenchés par des contenus visuels,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "656e872a3ebb",
+          "title": "TurboQuant veut réduire grandement les besoins en mémoire des IA génératives… et ça marche",
+          "source": "Next INpact",
+          "url": "https://next.ink/230979/turboquant-veut-reduire-grandement-les-besoins-en-memoire-des-ia-generatives-et-ca-marche/",
+          "category": "ia",
+          "published_at": "2026-03-27T10:39:23+00:00",
+          "summary": "Des chercheurs de Google ont publié un ensemble d&#8217;algorithmes de quantification, nommé TurboQuant. Ils permettent une compression massive réduisant l&#8217;utilisation de la mémoire, notamment pour l&#8217;IA générative, alors que le prix de la RAM est dans toutes les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e96664fc723",
+          "title": "Pokémon Pokopia est de retour en stock sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2219785-pokemon-pokopia-est-de-retour-en-stock-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-03-27T10:30:11+00:00",
+          "summary": "[Deal du jour] Sorti en exclusivité sur Switch 2 le 5 mars 2026, Pokémon Pokopia est rapidement tombé en rupture de stock. Si vous n'avez pas eu le temps de vous procurer une version physique du jeu, le revoilà disponible, mais il faudra faire vite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30a783de72af",
+          "title": "La Lune : tout savoir sur le satellite naturel de la Terre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/743504-lune-caracteristiques-phases-et-origine-du-satellite-de-la-terre.html",
+          "category": "ia",
+          "published_at": "2026-03-27T10:25:17+00:00",
+          "summary": "La Lune est l'objet céleste le plus exploré par l'humanité. Et la Nasa compte bien y retourner avec le programme Artémis. La Lune est précieuse : c'est l'unique satellite naturel permanent de notre planète. Depuis plus de 4 milliards d'années, elle tourne inlassablement autour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef05cd7e11ce",
+          "title": "Hilltop Hoods’ Auction Raises $95,000 For Cancer Charity",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/hilltop-hoods-auction-95000-cancer-charity-1236208387/",
+          "category": "ia",
+          "published_at": "2026-03-27T09:54:25+00:00",
+          "summary": "“Lion Hearts Learning can now open a new Playgroup/Preschool in the north of Adelaide, giving so many more children in need access to their services,” reads a statement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b72061db1f0",
+          "title": "Free Mobile promet une « révolution » le 31 mars : notre pronostic sur l’annonce de l’opérateur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2219697-free-mobile-promet-une-revolution-le-31-mars-notre-pronostic-sur-lannonce-de-loperateur.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:50:53+00:00",
+          "summary": "Free n'y va pas par quatre chemins : l'opérateur invite la presse, dont Numerama, à une conférence sur «&nbsp;la nouvelle révolution mobile&nbsp;» de Free Mobile. De très nombreuses théories circulent sur les réseaux sociaux : quelle est la plus plausible ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0eb246df72f",
+          "title": "Voilà minute par minute ce qui se passera pour la mission Artémis II avant son décollage vers la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2219613-voila-minute-par-minute-ce-qui-se-passera-pour-la-mission-artemis-ii-avant-son-decollage-vers-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:49:54+00:00",
+          "summary": "Tout est calé pour le jour J. La mission Artémis II doit en principe décoller dans la nuit du 1ᵉʳ au 2 avril 2026. L'agence spatiale américaine a partagé le déroulement des deux derniers jours qui surviendront avant le moment très attendu : l'allumage des moteurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93715e36ce49",
+          "title": "X-Files : on sait enfin qui va remplacer Mulder dans le reboot de la série",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2219573-x-files-on-sait-enfin-qui-va-remplacer-mulder-dans-le-reboot-de-la-serie.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:44:00+00:00",
+          "summary": "La vérité n'a jamais été aussi proche… d'être réinventée. Après des mois de spéculations, le projet de reboot de X-Files dirigé par Ryan Coogler vient de franchir une étape décisive. On connaît désormais le visage de celui qui succédera (indirectement) à David Duchovny pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1eaf2643ed53",
+          "title": "Ford Transit City électrique : le grand écart entre le pragmatisme européen et le blocus américain",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2219593-ford-transit-city-electrique-le-grand-ecart-entre-le-pragmatisme-europeen-et-le-blocus-americain.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:41:57+00:00",
+          "summary": "Ford Pro dévoile le Transit City, un utilitaire électrique économique conçu en partenariat avec le chinois JMC. Ce lancement illustre le décalage croissant entre la stratégie d'ouverture de Ford Europe et le protectionnisme rigoureux en vigueur aux États-Unis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b716fba269c",
+          "title": "Une « erreur humaine » provoque la fuite de Claude Mythos : le prochain modèle d’Anthropic qui inquiète jusqu’à ses créateurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2219603-une-erreur-humaine-provoque-la-fuite-de-claude-mythos-le-prochain-modele-danthropic-qui-inquiete-jusqua-ses-createurs.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:41:55+00:00",
+          "summary": "Le 26 mars 2026, une erreur de configuration sur le blog d'Anthropic a involontairement révélé l'existence de Claude Mythos, le prochain modèle de l'entreprise. Le document exposé décrit un modèle dont les capacités offensives en cybersécurité dépasseraient, selon Anthropic…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffa61b161d5d",
+          "title": "Aux USA, des sénateurs veulent connaitre la consommation d’énergie des datacenters",
+          "source": "Next INpact",
+          "url": "https://next.ink/231132/aux-usa-des-senateurs-veulent-connaitre-la-consommation-denergie-des-datacenters/",
+          "category": "ia",
+          "published_at": "2026-03-27T09:40:29+00:00",
+          "summary": "Pour avoir des données fiables et globales sur la consommation des datacenters, deux sénateurs font appel à l’U.S. Energy Information Administration (EIA). L’Arcep le fait, mais cela se limite à la France et on manque cruellement de données au niveau mondial. La consommation des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef9254c81101",
+          "title": "Après un problème technique, l’avion supersonique X-59 de la Nasa retourne dans les airs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2219649-apres-un-probleme-technique-lavion-supersonique-x-59-de-la-nasa-retourne-dans-les-airs.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:36:48+00:00",
+          "summary": "L'avion X-59 a déjà volé une troisième fois. Après un deuxième envol écourté, l'engin supersonique de la Nasa semble ne pas avoir rencontré de nouveau problème technique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1027b5cb72d7",
+          "title": "Il y a une bonne nouvelle pour l’arrivée d’Hades 2 sur Xbox et PS5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2219599-il-y-a-une-bonne-nouvelle-pour-larrivee-dhades-2-sur-xbox-et-ps5.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:35:26+00:00",
+          "summary": "La période d'exclusivité pour PC et Switch d'Hades 2 prend fin. Le jeu de Supergiant Games arrivera en avril 2026 sur PlayStation 5 et Xbox Series, avec une bonne nouvelle pour celles et ceux qui ont la console de Microsoft.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4caf1668ae0",
+          "title": "Nintendo ne fait que spoiler Super Mario Galaxy le Film et les fans en ont marre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2219627-nintendo-ne-fait-que-spoiler-super-mario-galaxy-le-film-et-les-fans-en-ont-marre.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:35:11+00:00",
+          "summary": "Nintendo a opté pour une promotion très soutenue pour Super Mario Galaxy Le Film. Sauf qu'à force de multiplier les clips et les affiches, les spoilers se sont additionnés et les fans en ont marre de voir certaines surprises être gâchées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdd8556b4cf7",
+          "title": "BTS Shine With Slick Performance of ‘2.0’ For ‘Tonight Show’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/bts-20-performance-tonight-show-watch-1236208379/",
+          "category": "musique",
+          "published_at": "2026-03-27T09:25:56+00:00",
+          "summary": "After performing “SWIM” on Wednesday night, the septet was back at New York’s iconic Guggenheim Museum, this time hitting “2.0” from their new album \"ARIRANG.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb8b4c9722a5",
+          "title": "RIP le Mac Pro : Apple abandonne son ordinateur le plus puissant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2219577-rip-le-mac-pro-apple-abandonne-son-ordinateur-le-plus-puissant.html",
+          "category": "ia",
+          "published_at": "2026-03-27T09:22:55+00:00",
+          "summary": "Victime de la transition vers les puces Apple Silicon et de la montée en puissance du Mac Studio, le Mac Pro ne sera pas renouvelé et n'est désormais plus commercialisé par Apple. C'est la fin d'un produit culte et longtemps adoré par les professionnels, malgré plusieurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36f7084a3c05",
+          "title": "☕️ Effets délétères de TikTok : l’Éducation nationale relance la machine judiciaire",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/effets-deleteres-de-tiktok-leducation-nationale-relance-la-machine-judiciaire/",
+          "category": "ia",
+          "published_at": "2026-03-27T09:15:29+00:00",
+          "summary": "Dans un communiqué, le ministère de l’Éducation nationale explique que, « dans le cadre de la procédure d’enquête en cours depuis le 4 novembre 2025 au sujet des agissements du réseau social TikTok, le ministère de l’Éducation nationale vient de transmettre au parquet de Paris…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "872c17746637",
+          "title": "RAYE Returns With ‘This Music May Contain Hope’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/raye-this-music-may-contain-hope-stream-it-now-1236208364/",
+          "category": "musique",
+          "published_at": "2026-03-27T08:45:11+00:00",
+          "summary": "Collaborators on RAYE's new album include Hans Zimmer, Al Green and her sisters Amma and Absolutely.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9410210bc9b0",
+          "title": "Non, parier contre le retour de Jésus avant GTA 6 ne vous rendra pas riche",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2219265-non-parier-contre-le-retour-jesus-avant-gta-6-ne-vous-rendra-pas-riche.html",
+          "category": "ia",
+          "published_at": "2026-03-27T08:39:47+00:00",
+          "summary": "Alors que certains pensent avoir trouvé le glitch de l’argent magique sur Polymarket, c'est au final totalement l'inverse. Parier contre le retour de Jésus avant la sortie de GTA 6 ressemble à l'un des investissements les plus sûrs de l'histoire. Pourtant, derrière ce pari se…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9a70a854c0e",
+          "title": "Fake news : les fact-checkeurs amateurs se font avoir plus souvent que les autres",
+          "source": "Next INpact",
+          "url": "https://next.ink/230989/fake-news-les-fact-checkeurs-amateurs-se-font-avoir-plus-souvent-que-les-autres/",
+          "category": "institutionnel",
+          "published_at": "2026-03-27T08:39:21+00:00",
+          "summary": "Une étude de l&#8217;ARCOM révèle que 60 % des Français pensent être capables d&#8217;identifier les fausses informations, mais également que seuls 23 % des autres Français en seraient eux aussi capables. De fait, seuls 23 % des Français ont identifié les sept fausses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d46ae872aa0",
+          "title": "☕️ Tails 7.6 gère automatiquement les ponts Tor pour lutter contre la censure",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/tails-7-6-gere-automatiquement-les-ponts-tor-pour-lutter-contre-la-censure/",
+          "category": "ia",
+          "published_at": "2026-03-27T07:42:00+00:00",
+          "summary": "La distribution Tails, axée sur la sécurité et la confidentialité, passe en version 7.6 avec comme principale nouveauté l&#8217;intégration des ponts Tor (Tor bridges en anglais) au niveau de l&#8217;assistant de connexion intégré au système. Cette fonctionnalité a fait son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f4c3ed330ea",
+          "title": "☕️ Fausses promos, pression, articles ajoutés : des pratiques encore nombreuses en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/fausses-promos-pression-articles-ajoutes-des-pratiques-encore-nombreuses-en-eu/",
+          "category": "institutionnel",
+          "published_at": "2026-03-27T07:25:52+00:00",
+          "summary": "La Commission européenne a visiblement pris son temps, mais les résultats d’un « balayage » sur les promotions pendant le Black Friday et le Cyber Monday vient d’être mis en ligne. C&#8217;est la conclusion d’une enquête menée par les autorités de protection des consommateurs de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68c4b14cf191",
+          "title": "☕️ La bêta d’Ubuntu 26.04 LTS (Resolute Raccoon) est disponible",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/la-beta-dubuntu-26-04-lts-resolute-raccoon-est-disponible/",
+          "category": "ia",
+          "published_at": "2026-03-27T07:02:31+00:00",
+          "summary": "Cette version 26.04 est importante car c’est une LTS, c’est-à-dire une Long Term Support avec cinq ans de support classique et cinq ans de plus avec Ubuntu Pro. Les LTS sont mises en ligne tous les deux ans, la précédente était donc la 24.04. C’est particulièrement utile dans le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77ad5e50996d",
+          "title": "BTS Blasts to No. 1 on ARIA Chart With ‘ARIRANG’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/bts-no-1-aria-chart-arirang-1236208347/",
+          "category": "ia",
+          "published_at": "2026-03-27T06:30:40+00:00",
+          "summary": "BTS leads the ARIA Albums Chart, and claim the highest debut on the national singles tally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17cdfd2783ae",
+          "title": "Aujourd’hui est le pire jour pour utiliser votre IA au travail",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2218259-aujourdhui-est-le-pire-jour-pour-utiliser-votre-ia-au-travail.html",
+          "category": "ia",
+          "published_at": "2026-03-27T06:30:00+00:00",
+          "summary": "Un analyste de Gartner préconise aux entreprises de couper l'usage de l'IA le vendredi après-midi. Explications.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "faa2a705c0f0",
+          "title": "Miley Cyrus, Raye, Charlie Puth & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/miley-cyrus-raye-charlie-puth-new-music-friday-guide-1236207383/",
+          "category": "musique",
+          "published_at": "2026-03-27T06:01:40+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cbd24db452d",
+          "title": "Charlie Puth’s ‘Incredibly Honest’ Album ‘Whatever’s Clever!’ Has Arrived: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/charlie-puth-whatevers-clever-stream-it-now-1236206315/",
+          "category": "musique",
+          "published_at": "2026-03-27T04:49:47+00:00",
+          "summary": "Puth’s ambition was to “make a rich, warm, and big-sounding record.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07c1093a846d",
+          "title": "Flea Jazzes up For Debut Solo Album ‘Honora’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/flea-debut-solo-album-honora-stream-it-now-1236208219/",
+          "category": "musique",
+          "published_at": "2026-03-27T04:03:47+00:00",
+          "summary": "Flea teams up with Nick Cave, Thom Yorke and others for his debut album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08340d0e3351",
+          "title": "Melanie Martinez Takes us to ‘HADES’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/melanie-martinez-hades-stream-it-now-1236208272/",
+          "category": "musique",
+          "published_at": "2026-03-27T04:01:55+00:00",
+          "summary": "Martinez returns with her fourth studio album, \"HADES,\" the songwriter and alternative pop artist's social commentary on today’s world.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9dd2e5e414ec",
+          "title": "Taylor Swift Wins Artist of the Year at 2026 iHeartRadio Music Awards, Admitting ‘I Didn’t Think I Was an Artist When I First Started’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/taylor-swift-2026-iheartradio-music-award-artist-of-the-year-1236208165/",
+          "category": "musique",
+          "published_at": "2026-03-27T02:20:37+00:00",
+          "summary": "Swift took home seven awards in total, also including Pop Album of the Year and Pop Song of the Year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8fbfdf5ef27",
+          "title": "Here Are the 2026 iHeartRadio Music Awards Winners: Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/2026-iheartradio-music-awards-winners-list/",
+          "category": "musique",
+          "published_at": "2026-03-27T02:00:00+00:00",
+          "summary": "Taylor Swift extends her record as the winningest artist in iHeart history, with 41 total prizes.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-03-26",
       "articles": [
