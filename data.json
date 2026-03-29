@@ -1,9 +1,174 @@
 {
-  "generated_at": "2026-03-28T09:59:20.054911+00:00",
+  "generated_at": "2026-03-29T10:02:16.468375+00:00",
   "days": [
+    {
+      "date": "2026-03-29",
+      "articles": [
+        {
+          "id": "a27a92c40253",
+          "title": "Weezer Play Acoustic Rooftop Set in Venice Beach Following Tour Announcement",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/weezer-rooftop-set-venice-beach-1236209386/",
+          "category": "ia",
+          "published_at": "2026-03-29T07:16:24+00:00",
+          "summary": "The rooftop performance was part of a broader run of Los Angeles-area activations the band dubbed \"Weezer: The Gathering – Initiation Week.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1baf882b6a89",
+          "title": "Le pire des deux mondes ou le moindre mal ? Pourquoi cette technologie divise les constructeurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2220887-phev-contre-erev-le-match-des-hybrides-qui-divisent-les-constructeurs.html",
+          "category": "ia",
+          "published_at": "2026-03-29T06:53:00+00:00",
+          "summary": "Entre hybride rechargeable et prolongateur d’autonomie, les constructeurs hésitent. Deux façons de ne pas lâcher complètement le thermique… mais laquelle s'imposera ? C'est la question abordée dans l'édito de la newsletter Watt Else du 26 mars 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e75e0ee9575",
+          "title": "Coup de génie de Google sur la RAM, la  propulsion nucléaire arrive & le reboot de Harry Potter – le récap’ de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2220577-coup-de-genie-de-google-sur-la-ram-pari-de-la-nasa-avec-la-propulsion-nucleaire-reboot-de-harry-potter-le-recap.html",
+          "category": "ia",
+          "published_at": "2026-03-29T05:01:00+00:00",
+          "summary": "Cette semaine était une semaine de grandes annonces : la NASA fait le pari de la propulsion nucléaire pour aller sur Mars, avec une mission attendue pour 2028. Google, de son côté, a développé un algorithme qui pourrait, in fine, régler la crise de la mémoire vive (RAM). Et puis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ded67972aeac",
+          "title": "Ye’s ‘Bully’ Album: All 18 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/kanye-west-bully-tracks-ranked-best-songs/",
+          "category": "musique",
+          "published_at": "2026-03-29T00:18:51+00:00",
+          "summary": "Yeezy season has returned.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-03-28",
       "articles": [
+        {
+          "id": "971ef62aaf82",
+          "title": "Ye Returns With ‘Father’ Video, Featuring Travis Scott and Directed by Bianca Censori",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kanye-west-father-video-bully-album-stream-1236209300/",
+          "category": "musique",
+          "published_at": "2026-03-28T23:31:23+00:00",
+          "summary": "The track is from Ye's just-released Bully album, streaming now.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c213439480f",
+          "title": "Watch Fred again.. & Thomas Bangalter’s Complete Set From London’s Alexandra Palace: ‘This Has Been the Greatest Show of My Life’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/fred-again-thomas-bangalter-daft-punk-ally-pally-stream-1236209268/",
+          "category": "justice",
+          "published_at": "2026-03-28T20:57:42+00:00",
+          "summary": "The historic February performance is now streaming on YouTube.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7046a3ef6ac",
+          "title": "Amazon Leo : suivez en direct le décollage de la fusée Atlas V",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2218367-vol-amazon-leo-suivez-le-decollage-de-la-fusee-atlas-v-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-03-28T17:31:00+00:00",
+          "summary": "Amazon poursuit le déploiement de Leo, sa constellation satellitaire pour apporter Internet par l'espace. Ce dimanche 29 mars 2026, la société assistera au décollage de sa neuvième mission, baptisée LA-05, à bord d'une fusée Atlas V mise à disposition par l'United Launch…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e863cfb85cca",
+          "title": "‘Saturday Night Live UK’: Where to Watch the British Version of the Sketch Comedy Show Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-uk-online-free-1236203547/",
+          "category": "musique",
+          "published_at": "2026-03-28T17:00:07+00:00",
+          "summary": "SNL UK has Jamie Dornan as host and Wolf Alice as musical guest.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4cc97dcf1654",
+          "title": "La nouvelle balise bluetooth Xiaomi tombe déjà en promo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2220445-la-nouvelle-balise-bluetooth-xiaomi-tombe-deja-en-promo.html",
+          "category": "ia",
+          "published_at": "2026-03-28T16:15:00+00:00",
+          "summary": "[Deal du jour] Xiaomi a récemment décidé de s'attaquer au segment des traceurs Bluetooth pour tenter de faire de l'ombre au fameux AirTag d'Apple. Son argument : un prix imbattable, encore plus lorsque ce dernier tombe en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e88d09ff86b",
+          "title": "Au fait, pourquoi les puzzles ont disparu de notre navigation ? Et vers où allons-nous ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2216015-au-fait-pourquoi-les-puzzles-ont-disparu-de-notre-navigation-et-vers-ou-allons-nous.html",
+          "category": "ia",
+          "published_at": "2026-03-28T16:02:00+00:00",
+          "summary": "Pendant des années, prouver qu'on était humain ressemblait à un examen de conduite : identifier des feux tricolores, reconnaître des bus ou des vélos sur des grilles pixelisées. Des petits rituels qui ont structuré une décennie entière de navigation. Puis ils ont disparu,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ace14b7415a1",
+          "title": "CA7RIEL & Paco Amoroso Bring ‘Free Spirits’ to Life at NYC Spotify Show & More Uplifting Moments in Latin Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/ca7riel-paco-amoroso-free-spirits-nyc-uplifting-moments-1236209160/",
+          "category": "musique",
+          "published_at": "2026-03-28T15:07:07+00:00",
+          "summary": "Plus, Karol G lives a full-circle moment, singing a duet with Alicia Keys on the same song she covered 16 years ago.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4d4e1cef856",
+          "title": "‘Amen’ Again: Shaboozey & Jelly Roll Earn a Rare Multi-Week No. 1 Collab",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/shaboozey-jelly-roll-multi-week-number-one-collab-1236208789/",
+          "category": "ia",
+          "published_at": "2026-03-28T15:00:13+00:00",
+          "summary": "The song tops Country Airplay for a second week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cfd811fd9f1",
+          "title": "Visible chaque nuit, cette étoile cachait un secret cosmique depuis 50 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2218289-visible-chaque-nuit-cette-etoile-cachait-un-secret-cosmique-depuis-50-ans.html",
+          "category": "ia",
+          "published_at": "2026-03-28T14:31:00+00:00",
+          "summary": "Découverte au début du XXe siècle, l’étoile Gamma Cassiopeiae a posé plusieurs énigmes aux astronomes. Si on comprend mieux aujourd’hui son fonctionnement, elle ouvre un pan insoupçonné du fonctionnement des astres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11a80235e3f3",
+          "title": "Maná Proves Why It’s Rock en Español Royalty During Miami Stop of Vivir Sin Aire Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/mana-vivir-sin-aire-tour-miami-concert-highlights-1236209164/",
+          "category": "ia",
+          "published_at": "2026-03-28T14:18:39+00:00",
+          "summary": "The Mexican group will wrap its extensive Vivir Sin Aire trek that kicked off in 2025 on Nov. 8 at the Moody Center in Austin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f89566f518cd",
+          "title": "On a trouvé les restes de funérailles celtiques, peut-être celles d’une reine oubliée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2218099-on-a-trouve-les-restes-de-funerailles-celtiques-peut-etre-celles-dune-reine-oubliee.html",
+          "category": "ia",
+          "published_at": "2026-03-28T13:02:00+00:00",
+          "summary": "Des objets datant de l'âge du Fer ont été retrouvés au Royaume-Uni et auraient servi lors de funérailles. Parmi les pistes envisagées, il y a celle d''une puissante reine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d84b6dd8e04",
+          "title": "Project Hail Mary, Star Wars… l’intense obsession de Ryan Gosling pour l’espace",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2220907-project-hail-mary-star-wars-lintense-obsession-de-ryan-gosling-pour-lespace.html",
+          "category": "ia",
+          "published_at": "2026-03-28T10:59:37+00:00",
+          "summary": "Avec la sortie en salles de Projet Dernière Chance, une tendance se confirme : Ryan Gosling a de plus en plus de mal à garder les pieds sur Terre. De First Man à Star Wars, l'acteur canadien adore les films dans l'espace. Et entend bien en faire encore. Un futur projet pourrait…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "6727b18ee86e",
           "title": "On sait ce qui a causé l’atterrissage forcé de l’avion supersonique x-59",
