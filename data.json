@@ -1,9 +1,594 @@
 {
-  "generated_at": "2026-03-30T11:40:38.966394+00:00",
+  "generated_at": "2026-03-31T11:16:08.801454+00:00",
   "days": [
+    {
+      "date": "2026-03-31",
+      "articles": [
+        {
+          "id": "59b37c90e2a1",
+          "title": "Données post mortem : publication du cahier air2025 sur l’éthique des traces numériques",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/cahier-air2025",
+          "category": "ia",
+          "published_at": "2026-03-31T12:00:00+00:00",
+          "summary": "Dans le cadre de sa mission éthique, la CNIL publie son cahier air2025 à la suite du colloque du 15 octobre 2025 sur le thème des données post mortem, organisé en partenariat avec la Bibliothèque nationale de France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "045fbb255480",
+          "title": "Collabhouse Go is an ‘essential toolkit’ for independent artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/03/31/collabhouse-go-is-an-essential-toolkit-for-independent-artists/",
+          "category": "musique",
+          "published_at": "2026-03-31T11:14:53+00:00",
+          "summary": "More than 200,000 artists have used Collabhouse&#8217;s collaboration and promotional tools over the years. Now it’s entering its next phase.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a775cca2516d",
+          "title": "About those web3-metaverse land-plots that were so hot in 2022…",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/03/31/about-those-web3-metaverse-land-plots-that-were-so-hot-in-2022/",
+          "category": "musique",
+          "published_at": "2026-03-31T11:08:47+00:00",
+          "summary": "Remember the heyday of web3 metaverses? When Snoop Dogg was building a mansion in virtual world The Sandbox, followed by Warner Music Group?\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2d7d15d31f7",
+          "title": "SoundCloud to help artists drop exclusive tracks for superfans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/03/31/soundcloud-to-help-artists-drop-exclusive-tracks-for-superfans/",
+          "category": "musique",
+          "published_at": "2026-03-31T11:04:47+00:00",
+          "summary": "“In an age of ubiquity where everybody can have everything, people want the things that other people can’t have. They want the scarcity&#8230;”\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1d8f4d346d4",
+          "title": "Cardi B wins dismissal of copyright lawsuit over ‘Enough (Miami)’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/cardi-b-wins-dismissal-of-copyright-lawsuit-over-enough-miami/",
+          "category": "ia",
+          "published_at": "2026-03-31T10:58:47+00:00",
+          "summary": "A Texas judge found that the plaintiffs sued in the wrong place, and that the plaintiffs didn't have a copyright registered for their song when they filed the case. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2df948a80b4",
+          "title": "Pour le directeur de la publication de Baldur’s Gate 3, Crimson Desert est un gloubi-boulga",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2222363-pour-le-directeur-de-la-publication-de-baldurs-gate-3-crimson-desert-est-un-gloubi-boulga.html",
+          "category": "institutionnel",
+          "published_at": "2026-03-31T10:30:00+00:00",
+          "summary": "Directeur de la publication au sein de Larian Studios (Baldur's Gate 3), Michael Douse a donné son avis sur Crimson Desert, en tant que joueur. S'il trouve le titre fun, il n'y voit qu'un « amalgame cynique ».",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99b406400bc6",
+          "title": "Départ d’Artémis II vers la Lune : pourra-t-on voir la mission de la Nasa dans le ciel ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2222267-depart-dartemis-ii-vers-la-lune-pourra-t-on-voir-la-mission-de-la-nasa-dans-le-ciel.html",
+          "category": "institutionnel",
+          "published_at": "2026-03-31T10:29:21+00:00",
+          "summary": "La Nasa prévoit le décollage de sa mission Artémis II dans la nuit du 1er au 2 avril 2026. Direction la Lune, pour cet équipage de 4 astronautes. Pendant leur périple, pourrons-nous les observer dans le ciel, à l'œil nu, aux jumelles ou au télescope ? Et comment faire ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48b1f281fdf1",
+          "title": "Sarah Rothschild appointed SVP of Strategic Finance and Investor Relations for VENU Holding",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sarah-rothschild-appointed-svp-of-strategic-finance-and-investor-relations-for-venu-holding/",
+          "category": "ia",
+          "published_at": "2026-03-31T10:27:20+00:00",
+          "summary": "Rothschild previously held roles across the MSG Entertainment and at PricewaterhouseCoopers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "245f0caf8f58",
+          "title": "Entre collecte et pubs ajoutées par Copilot dans le code, GitHub agace ses utilisateurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/231533/entre-collecte-et-pubs-ajoutees-par-copilot-dans-le-code-github-agace-ses-utilisateurs/",
+          "category": "ia",
+          "published_at": "2026-03-31T10:08:24+00:00",
+          "summary": "GitHub a désactivé en urgence une fonctionnalité qui permettait l&#8217;insertion, par Copilot, de «&#160;conseils&#160;» dans les pull requests des utilisateurs. Quelques jours plus tôt, la plateforme avait annoncé l&#8217;extension de l&#8217;utilisation faite des données des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59e6a68d737c",
+          "title": "Free Max avec 5G illimité : est-ce que vous en auriez vraiment l’utilité ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2222213-free-max-avec-5g-illimite-mais-au-fait-est-ce-que-vous-en-auriez-vraiment-lutilite.html",
+          "category": "ia",
+          "published_at": "2026-03-31T09:52:59+00:00",
+          "summary": "De la 5G en illimité en France et dans 137 pays. Voilà l'atout du nouveau forfait Free Max annoncé ce 31 mars 2026 par Free Mobile. Une enveloppe sans plafond. Mais est-ce que les Françaises et les Français ont besoin que l'on ouvre les vannes à ce point ? Voilà ce que l'on peut…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a88a27ef7734",
+          "title": "Artémis II : toutes les dates possibles pour le grand retour autour de la Lune en avril",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2173313-artemis-ii-toutes-les-dates-possibles-pour-le-prochain-lancement-vers-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-03-31T09:47:38+00:00",
+          "summary": "Nous n'avons jamais été aussi proches du départ d'Artemis II. Après un premier report à la suite d'un incident technique, la fusée SLS s'apprête à décoller et pourrait bien percer les cieux afin de ramener l'humanité autour de la Lune dès la nuit du 1er avril 2026. Voici à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc5afe421caa",
+          "title": "Plus de 50 ans après Apollo, voici les 4 astronautes qui feront le tour de la Lune en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1326144-voici-les-4-astronautes-qui-feront-le-tour-de-la-lune-en-2026.html",
+          "category": "institutionnel",
+          "published_at": "2026-03-31T09:45:40+00:00",
+          "summary": "Ce sont les quatre astronautes qui voleront autour de la Lune en 2026 avec la mission Artémis II.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88c29e7abbbe",
+          "title": "Lancement d’Artémis II vers la Lune : la Nasa fait face à une tempête solaire inattendue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2222253-lancement-dartemis-ii-vers-la-lune-la-nasa-fait-face-a-une-tempete-solaire-inattendue.html",
+          "category": "ia",
+          "published_at": "2026-03-31T09:40:35+00:00",
+          "summary": "Une éruption solaire a été détectée dans la nuit du dimanche 29 au lundi 30 mars 2026, associée à un flux de particules qui se dirige vers la Terre. Ce, à quelques jours à peine du lancement d'Artémis II vers la Lune. Mais selon la Nasa, il n'y aurait pas de risque pour la fusée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c81d3acce9ce",
+          "title": "Toutes les IA échouent à ce test d’humanité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2222071-toutes-les-ia-echouent-a-ce-test-dhumanite.html",
+          "category": "ia",
+          "published_at": "2026-03-31T09:27:51+00:00",
+          "summary": "Le 27 mars 2026, une nouvelle version du benchmark ARC-AGI a été rendue publique. Baptisé ARC-AGI-3, ce test évalue des systèmes d’IA dits « agentiques », capables d’agir et d’apprendre dans des environnements interactifs. Malgré leurs performances impressionnantes ailleurs, les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "64e9da34fd0e",
+          "title": "‘American Idol’ Elimination Postponed After Record Voter Turnout",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/american-idol-elimination-postponed-record-voter-turnout-1236211054/",
+          "category": "musique",
+          "published_at": "2026-03-31T09:26:29+00:00",
+          "summary": "The unprecedented development occurred after a high volume of viewer votes flooded in during the Top 14's live performances.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a23f3799e436",
+          "title": "Ce SSD Seagate 1 To pour la PS5 est encore trouvable à un prix abordable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2222283-ce-ssd-seagate-1-to-pour-la-ps5-est-encore-trouvable-a-un-prix-abordable.html",
+          "category": "ia",
+          "published_at": "2026-03-31T09:25:47+00:00",
+          "summary": "[Deal du jour] Si vous souhaitez augmenter le stockage de votre PS5, il est encore possible de trouver des modèles qui ne sont pas impactés par les hausses des prix, comme ce SSD de Seagate de 1 To.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bd4fe5c1ec8",
+          "title": "L’Arcom répond à Trump sur le DSA et les soi-disant atteintes à la liberté d’expression",
+          "source": "Next INpact",
+          "url": "https://next.ink/231444/larcom-repond-a-trump-sur-le-dsa-et-les-soi-disant-atteintes-a-la-liberte-dexpression/",
+          "category": "ia",
+          "published_at": "2026-03-31T09:20:00+00:00",
+          "summary": "Dans son bilan 2026 consacré à la « Lutte contre la manipulation de l’information sur les plateformes en ligne », l&#8217;Arcom décrypte ce pourquoi le règlement sur les services numériques, ou DSA, créé pour lutter contre les contenus illicites, a aussi été pensé pour empêcher…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f61835374462",
+          "title": "Google Maps va faire trembler les applis de planification d’itinéraire comme Chargemap et ABRP",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2222093-google-maps-va-faire-trembler-les-applis-de-planification-ditineraire-comme-chargemap-et-abrp.html",
+          "category": "ia",
+          "published_at": "2026-03-31T08:49:36+00:00",
+          "summary": "Google a annoncé une mise à jour majeure de Maps, qui permettra à plus de 350 modèles compatibles de planifier un itinéraire avec Android Auto. Un coup de massue pour les applications comme Chargemap ou ABRP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99fcefb172ae",
+          "title": "Piratage Axios sur npm : 2 versions malveillantes glissées en pleine nuit diffusent un malware",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2222059-piratage-axios-sur-npm-2-versions-malveillantes-glissees-en-pleine-nuit-diffusent-un-malware.html",
+          "category": "ia",
+          "published_at": "2026-03-31T08:39:59+00:00",
+          "summary": "Dans la nuit du 30 au 31 mars 2026, deux versions piégées d'Axios ont été publiées sur npm, la plateforme de distribution de code la plus utilisée au monde par les développeurs. Derrière l'attaque, un compte développeur volé, un logiciel espion capable d'infecter Windows, macOS…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdc6624d5af5",
+          "title": "Free Max à 29,99 € par mois, sans engagement : Internet illimité dans plus de 135 pays",
+          "source": "Next INpact",
+          "url": "https://next.ink/231548/free-max-a-2999-e-par-mois-sans-engagement-internet-illimite-dans-plus-de-135-pays/",
+          "category": "ia",
+          "published_at": "2026-03-31T08:33:58+00:00",
+          "summary": "Un nouveau forfait Free Max à 29,99 euros par mois permet de profiter d’un accès à Internet illimité dans pas moins de 135 pays. Il propose aussi des appels vers les mobiles en Europe et reprend ensuite les options du forfaits Free 5G+ à 19,99 euros par mois. Free tenait ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe2bcb9db3d5",
+          "title": "Nuages, vents et tempête solaire : la Nasa sur le qui-vive pour le lancement d’Artémis 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2222087-nuages-vents-et-tempete-solaire-la-nasa-sur-le-qui-vive-pour-le-lancement-dartemis-2.html",
+          "category": "institutionnel",
+          "published_at": "2026-03-31T08:30:50+00:00",
+          "summary": "Le grand jour s'approche pour la mission Artémis II. C'est en principe dans la nuit du 1er au 2 avril 2026 que doit décoller la fusée SLS, avec à bord de la capsule Orion quatre astronautes. Pour l'instant, la Nasa juge les conditions météorologiques très favorables pour un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e324314e6dd",
+          "title": "☕️ Poussé par son créateur, un agent d’IA banni de Wikipédia se plaint sur son blog",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/pousse-par-son-createur-un-agent-dia-banni-de-wikipedia-se-plaint-sur-son-blog/",
+          "category": "ia",
+          "published_at": "2026-03-31T08:26:44+00:00",
+          "summary": "Après l’agent d’IA codeur qui adopte une rhétorique proche du harcèlement, l’agent d’IA qui voulait écrire des fiches Wikipédia.  Alors que la version anglophone de l’encyclopédie partagée annonçait il y a quelques jours refuser les contributions «&#160;générées ou…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a83a77e0c5c",
+          "title": "Même la voix anglaise de Kliff n’a rien compris au doublage de Crimson Desert",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2222061-meme-la-voix-anglaise-de-kliff-na-rien-compris-au-doublage-de-crimson-desert.html",
+          "category": "ia",
+          "published_at": "2026-03-31T08:23:41+00:00",
+          "summary": "Le comédien qui a prêté sa voix au héros Kliff revient sur l'expérience pour le moins chaotique du doublage du personnage principal de Crimson Desert.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f9eae345d6f",
+          "title": "Quand sort la saison 3 d’Euphoria sur HBO Max ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1659296-quand-sort-la-saison-3-deuphoria-sur-hbo-max.html",
+          "category": "ia",
+          "published_at": "2026-03-31T08:20:31+00:00",
+          "summary": "La saison 3 d'Euphoria va très bientôt débarquer sur HBO Max. Date de sortie, bande-annonce, casting... Voici tout ce que l'on sait sur cette suite très attendue, qui accueillera notamment la chanteuse Rosalía et l'actrice Sharon Stone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f45fe72b7533",
+          "title": "Euphoria : le deuxième trailer de la saison 3 est là, et il est bouleversant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2222075-euphoria-le-deuxieme-trailer-de-la-saison-3-est-la-et-il-est-bouleversant.html",
+          "category": "ia",
+          "published_at": "2026-03-31T08:16:25+00:00",
+          "summary": "L'attente touche à sa fin, mais elle s'accompagne d'une émotion indescriptible. HBO vient de dévoiler la deuxième bande-annonce officielle de la saison 3 d'Euphoria, dont la sortie est prévue pour le 12 avril 2026. Si les premières images promettent une saison plus sombre que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "475487348ad8",
+          "title": "Un bug critique de Crimson Desert a été corrigé en urgence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2222057-un-bug-critique-de-crimson-desert-a-ete-corrige-en-urgence.html",
+          "category": "ia",
+          "published_at": "2026-03-31T07:40:12+00:00",
+          "summary": "Les développeurs de Crimson Desert n'ont vraiment pas le temps de dire ouf. Alors qu'ils ont encore déployé un gros patch durant le dernier week-end de mars 2026, ils viennent de publier une mise à jour corrigeant un bug critique et lié aux boss.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8798a539e0e3",
+          "title": "Free Mobile dévoile Free Max, son nouveau forfait ultra haut de gamme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2221731-free-mobile-annonces-31-mars-2026.html",
+          "category": "ia",
+          "published_at": "2026-03-31T07:33:13+00:00",
+          "summary": "Free a organisé une conférence de presse le 31 mars 2026 dédiée à Free Mobile. L'opérateur a promis une « nouvelle révolution mobile » et laissé entendre sur les réseaux sociaux une annonce sur le voyage. On a désormais notre réponse : un nouveau forfait Free Max avec data…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7a509645f76",
+          "title": "« Le décompte commence » : voilà minute par minute ce qui attend les astronautes avant le décollage d’Artémis II vers la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2219613-voila-minute-par-minute-ce-qui-se-passera-pour-la-mission-artemis-ii-avant-son-decollage-vers-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-03-31T07:18:42+00:00",
+          "summary": "Tout est calé pour le jour J. La mission Artémis II doit décoller dans la nuit du 1ᵉʳ au 2 avril 2026. L'agence spatiale américaine a partagé le déroulement des deux derniers jours qui surviendront avant le moment très attendu : l'allumage des moteurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52414c35c71f",
+          "title": "2G : c’est le début de la fin chez Orange, il reste encore 2,41 millions de SIM en circulation",
+          "source": "Next INpact",
+          "url": "https://next.ink/231521/2g-cest-le-debut-de-la-fin-chez-orange-il-reste-encore-241-millions-de-sim-en-circulation/",
+          "category": "ia",
+          "published_at": "2026-03-31T06:43:53+00:00",
+          "summary": "C’est le jour J : Orange commence à éteindre sa 2G en France métropolitaine. Un changement majeur qui va se dérouler sur toute l’année chez tous les opérateurs. L’Arcep fait les comptes : il reste encore 2,41 millions de SIM en circulation, qui représentent moins de 1 % du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3dbe9337418f",
+          "title": "Amyl and the Sniffers’ Amy Taylor Wins Major Court Victory in Photographer Copyright Dispute",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/amyl-and-the-sniffers-amy-taylor-jamie-nelson-copyright-dispute-1236211051/",
+          "category": "ia",
+          "published_at": "2026-03-31T05:44:34+00:00",
+          "summary": "Judge George Wu warned the photographer that \"things are only going to get worse\" if the matter proceeds to trial.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60f76c26d4dd",
+          "title": "U.S. Army Investigates Apache Helicopter Flyby at Kid Rock’s Nashville Home",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/us-army-investigates-apache-helicopter-kid-rock-1236211005/",
+          "category": "ia",
+          "published_at": "2026-03-31T03:55:18+00:00",
+          "summary": "Kid Rock has maintained a close relationship with Trump throughout his political career.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3328204d866a",
+          "title": "RM Expresses ‘Luv and Gratitude’ as BTS Tops the Billboard 200 & Hot 100 Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/rm-bts-number-one-billboard-200-hot-100-charts-instagram-1236210711/",
+          "category": "musique",
+          "published_at": "2026-03-31T00:11:56+00:00",
+          "summary": "The band's new album ARIRANG and lead single \"SWIM\" debuted at No. 1 on the respective charts.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-03-30",
       "articles": [
+        {
+          "id": "c0153675ef72",
+          "title": "Cardi B Defeats ‘Enough (Miami)’ Song Copying Lawsuit: ‘No Factual Support’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/cardi-b-beats-lawsuit-enough-miami-copied-song/",
+          "category": "ia",
+          "published_at": "2026-03-30T23:28:29+00:00",
+          "summary": "A federal judge threw out litigation over the 2024 hit single, which Cardi has been performing on her ongoing Little Miss Drama Tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9320b3759b42",
+          "title": "Megan Thee Stallion & Daniel Radcliffe Continue Flirting in ‘The Fall & Rise of Reggie Dinkins’: ‘I Got Keys to A Lot of Package Rooms’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/megan-thee-stallion-daniel-radcliffe-fall-rise-reggie-dinkins-1236210458/",
+          "category": "ia",
+          "published_at": "2026-03-30T22:14:03+00:00",
+          "summary": "Another new episode airs on NBC at 8:30 p.m. ET Monday night (March 30).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "469185faebf4",
+          "title": "Our Picks for The Best On-Ear Headphones 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-on-ear-headphones-2026-1236201877/",
+          "category": "musique",
+          "published_at": "2026-03-30T21:55:54+00:00",
+          "summary": "ShopBillboard's ecommerce writer Amina Ayoud tested on-ear headphones to find the best of the best.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "69f72ed8c0ac",
+          "title": "MTV Lawsuit Over Nick Cannon’s New Rap Battle Show Can Move Ahead, Judge Says",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/mtv-lawsuit-nick-cannon-rap-battle-show-move-ahead-judge/",
+          "category": "ia",
+          "published_at": "2026-03-30T21:38:45+00:00",
+          "summary": "The case claims Bad vs. Wild, released by streamer Zeus Network, is illegally \"cosplaying\" as the successor to Cannon's longtime celebrity guest show.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a04f9fbdb359",
+          "title": "Suno launches v5.5 AI model with voice cloning tool: ‘The best music starts with a human.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-launches-v5-5-ai-model-with-voice-capture-and-personalization-features/",
+          "category": "musique",
+          "published_at": "2026-03-30T20:57:26+00:00",
+          "summary": "The voice capture feature lets users record or upload audio of themselves singing and incorporating that vocal identity into tracks generated by Suno.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e89b31a84a1d",
+          "title": "Germany’s GEMA paid out $1.3B to rightsholders in 2025, up 1.4% YoY",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/germanys-gema-distributed-1-3b-to-rightsholders-in-2025-up-1-4-yoy/",
+          "category": "ia",
+          "published_at": "2026-03-30T20:37:09+00:00",
+          "summary": "The German collection society described the results as \"excellent,\" but total revenues grew less than 1%\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c6d30a50b5e",
+          "title": "SpaceX vient de lancer 119 satellites d’un coup et ce n’est même pas un record",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2221561-spacex-vient-de-lancer-119-satellites-dun-coup-et-ce-nest-meme-pas-un-record.html",
+          "category": "ia",
+          "published_at": "2026-03-30T19:55:31+00:00",
+          "summary": "SpaceX a procédé à un vol partagé ce lundi 30 mars 2026. À bord d'une fusée Falcon 9 se trouvaient 119 charges utiles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "971cc15506ae",
+          "title": "‘We must continue evolving how K-pop is made.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/we-must-continue-evolving-how-k-pop-is-made1/",
+          "category": "musique",
+          "published_at": "2026-03-30T19:00:42+00:00",
+          "summary": "With concert revenues up 53% in Q4 2025, a new boy group set for 2026, and plans to ramp up acquisitions, SM Entertainment is betting big on its next chapter. In this exclusive interview, Co-CEOs Daniel Jang and Dmitry YJ Tak take us inside a K-pop powerhouse...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a44afca1caa8",
+          "title": "Taylor Swift sued for alleged trademark infringement over ‘The Life of a Showgirl’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swift-sued-for-alleged-trademark-infringement-over-the-life-of-a-showgirl/",
+          "category": "ia",
+          "published_at": "2026-03-30T18:10:37+00:00",
+          "summary": "Complaint filed in California on Monday, March 30\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "861431281b2f",
+          "title": "« Risque de sécurité réel » : les États-Unis sur le point d’interdire les robots humanoïdes chinois ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2221769-risque-de-securite-reel-les-etats-unis-sur-le-point-dinterdire-les-robots-humanoides-chinois.html",
+          "category": "loi",
+          "published_at": "2026-03-30T16:30:17+00:00",
+          "summary": "Le 26 mars 2026, des sénateurs américains ont présenté un projet de loi visant à interdire l’usage de robots chinois par le gouvernement fédéral. En toile de fond : des inquiétudes croissantes liées à la sécurité nationale, à l’espionnage et à la montée en puissance de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c06342b5c92a",
+          "title": "Coup dur pour la série Tomb Raider avec Sophie Turner",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2221795-coup-dur-pour-la-serie-tomb-raider-avec-sophie-turner.html",
+          "category": "justice",
+          "published_at": "2026-03-30T16:19:13+00:00",
+          "summary": "Alors que les fans attendaient avec impatience de découvrir les premières images de Sophie Turner sous les traits de l'iconique Lara Croft, la production de la série&nbsp;Tomb Raider&nbsp;vient de subir un arrêt brutal. Coup dur pour la suite ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e81fe7f649e",
+          "title": "Bird of Prey : le nouveau drone intercepteur d’Airbus prend son envol (vidéo)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2221735-bird-of-prey-le-nouveau-drone-intercepteur-dairbus-prend-son-envol-video.html",
+          "category": "ia",
+          "published_at": "2026-03-30T15:58:10+00:00",
+          "summary": "Airbus a annoncé le 30 mars 2026 le premier vol opérationnel du drone intercepteur Bird of Prey. Ce système autonome, développé en neuf mois, neutralise les drones kamikazes grâce à des missiles légers Mark I.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cae0e7d213cf",
+          "title": "« Améliorer l’expérience de conduite » : le futur Tesla Roadster embarquera un système de direction totalement inédit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2221685-ameliorer-lexperience-de-conduite-le-futur-tesla-roadster-embarquera-un-systeme-de-direction-totalement-inedit.html",
+          "category": "ia",
+          "published_at": "2026-03-30T15:53:00+00:00",
+          "summary": "Tesla vient de lever le voile sur un brevet révolutionnant l'architecture de ses systèmes de direction. Cette innovation technique promet de doubler l'amplitude de rotation tout en optimisant le contrôle numérique du véhicule.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee3d17145795",
+          "title": "Mistral réunit 722 millions d’euros pour financer l’achat de 13 800 GPU NVIDIA",
+          "source": "Next INpact",
+          "url": "https://next.ink/231420/mistral-reunit-722-millions-deuros-pour-financer-lachat-de-13-800-gpu-nvidia/",
+          "category": "ia",
+          "published_at": "2026-03-30T15:21:00+00:00",
+          "summary": "Mistral annonce avoir finalisé l&#8217;emprunt de 830 millions de dollars qui doit lui permettre de financer les GPU destinés à son datacenter de Bruyères-le-Châtel, au sud de Paris. Cette somme amenée par un pool bancaire, servira à acheter 13 800 puces GB300 à NVIDIA, et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a325399ecbb",
+          "title": "☕️ États-Unis : une femme emprisonnée 5 mois sur la foi d’une reconnaissance faciale erronée",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/etats-unis-une-femme-emprisonnee-5-mois-sur-la-foi-dune-reconnaissance-faciale-erronee/",
+          "category": "ia",
+          "published_at": "2026-03-30T15:10:03+00:00",
+          "summary": "Cinq mois de prison pour un crime commis dans un état dans lequel elle n’est jamais allée : c’est l’erreur judiciaire dont Angela Lipps, 50 ans, affirme avoir été victime.  Arrêtée le 14 juin dans sa maison d’Elizabethton, dans l’état du Tennessee, cette mère et grand-mère de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef4b018896f3",
+          "title": "Ezekiel Lewis named Chairman and CEO of Epic Records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ezekiel-lewis-named-chairman-and-ceo-of-epic-records/",
+          "category": "ia",
+          "published_at": "2026-03-30T15:09:37+00:00",
+          "summary": "Lewis joined Epic Records in 2018 as Executive Vice President, A&#038;R\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbcb85a49b72",
+          "title": "La CNC écarte la streameuse Ultia d’une de ses commissions après une polémique née sur X",
+          "source": "Next INpact",
+          "url": "https://next.ink/231436/la-cnc-ecarte-la-streameuse-ultia-dune-de-ses-commissions-apres-une-polemique-nee-sur-x/",
+          "category": "ia",
+          "published_at": "2026-03-30T14:40:08+00:00",
+          "summary": "Après avoir détaillé sur Twitch le positionnement qu’elle comptait prendre au sein de la commission CNC Talent, la streameuse Ultia s’est vue suspendue du jury dédié à allouer des financements à divers projets numériques. Ses propos ont notamment gagné en viralité sous l’effet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e93305e22718",
+          "title": "Détentions d’armes : un pirate exfiltre des données du SIA (ministère de l’Intérieur)",
+          "source": "Next INpact",
+          "url": "https://next.ink/231423/detentions-darmes-un-pirate-exfiltre-des-donnees-du-sia-ministere-de-linterieur/",
+          "category": "ia",
+          "published_at": "2026-03-30T13:10:23+00:00",
+          "summary": "Après des revendications la semaine dernière, c’est désormais officiel : un pirate a récupéré des données du système d&#8217;information sur les armes du ministère de l’Intérieur. En plus du type d’arme, il dispose aussi de l’adresse des propriétaires. Le système…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c375bd5c150b",
+          "title": "Tech firm FiEE says it will spend $3m to expand into AI music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/03/30/tech-firm-fiee-says-it-will-spend-3m-to-expand-into-ai-music/",
+          "category": "musique",
+          "published_at": "2026-03-30T12:50:00+00:00",
+          "summary": "The debate about whether AI-generated music is unfairly sluicing royalties away from human artists and songwriters is in full swing. But where there’s money, there’ll be more companies looking to take a share of it. FiEE is the latest, announcing plans to invest around $3m to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c687be38e9d",
+          "title": "Argos sees social spike from Kurupt FM-soundtracked campaign",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/03/30/argos-sees-social-spike-from-kurupt-fm-soundtracked-campaign/",
+          "category": "ia",
+          "published_at": "2026-03-30T12:50:00+00:00",
+          "summary": "UK retailer Argos may not seem like it has an obvious link to rave culture. However, its social-media ‘Stockroom’ campaign late last year was an amusing take on Boiler Room-style DJ sets. Stats now suggest that it performed well. The retailer worked with agency Billion Dollar…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "680f52119e9c",
+          "title": "UMG hits back at Drake’s appeal in ‘Not Like Us’ lawsuit",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/03/30/umg-hits-back-at-drakes-appeal-in-not-like-us-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-03-30T12:45:00+00:00",
+          "summary": "Drake’s lawsuit against Universal Music Group over Kendrick Lamar’s diss-track ‘Not Like Us’ was dismissed by a judge in October 2025, but he launched an appeal against the decision in January. Drake’s attorneys argued that the ruling “created a dangerous categorical rule that…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "873c8be4aea4",
+          "title": "Music-merch survey: ‘Younger fans want more than a t-shirt’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/03/30/music-merch-survey-younger-fans-want-more-than-a-t-shirt/",
+          "category": "ia",
+          "published_at": "2026-03-30T12:45:00+00:00",
+          "summary": "Midia Research has been quizzing 1,000 US music-merch buyers about their habits, with some encouraging findings for artists and their teams – but also some warnings. “Younger fans want more than a t-shirt,” is one of the lessons, with Midia noting that 16-24 year-olds are…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "42142fa19be5",
+          "title": "Major labels to challenge recent copyright-termination ruling",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/03/30/major-labels-to-challenge-recent-copyright-termination-ruling/",
+          "category": "musique",
+          "published_at": "2026-03-30T12:30:00+00:00",
+          "summary": "In January we reported on a significant ruling by a US federal appeals court that seemed to pave the way for songwriters to terminate copyright deals and regain their rights globally, not just in the US. The ruling followed a court case involving 1963 song ‘Double Shot (Of My…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37496b469258",
+          "title": "Publishers acquire stake in rock song at center of landmark termination rights case as they plan to pursue Supreme Court challenge",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/publishers-acquire-stake-in-rock-song-at-center-of-landmark-termination-rights-case-as-they-plan-to-pursue-supreme-court-challenge/",
+          "category": "ia",
+          "published_at": "2026-03-30T12:14:16+00:00",
+          "summary": "The publishers said they acquired Robert Resnik's stake as they seek to ask the Supreme Court to review the Fifth Circuit's January ruling. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7053f7e4df0d",
+          "title": "Opération Cactus 2026 : renforcer durablement la sensibilisation de la communauté éducative aux cybermenaces",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/operation-cactus-2026",
+          "category": "ia",
+          "published_at": "2026-03-30T12:00:00+00:00",
+          "summary": "Le ministère de l’Éducation nationale a conduit une opération nationale de prévention de grande ampleur reposant sur une simulation d’hameçonnage.&amp;nbsp;Cette initiative vise à renforcer la vigilance et la responsabilisation de l’ensemble de la communauté éducative face à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae224dee656e",
+          "title": "UMG fires back at Drake appeal over ‘Not Like Us’ case dismissal: 3 takeaways from response brief",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-fires-back-at-drake-appeal-over-not-like-us-lawsuit-dismissal-3-takeaways-from-response-brief/",
+          "category": "ia",
+          "published_at": "2026-03-30T11:40:30+00:00",
+          "summary": "UMG says Drake used AI-generated voices of Snoop Dogg and the late Tupac Shakur “to goad Lamar into responding to his diss tracks.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "8a781ed625d4",
           "title": "Les capteurs quantiques avec une « précision extrême » prennent leurs aises",
