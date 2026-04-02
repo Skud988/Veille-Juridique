@@ -1,9 +1,604 @@
 {
-  "generated_at": "2026-04-01T11:33:17.052984+00:00",
+  "generated_at": "2026-04-02T11:13:57.194682+00:00",
   "days": [
+    {
+      "date": "2026-04-02",
+      "articles": [
+        {
+          "id": "57aa110f7a03",
+          "title": "Gestion des ressources humaines : la CNIL publie un référentiel de durées de conservation",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/referentiel-durees-conservation-donnees-rh",
+          "category": "ia",
+          "published_at": "2026-04-02T12:00:00+00:00",
+          "summary": "La CNIL publie un référentiel pour aider les responsables de traitement à identifier les durées de conservation pour leurs activités de gestion du personnel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82eea118ce39",
+          "title": "SeatGeek launches ChatGPT integration, bringing ticket listings to OpenAI’s chatbot",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/seatgeek-launches-chatgpt-integration-bringing-ticket-listings-to-openais-chatbot/",
+          "category": "ia",
+          "published_at": "2026-04-02T10:45:29+00:00",
+          "summary": "The ticketing platform says it's the first to bring both primary and resale inventory into OpenAI's chatbot.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66d1e7a67481",
+          "title": "SpaceX : vers une introduction en bourse en juin, pour un montant stratosphérique",
+          "source": "Next INpact",
+          "url": "https://next.ink/232080/spacex-vers-une-introduction-en-bourse-en-juin-pour-un-montant-stratospherique/",
+          "category": "ia",
+          "published_at": "2026-04-02T10:35:01+00:00",
+          "summary": "SpaceX a déposé les documents préliminaires nécessaires auprès de la SEC, mais elle a choisi pour l&#8217;instant d&#8217;en garder les principales dispositions confidentielles. L’entreprise viserait une levée de fonds de l&#8217;ordre de 75 milliards de dollars, un montant sans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "984b54b7c071",
+          "title": "Tones And I, FISHER Join Forces And Do Us a ‘Favour’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/tones-and-i-fisher-favour-stream-it-now-1236213140/",
+          "category": "ia",
+          "published_at": "2026-04-02T10:32:32+00:00",
+          "summary": "“Favour” unites the Aussie pair for the first time.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f89312dc82e9",
+          "title": "Artémis II en direct : comment voir la capsule Orion de la Nasa dans l’espace 24h/24",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224837-artemis-ii-en-direct-comment-voir-la-capsule-orion-de-la-nasa-dans-lespace-24h-24.html",
+          "category": "ia",
+          "published_at": "2026-04-02T10:30:23+00:00",
+          "summary": "Pendant les 10 jours du voyage spatial d'Artémis II, la Nasa vous permet de voir en temps réel la capsule Orion. À l'intérieur, 4 astronautes : ils sont les premiers à s'aventurer autour de la Lune au 21e siècle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ae50fc0f195",
+          "title": "Le bureau américain des brevets révoque le brevet controversé de Nintendo sur les combats de Pokémon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2224605-le-bureau-americain-des-brevets-revoque-le-brevet-controverse-de-nintendo-sur-les-combats-de-pokemon.html",
+          "category": "ia",
+          "published_at": "2026-04-02T10:11:00+00:00",
+          "summary": "Nintendo avait déposé et validé, en septembre 2025, un brevet couvrant la mécanique d'invocation d'un compagnon pouvant se battre à la place des joueuses et des joueurs. Un brevet que l'Office américain des brevets et des marques (USPTO) vient de révoquer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37e167d5dd49",
+          "title": "Les meilleurs écouteurs premium d’Apple passent à moins de 200 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2224861-les-meilleurs-ecouteurs-premium-dapple-passent-a-moins-de-200-e.html",
+          "category": "ia",
+          "published_at": "2026-04-02T10:04:34+00:00",
+          "summary": "[Deal du jour] Les AirPods Pro 3 sont bel et bien les meilleurs écouteurs du fabricant, et quand leur prix baisse de 50 €, c'est encore mieux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f098da41c4bf",
+          "title": "À 36 000 km de la Terre, l’incroyable course d’Artémis II dans le ciel, capturée par les satellites",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224735-a-36-000-km-de-la-terre-lincroyable-course-dartemis-ii-dans-le-ciel-capturee-par-les-satellites.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-02T10:04:18+00:00",
+          "summary": "La fusée SLS a décollé dans la nuit du 1er au 2 avril 2026 pour lancer la mission historique Artémis II. Si les objectifs des photographes l'ont mitraillée depuis le sol, le point de vue le plus vertigineux nous vient de l'espace. À près de 36 000 km de distance, un satellite…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c5befe1a06e",
+          "title": "Avatar 4 et 5 : la productrice rassure les fans pour la suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2224791-avatar-4-et-5-la-productrice-rassure-les-fans-pour-la-suite.html",
+          "category": "justice",
+          "published_at": "2026-04-02T09:44:44+00:00",
+          "summary": "Le voyage vers Pandora va-t-il s'arrêter plus tôt que prévu ? Si James Cameron a déjà les scripts en main et une partie du quatrième opus d'Avatar en boîte, le destin de la saga la plus lucrative de l'histoire du cinéma vacille, entre la prudence de Disney et l'optimisme de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9269f7566d8",
+          "title": "Le temps de lire ce titre, un hacker a peut-être déjà revendu l’accès à votre entreprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2224661-le-temps-de-lire-ce-titre-un-hacker-a-peut-etre-deja-revendu-lacces-a-votre-entreprise.html",
+          "category": "ia",
+          "published_at": "2026-04-02T09:37:46+00:00",
+          "summary": "À l’occasion du Forum InCyber, Numerama a souhaité approfondir les discussions autour des menaces grandissantes pour les entreprises. Parmi elles, l'automatisation de l'économie souterraine de la cybercriminalité qui a permis de faire drastiquement chuter le délai de revente…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7bdd135988b4",
+          "title": "Les prix des voitures électriques de Zeekr en France enfin dévoilés : c’est pas gagné",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2224655-les-prix-des-voitures-electriques-de-zeekr-en-france-enfin-devoiles-cest-pas-gagne.html",
+          "category": "ia",
+          "published_at": "2026-04-02T09:33:16+00:00",
+          "summary": "Zeekr lance officiellement la commercialisation de ses voitures électriques en France. La marque chinoise vient de mettre à jour son site français et d'ouvrir les différents configurateurs. L'occasion de découvrir les prix et les gammes des quatre modèles qui débarquent.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "684edb4f8e6f",
+          "title": "Amazon veut s’offrir Globalstar pour contrer Starlink… mais Apple utilise déjà ses satellites",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2224651-amazon-veut-soffrir-globalstar-pour-contrer-starlink-mais-apple-utilise-deja-ses-satellites.html",
+          "category": "ia",
+          "published_at": "2026-04-02T09:32:10+00:00",
+          "summary": "Amazon envisagerait de racheter Globalstar, un opérateur de satellites en orbite basse (1414 km), selon le Financial Times. Devenu un maillon stratégique de l’iPhone grâce au SOS d’urgence, le groupe est détenu à 20 % par Apple. En toile de fond : la tentative d’Amazon de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d41347b8097f",
+          "title": "« Il est désormais interdit d’ouvrir ses fenêtres » : Reworld hallucine (encore) une infox",
+          "source": "Next INpact",
+          "url": "https://next.ink/231686/il-est-desormais-interdit-douvrir-ses-fenetres-reworld-hallucine-encore-une-infox/",
+          "category": "ia",
+          "published_at": "2026-04-02T09:23:34+00:00",
+          "summary": "Réagissant à l&#8217;arrivée du printemps, et donc au retour des pollens, un quarteron de sites d&#8217;infos « en tout ou partie générés par IA » du groupe Reworld Media ont relayé le fait qu&#8217;il serait « interdit » d&#8217;ouvrir ses fenêtres, pour se prémunir des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c716e6ee32e4",
+          "title": "New platform Fieldworks wants to fill the digital gap in Indian arts education",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/new-platform-fieldworks-wants-to-fill-the-digital-gap-in-indian-arts-education/",
+          "category": "musique",
+          "published_at": "2026-04-02T09:18:25+00:00",
+          "summary": "These days, professional musicians are expected to be creators, who are somehow automatically equipped with the skills to constantly upload slickly filmed social media content that consistently keeps them in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b007e01c74d",
+          "title": "Concerts de Céline Dion à Paris : dernières heures pour s’inscrire à la prévente",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2222593-celine-dion-a-paris-le-compte-a-rebours-des-preventes-est-lance-comment-avoir-ses-places.html",
+          "category": "musique",
+          "published_at": "2026-04-02T08:48:03+00:00",
+          "summary": "Pour espérer applaudir Céline Dion lors de son grand retour à Paris La Défense Arena, il ne reste plus que quelques heures. Les inscriptions pour la prévente s'achèvent ce 2 avril à 19h pétantes. Ensuite, il faudra affronter la grande mise en vente publique pour espérer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e60bf15578e",
+          "title": "Avis aux fans de vampires : après Twilight, Kristen Stewart replonge",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2224609-avis-aux-fans-de-vampires-apres-twilight-kristen-stewart-replonge.html",
+          "category": "ia",
+          "published_at": "2026-04-02T08:40:19+00:00",
+          "summary": "Quinze ans après avoir fait ses adieux à Bella Swan, Kristen Stewart s'apprête à retrouver les crocs et l'immortalité. Mais oubliez les paillettes de Forks et les romances lycéennes : pour son grand retour dans l'univers des vampires, l'actrice s'associe au prestigieux studio…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "161407f56846",
+          "title": "Décollage parfait pour Artémis II… Mais à bord, les astronautes ont eu un petit problème de toilettes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224709-decollage-parfait-pour-artemis-ii-mais-a-bord-les-astronautes-ont-eu-un-petit-probleme-de-toilettes.html",
+          "category": "ia",
+          "published_at": "2026-04-02T08:35:35+00:00",
+          "summary": "Le décollage d'Artémis II a pu se dérouler sans encombre dans la nuit du 1er au 2 avril 2026. En revanche, l'ambiance était un peu moins à la fête du côté du vaisseau Orion, dans lequel les quatre astronautes ont dû subir de mauvaises odeurs suite à un problème de plomberie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "327ac71ab5a3",
+          "title": "☕️ Booba absent de son procès pour cyberharcèlement contre la journaliste Linh-Lan Dao",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/booba-absent-de-son-proces-pour-cyberharcelement-contre-la-journaliste-linh-lan-dao/",
+          "category": "ia",
+          "published_at": "2026-04-02T08:33:20+00:00",
+          "summary": "Le rappeur n’aura pas entendu le témoignage de la journaliste.  Ce 1er avril, au tribunal correctionnel de Paris, la journaliste de France Télévisions Linh-Lan Dao revenait sur la «&#160;journée horrible&#160;» de janvier 2024 où elle publiait un article de fact-checking.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59670366f029",
+          "title": "Malgré la hausse, la PS5 Pro peut vous revenir à moitié prix, mais seulement pendant une durée limitée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2224621-malgre-la-hausse-la-ps5-pro-peut-vous-revenir-a-moitie-prix-mais-seulement-pendant-une-duree-limitee.html",
+          "category": "ia",
+          "published_at": "2026-04-02T08:20:09+00:00",
+          "summary": "Alors que Sony vient d’augmenter les prix des PS5 une énième fois, Micromania propose un deal qu’il ne faut pas rater si vous souhaitez vous équiper de la PlayStation 5 Pro avant GTA 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5746fbd90f1f",
+          "title": "Vous n’arrivez pas à charger X (Twitter) : c’est normal, il y a une panne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2224711-vous-narrivez-pas-a-charger-x-twitter-cest-normal-il-y-a-une-panne.html",
+          "category": "ia",
+          "published_at": "2026-04-02T08:12:33+00:00",
+          "summary": "Le réseau social X (anciennement Twitter) est victime d'une panne jeudi 2 avril : impossible de charger sa timeline sur de nombreux appareils. Le successeur de Twitter avait aussi connu une panne dans la soirée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e04b4c17a5b6",
+          "title": "En route pour la Lune : les photos historiques du lancement d’Artémis 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224565-en-route-pour-la-lune-les-photos-historiques-du-lancement-dartemis-2.html",
+          "category": "ia",
+          "published_at": "2026-04-02T08:01:02+00:00",
+          "summary": "Artémis II est désormais lancée dans son périple lunaire, qui durera une dizaine de jours. C'est la première fois depuis plus de 50 ans qu'un équipage retourne dans les parages de la Lune. Un moment historique, que les photographes n'ont évidemment pas raté.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b1d0690027c",
+          "title": "Bonne nouvelle si vous avez un abonnement Google : la meilleure offre vient de s’améliorer drastiquement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2224563-bonne-nouvelle-si-vous-avez-un-abonnement-google-la-meilleure-offre-vient-de-sameliorer-drastiquement.html",
+          "category": "ia",
+          "published_at": "2026-04-02T07:57:31+00:00",
+          "summary": "L'abonnement Google AI Pro à 21,99 euros par mois, qui permet d'accéder à la version débridée de Gemini et d'utiliser les versions payantes des services Google, intègre désormais 5 To de stockage dans le cloud au lieu de 2 To auparavant. Google double le stockage gratuitement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d2004ca4a72",
+          "title": "☕️ L’UE interdit les contenus générés par IA dans ses communications officielles",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/lue-interdit-les-contenus-generes-par-ia-dans-ses-communications-officielles/",
+          "category": "ia",
+          "published_at": "2026-04-02T07:54:00+00:00",
+          "summary": "Les principales institutions de l’Union européenne ont interdit à leur personnel d’utiliser dans leurs communications officielles des vidéos et images générées par intelligence artificielle, révèle Politico. Alors que le recours aux deepfakes en particulier et à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77d437534d61",
+          "title": "☕️ Raspberry Pi acte une nouvelle hausse de prix au nom de la mémoire vive",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/raspberry-pi-acte-une-nouvelle-hausse-de-prix-au-nom-de-la-memoire-vive/",
+          "category": "ia",
+          "published_at": "2026-04-02T07:30:00+00:00",
+          "summary": "Entre demandes record et tensions géopolitiques, les prix de la mémoire vive tutoient toujours des plus hauts historiques et la fondation Raspberry Pi vient d&#8217;acter, une fois de plus, le phénomène, en annonçant une hausse de prix assez significative sur la plupart de ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68d1e7a82390",
+          "title": "Australia introduces new “orphan works” copyright legislation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/australia-introduces-new-orphan-works-copyright-legislation/",
+          "category": "musique",
+          "published_at": "2026-04-02T07:22:34+00:00",
+          "summary": "Australia&#8217;s government has unveiled new copyright reforms this week, specifically involving &#8216;orphan works&#8217;.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e47322ce1fa",
+          "title": "Les livraisons de voitures électriques établissent un nouveau record en mars 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2224233-les-livraisons-de-voitures-electriques-etablissent-un-nouveau-record-en-mars-2026.html",
+          "category": "ia",
+          "published_at": "2026-04-02T07:11:52+00:00",
+          "summary": "Non seulement les immatriculations de voitures électriques neuves sont en hausse, mais elles établissent aussi le meilleur score de ces dernières années.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab18a687946f",
+          "title": "PlayStation Plus : les 3 jeux offerts en avril 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2224543-playstation-plus-les-3-jeux-offerts-en-avril-2026.html",
+          "category": "ia",
+          "published_at": "2026-04-02T07:10:33+00:00",
+          "summary": "Sony a dévoilé les trois jeux qui seront offerts à tous les abonnés PlayStation Plus à compter du mardi 7 avril 2026. Si vous aimez souffrir, vous allez aimer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee37bccbadd9",
+          "title": "Artemis II en route vers la Lune : un petit tour et puis s’en va",
+          "source": "Next INpact",
+          "url": "https://next.ink/232043/artemis-ii-en-route-vers-la-lune-un-petit-tour-et-puis-sen-va/",
+          "category": "ia",
+          "published_at": "2026-04-02T06:53:17+00:00",
+          "summary": "Artemis II a décollé, la capsule Orion et ses quatre membres d&#8217;équipage sont en orbite autour de la Terre. Dans quelques heures ils feront route vers la Lune, ensuite ils reviendront sur Terre. C’est la première fois depuis 50 ans que des humains vont faire le tour de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ecd294942f53",
+          "title": "Évidemment, les concerts de Céline Dion sont devenus l’excuse parfaite pour les arnaques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2224361-evidemment-les-concerts-de-celine-dion-sont-devenus-lexcuse-parfaite-pour-les-arnaques.html",
+          "category": "musique",
+          "published_at": "2026-04-02T06:49:17+00:00",
+          "summary": "Le retour de Céline Dion à Paris a provoqué un engouement sans précédent, et une vague d'arnaques en ligne tout aussi prévisible. Avant même l'ouverture de la billetterie officielle, des fans se sont déjà fait délester de centaines d'euros sur de faux sites.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5bb9f8423a3",
+          "title": "☕️ Satellites : Amazon veut racheter Globalstar, dont Apple détient 20 %",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/satellites-amazon-veut-racheter-globalstar-dont-apple-detient-20/",
+          "category": "ia",
+          "published_at": "2026-04-02T06:25:00+00:00",
+          "summary": "La guerre des satellites aura bien lieu. D&#8217;après le Financial Times, Amazon a engagé des discussions portant sur l&#8217;acquisition de Globalstar, l&#8217;opérateur satellite qui fournit à Apple, depuis 2022, les appels d&#8217;urgence intégrés à ses téléphones et montres…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d135aace934a",
+          "title": "The 2025 Royalty Numbers are in: Loud & Clear Updated with new Data & Takeaways",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/the-2025-royalty-numbers-are-in-loud-clear-updated-with-new-data-takeaways/",
+          "category": "musique",
+          "published_at": "2026-04-02T06:06:00+00:00",
+          "summary": "Artists deserve transparency about how music streaming works.&#160; That’s why we launched Loud &#38; Clear in 2021 — to share detailed data on Spotify’s royalty payments, break down how money [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "562e1efc4523",
+          "title": "☕️ Apple étend la disponibilité d’iOS 18.7.7 pour corriger la faille DarkSword",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/apple-etend-la-disponibilite-dios-18-7-7-pour-corriger-la-faille-darksword/",
+          "category": "justice",
+          "published_at": "2026-04-02T05:50:32+00:00",
+          "summary": "Apple vient d&#8217;étendre la disponibilité de son récent correctif iOS / iPadOS 18.7.7, publié le 24 mars dernier, à un éventail d&#8217;appareils récents allant jusqu&#8217;à l&#8217;iPhone 16 ou l&#8217;iPad Pro M4. Cette décision, formalisée le mercredi 1ᵉʳ avril, est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5dfdd177c4d",
+          "title": "Téléconsultation sans rendez-vous : comment trouver un médecin en moins de 15 minutes ? [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2218741-teleconsultation-sans-rendez-vous-comment-trouver-un-medecin-en-moins-de-15-minutes.html",
+          "category": "ia",
+          "published_at": "2026-04-02T05:22:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec MEDADOM\n\nPremière plateforme française de téléconsultation médicale agréée par le ministère de la Santé, MEDADOM fait preuve d’une grande transparence. Déontologie, sécurité, tarifs, disponibilité : le service fait voler en éclat…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b2b354e942e",
+          "title": "BTS Dominates YouTube’s Global, U.S. Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/bts-youtube-global-us-charts-1236213071/",
+          "category": "justice",
+          "published_at": "2026-04-02T04:53:07+00:00",
+          "summary": "The K-pop superstars crash the streaming giant’s Global Top Songs chart with 11 titles impacting the top 100, including the No. 1 with “Swim.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf9a9ff44762",
+          "title": "QMusic CEO Kris Stewart Steps Down After Five Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/qmusic-ceo-kris-stewart-steps-down/",
+          "category": "musique",
+          "published_at": "2026-04-02T03:35:32+00:00",
+          "summary": "The search for the organization’s next CEO has begun.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d0c0ff25c00",
+          "title": "Tiffany Young Signs 360 Deal With Pacific Music Group Ahead of New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/tiffany-young-new-music-pacific-music-group/",
+          "category": "ia",
+          "published_at": "2026-04-02T01:00:00+00:00",
+          "summary": "The Girls' Generation star joins the Pan-Asian global entertainment company founded by Ne-Yo, MC Jin, Sonu Nigam and Jonathan Serbin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a34634a6118",
+          "title": "Jack Black Calls Jack White His ‘Brother From Another Color’ in TikTok-Inspired ‘SNL’ Promo",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/jack-black-snl-promo-jack-white-brother-from-another-color-1236213008/",
+          "category": "musique",
+          "published_at": "2026-04-02T00:59:40+00:00",
+          "summary": "The pair of Jacks will appear on this weekend's episode as host &#38; musical guest.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-01",
       "articles": [
+        {
+          "id": "9b4f809ad505",
+          "title": "Sabrina Carpenter Recruits Madelyn Cline & Margaret Qualley for ‘House Tour’ Video: Watch a Teaser",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sabrina-carpenter-house-tour-video-teaser-margaret-madelyn-1236212977/",
+          "category": "musique",
+          "published_at": "2026-04-01T23:32:48+00:00",
+          "summary": "The full music video will drop Monday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08fcbcd5cd48",
+          "title": "Ella Langley Ropes Miranda Lambert, Luke Grimes, Ava Phillippe, Kaitlin Butts & More for All-Star ‘Choosin’ Texas’ Video",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/ella-langley-choosin-texas-video-luke-grimes-ava-phillippe-1236212969/",
+          "category": "ia",
+          "published_at": "2026-04-01T23:27:33+00:00",
+          "summary": "The cinematic visual was filmed in Fort Worth, Texas.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eef61172bd9a",
+          "title": "Plus de 50 ans après Apollo, voici les 4 astronautes d’Artémis II qui sont partis faire le tour de la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1326144-plus-de-50-ans-apres-apollo-voici-les-4-astronautes-dartemis-ii-qui-sont-partis-faire-le-tour-de-la-lune.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-01T22:55:54+00:00",
+          "summary": "Ce sont les quatre astronautes qui voleront autour de la Lune en 2026 avec la mission Artémis II.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93f300c72a99",
+          "title": "10 jours pour l’Histoire : voilà à quoi ressemble le voyage vers la Lune d’Artémis II",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1327062-10-jours-pour-lhistoire-voila-a-quoi-ressemble-le-voyage-vers-la-lune-dartemis-ii.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-01T22:46:50+00:00",
+          "summary": "La mission Artémis II autour de la Lune est un voyage d'environ dix jours, avec quatre astronautes à bord de la capsule Orion. La Nasa a détaillé les grandes étapes de cette odyssée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5966862a28b4",
+          "title": "Artémis II : voilà où est la capsule Orion en temps réel entre la Terre et la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224335-artemis-ii-voila-ou-est-la-capsule-orion-en-temps-reel-entre-la-terre-et-la-lune.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-01T22:41:38+00:00",
+          "summary": "Partie pour un voyage historique d'environ 10 jours, la mission Artémis II file désormais vers la Lune. Pour suivre ce périple inédit, la NASA a mis en ligne un outil permettant de traquer la capsule Orion et son équipage en temps réel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d74b1625c2a",
+          "title": "La Nasa l’a fait : Artémis II s’envole pour un voyage historique vers la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224341-la-nasa-la-fait-artemis-ii-senvole-pour-un-voyage-historique-vers-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-04-01T22:37:39+00:00",
+          "summary": "Ça y est : les 4 astronautes d'Artémis II sont en route vers la Lune. La mission de la Nasa a décollé après minuit, dans la nuit du mercredi 1er au jeudi 2 avril 2026. Une odyssée spatiale de 10 jours commence pour l'équipage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e626c1a4758",
+          "title": "Comment suivre le grand départ d’Artémis II vers la Lune en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2222927-vol-artemis-ii-suivez-en-direct-le-decollage-historique-vers-la-lune.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-01T22:25:42+00:00",
+          "summary": "C’est le grand retour de l’humanité vers la Lune. Dans la nuit du 1er au 2 avril 2026, la Nasa fera décoller la mission Artémis II avec quatre astronautes à bord. Plus de cinquante ans après Apollo, ce lancement historique est à suivre en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "570cc5edc637",
+          "title": "HYBE to inject $100M into US subsidiary, HYBE America",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-the-home-of-bts-injects-100m-into-us-subsidiary-hybe-america12/",
+          "category": "ia",
+          "published_at": "2026-04-01T18:00:13+00:00",
+          "summary": "Capital injection was approved by HYBE's board on March 31\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51568bca4934",
+          "title": "Elon Musk’s X seizes on Supreme Court’s landmark Cox ruling in bid to derail music publishers’ copyright case",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elon-musks-x-seizes-on-supreme-courts-landmark-cox-ruling-in-bid-to-derail-music-publishers-copyright-case/",
+          "category": "musique",
+          "published_at": "2026-04-01T17:57:35+00:00",
+          "summary": "X Corp has told a Nashville federal court that last week's ruling renders the publishers' surviving claims defunct.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09aa46a60202",
+          "title": "Larry Mestel: How it started…",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/larry-mestel-how-it-started/",
+          "category": "musique",
+          "published_at": "2026-04-01T16:58:10+00:00",
+          "summary": "MBW’s new series delves into the stories behind the music industry’s most notable founder-led companies. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df7af69945cd",
+          "title": "Havells mYOUsic aims to be a talent hunt with a difference",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/01/havells-myousic-aims-to-be-a-talent-hunt-with-a-difference/",
+          "category": "ia",
+          "published_at": "2026-04-01T16:33:11+00:00",
+          "summary": "Havells mYOUsic is an Indian talent hunt that distinguishes itself from similar initiatives in multiple ways. Firstly, it isn’t restricted to singers and is also open to music producers, lyricists, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b1c1aa501d3",
+          "title": "RIAA, NMPA, and more file amicus brief backing UMG, Concord and ABKCO in original Anthropic case, arguing AI firm’s unlicensed copying is ‘inexcusable’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/riaa-nmpa-and-more-file-amicus-brief-backing-music-publishers-against-anthropic-arguing-ai-companys-unlicensed-copying-is-inexcusable/",
+          "category": "ia",
+          "published_at": "2026-04-01T16:30:51+00:00",
+          "summary": "Brief urges court to reject Anthropic's fair use defense in case brought by UMPG, Concord Music Group, and ABKCO\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d531bbd6e00",
+          "title": "Apple fête ses 50 ans, on ressort les Apple IIe et Macintosh IIfx de la cave !",
+          "source": "Next INpact",
+          "url": "https://next.ink/231744/apple-fete-ses-50-ans-on-ressort-les-apple-iie-et-macintosh-iifx-de-la-cave/",
+          "category": "ia",
+          "published_at": "2026-04-01T16:11:10+00:00",
+          "summary": "50 ans pour Microsoft et maintenant 50 ans pour Apple, bientôt 30 ans pour Google… le temps passe vite. Tout a déjà été dit ou presque sur Apple, alors on a décidé de vous proposer une approche différente pour cet anniversaire : ressortir des vieilleries de la cave pour un tour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b443c77f55f",
+          "title": "Music Ally Insight Report :: The State of Music Streaming 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/01/music-ally-insight-report-the-state-of-music-streaming-2026/",
+          "category": "musique",
+          "published_at": "2026-04-01T16:00:00+00:00",
+          "summary": "Welcome to our first Insight Report of 2026, which looks at the music streaming ecosystem.And the topic that dominates this year&#8217;s issue is, of course AI. But fret not: this isn’t an ‘AI is brilliant’ brovangelising report, but neither is it a ‘sky’s falling in’…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1d6906989e8",
+          "title": "Encore une méchante fuite, avec injection de prompt dans un chatbot cette fois-ci…",
+          "source": "Next INpact",
+          "url": "https://next.ink/231756/encore-une-mechante-fuite-avec-injection-de-prompt-dans-un-chatbot-cette-fois-ci/",
+          "category": "ia",
+          "published_at": "2026-04-01T15:09:14+00:00",
+          "summary": "Entre les attaques, les fuites et les exfiltrations, les données et autres secrets sont de plus en plus en danger. Dernier exemple en date, une injection de prompt dans une IA générative a permis de prendre le contrôle d’un site et de siphoner ses données. Le pirate détaille sa…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd594c4c1c04",
+          "title": "Salt-N-Pepa file appeal brief urging court to revive master recordings case against UMG",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/salt-n-pepa-file-appeal-brief-urging-court-to-revive-master-recordings-case-against-umg/",
+          "category": "ia",
+          "published_at": "2026-04-01T14:57:55+00:00",
+          "summary": "The latest filing follows the court's dismissal of the duo's lawsuit in January 2026\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc33c034abea",
+          "title": "Dialled In Records launches to uplift South Asian talent",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/01/dialled-in-records-launches-to-uplift-south-asian-talent/",
+          "category": "musique",
+          "published_at": "2026-04-01T14:55:03+00:00",
+          "summary": "UK-based south Asian cultural organisation Dialled In—which operates in such areas as festival production and live programming—has launched Dialled In Records. The London-headquartered label will develop and break South Asian [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77d043eb39cd",
+          "title": "Oracle relance une vague de licenciements, plusieurs milliers de postes concernés",
+          "source": "Next INpact",
+          "url": "https://next.ink/231798/oracle-relance-une-vague-de-licenciements-plusieurs-milliers-de-postes-concernes/",
+          "category": "ia",
+          "published_at": "2026-04-01T13:47:24+00:00",
+          "summary": "Six mois après la précédente, une nouvelle vague de licenciements a été engagée au sein des équipes d&#8217;Oracle. Certains employés ont été avertis par email que leur poste a été «&#160;supprimé » de l&#8217;organisation. Les estimations et les témoignages évoquent des coupes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c4c3ce2c21c",
+          "title": "X hopes Cox ruling will put an end to lawsuit from publishers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/01/x-hopes-cox-ruling-will-put-an-end-to-lawsuit-from-publishers/",
+          "category": "musique",
+          "published_at": "2026-04-01T12:30:00+00:00",
+          "summary": "The ripples from the recent US Supreme Court ruling in favour of ISP Cox Communications – and against labels who had sued it – are beginning.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97e77dcea929",
+          "title": "Warner Music Group to acquire Revelator; says indie music platform will add ‘firepower’ to WMG’s global operations",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-group-to-acquire-revelator/",
+          "category": "musique",
+          "published_at": "2026-04-01T12:14:17+00:00",
+          "summary": "WMG has entered into a definitive agreement to acquire independent music platform Revelator\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "303618e5e6d0",
+          "title": "‘Dhurandhar The Revenge’ album launch heralds the OST’s chart success",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/01/dhurandhar-the-revenge-album-launch-heralds-the-osts-chart-dominating-success/",
+          "category": "musique",
+          "published_at": "2026-04-01T12:10:07+00:00",
+          "summary": "Dhurandhar The Revenge, the sequel to the 2025 Hindi blockbuster, was one of the most anticipated releases of this year. Its accompanying soundtrack, which follows the prequel’s clutter-breaking OST, was [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "478761c0cbca",
+          "title": "Universal Music Group kicks off €500 million share buyback program",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-kicks-off-e500-million-share-buyback-program/",
+          "category": "musique",
+          "published_at": "2026-04-01T11:50:26+00:00",
+          "summary": "The program is capped at 50 million shares and is expected to wrap up by October 1, 2026.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "a5486728e5cd",
           "title": "Dynamite Songs hires Claudia Namukasa as Catalogue Manager and Charlotte Hancock as Rights Acquisition Manager",
