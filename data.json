@@ -1,9 +1,564 @@
 {
-  "generated_at": "2026-04-02T11:13:57.194682+00:00",
+  "generated_at": "2026-04-03T10:31:08.546725+00:00",
   "days": [
+    {
+      "date": "2026-04-03",
+      "articles": [
+        {
+          "id": "ce2cc7cb5b7b",
+          "title": "Les webinaires de la CNIL",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/les-webinaires-de-la-cnil",
+          "category": "ia",
+          "published_at": "2026-04-03T12:00:00+00:00",
+          "summary": "La CNIL propose régulièrement des webinaires à destination des professionnels. Ces webinaires sont gratuits et ouverts à tous.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f67e3ebe4802",
+          "title": "Les contrôles en 2026 : recrutement, répertoire électoral unique et fédérations sportives",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/controles-prioritaires-2026",
+          "category": "institutionnel",
+          "published_at": "2026-04-03T12:00:00+00:00",
+          "summary": "Chaque année, la CNIL définit des thématiques prioritaires de contrôle. Parmi celles choisies pour 2026 figurent le recrutement, le répertoire électoral unique et les fédérations sportives. D’autres annonces relatives à la cybersécurité interviendront à l’occasion de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8caf949a8dff",
+          "title": "Désigner un délégué à la protection des données (DPO) ou modifier une désignation",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/designation-dpo",
+          "category": "institutionnel",
+          "published_at": "2026-04-03T12:00:00+00:00",
+          "summary": "Avant de désigner en ligne votre délégué à la protection des données, vérifiez qu'il dispose du statut, des compétences et des moyens nécessaires à l’exercice de ses missions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38eba36ba4fd",
+          "title": "Pourquoi votre IA semble parfois triste ou agacée ? Anthropic a enfin trouvé la réponse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2225793-pourquoi-votre-ia-semble-parfois-triste-ou-agacee-anthropic-a-enfin-trouve-la-reponse.html",
+          "category": "ia",
+          "published_at": "2026-04-03T10:11:00+00:00",
+          "summary": "Le 2 avril 2026, Anthropic a affirmé avoir identifié, au cœur de son modèle Claude, des « représentations internes » proches d’émotions. Une découverte qui éclaire pourquoi les IA semblent parfois empathiques… et comment ces états influencent réellement leurs décisions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffbb5b31663e",
+          "title": "Les livraisons mondiales de Tesla déçoivent, mais celles de BYD encore plus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2226095-les-livraisons-mondiales-de-tesla-decoivent-mais-celles-de-byd-encore-plus.html",
+          "category": "ia",
+          "published_at": "2026-04-03T10:03:49+00:00",
+          "summary": "Les livraisons mondiales de Tesla n’ont pas atteint les objectifs pour ce premier trimestre. Si la situation n’est pas forcément alarmante pour Tesla, les résultats de son principal concurrent, BYD, interpellent un peu plus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f6c8ad30386",
+          "title": "Énergie solaire : comment contrer la hausse des prix en stockant intelligemment votre propre électricité [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2217005-energie-solaire-comment-contrer-la-hausse-des-prix-en-stockant-intelligemment-votre-propre-electricite.html",
+          "category": "ia",
+          "published_at": "2026-04-03T09:41:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Zendure\n\nSi vous pensez encore qu'il faut être un expert pour produire sa propre énergie solaire, c'est que vous ne connaissez pas l'écosystème du fabricant Zendure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90db2efe812a",
+          "title": "☕️ Google Meet s’invite sur Apple CarPlay, en attendant Android Auto",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/google-meet-sinvite-sur-apple-carplay-en-attendant-android-auto/",
+          "category": "ia",
+          "published_at": "2026-04-03T09:38:25+00:00",
+          "summary": "Google a annoncé jeudi 2 avril la prise en charge de Meet, son client de visioconférence, au sein de l&#8217;environnement Apple CarPlay : «&#160;Cette fonctionnalité est conçue pour assurer une transition fluide entre votre appareil mobile iOS et votre véhicule, vous permettant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eae688f9f269",
+          "title": "Harry Potter : la série HBO dévoile de nouvelles images inédites et c’est magnifique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225945-harry-potter-la-serie-hbo-devoile-de-nouvelles-images-inedites-et-cest-magnifique.html",
+          "category": "ia",
+          "published_at": "2026-04-03T09:25:12+00:00",
+          "summary": "Alors que l'impatience grandit autour du reboot de la saga littéraire de J.K. Rowling, HBO Max s'apprête à frapper un grand coup. Le 5 avril 2026, la plateforme diffusera « Finding Harry: The Craft Behind the Magic », une plongée inédite dans les ateliers de création de la série…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5eb554dcbcc5",
+          "title": "L’appât était parfait : certains ont profité autrement du leak de Claude Code",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2225831-lappat-etait-parfait-certains-ont-profite-autrement-du-leak-de-claude-code.html",
+          "category": "ia",
+          "published_at": "2026-04-03T09:10:39+00:00",
+          "summary": "Dans un article de blog publié le 1er avril 2026, les chercheurs de Zscaler ThreatLabz ont mis en lumière une campagne cybercriminelle opportuniste : des acteurs malveillants ont exploité la récente fuite du code source de Claude Code pour piéger des développeurs et leur faire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0bb78b0ea77f",
+          "title": "« Des humains ont quitté l’orbite terrestre » :  les astronautes d’Artémis II ont réussi la manœuvre clé de la mission",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2225913-des-humains-ont-quitte-lorbite-terrestre-les-astronautes-dartemis-ii-ont-reussi-la-manoeuvre-cle-de-la-mission.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-03T09:00:01+00:00",
+          "summary": "À bord de leur vaisseau Orion, les astronautes ont entamé leur trajectoire qui devra désormais les mener jusqu'à la Lune. Une étape majeure dans ce voyage historique d'une dizaine de jours autour de notre satellite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a133b585f15",
+          "title": "Xiaomi mise sur l’expertise de Tesla pour accélérer sa croissance",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2225845-xiaomi-mise-sur-lexpertise-de-tesla-pour-accelerer-sa-croissance.html",
+          "category": "ia",
+          "published_at": "2026-04-03T08:56:13+00:00",
+          "summary": "Pour consolider sa position sur le marché ultra-concurrentiel des voitures électriques, Xiaomi continue de puiser dans le vivier de talents de sa principale référence : Tesla. Le récent recrutement d'une ancienne figure clé du constructeur américain en Chine marque une nouvelle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c25ac1ac3738",
+          "title": "Un modder de Crimson Desert a déterré une mécanique d’alimentation hyper réaliste",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225813-un-modder-de-crimson-desert-a-deterre-une-mecanique-dalimentation-hyper-realiste.html",
+          "category": "ia",
+          "published_at": "2026-04-03T08:55:37+00:00",
+          "summary": "Un fan de Crimson Desert a développé un mod qui intègre des mécaniques d'alimentation plus poussées. Elles auraient été dénichées dans les fichiers du jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f3567abc7dc",
+          "title": "OpenAI s’offre la chaîne tech TBPN pour « accélérer la conversation autour de l’IA »",
+          "source": "Next INpact",
+          "url": "https://next.ink/232200/openai-soffre-la-chaine-tech-tbpn-pour-accelerer-la-conversation-autour-de-lia/",
+          "category": "ia",
+          "published_at": "2026-04-03T08:51:59+00:00",
+          "summary": "OpenAI met un pied dans le monde des médias avec l&#8217;acquisition, annoncée jeudi 2 avril, de la chaîne tech TBPN, centrée sur la tech et l&#8217;univers de la Silicon Valley. TBPN, dont le talk show principal serait l&#8217;émission préférée de Sam Altman, doit permettre à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b05f6d88f5b7",
+          "title": "« Aucun des deux ne marche » : en pleine mission vers la Lune, les astronautes d’Artémis 2 ont subi… un bug d’Outlook",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2225773-aucun-des-deux-ne-marche-en-pleine-mission-vers-la-lune-les-astronautes-dartemis-2-ont-subi-un-bug-doutlook.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-03T08:47:40+00:00",
+          "summary": "L'épique mission Artémis II qui se dirige vers la Lune a été rattrapée par la trivialité d'un bug informatique : selon le commandant Reid Wiseman, le logiciel de messagerie Outlook n'a pas bien fonctionné.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40ceef1ca1ab",
+          "title": "Google dévoile Gemma 4, son nouveau modèle open source que vous pouvez faire tourner sans Internet",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2225835-google-devoile-gemma-4-son-nouveau-modele-open-source-que-vous-pouvez-faire-tourner-sans-internet.html",
+          "category": "ia",
+          "published_at": "2026-04-03T08:33:52+00:00",
+          "summary": "Google lance quatre nouveaux modèles open source destinés à différents usages. Son objectif : ne pas laisser les acteurs chinois, de plus en plus efficaces, seuls sur ce segment. Les modèles Gemma 4 peuvent tourner localement sur des téléphones pour les plus petits, et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4dea8fd7ea9e",
+          "title": "The Temper Trap Set New Album ‘Sungazer,’ Announce North America Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/the-temper-trap-sungazer-north-america-tour-muse-1236214744/",
+          "category": "musique",
+          "published_at": "2026-04-03T08:33:26+00:00",
+          "summary": "\"Sungazer\" is the Australian alternative rock act’s fourth studio album and first in a decade.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2685a46c6133",
+          "title": "Peaky Blinders : on sait enfin qui va remplacer Cillian Murphy dans la série",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225775-peaky-blinders-on-sait-enfin-qui-va-remplacer-cillian-murphy-dans-la-serie.html",
+          "category": "ia",
+          "published_at": "2026-04-03T08:26:17+00:00",
+          "summary": "L’ombre de Thomas Shelby plane toujours sur Birmingham, mais une page se tourne définitivement. Alors que les fans se demandaient qui pourrait succéder au charisme électrique de Cillian Murphy, le créateur Steven Knight a enfin tranché. Une nouvelle tête d'affiche vient d'être…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4e8c3ef25c0",
+          "title": "Monsta X Unleashes New English-Language Album ‘Unfold’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/monsta-x-english-language-album-unfold-stream-it-now-1236214734/",
+          "category": "musique",
+          "published_at": "2026-04-03T08:00:24+00:00",
+          "summary": "With the release, Monsta X becomes the first K-pop act to release three full-length albums in English.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dd88487cc0e",
+          "title": "Avez-vous repéré ce subtil teaser dans Super Mario Galaxy Le Film ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225763-avez-vous-repere-ce-subtil-teaser-dans-super-mario-galaxy-le-film.html",
+          "category": "ia",
+          "published_at": "2026-04-03T07:36:57+00:00",
+          "summary": "Il faut parfois avoir des yeux bioniques pour relever toutes les références intégrées à Super Mario Galaxy Le Film. L'une d'entre elles, qui ne dure qu'une microseconde, fait référence à une autre saga phare de Nintendo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "719ba38640a2",
+          "title": "BTS’ ‘Arirang’ Extends Reign On ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/bts-arirang-extends-reign-australia-aria-chart-1236214719/",
+          "category": "musique",
+          "published_at": "2026-04-03T07:21:32+00:00",
+          "summary": "\"Arirang\" becomes BTS’ second album to score multiple weeks on top of the Australian chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d4d2d34b681",
+          "title": "Clare McGlynn : « l’IA aggrave les violences de genre appuyées sur les technologies »",
+          "source": "Next INpact",
+          "url": "https://next.ink/232146/clare-mcglynn-lia-aggrave-les-violences-de-genre-appuyees-sur-les-technologies/",
+          "category": "ia",
+          "published_at": "2026-04-03T07:20:24+00:00",
+          "summary": "Professeure de droit, spécialiste des violences de genre, Clare McGlynn a étudié la manière dont les robots conversationnels renforcent diverses problématiques de violence contre les filles et les femmes. Auprès de Next, elle appelle à ouvrir le débat. «&#160;Ce que l’on…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10e641c1ba11",
+          "title": "☕️ Deux ans plus tard, Intel rachète déjà les 49 % manquants de sa Fab 34 en Irlande",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/deux-ans-plus-tard-intel-rachete-deja-les-49-manquants-de-sa-fab-34-en-irlande/",
+          "category": "ia",
+          "published_at": "2026-04-03T06:50:45+00:00",
+          "summary": "Cette semaine, le fondeur a annoncé qu’il allait « racheter 49 % des parts de sa coentreprise irlandaise Fab 34 ». Il s’agit de récupérer la part qui avait été vendue il y a deux ans à peine au fonds Apollo, pour 11,2 milliards de dollars. Coût de l’opération cette fois-ci :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89d349eb2af4",
+          "title": "☕️ Steam sur Linux dépasse pour la première fois les 5 %… mais attention aux chiffres de Valve",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/steam-sur-linux-depasse-pour-la-premiere-fois-les-5-mais-attention-aux-chiffres-de-valve/",
+          "category": "ia",
+          "published_at": "2026-04-03T06:22:08+00:00",
+          "summary": "Au début de l&#8217;année, après un cafouillage sur les chiffres mis en ligne par Valve, Steam sur Linux atteignait une part de marché de 3,58 %. Sur les trois premiers mois de l’année, les statistiques jouent un peu aux montagnes russes. Une petite baisse de 0,20 point début…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98692430d3c8",
+          "title": "The Foundation of Trust: Why Royalty Infrastructure is the Key to Artist Retention in 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/03/the-foundation-of-trust-why-royalty-infrastructure-is-the-key-to-artist-retention-in-2026/",
+          "category": "musique",
+          "published_at": "2026-04-03T06:00:00+00:00",
+          "summary": "Artists and rightsholders have unprecedented leverage over where to house their catalogs. Legacy brand prestige is no longer enough to retain them; instead, your artist network&#8217;s loyalty depends heavily on [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e475154887c",
+          "title": "‘I Was Trying Not to Write Songs’: How Bruce Hornsby Recovered From Burnout to Record ‘Indigo Park’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/bruce-hornsby-indigo-park-interview-1236214697/",
+          "category": "musique",
+          "published_at": "2026-04-03T05:45:34+00:00",
+          "summary": "The new album features guest appearances from Bonnie Raitt, Vampire Weekend's Ezra Koenig and Blake Mills, and one of the last recordings by Bob Weir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92e9ab1597df",
+          "title": "Élongation de Mercure, étoiles filantes, pleine Lune : que voir dans le ciel en avril 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2225445-elongation-de-mercure-etoiles-filantes-pleine-lune-que-voir-dans-le-ciel-en-avril-2026.html",
+          "category": "ia",
+          "published_at": "2026-04-03T05:35:00+00:00",
+          "summary": "En avril 2026, la Lune devrait attirer tous les regards, alors que l'humanité revient à proximité du satellite naturel, après plus de 50 ans d'absence. Mais il y aura d'autres phénomènes astronomiques à ne pas manquer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89cc97a889af",
+          "title": "Jack White, Arlo Parks, Anne Hathaway & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/jack-white-arlo-parks-anne-hathaway-new-music-friday-guide-1236213934/",
+          "category": "musique",
+          "published_at": "2026-04-03T05:22:19+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45d3e42e1fbd",
+          "title": "Pussy Riot’s Nadya Indicted, Added to Russia’s ‘Wanted List’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/pussy-riot-nadya-indicted-added-russia-wanted-list-1236214681/",
+          "category": "ia",
+          "published_at": "2026-04-03T05:18:45+00:00",
+          "summary": "Russia's Investigative Committee this week indicted the punk artist and activist for violating the “foreign agent law.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71df2a401926",
+          "title": "SB19’s ‘Wakas At Simula’ Album: All 24 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/sb19-wakas-at-simula-album-review-tracks-ranked/",
+          "category": "musique",
+          "published_at": "2026-04-03T04:01:59+00:00",
+          "summary": "From breakout singles like \"GENTO\" and \"DAM\" to new collaborations with top Asian talent, the Filipino boy group's LP is a musical marker of their last five years.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65a7fb50be26",
+          "title": "U2 Unwraps ‘Easter Lily’ EP: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/u2-easter-lily-ep-stream-it-now-1236214638/",
+          "category": "musique",
+          "published_at": "2026-04-03T04:00:55+00:00",
+          "summary": "\"We are in the studio, still working towards a noisy, messy, 'unreasonably colourful’ album to play LIVE… which is where U2 lives,\" Bono insists.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "730a17edf6ad",
+          "title": "John Legend’s ‘An Evening of Songs & Stories’ Tour: Where to Buy Tickets Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/where-to-buy-john-legend-tour-tickets-shop-online-1236214518/",
+          "category": "ia",
+          "published_at": "2026-04-03T00:56:33+00:00",
+          "summary": "The Grammy-winning artist and his piano are touching down in a venue near you this spring.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-02",
       "articles": [
+        {
+          "id": "c9d8b3f14269",
+          "title": "Artémis II : voilà où se trouve la capsule Orion en temps réel entre la Terre et la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224335-artemis-ii-voila-ou-est-la-capsule-orion-en-temps-reel-entre-la-terre-et-la-lune.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-02T18:20:39+00:00",
+          "summary": "Partie pour un voyage historique d'environ 10 jours, la mission Artémis II file désormais vers la Lune. Pour suivre ce périple inédit, la NASA a mis en ligne un outil permettant de traquer la capsule Orion et son équipage en temps réel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc203032a551",
+          "title": "Dialled In Records launches in London focused on South Asian music in partnership with The Collective, part of Universal Music UK’s Island-EMI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dialled-in-records-launches-in-london-focused-on-south-asian-music-in-partnership-with-island-emis-the-collective/",
+          "category": "musique",
+          "published_at": "2026-04-02T17:07:37+00:00",
+          "summary": "Dialled In Records launches with two acts: Pakistan-born producer and DJ Ahadadream, and Excise Dept, an India-based multidisciplinary collective.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ed1ea4f6617",
+          "title": "Meta touts Instagram as music superfan hub in new Luminate study",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/meta-touts-instagram-as-music-superfan-hub-in-new-luminate-study/",
+          "category": "musique",
+          "published_at": "2026-04-02T16:51:45+00:00",
+          "summary": "Musicians who participate in Instagram's Activation program see their streaming numbers jump by roughly 10% in the week an activation launches.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be612d83487d",
+          "title": "Rostrum Pacific’s FatBeats acquires physical distro company Traffic Entertainment Group, plus D2C store and label Get On Down",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/rostrum-pacifics-fatbeats-acquires-physical-distro-company-traffic-entertainment-plus-d2c-store-and-label-get-on-down/",
+          "category": "musique",
+          "published_at": "2026-04-02T16:03:53+00:00",
+          "summary": "The deal brings together three companies with a combined 50 years of experience in vinyl distribution, physical distribution, and premium catalog re-issues.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5448ffc4d3d",
+          "title": "MacBook Neo, Air, Pro ou Mac mini : quel est le meilleur ordinateur Apple en 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/204817-les-macbook-dapple-quil-ne-faut-pas-acheter-un-anti-guide-dachat.html",
+          "category": "ia",
+          "published_at": "2026-04-02T16:00:19+00:00",
+          "summary": "L’époque où le MacBook et l’iMac étaient le seul dilemme chez Apple. Depuis plusieurs années, le constructeur n’a cessé d'élargir sa gamme. Entre les MacBook Air, Pro et plus récemment Neo, et les modèles de bureau iMac, Mac mini et Mac Studio, le choix n’a rien d’évident. On…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9025c3b20d4b",
+          "title": "Après 7 ans de développement, The Last of Us Online a été annulé la veille de sa présentation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225437-apres-7-ans-de-developpement-the-last-of-us-online-a-ete-annule-la-veille-de-sa-presentation.html",
+          "category": "ia",
+          "published_at": "2026-04-02T15:37:45+00:00",
+          "summary": "Le réalisateur du jeu The Last of Us Online, la version multijoueur de The Last of Us qui n’a jamais vu le jour, a récemment révélé avoir appris son annulation la veille de l’annonce officielle destinée au grand public.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5640c390bb07",
+          "title": "À 36 000 km de la Terre, l’incroyable course d’Artémis II dans le ciel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224735-a-36-000-km-de-la-terre-lincroyable-course-dartemis-ii-dans-le-ciel.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-02T15:24:14+00:00",
+          "summary": "La fusée SLS a décollé dans la nuit du 1er au 2 avril 2026 pour lancer la mission historique Artémis II. Si les objectifs des photographes l'ont mitraillée depuis le sol, le point de vue le plus vertigineux nous vient de l'espace. À près de 36 000 km de distance, un satellite…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca9427484e8f",
+          "title": "« Première mondiale » : la France et le Japon réussissent un chiffrement inédit basé sur l’ADN",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2225181-premiere-mondiale-la-france-et-le-japon-reussissent-un-chiffrement-inedit-base-sur-ladn.html",
+          "category": "ia",
+          "published_at": "2026-04-02T15:19:50+00:00",
+          "summary": "Une équipe franco-japonaise affirme avoir réussi, pour la première fois en conditions réelles, à chiffrer et déchiffrer des données à partir d’ADN. Présentée par Emmanuel Macron le 1er avril 2026, cette démonstration explore une nouvelle voie pour la cryptographie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bf718b3c1a6",
+          "title": "Dark Maul n’en a pas fini avec ses envies de vengeance contre tout le monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225415-dark-maul-nen-a-pas-fini-avec-ses-envies-de-vengeance-contre-tout-le-monde.html",
+          "category": "ia",
+          "published_at": "2026-04-02T15:08:30+00:00",
+          "summary": "Héros de la future série télévisée Shadow Lord (Seigneur de l'ombre), Dark Maul reviendra par la suite dans une nouvelle saison. Lucasfilm a officialisé une suite, alors que les premiers épisodes n'arriveront en streaming qu'à partir du 6 avril 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffea80a76ba6",
+          "title": "Pourquoi le créateur de la série The Boys est « dévasté »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225187-pourquoi-le-createur-de-la-serie-the-boys-est-devaste.html",
+          "category": "ia",
+          "published_at": "2026-04-02T15:07:18+00:00",
+          "summary": "À quelques jours de la diffusion de la cinquième et dernière saison de The Boys, Eric Kripke a révélé que la série a un peu trop prophétisé la réalité. À son plus grand désarroi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fc4a1b72883",
+          "title": "Ce sénateur américain veut éradiquer les voitures chinoises du monde entier en plus des États-Unis",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2225449-les-voitures-chinoises-un-cancer-pour-leconomie-selon-ce-senateur-americain.html",
+          "category": "ia",
+          "published_at": "2026-04-02T15:02:39+00:00",
+          "summary": "Les États-Unis ont déjà mis en place plusieurs lois pour empêcher les constructeurs chinois d’entrer sur leur marché automobile. Un sénateur américain, le républicain Bernie Moreno, veut cependant aller encore plus loin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5643aa86676",
+          "title": "☕️ 6 Go de mémoire vive sont désormais recommandés pour Ubuntu 26.04",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/6-go-de-memoire-vive-sont-desormais-recommandes-pour-ubuntu-26-04/",
+          "category": "ia",
+          "published_at": "2026-04-02T14:42:05+00:00",
+          "summary": "La sortie de la première bêta d&#8217;Ubuntu 26.04 s&#8217;accompagne d&#8217;une petite info passée inaperçue au moment de la publication : Canonical a discrètement révisé à la hausse la quantité de mémoire vive recommandée pour le bon fonctionnement sur un poste de travail.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8bb9b93445e8",
+          "title": "Le vélo de ville électrique Elops 900 s’affiche à un prix imbattable chez Decathlon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2225331-le-velo-de-ville-electrique-elops-900-saffiche-a-un-prix-imbattable-chez-decathlon.html",
+          "category": "ia",
+          "published_at": "2026-04-02T14:30:33+00:00",
+          "summary": "[Deal du jour] Vous n’avez pas de vélo. Vous voulez un vélo ? Decathlon en propose un très bon, à un excellent prix. L'Elops 900 pour la ville baisse en ce moment de 250 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1aebc19c72ce",
+          "title": "Anthropic face à la fuite de Claude Code : tout comprendre en trois questions",
+          "source": "Next INpact",
+          "url": "https://next.ink/232070/anthropic-face-a-la-fuite-de-claude-code-tout-comprendre-en-trois-questions/",
+          "category": "ia",
+          "published_at": "2026-04-02T13:46:00+00:00",
+          "summary": "Anthropic est encore sur le devant de la scène, pas suite à une annonce ou un délire de son intelligence artificielle mais à une nouvelle grosse bourde « humaine » entrainant la fuite de plus de 500 000 lignes de Claude Code. Next vous propose un tour du sujet, sous la forme de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a8bd88579bf",
+          "title": "Le créateur de Resident Evil s’allie au studio de Stellar Blade et tease son nouveau projet",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225201-le-createur-de-resident-evil-sallie-au-studio-de-stellar-blade-et-tease-son-nouveau-projet.html",
+          "category": "ia",
+          "published_at": "2026-04-02T13:45:00+00:00",
+          "summary": "Shift Up, le studio sud-coréen connu pour Stellar Blade, vient de faire l’acquisition du nouveau studio fondé par Shinji Mikami, le créateur de Resident Evil et The Evil Within.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46cb6f54915c",
+          "title": "☕️ En Italie, une « fausse version » de WhatsApp contenait en fait un logiciel espion",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/en-italie-une-fausse-version-de-whatsapp-contenait-en-fait-un-logiciel-espion/",
+          "category": "ia",
+          "published_at": "2026-04-02T13:00:00+00:00",
+          "summary": "WhatsApp explique à TechCrunch avoir informé « environ 200 utilisateurs » d&#8217;iPhone, principalement en Italie, qu&#8217;ils avaient été manipulés pour installer une « fausse version malveillante » de l&#8217;application de messagerie contenant en réalité un logiciel espion…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19dc9ef507bf",
+          "title": "Brian Miller appointed Chief Business Officer at TuneCore",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/brian-miller-appointed-chief-business-officer-at-tunecore/",
+          "category": "ia",
+          "published_at": "2026-04-02T12:49:42+00:00",
+          "summary": "Miller has served as Chief Revenue Officer at TuneCore for the last two years\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e7bc861747f",
+          "title": "PassPass wants artists to join its real-world scavenger hunts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/passpass-wants-artists-to-join-its-real-world-scavenger-hunts/",
+          "category": "musique",
+          "published_at": "2026-04-02T12:34:00+00:00",
+          "summary": "PassPass claims to be “the #1 viral giveaways platform in America” with its real-world scavenger hunts and contests. Now it wants to get more artists involved with its promotions. The startup has launched ‘PassPass for Artists’ as a way for artists and their teams to submit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9dd0369d9ad0",
+          "title": "Responsible Merch Guide encourages planet-friendly products",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/responsible-merch-guide-encourages-planet-friendly-products/",
+          "category": "musique",
+          "published_at": "2026-04-02T12:30:00+00:00",
+          "summary": "A report published this week by Green Music Australia, Reverb and The CSO Shop aims to help artists and their teams, as well as labels and merch suppliers, make “better environmental and ethical choices”. The ‘Responsible Merch Guide’ covers issues ranging fromm clothing…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b287f82804d9",
+          "title": "Create Music Group leads $2m funding for marketing startup Soundlink",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/create-music-group-leads-2m-funding-for-marketing-startup-soundlink/",
+          "category": "musique",
+          "published_at": "2026-04-02T12:27:00+00:00",
+          "summary": "Startup Soundlink launched in 2025 as a service to help music marketers solve “the attribution problem” – understanding how their social-media ads impacted streams. Having signed up more than 5,000 artists and labels, now Soundlink has raised a $2m seed-funding round, led by…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7dbd7419a9c5",
+          "title": "Chartmetric warns 2025’s ‘pop slump’ has continued in 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/chartmetric-warns-2025s-pop-slump-has-continued-in-2026/",
+          "category": "musique",
+          "published_at": "2026-04-02T12:25:00+00:00",
+          "summary": "Slump? What slump?! With global recorded-music revenues up 6.4% last year, the industry would be forgiven for taking a quiet moment to celebrate recently. However, analytics firm Chartmetric’s latest research may interrupt that, based on its analysis of the streaming charts.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2d5f8b6ea74",
+          "title": "WMG to buy Revelator in wake of UMG’s Downtown Music acquisition",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/wmg-to-buy-revelator-in-wake-of-umgs-downtown-music-acquisition/",
+          "category": "musique",
+          "published_at": "2026-04-02T12:22:00+00:00",
+          "summary": "Two theories emerged when UMG completed its acquisition of Downtown Music Holdings recently. One was that the lengthy regulatory scrutiny of the deal might discourage major labels from other indie acquisitions – for a while at least. The other, though, was that it may encourage…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d6d30073339",
+          "title": "US music bodies weigh in to publishers’ Anthropic lawsuit",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/us-music-bodies-weigh-in-to-publishers-anthropic-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-04-02T12:21:00+00:00",
+          "summary": "A group of music publishers are continuing to sue AI firm Anthropic for copyright infringement, focusing on its alleged use of their lyrics to train its Claude model, as well as some of its outputs. Now they have the backing of a group of US music-industry bodies: the RIAA,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4a50c3c57af",
+          "title": "TikTok’s distro service SoundOn cracks down on manipulated audio via ACRCloud partnership to intercept unauthorized tracks",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktoks-distro-service-soundon-cracks-down-on-manipulated-audio-via-acrcloud-partnership-to-intercept-unauthorized-tracks/",
+          "category": "ia",
+          "published_at": "2026-04-02T12:18:44+00:00",
+          "summary": "ACRCloud’s Derivative Works Detection service uses audio fingerprinting to identify modified works \nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "57aa110f7a03",
           "title": "Gestion des ressources humaines : la CNIL publie un référentiel de durées de conservation",
@@ -12,6 +567,36 @@
           "category": "ia",
           "published_at": "2026-04-02T12:00:00+00:00",
           "summary": "La CNIL publie un référentiel pour aider les responsables de traitement à identifier les durées de conservation pour leurs activités de gestion du personnel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e17a1d5b6fed",
+          "title": "Revoir le webinaire - Développement d’un système IA, webscraping : comment mobiliser la base légale de l’intérêt légitime ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/revoir-le-webinaire-developpement-ia-webscraping-base-legale-interet-legitime",
+          "category": "ia",
+          "published_at": "2026-04-02T12:00:00+00:00",
+          "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au développement de systèmes d'intelligence artificielle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6af577b23860",
+          "title": "Ordre du jour de la séance plénière du 2 avril 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-avril-2026",
+          "category": "institutionnel",
+          "published_at": "2026-04-02T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 avril 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d709cd8f62f",
+          "title": "Social-media roundup: ‘Passive’ use, slop letter, video forecasts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/02/social-media-roundup-passive-use-slop-letter-video-forecasts/",
+          "category": "musique",
+          "published_at": "2026-04-02T11:30:00+00:00",
+          "summary": "There’s a lot going on around social-media platforms right now, much of it not-entirely positive. A group of stories today offers a snapshot of some of the concerns – but also the money that’s still driving the giants of the sector. Start with UK communications regulator Ofcom’s…",
           "summary_type": "extrait source"
         },
         {
