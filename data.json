@@ -1,9 +1,294 @@
 {
-  "generated_at": "2026-04-03T10:31:08.546725+00:00",
+  "generated_at": "2026-04-04T10:02:25.010339+00:00",
   "days": [
+    {
+      "date": "2026-04-04",
+      "articles": [
+        {
+          "id": "629d237aa351",
+          "title": "Artemis II : la Nasa publie des photos époustouflantes de la Terre prises par les astronautes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2226885-artemis-ii-la-nasa-publie-des-photos-epoustouflantes-de-la-terre-prises-par-les-astronautes.html",
+          "category": "ia",
+          "published_at": "2026-04-04T09:50:00+00:00",
+          "summary": "Les premières photos prises depuis la capsule Orion qui se dirige vers la Lune montrent la Terre d'un point de vue humain. Difficile de ne pas être stupéfait par sa beauté.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "325fcee5410b",
+          "title": "Whoop veut tuer Bevel, l’application qui analyse vos données de santé depuis n’importe quel montre ou bracelet connecté",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2226873-whoop-veut-tuer-bevel-lapplication-qui-analyse-vos-donnees-de-sante-depuis-nimporte-quel-montre-ou-bracelet-connecte.html",
+          "category": "ia",
+          "published_at": "2026-04-04T09:13:25+00:00",
+          "summary": "Whoop, connu pour ses bracelets qui analysent les données de santé, poursuit en justice Bevel, qui permet de faire la même chose avec n'importe quel bracelet ou montre. Whoop reproche à Bevel de proposer une interface trop semblable à la sienne et de surveiller les mêmes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3a02e9c515f",
+          "title": "Le forfait Free Max rencontre un succès inespéré… chez les étrangers",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2226851-le-forfait-free-max-rencontre-un-succes-inespere-chez-les-etrangers.html",
+          "category": "ia",
+          "published_at": "2026-04-04T08:30:07+00:00",
+          "summary": "Sur les réseaux sociaux, plusieurs internautes de différentes nationalités affirment avoir souscrit à l'abonnement Free Max à 29,99 euros par mois pour bénéficier d'un Internet illimité à petit prix dans leurs propres pays, ce qui est impossible chez eux. Free interdit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bdf46ef5db9",
+          "title": "Peach PRC Releases Debut Album ‘Porcelain’, Shares New Video for ‘Hold It for Her’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/peach-prc-debut-album-porcelain-1236215402/",
+          "category": "musique",
+          "published_at": "2026-04-04T08:04:17+00:00",
+          "summary": "Arriving April 3, the full-length project introduces a more expansive body of work from the singer-songwriter.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3707ff6bdb0",
+          "title": "Anthropic bannit l’usage d’OpenClaw avec Claude : « nos abonnements n’ont pas été conçus pour ces outils tiers »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2226835-anthropic-bannit-lusage-dopenclaw-avec-claude-nos-abonnements-nont-pas-ete-concus-pour-ces-outils-tiers.html",
+          "category": "ia",
+          "published_at": "2026-04-04T07:42:19+00:00",
+          "summary": "Victime de son succès, Anthropic n'a plus la capacité de faire tourner ses serveurs correctement entre les utilisateurs gratuits, ses abonnés payants et les services tiers, comme OpenClaw, que beaucoup associent à Claude. L'entreprise annonce qu'il n'est désormais plus possible…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd666cfc77a5",
+          "title": "Holafly : pourquoi l’arrivée de l’eSIM avec data illimité change la donne pour les voyages à l’étranger [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2214521-holafly-pourquoi-larrivee-de-lesim-avec-data-illimite-change-la-donne-pour-les-voyages-a-letranger.html",
+          "category": "ia",
+          "published_at": "2026-04-04T07:02:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Holafly\n\nLe temps où il fallait acheter et installer une nouvelle SIM dès son arrivée dans un nouveau pays est révolu. Avec l’eSIM et des opérateurs comme Holafly, quelques secondes suffisent pour activer et utiliser son internet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7216f98b26f8",
+          "title": "Ben Platt and Rachel Zegler Announce ‘The Last Five Years’ Live Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-last-five-years-live-album-ben-platt-and-rachel-zegler-1236215396/",
+          "category": "musique",
+          "published_at": "2026-04-04T07:00:47+00:00",
+          "summary": "The news was revealed during bows at the Hollywood Bowl, where the two stars surprised audiences by confirming the project from the stage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfc5c23a25f0",
+          "title": "Live Nation Trial Week 4 Recap: Defense Witnesses Back Ticketmaster & Judge Weighs ‘Intimidation’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/live-nation-trial-recap-defense-witnesses-intimidation/",
+          "category": "musique",
+          "published_at": "2026-04-04T00:21:53+00:00",
+          "summary": "Billboard is summing up the key testimony and takeaways from the fourth week of the blockbuster antitrust trial.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-03",
       "articles": [
+        {
+          "id": "c2f0f3dee7a4",
+          "title": "YouTube’s Tuma Basa to Exit as Director of Black Music & Culture",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/youtube-director-black-music-culture-tuma-basa-exit/",
+          "category": "musique",
+          "published_at": "2026-04-03T23:27:03+00:00",
+          "summary": "After eight years at the streaming giant, the executive announced he was \"stepping into my next chapter.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79819796939a",
+          "title": "‘Time’s Ticking,’ Indeed: Every Song That’s Taken More Than a Year to Reach No. 1 on Billboard’s Country Airplay Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/country-songs-took-year-number-one-country-airplay-chart/",
+          "category": "musique",
+          "published_at": "2026-04-03T23:26:15+00:00",
+          "summary": "Justin Moore's \"Time's Ticking\" set a record for the longest climb to hit the peak this week, but it's hardly alone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d444c4e0aafe",
+          "title": "Watch A$AP Rocky Perform ‘Don’t Be Dumb’ Tracks for Amazon Music’s ‘Songline’ Series: ‘Live From New York’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-live-from-new-york-songline-film-1236215056/",
+          "category": "musique",
+          "published_at": "2026-04-03T22:39:46+00:00",
+          "summary": "The film was first livestreamed on Yams Day in January.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee3f696967ca",
+          "title": "Morgan Wallen Says He’ll Start Sharing ‘Sneak Peeks’ of New Music Soon: ‘I’m Still in the Early Stages’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/morgan-wallen-sharing-sneak-peeks-new-music-soon-1236215239/",
+          "category": "musique",
+          "published_at": "2026-04-03T22:08:59+00:00",
+          "summary": "Morgan Wallen performed a special show in Nashville to celebrate his upcoming SiriusXM channel Morgan Wallen Radio.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b4563b6b18d",
+          "title": "Brian McKnight Defamation Lawsuit: Radio Network Says Case Over Ex-Wife’s Interview Is Legally Baseless",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/brian-mcknight-lawsuit-ex-wife-interview-baseless-urban-one/",
+          "category": "ia",
+          "published_at": "2026-04-03T21:45:03+00:00",
+          "summary": "The R&#38;B singer is suing over radio broadcasts on The Rickey Smiley Morning Show and a North Carolina local station.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e6c671c037b",
+          "title": "Zach Bryan Cancels Tulsa Concert Due to Extreme Weather: ‘I’ve Never Canceled a Show in My Life’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/zach-bryan-cancels-tulsa-show-extreme-weather-1236215269/",
+          "category": "musique",
+          "published_at": "2026-04-03T21:14:14+00:00",
+          "summary": "His second show in Tulsa is scheduled to continue as planned.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9675e2f86b4",
+          "title": "Le boss final de la Flèche du Vide résiste sur WoW, le duel des deux meilleures guildes atteint un point critique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2226469-le-boss-final-de-la-fleche-du-vide-resiste-sur-wow-le-duel-des-deux-meilleures-guildes-atteint-un-point-critique.html",
+          "category": "ia",
+          "published_at": "2026-04-03T16:58:00+00:00",
+          "summary": "Dernière ligne droite pour Echo et Liquid. Les deux meilleures guildes du monde doivent se départager sur l'ultime boss du raid de la Flèche du Vide en mode mythique, sur World of Warcraft. Les scores sont très serrés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58d359200197",
+          "title": "UMG and Believe settle lawsuit that alleged ‘industrial-scale’ copyright infringement of Universal’s music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-and-believe-settle-lawsuit-that-alleged-industrial-scale-copyright-infringement-of-universals-music/",
+          "category": "musique",
+          "published_at": "2026-04-03T16:47:27+00:00",
+          "summary": "Universal Music Group and Believe have settled the copyright infringement lawsuit filed against the Paris-headquartered music company and its distribution platform TuneCore in late 2024. A Joint Stipulation of Dismissal With Prejudice was filed today (April 3) in the US District…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e81dc29c89e7",
+          "title": "Le Seigneur des Anneaux : ça sera un nouvel acteur pour Aragorn dans The Hunt for Gollum, c’est acté",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2226539-le-seigneur-des-anneaux-ca-sera-un-nouvel-acteur-pour-aragorn-dans-the-hunt-for-gollum-cest-acte.html",
+          "category": "ia",
+          "published_at": "2026-04-03T15:51:40+00:00",
+          "summary": "Le retour en Terre du Milieu se précise, mais il ne se fera pas sans quelques bouleversements majeurs. Alors que la production de The Hunt for Gollum passe à la vitesse supérieure, une décision cruciale vient d'être officialisée par Andy Serkis. Elle concerne l'un des piliers de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb50536e45ca",
+          "title": "« Aucun des deux ne fonctionne » : même très loin dans l’espace, Outlook prend la tête des astronautes d’Artémis",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2225773-aucun-des-deux-ne-marche-en-pleine-mission-vers-la-lune-les-astronautes-dartemis-2-ont-subi-un-bug-doutlook.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-03T15:39:00+00:00",
+          "summary": "L'épique mission Artémis II qui se dirige vers la Lune a été rattrapée par la trivialité d'un bug informatique : selon le commandant Reid Wiseman, le logiciel de messagerie Outlook n'a pas bien fonctionné.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27df41b96f80",
+          "title": "La première entreprise milliardaire bâtie grâce à l’IA… génère 800 faux médecins ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2226127-la-premiere-entreprise-milliardaire-batie-grace-a-lia-genere-800-faux-medecins.html",
+          "category": "ia",
+          "published_at": "2026-04-03T14:43:07+00:00",
+          "summary": "Mise en lumière par le New York Times le 2 avril 2026, Medvi incarne une nouvelle génération de start-up dopées à l’IA : peu d’employés, une croissance fulgurante et un marketing largement automatisé. Mais derrière cette réussite éclair, plusieurs zones d’ombre interrogent.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1efb5b9f1727",
+          "title": "Et maintenant, OpenAI rachète un podcast",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2226059-et-maintenant-openai-rachete-un-podcast.html",
+          "category": "ia",
+          "published_at": "2026-04-03T14:38:37+00:00",
+          "summary": "En pleine restructuration pour se concentrer sur ChatGPT, OpenAI a laissé tomber plusieurs projets annexes comme la génération de vidéos Sora ou la création de hardware. Pourtant, et à la surprise générale, le groupe de Sam Altman a annoncé le rachat de TPBN, le talk show tech…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cf6a09ddfaf",
+          "title": "Le créateur de Parasite va aller dans un genre qu’il n’a jamais exploré",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2226383-le-createur-de-parasite-va-aller-dans-un-genre-quil-na-jamais-explore.html",
+          "category": "ia",
+          "published_at": "2026-04-03T14:31:17+00:00",
+          "summary": "Le cinéaste sud-coréen Bong Joon-Ho, oscarisé pour Parasite, délaisse les plateaux de tournage réels pour sa première incursion dans le cinéma d'animation. Prévu pour 2027, Ally s'annonce comme une odyssée sous-marine ambitieuse, mêlant humour, émotion et prouesses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6182372bcd1b",
+          "title": "Au CNRS, un chiffrement « inviolable » à base d’ADN",
+          "source": "Next INpact",
+          "url": "https://next.ink/232307/au-cnrs-un-chiffrement-inviolable-a-base-dadn/",
+          "category": "ia",
+          "published_at": "2026-04-03T14:08:08+00:00",
+          "summary": "L’ADN peut générer de longues chaines de données aléatoires, ce qui est parfait pour créer de grands masques jetables pour chiffrer des données, avec une protection «&#160;inviolable&#160;». Le CNRS présente ses travaux, qui mélangent ADN et chiffre de Vernam. Dans un précédent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be3b89dcf3ae",
+          "title": "Anthropic a découvert les « curseurs » secrets qui contrôlent les émotions de l’IA Claude",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2225793-pourquoi-votre-ia-semble-parfois-triste-ou-agacee-anthropic-a-enfin-trouve-la-reponse.html",
+          "category": "ia",
+          "published_at": "2026-04-03T13:50:00+00:00",
+          "summary": "Le 2 avril 2026, Anthropic a affirmé avoir identifié, au cœur de son modèle Claude, des « représentations internes » proches d’émotions. Une découverte qui éclaire pourquoi les IA semblent parfois empathiques… et comment ces états influencent réellement leurs décisions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d53f3b3e4a5",
+          "title": "Et si c’était ça, la série d’horreur événement d’Apple TV ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2226269-et-si-cetait-ca-la-serie-dhorreur-evenement-dapple-tv.html",
+          "category": "ia",
+          "published_at": "2026-04-03T13:12:31+00:00",
+          "summary": "Après avoir conquis la science-fiction avec Silo ou Severance, Apple TV+ s'attaque à l'épouvante. Avec un premier trailer qui oscille entre malaise pur et humour grinçant, Widow’s Bay pourrait bien être la surprise majeure de ce printemps.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78f1c7b1c347",
+          "title": "C’est le décollage de la fusée SLS d’Artémis II en vidéo, comme vous ne l’avez jamais vu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2226287-cest-le-decollage-de-la-fusee-sls-dartemis-ii-en-video-comme-vous-ne-lavez-jamais-vu.html",
+          "category": "ia",
+          "published_at": "2026-04-03T13:09:28+00:00",
+          "summary": "La NASA n'avait pas montré cette séquence époustouflante du décollage d'Artémis II, lors de son direct à la télévision. Mais sur son site web, ce point de vue exceptionnel est disponible.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "763f5a0036fa",
+          "title": "Ubisoft assigné en justice pour la fermeture des serveurs de The Crew",
+          "source": "Next INpact",
+          "url": "https://next.ink/232283/ubisoft-assigne-en-justice-pour-la-fermeture-des-serveurs-de-the-crew/",
+          "category": "ia",
+          "published_at": "2026-04-03T13:03:45+00:00",
+          "summary": "Dans le sillage de l&#8217;initiative européenne Stop Killing Games, l&#8217;UFC-Que Choisir a lancé des poursuites en justice à l&#8217;encontre d&#8217;Ubisoft. L&#8217;association de consommateurs reproche à l&#8217;éditeur français d&#8217;avoir fermé les serveurs qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a758a4492060",
+          "title": "HDD Toshiba M12 : jusqu’à 34 To, avec 11 plateaux en verre",
+          "source": "Next INpact",
+          "url": "https://next.ink/232269/hdd-toshiba-m12-jusqua-34-to-avec-11-plateaux-en-verre/",
+          "category": "loi",
+          "published_at": "2026-04-03T13:02:54+00:00",
+          "summary": "Toshiba dévoile sa nouvelle série de disques durs M12, qui sera disponible aussi bien en SMR qu’en CMR, avec 28 à 34 To de stockage. Le fabricant se prépare à aller encore plus loin avec l’arrivée du HAMR et le passage à 12 plateaux. Après Seagate et Western Digital, c’est au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7baa4a20c57e",
+          "title": "Nintendo veut vraiment que vous utilisiez le bouton C de la Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2226145-nintendo-veut-vraiment-que-vous-utilisiez-le-bouton-c-de-la-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-04-03T12:26:13+00:00",
+          "summary": "Maintenant que la fonction GameChat de la Switch 2 est devenue payante, Nintendo tient vraiment à ce que vous vous y intéressiez.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "ce2cc7cb5b7b",
           "title": "Les webinaires de la CNIL",
@@ -32,6 +317,56 @@
           "category": "institutionnel",
           "published_at": "2026-04-03T12:00:00+00:00",
           "summary": "Avant de désigner en ligne votre délégué à la protection des données, vérifiez qu'il dispose du statut, des compétences et des moyens nécessaires à l’exercice de ses missions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3150773ab15",
+          "title": "First child social media bans are falling short, Aussie study says",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/03/first-child-social-media-bans-are-falling-short-aussie-study-says/",
+          "category": "institutionnel",
+          "published_at": "2026-04-03T12:00:00+00:00",
+          "summary": "Indonesia recently became the second country to implement a social media ban policy for children under 16. New data from Australia’s eSafety Commissioner – the first country to initiate a ban three months ago – now reports that 4.7m accounts of children under 16 have since been…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d0fcaf97fb2",
+          "title": "Meta launches new ad placement options",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/03/meta-launches-new-ad-placement-options/",
+          "category": "musique",
+          "published_at": "2026-04-03T12:00:00+00:00",
+          "summary": "Meta recently unveiled a suite of updates including new Reels ad placement options, improved creator partnership discovery, and new AI creative tools.  Reels trending ads – which enable ad placement alongside popular Reels content – are now bookable around major events like…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b036cb2bc924",
+          "title": "The album is back",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/03/the-album-is-back/",
+          "category": "musique",
+          "published_at": "2026-04-03T12:00:00+00:00",
+          "summary": "This week’s Sandbox dives into the album as a format, which is undergoing something of a cultural resurgence led by album-focused artists like Charli xcx, Lily Allen, Geese, Bad Bunny and Rosalía.  We spoke to music strategist, podcaster and author of Body of Work Keith Jopling,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cda8fece76e",
+          "title": "Plus loin que n’importe quel humain : ce qui attend encore les astronautes d’Artémis II",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2226057-plus-loin-que-nimporte-quel-humain-ce-qui-attend-encore-les-astronautes-dartemis-ii.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-03T11:49:06+00:00",
+          "summary": "La mission Artémis II avance bien : les astronautes ont réussi une manœuvre capitale pour la suite du périple vers la Lune. Mais il leur reste encore plusieurs jalons à franchir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ad041278b28",
+          "title": "Combien de tokens me reste-t-il ? La question que Claude n’arrivera peut-être jamais à résoudre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2225323-combien-de-tokens-me-reste-t-il-la-question-que-claude-narrivera-peut-etre-jamais-a-resoudre.html",
+          "category": "ia",
+          "published_at": "2026-04-03T10:47:50+00:00",
+          "summary": "Anthropic tâtonne sous la pression : ses quotas de tokens, devenus imprévisibles, mettent une partie de ses utilisateurs en rogne. L'entreprise américaine paie en partie le succès de Claude et se retrouve depuis plusieurs semaines à manœuvrer entre ajustements à chaud et…",
           "summary_type": "extrait source"
         },
         {
