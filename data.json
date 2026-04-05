@@ -1,9 +1,214 @@
 {
-  "generated_at": "2026-04-04T10:02:25.010339+00:00",
+  "generated_at": "2026-04-05T10:04:11.985300+00:00",
   "days": [
+    {
+      "date": "2026-04-05",
+      "articles": [
+        {
+          "id": "1989fcf7d8ca",
+          "title": "Pourvu qu’il soit le plus court possible : c’est quoi le « dwell time » en cybersécurité ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2226481-pourvu-quil-soit-le-plus-court-possible-cest-quoi-le-dwell-time.html",
+          "category": "ia",
+          "published_at": "2026-04-05T09:04:00+00:00",
+          "summary": "Dans le jargon de la cybersécurité, le dwell time (ou temps de présence) est une statistique scrutée à la loupe. Elle représente le temps qui s'écoule lors d'une intrusion informatique. Mais contrairement à ce que l'on pourrait penser de prime abord, la façon dont ce délai est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d07c21b609d4",
+          "title": "Ils ont conservé son cerveau dans le froid extrême pendant plus de dix ans : voici ce que les scientifiques ont découvert",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2222085-ils-ont-conserve-son-cerveau-dans-le-froid-extreme-pendant-plus-de-dix-ans-voici-ce-que-les-scientifiques-ont-decouvert.html",
+          "category": "ia",
+          "published_at": "2026-04-05T07:44:10+00:00",
+          "summary": "Une étude consacrée au cerveau cryoconservé d’un gérontologue suggère que certains tissus cérébraux peuvent retrouver une partie de leur structure après réchauffement et réhydratation. Ces résultats, encore préliminaires, ne valident toutefois aucune perspective de réanimation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a2efbad8c77",
+          "title": "Essence trop chère : les Français se ruent sur l’électrique d’occasion (et c’est à double tranchant)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2226279-essence-trop-chere-les-francais-se-ruent-sur-lelectrique-doccasion-et-ce-nest-pas-forcement-une-bonne-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-04-05T06:52:00+00:00",
+          "summary": "Le prix du carburant explose, et soudain l’électrique devient intéressant. Dommage qu’il faille toujours une crise pour s’en souvenir.  Cela a le mérite d'avoir inspiré un édito pour la newsletter Watt Else du 2 avril 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fad8dbf8e20",
+          "title": "Pourquoi personne n’en parle ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224947-pourquoi-personne-nen-parle.html",
+          "category": "ia",
+          "published_at": "2026-04-05T06:03:00+00:00",
+          "summary": "Le lancement d'Artémis 2 a été noyé dans un flux d'actu massif. A-t-on complètement perdu le sens de l'information en 2026 ? C'est la question qu'on se pose dans Toujours Plus, notre newsletter qui anticipe l'avenir et que vous recevrez tous les jeudis dans votre boîte mail si…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06220c698121",
+          "title": "Départ spectaculaire de la fusée SLS, envol historique d’Artémis II et objectif Lune – le récap’ de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2226629-depart-spectaculaire-de-la-fusee-sls-envol-historique-dartemis-ii-et-objectif-lune-le-recap-de-la-semaine.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-05T05:08:00+00:00",
+          "summary": "Une semaine 100 % consacrée à l'espace sur Numerama, ou presque. L'actualité a en tout cas été fortement marquée par l'envol de la mission Artémis II vers la Lune.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-04",
       "articles": [
+        {
+          "id": "4df15e6d5070",
+          "title": "Angelina Jolie’s Daughter Shiloh Makes Surprise Cameo in Dayoung’s ‘What’s a Girl to Do’ Music Video: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/shiloh-jolie-dayoung-music-video-cameo-whats-a-girl-to-do-1236215451/",
+          "category": "musique",
+          "published_at": "2026-04-04T21:17:37+00:00",
+          "summary": "The K-pop singer’s new video drops on April 7.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b79a4eb5a62",
+          "title": "Yes Postpones European ‘Fragile’ Tour as Guitarist Steve Howe Prepares for ‘Essential Operation’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/yes-postpones-european-fragile-tour-steve-howe-surgery-1236215445/",
+          "category": "ia",
+          "published_at": "2026-04-04T19:56:54+00:00",
+          "summary": "\"This decision has been made to ensure that Steve can return to the stage in full health,\" the band wrote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32acd93ae79d",
+          "title": "Legendary Drummer James Gadson, Who Backed Diana Ross, Bill Withers & Marvin Gaye, Dies at 86",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/james-gadson-death-drummer-dies-diana-ross-bill-withers-1236215434/",
+          "category": "ia",
+          "published_at": "2026-04-04T18:55:10+00:00",
+          "summary": "Tributes poured in from Questlove, Beck and other artists.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "323ab4bf823c",
+          "title": "‘Saturday Night Live’: Where to Watch the Sketch Comedy Show Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-saturday-night-live-online-free-9546472/",
+          "category": "musique",
+          "published_at": "2026-04-04T18:00:52+00:00",
+          "summary": "Jack Black hosts and Jack White performs as musical guest on Saturday, April 4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00576cbb8658",
+          "title": "Ye Welcomes Lauryn Hill and Travis Scott During Second L.A. Stadium Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kanye-west-lauryn-hill-travis-scott-second-la-show-sofi-1236215429/",
+          "category": "musique",
+          "published_at": "2026-04-04T17:10:26+00:00",
+          "summary": "Other guest appearances at the April 3 SoFi Stadium concert included North West and CeeLo Green.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3af394e45df4",
+          "title": "Ils cherchaient à comprendre le noyau atomique, ils ont trouvé la théorie des cordes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224157-ils-cherchaient-a-comprendre-le-noyau-atomique-ils-et-ont-trouve-la-theorie-des-cordes.html",
+          "category": "ia",
+          "published_at": "2026-04-04T16:31:00+00:00",
+          "summary": "Une plongée dans l’histoire de la théorie des cordes, ou quand une solution suggérée pour un problème donné éclaira en réalité un domaine bien plus vaste.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc0a0e95eece",
+          "title": "Aitana Joins Rosalía’s ‘Confessional’ to Talk About a Past Love: ‘That’s Not It, Sister’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/aitana-joins-rosalia-confessional-lux-tour-madrid-1236215415/",
+          "category": "ia",
+          "published_at": "2026-04-04T15:19:14+00:00",
+          "summary": "The guest artist sat in the confessional on April 3 during Rosalía's third night at Madrid's Movistar Arena.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77563cd19774",
+          "title": "Life Is Strange: Reunion est un point final honnête qui évite la catastrophe naturelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225517-life-is-strange-reunion-est-un-point-final-honnete-qui-evite-la-catastrophe-naturelle.html",
+          "category": "justice",
+          "published_at": "2026-04-04T15:01:00+00:00",
+          "summary": "Cela aurait dû être un événement. Un peu plus de 10 ans après un épilogue aux allures de dilemme déchirant n'offrant le choix qu'entre deux issues dramatiques, Life Is Strange: Reunion justifie son titre en réunissant justement les deux héroïnes du volet original qui avait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "792f2b849e34",
+          "title": "À San Francisco, la cueillette de champignons hallucinogènes gagne les campus de la tech",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2223127-a-san-francisco-la-cueillette-de-champignons-hallucinogenes-gagne-les-campus-de-la-tech.html",
+          "category": "ia",
+          "published_at": "2026-04-04T14:03:00+00:00",
+          "summary": "Dans la baie de San Francisco, certains campus technologiques, parcs et bâtiments publics sont devenus des lieux connus des amateurs de champignons hallucinogènes. Cette cueillette urbaine se développe dans un contexte de fascination croissante de la tech pour les psychédéliques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d65509109516",
+          "title": "J Balvin Surprises Fan in Colombia, Plans to Renovate Her Family Home & More Uplifting Moments in Latin Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/j-balvin-surprises-fan-colombia-home-upliting-moments-1236215101/",
+          "category": "musique",
+          "published_at": "2026-04-04T14:00:00+00:00",
+          "summary": "Plus, Ela Taubert and Guaynaa inspire budding stars through industry panels.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea615d47ddf3",
+          "title": "10 animés du printemps 2026 à suivre absolument",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2218457-10-animes-du-printemps-2026-a-suivre-absolument.html",
+          "category": "ia",
+          "published_at": "2026-04-04T13:31:00+00:00",
+          "summary": "Le printemps 2026 s'annonce chargé au niveau des animés. Des suites aux nouveautés, Numerama vous propose une sélection des meilleurs productions à suivre cette saison.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e20fcdecee3c",
+          "title": "Yale Law School scholars back UMG in Drake’s ‘Not Like Us’ defamation fight, arguing rapper ‘consented’ to Kendrick Lamar’s lyrics",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/yale-law-school-scholars-back-umg-in-drakes-not-like-us-defamation-fight-arguing-rapper-consented-to-kendrick-lamars-lyrics/",
+          "category": "ia",
+          "published_at": "2026-04-04T12:35:40+00:00",
+          "summary": "Two amicus briefs filed on Friday (April 3) in the United States Court of Appeals for the Second Circuit have backed UMG Recordings in its defense against Drake&#8217;s defamation appeal over Kendrick Lamar&#8217;s Not Like Us. Both briefs support the dismissal of Drake&#8217;s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51ac87cee8b0",
+          "title": "Comment les armées françaises planchent pour abattre les drones Shahed",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2217711-comment-les-armees-francaises-planchent-pour-contrer-les-drones-shahed.html",
+          "category": "ia",
+          "published_at": "2026-04-04T12:02:00+00:00",
+          "summary": "Pas cher, le drone kamikaze iranien oblige les armées à revoir leur stratégie de défense pour ne pas gaspiller leurs onéreux missiles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "168ff8d6ffae",
+          "title": "#Flock : Ils sont parmi nous",
+          "source": "Next INpact",
+          "url": "https://next.ink/232334/flock-ils-sont-parmi-nous/",
+          "category": "ia",
+          "published_at": "2026-04-04T11:37:00+00:00",
+          "summary": "En mars, le nom de domaine aliens.gov est enregistré par l’administration américaine. JD Vance dit vouloir se pencher sur la question. La lune est de nouveau pointée du doigt. Je ne dis pas qu’il y a un alignement des planètes, mais je pense qu’on ne nous dit pas tout : pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37c32436cf2c",
+          "title": "Pour ses 50 ans, Apple montre des prototypes d’iPhone et d’iPod",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2226905-pour-ses-50-ans-apple-montre-des-prototypes-diphone-et-dipod.html",
+          "category": "loi",
+          "published_at": "2026-04-04T10:47:56+00:00",
+          "summary": "En plus d'une exhibition éphémère dans les couloirs de l'Apple Park et d'une distribution de goodies collectors à ses employés, Apple a ouvert les portes de ses archives secrètes au Wall Street Journal le temps d'une présentation rapide de prototypes et de documents historiques.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "629d237aa351",
           "title": "Artemis II : la Nasa publie des photos époustouflantes de la Terre prises par les astronautes",
