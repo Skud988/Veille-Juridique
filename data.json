@@ -1,9 +1,254 @@
 {
-  "generated_at": "2026-04-05T10:04:11.985300+00:00",
+  "generated_at": "2026-04-06T11:30:06.441670+00:00",
   "days": [
+    {
+      "date": "2026-04-06",
+      "articles": [
+        {
+          "id": "af9a08557847",
+          "title": "Le duel des deux meilleures guildes atteint un point critique sur World of Warcraft",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2226469-le-duel-des-deux-meilleures-guildes-atteint-un-point-critique-sur-world-of-warcraft.html",
+          "category": "ia",
+          "published_at": "2026-04-06T10:13:36+00:00",
+          "summary": "Dernière ligne droite pour Echo et Liquid. Les deux meilleures guildes du monde doivent se départager sur le premier palier de raid en mode mythique, sur l'extension Midnight de World of Warcraft. Les scores sont très serrés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "faf836de66ff",
+          "title": "L’Odyssée : 5 films de péplum à voir absolument avant le prochain Nolan",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2224173-lodyssee-5-films-peplum-a-voir-absolument-avant-le-prochain-nolan.html",
+          "category": "ia",
+          "published_at": "2026-04-06T10:03:00+00:00",
+          "summary": "Christopher Nolan s'attaque au mythe des mythes. Avec&nbsp;L'Odyssée, attendu pour le 15 juillet 2026, le réalisateur d'Oppenheimer promet une fresque épique en IMAX. Clairement l'un des films les plus attendus de l'année. Mais en attendant de voir Matt Damon en Ulysse défier…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bcb8cd38615",
+          "title": "Chrome, YouTube, TikTok : voici comment enlever la traduction automatique partout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2222805-chrome-youtube-tiktok-voici-comment-enlever-la-traduction-automatique-partout.html",
+          "category": "ia",
+          "published_at": "2026-04-06T08:31:00+00:00",
+          "summary": "Titres, publications, vidéos : les plateformes traduisent désormais tout, souvent sans vous demander votre avis. Une promesse de confort qui peut vite devenir envahissante. Voici comment désactiver ces traductions automatiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d07ab11000d0",
+          "title": "Pepsi and Diageo withdraw sponsorship of UK’s Wireless Festival as Kanye West booking sparks backlash",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/pepsi-and-diageo-withdraw-sponsorship-of-uks-wireless-festival-as-kanye-west-booking-sparks-backlash/",
+          "category": "ia",
+          "published_at": "2026-04-06T08:21:05+00:00",
+          "summary": "\"We have informed the organizers of our concerns, and as it stands, Diageo will not sponsor the 2026 Wireless festival,\" said a company spokesperson.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c8f70cc0dd4",
+          "title": "Trois fusées géantes en trois semaines : l’humanité vit un moment spatial historique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2225203-trois-fusees-geantes-en-trois-semaines-lhumanite-vit-un-moment-spatial-historique.html",
+          "category": "ia",
+          "published_at": "2026-04-06T07:01:00+00:00",
+          "summary": "La fusée de la mission Artémis II s'est envolée avec quatre astronautes à bord, direction la Lune. Mais ce n'est que le début : dans les prochaines semaines, deux autres lanceurs super-lourds, le Starship de SpaceX et la New Glenn de Blue Origin, vont également décoller. Un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b72541e984c3",
+          "title": "Tesla Model S : retour sur la voiture électrique devenue une icône de son époque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2225309-tesla-model-s-retour-sur-la-voiture-electrique-devenue-une-icone-de-son-epoque.html",
+          "category": "justice",
+          "published_at": "2026-04-06T06:02:00+00:00",
+          "summary": "C'est officiellement la fin de la Tesla Model S. Le constructeur américain a arrêté la prise de commandes pour sa grande berline électrique. À cette occasion, Numerama vous propose de retracer l'histoire de ce modèle qui fait désormais partie du paysage historique de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e13ca3653b32",
+          "title": "Charli xcx Management Clarifies Sky Ferreira Claims About ‘Wuthering Heights’ Credits",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/charli-xcx-sky-ferreira-wuthering-heights-credit-statement-1236215575/",
+          "category": "musique",
+          "published_at": "2026-04-06T01:31:21+00:00",
+          "summary": "After Sky Ferreira alleged her old demos were used on Charli xcx's Wuthering Heights album without credit, Charli's management team is sharing a statement on the situation.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-05",
       "articles": [
+        {
+          "id": "e0235cc440b0",
+          "title": "Fans Choose Sofia D’Angelo’s ‘Time’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sofia-dangelo-time-favorite-new-music-poll-results-1236215551/",
+          "category": "musique",
+          "published_at": "2026-04-05T23:17:12+00:00",
+          "summary": "Her new single brought more than 69% of the vote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd355c715db4",
+          "title": "Here Are All the K-Pop Albums That Have Topped the Billboard 200: Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+          "category": "musique",
+          "published_at": "2026-04-05T21:18:21+00:00",
+          "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "791b1c613f8b",
+          "title": "A folk musician had her voice cloned by AI – and her recordings claimed by a copyright troll. Welcome to 2026.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/a-folk-musician-had-her-voice-cloned-by-ai-and-her-recordings-claimed-by-a-copyright-troll-welcome-to-2026/",
+          "category": "ia",
+          "published_at": "2026-04-05T21:00:44+00:00",
+          "summary": "Gamma-owned Vydia caught in controversy over musician whose videos were claimed against\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a655a99dfaf",
+          "title": "Lululemon Updates Viral Festival Bag With Some Serious Streetwear Cred: Shop the Crossbody Here",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/lululemon-all-night-festival-bag-buy-online-1235966327/",
+          "category": "musique",
+          "published_at": "2026-04-05T20:53:00+00:00",
+          "summary": "With a cozy crossbody strap and multiple ways to wear it, this bag will be your new music festival go-to.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8eca4f7701b",
+          "title": "Tuma Basa exits YouTube after eight years with Google platform",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tuma-basa-exits-youtube-after-eight-years-with-google-platform/",
+          "category": "musique",
+          "published_at": "2026-04-05T20:24:50+00:00",
+          "summary": "Basa was previously Global Programming Head of Hip-Hop at Spotify, where he became closely associated with the platform's RapCaviar playlist\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7b97656d32d",
+          "title": "Providence-backed ATG Entertainment launches ATG Live, a dedicated concerts, comedy and events division across 18 US venues",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/providence-backed-atg-entertainment-launches-atg-live-a-dedicated-concerts-comedy-and-events-division-across-18-us-venues/",
+          "category": "musique",
+          "published_at": "2026-04-05T20:16:13+00:00",
+          "summary": "\"We see tremendous opportunity ahead and are excited to continue expanding our reach while delivering unforgettable experiences for audiences and partners across the U.S.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "016c7a4d2fd3",
+          "title": "IMPALA was unhappy about UMG’s purchase of Downtown. Now it says WMG’s Revelator acquisition is ‘bad news for artists, fans, and Europe’s diversity’.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/impala-was-unhappy-about-umgs-purchase-of-downtown-now-it-says-wmgs-revelator-acquisition-is-bad-news-for-artists-fans-and-europes-diversity/",
+          "category": "ia",
+          "published_at": "2026-04-05T20:09:47+00:00",
+          "summary": "\"It is testament to the innovation in the independent sector that Revelator has been bought by Warner,\" IMPALA said in its statement\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2eb93f0a7c28",
+          "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+          "category": "musique",
+          "published_at": "2026-04-05T20:02:19+00:00",
+          "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "201c10d1a54b",
+          "title": "Guns N’ Roses Play Rare Deep Cut Live for First Time in 35 Years at São Paulo Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/guns-n-roses-bad-apples-live-first-time-35-years-sao-paulo-1236215510/",
+          "category": "musique",
+          "published_at": "2026-04-05T19:46:38+00:00",
+          "summary": "The band performed the Use Your Illusion I track at Monsters of Rock Brazil on April 4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf9a5d31e647",
+          "title": "BTS’ ‘ARIRANG’ Spends Second Week Atop Billboard 200",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/bts-arirang-second-week-number-one-billboard-200-chart-1236215482/",
+          "category": "musique",
+          "published_at": "2026-04-05T19:00:03+00:00",
+          "summary": "Plus, Ye, Melanie Martinez and Yeat debut in the top 10.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6dafd8422ef6",
+          "title": "Jack White Hilariously Flubs Guitar Solo in Jack Black’s ‘SNL’ Country Song Sketch: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jack-white-forgets-guitar-solo-jack-black-snl-country-song-1236215499/",
+          "category": "musique",
+          "published_at": "2026-04-05T18:27:45+00:00",
+          "summary": "The rocker also served as musical guest during the Black-hosted episode on April 4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de0e76cb097c",
+          "title": "Jack White Electrifies With New Songs ‘Derecho Demonico’ & ‘G.O.D. And The Broken Ribs’ on ‘SNL’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jack-white-snl-derecho-demonico-god-and-the-broken-ribs-1236215491/",
+          "category": "musique",
+          "published_at": "2026-04-05T17:15:45+00:00",
+          "summary": "The Detroit rocker returned as musical guest alongside host Jack Black on April 4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c74e4bfc162",
+          "title": "4 ans d’infiltration sur le darknet : la face cachée et ultra-organisée des vendeurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2226203-4-ans-dinfiltration-sur-le-darknet-la-face-cachee-et-ultra-organisee-des-vendeurs.html",
+          "category": "ia",
+          "published_at": "2026-04-05T16:25:00+00:00",
+          "summary": "Une immersion de quatre&nbsp;ans dans le darknet révèle la façon dont les vendeurs de drogue et les administrateurs de marchés noirs parlent de leur activité, à travers des témoignages exclusifs. Loin de la représentation chaotique qui est habituellement faite de cette partie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd09dd45b1eb",
+          "title": "Ce gros PC Gamer avec une RTX 5070 Ti  baisse de 300 € et Resident Evil Requiem est offert",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2226579-ce-grps-pc-gamer-avec-une-rtx-5070-ti-baisse-de-300-e-et-resident-evil-requiem-est-offert.html",
+          "category": "ia",
+          "published_at": "2026-04-05T15:49:34+00:00",
+          "summary": "[Deal du jour] Vous n'avez pas envie de monter vous-même un PC gaming ? Le PC Gamer Metal Knight est pensé pour les jeux vidéo, avec une configuration aux petits oignons. Il a tout pour lui avec son prix en baisse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6113b6fef1b",
+          "title": "Arnaqué sur une pinte ? Il utilise l’IA pour révéler le vrai prix de la Guinness en Irlande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2223933-arnaque-sur-une-pinte-il-utilise-lia-pour-reveler-le-vrai-prix-de-la-guinness-en-irlande.html",
+          "category": "ia",
+          "published_at": "2026-04-05T15:18:00+00:00",
+          "summary": "Le « Guinndex », un indice consacré au prix de la Guinness en Irlande, a été développé par un entrepreneur du secteur de l’IA après une consommation jugée trop chère à Dublin. L’outil, nourri par des milliers d’appels automatisés, permet de suivre le prix moyen de la pinte et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "193f14f45e7c",
+          "title": "De The Pitt à Scrubs, pourquoi les séries médicales reviennent en force",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225751-de-the-pitt-a-scrubs-pourquoi-les-series-medicales-reviennent-en-force.html",
+          "category": "ia",
+          "published_at": "2026-04-05T13:32:00+00:00",
+          "summary": "Boostées par le succès planétaire de The Pitt, les séries médicales ont le vent en poupe ces dernières années dans divers pays. Un retour en grâce qui en dit long sur les dysfonctionnements de notre société.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b88ce080e14",
+          "title": "Meilleurs mangas de SF : voilà les incontournables pour les fans du genre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2221937-science-fiction-et-manga-voila-les-incontournables-pour-les-fans-du-genre.html",
+          "category": "ia",
+          "published_at": "2026-04-05T11:23:34+00:00",
+          "summary": "Depuis les grandes découvertes en astronomie et en mathématiques, l’homme a commencé à s’intéresser à la relation entre la science, la technologie et l’individu. C’est de cette réflexion qu’est née la science-fiction, un genre qui nous intéresse ici et dont les mangakas sont…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "1989fcf7d8ca",
           "title": "Pourvu qu’il soit le plus court possible : c’est quoi le « dwell time » en cybersécurité ?",
