@@ -1,9 +1,354 @@
 {
-  "generated_at": "2026-04-06T11:30:06.441670+00:00",
+  "generated_at": "2026-04-07T11:35:10.573847+00:00",
   "days": [
+    {
+      "date": "2026-04-07",
+      "articles": [
+        {
+          "id": "b7f51be81ed9",
+          "title": "Accompagnement des professionnels : le programme de travail de la CNIL pour 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/accompagnement-des-professionnels-le-programme-de-travail-de-la-cnil-pour-2026",
+          "category": "ia",
+          "published_at": "2026-04-07T12:00:00+00:00",
+          "summary": "En 2026, la CNIL poursuit son accompagnement des acteurs publics et privés dans leur mise en conformité avec le RGPD et de certaines dispositions du RIA. S’appuyant sur un dialogue régulier avec les représentants des différents secteurs, elle présente les principaux travaux et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3b0f8901645",
+          "title": "Festival Republic boss defends booking Ye for Wireless Festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/festival-republic-boss-defends-booking-ye-for-wireless-festival/",
+          "category": "musique",
+          "published_at": "2026-04-07T11:15:00+00:00",
+          "summary": "The Wireless Festival is due to take place in London from 10-12 July, with Ye (formerly Kanye West) booked to headline all three nights – following a similar single-headliner tactic with Drake last year. Will it take place, though? Ye’s recent history of anti-semitic statements…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "790e222c1309",
+          "title": "Artémis II : quand et comment les astronautes vont-ils rentrer sur Terre ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2227319-artemis-ii-quand-et-comment-les-astronautes-vont-ils-rentrer-sur-terre.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-07T10:41:00+00:00",
+          "summary": "Le grand départ a sonné pour les quatre astronautes de la mission Artémis II. Leur capsule est sur le chemin du retour. Direction : la Terre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a7a392d2f1a",
+          "title": "Salim-Sulaiman have crossed 100 performances with TribeVibe",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/salim-sulaiman-have-crossed-100-performances-with-tribevibe/",
+          "category": "ia",
+          "published_at": "2026-04-07T10:10:07+00:00",
+          "summary": "Indian composer duo Salim-Sulaiman, comprising siblings Salim and Sulaiman Merchant, have crossed a milestone 100 performances with TribeVibe, the division of promoter BookMyShow that stages gigs at college campuses across [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a3fe6586f8d",
+          "title": "Cap vers la Terre : voilà où se trouve en temps réel la capsule Orion de l’équipage Artémis II",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2224335-cap-vers-la-terre-voila-ou-se-trouve-en-temps-reel-la-capsule-orion-de-lequipage-artemis-ii.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-07T10:04:37+00:00",
+          "summary": "Partie pour un voyage historique d'environ 10 jours, la mission Artémis II file désormais vers la Terre, après avoir survolé la Lune. Pour suivre ce périple exceptionnel, la NASA fournit un outil en ligne pour traquer la capsule Orion et son équipage en temps réel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84707b1c4cc5",
+          "title": "Amazon baisse déjà le prix du nouveau MacBook Air M5 dans sa version 15 pouces",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2227363-amazon-baisse-deja-le-prix-du-nouveau-macbook-air-m5-dans-sa-version-15-pouces.html",
+          "category": "ia",
+          "published_at": "2026-04-07T10:03:22+00:00",
+          "summary": "[Deal du jour] Apple a récemment mis à jour sa gamme de MacBook, dont le modèle Air qui embarque une nouvelle configuration M5. Le modèle 15 pouces est déjà moins cher sur Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa85962f0d23",
+          "title": "Un joueur de Crimson Desert a passé 70 % de son temps sur le jeu pour débloquer l’ultime trophée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2227201-un-joueur-de-crimson-desert-a-passe-70-de-son-temps-sur-le-jeu-pour-debloquer-lultime-trophee.html",
+          "category": "ia",
+          "published_at": "2026-04-07T09:48:36+00:00",
+          "summary": "Un joueur de Crimson Desert a mis 305 heures pour obtenir le trophée platine sur la version PS5, signifiant qu'il a accompli tous les défis majeurs du jeu. 305 heures en moins de trois semaines, faut-il le rappeler ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "151a7ba3733c",
+          "title": "Anthropic (Claude) pourrait dépasser OpenAI (ChatGPT) en 2026 et annonce un partenariat avec Google",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2227315-anthropic-claude-pourrait-depasser-openai-chatgpt-en-2026-et-annonce-un-partenariat-avec-google.html",
+          "category": "ia",
+          "published_at": "2026-04-07T09:47:14+00:00",
+          "summary": "En forte croissance ces derniers mois, le créateur de Claude AI annonce qu'il pourrait dépasser les 30 milliards de dollars de revenus dès 2026 et surpasser les résultats d'OpenAI, son meilleur ennemi. Pour continuer sa montée en puissance, Anthropic va s'allier avec Google et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b02ca0f1124e",
+          "title": "Vers un retour précipité du leasing social à cause de la crise du carburant ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2227313-vers-un-retour-precipite-du-leasing-social-a-cause-de-la-crise-du-carburant.html",
+          "category": "ia",
+          "published_at": "2026-04-07T09:45:43+00:00",
+          "summary": "Avec la flambée des prix du carburant, le gouvernement français cherche des solutions pour pousser les automobilistes vers l’électrique. Un retour anticipé du leasing social n’est pas exclu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "356ac87a7f9d",
+          "title": "☕️ Un Alsacien arrêté pour avoir évoqué le meurtre d’agents du renseignement à une IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/un-alsacien-arrete-pour-avoir-evoque-le-meurtre-dagents-du-renseignement-a-une-ia/",
+          "category": "ia",
+          "published_at": "2026-04-07T09:01:00+00:00",
+          "summary": "Après avoir évoqué son intention d’acheter une arme pour «&#160;tuer un agent du renseignement de la CIA, du Mossad ou de la DGSI » au cours d’une discussion avec un outil d’intelligence artificielle, un Strasbourgeois de 37 ans s’est vu arrêté, chez lui, ce 3 avril. Des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e15f4a584c94",
+          "title": "Ye Responds to Critics of Wireless Festival Appearance: ‘I’ll Have To Show Change Through My Actions’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kanye-west-wireless-festival-criticism-statement-1236216580/",
+          "category": "ia",
+          "published_at": "2026-04-07T08:52:18+00:00",
+          "summary": "Politicians have condemned the move and a number of sponsors have withdrawn from the event.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7ed1d1ae6b3",
+          "title": "☕️ Dans sa lutte contre Epic, Apple se tourne de nouveau vers la Cour suprême",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/dans-sa-lutte-contre-epic-apple-se-tourne-de-nouveau-vers-la-cour-supreme/",
+          "category": "institutionnel",
+          "published_at": "2026-04-07T08:45:00+00:00",
+          "summary": "Il y a trois ans, Apple s’était tourné vers la Cour suprême (la plus haute juridiction des États-Unis) dans son différend avec Epic sur la commission de 30 % de son App Store. Quelques mois plus tard, elle bottait en touche en refusant d’intervenir, sans donner plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e81d058fc0c9",
+          "title": "Une scène coupée d’Elden Ring refait surface et nous en apprend plus sur l’histoire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2227161-une-scene-coupee-delden-ring-refait-surface-et-nous-en-apprend-plus-sur-lhistoire.html",
+          "category": "ia",
+          "published_at": "2026-04-07T08:35:55+00:00",
+          "summary": "Elden Ring regorge de secrets, et ce n’est pas son DLC qui est venu lever le voile sur son histoire énigmatique. Une nouvelle scène, coupée de la version finale du jeu de FromSoftware, vient justement en montrer un peu plus sur l’un des personnages les plus mystérieux du jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f05bb9bb524f",
+          "title": "« Pouvez-vous répéter après moi ? » : comment un recruteur a fait paniquer ce faux développeur nord-coréen avec une seule question (vidéo)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2227199-pouvez-vous-repeter-apres-moi-comment-un-recruteur-a-fait-paniquer-ce-faux-developpeur-nord-coreen-avec-une-seule-question-video.html",
+          "category": "ia",
+          "published_at": "2026-04-07T08:33:27+00:00",
+          "summary": "Le 6 avril 2026, une vidéo apparue sur X a captivé les observateurs des cybermenaces qui pèsent sur les entreprises occidentales. On y voit un recruteur américain piéger un faux développeur nord-coréen avec une simple phrase à répéter.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6209d038eb66",
+          "title": "The Batman 2 : c’est bon, on a enfin de bonnes nouvelles pour le film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2226719-the-batman-2-cest-bon-on-a-enfin-de-bonnes-nouvelles-pour-le-film.html",
+          "category": "ia",
+          "published_at": "2026-04-07T08:25:55+00:00",
+          "summary": "Après des mois de silence radio et des rumeurs d'annulations ou de reports incessants, l'horizon s'éclaircit enfin pour le Bruce Wayne de Robert Pattinson. Entre date de tournage confirmée, retours de visages familiers et casting XXL, la suite du chef-d'œuvre de Matt Reeves est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8b2d0adc84b",
+          "title": "« Carroll » : l’hommage bouleversant du commandant de la mission Artémis II à sa femme décédée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2227165-carroll-lhommage-bouleversant-du-commandant-de-la-mission-artemis-ii-a-sa-femme-decedee.html",
+          "category": "ia",
+          "published_at": "2026-04-07T08:23:18+00:00",
+          "summary": "En orbite autour de la Lune et après avoir battu le record du vol spatial habité le plus lointain, l'équipage a pris le temps d'observer notre satellite naturel à l'œil nu. Les membres en ont profité pour proposer des noms très symboliques pour deux cratères jusqu'ici anonymes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e99ae0f04b94",
+          "title": "Anthropic affiche une croissance record et dépasse OpenAI en rythme de chiffre d’affaires",
+          "source": "Next INpact",
+          "url": "https://next.ink/232393/anthropic-affiche-une-croissance-record-et-depasse-openai-en-rythme-de-chiffre-daffaires/",
+          "category": "ia",
+          "published_at": "2026-04-07T08:13:53+00:00",
+          "summary": "Anthropic, éditeur des modèles Claude, a annoncé dimanche un accord d&#8217;approvisionnement auprès de Google et de Broadcom destiné à renforcer ses infrastructures de calcul, principalement aux États-Unis. L&#8217;entreprise a dans le même temps affirmé avoir atteint 30…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20365d5c76fc",
+          "title": "Music publishers tell judge X’s antitrust lawsuit is ‘retaliation’ against their 2023 copyright lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/music-publishers-tell-judge-xs-antitrust-lawsuit-is-retaliation-against-their-2023-copyright-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-04-07T07:56:46+00:00",
+          "summary": "The publishers claim X never attempted to secure an individual license and that X cannot cite an example of a music publisher rejecting such a request.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a6f83a13f39",
+          "title": "L’iPhone est l’autre gagnant de la mission Artemis II",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2227163-liphone-est-lautre-gagnant-de-la-mission-artemis-ii.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-07T07:54:44+00:00",
+          "summary": "Ce week-end, les astronautes de la mission Artemis II ont photographié la Terre et la Lune avec un iPhone 17 Pro Max. Un coup de communication incroyable pour Apple… qui n'y est certainement pour rien. L'iPhone s'impose comme le produit ultime dans la vie de tous les jours, y…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "003294cd9357",
+          "title": "☕️ Ventoy fête ses six ans et corrige un bug avec les distributions Linux immuables",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/ventoy-fete-ses-six-ans-et-corrige-un-bug-avec-les-distributions-linux-immuables/",
+          "category": "ia",
+          "published_at": "2026-04-07T07:32:00+00:00",
+          "summary": "C’est en effet le 5 avril 2020 que la première version de Ventoy a été mise en ligne, rapidement suivie d’une 1.0.01 pour corriger un vilain bug. Nous en parlions la même année avec la mise en ligne de la version 1.0.22. C’est pour rappel un outil permettant de créer des clés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87bbc20d3ebe",
+          "title": "Bill Ackman’s Pershing Square bids to buy Universal Music Group in $64 billion deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bill-ackmans-pershing-square-bids-to-buy-universal-music-group-in-64-billion-deal/",
+          "category": "musique",
+          "published_at": "2026-04-07T07:31:19+00:00",
+          "summary": "\"UMG's stock price has languished due to a combination of issues that are unrelated to the performance of its music business and importantly, all of them can be addressed with this transaction,\" says Ackman\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "562976396a34",
+          "title": "Contre toute attente, Dune 3 sera le film le plus court de la saga",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2227147-contre-toute-attente-dune-3-sera-le-film-le-plus-court-de-la-saga.html",
+          "category": "ia",
+          "published_at": "2026-04-07T07:27:02+00:00",
+          "summary": "De manière très surprenante, Dune 3, conclusion de la trilogie de SF épique réalisée par Denis Villeneuve, durera moins longtemps que ses prédécesseurs. On aurait pu penser l'inverse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "222fc5d200c3",
+          "title": "Wu-Tang Clan’s Method Man Addresses No-Show at Australia Tour Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/method-man-wu-tang-australian-tour-backlash-1236216553/",
+          "category": "ia",
+          "published_at": "2026-04-07T05:57:11+00:00",
+          "summary": "“Before we even went on the overseas tour, I wasn’t going. I said I wasn’t going. I said I was booked,” Method Man explained in a video.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3e1b6a718cf",
+          "title": "Offset Shot & Hospitalized in Florida",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/offset-shot-hospital-florida-1236216540/",
+          "category": "musique",
+          "published_at": "2026-04-07T02:20:12+00:00",
+          "summary": "The Migos rapper is \"stable and being closely monitored,\" his reps tell Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e96176b49a7b",
+          "title": "Lady Gaga ‘Absolutely Heartbroken’ to Cancel Tonight’s Montreal Concert: ‘I Truly Could Not Feel Worse About Letting You Down’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/lady-gaga-montreal-concert-canceled-bell-centre-1236216521/",
+          "category": "musique",
+          "published_at": "2026-04-07T01:33:45+00:00",
+          "summary": "She had to cancel her third of three Mayhem Ball stops at Bell Centre due to an ongoing respiratory infection.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "294a3db7c565",
+          "title": "&TEAM, Ai & Yuki Chiba to Perform at First Ever Global Citizen Live in Tokyo",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/global-citizen-live-tokyo-lineup-andteam-ai-yuki-chiba-1236216379/",
+          "category": "musique",
+          "published_at": "2026-04-07T01:00:00+00:00",
+          "summary": "More performers at the inaugural Japanese concert will be announced in the coming weeks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "238fd297d484",
+          "title": "Anitta & Shakira Announce New ‘Choka Choka’ Collab",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/anitta-shakira-choka-choka-announcement-1236216468/",
+          "category": "musique",
+          "published_at": "2026-04-07T00:33:06+00:00",
+          "summary": "The upcoming single will be on Anitta's forthcoming album EQUILIBRIVM.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-06",
       "articles": [
+        {
+          "id": "7f9e5cd1617a",
+          "title": "Lady Gaga & Doechii Hit the ‘Runway,’ Sabrina Carpenter Gives a ‘House Tour’ & Olivia Rodrigo Enters Her ‘Sad’ Girl Era: This Week in Pop",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/lady-gaga-sabrina-carpenter-olivia-rodrigo-pop-shop-podcast-1236216304/",
+          "category": "musique",
+          "published_at": "2026-04-06T23:03:36+00:00",
+          "summary": "On the new Billboard Pop Shop Podcast, Katie &#38; Keith are talking about the biggest pop news from some of the biggest women in pop.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c76755de388",
+          "title": "À quel point les astronautes d’Artémis II ont-ils frôlé la Lune ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2227095-a-quel-point-les-astronautes-dartemis-ii-ont-ils-frole-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-04-06T19:51:02+00:00",
+          "summary": "Reid Wiseman, Christina Koch, Victor Glover et Jeremy Hansen, les quatre astronautes d'Artémis II, sont en train de survoler la Lune, et pourront observer sa face cachée, y compris des endroits qu'aucun œil humain n'a vus dans l'histoire. Mais à quel point la capsule Orion…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92c23a000c3a",
+          "title": "Jour J pour Artémis II : suivez en direct le survol de la Lune, qui a lieu actuellement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2227029-ou-et-quand-voir-en-direct-le-vol-dartemis-ii-derriere-la-lune-ce-soir.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-06T19:21:19+00:00",
+          "summary": "Reid Wiseman, Victor Glover, Christina Koch et Jeremy Hansen deviennent cette nuit les humains s'étant éloignés le plus de la Terre, en battant le record de la mission Apollo 13 en 1970, durant le survol de la face cachée de la Lune.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c412b9323bf",
+          "title": "Quelles sont les meilleures chaises de bureau ergonomiques en 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2225841-quelles-sont-les-meilleures-chaises-ergonomiques-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-04-06T14:32:00+00:00",
+          "summary": "Si vous passez le plus clair de votre temps assis devant un bureau, investir dans une chaise ergonomique est aussi crucial que de choisir un bon matelas. Voici les modèles que l'on vous recommande en 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "669407409d94",
+          "title": "Les jeux à cocher ne sont pas morts : découvrez nos trois titres du moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225703-les-jeux-a-cocher-ne-sont-pas-morts-decouvrez-nos-trois-titres-du-moment.html",
+          "category": "ia",
+          "published_at": "2026-04-06T13:02:00+00:00",
+          "summary": "Les jeux à cocher ont connu une véritable explosion ces dernières années, avant de subir un gros coup de mou face à la surproduction et à la lassitude des joueurs. Pourtant, certains titres récents montrent que la formule a encore de beaux restes. Voici trois jeux simples,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "046b164ba05f",
+          "title": "From Access to Infrastructure: How Managers Can Win at Streaming",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/06/from-access-to-infrastructure-how-managers-can-win-at-streaming/",
+          "category": "musique",
+          "published_at": "2026-04-06T11:50:00+00:00",
+          "summary": "For the first decade of streaming, success was largely about access. The industry focused on getting music onto digital service providers as quickly and widely as possible, and solving distribution [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15843594a662",
+          "title": "La légendaire première machine à pince du Japon reste toujours introuvable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2225599-la-legendaire-premiere-machine-a-pince-du-japon-reste-toujours-introuvable.html",
+          "category": "ia",
+          "published_at": "2026-04-06T11:30:00+00:00",
+          "summary": "En octobre 2025, Taito Corporation, la maison derrière le cultissime Space Invaders, avait lancé une enquête nationale au Japon afin de localiser la Crown 602, la première machine à pince fabriquée au Japon. Une chasse au trésor qui s'avère de plus en plus difficile, mais non…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "af9a08557847",
           "title": "Le duel des deux meilleures guildes atteint un point critique sur World of Warcraft",
