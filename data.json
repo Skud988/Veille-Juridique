@@ -1,9 +1,624 @@
 {
-  "generated_at": "2026-04-07T11:35:10.573847+00:00",
+  "generated_at": "2026-04-08T11:39:18.203701+00:00",
   "days": [
+    {
+      "date": "2026-04-08",
+      "articles": [
+        {
+          "id": "c62b070277e0",
+          "title": "Municipales 2026 : le bilan de l’observatoire des élections de la CNIL",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/municipales-2026-bilan-observatoire",
+          "category": "cnil",
+          "published_at": "2026-04-08T12:00:00+00:00",
+          "summary": "À l’occasion des élections municipales des 15 et 22&amp;nbsp;mars 2026, la CNIL a reçu 739&amp;nbsp;signalements, majoritairement pour des opérations de prospection par SMS (63&amp;nbsp;%), et a instruit 81&amp;nbsp;plaintes. À ce stade, quatre contrôles ont été engagés, ainsi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "452e9d94ea06",
+          "title": "WMG’s Atlantic Music Group’s latest joint venture is with Fader Label",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/08/wmgs-atlantic-music-groups-latest-joint-venture-is-with-fader-label/",
+          "category": "musique",
+          "published_at": "2026-04-08T11:30:00+00:00",
+          "summary": "Atlantic Music Group (AMG) is a big fan of joint ventures at the moment. Fader Label is its latest partnership.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a5ee7afd6a2",
+          "title": "Disclosure Day : le film de Spielberg qui va conclure 50 ans de science-fiction",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228241-disclosure-day-le-film-de-spielberg-qui-va-conclure-50-ans-de-science-fiction.html",
+          "category": "ia",
+          "published_at": "2026-04-08T11:02:00+00:00",
+          "summary": "Près d'un demi-siècle après avoir changé à jamais notre regard sur les étoiles avec&nbsp;Rencontres du troisième type, Steven Spielberg s'apprête à livrer son œuvre de science-fiction ultime. Avec&nbsp;Disclosure Day, le cinéaste ne se contente pas d'un nouveau blockbuster, il…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bb9cc02e6c6",
+          "title": "☕️ Bitcoin : une nouvelle enquête affirme révéler l’identité de Satoshi Nakamoto",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/bitcoin-une-nouvelle-enquete-affirme-reveler-lidentite-de-satoshi-nakamoto/",
+          "category": "ia",
+          "published_at": "2026-04-08T11:01:00+00:00",
+          "summary": "Serait-ce enfin l&#8217;épilogue ? Dix-sept ans après la publication du fameux livre blanc signé Satoshi Nakamoto et l&#8217;essor du phénomène bitcoin, deux journalistes du New York Times affirment être en mesure de certifier l&#8217;identité réelle de son créateur.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb378df63ec2",
+          "title": "Sony Music and UMG team up to launch music festivals in Asia",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/08/sony-music-and-umg-team-up-to-launch-music-festivals-in-asia/",
+          "category": "musique",
+          "published_at": "2026-04-08T10:54:41+00:00",
+          "summary": "Major labels are very keen on joint ventures at the moment, but rarely with one another. Nine By Nine is the latest exception to the rule.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "758ca91526d2",
+          "title": "Muse Group says musicians have ‘clear boundaries’ on AI usage",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/08/muse-group-says-musicians-have-clear-boundaries-on-ai-usage/",
+          "category": "ia",
+          "published_at": "2026-04-08T10:49:41+00:00",
+          "summary": "Muse Group is the parent group of Ultimate Guitar, Hal Leonard, MuseScore and Audacity, so it’s got a sizeable community of musicians.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f65275e309b",
+          "title": "Sony Music’s AWAL launches a fund for UK ‘cultural curators’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/08/sony-musics-awal-launches-a-fund-for-uk-cultural-curators/",
+          "category": "musique",
+          "published_at": "2026-04-08T10:46:55+00:00",
+          "summary": "AWAL is known for developing independent artists, but now it is launching an initiative focused on ‘cultural curators’ in the UK.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37c6b4bef56f",
+          "title": "Brands and music: KFC single and Leon Thomas’s Delta show",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/08/brands-and-music-kfc-single-and-leon-thomass-delta-show/",
+          "category": "musique",
+          "published_at": "2026-04-08T10:44:51+00:00",
+          "summary": "Mentioning KFC and music in the same sentence is enough to send a shiver down any electronic-music fan’s spine.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60d0ceb9877d",
+          "title": "Ne vous faites pas avoir : de fausses images d’Artémis II inondent les réseaux, voici où trouver les vraies",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2228013-ne-vous-faites-pas-avoir-de-fausses-images-dartemis-ii-inondent-les-reseaux-voici-ou-trouver-les-vraies.html",
+          "category": "ia",
+          "published_at": "2026-04-08T10:43:23+00:00",
+          "summary": "Attention aux fausses images de la mission Artémis II autour de la Lune. Des visuels créés de toutes pièces par des intelligences artificielles sont diffusés sur les réseaux sociaux. Voici où trouver les véritables images de la mission lunaire de la Nasa.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "229c1a3788da",
+          "title": "UMG will review Pershing Square bid but backs management team",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/08/umg-will-review-pershing-square-bid-but-backs-management-team/",
+          "category": "musique",
+          "published_at": "2026-04-08T10:41:22+00:00",
+          "summary": "As expected there have been a few follow-ups to yesterday’s news that hedge-fund Pershing Square wants to buy Universal Music Group for €55bn.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a9e60c62b6e",
+          "title": "Les astronautes d’Artémis II ont passé un petit coup de fil à l’ISS, où se trouve Sophie Adenot",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2228079-les-astronautes-dartemis-ii-ont-passe-un-petit-coup-de-fil-a-liss-ou-se-trouve-sophie-adenot.html",
+          "category": "ia",
+          "published_at": "2026-04-08T10:30:00+00:00",
+          "summary": "Durant leur voyage vers la Lune, les astronautes à bord de la mission Artémis II ont pu avoir une conversation avec d'autres voyageurs spatiaux : l'équipage de la Station spatiale internationale, en orbite autour de la Terre, dont la Française Sophie Adenot.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85290658d199",
+          "title": "After Cox ruling, Supreme Court wipes out Grande Communications’ $47M music piracy verdict",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-cox-ruling-supreme-court-wipes-out-grande-communications-47m-music-piracy-verdict/",
+          "category": "musique",
+          "published_at": "2026-04-08T10:23:05+00:00",
+          "summary": "The Supreme Court vacated the 2022 judgment and remanded the case to the Fifth Circuit for reconsideration in light of Cox v. Sony Music.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fef598e7565",
+          "title": "Sony Music Publishing UK and Second Songs sign Olivia Dean co-writer Bastian Langebaek to global deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-uk-and-second-songs-sign-olivia-dean-co-writer-bastian-langebaek-to-global-deal/",
+          "category": "musique",
+          "published_at": "2026-04-08T10:03:32+00:00",
+          "summary": "Agreement follows Langebaek’s contributions to Olivia Dean’s UK No.1 album and an Ivor Novello nomination for The Art of Loving.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "917c5ca5a317",
+          "title": "Quand des réseaux d’images non consenties à caractère sexuel pullulent sur Telegram",
+          "source": "Next INpact",
+          "url": "https://next.ink/232671/quand-des-reseaux-dimages-non-consenties-a-caractere-sexuel-pullulent-sur-telegram/",
+          "category": "ia",
+          "published_at": "2026-04-08T10:01:00+00:00",
+          "summary": "Dans un rapport intitulé «&#160;Le harcèlement comme infrastructure&#160;», AI Forensics analyse la manière dont Telegram est utilisé comme lieu de dépôt et d&#8217;échange de contenus non consentis à caractère sexuel par des milliers d&#8217;internautes espagnols et italiens.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b346a3c592b",
+          "title": "‘Physical Merchandise Has Never Been More Important’: Australian Study Finds Gen Z Is Getting Hands-On",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/australian-study-finds-gen-z-physical/",
+          "category": "musique",
+          "published_at": "2026-04-08T09:55:49+00:00",
+          "summary": "\"Love Song” surveyed 5,692 Australians, including 1,411 Gen Z respondents, for a glimpse at how young people engage with culture, navigate fandom, and prioritize live experiences.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d14d0993b1cd",
+          "title": "One Piece : après le manga, le dessin animé et le live action, voilà… l’animé spécial Lego",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228191-one-piece-apres-le-manga-le-dessin-anime-et-le-live-action-voila-lanime-special-lego.html",
+          "category": "ia",
+          "published_at": "2026-04-08T09:46:38+00:00",
+          "summary": "One Piece se décline encore dans un nouveau projet, cette fois avec l'univers artistique de Lego. En septembre 2026, on pourra découvrir les aventures de l'équipage de Chapeau de Paille, dont les membres auront été transformés en briques animées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "674b79de8daa",
+          "title": "Après les photos iPhone, voici les photos GoPro de la mission Artemis II",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2228107-apres-les-photos-iphone-voici-les-photos-gopro-de-la-mission-artemis-ii.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-08T09:44:44+00:00",
+          "summary": "Apple n'est pas le seul heureux élu de la mission Artemis II autour de la Lune : les astronautes ont aussi emmené une GoPro HERO4 Black de 2014 dans l'espace. La Nasa a publié de premiers clichés pris avec l'action cam : l'entreprise s'en est félicitée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "edc0e89c86f0",
+          "title": "En promotion, la Xbox Series X est 100 € moins chère que la PS5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228229-en-promotion-la-xbox-series-x-est-100-e-moins-chere-que-la-ps5.html",
+          "category": "ia",
+          "published_at": "2026-04-08T09:39:38+00:00",
+          "summary": "[Deal du jour] La Xbox Series X profite aujourd'hui d'une réduction de 10 % chez Amazon. Moins chère que sa concurrente, la PlayStation 5, la console de Microsoft a tout pour plaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4399fc3b24b6",
+          "title": "La mission Artémis II est une bonne nouvelle pour ce jeu vidéo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228031-la-mission-artemis-ii-est-une-bonne-nouvelle-pour-ce-jeu-video.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-08T09:36:08+00:00",
+          "summary": "Le jeu vidéo Kerbal Space Program permet de prendre en charge un programme spatial et, notamment, d'assembler une fusée avec un réalisme incroyable. Alors que la mission Artémis II est en cours, le jeu en profite pour connaître un trafic important sur Steam. À son échelle, bien…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99c2d76f9168",
+          "title": "Arnaques cyber : aux USA, 3 fois plus de plaintes en 10 ans, mais 20 fois plus de pertes",
+          "source": "Next INpact",
+          "url": "https://next.ink/232520/arnaques-cyber-aux-usa-3-fois-plus-de-plaintes-en-10-ans-mais-20-fois-plus-de-pertes/",
+          "category": "ia",
+          "published_at": "2026-04-08T09:05:28+00:00",
+          "summary": "Chez les plus de 60 ans, qui totalisent le plus grand nombre de plaintes, et les pertes les plus importantes, le nombre de plaintes pour phishing et spoofing (y compris téléphonique et par SMS) a été multiplié par 16 en seulement deux ans, et les pertes multipliées par 25. Dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0579206aadc",
+          "title": "Hideo Kojima (Metal Gear Solid) pense que vous n’êtes pas assez cultivé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228007-hideo-kojima-metal-gear-solid-pense-que-vous-netes-pas-assez-cultive.html",
+          "category": "ia",
+          "published_at": "2026-04-08T08:51:43+00:00",
+          "summary": "La culture, c'est important. Hideo Kojima l'a bien compris, et il veut que vous le compreniez aussi. C'est pourquoi le créateur veut vous faire aimer la culture. Aimez la culture s'il vous plaît.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e1b5eec1876",
+          "title": "Houston, on a encore un problème de WC",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2228009-houston-on-a-encore-un-probleme-de-wc.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-08T08:34:53+00:00",
+          "summary": "La mission historique Artémis II autour de la Lune se déroule à merveille, à un détail près : la capsule Orion rencontre un problème technique des plus gênants avec ses toilettes. Les astronautes n'arrivent plus à vider le réservoir dans l'espace.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4cc38ba12122",
+          "title": "Star Wars : quand Luke Skywalker en personne valide la direction de la licence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228003-star-wars-quand-luke-skywalker-en-personne-valide-la-direction-de-la-licence.html",
+          "category": "ia",
+          "published_at": "2026-04-08T08:29:13+00:00",
+          "summary": "À l'aube du 50e anniversaire du début du tournage de la saga, Mark Hamill s'est confié sur l'avenir de la franchise. Entre une collaboration ludique avec Lego et un passage de témoin historique au sommet de Lucasfilm, l'interprète de Luke Skywalker affiche une confiance totale…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9683358c556",
+          "title": "Départs, réorganisation, portrait de Sam Altman, entrée en bourse : ça patine chez OpenAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/232554/departs-reorganisation-portrait-de-sam-altman-entree-en-bourse-ca-patine-chez-openai/",
+          "category": "ia",
+          "published_at": "2026-04-08T08:13:21+00:00",
+          "summary": "Il se passe toujours quelque chose chez OpenAI, à tel point que la start-up se donne parfois des allures de poulet sans tête. Pas très rassurant à quelques encablures d&#8217;une introduction en Bourse. Les derniers jours ont été particulièrement turbulents chez OpenAI. En toute…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc59ab10f8b6",
+          "title": "C’est officiel, Google Chrome passe aux onglets verticaux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228019-cest-officiel-google-chrome-passe-aux-onglets-verticaux.html",
+          "category": "ia",
+          "published_at": "2026-04-08T08:08:40+00:00",
+          "summary": "Quelques semaines après leur apparition dans les canaux de test, les « onglets verticaux » de Chrome sont officiellement déployés dans le navigateur. Google veut faire gagner du temps aux personnes qui ouvrent trop d'onglets simultanément avec cette nouveauté.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d73dbb3d3bd",
+          "title": "En Russie, la chasse aux VPN provoque une panne bancaire géante",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2227867-en-russie-la-chasse-aux-vpn-provoque-une-panne-bancaire-geante.html",
+          "category": "ia",
+          "published_at": "2026-04-08T07:46:09+00:00",
+          "summary": "Une panne technique survenue le 3 avril en Russie, au moment d’un nouveau tour de vis contre les VPN, a relancé les interrogations sur les conséquences concrètes de la stratégie de contrôle numérique du Kremlin. L’offensive des autorités russes contre les VPN a provoqué un effet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad7f77be0c23",
+          "title": "« Pendant qu’il mangeait un sandwich » : l’anecdote qui résume tout ce qui inquiète dans le nouveau modèle d’Anthropic",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2227999-pendant-quil-mangeait-un-sandwich-lanecdote-qui-resume-tout-ce-qui-inquiete-dans-le-nouveau-modele-danthropic.html",
+          "category": "ia",
+          "published_at": "2026-04-08T07:44:52+00:00",
+          "summary": "Alors qu'Anthropic officialisait, le 7 avril 2026, le lancement de Claude Mythos Preview, son modèle le plus puissant à ce jour, c'est un incident documenté dans la fiche technique du modèle qui a capté l'attention : une version antérieure du modèle a réussi à s'échapper de son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f84bb5fc823",
+          "title": "Après Hollywood, Milla Jovovich se lance dans l’IA et son projet fait déjà un carton",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2227963-apres-hollywood-milla-jovovich-se-lance-dans-lia-et-son-projet-fait-deja-un-carton.html",
+          "category": "ia",
+          "published_at": "2026-04-08T07:43:31+00:00",
+          "summary": "Connue pour ses rôles au cinéma, Milla Jovovich s’invite désormais sur le terrain de l’intelligence artificielle. Avec MemPalace, un projet open source inspiré d’une méthode mnémotechnique antique, l’actrice propose une nouvelle façon d’aider les assistants IA à organiser leurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c8750ec9fc7",
+          "title": "USA : les chantiers de datacenters butent sur un double mur énergétique",
+          "source": "Next INpact",
+          "url": "https://next.ink/232441/usa-les-chantiers-de-datacenters-butent-sur-un-double-mur-energetique/",
+          "category": "ia",
+          "published_at": "2026-04-08T07:18:35+00:00",
+          "summary": "Entre 30 et 50 % des projets de datacenters attendus pour 2026 aux États-Unis devraient enregistrer des retards. Outre la difficulté à sécuriser les accès à l&#8217;énergie nécessaires à leur alimentation, ce ralentissement de la construction serait principalement dû aux délais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fdc6f570b97",
+          "title": "☕️ Votre PC tient-il la route ? Steam pourrait donner la réponse avec une estimation des FPS",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/votre-pc-tient-il-la-route-steam-pourrait-donner-la-reponse-avec-une-estimation-des-fps/",
+          "category": "ia",
+          "published_at": "2026-04-08T06:46:01+00:00",
+          "summary": "Quel joueur ne s&#8217;est pas réveillé en pleine nuit, de la sueur glacée perlant à grosses gouttes sur le visage et dans le dos, en se demandant si tel jeu allait tourner correctement sur son PC ? Il faut dire que les outils à leur disposition sont limités : ils peuvent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5135c446f269",
+          "title": "Jason Derulo Sets ‘Last Dance’ Arena Tour of Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/jason-derulo-last-dance-arena-tour-australia-2026-1236217621/",
+          "category": "ia",
+          "published_at": "2026-04-08T06:18:07+00:00",
+          "summary": "The R&#38;B star will play arenas on both coasts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b850b35044c8",
+          "title": "Y a-t-il trop de Copilot dans l’avion ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/232512/y-a-t-il-trop-de-copilot-dans-lavion/",
+          "category": "ia",
+          "published_at": "2026-04-08T06:01:12+00:00",
+          "summary": "Trop de copilotes tuent-ils le Copilot ? C’est la question soulevée par un spécialiste de l’IA qui a dénombré des dizaines de versions différentes de Copilot chez Microsoft. L’éditeur en met partout, à toutes les sauces. Sorti de Copilot, point de salut chez Microsoft.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02caec21375b",
+          "title": "5 bonnes raisons de voir The Testaments, l’intrigante suite de The Handmaid’s Tale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2227089-5-bonnes-raisons-de-voir-the-testaments-lintrigante-suite-de-the-handmaids-tale.html",
+          "category": "ia",
+          "published_at": "2026-04-08T04:00:00+00:00",
+          "summary": "Vous pensiez en avoir fini avec le régime de Gilead ? Que nenni ! Le 8 avril, Disney + diffuse les trois premiers épisodes de The Testaments, la suite de la série culte The Handmaid's Tale. « Under His Eye ».  &nbsp;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2de03b7d3bc",
+          "title": "APRA AMCOS CEO Dean Ormston Tapped For National Cultural Policy Advisory Group",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/apra-amcos-ceo-dean-ormston-national-cultural-policy/",
+          "category": "ia",
+          "published_at": "2026-04-08T03:20:41+00:00",
+          "summary": "Ormston will provide expert advice and industry perspectives as a member of the nine-strong Advisory Group, formed by Australia's federal government.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20065803b67e",
+          "title": "Courtney Barnett Expands 2026 ‘Creature of Habit’ Tour, Adds Australia Swing",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/courtney-barnett-expands-2026-creature-of-habit-tour-1236217555/",
+          "category": "ia",
+          "published_at": "2026-04-08T02:41:17+00:00",
+          "summary": "The award-winning singer and songwriter adds an Australia leg to her international tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f73112c6fd24",
+          "title": "A Complete Timeline of Lady Gaga & Madonna’s Rivalry & Reconciliation",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/lady-gaga-madonna-timeline-feud-friends/",
+          "category": "ia",
+          "published_at": "2026-04-08T01:37:22+00:00",
+          "summary": "From enemies to frenemies to friends, here's everything we know about the pop icons' gossip-fueled rivalry.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cb1d505f7b1",
+          "title": "Signed: Emei Inks With Atlantic/Nice Life; Sara Bareilles Jumps to CAA",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/sara-bareilles-caa-emei-atlantic-records-music-signings/",
+          "category": "musique",
+          "published_at": "2026-04-08T01:34:17+00:00",
+          "summary": "Other recent signings include Los Gemelos de Sinaloa, Holding Absence, Henry Morris, Kathryn Gallagher and, at Warner Music, a new K-pop girl group.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d03dd75f750",
+          "title": "Journey’s Neal Schon Responds to Arnel Pineda Claims He Was Stopped From Leaving the Band",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/journey-neal-schon-arnel-pineda-stopped-from-leaving-band-1236217459/",
+          "category": "ia",
+          "published_at": "2026-04-08T01:22:12+00:00",
+          "summary": "In a new Facebook statement, Schon seemingly replied to quotes from Pineda in a Rolling Stone article on the band's complicated history.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b9c3ed7d151",
+          "title": "Aubrey O’Day Defends Her Decision to Attend Ye’s L.A. Concerts: ‘We Consume Work From Imperfect Creators’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/aubrey-oday-kanye-west-concerts-defends-criticism-1236217420/",
+          "category": "ia",
+          "published_at": "2026-04-08T01:12:45+00:00",
+          "summary": "The Danity Kane singer responded to criticism of her going to both of Ye's SoFi Stadium shows, especially after speaking out against Diddy.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-07",
       "articles": [
+        {
+          "id": "19e1734df925",
+          "title": "« Ce qui prenait des mois se fait désormais en quelques minutes » : pourquoi le nouveau modèle d’Anthropic effraie autant qu’il impressionne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2227977-ce-qui-prenait-des-mois-se-fait-desormais-en-quelques-minutes-pourquoi-le-nouveau-modele-danthropic-effraie-autant-quil-impressionne.html",
+          "category": "ia",
+          "published_at": "2026-04-07T20:19:44+00:00",
+          "summary": "Le 7 avril 2026, Anthropic a officiellement lancé Project Glasswing, une initiative de cybersécurité adossée à son nouveau modèle Claude Mythos Preview. Un modèle jugé si dangereux que l'entreprise refuse de le rendre public.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22e6c3e8f51f",
+          "title": "Bill Ackman confident he’ll win over UMG shareholders to $64 billion bid, says Bolloré response was ‘music to my ears’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bill-ackman-confident-hell-win-over-umg-shareholders-to-64-billion-bid-says-bollore-response-was-music-to-my-ears/",
+          "category": "musique",
+          "published_at": "2026-04-07T19:40:16+00:00",
+          "summary": "The transaction requires the support of UMG's board and a two-thirds vote of shareholders who attend a meeting called for the purpose\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef9d638afc59",
+          "title": "Quelque chose d’exceptionnel s’est passé sur World of Warcraft ce week-end : on vous raconte le dénouement fou de la course au World First",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2227475-quelque-chose-dexceptionnel-sest-passe-sur-world-of-warcraft-ce-week-end-on-vous-raconte-le-denouement-fou-de-la-course-au-world-first.html",
+          "category": "ia",
+          "published_at": "2026-04-07T18:58:23+00:00",
+          "summary": "La course pour vaincre en premier le boss final du nouveau raid de World of Warcraft s'est achevée ce week-end au terme d'un suspense irrespirable. Entre une phase secrète indétectable, des choix tactiques de dernière minute et un écart infime entre les États-Unis et l'Europe,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "223b11804e40",
+          "title": "Virgin Music Group announces global distribution partnership with Ari Elkins and Joey McCarthy’s new label, Suede Records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/virgin-music-group-announces-global-distribution-partnership-with-ari-elkins-and-joey-mccarthys-new-label-suede-records/",
+          "category": "musique",
+          "published_at": "2026-04-07T18:51:07+00:00",
+          "summary": "VMG to provide global distribution and marketing as Suede focuses on long-term artist development.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "514aa537dfcc",
+          "title": "Influencer collabs account for 50% of an Indian soundtrack’s promotional budget, says report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/influencer-collabs-account-for-50-of-an-indian-soundtracks-promotional-budget-says-report/",
+          "category": "musique",
+          "published_at": "2026-04-07T17:30:13+00:00",
+          "summary": "In the streaming age, the probability of a song becoming a chart hit is often directly proportional to the size of its promotional budget. According to a recent report in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e865f7150e8d",
+          "title": "Wireless Festival cancelled after UK government blocks Kanye West from entering Britain",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/wireless-festival-cancelled-after-government-blocks-kanye-west-from-entering-the-uk/",
+          "category": "ia",
+          "published_at": "2026-04-07T17:19:33+00:00",
+          "summary": "Home Office says rapper's presence \"would not be conducive to the public good\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9d69a53e565",
+          "title": "Laufey renews global publishing deal with Warner Chappell Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/laufey-renews-global-publishing-deal-with-warner-chappell-music/",
+          "category": "ia",
+          "published_at": "2026-04-07T17:05:49+00:00",
+          "summary": "Raised between Reykjavik, Iceland, and Washington, D.C., Laufey learned piano and cello as a child before studying at Berklee College of Music\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fe213c15437",
+          "title": "Atlantic Music Group enters ‘multi-level partnership’ with Fader Label, including 50/50 joint venture",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/atlantic-music-group-enters-multi-level-partnership-with-fader-label-including-50-50-joint-venture/",
+          "category": "musique",
+          "published_at": "2026-04-07T17:04:12+00:00",
+          "summary": "The deal includes a 50/50 joint venture to sign and develop new and established artists\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b20c96bdc329",
+          "title": "Les activités de recharge de Renault changent de nom, mais pas de cap",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2227767-les-activites-de-recharge-de-renault-changent-de-nom-mais-pas-de-cap.html",
+          "category": "ia",
+          "published_at": "2026-04-07T16:30:00+00:00",
+          "summary": "Le réseau « Mobilize fast charge » devient « Plug Inn fast charge » à partir du mois d’avril 2026. Toutes les activités de recharge de Renault vont progressivement basculer sous ce nouveau nom.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a784e133287",
+          "title": "Harry Potter : moins de numérique pour la série HBO, ça devrait être une claque visuelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2227615-harry-potter-moins-de-numerique-pour-la-serie-hbo-ca-devrait-etre-une-claque-visuelle.html",
+          "category": "ia",
+          "published_at": "2026-04-07T16:03:47+00:00",
+          "summary": "Alors que le tournage de la saison 1 de Harry Potter sur HBO bat son plein aux studios Leavesden, l'entreprise HBO a dévoilé ce 5 avril un documentaire exclusif de 30 minutes intitulé&nbsp;« Finding Harry: The Craft Behind the Magic ». Entre les coulisses d'un casting titanesque…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8cffeab4c1b",
+          "title": "Selling a $3B Spotify stake, Michael Ovitz as Chairman of the Board, and a $100B+ company: Welcome to Bill Ackman’s plan for Universal Music Group.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/selling-a-3b-spotify-stake-michael-ovitz-as-chairman-of-the-board-and-a-100b-company-welcome-to-bill-ackmans-plan-for-universal-music-group/",
+          "category": "musique",
+          "published_at": "2026-04-07T15:41:19+00:00",
+          "summary": "MBW founder Tim Ingham on telling details within Pershing Square's proposal for a new Universal Music Group\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "439af1ac4a92",
+          "title": "ElevenLabs launches ElevenMusic iOS app, taking on Suno and Udio on mobile",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elevenlabs-launches-elevenmusic-ios-app-taking-on-suno-and-udio-on-mobile/",
+          "category": "musique",
+          "published_at": "2026-04-07T15:21:50+00:00",
+          "summary": "The app went live on the App Store on Wednesday (April 1), following several weeks during which it had been listed ahead of its formal release\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "333b3e79c506",
+          "title": "Rapporté au PIB, le budget du CNRS est à un niveau « historiquement bas » depuis 1980",
+          "source": "Next INpact",
+          "url": "https://next.ink/231768/rapporte-au-pib-le-budget-du-cnrs-est-a-un-niveau-historiquement-bas-depuis-1980/",
+          "category": "ia",
+          "published_at": "2026-04-07T14:18:33+00:00",
+          "summary": "Alors que son budget initial pour 2026 prévoyait déjà un déficit de 239 millions d&#8217;euros, le CNRS annonce en interne devoir procéder à un tour de vis supplémentaire de 20 millions d&#8217;euros, dont une partie sera répercutée sur la dotation aux unités de recherche.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ceb27fa722a1",
+          "title": "Wireless Festival cancelled after government bars Ye from entering the UK",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/festival-republic-boss-defends-booking-ye-for-wireless-festival/",
+          "category": "musique",
+          "published_at": "2026-04-07T13:31:00+00:00",
+          "summary": "Update: Things moved fast with this story today. Festival Republic has now confirmed that the UK Home Office has withdrawn Ye&#8217;s ETA [electronic travel authorisation], denying him entry into the UK. &#8220;As a result, Wireless Festival is cancelled and refunds will be…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "602c235340be",
+          "title": "TikTok’s SoundOn is using ACRCloud to crack down on music fraud",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/tiktoks-soundon-is-using-acrcloud-to-crack-down-on-music-fraud/",
+          "category": "musique",
+          "published_at": "2026-04-07T12:55:00+00:00",
+          "summary": "An announcement last week by TikTok’s distribution arm SoundOn sounds dry, but it’s part of the bigger debate about distributors’ role in the spread of fake or infringing music on streaming services. SoundOn is now using ACRCloud’s ‘Derivative Works Detection’ tool to identify…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8915b1b87c28",
+          "title": "US music-market trends in 2025: ‘America streams American…’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/us-music-market-trends-in-2025-america-streams-american/",
+          "category": "musique",
+          "published_at": "2026-04-07T12:50:00+00:00",
+          "summary": "Music-industry economist Will Page’s world tour continues: he appeared at the recent Vanderbilt Music Law Summit in Nashville with a presentation on ‘The Global (and American) Value of Music Copyright’. Page shared details of his session with Music Ally, including key data…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8384d6df4014",
+          "title": "YouTube’s Coachella 2026 coverage includes a 24/7 TV station",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/youtubes-coachella-2026-coverage-includes-a-24-7-tv-station/",
+          "category": "musique",
+          "published_at": "2026-04-07T12:50:00+00:00",
+          "summary": "The Coachella festival begins on Friday (10 April) and as ever, YouTube is the event’s livestreaming-video partner – with a new traditional-TV-style twist to its 2026 coverage. YouTube will be livestreaming seven stages from the festival simultaneously, including a vertical feed…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dadc6168e2c9",
+          "title": "Two amicus briefs weigh in for UMG in its battle with Drake",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/two-amicus-briefs-weigh-in-for-umg-in-its-battle-with-drake/",
+          "category": "musique",
+          "published_at": "2026-04-07T12:50:00+00:00",
+          "summary": "Last week we reported on Universal Music Group’s sharp response to Drake appealing the dismissal of his ‘Not Like Us’ defamation lawsuit against the major label. Now it has some backup. The Floyd Abrams Institute for Freedom of Expression at Yale Law School and a group of other…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ecad687a6ff8",
+          "title": "Enhypen star in ‘scary stories’ podcast from Hybe and Spotify",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/enhypen-star-in-scary-stories-podcast-from-hybe-and-spotify/",
+          "category": "musique",
+          "published_at": "2026-04-07T12:50:00+00:00",
+          "summary": "Who knew the members of K-Pop band Enhypen were vampires? At least that explains the lack of mirrors in their stage sets, their refusal to play daytime slots at festivals, and the strict ‘no garlic’ clause in their tour rider. Oh wait, they’re only pretending to be vampires for…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2cb9fb99174",
+          "title": "UMG settles copyright-infringement lawsuit with Believe and TuneCore",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/umg-settles-copyright-infringement-lawsuit-with-believe-and-tunecore/",
+          "category": "musique",
+          "published_at": "2026-04-07T12:47:00+00:00",
+          "summary": "While we’re on a ‘majors suing companies’ tip&#8230; Universal Music Group locked horns with Believe and TuneCore late in 2024, accusing them of “industrial-scale copyright infringement”. The case focused on “fraudulent ‘artists’ and pirate record labels” who were releasing…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a0296af0c2d",
+          "title": "Impala has mixed feelings about WMG’s acquisition of Revelator",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/07/impala-has-mixed-feelings-about-wmgs-acquisition-of-revelator/",
+          "category": "musique",
+          "published_at": "2026-04-07T12:47:00+00:00",
+          "summary": "We wondered what independent music bodies would make of Warner Music Group’s announcement last week that it is buying B2B firm Revelator, whose services are used by a number of indie artists. Now European body Impala has offered its response, with mixed feelings on what the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0adc7fd37f79",
+          "title": "Gemma 4 : Google lance une famille de quatre modèles IA en open source (Apache 2.0)",
+          "source": "Next INpact",
+          "url": "https://next.ink/232473/gemma-4-google-lance-une-famille-de-quatre-modeles-ia-en-open-source-apache-2-0/",
+          "category": "justice",
+          "published_at": "2026-04-07T12:37:55+00:00",
+          "summary": "Juste avant le week-end prolongé de Pâques, Google a lancé son nouveau modèle Gemma 4, en open source avec une licence relativement permissive : Apache 2.0. Il est proposé en quatre variantes, de 2,3 à 30,7 milliards de paramètres ; de quoi tourner sur une large gamme de…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "b7f51be81ed9",
           "title": "Accompagnement des professionnels : le programme de travail de la CNIL pour 2026",
@@ -12,6 +627,16 @@
           "category": "ia",
           "published_at": "2026-04-07T12:00:00+00:00",
           "summary": "En 2026, la CNIL poursuit son accompagnement des acteurs publics et privés dans leur mise en conformité avec le RGPD et de certaines dispositions du RIA. S’appuyant sur un dialogue régulier avec les représentants des différents secteurs, elle présente les principaux travaux et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88822a5c9228",
+          "title": "Outil PIA : téléchargez et installez le logiciel de la CNIL",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil",
+          "category": "ia",
+          "published_at": "2026-04-07T12:00:00+00:00",
+          "summary": "Le logiciel open source PIA facilite la conduite et la formalisation d’analyses d’impact relatives à la protection des données (AIPD) telles que prévues par le RGPD.",
           "summary_type": "extrait source"
         },
         {
