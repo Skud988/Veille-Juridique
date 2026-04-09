@@ -1,9 +1,434 @@
 {
-  "generated_at": "2026-04-08T11:39:18.203701+00:00",
+  "generated_at": "2026-04-09T11:36:20.058819+00:00",
   "days": [
+    {
+      "date": "2026-04-09",
+      "articles": [
+        {
+          "id": "b5b981fa7428",
+          "title": "Secretly buys Babel Ops in latest indie-indie consolidation move",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/09/secretly-buys-babel-ops-in-latest-indie-indie-consolidation-move/",
+          "category": "musique",
+          "published_at": "2026-04-09T11:30:00+00:00",
+          "summary": "Independent consolidation isn’t just about majors buying indies, nor is it just about acquisitions involving labels. Consolidation focused on tech platforms is also a trend in 2026 – and an encouraging one. The latest example sees Secretly Distribution acquiring tech firm Babel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62e074370595",
+          "title": "Ce n’est pas un avion : ce point lumineux dans le ciel est la mission Artémis II sur le chemin du retour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2228691-ce-nest-pas-un-avion-ce-point-lumineux-dans-le-ciel-est-la-mission-artemis-ii-sur-le-chemin-du-retour.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-09T10:41:43+00:00",
+          "summary": "La mission Artémis II sera bientôt de retour sur Terre, après son survol spectaculaire de la Lune. Les images qui nous parviennent de l'équipage sont impressionnantes. Mais Artémis II est aussi observée depuis la surface terrestre, d'où la capsule n'est plus qu'un petit point…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b15078a7ed5",
+          "title": "Revolut se lance dans l’IA : à quoi sert son nouvel assistant Revolut AIR ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228945-revolut-se-lance-dans-lia-a-quoi-sert-son-nouvel-assistant-revolut-air.html",
+          "category": "ia",
+          "published_at": "2026-04-09T10:31:00+00:00",
+          "summary": "D'abord lancé au Royaume-Uni, AIR (Artificial Intelligence Revolut) prend la forme d'un assistant intelligent accessible en un geste depuis l'application de la banque mobile. Le concept : répondre à vos questions sur vos dépenses et vous aider à organiser vos finances.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cb86b198174",
+          "title": "Entrainement des IA et droit d’auteur : le Sénat inverse la charge de la preuve",
+          "source": "Next INpact",
+          "url": "https://next.ink/232924/entrainement-des-ia-et-droit-dauteur-le-senat-inverse-la-charge-de-la-preuve/",
+          "category": "ia",
+          "published_at": "2026-04-09T10:22:45+00:00",
+          "summary": "Le Sénat a voté mercredi 8 avril à l&#8217;unanimité la proposition de loi visant à instaurer une présomption d&#8217;utilisation de contenus culturels protégés par un droit d&#8217;auteur au niveau des éditeurs d&#8217;IA. Le texte, qui doit maintenant passer à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a57ecc0710c4",
+          "title": "Google fusionne Gemini et NotebookLM : les projets ne sont plus réservés à ChatGPT et Claude",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228829-google-fusionne-gemini-et-notebooklm-les-projets-ne-sont-plus-reserves-a-chatgpt-et-claude.html",
+          "category": "ia",
+          "published_at": "2026-04-09T09:42:37+00:00",
+          "summary": "À l'approche de la Google I/O 2026, évènement au cours duquel le géant du web devrait annoncer de nombreuses nouveautés liées à ses intelligences artificielles, plusieurs initiatives commencent à être dévoilées, pour vider ses cartons. L'un d'entre eux devrait plaire aux fans de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f126bc76e66a",
+          "title": "L’iPhone 17 Pro Max est de nouveau 100 € moins cher sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228859-liphone-17-pro-max-est-de-nouveau-100-e-moins-cher-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-04-09T09:37:05+00:00",
+          "summary": "[Deal du jour] Le modèle Pro Max de l’iPhone 17 profite à nouveau d'une petite baisse de prix qui fait plaisir. Le prix du smartphone haut de gamme d’Apple baisse de 100 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "921786a9370c",
+          "title": "With North America and Europe Tour Dates to Come, Keli Holiday Has ‘Hunkered Down’ With His Next Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/keli-holiday-tour-album-interview-1236218663/",
+          "category": "musique",
+          "published_at": "2026-04-09T09:15:43+00:00",
+          "summary": "“I've written the majority of the next record,” he tells Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f24ad2e1c57e",
+          "title": "Que va-t-il advenir des scènes de sexe dans le remake de God of War ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228705-que-va-t-il-advenir-des-scenes-de-sexe-dans-le-remake-de-god-of-war.html",
+          "category": "ia",
+          "published_at": "2026-04-09T09:03:25+00:00",
+          "summary": "Sony a officialisé un remake de la trilogie God of War, connue pour sa violence extrême et, aussi, ses scènes de sexe. Seront-elles supprimées ? Rien n'est moins sûr.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d9bef2e6544",
+          "title": "Drones, missiles, bunkers : Microsoft veut repenser ses datacenters pour survivre à la guerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2228679-drones-missiles-bunkers-microsoft-veut-repenser-ses-datacenters-pour-survivre-a-la-guerre.html",
+          "category": "ia",
+          "published_at": "2026-04-09T09:00:03+00:00",
+          "summary": "La guerre en Iran aura bouleversé l’économie mondiale. Si le fragile cessez-le-feu acté le 8 avril 2026 laisse entrevoir une trêve dans la crise de l'énergie, certaines de ses conséquences les plus durables se dessinent peut‑être dans la manière dont les géants de la tech vont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90d2b875e15d",
+          "title": "Plongeurs d’élite et navire de guerre : le plan de l’US Navy pour récupérer les astronautes d’Artémis 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2228681-plongeurs-delite-et-navire-de-guerre-le-plan-de-lus-navy-pour-recuperer-les-astronautes-dartemis-2.html",
+          "category": "ia",
+          "published_at": "2026-04-09T08:58:09+00:00",
+          "summary": "Les quatre astronautes de la mission Artémis II ont quitté la Terre dans la nuit du 1er au 2 avril 2026 pour un voyage historique autour de la Lune. C’est fascinant, certes. Mais d'ici quelques jours, il va bien falloir les ramener à la maison. Et pour intercepter une capsule…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96a8aa79e961",
+          "title": "Karan Aujla’s Lucknow, Ludhiana shows cancelled owing to lack of liquor permits",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/09/karan-aujlas-lucknow-ludhiana-shows-cancelled-owing-to-lack-of-liquor-permits/",
+          "category": "musique",
+          "published_at": "2026-04-09T08:55:22+00:00",
+          "summary": "While the Delhi leg of his ongoing India tour broke attendance records, the rest of Canadian-Punjabi singer and rapper Karan Aujla’s P-Pop Culture trek has been making news for less [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9ec187cbb37",
+          "title": "Attendez, on peut maintenant jouer à Pokémon dans No Man’s Sky ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228673-attendez-on-peut-maintenant-jouer-a-pokemon-dans-no-mans-sky.html",
+          "category": "ia",
+          "published_at": "2026-04-09T08:52:18+00:00",
+          "summary": "No Man’s Sky fêtera ses 10 ans dans quelques mois. Dix années durant lesquelles le studio Hello Games a su remonter la pente après une sortie catastrophique, pour proposer aujourd’hui un jeu qui ne cesse de s’améliorer, comme en témoigne cette nouvelle mise à jour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d50bd5073a0",
+          "title": "EY-IMI survey reveals what it will take for Indians to pay for music (and why some won’t)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/09/ey-imi-survey-reveals-what-it-will-take-for-indians-to-pay-for-music-and-why-some-wont/",
+          "category": "ia",
+          "published_at": "2026-04-09T08:45:11+00:00",
+          "summary": "EY and the Federation of Indian Chamber Of Commerce and Industry (FICCI)’s   newest report on India’s Media and Entertainment sector includes the results of a survey of over 5,000 [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9e0ce3aaf9a",
+          "title": "Meta dévoile Muse Spark, son premier modèle propriétaire depuis le départ de Yann LeCun",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228669-meta-devoile-muse-spark-son-premier-modele-proprietaire-depuis-le-depart-de-yann-lecun.html",
+          "category": "ia",
+          "published_at": "2026-04-09T08:39:55+00:00",
+          "summary": "Après des mois à recruter dans toute la Silicon Valley pour former le Superintelligence Labs, Meta vient de dévoiler Muse Spark, un premier modèle propriétaire présenté comme supérieur à Claude Opus 4.6 et Google Gemini 3.1 Pro dans plusieurs tests. Mais l'entreprise a-t-elle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d89c7d40d19b",
+          "title": "Muse Spark, le nouveau pari IA de Meta pour faire oublier Llama",
+          "source": "Next INpact",
+          "url": "https://next.ink/232867/muse-spark-le-nouveau-pari-ia-de-meta-pour-faire-oublier-llama/",
+          "category": "ia",
+          "published_at": "2026-04-09T08:36:32+00:00",
+          "summary": "Avec Muse Spark, son nouveau grand modèle de langage (LLM), Meta joue gros. Il s&#8217;agit non seulement de faire oublier l&#8217;échec de Llama, la précédente génération de LLM maison, mais aussi de justifier l&#8217;investissement maousse costaud dans le labo dédié à la «…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6e691f8501b",
+          "title": "How CMOs are scaling globally, collaborating across industries, and rethinking the creator relationship",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/09/how-cmos-are-scaling-globally-collaborating-across-industries-and-rethinking-the-creator-relationship/",
+          "category": "musique",
+          "published_at": "2026-04-09T08:29:57+00:00",
+          "summary": "Music consumption today is borderless, but the systems that manage it have historically been national. Collective management organisations are undergoing their most significant transformation in decades. On one hand, they [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2983deadf1b",
+          "title": "Alien Earth saison 2 : Peter Dinklage (Game of Thrones) rejoint le casting",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228685-alien-earth-saison-2-peter-dinklage-game-of-thrones-rejoint-le-casting.html",
+          "category": "ia",
+          "published_at": "2026-04-09T08:26:27+00:00",
+          "summary": "Après le succès retentissant de sa première saison sur Disney+, la série&nbsp;Alien: Earth&nbsp;prépare son retour en frappant un grand coup. Un acteur de Game of Thrones très apprécié vient d'être confirmé pour intégrer la distribution de la deuxième saison. De quoi redonner un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d9a89ab366b",
+          "title": "Artemis II a vu des météorites frapper la Lune, les scientifiques de la Nasa n’en reviennent pas",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2228689-artemis-ii-a-vu-des-meteorites-frapper-la-lune-les-scientifiques-de-la-nasa-nen-reviennent-pas.html",
+          "category": "ia",
+          "published_at": "2026-04-09T08:05:46+00:00",
+          "summary": "Durant leur survol de la Lune, les astronautes à bord de la mission Artémis II ont pu admirer la surface de notre satellite. Mais ils ne s'attendaient pas forcément à être témoins de l'impact de micrométéorites, ce qui a déclenché l'enthousiasme des équipes scientifiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdaf16d7af79",
+          "title": "☕️ #LIDD Mario Kart World en version Guessr",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/lidd-mario-kart-world-en-version-guessr/",
+          "category": "ia",
+          "published_at": "2026-04-09T07:38:55+00:00",
+          "summary": "Vous connaissez Mario Kart, la course de voitures version Nintendo. Mario Kart World, lancé en juin 2025, est le neuvième et actuellement dernier épisode de la franchise. « Une première dans l&#8217;histoire de la série, le jeu prend place dans un monde ouvert où tous les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "988a9f33616b",
+          "title": "Link doit-il parler dans le film Zelda ? L’avis d’un des créateurs de Majora’s Mask",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228667-link-doit-il-parler-dans-le-film-zelda-lavis-dun-des-createurs-de-majoras-mask.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-09T07:37:51+00:00",
+          "summary": "Selon Takaya Imamura, directeur artistique de The Legend of Zelda: Majora's Mask, Link ne doit pas parler dans l'adaptation cinématographique, actuellement en préparation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b203983479d",
+          "title": "MacBook Neo : un succès monstre qui complique la tâche d’Apple",
+          "source": "Next INpact",
+          "url": "https://next.ink/232861/macbook-neo-un-succes-monstre-qui-complique-la-tache-dapple/",
+          "category": "ia",
+          "published_at": "2026-04-09T06:46:26+00:00",
+          "summary": "Avec son prix serré et une fiche technique solide, le MacBook Neo a, semble-t-il, trouvé son public. Sauf que maintenant, Apple doit composer avec le succès : le stock de puces s&#8217;épuise et les coûts grimpent en flèche. Le MacBook Neo est une anomalie non seulement dans le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5da3f19f49a",
+          "title": "Hybe India’s girl group auditions expand to five international cities",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/09/hybe-indias-girl-group-auditions-expand-to-five-international-cities/",
+          "category": "ia",
+          "published_at": "2026-04-09T06:20:08+00:00",
+          "summary": "Hybe India has dropped the latest set of details about its upcoming auditions to discover and develop an Indian girl group, the eligibility criteria for which they shared last week. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cdfbc422721",
+          "title": "Microsoft a bloqué les comptes des développeurs de VeraCrypt, WireGuard et Windscribe",
+          "source": "Next INpact",
+          "url": "https://next.ink/232873/microsoft-a-bloque-les-comptes-des-developpeurs-de-veracrypt-wireguard-et-windscribe/",
+          "category": "institutionnel",
+          "published_at": "2026-04-09T06:00:32+00:00",
+          "summary": "Il y a quelque chose qui coince chez Microsoft. Les développeurs de VeraCrypt, WireGuard et Windscribe ont subi une suspension de leur compte, sans réelle explication de la part de l&#8217;éditeur. Résultat : impossible de livrer des mises à jour. La situation devrait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc458515e956",
+          "title": "Opera Meets Cumbia: Andrea Bocelli to Perform at Mexico’s Zócalo With Los Ángeles Azules & Ximena Sariñana",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/andrea-bocelli-mexico-zocalo-angeles-azules-ximena-sarinana-1236218507/",
+          "category": "musique",
+          "published_at": "2026-04-09T00:43:50+00:00",
+          "summary": "The free concert in the iconic square will be April 18.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8348d967fd3e",
+          "title": "Eden Muñoz’s ‘Mi Yo De Antes’ Hits No. 1 on Regional Mexican Airplay Chart: ‘It’s Like a Big Hug to the Entire Team’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/eden-munoz-mi-yo-de-antes-hits-no-1-1236218477/",
+          "category": "ia",
+          "published_at": "2026-04-09T00:29:03+00:00",
+          "summary": "The singer/songwriter reaches double digits, achieving his 10th No. 1.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a353f38f6304",
+          "title": "Sabrina Carpenter Shouts Out Queer Community’s Impact on Entertainment: ‘I Don’t think Pop Music Would Exist If it Wasn’t for the Queer Community’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sabrina-carpenter-shouts-out-queer-community-impact-pop-1236218392/",
+          "category": "musique",
+          "published_at": "2026-04-09T00:22:06+00:00",
+          "summary": "In an interview with Perfect, the pop star showed love to her LGBTQ+ friends and collaborators.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-08",
       "articles": [
+        {
+          "id": "1e9a071edaf4",
+          "title": "What Is UMG’s Real Value? Investors & Music Execs Weigh in on Pershing Square Bid",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/umg-pershing-square-offer-investors-execs-bill-ackman-bid/",
+          "category": "musique",
+          "published_at": "2026-04-08T23:56:37+00:00",
+          "summary": "Some industry observers believe Ackman is looking to buy the music giant on the cheap.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfefce21d1cb",
+          "title": "Secretly Distribution acquires music data and analytics firms Entertainment Intelligence and Babel Ops",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/secretly-distribution-acquires-music-data-and-analytics-firms-entertainment-intelligence-and-babel-ops/",
+          "category": "musique",
+          "published_at": "2026-04-08T21:26:26+00:00",
+          "summary": "Babel Ops was founded in 2020 by Erik Gilbert and Greg Delaney, who previously co-founded Entertainment Intelligence in 2014.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d40c0173b18",
+          "title": "Bill Ackman thinks he’ll convince UMG shareholders to take his deal. JP Morgan isn’t so sure.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bill-ackman-thinks-hell-convince-umg-shareholders-to-take-his-deal-jp-morgan-isnt-so-sure/",
+          "category": "ia",
+          "published_at": "2026-04-08T20:58:18+00:00",
+          "summary": "The music giant said it will review the proposal and analyze its implications for shareholders, employees, artists and songwriters. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8309fd79091",
+          "title": "La mission Artémis II fait un heureux : Kerbal Space Program",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228031-la-mission-artemis-ii-fait-un-heureux-kerbal-space-program.html",
+          "category": "ia",
+          "published_at": "2026-04-08T18:36:00+00:00",
+          "summary": "Le jeu vidéo Kerbal Space Program permet de prendre en charge un programme spatial et, notamment, d'assembler une fusée avec un réalisme incroyable. Alors que la mission Artémis II est en cours, le jeu en profite pour connaître un trafic important sur Steam. À son échelle, bien…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78afbe00905f",
+          "title": "Quelles sont les marques de PC et smartphones les plus difficiles à réparer en cas de pépin ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228569-quelles-sont-les-marques-de-pc-et-smartphones-les-plus-difficiles-a-reparer-en-cas-de-pepin.html",
+          "category": "ia",
+          "published_at": "2026-04-08T16:01:53+00:00",
+          "summary": "Face à une panne, tous les smartphones et PC portables ne se valent pas : certains constructeurs conçoivent des appareils bien plus faciles à remettre en état que d'autres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "324119cf9eca",
+          "title": "Quoi de neuf à la rédac’ de Next ? L’arrivée d’un nouveau journaliste !",
+          "source": "Next INpact",
+          "url": "https://next.ink/232788/quoi-de-neuf-a-la-redac-de-next-larrivee-dun-nouveau-journaliste/",
+          "category": "ia",
+          "published_at": "2026-04-08T15:47:58+00:00",
+          "summary": "Trois ans après le rachat de Next par moji, le site et l’équipe continuent de se renforcer ! Une nouvelle plume rejoint la rédaction. Nous sommes désormais huit à vous proposer des contenus sur Next. +1 dans la rédac&#8217; Vous faisiez quoi le 23 mars à 19h17 ? Ferd, en toute…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7efb2b748b57",
+          "title": "Cthulhu : pourquoi le projet de film d’horreur terrifie Hollywood ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228551-cthulhu-pourquoi-le-projet-de-film-dhorreur-terrifie-hollywood.html",
+          "category": "ia",
+          "published_at": "2026-04-08T15:26:36+00:00",
+          "summary": "C’est le projet secret que James Wan porte dans son cœur depuis plus de 15 ans. Le maître de l'horreur moderne, à qui l’on doit Saw, Conjuring et Insidious, s’attaque enfin à l'œuvre monumentale de H.P. Lovecraft : L'Appel de Cthulhu. Mais alors que le développement avance, un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e25fd2f3a388",
+          "title": "Le projet Star Wars centré sur Ben Solo est mort et enterré",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228571-le-projet-star-wars-centre-sur-ben-solo-est-mort-et-enterre.html",
+          "category": "ia",
+          "published_at": "2026-04-08T15:05:34+00:00",
+          "summary": "Le réalisateur Steven Soderbergh a fait savoir qu'il ne reviendra pas travailler sur le projet The Hunt for Ben Solo, enterré sous l'ancienne présidence de Disney, mais qui pourrait renaître sous l'égide de David Filoni.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "460ce58068fe",
+          "title": "[Tuto] Utiliser des IA génératives en local et influence du GPU sur les performances",
+          "source": "Next INpact",
+          "url": "https://next.ink/232510/tuto-utiliser-des-ia-generatives-en-local-et-influence-du-gpu-sur-les-performances/",
+          "category": "ia",
+          "published_at": "2026-04-08T13:53:53+00:00",
+          "summary": "Installer des grands modèles de langage sur un ordinateur, c’est facile. Les utiliser via un chatbot aussi, à condition d’avoir suffisamment de puissance et de mémoire disponibles. Voici un tuto pour en profiter chez vous en local, avec un rapide comparatif de performances entre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e9c11ae3f1f",
+          "title": "Behind The Campaign: Fcukers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/08/behind-the-campaign-fcukers/",
+          "category": "ia",
+          "published_at": "2026-04-08T13:50:00+00:00",
+          "summary": "Fcukers are a New York-based electronic duo made up of Shanny Wise and Jackson Walker Lewis. They formed in 2022 and their first EP, Baggy$$, was released by Ninja Tune in September 2024. Manager Simon Parsons met Jackson when they both worked at the Pianos venue in the Lower…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52232344502b",
+          "title": "Fait-il nuit et jour sur la Lune ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/603760-jour-et-nuit-sur-la-lune-explication-du-phenomene-et-duree.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-08T13:45:57+00:00",
+          "summary": "L'humanité s'est de nouveau aventurée autour de la Lune, avec la mission Artémis II de la Nasa. Les astronautes ont pu observer et photographier la face cachée de la Lune. En effet, la Lune vue de notre planète présente toujours la même face. Mais y'a-t-il des jours et des nuits…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "343b58fb2a76",
+          "title": "Le reboot de X-Files existe pour une raison inattendue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228515-le-reboot-de-x-files-existe-pour-une-raison-inattendue.html",
+          "category": "ia",
+          "published_at": "2026-04-08T13:21:29+00:00",
+          "summary": "La raison pour laquelle Ryan Coogler se lance dans un reboot aussi périlleux que celui de X-Files est loin d'être anodine. Il souhaite faire honneur à sa mère, immense fan de la série originale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aac9a7f261c8",
+          "title": "Anthropic dévoile Mythos, son modèle d’IA chasseur de failles… réservé à certains",
+          "source": "Next INpact",
+          "url": "https://next.ink/232581/anthropic-devoile-mythos-son-modele-dia-chasseur-de-failles-reserve-a-certains/",
+          "category": "ia",
+          "published_at": "2026-04-08T13:13:09+00:00",
+          "summary": "Après plusieurs semaines de rumeurs, Anthropic a levé le voile sur Mythos, son nouveau modèle d&#8217;IA présenté comme ultra-puissant sur la cybersécurité, mais aussi ultra-verrouillé dans son usage puisque seule une poignée d’élus peuvent en profiter. Pas question (pour le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "425b5e1e1684",
+          "title": "The Boys : le spin-off au Mexique donne enfin des nouvelles",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228499-the-boys-le-spin-off-au-mexique-donne-enfin-des-nouvelles.html",
+          "category": "ia",
+          "published_at": "2026-04-08T13:10:50+00:00",
+          "summary": "Alors que la série principale s'apprête à tirer sa révérence avec une cinquième et ultime saison explosive, l'univers de&nbsp;The Boys&nbsp;n'a jamais semblé aussi vivant. Entre le succès confirmé de&nbsp;Gen V&nbsp;et les préparatifs de&nbsp;The Boys: Mexico, Eric Kripke vient…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f9d173b3c40",
+          "title": "Adieu Google Assistant : Gemini débarque enfin sur les enceintes en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228497-adieu-google-assistant-gemini-debarque-enfin-sur-les-enceintes-en-france.html",
+          "category": "loi",
+          "published_at": "2026-04-08T12:46:04+00:00",
+          "summary": "Google annonce le déploiement de Gemini sur ses enceintes connectées dans 16 nouveaux pays, dont la France. Les utilisateurs peuvent s'inscrire pour demander le nouvel assistant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3bdb5973ff2",
+          "title": "Les nouveaux AirTags d’Apple passent sous la barre des 100 € en lot de 4",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2228369-les-nouveaux-airtags-dapple-passent-sous-la-barre-des-100-e-en-lot-de-4.html",
+          "category": "ia",
+          "published_at": "2026-04-08T12:29:12+00:00",
+          "summary": "[Deal du jour] Les balises Bluetooth AirTags d’Apple servent à retrouver facilement vos objets sur lesquels elles sont placées. La seconde génération d'AirTags se trouve déjà moins chère en lot.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c62b070277e0",
           "title": "Municipales 2026 : le bilan de l’observatoire des élections de la CNIL",
