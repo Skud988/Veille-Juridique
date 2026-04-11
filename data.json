@@ -1,9 +1,474 @@
 {
-  "generated_at": "2026-04-10T11:15:16.192043+00:00",
+  "generated_at": "2026-04-11T10:05:27.956905+00:00",
   "days": [
+    {
+      "date": "2026-04-11",
+      "articles": [
+        {
+          "id": "007881462648",
+          "title": "Denza débarque en Europe avec un lancement grandiose, mais tout reste à prouver",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2230825-denza-debarque-en-europe-avec-un-lancement-grandiose-mais-tout-reste-a-prouver.html",
+          "category": "ia",
+          "published_at": "2026-04-11T10:03:30+00:00",
+          "summary": "La marque premium de BYD, Denza, a désormais ouvert les commandes dans ses premières concessions européennes. Derrière la mise en scène du lancement, comment exister face aux marques premium déjà installées&nbsp;?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "730acd6884f3",
+          "title": "« Il n’existe aucun moyen pour un parent d’intervenir » : un père raconte les péripéties suite au piratage de sa fille sur Discord",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2230823-il-nexiste-aucun-moyen-pour-un-parent-dintervenir-un-pere-raconte-les-peripeties-suite-au-piratage-de-sa-fille-sur-discord.html",
+          "category": "ia",
+          "published_at": "2026-04-11T09:56:39+00:00",
+          "summary": "Dans un article publié le 10 avril 2026 sur le site américain Ars Technica, un père de famille raconte comment le piratage du compte Discord de sa fille a mis en lumière les failles structurelles de l’application de messagerie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95e754064097",
+          "title": "KID PHENOMENON on the Evolution of Expression After SXSW 2026 & Presenting ‘TOKYO NEO POP’ to the World",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kid-phenomenon-interview-sxsw-2026-tokyo-neo-pop-1236219075/",
+          "category": "musique",
+          "published_at": "2026-04-11T09:00:00+00:00",
+          "summary": "The group sat down with Billboard Japan to chat about their takeaways from the SXSW experience.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f859e1197ca",
+          "title": "Le seul rival de Mario sur PS5 est enfin bradé sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1872362-le-seul-rival-de-mario-sur-ps5-est-enfin-brade-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-04-11T08:28:43+00:00",
+          "summary": "[Deal du jour] Que faisiez-vous en 2024 ? Eh bien, pendant ce temps, Team Asobi, le studio de développement japonais, sortait ce qui est aujourd'hui considéré comme le « Mario de la PS5 ». Sacré GOTY 2024, le jeu se trouve rarement en promotion, sauf aujourd'hui sur Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0d3afe8dc93",
+          "title": "« Pour prévenir tout risque » : pourquoi OpenAI vient de forcer la mise à jour de ChatGPT sur Mac",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2230799-pour-prevenir-tout-risque-pourquoi-openai-vient-de-forcer-la-mise-a-jour-de-chatgpt-sur-mac.html",
+          "category": "ia",
+          "published_at": "2026-04-11T07:53:02+00:00",
+          "summary": "Le 11 avril 2026, OpenAI a déployé une mise à jour obligatoire de ses applications macOS, après la découverte d’une faille dans la bibliothèque Axios, compromise fin mars. L’entreprise assure n’avoir constaté aucune intrusion, mais agit par précaution.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5dcac83aa29e",
+          "title": "La mission Artémis II a réussi : maintenant, à quelle date aura lieu Artémis III ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2230767-la-mission-artemis-ii-a-reussi-maintenant-a-quelle-date-aura-lieu-artemis-iii.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-11T07:33:55+00:00",
+          "summary": "Le programme Artémis valide une étape supplémentaire avec Artémis II. Mais déjà, les regards vont se tourner sur la phase suivante, qui va arriver relativement vite : Artémis III.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d093e4880cfc",
+          "title": "Cette fois c’est officiel : le FSD de Tesla décroche son premier feu vert en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2230727-cette-fois-cest-officiel-le-fsd-de-tesla-decroche-son-premier-feu-vert-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-04-11T07:12:13+00:00",
+          "summary": "Le 10 avril 2026, le régulateur néerlandais RDW a approuvé le système&nbsp;Full Self-Driving (Supervised)&nbsp;de Tesla, une première en Europe. Un déploiement aux Pays-Bas est désormais imminent, mais plusieurs étapes restent nécessaires avant que le système puisse être utilisé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c56a45e52b5",
+          "title": "La fin d’un voyage historique : les photos remarquables du repêchage des astronautes d’Artémis II dans le Pacifique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2230687-la-fin-dun-voyage-historique-les-photos-remarquables-du-repechage-des-astronautes-dartemis-ii-dans-le-pacifique.html",
+          "category": "ia",
+          "published_at": "2026-04-11T06:48:10+00:00",
+          "summary": "Les photographes de l'agence spatiale américaine étaient bien sûr aux premières loges pour assister à la fin de la mission Artémis II dans le Pacifique et au repêchage des quatre astronautes",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e010e2387670",
+          "title": "Où trouver le Lego de la Fusée Artemis au meilleur prix ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230437-ou-trouver-le-lego-de-la-fusee-artemis-au-meilleur-prix.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-11T06:38:00+00:00",
+          "summary": "[Deal du jour] Vous avez suivi la mission Artemis II et vous voulez votre propre fusée ? Ce set en promotion permet d'avoir la vôtre, rien qu'à vous.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2942956c977f",
+          "title": "Une lumière vive au-dessus du Pacifique : la fin d’Artémis II vue de l’ISS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2230639-une-lumiere-vive-au-dessus-du-pacifique-la-fin-dartemis-ii-vue-de-liss.html",
+          "category": "ia",
+          "published_at": "2026-04-11T05:56:16+00:00",
+          "summary": "Les astronautes à bord de l'ISS ont tenté d'observer le retour sur Terre de la mission Artémis II, car la trajectoire finale de la capsule Orion ne se trouvait pas si loin que cela de la Station spatiale internationale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d49e0318c35b",
+          "title": "Ninajirachi and Porter Robinson Debut New Song at Coachella",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/coachella-porter-robinson-ninajirachi-debut-new-song-1236220594/",
+          "category": "ia",
+          "published_at": "2026-04-11T05:35:13+00:00",
+          "summary": "Ninajirachi previously supported Robinson on dates of his SMILE! :D tour, including shows in Australia.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7ee3eb64d93",
+          "title": "Qu’est-ce que le « tokenmaxxing », nouvelle obsession des salariés de la Silicon Valley ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2230409-quest-ce-que-le-tokenmaxxing-nouvelle-obsession-des-salaries-de-la-silicon-valley.html",
+          "category": "ia",
+          "published_at": "2026-04-11T04:30:00+00:00",
+          "summary": "Dans la Silicon Valley, l’usage de l’intelligence artificielle est devenu un marqueur de performance. Sous l’effet du phénomène de « tokenmaxxing », certains salariés des géants de la tech multiplient les dépenses en tokens pour grimper dans des classements internes, alimentant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38dc1a7267c2",
+          "title": "BINI Talks About Being the First Filipino Girl Group To Perform At Coachella | Billboard News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/bini-talks-about-being-the-first-filipino-girl-group-to-perform-at-coachella/",
+          "category": "musique",
+          "published_at": "2026-04-11T04:14:48+00:00",
+          "summary": "BINI talks about how they&#8217;re the first Filipino group to perform at Coachella festival and how their fans surprised them.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6117b6beb2df",
+          "title": "Ils l’ont fait : les quatre astronautes d’Artémis II sont bien rentrés sur Terre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2230481-ils-lont-fait-les-quatre-astronautes-dartemis-ii-sont-bien-rentres-sur-terre.html",
+          "category": "ia",
+          "published_at": "2026-04-11T00:07:00+00:00",
+          "summary": "Ça y est : les 4 astronautes d’Artémis II sont rentrés sains et saufs de leur périple autour de la Lune. La capsule Orion a amerri dans l'océan Pacifique, le 11 avril 2026 à 02h07 du matin (heure de Paris). Une odyssée spatiale de 10 jours s'achève pour l’équipage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be1d81ac82f4",
+          "title": "Artémis II rentre sur Terre cette nuit : suivez en direct le retour des quatre astronautes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2230025-artemis-ii-rentre-sur-terre-suivez-en-direct-le-retour-des-quatre-astronautes-cette-nuit.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-11T00:01:09+00:00",
+          "summary": "La mission Artémis II est sur le point de s'achever. Les astronautes qui ont vécu à bord de la capsule Orion pendant dix jours sont en train de rentrer sur Terre. Leur arrivée en mer est prévue dans la nuit. La NASA va retransmettre l'évènement en direct.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-10",
       "articles": [
+        {
+          "id": "dd1dd951bd38",
+          "title": "MemeHouse Brings Creator Culture to Coachella With ‘The Scene’ IRL Streaming Experience",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/memehouse-scene-experience-coachella-how-to-watch-online-1236219119/",
+          "category": "musique",
+          "published_at": "2026-04-10T22:54:30+00:00",
+          "summary": "“The Scene” will turn the festival weekend into a livestream playground for creators.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "691876d89ec5",
+          "title": "Bruce Springsteen’s Merch Partner Sues to Stop Tour Knockoffs in New Jersey",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/bruce-springsteen-partner-sues-tour-knockoffs-new-jersey/",
+          "category": "musique",
+          "published_at": "2026-04-10T22:27:20+00:00",
+          "summary": "Live Nation subsidiary Merch Traffic wants a legal injunction in place for the Boss' upcoming hometown show at Newark's Prudential Center.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb9154e36b93",
+          "title": "Los Fabulosos Cadillacs: 40 Years Onstage With the ‘Strength of a Lion’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/los-fabulosos-cadillacs-40-years-tour-interview-1236220510/",
+          "category": "musique",
+          "published_at": "2026-04-10T21:56:37+00:00",
+          "summary": "\"We're 61 and still performing with an unusual vitality,\" Sr. Flavio tells Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cacf39861b6f",
+          "title": "Major League Soccer and San Diego FC Launch Music Collective",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/major-league-soccer-san-diego-fc-launch-music-collective/",
+          "category": "institutionnel",
+          "published_at": "2026-04-10T21:49:44+00:00",
+          "summary": "Artist SHAVONE will write and executive-produce the first original song ever commissioned and released through an MLS Playmakers initiative.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1144942eacb0",
+          "title": "Double dose de leasing social pour 2026 : 100 000 voitures électriques éligibles confirmées",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2230603-double-dose-de-leasing-social-pour-2026-100-000-voitures-electriques-eligibles-confirmees.html",
+          "category": "ia",
+          "published_at": "2026-04-10T18:16:55+00:00",
+          "summary": "Il n’y aura pas un, mais deux dispositifs de leasing social en 2026 pour la voiture électrique. Deux fois 50 000 dossiers qui ne cibleront pas les mêmes bénéficiaires.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ba92ba7fd2c",
+          "title": "Tyler Rake : le meilleur film d’action de Netflix a une bonne nouvelle pour vous",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230377-tyler-rake-le-meilleur-film-daction-de-netflix-a-une-bonne-nouvelle-pour-vous.html",
+          "category": "justice",
+          "published_at": "2026-04-10T15:55:22+00:00",
+          "summary": "Après deux volets qui ont pulvérisé les records d'audience sur Netflix, l'un des mercenaires les plus increvables du cinéma s'apprête à reprendre du service. Le géant du streaming vient de donner le feu vert à un nouveau chapitre de la saga Extraction, qui s'annonce déjà plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "557443563ab0",
+          "title": "☕️ Victime d’un hack, CPUID a distribué un malware au lieu de CPU-Z et HWMonitor",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/victime-dun-hack-cpuid-a-distribue-des-versions-infectees-de-cpu-z-et-hwmonitor/",
+          "category": "ia",
+          "published_at": "2026-04-10T15:32:34+00:00",
+          "summary": "CPUID, l&#8217;éditeur des utilitaires CPU-Z et HWMonitor, a été victime d&#8217;un hack ayant permis à des malandrins de distribuer un cheval de Troie à la place de ces deux outils. Les liens de téléchargement officiels ont été modifiés pour pointer vers des fichiers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfc5f0697d44",
+          "title": "AWAL and lemontank launch ‘Creator Fund’ to find the next generation of British music-focused content creators",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/awal-and-lemontank-launch-creator-fund-to-find-the-next-generation-of-british-music-content-creators/",
+          "category": "musique",
+          "published_at": "2026-04-10T15:20:07+00:00",
+          "summary": "Program offers funding, training and direct access to AWAL artists and campaigns, while allowing creators to retain full IP ownership.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5a2ff892722",
+          "title": "Peermusic signs songwriter Eyelar, forms writer development joint venture with 2-Tone Entertainment",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/peermusic-signs-songwriter-eyelar-forms-writer-development-joint-venture-with-2-tone-entertainment/",
+          "category": "musique",
+          "published_at": "2026-04-10T15:19:39+00:00",
+          "summary": "Deal includes future works, select back-catalog administration, and a JV with 2-Tone to sign and develop new songwriting talent.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1184c82a72f9",
+          "title": "OpenAI aussi a son moment Mythos… et assure sa com’ face à Anthropic",
+          "source": "Next INpact",
+          "url": "https://next.ink/233215/openai-aussi-a-son-moment-mythos-et-assure-sa-com-face-a-anthropic/",
+          "category": "ia",
+          "published_at": "2026-04-10T15:05:14+00:00",
+          "summary": "« Moi aussi, moi aussi, moi aussi » ! C’est la première réaction que nous avons eue face aux récentes « fuites » des plans d’OpenAI pour contrer Mythos d’Anthropic. L’entreprise de Sam Altman veut marquer sa différence sur deux plans – la puissance de calcul et les performances…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6520e5b11b0",
+          "title": "Manipulateur, menteur, imposteur ? L’enquête qui accable Sam Altman, le patron d’OpenAI",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2230257-manipulateur-menteur-imposteur-lenquete-qui-accable-sam-altman-le-patron-dopenai.html",
+          "category": "ia",
+          "published_at": "2026-04-10T15:05:07+00:00",
+          "summary": "Sam Altman, l’un des visages les plus influents de l’intelligence artificielle, fait l’objet d’un portrait particulièrement critique dans une enquête du New Yorker. Le magazine y relaie des accusations de manipulation, des doutes sur sa maîtrise technique et une affaire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0c167dbb455",
+          "title": "Voilà la trajectoire finale d’Artémis II au moment de rentrer sur Terre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2230297-voila-la-trajectoire-finale-dartemis-ii-au-moment-de-rentrer-sur-terre.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-10T14:59:17+00:00",
+          "summary": "Dans quelques heures, les astronautes de la mission Artémis II seront sur Terre. Voilà la trajectoire finale que leur capsule Orion doit suivre avant de finir dans l'océan Pacifique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e369172a266",
+          "title": "Disney veut mettre fin à la démesure des prochains films Avatar",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230217-disney-veut-mettre-fin-a-la-demesure-des-prochains-films-avatar.html",
+          "category": "ia",
+          "published_at": "2026-04-10T14:28:54+00:00",
+          "summary": "C’est la fin du « chèque en blanc » pour Pandora. Malgré des records de recettes qui feraient pâlir n'importe quel studio, Disney a décidé de revoir sa stratégie concernant l'avenir de la franchise de James Cameron. Pour les épisodes 4 et 5 d'Avatar, la firme aux grandes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fcc3954f6f0",
+          "title": "Ce Lego en promotion permet de recréer la Terre et la Lune en orbite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230267-ce-lego-en-promotion-permet-de-recreer-la-terre-et-la-lune-en-orbite.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-10T14:24:51+00:00",
+          "summary": "[Deal du jour] Vous avez suivi la mission Artemis II ? Ce set permet de recréer les mouvements de notre planète bleue et de la Lune en orbite, et de se rêver, pourquoi pas, à la place des astronautes qui ont fait le tour de la Lune.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "521dfe4fa71b",
+          "title": "☕️ Meta supprime les pubs des avocats qui veulent l’attaquer en justice",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/meta-supprime-les-pubs-des-avocats-qui-veulent-lattaquer-en-justice/",
+          "category": "ia",
+          "published_at": "2026-04-10T14:20:52+00:00",
+          "summary": "Meta gêné aux entournures. Le géant des réseaux sociaux a nettoyé Facebook, Instagram, Threads et Messenger de dizaines de publicités pour des firmes d&#8217;avocats proposant leurs services… contre Meta. Fin mars,&#160;l&#8217;entreprise et YouTube étaient condamnés&#160;par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccae62cf4c79",
+          "title": "☕️ L’ANFR ordonne le rappel de deux routeurs Wi-Fi Mikrotik et Wavlink",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/lanfr-ordonne-le-rappel-de-deux-routeurs-wi-fi-mikrotik-et-wavlink/",
+          "category": "ia",
+          "published_at": "2026-04-10T13:48:09+00:00",
+          "summary": "L’Agence nationale des fréquences (ANFR) a demandé à deux fabricants d&#8217;équipements réseau de rappeler un routeur Wi-Fi commercialisé sur le sol français en raison de manquements constatés au niveau des conditions d&#8217;utilisation du spectre radio dans la bande des 5…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dfbc82a0e964",
+          "title": "Surprise, le prochain jeu Professeur Layton sortira ailleurs que sur Switch",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230119-surprise-le-prochain-jeu-professeur-layton-sortira-ailleurs-que-sur-switch.html",
+          "category": "ia",
+          "published_at": "2026-04-10T13:33:03+00:00",
+          "summary": "Professeur Layton fera ses débuts tant attendus sur PlayStation 5 cette année, près de 20 ans après le début de la série chez Nintendo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34c0c7944ad5",
+          "title": "☕️ La Wii se prend pour un Mac",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/la-wii-se-prend-pour-un-mac/",
+          "category": "ia",
+          "published_at": "2026-04-10T13:25:34+00:00",
+          "summary": "La Wii est un Mac comme un autre, la preuve : la vénérable console de Nintendo peut faire tourner Mac OS X ! Il n&#8217;y avait fondamentalement aucun obstacle insurmontable, il suffisait «&#160;juste&#160;» de plonger les mains dans le cambouis très profondément. Bryan Keller,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a7eb85b571f",
+          "title": "Cette image grandiose d’Artémis II ne montre pas qu’une simple éclipse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2229711-cette-image-grandiose-dartemis-ii-ne-montre-pas-quune-simple-eclipse.html",
+          "category": "ia",
+          "published_at": "2026-04-10T13:22:23+00:00",
+          "summary": "La photo de l'éclipse solaire observée par l'équipage d'Artémis II est spectaculaire. Mais cette image partagée par la Nasa est encore plus étonnante qu'on pourrait l'imaginer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e1ec9cb8f5ab",
+          "title": "Quels sont les meilleurs PC portables ? Voici 6 modèles que l’on recommande en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/709324-les-meilleurs-ordinateurs-portables-en-2024.html",
+          "category": "ia",
+          "published_at": "2026-04-10T13:14:14+00:00",
+          "summary": "En 2026, trouver le bon ordinateur portable n'est pas seulement un choix de composants. Outre l'éternelle guerre entre macOS et Windows, se jouent aussi d'autres cartes comme le gabarit, l'autonomie, mais aussi l'intelligence artificielle embarquée localement. On a fait le tri…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "daa7c52d0663",
+          "title": "L’État veut réduire ses dépendances extra-européennes, la Dinum bientôt sous Linux",
+          "source": "Next INpact",
+          "url": "https://next.ink/233186/letat-veut-reduire-ses-dependances-extra-europeennes-la-dinum-bientot-sous-linux/",
+          "category": "ia",
+          "published_at": "2026-04-10T13:10:02+00:00",
+          "summary": "L&#8217;État affiche ses ambitions en matière de souveraineté numérique, avec une première décision aux accents symboliques : la Dinum, sa direction interministérielle du numérique, se prépare à passer de Windows à Linux sur ses postes de travail. Elle coordonnera par ailleurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a991f1d122d3",
+          "title": "La femme de Luke Skywalker sacrifiée : pourquoi Disney refuse de l’intégrer aux films Star Wars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230021-la-femme-de-luke-skywalker-sacrifiee-pourquoi-disney-refuse-de-lintegrer-aux-films-star-wars.html",
+          "category": "ia",
+          "published_at": "2026-04-10T13:07:54+00:00",
+          "summary": "C’est l’Arlésienne de la galaxie lointaine, très lointaine. Malgré les théories de fans et des années de rumeurs insistantes, Lucasfilm vient de doucher les derniers espoirs concernant le retour d'une icône absolue de l'Univers Étendu de Star Wars. Alors que les prochains films…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8c17d4e901d",
+          "title": "DBSC : Google déploie sa nouvelle arme contre le piratage de sessions sur Chrome",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2229927-dbsc-google-deploie-sa-nouvelle-arme-contre-le-piratage-de-sessions-sur-chrome.html",
+          "category": "loi",
+          "published_at": "2026-04-10T13:07:41+00:00",
+          "summary": "Depuis le 9 avril 2026, Google déploie une protection cryptographique dans Chrome 146 sur Windows, conçue pour neutraliser l'une des techniques les plus répandues dans l'arsenal des cybercriminels : le vol de cookies de session.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab9ffa386f86",
+          "title": "Study: Gen-Z Americans are feeling more negative about AI",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/10/study-gen-z-americans-are-feeling-more-negative-about-ai/",
+          "category": "musique",
+          "published_at": "2026-04-10T12:52:00+00:00",
+          "summary": "Traditional stereotypes suggest that young people eagerly adopt new technologies while older generations are warier. AI may be turning that trope on its head however: Gen-Z is emerging as the demographic with the strongest scepticism about it. The latest evidence comes from a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5f9caa97b9e",
+          "title": "Japan launches So-Fu Music scheme for artists and managers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/10/japan-launches-so-fu-music-scheme-for-artists-and-managers/",
+          "category": "ia",
+          "published_at": "2026-04-10T12:46:00+00:00",
+          "summary": "Over the past year we&#8217;ve been picking up on a growing number of initiatives and partnerships aiming to bolster the international growth of music and artists from Japan. The latest comes from the country&#8217;s government, and it&#8217;s called So-Fu Music. Launched by the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e01e1133cd89",
+          "title": "Discogs’ latest release is… a portable cassette player?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/10/discogs-latest-release-is-a-portable-cassette-player/",
+          "category": "musique",
+          "published_at": "2026-04-10T12:46:00+00:00",
+          "summary": "We&#8217;re now nearly two decades into the resurgence of vinyl as a music format, with the IFPI recently hailing a 19th consecutive year of growth for record sales in 2025. But recent years have also seen a sustained comeback – admittedly from a very small base – for the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b136e3d7ec28",
+          "title": "StubHub to pay $10m to settle FTC charges over deceptive fees",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/10/stubhub-to-pay-10m-to-settle-ftc-charges-over-deceptive-fees/",
+          "category": "institutionnel",
+          "published_at": "2026-04-10T12:43:00+00:00",
+          "summary": "Secondary-ticketing firm StubHub has settled charges brought against it by the US Federal Trade Commission (FTC) for &#8220;deceptively advertising ticket prices on its website&#8221; without clearly disclosing the additional fees buyers would pay. The settlement involves a $10m…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5869646577a6",
+          "title": "Ticketmaster joins the AI-discovery party with its ChatGPT app",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/10/ticketmaster-joins-the-ai-discovery-party-with-its-chatgpt-app/",
+          "category": "ia",
+          "published_at": "2026-04-10T12:40:00+00:00",
+          "summary": "Ticketmaster is the latest music-related company to launch a ChatGPT app, hoping to capitalise on the growing number of people using chatbots as search engines. &#8220;Fans can now discover events and explore ticket options directly inside ChatGPT, without needing to leave the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "748dcfb39557",
+          "title": "Spotify adds features to easily turn off its video content",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/10/spotify-adds-features-to-easily-turn-off-its-video-content/",
+          "category": "musique",
+          "published_at": "2026-04-10T12:34:00+00:00",
+          "summary": "Spotify has pivoted energetically towards video in recent years, particularly in its podcasts business. But the company appears to have now recognised that not every user is as enthusiastic about the shift. Its latest features make it easier to turn video off within its app –…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5be00faf29f5",
+          "title": "Udio signs its latest AI-music licensing deal – with Kobalt",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/10/udio-signs-its-latest-ai-music-licensing-deal-with-kobalt/",
+          "category": "musique",
+          "published_at": "2026-04-10T12:24:00+00:00",
+          "summary": "AI-music startup Udio is forging ahead with the deals required to launch its new model later this year. UMG, WMG and Merlin are already on board, and now they have been joined by Kobalt. Naturally, terms of the deal have not been made public, although the announcement did…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "103abd5454d4",
+          "title": "Latin music’s US wholesale revenues topped $1bn in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/10/latin-musics-us-wholesale-revenues-topped-1bn-in-2025/",
+          "category": "musique",
+          "published_at": "2026-04-10T11:31:00+00:00",
+          "summary": "Latin music&#8217;s long-term surge in the US continues. Labels body the RIAA has published its latest report on Latin&#8217;s revenues there, revealing that in 2025 they topped $1bn in wholesale value for the first time. It was the tenth consecutive year of growth for Latin…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3419362ec273",
           "title": "« Cramer les drones » : la solution forte de la Marine française face aux attaques en essaim",
