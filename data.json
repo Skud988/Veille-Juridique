@@ -1,9 +1,154 @@
 {
-  "generated_at": "2026-04-11T10:05:27.956905+00:00",
+  "generated_at": "2026-04-12T10:25:08.451822+00:00",
   "days": [
+    {
+      "date": "2026-04-12",
+      "articles": [
+        {
+          "id": "a9aab6f9bc4f",
+          "title": "La sublime version PS5 Pro de Cyberpunk 2077 donne vraiment envie de jouer au RPG",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2229175-la-version-ps5-pro-de-cyberpunk-2077-donne-vraiment-envie-de-jouer-au-rpg.html",
+          "category": "ia",
+          "published_at": "2026-04-12T10:01:00+00:00",
+          "summary": "Contre toute attente, CD Projekt Red a déployé une mise à jour pour libérer le potentiel visuel de Cyberpunk 2077 sur PS5 Pro, la plus puissante des consoles actuelles. Le rendu est bluffant pour un jeu paru en 2020.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9cc86d86ce4",
+          "title": "Recharge rapide : La non fiabilité des bornes est une épine dans le pied de la transition",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2230847-recharge-rapide-la-non-fiabilite-des-bornes-est-une-epine-dans-le-pied-de-la-transition.html",
+          "category": "ia",
+          "published_at": "2026-04-12T06:57:00+00:00",
+          "summary": "Ionity devait être la vitrine de la recharge rapide en Europe. C’est devenu son point de fragilité en cristallisant les mauvaises expériences. Cet édito de la newsletter Watt Else du 9 avril est l'occasion de pousser un coup de gueule.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0811201a546",
+          "title": "Sortie de la saison 3 de One Piece, plan de l’US Navy pour repêcher Artémis II & Harry Potter – le récap’ de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230427-sortie-de-la-saison-3-de-one-piece-plan-de-lus-navy-pour-repecher-artemis-ii-harry-potter-le-recap-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-04-12T06:02:00+00:00",
+          "summary": "Non, il n'y a pas que des actualités autour d'Artémis II cette semaine sur Numerama : d'autres sujets ont su aussi retenir votre attention.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f964910c75b6",
+          "title": "Sabrina Carpenter Apologizes For Her Reaction to Crowd Chant at Coachella: ‘Now I Know What a Zaghrouta Is’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sabrina-carpenter-coachella-zaghrouta-reaction-apology-1236221010/",
+          "category": "ia",
+          "published_at": "2026-04-12T02:01:17+00:00",
+          "summary": "\"Could have handled it better!\" wrote the pop star, who had said \"I don't like it\" and called the cheer \"weird\" while headlining the fest Friday (April 10).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "381964bf6e06",
+          "title": "Katseye Talks About Performing “Pinky Up” For the First Time At Coachella & “Golden” With HUNTR/X | Billboard News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/katseye-talks-about-performing-pinky-up-for-the-first-time-at-coachella/",
+          "category": "musique",
+          "published_at": "2026-04-12T01:45:12+00:00",
+          "summary": "KATSEYE talks about performing their new song &#8220;Pinky Up&#8221; at Coachella 2026 weekend 1, how they feel about the choreography compared to some of the other songs and performing &#8220;Golden&#8221; from Netflix&#8217;s &#8216;KPop Demon Hunters&#8217; with the girls…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a689b5311011",
+          "title": "Christian Nodal’s ‘Un Vals’ Director Responds to Controversy Over Model in Video: ‘It Was Our Mistake’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/christian-nodal-video-un-vals-controversy-director-responds-1236221009/",
+          "category": "musique",
+          "published_at": "2026-04-12T00:39:41+00:00",
+          "summary": "The music video has sparked conversation due to the model's resemblance to both Cazzu and Ángela Aguilar.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-11",
       "articles": [
+        {
+          "id": "13289deef9c0",
+          "title": "Bruno Mars’ The Romantic Tour Kickoff in Las Vegas: Best Moments From Opening Night",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/bruno-mars-romantic-tour-las-vegas-best-moments/",
+          "category": "musique",
+          "published_at": "2026-04-11T21:50:14+00:00",
+          "summary": "Packed with live debuts and the return of Silk Sonic, the launch of Mars’ first official tour in more than a decade capped a career-defining day.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7039ab69e4a",
+          "title": "Bruno Mars Kicks off The Romantic Tour in Las Vegas & Receives Key to the Strip on ‘Bruno Mars Day’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/bruno-mars-romantic-tour-vegas-parade-key-donation-day-1236220895/",
+          "category": "ia",
+          "published_at": "2026-04-11T20:39:08+00:00",
+          "summary": "Vegas honored the pop supernova with a parade, while Bruno pledged a $1 million donation to the Intermountain Health Nevada Children’s Hospital.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6dab58c8279d",
+          "title": "Jackson Wang’s MAGIC MAN 2 Is Where Happiness Prevails: Best Moments From His Brooklyn Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/jackson-wang-tour-best-moments-brooklyn/",
+          "category": "ia",
+          "published_at": "2026-04-11T19:35:38+00:00",
+          "summary": "The Chinese singer-songwriter brought the unparalleled energy back to Barclays Center on April 10.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7398fad94b3",
+          "title": "Labrinth Addresses Why His Music Won’t Be in ‘Euphoria’ Season 3: ‘I Don’t Let People Treat Me Like S—t’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/labrinth-music-euphoria-season-3-replaced-hans-zimmer-1236220933/",
+          "category": "musique",
+          "published_at": "2026-04-11T18:37:36+00:00",
+          "summary": "Oscar winner Hans Zimmer will serve as the sole composer of the HBO series.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d176e913cf91",
+          "title": "On écoute quoi dans l’espace ? Découvrez la playlist de la mission Artémis II",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2229871-on-ecoute-quoi-dans-lespace-decouvrez-la-playlist-de-la-mission-artemis-ii.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-11T16:31:00+00:00",
+          "summary": "Quelle chanson voudriez-vous écouter en vous réveillant pendant une mission spatiale ? Les astronautes d'Artémis II, eux, ont eu droit à une petite liste de lecture qui a accompagné leur voyage autour de la Lune.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af6d4237f814",
+          "title": "Chauffer à plus de 1 400 degrés pour stocker le soleil : la percée des batteries thermiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2229259-chauffer-a-plus-de-1-400-degres-pour-stocker-le-soleil-la-percee-des-batteries-thermiques.html",
+          "category": "ia",
+          "published_at": "2026-04-11T15:01:00+00:00",
+          "summary": "L’énergie solaire est associée à des problèmes d’intermittence, car elle ne génère d’électricité que quand le Soleil brille. Certains dispositifs photovoltaïques pourraient permettre de stocker le rayonnement solaire sous forme de chaleur, puis de récupérer l’énergie sous forme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e9bfc50fe96",
+          "title": "Ils attendent leur proie sur son propre terrain : c’est quoi une attaque par watering hole ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2228575-ils-attendent-leur-proie-sur-son-propre-terrain-cest-quoi-une-attaque-par-watering-hole.html",
+          "category": "ia",
+          "published_at": "2026-04-11T13:32:00+00:00",
+          "summary": "Plutôt que d'attaquer une cible frontalement, certains groupes de hackers optent pour une approche redoutable : contaminer les sites que la victime va visiter. Une technique discrète, patiente et efficace contre les cibles les plus protégées, et qui pourrait prendre un relief…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdd093e2b983",
+          "title": "Artémis 2 : pourquoi la combinaison spatiale des astronautes est-elle orange ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2229369-artemis-2-pourquoi-la-combinaison-spatiale-des-astronautes-est-orange.html",
+          "category": "ia",
+          "published_at": "2026-04-11T12:02:00+00:00",
+          "summary": "La NASA n'a pas choisi au hasard la couleur orange des combinaisons que portent les astronautes de la mission Artémis II. En réalité, cette teinte vive a été retenue pour une raison essentielle : la survie.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "007881462648",
           "title": "Denza débarque en Europe avec un lancement grandiose, mais tout reste à prouver",
