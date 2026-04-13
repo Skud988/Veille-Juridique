@@ -1,9 +1,374 @@
 {
-  "generated_at": "2026-04-12T10:25:08.451822+00:00",
+  "generated_at": "2026-04-13T12:09:03.298292+00:00",
   "days": [
+    {
+      "date": "2026-04-13",
+      "articles": [
+        {
+          "id": "9c52dc5ff13f",
+          "title": "Le boss de Meta se dote d’un clone généré par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/233423/le-boss-de-meta-se-dote-dun-clone-genere-par-ia/",
+          "category": "ia",
+          "published_at": "2026-04-13T11:59:23+00:00",
+          "summary": "Le jumeau numérique de Mark Zuckerberg, entraîné à partir d&#8217;images du PDG ainsi que de sa voix, est censé permettre à ses employés d&#8217;interagir avec lui. Dans un second temps, il devrait aussi permettre aux influenceurs et autres « créateurs » de développer de tels…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5aea5b557b6",
+          "title": "Danish jazz artists rage at AI tracks released under their names",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/13/danish-jazz-artists-rage-at-ai-tracks-released-under-their-names/",
+          "category": "musique",
+          "published_at": "2026-04-13T11:30:00+00:00",
+          "summary": "“I woke up one morning and saw a track with a horrible cover that says I&#8217;m a saxophonist &#8211; which I&#8217;m not. But it also says I produced this record and put it at the top of my profile. I think that&#8217;s f**king rubbish. It sounds like something you would have…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fe6c95de879",
+          "title": "Forfaits « sans condition de durée » : SFR condamné à 10 millions d’euros d’amende",
+          "source": "Next INpact",
+          "url": "https://next.ink/233425/forfaits-sans-condition-de-duree-sfr-condamne-a-10-millions-deuros-damende/",
+          "category": "ia",
+          "published_at": "2026-04-13T11:21:55+00:00",
+          "summary": "SFR a été condamné le 19 mars dernier par le tribunal correctionnel de Paris à une amende de 10 millions d&#8217;euros, dont la moitié a été assortie du sursis, pour pratiques commerciales trompeuses. L&#8217;affaire portait sur des communications marketing relatives à des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d8cc150355c",
+          "title": "Pourquoi Daphne a disparu de Bridgerton sur Netflix ? Phoebe Dynevor brise enfin le silence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2231155-pourquoi-daphne-a-disparu-de-bridgerton-sur-netflix-phoebe-dynevor-brise-enfin-le-silence.html",
+          "category": "ia",
+          "published_at": "2026-04-13T11:15:00+00:00",
+          "summary": "Daphne Bridgerton, la Duchesse qui a lancé le phénomène mondial La Chronique des Bridgerton sur Netlix, reviendra-t-elle un jour à Mayfair ? Alors que la saison 5 se prépare en Écosse, Phoebe Dynevor s'est confiée sans détour sur les coulisses de son départ et les conditions de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75b8014d6bfb",
+          "title": "The music industry has long prioritized creative output over operational foundations. AI does not alter that imbalance; it exposes it.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-music-industry-has-long-prioritized-creative-output-over-operational-foundations-ai-does-not-alter-that-imbalance-it-exposes-it/",
+          "category": "ia",
+          "published_at": "2026-04-13T10:58:37+00:00",
+          "summary": "Deviate Digital founder Sammy Andrews digs deep into how the business globally is actually using AI – and detects that the conversation is  finally evolving beyond linear arguments over rights…\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "276a048151d3",
+          "title": "Warner Music’s Spinnin’ Records launches new label in Germany",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-musics-spinnin-records-launches-new-label-in-germany/",
+          "category": "musique",
+          "published_at": "2026-04-13T10:43:20+00:00",
+          "summary": "New label 'creates opportunities for artists across Germany, Switzerland, and Austria (GSA)'\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "365c38bf5a1e",
+          "title": "Le prochain vol du Starship aura lieu en mars. Ou plutôt en avril. Ah non, en mai maintenant. Elon Musk a encore changé la date",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2231177-le-prochain-vol-du-starship-aura-lieu-en-mars-ou-plutot-en-avril-ah-non-en-mai-maintenant-elon-musk-a-encore-change-la-date.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-13T10:38:53+00:00",
+          "summary": "Elon Musk a un rapport tout à fait personnel à l'espace et au temps. La preuve avec la chronologie du prochain vol d'essai du Starship, qui semble reculer à mesure qu'on s'en approche.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b41a457b4a3",
+          "title": "Fini la galère des vélos dans le train ? Tout savoir sur l’abonnement vélo pliant de Brompton et la SNCF",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2230965-fini-la-galere-des-velos-dans-le-train-tout-savoir-sur-labonnement-velo-pliant-de-brompton-et-la-sncf.html",
+          "category": "ia",
+          "published_at": "2026-04-13T10:06:27+00:00",
+          "summary": "Le fabricant de vélos Brompton s'associe à SNCF Voyageurs, pour proposer une offre intéressante dans certaines régions en France : un abonnement de location de vélos pliants, acceptés à bord des trains TER.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb95f0fe3115",
+          "title": "After closing $267m ABS deal, Seeker Music acquires Nu Shooz catalog",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-closing-267m-abs-deal-seeker-music-acquires-nu-shooz-catalog/",
+          "category": "musique",
+          "published_at": "2026-04-13T10:04:56+00:00",
+          "summary": "Nu Shooz's dance track \"I Can’t Wait\", which celebrates its 40th anniversary, climbed to No. 3 on the Billboard Hot 100.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "209595fcde9d",
+          "title": "Spotify gives users the option to switch off video content across its platform",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-gives-users-the-option-to-switch-off-video-content-across-its-platform/",
+          "category": "musique",
+          "published_at": "2026-04-13T09:55:35+00:00",
+          "summary": "Spotify is rolling out new toggles that allow listeners to switch off video content, including Canvas visuals and podcast videos.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f473e1bd15cc",
+          "title": "Switzerland’s MusicBird acquires catalog of Supertramp bassist Dougie Thomson",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/switzerlands-musicbird-acquires-catalog-of-supertramp-bassist-dougie-thomson1/",
+          "category": "musique",
+          "published_at": "2026-04-13T09:50:41+00:00",
+          "summary": "British rock band Supertramp sold more than 60 million albums since they were formed in 1970.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2eb8507b0cf3",
+          "title": "São Paulo court shuts streaming fraud site in latest ruling under Brazil’s Operation Authêntica initiative",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sao-paulo-court-orders-shutdown-of-streaming-fraud-site-in-latest-operation-authentica-ruling/",
+          "category": "musique",
+          "published_at": "2026-04-13T09:46:41+00:00",
+          "summary": "Another blow to fake streams as Brazil escalates its fight against platforms selling artificial music engagement.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc7cad6f00da",
+          "title": "Non, l’IA Claude Mythos n’a pas découvert des milliers de failles critiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2230911-non-lia-claude-mythos-na-pas-decouvert-des-milliers-de-failles-critiques.html",
+          "category": "ia",
+          "published_at": "2026-04-13T09:29:29+00:00",
+          "summary": "Présenté comme un modèle d’IA capable de découvrir des milliers de failles critiques inédites, Mythos d’Anthropic a suscité un véritable emballement après sa fuite. Mais derrière les annonces spectaculaires, la réalité apparaît bien plus nuancée : comme le souligne Tom's…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7282640eb8ca",
+          "title": "IA à la rédac’, memecoins et casinos illégaux : le business plan d’un dépeceur de médias",
+          "source": "Next INpact",
+          "url": "https://next.ink/232979/ia-a-la-redac-memecoins-et-casinos-illegaux-le-business-plan-dun-depeceur-de-medias/",
+          "category": "ia",
+          "published_at": "2026-04-13T09:12:51+00:00",
+          "summary": "Une entreprise fait la promotion de cryptoactifs et de casinos en ligne, et gagne de l&#8217;argent quand ses utilisateurs en perdent. Pour les convaincre d&#8217;investir, elle a racheté 300 sites d&#8217;infos, et viré leurs journalistes pour les remplacer par des IA. Next a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f5eb48d1e9f",
+          "title": "Le bouclier d’Orion a-t-il vraiment tenu le choc ? Une marque suspecte sème le doute après le retour d’Artémis 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2230905-le-bouclier-dorion-a-t-il-vraiment-tenu-le-choc-une-marque-suspecte-seme-le-doute-apres-le-retour-dartemis-2.html",
+          "category": "ia",
+          "published_at": "2026-04-13T08:42:43+00:00",
+          "summary": "Une marque blanche a été repérée sur le bouclier thermique qui a protégé la capsule Orion, lors du retour sur Terre de l'équipage d'Artémis II. Une tache qui a fait réagir la NASA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9d3275d9465",
+          "title": "Rockstar, développeur de GTA 6, s’est de nouveau fait hacker",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230909-rockstar-developpeur-de-gta-6-sest-de-nouveau-fait-hacker.html",
+          "category": "ia",
+          "published_at": "2026-04-13T08:40:28+00:00",
+          "summary": "Le studio Rockstar, développeur de GTA 6, a confirmé avoir été piraté par un tiers après qu’un groupe de hackers a formulé une demande de rançon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b13296f9b0f",
+          "title": "Un modèle « homme-machine » : la Chine dévoile son plan d’action pour intégrer l’IA dans son éducation nationale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2230939-un-modele-homme-machine-la-chine-devoile-son-plan-daction-pour-integrer-lia-dans-son-education-nationale.html",
+          "category": "ia",
+          "published_at": "2026-04-13T08:39:45+00:00",
+          "summary": "Dans un document officiel publié le 10 avril 2026, la Chine a détaillé son plan d'action pour faire de l'intelligence artificielle un pilier de son système éducatif, de l'école primaire aux formations professionnelles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5460f563e22",
+          "title": "Seulement 350 exemplaires sur invitation : Tesla sort une ultime version de ses modèles historiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2230993-seulement-350-exemplaires-sur-invitation-tesla-sort-une-ultime-version-de-ses-modeles-historiques.html",
+          "category": "ia",
+          "published_at": "2026-04-13T08:35:01+00:00",
+          "summary": "La boucle est bouclée. Avec une édition spéciale nommée Signature, Tesla clôture la vie de la Model S comme il l’avait commencée. Une série limitée, exclusive… et hors de prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e68ca22cbcb",
+          "title": "Le reboot de Highlander avec Henry Cavill va y aller à fond sur la décapitation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2230935-le-reboot-de-highlander-avec-henry-cavill-va-y-aller-a-fond-sur-la-decapitation.html",
+          "category": "ia",
+          "published_at": "2026-04-13T08:31:55+00:00",
+          "summary": "C'est l'un des projets les plus attendus par les amateurs de fantasy et d'action pure. Alors que le tournage bat son plein en Écosse sous la direction de Chad Stahelski, maître du genre, le reboot de Highlander promet de ne pas faire dans la demi-mesure, selon l'un des membres…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89d9b7f4cc95",
+          "title": "Microsoft simplifie le programme Windows Insider",
+          "source": "Next INpact",
+          "url": "https://next.ink/233343/microsoft-simplifie-le-programme-windows-insider/",
+          "category": "ia",
+          "published_at": "2026-04-13T07:43:15+00:00",
+          "summary": "Microsoft revoit en profondeur le programme Windows Insider. Simplification (relative) des canaux, des fonctions annoncées disponibles immédiatement en bêta, des transitions facilitées entre différentes versions : le tout pour accélérer le grand chantier de rénovation de Windows…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fa764b8798a",
+          "title": "Ces 6 meilleurs smartphones à moins de 300 € méritent chaque euro dépensé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1209008-un-bon-smartphone-pas-cher-cest-possible-notre-selection-a-moins-de-300-euros.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-13T07:35:44+00:00",
+          "summary": "Faut-il nécessairement se ruiner pour s'offrir un smartphone récent qui tient la route ? La réponse est non. Que vous cherchiez le meilleur rapport qualité-prix, un photophone efficace ou un monstre d'autonomie, nous avons passé au crible les nouveautés pour vous. Voici les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7fd7ca92307",
+          "title": "☕️ Linux clarifie les règles d’utilisation de l’IA dans les contributions au noyau",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/linux-clarifie-les-regles-dutilisation-de-lia-dans-les-contributions-au-noyau/",
+          "category": "ia",
+          "published_at": "2026-04-13T07:15:00+00:00",
+          "summary": "Le document concerné a fait l&#8217;objet d&#8217;un commit dès le 6 janvier dernier, mais c&#8217;est ce samedi 11 avril qu&#8217;il a émergé sur Hacker News : le dépôt administré par Linus Torvalds et dédié au noyau Linux comporte désormais un fichier coding-assistants.rst qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "092c08dfba76",
+          "title": "☕️ SteamGPT, futur outil IA pour renforcer la modération sur Steam ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/steamgpt-futur-outil-ia-pour-renforcer-la-moderation-sur-steam/",
+          "category": "ia",
+          "published_at": "2026-04-13T06:32:00+00:00",
+          "summary": "L&#8217;IA générative se fait une place toujours plus grande dans l&#8217;industrie du jeu vidéo, qui adopte cette technologie pour générer du code… et parfois, des assets graphiques, ce qui ne manque jamais de&#160;provoquer une levée de boucliers&#160;chez de nombreux joueurs.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "243dbdc75cac",
+          "title": "☕️ Tous les bugs (connus) de Windows 11 sont corrigés, selon Microsoft",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/tous-les-bugs-connus-de-windows-11-sont-corriges-selon-microsoft/",
+          "category": "loi",
+          "published_at": "2026-04-13T06:02:39+00:00",
+          "summary": "Un problème, quel problème ? Plus de problème ! Selon Microsoft, tous les bugs de Windows 11 ont été corrigés. Si si ! C&#8217;est marqué dans la&#160;liste&#160;des «&#160;problèmes connus » de la version 25H2, la dernière en date pour le grand public. Mieux encore, la version…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0399d44498c8",
+          "title": "Huawei lance un iPhone Fold avant l’heure : son nouveau pliant a les mêmes dimensions que celui d’Apple",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2230887-huawei-va-lancer-un-iphone-fold-avant-lheure-son-nouveau-pliant-a-les-memes-dimensions-que-celui-dapple.html",
+          "category": "ia",
+          "published_at": "2026-04-13T05:50:01+00:00",
+          "summary": "Avec le Pura X Max, Huawei devient le premier constructeur à se lancer dans la course aux téléphones pliants ultra-larges (ultra wide). Les rumeurs annoncent que Samsung suivra cette voie dès cet été avant le grand lancement d'Apple en septembre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "145ac956d078",
+          "title": "Rethinking European music exports: it’s not just about copying South Korea",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/13/rethinking-european-music-exports-its-not-just-about-copying-south-korea/",
+          "category": "ia",
+          "published_at": "2026-04-13T05:00:00+00:00",
+          "summary": "Guest column: Music Ally publishes guest columns voicing the opinions of notable authors, or advancing specific perspectives on important issues. These are chosen at the Editorial team’s discretion, are not paid-for, and do not necessarily reflect Music Ally&#8217;s own opinion.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c74c59c4be9b",
+          "title": "Fans Choose KATSEYE’s ‘Pinky Up’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/katseye-pinky-favorite-new-music-poll-results-1236221261/",
+          "category": "musique",
+          "published_at": "2026-04-13T00:33:53+00:00",
+          "summary": "The girl group's new single brought in 50% of the vote.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-12",
       "articles": [
+        {
+          "id": "db1b3ab07744",
+          "title": "KATSEYE Raves About Their ‘Joint Slay’ With HUNTR/X at Coachella 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/katseye-coachella-2026-interview-1236221222/",
+          "category": "ia",
+          "published_at": "2026-04-12T22:10:02+00:00",
+          "summary": "The group also shared their thoughts on playing new single \"Pinky Up\" for the first time during an \"electric\" performance at the California festival.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01d2d78ff2a6",
+          "title": "Katy Perry & Zara Larsson React to Justin Bieber’s YouTube-Fueled Coachella Set: ‘Thank God He Has Premium’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/justin-bieber-coachella-2026-katy-perry-zara-larsson-react-1236221215/",
+          "category": "ia",
+          "published_at": "2026-04-12T19:57:23+00:00",
+          "summary": "The pop star headlined the festival’s main stage on April 11.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ca72ed2aecb",
+          "title": "BTS’ ‘ARIRANG’ Scores Third Week at No. 1 on Billboard 200",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/bts-arirang-third-week-number-one-billboard-200-chart-1236221190/",
+          "category": "musique",
+          "published_at": "2026-04-12T19:00:03+00:00",
+          "summary": "It has the most weeks at No. 1 for an album by a group in more than a decade.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8bf0eec7827",
+          "title": "BIA Talks “WE ON GO (RAGE MIX),” Bringing Out OhGeesy & Denzel Curry at Coachella & More | Billboard News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/bia-talks-we-on-go-rage-mix-bringing-out-ohgeesy/",
+          "category": "musique",
+          "published_at": "2026-04-12T18:30:03+00:00",
+          "summary": "BIA shares what her prep process was for her first solo set at Coachella 2026, bringing out OhGeesy &#38; Denzel Curry, and what inspired her to do the “WE ON GO (RAGE MIX).”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0332ffed6a06",
+          "title": "Offset Rolls Out Onstage in Wheelchair for First Performance After Being Shot",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/offset-appears-onstage-first-time-after-being-shot-1236221193/",
+          "category": "ia",
+          "published_at": "2026-04-12T18:27:57+00:00",
+          "summary": "The Migos rapper performed at the University of Arkansas's Rowfest on April 11.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee5ccde2c9aa",
+          "title": "La carte graphique 9070 XT d’AMD est à un prix imbattable sur ce site",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2230485-la-carte-graphique-9070-xt-damd-est-a-un-prix-imbattable-sur-ce-site.html",
+          "category": "ia",
+          "published_at": "2026-04-12T15:14:45+00:00",
+          "summary": "[Deal du jour] Vous aviez prévu de vous faire une configuration gaming aux petits oignons pour les prochaines grosses sorties ? On a trouvé la carte graphique qu'il vous faut avec cette promo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b63e29293e8",
+          "title": "On a testé le MacBook Pro M5 Pro avec 48 Go de RAM : la config parfaite pour de l’IA locale ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2226563-on-a-teste-le-macbook-pro-m5-pro-avec-48-go-de-ram-la-config-parfaite-pour-de-lia-locale.html",
+          "category": "ia",
+          "published_at": "2026-04-12T14:31:00+00:00",
+          "summary": "À 3 199 euros ou plus, le MacBook Pro d'Apple avec une puce M5 Pro et 48 Go de RAM n'est pas un ordinateur conçu pour le grand public. Mais à l'heure de l'IA locale et des modèles open source, cette machine pourrait bien être le produit idéal pour faire tourner des LLM Google,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cdb7cbd4d46",
+          "title": "Des photos, des matchs : c’est Tinder ? Non, c’est Matchy Matchy !",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2227151-des-photos-des-matchs-cest-tinder-non-cest-matchy-matchy.html",
+          "category": "ia",
+          "published_at": "2026-04-12T13:02:00+00:00",
+          "summary": "Un classique des jeux d’ambiance, parmi les plus anciens et les plus appréciés, fait son grand retour dans une version modernisée. Plus de 30&nbsp;ans après sa sortie, Matchy Matchy mérite-t-il toujours votre attention ? Comment ça se joue ? Quel est notre avis ? On vous dit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b6855a2250d",
+          "title": "Shadow Lord : la face cachée du méchant le plus mystérieux de Star Wars enfin dévoilée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2228607-shadow-lord-la-face-cachee-du-mechant-le-plus-mysterieux-de-la-saga-enfin-devoilee.html",
+          "category": "ia",
+          "published_at": "2026-04-12T11:31:00+00:00",
+          "summary": "Dark Maul n’est plus seulement ce guerrier au double sabre laser tombé dans un puits sur Naboo. Avec la série Shadow Lord, Lucasfilm s'attaque enfin à la période la plus floue de son existence, l'entre-deux-guerres galactique. Ce récit transforme notre compréhension du…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "a9aab6f9bc4f",
           "title": "La sublime version PS5 Pro de Cyberpunk 2077 donne vraiment envie de jouer au RPG",
