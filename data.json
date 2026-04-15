@@ -1,9 +1,554 @@
 {
-  "generated_at": "2026-04-14T11:43:42.278085+00:00",
+  "generated_at": "2026-04-15T11:38:43.556915+00:00",
   "days": [
+    {
+      "date": "2026-04-15",
+      "articles": [
+        {
+          "id": "1556bd5e4c99",
+          "title": "Arguments rage over Chaotic Good, Geese and ‘trend simulation’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/arguments-rage-over-chaotic-good-geese-and-trend-simulation/",
+          "category": "musique",
+          "published_at": "2026-04-15T11:30:00+00:00",
+          "summary": "You may or may not like Geese (the band, not the birds). Their 1.8 million Spotify listeners and plenty of critical acclaim for their 2025 album &#8216;Getting Killed&#8217; suggests plenty of people do. The band have released four albums since 2018 and toured regularly, so are…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad07098b622a",
+          "title": "Après un pépin technique, SpaceX se rassure avec un test réussi du Starship",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2233183-apres-un-pepin-technique-spacex-se-rassure-avec-un-test-reussi-du-starship.html",
+          "category": "ia",
+          "published_at": "2026-04-15T10:57:00+00:00",
+          "summary": "SpaceX a bouclé avec succès un autre test en prévision du 12e vol d'essai du Starship. Il s'agissait ici de procéder à une mise à feu statique de l'étage supérieur de la fusée géante.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89224a7a04e0",
+          "title": "La Renault 4 électrique décapotable est là, sauf pour les Français",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2233295-la-renault-4-electrique-decapotable-est-la-sauf-pour-les-francais.html",
+          "category": "ia",
+          "published_at": "2026-04-15T10:37:04+00:00",
+          "summary": "Enfin, la version « Plein Sud » de la Renault 4 électrique et son grand toit ouvrant est disponible à la commande. Problème, la France est encore boudée. Dans des pays voisins comme l'Allemagne, le prix est fixé à 36 300 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d516af7ece5d",
+          "title": "On sait enfin où aller chercher de l’eau sur la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2233079-on-sait-enfin-ou-aller-chercher-de-leau-sur-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-04-15T10:31:00+00:00",
+          "summary": "Une nouvelle étude montre quel serait le cratère de la Lune le plus à même de contenir la ressource clé pour toute exploration humaine : de l'eau. Celle-ci se trouverait dans une zone perpétuellement masquée du Soleil.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f104c3f88e8",
+          "title": "24 morts et un groupe divisé : des chimpanzés se livrent à une guerre civile en Ouganda",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2233381-24-morts-et-un-groupe-divise-des-chimpanzes-se-livrent-a-une-guerre-civile-en-ouganda.html",
+          "category": "ia",
+          "published_at": "2026-04-15T10:22:46+00:00",
+          "summary": "En Ouganda, le plus grand groupe de chimpanzés jamais observé à l’état sauvage s’est scindé en deux factions devenues ennemies. Ce conflit interne exceptionnel, marqué par au moins 24 attaques meurtrières selon une nouvelle étude parue dans Science, interroge les origines…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "acccc4e88f4a",
+          "title": "Pirate site Anna’s Archive hit with $322M default judgment over music scraping — but will Spotify and record labels ever see the money?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-and-record-labels-win-322m-default-judgment-against-pirate-site-annas-archive/",
+          "category": "musique",
+          "published_at": "2026-04-15T10:21:28+00:00",
+          "summary": "Whether the plaintiffs will ever see the $322 million award remains unclear, as Anna’s Archive’s operators remain anonymous.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82aca8b8247a",
+          "title": "Scrubs VS Malcolm : le match des revival de sitcoms cultes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2232443-scrubs-vs-malcolm-le-match-des-revival-de-sitcoms-cultes.html",
+          "category": "ia",
+          "published_at": "2026-04-15T10:01:28+00:00",
+          "summary": "Hasard du calendrier ou signe des temps, deux sitcoms très aimées des années 2000 reviennent sur Disney + en France. Les Millenials nostalgiques seront ravis de retrouver Scrubs et Malcolm pour de nouvelles aventures ! Mais laquelle de ces deux séries cultissime tire vraiment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e18d3329ff1a",
+          "title": "Mark Pitts exits as President of RCA Records, launches new management venture COFVNDERS",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/mark-pitts-exits-as-president-of-rca-records-launches-new-management-venture-cofvnders/",
+          "category": "musique",
+          "published_at": "2026-04-15T10:01:15+00:00",
+          "summary": "He will maintain a relationship with RCA and Sony Music in a consultancy capacity\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a43d24c7c719",
+          "title": "On a vu la Volkswagen ID.3 Neo : la copie revue et corrigée de l’ID.3 fait son effet",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2233077-on-a-vu-la-volkswagen-id-3-neo-la-copie-revue-et-corrigee-de-lid-3-fait-son-effet.html",
+          "category": "ia",
+          "published_at": "2026-04-15T10:01:00+00:00",
+          "summary": "Vue en avant-première par Numerama, la Volkswagen ID.3 Neo marque un vrai tournant. Matériaux, ergonomie, technologie : le constructeur corrige enfin le tir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "259a11be88d6",
+          "title": "Le premier film tiré de Game of Thrones s’annonce aussi colossal que Dune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233219-le-premier-film-tire-de-game-of-thrones-sannonce-aussi-colossal-que-dune.html",
+          "category": "ia",
+          "published_at": "2026-04-15T10:00:17+00:00",
+          "summary": "C'est l'annonce qui a clôturé en apothéose la présentation de Warner Bros. à la CinemaCon 2026 de Las Vegas. Après des années de rumeurs, le studio a officiellement confirmé le développement d'un long-métrage Game of Thrones à grand spectacle pour le cinéma, centré sur le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f17ca051eb8c",
+          "title": "Inside the Christian Music Boom With Lecrae | Billboard On The Record",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/inside-the-christian-music-boom-w-lecrae/",
+          "category": "musique",
+          "published_at": "2026-04-15T10:00:00+00:00",
+          "summary": "Christian and Gospel music are having a moment in an evolving industry. Lecrae, four-time Grammy-winning Christian artist and founder of Reach Records, joins Billboard On The Record to break down the genre’s rapid growth, how it’s attracting younger generations and the nuances…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52e041637450",
+          "title": "Les Joy-Con de la Nintendo Switch 2 sont aujourd’hui 20 € moins chers",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2233277-les-joy-con-de-la-nintendo-switch-2-sont-aujourdhui-20-e-moins-chers.html",
+          "category": "ia",
+          "published_at": "2026-04-15T09:44:09+00:00",
+          "summary": "[Deal du jour] Les manettes de la Switch 2 baissent leur prix de 20 €. Une excellente promotion pour un accessoire vendu un peu trop cher à son prix fort.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9041d149d8b9",
+          "title": "Hunt for Gollum: on sait enfin qui incarnera Aragorn dans le prochain Seigneur des Anneaux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233059-hunt-for-gollum-on-sait-enfin-qui-incarnera-aragorn-dans-le-prochain-seigneur-des-anneaux.html",
+          "category": "ia",
+          "published_at": "2026-04-15T09:30:00+00:00",
+          "summary": "La tension était à son comble lors de la présentation Warner Bros. à Las Vegas : le nom de l'acteur qui aura la lourde tâche de succéder à Viggo Mortensen dans le rôle culte d'Aragorn vient enfin d'être révélé. Voici tout ce qu'il faut savoir sur ce choix de casting audacieux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "471583a466d2",
+          "title": "Doit-on déclarer l’argent qu’on a gagné sur Vinted aux impôts ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/705456-faut-il-declarer-aux-impots-vos-ventes-sur-vinted.html",
+          "category": "ia",
+          "published_at": "2026-04-15T09:29:00+00:00",
+          "summary": "Si vous avez vendu des vêtements ou autres sur Vinted (ou une autre plateforme de vente entre particuliers) en 2025 vous devrez peut-être déclarer les recettes. On a regroupé ici tout ce qu'il faut savoir pour éviter les mauvaises surprises.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db8fa3fe7e7d",
+          "title": "☕️ Fin de support annoncée pour le Fairphone 3, deux ans de sursis offerts avec e/OS/",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/fin-de-support-annoncee-pour-le-fairphone-3-deux-ans-de-sursis-offerts-avec-e-os/",
+          "category": "ia",
+          "published_at": "2026-04-15T09:29:00+00:00",
+          "summary": "Lancés en 2019, le smartphone Fairphone 3 et sa déclinaison 3+ prendront officiellement leur retraite à compter d&#8217;août 2026, a annoncé le constructeur mercredi 15 avril. L&#8217;appareil aura donc profité d&#8217;un support total de sept ans, supérieur aux cinq années…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d5a3b612a56",
+          "title": "Musicians Respond to Calls For PRS to Reduce License Fees, Say Move Would Make Songwriter Careers ‘Less Viable’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/uk-unions-respond-prs-license-fees-venues/",
+          "category": "musique",
+          "published_at": "2026-04-15T09:28:44+00:00",
+          "summary": "The statement follows the Music Venue Trust's recent call for transparency around licensing fees for grassroots venues.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66f316964fbe",
+          "title": "☕️ Entre la chaise et le clavier dépasse les 50 000 écoutes !",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/entre-la-chaise-et-le-clavier-depasse-les-50-000-ecoutes/",
+          "category": "ia",
+          "published_at": "2026-04-15T09:01:00+00:00",
+          "summary": "En septembre 2024, Next se lançait dans une nouvelle aventure : la production audio. Un an et demi plus tard, après deux séries thématiques et un cycle de grands entretiens, les podcasts de Next ont dépassé les 50 500 téléchargements. Car Entre la chaise et le clavier, c’est un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19a2affacad6",
+          "title": "Roblox durcit l’accès à une partie de ses jeux pour les mineurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233051-roblox-durcit-lacces-a-une-partie-de-ses-jeux-pour-les-mineurs.html",
+          "category": "ia",
+          "published_at": "2026-04-15T08:54:20+00:00",
+          "summary": "Roblox vient enfin de lancer son application native sur PlayStation 5. L’éditeur du jeu en profite également pour communiquer sur sa nouvelle formule payante, ainsi que sur les mesures mises en place pour protéger le jeune public.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2786ffb618d",
+          "title": "Fausse joie pour les fans de Game of Thrones qui attendaient The Winds of Winter",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233057-fausse-joie-pour-les-fans-de-game-of-thrones-qui-attendaient-the-winds-of-winter.html",
+          "category": "ia",
+          "published_at": "2026-04-15T08:37:41+00:00",
+          "summary": "Vous y avez cru ? Ce week-end des 11 et 12 avril 2026, une rumeur a circulé sur les réseaux sociaux annonçant la sortie prochaine du sixième tome du Trône de Fer. L'éditeur américain de George R. R. Martin a rapidement douché nos espoirs : c'est un canular.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1439c423f2fd",
+          "title": "Mythos : l’Europe tenue à l’écart du modèle IA le plus ambitieux du moment",
+          "source": "Next INpact",
+          "url": "https://next.ink/233707/mythos-leurope-tenue-a-lecart-du-modele-ia-le-plus-ambitieux-du-moment/",
+          "category": "ia",
+          "published_at": "2026-04-15T08:33:00+00:00",
+          "summary": "En distribuant avec parcimonie les accès pour Mythos, Anthropic a mis les régulateurs européens à l&#8217;écart. Sur le Vieux continent, seul le Royaume-Uni a obtenu un sésame. L&#8217;analyse qui en découle souligne les performances du nouveau grand modèle d&#8217;Anthropic,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bb1ac632450",
+          "title": "Grok menacé sur l’App Store : Apple n’a pas apprécié la génération de deepfakes sexuels",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2233067-grok-menace-sur-lapp-store-apple-na-pas-apprecie-la-generation-de-deepfakes-sexuels.html",
+          "category": "ia",
+          "published_at": "2026-04-15T08:32:58+00:00",
+          "summary": "Selon les informations de NBC News, Apple et xAI ont eu un désaccord majeur en janvier lorsque l'IA d'Elon Musk s'est mis à générer des images de femmes en sous-vêtements sur demande. Le créateur de l'iPhone a menacé xAI de supprimer Grok de l'App Store.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2950ace9a50d",
+          "title": "Le guide ultime pour bien choisir son iPhone en 2026, sans se tromper",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/288962-guide-dachat-quel-iphone-choisir-en-2017.html",
+          "category": "ia",
+          "published_at": "2026-04-15T08:29:44+00:00",
+          "summary": "On a beau aimer iOS et son interface fluide, complète et terriblement intuitive… mais cela ressemble parfois à une prison dorée. En effet, choisir un iPhone reste un sport puisqu'Apple multiplie les modèles et conserve des générations plus anciennes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a79ccbfa3a41",
+          "title": "Qu’est-ce que GPT-5.4-Cyber, la nouvelle IA d’OpenAI pour la cybersécurité ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2233039-quest-ce-que-gpt-5-4-cyber-la-nouvelle-ia-dopenai-pour-la-cybersecurite.html",
+          "category": "ia",
+          "published_at": "2026-04-15T08:15:45+00:00",
+          "summary": "Le 14 avril 2026, OpenAI a présenté&nbsp;GPT-5.4-Cyber, une variante de son dernier modèle pensée pour la&nbsp;cyberdéfense&nbsp;et destinée aux&nbsp;professionnels de la sécurité. L’annonce suit de près le&nbsp;bruit médiatique&nbsp;suscité par&nbsp;Anthropic&nbsp;et son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c91db5937e3",
+          "title": "AI Overviews : Google conteste le taux de 10% d’erreurs, mais en dénombre lui-même… 22%",
+          "source": "Next INpact",
+          "url": "https://next.ink/233454/ai-overviews-google-conteste-le-taux-de-10-derreurs-mais-en-denombre-lui-meme-22/",
+          "category": "ia",
+          "published_at": "2026-04-15T07:53:52+00:00",
+          "summary": "Le New York Times avance que le taux d&#8217;erreurs des AI Overviews de Google, qui résument la meilleure réponse du moteur de recherche, serait d&#8217;environ 10 %. Google conteste ce chiffre, au motif qu&#8217;il serait basé sur un benchmark biaisé d&#8217;OpenAI. Or,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a050bcc38265",
+          "title": "Music Venue Trust tangles with PRS for Music over live fees",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/music-venue-trust-tangles-with-prs-for-music-over-live-fees/",
+          "category": "musique",
+          "published_at": "2026-04-15T07:50:03+00:00",
+          "summary": "UK charity the Music Venue Trust has ignited a new row with collecting society PRS for Music over the fees that the latter charges.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9c0bf05f5d8",
+          "title": "Comment une fausse maladie a trompé les chatbots et infiltré la littérature scientifique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2233045-comment-une-fausse-maladie-a-trompe-les-chatbots-et-infiltre-la-litterature-scientifique.html",
+          "category": "ia",
+          "published_at": "2026-04-15T07:49:38+00:00",
+          "summary": "La bixonimanie n’existe pas, mais des articles de blogs et des prépublications sur cette maladie inventée par une chercheuse en médecine ont suffi à tromper plusieurs intelligences artificielles conversationnelles et à s’introduire dans un article scientifique officiel,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f55852c75d01",
+          "title": "☕️ Raspberry Pi OS 6.2 réintègre un mot de passe par défaut pour les commandes sudo",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/raspberry-pi-os-6-2-reintegre-un-mot-de-passe-par-defaut-pour-les-commandes-sudo/",
+          "category": "ia",
+          "published_at": "2026-04-15T07:02:00+00:00",
+          "summary": "La fondation Raspberry Pi introduit avec la dernière mise à jour de son environnement logiciel une petite nouveauté qui risque de surprendre les utilisateurs : par défaut, Raspberry Pi OS 6.2 réintègre la nécessité d&#8217;entrer manuellement le mot de passe d&#8217;un compte…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e119e45d1b06",
+          "title": "☕️ Microsoft met fin aux Surface Hub, ses écrans géants pour entreprises",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/microsoft-met-fin-aux-surface-hub-ses-ecrans-geants-pour-entreprises/",
+          "category": "ia",
+          "published_at": "2026-04-15T06:36:24+00:00",
+          "summary": "Depuis 2023 et le lancement de la 3e génération de Surface Hub, Microsoft était restée bien silencieuse sur cette gamme de grands écrans tactiles de salles de réunion. On risque bien d&#8217;en entendre encore moins parler : selon Windows Central, le constructeur a tout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "049dcfdb184d",
+          "title": "Ce mod de Resident Evil Requiem permet de rendre les ennemis minuscules et c’est hilarant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2232535-ce-mod-de-resident-evil-requiem-permet-de-rendre-les-ennemis-minuscules-et-cest-hilarant.html",
+          "category": "ia",
+          "published_at": "2026-04-15T06:10:00+00:00",
+          "summary": "Resident Evil Requiem est un succès critique et public indéniable. Le titre de Capcom a réussi l’exploit de relancer une nouvelle fois la saga, en proposant une expérience intense, qui ne manque pas de véritables moments d’horreur. Si toutefois vous avez trop peur d’y jouer, ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06a18c173ec5",
+          "title": "Bella Kay Joins Billboard U.K. Live at The Great Escape Festival 2026: See Full Lineup",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/billboard-uk-live-the-great-escape-festival-2026-lineup-1236222136/",
+          "category": "musique",
+          "published_at": "2026-04-15T06:00:00+00:00",
+          "summary": "Keo will top the bill at The Deep End venue.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7317e2907401",
+          "title": "« On ne peut pas gagner la bataille informationnelle si on ne mène pas la guerre » : les dessous de French Response, la riposte numérique du Quai d’Orsay",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2231711-on-ne-peut-pas-gagner-la-bataille-informationnelle-si-on-ne-mene-pas-la-guerre-les-dessous-de-french-response-la-riposte-numerique-du-quai-dorsay.html",
+          "category": "ia",
+          "published_at": "2026-04-15T05:30:00+00:00",
+          "summary": "Dans le cadre d'un entretien avec Pascal Confavreux, Numerama a souhaité disséquer avec le porte-parole du ministère de l'Europe et des Affaires Étrangères, les mécanismes d'un OVNI diplomatique arrivé sur X il y a quelques mois : French Response.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8f629eebda4",
+          "title": "‘The Voice’ Crowns Season 29 Champion",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/the-voice-season-29-champion-1236223242/",
+          "category": "ia",
+          "published_at": "2026-04-15T05:13:27+00:00",
+          "summary": "Alexia Jayy is a trailblazer, a record-maker and the hero of The Voice: Battle of Champions.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a23fc9e26a3",
+          "title": "‘There Are Certainly Other Options:’ Joe Perry Isn’t Calling Time on Aerosmith",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/joe-perry-interview-aerosmith-steven-tyler-1236223216/",
+          "category": "ia",
+          "published_at": "2026-04-15T03:20:15+00:00",
+          "summary": "The rocker exclusively shares an update on Steven Tyler, following the injury that caused Aerosmith to abandon their farewell tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "557e444578fa",
+          "title": "INXS to Receive Australia’s Ted Albert Award",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/inxs-ted-albert-2026-apra-music-awards-1236223200/",
+          "category": "musique",
+          "published_at": "2026-04-15T02:44:23+00:00",
+          "summary": "The prestigious honor will be presented at the 2026 APRA Music Awards, set for Wednesday, April 29 at Sydney's Hordern Pavilion.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-14",
       "articles": [
+        {
+          "id": "1d91ce6db04a",
+          "title": "☕️ Des données d’élèves exposées après une cyberattaque visant ÉduConnect",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/des-donnees-deleves-exposees-apres-une-cyberattaque-visant-educonnect/",
+          "category": "ia",
+          "published_at": "2026-04-14T19:16:01+00:00",
+          "summary": "Des données personnelles ont été&#160;volées&#160;durant une cyberattaque qui s&#8217;est déroulée en décembre dernier au sein du service de gestion des comptes des élèves. Des informations comme les prénoms, noms, identifiants ÉduConnect, établissements et classes, ainsi que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37adf65b8a0e",
+          "title": "Prénom, nom, établissement, classe : l’Éducation nationale victime d’une cyberattaque ciblant les comptes ÉduConnect d’élèves",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2232941-prenom-nom-etablissement-classe-leducation-nationale-victime-dune-cyberattaque-ciblant-les-comptes-educonnect-deleves.html",
+          "category": "cnil",
+          "published_at": "2026-04-14T16:19:09+00:00",
+          "summary": "Le ministère de l'Éducation nationale confirme à Numerama avoir été victime d'une cyberattaque ciblée ayant entraîné la fuite de données personnelles d'élèves. L'incident trouve son origine dans l'usurpation d'un compte administrateur fin 2025, qui a permis un accès frauduleux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33654cb7ef29",
+          "title": "Le commandant d’Artémis II n’avait pas le cœur à abandonner Rise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2232747-le-commandant-dartemis-ii-navait-pas-le-coeur-a-abandonner-rise.html",
+          "category": "ia",
+          "published_at": "2026-04-14T16:05:32+00:00",
+          "summary": "Reid Wiseman n'est pas vraiment revenu les mains vides de son périple spatial. Il a ramené avec lui... une peluche. Et pas n'importe laquelle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96a2a7cfc27b",
+          "title": "« Tesla me doit 6 400 € » : un propriétaire de Model 3 HW3 veut attaquer la marque en justice à cause du FSD",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2232599-tesla-me-doit-6-400-e-un-proprietaire-de-model-3-hw3-veut-attaquer-la-marque-en-justice-a-cause-du-fsd.html",
+          "category": "ia",
+          "published_at": "2026-04-14T16:01:10+00:00",
+          "summary": "Alors que les Pays-Bas ont donné le feu vert pour le FSD, de nombreux propriétaires de Tesla se retrouvent lésés. La problématique est bien connue : les modèles dotés de la brique matérielle HW3 ne sont pas compatibles avec la conduite autonome (supervisée). Un propriétaire a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "136ae9ca9730",
+          "title": "Suites bureautiques européennes : la bataille de l’alternative à Microsoft et Google",
+          "source": "Next INpact",
+          "url": "https://next.ink/232157/suites-bureautiques-europeennes-la-bataille-de-lalternative-a-microsoft-et-google/",
+          "category": "musique",
+          "published_at": "2026-04-14T15:55:54+00:00",
+          "summary": "Le concert des suites bureautiques se revendiquant à la fois d&#8217;une dimension souveraine et d&#8217;un code ouvert ne manque ni de voix, ni d&#8217;instruments, mais force est de constater qu&#8217;il a bien du mal à chanter à l&#8217;unisson ou à faire émerger un ténor. En…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe2b3a79910d",
+          "title": "Attendu depuis 2022, ce jeu de SF signé Capcom arrive enfin et il est déjà en promotion",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2177109-attendu-depuis-2022-ce-jeu-de-sf-signe-capcom-arrive-enfin-et-il-est-deja-en-promotion.html",
+          "category": "ia",
+          "published_at": "2026-04-14T15:35:51+00:00",
+          "summary": "[Précommande] Après le succès de Resident Evil Requiem, c'est au tour de l'autre jeu de Capcom de briller : Pragmata. Prévu pour le 17 avril prochain, le jeu est déjà disponible à un très bon prix en précommande.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "963c3558e5cb",
+          "title": "Mouse: P.I. For Hire est savoureux comme un bon fromage AOP",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2231897-test-de-mouse-pi-for-hire-sur-ps5-pro.html",
+          "category": "ia",
+          "published_at": "2026-04-14T15:00:00+00:00",
+          "summary": "Sorte de Doom habillé dans une direction artistique flamboyante, fruit d'un rendu noir &amp; blanc exquis, Mouse: P.I. For Hire fait oublier son gameplay répétitif grâce à son histoire captivante, à la fois bien référencée et très drôle. Notre test.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e045b6b6a5e",
+          "title": "Amazon rachète Globalstar et vise Starlink sur la téléphonie satellite",
+          "source": "Next INpact",
+          "url": "https://next.ink/233617/amazon-rachete-globalstar-et-vise-starlink-sur-la-telephonie-satellite/",
+          "category": "ia",
+          "published_at": "2026-04-14T14:54:04+00:00",
+          "summary": "Le suspense n&#8217;aura pas duré bien longtemps. Amazon a confirmé l&#8217;acquisition de Globalstar, un opérateur de satellites dont la constellation va rejoindre celle d&#8217;Amazon Leo. Objectif : aller chercher le leader Starlink, à commencer par la téléphonie. Fondée en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d3efe0fce15",
+          "title": "Former UMG Nashville chief Cindy Mabe launches Joan of Arc Music, strikes distribution deal with Warner Records Nashville",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/former-umg-nashville-chief-cindy-mabe-launches-joan-of-arc-music-strikes-distribution-deal-with-warner-records-nashville/",
+          "category": "musique",
+          "published_at": "2026-04-14T14:53:40+00:00",
+          "summary": "Joan of Arc Music operates across artist management, label services, publishing, TV/film production and philanthropy, with a distribution deal plugging into WMG's global network.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5be3ca4d1356",
+          "title": "UK collection org PPL’s revenue grew 4.75% YoY to $415m in FY 2025; paid out $102m to performers & rightsholders in Q1 2026",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/uk-collection-org-ppls-revenue-grew-4-75-yoy-to-415m-in-2025-paid-out-102m-to-performers-rightsholders-in-q1-2026/",
+          "category": "ia",
+          "published_at": "2026-04-14T14:45:25+00:00",
+          "summary": "In 2025, PPL paid royalties to more than 182,000 performers and recording rightsholders, including 16,000 who received payments for the first time.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "503f290923c3",
+          "title": "☕️ Vie privée : 75 associations alertent Meta sur les risques que créent ses smart glass",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/vie-privee-75-associations-alertent-meta-sur-les-risques-que-creent-ses-smart-glass/",
+          "category": "ia",
+          "published_at": "2026-04-14T14:07:45+00:00",
+          "summary": "Plus de soixante-dix associations dédiées à la défense des libertés numériques ou à la lutte pour les droits des femmes et des minorités se sont associées pour signer une lettre ouverte à destination de Mark Zuckerberg.   En jeu : les risques que ses smart glass font peser sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe222895a38d",
+          "title": "Larry Mestel to receive City of Hope’s 2026 Spirit of Life Award",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/larry-mestel-founder-and-ceo-of-primary-wave-music-to-receive-city-of-hopes-2026-spirit-of-life-award/",
+          "category": "musique",
+          "published_at": "2026-04-14T13:43:02+00:00",
+          "summary": "Founder &#038; CEO of Primary Wave Music recognized for industry leadership and commitment to advancing cancer research through partnership\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32e7fd7b376f",
+          "title": "☕️ Microsoft fait flamber les prix de ses ordinateurs Surface",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/microsoft-fait-flamber-les-prix-de-ses-ordinateurs-surface/",
+          "category": "ia",
+          "published_at": "2026-04-14T12:48:06+00:00",
+          "summary": "Microsoft n&#8217;est pas épargné par l&#8217;explosion des prix des composants mémoire. Le constructeur a dévoilé une volée de hausses assez spectaculaires des prix pour ses appareils Surface, en France comme ailleurs dans le monde.&#160; Les augmentations oscillent entre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46a9d0c893d3",
+          "title": "Roblox to roll out ‘age-based accounts’ and new subscription",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/14/roblox-to-roll-out-age-based-accounts-and-new-subscription/",
+          "category": "musique",
+          "published_at": "2026-04-14T12:45:00+00:00",
+          "summary": "Roblox is excluded from Australia’s ban on social media for under-16s, but it’s very much part of the wider global conversation about children’s digital lives, potential harms and regulation. Its latest announcement is an effort to get out in front of those debates. In June,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6460786118c6",
+          "title": "PPL reveals that its collections grew 4.8% in 2025 to £315.3m",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/14/ppl-reveals-that-its-collections-grew-4-8-in-2025-to-315-3m/",
+          "category": "musique",
+          "published_at": "2026-04-14T12:40:00+00:00",
+          "summary": "UK music-licensing company PPL has published its figures for 2025, revealing that its revenues grew by 4.8% to £315.3m last year – $426.7m at current exchange rates. What’s driving the growth? It’s very much about international collections, because they were up 16% to £94m last…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "42f61c8abed6",
+          "title": "WMG doubles down on Música Mexicana with TuStreams deal",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/14/wmg-doubles-down-on-musica-mexicana-with-tustreams-deal/",
+          "category": "musique",
+          "published_at": "2026-04-14T12:35:00+00:00",
+          "summary": "TuStreams is one of the players in the burgeoning Música Mexicana space: a distributor that has worked with independent artists including Grupo Firme, Panter Bélico, Xavi and Neton Vega in its time. Now it’s working with Warner Music Group too. The two companies have inked a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4806b25d829",
+          "title": "UMG’s Michael Nash sees ‘no audience’ for explosion in AI music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/14/umgs-michael-nash-sees-no-audience-for-explosion-in-ai-music/",
+          "category": "musique",
+          "published_at": "2026-04-14T12:30:00+00:00",
+          "summary": "Universal Music Group’s digital chief Michael Nash sat down with Splice CEO Kakul Srivastava at last week’s HumanX AI conference, offering the latest insight into how both companies see the AI-music space. Nash went in hard on “the false narrative of artist replacement” by AI,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "906ff1b83386",
+          "title": "Tim Miles appointed EVP of BMG’s global SYNC+ division",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tim-miles-appointed-evp-of-bmgs-global-sync-division/",
+          "category": "musique",
+          "published_at": "2026-04-14T12:28:04+00:00",
+          "summary": "BMG taps Warner Music Group veteran to drive its SYNC+ strategy, strengthening its global sync and music-for-media operations.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "884b904f92f5",
+          "title": "Datacenters : 12 associations alertent sur la loi de simplification et la souveraineté",
+          "source": "Next INpact",
+          "url": "https://next.ink/233568/datacenters-12-associations-alertent-sur-la-loi-de-simplification-et-la-souverainete/",
+          "category": "ia",
+          "published_at": "2026-04-14T12:07:03+00:00",
+          "summary": "Les conclusions de la Commission mixte paritaire sur la loi de simplification de la vie économique sont débattues cet après-midi à l&#8217;Assemblée et demain au Sénat. Douze associations critiquent de nouveau son article 15, dédié à faciliter l&#8217;implantation de centres de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7aaad0f55d91",
+          "title": "Meet the Swiss distro company banking on agentic AI to power the ‘next generation’ of indie labels.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/meet-the-swiss-distro-company-banking-on-agentic-ai-to-power-the-next-generation-of-indie-labels/",
+          "category": "musique",
+          "published_at": "2026-04-14T12:03:35+00:00",
+          "summary": "Dennis Hausammann was a rising rapper before setting out to build AI-powered tools for indie label founders.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "61b05a00dfff",
           "title": "Pixels de suivi dans les courriers électroniques : vous devez être mieux informés",
@@ -22,6 +567,16 @@
           "category": "ia",
           "published_at": "2026-04-14T12:00:00+00:00",
           "summary": "À l’issue d’une consultation publique, la CNIL publie la version finale de ses recommandations sur les pixels de suivi dans les courriels. Elle précise le cadre applicable afin d’aider les acteurs à mieux comprendre leurs obligations et assurer le respect des droits des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33273aacbcd9",
+          "title": "Les sanctions prononcées par la CNIL",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/les-sanctions-prononcees-par-la-cnil",
+          "category": "cnil",
+          "published_at": "2026-04-14T12:00:00+00:00",
+          "summary": "Les sanctions prononcées par la formation restreinte de la CNIL&amp;nbsp;depuis l'entrée en vigueur de la loi relative au défenseur des droits.",
           "summary_type": "extrait source"
         },
         {
