@@ -1,9 +1,544 @@
 {
-  "generated_at": "2026-04-15T11:38:43.556915+00:00",
+  "generated_at": "2026-04-16T11:43:00.685944+00:00",
   "days": [
+    {
+      "date": "2026-04-16",
+      "articles": [
+        {
+          "id": "9291b76706e0",
+          "title": "AIPD : le CEPD lance une consultation publique sur un modèle européen",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/aipd-le-cepd-lance-une-consultation-publique",
+          "category": "ia",
+          "published_at": "2026-04-16T12:00:00+00:00",
+          "summary": "Le Comité européen de la protection des données (CEPD) a élaboré un document-type à destination des responsables de traitement afin de les aider à documenter les résultats de leur analyse d’impact concernant la protection des données (AIPD). Une consultation publique sur ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ebe2bf50246d",
+          "title": "Live Nation loses its antitrust lawsuit – so what happens next?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/live-nation-loses-its-antitrust-lawsuit-so-what-happens-next/",
+          "category": "musique",
+          "published_at": "2026-04-16T11:30:00+00:00",
+          "summary": "When Live Nation settled with the US Department of Justice a few days into its antitrust trial last month, the expectation was that it would reach a similar settlement with the state attorneys general who were also suing it. It did not, despite setting aside a $280m settlement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2036b4e06cf",
+          "title": "740 km/h, train d’atterrissage rentré : le jet supersonique X-59 monte en puissance vers le mur du son",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2233959-740-km-h-train-datterrissage-rentre-le-jet-supersonique-x-59-monte-en-puissance-vers-le-mur-du-son.html",
+          "category": "ia",
+          "published_at": "2026-04-16T11:20:00+00:00",
+          "summary": "L'avion supersonique expérimental X-59 enchaine les vols. Le jet en est déjà à son huitième essai, avec cette fois une différence notable : le train d'atterrissage a été rentré.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "514eb3b86259",
+          "title": "Une IA est tombée amoureuse des hiboux sans jamais avoir lu le mot « hibou »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2233755-une-ia-est-tombee-amoureuse-des-hiboux-sans-jamais-avoir-lu-le-mot-hibou.html",
+          "category": "ia",
+          "published_at": "2026-04-16T11:07:31+00:00",
+          "summary": "Une étude publiée le 15 avril 2026 dans la revue Nature révèle un phénomène aussi fascinant qu’inquiétant : des modèles d’IA peuvent se transmettre des biais, des préférences -- voire des comportements problématiques -- à travers des données qui n’en contiennent aucune trace…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da5803ca997b",
+          "title": "The Grateful Dead Launches Play Dead Streaming Platform: ‘We Want to Melt Your Faces’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/grateful-dead-subscription-streaming-service-play-dead/",
+          "category": "ia",
+          "published_at": "2026-04-16T11:00:00+00:00",
+          "summary": "A joint effort of nugs and Rhino Entertainment, the subscription service will offer access to all of the Dead's prior archival releases, along with new material.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "684f7528c6af",
+          "title": "Des glaciers géants de 600 années-lumière de long découverts dans la Voie Lactée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2233777-des-glaciers-geants-de-600-annees-lumiere-de-long-decouverts-dans-la-voie-lactee.html",
+          "category": "ia",
+          "published_at": "2026-04-16T10:41:00+00:00",
+          "summary": "Le télescope SPHEREx a découvert des traces de glace interstellaire à travers notre Voie lactée. Les signatures moléculaires sont cachées dans de vastes ensembles où naissent les étoiles, et pourraient être un atout clé pour la formation de planètes habitables.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6922ab1125a",
+          "title": "James Bond va encore nous faire patienter pendant un moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233899-james-bond-va-encore-nous-faire-patienter-pendant-un-moment.html",
+          "category": "ia",
+          "published_at": "2026-04-16T10:25:00+00:00",
+          "summary": "Longtemps espérée, l’annonce du prochain interprète de 007 se fait toujours attendre. À l’occasion de la CinemaCon, les dirigeants d’Amazon MGM Studios ont levé le voile sur les coulisses d’un casting complexe. Le studio explique pourquoi la patience est le maître-mot d’une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "322b45fa39f7",
+          "title": "Warner Chappell Music signs Grammy winner Claudia Brant to global publishing deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-chappell-music-signs-grammy-winner-claudia-brant-to-global-publishing-deal/",
+          "category": "musique",
+          "published_at": "2026-04-16T10:24:14+00:00",
+          "summary": "Grammy-winning songwriter formalizes expanded partnership with WCM as company deepens ties to Latin repertoire and writer development.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "decbcbcdae92",
+          "title": "Gaana is partnering with “artist-empowerment” platform Fenix360",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/gaana-is-partnering-with-artist-empowerment-platform-fenix360/",
+          "category": "musique",
+          "published_at": "2026-04-16T10:05:32+00:00",
+          "summary": "In the great Indian audio-streaming service shake-up that has seen the shutting down of Resso (2024), Wynk Music (2024) and Hungama Music (2025), Gaana has stood out for sticking around [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ab91a39eec1",
+          "title": "La sortie d’Overwatch sur Switch 2 tourne à la catastrophe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233949-la-sortie-doverwatch-sur-switch-2-tourne-a-la-catastrophe.html",
+          "category": "ia",
+          "published_at": "2026-04-16T10:01:53+00:00",
+          "summary": "Overwatch est enfin disponible sur la Switch 2 de Nintendo depuis le 14 avril 2026. Une sortie très attendue, mais qui n’a pas su convaincre les joueuses et les joueurs, en raison de performances décevantes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20d4c10e1a26",
+          "title": "Accusés de boycott de contenus politiques, les grands noms de la pub transigent avec la FTC",
+          "source": "Next INpact",
+          "url": "https://next.ink/233791/accuses-de-boycott-de-contenus-politiques-les-grands-noms-de-la-pub-transigent-avec-la-ftc/",
+          "category": "ia",
+          "published_at": "2026-04-16T09:49:04+00:00",
+          "summary": "L&#8217;autorité états-unienne de la concurrence (FTC) a négocié un accord avec les trois plus grandes agences de publicité au monde, pour contraindre ces dernières à ne plus coordonner l&#8217;exclusion de certains médias ou plateformes au nom de la désinformation. La FTC, qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "015a49a18e31",
+          "title": "Certains pays préfèrent attendre la décision de l’UE avant d’autoriser le FSD de Tesla",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2233809-certains-pays-preferent-attendre-la-decision-de-lue-avant-dautoriser-le-fsd-de-tesla.html",
+          "category": "justice",
+          "published_at": "2026-04-16T09:40:13+00:00",
+          "summary": "Alors que les Pays-Bas ont franchi le pas du Tesla FSD le 10 avril 2026, l'Italie et la Suède temporisent. Dans l'attente d'une décision de l'Union européenne cet été, ces deux nations ont déjà manifesté leur refus d'une homologation anticipée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bba11ae969b4",
+          "title": "UK : Telegram ne modère pas les comptes d’un vaste marché noir, pourtant sanctionné",
+          "source": "Next INpact",
+          "url": "https://next.ink/233814/uk-telegram-ne-modere-pas-les-comptes-dun-vaste-marche-noir-pourtant-sanctionne/",
+          "category": "ia",
+          "published_at": "2026-04-16T09:01:33+00:00",
+          "summary": "Un vaste réseau d’escroquerie notamment financé via des cryptomonnaies continue de sévir sur Telegram, quand bien même le gouvernement britannique l’a sanctionné mi-mars. Depuis plus de trois ans, un vaste marché noir nommé Xinbi Guarantee prospère sur Telegram. L’essentiel des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35d438a31af2",
+          "title": "KATSEYE Is Coming to Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/katseye-coming-to-australia-1236224161/",
+          "category": "ia",
+          "published_at": "2026-04-16T08:29:14+00:00",
+          "summary": "To celebrate KATSEYE's first trip to these parts, fans will have the chance to attend an exclusive fan Q&#38;A experience in Sydney on May 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e190e243e38",
+          "title": "Quel iPad choisir en 2026 ? Le comparatif complet des tablettes Apple",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/723969-ipad-ipad-air-ipad-pro-quelle-tablette-apple-choisir-en-2021.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-16T08:28:45+00:00",
+          "summary": "iPad classique, Air, mini ou Pro ? Avec 6 modèles disponibles en 2025 et des tarifs qui vont du simple au triple, l'achat d'une tablette Apple exige que l'on s'y attarde. Quel modèle offre le meilleur rapport qualité-prix pour votre usage ? Découvrez notre comparatif complet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9023810b2b9",
+          "title": "Fuite chez Rockstar : la poule aux œufs d’or de GTA Online",
+          "source": "Next INpact",
+          "url": "https://next.ink/233786/fuite-chez-rockstar-la-poule-aux-oeufs-dor-de-gta-online/",
+          "category": "ia",
+          "published_at": "2026-04-16T08:08:00+00:00",
+          "summary": "Take-Two peut remercier les hackers. Des données confidentielles du studio Rockstar, filiale de l&#8217;éditeur, ont fuité suite à une cyberattaque à quelques mois du lancement de GTA 6. Ces informations rendues publiques ont donné un coup d&#8217;accélérateur à l&#8217;action…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e24f8d946a2",
+          "title": "En 48 heures, deux tests cruciaux de la fusée géante Starship viennent d’être bouclés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2233749-en-48-heures-deux-tests-cruciaux-de-la-fusee-geante-starship-viennent-detre-boucles.html",
+          "category": "ia",
+          "published_at": "2026-04-16T08:06:34+00:00",
+          "summary": "SpaceX vient d'achever deux tests importants en deux jours pour le prochain essai de sa fusée Starship. Le vol d'essai de la fusée géante est attendu dans quelques semaines.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78615d6a1617",
+          "title": "Google Gemini sur Mac : une application officielle change tout face à ChatGPT et Claude",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2233723-google-gemini-sur-mac-une-application-officielle-change-tout-face-a-chatgpt-et-claude.html",
+          "category": "ia",
+          "published_at": "2026-04-16T07:58:36+00:00",
+          "summary": "Plus besoin de se rendre sur gemini.google.com pour solliciter le très polyvalent assistant de Google : une application Gemini est désormais disponible sur macOS. Elle donne accès à son historique de conversation, de solliciter le chatbot en un raccourci clavier et de lui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cb3d104316b",
+          "title": "Jessie Ware Sets Major International ‘Superbloom’ Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/jessie-ware-major-international-superbloom-tour-1236224147/",
+          "category": "musique",
+          "published_at": "2026-04-16T07:51:25+00:00",
+          "summary": "Ahead of her new album release, Jessie Ware announces a trans-Atlantic tour that's said to be her biggest to date, and includes her first-ever U.K. arena run.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31fe7efaee36",
+          "title": "Quel écran gamer choisir pour son PC ou sa console en 2026 ? Nos 6 références préférées",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1897488-quels-sont-les-meilleurs-ecrans-pc-gamer.html",
+          "category": "ia",
+          "published_at": "2026-04-16T07:45:00+00:00",
+          "summary": "Après avoir choisi les bons composants pour un PC gamer, ou une console de dernière génération vient la question des périphériques. Parmi les priorités, l'écran reste l'élément central : celui qui vous fera profiter au mieux de votre configuration. Numerama a fait la liste ici…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7d5e15e43ba",
+          "title": "Recall de Windows 11 encore épinglé pour ses failles de sécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/233789/recall-de-windows-11-encore-epingle-pour-ses-failles-de-securite/",
+          "category": "ia",
+          "published_at": "2026-04-16T07:13:00+00:00",
+          "summary": "Microsoft pensait avoir réglé tous les problèmes de Recall, mais peut-être pas. Annoncée en juin 2024, la fonction IA de Windows 11 a subi pratiquement un an de retard pour boucher de sérieux trous de sécurité. Elle est de nouveau sous le feu des projecteurs suite à la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f10ccbc5e33",
+          "title": "Le fabricant de chaussures Allbirds change de pied et devient… un fournisseur d’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/233782/le-fabricant-de-chaussures-allbirds-change-de-pied-et-devient-un-fournisseur-dia/",
+          "category": "ia",
+          "published_at": "2026-04-16T06:26:46+00:00",
+          "summary": "Le 1er avril étant passé, on peut exclure la mauvaise blague. L&#8217;entreprise californienne Allbirds a décidé de changer de cœur de métier en devenant fournisseur d’infrastructures IA. De prime abord, rien de très surprenant au vu de la ruée vers l&#8217;or actuelle dans ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da87398009b4",
+          "title": "☕️ La vidéo virale du paiement sur iPhone verrouillé ? Une faille de 2021 quasi inexploitable",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/la-video-virale-du-paiement-sur-iphone-verrouille-une-faille-de-2021-quasi-inexploitable/",
+          "category": "ia",
+          "published_at": "2026-04-16T06:11:01+00:00",
+          "summary": "Avec un million de vues en moins de dix heures, et déjà des milliers de partages et d&#8217;extraits sur les réseaux sociaux, la dernière vidéo de la chaîne scientifique Veritasium (20,6 millions d&#8217;abonnés) est partie pour faire un véritable carton. Il faut dire que son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b2b6131179b",
+          "title": "Warp Records’ Cryptic Poster Run Hints at Boards of Canada Return",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/warp-records-cryptic-poster-boards-of-canada-1236224138/",
+          "category": "musique",
+          "published_at": "2026-04-16T04:25:03+00:00",
+          "summary": "Boards of Canada's last album release was \"Tomorrow's Harvest\" from 2013.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0caf90ada48d",
+          "title": "Watch Ariana Grande Star in First ‘Focker-in-Law’ Trailer: ‘Would You Like to Ask Me Some Questions, Greg?’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/focker-in-law-trailer-ariana-grande-ben-stiller-de-niro-1236224106/",
+          "category": "ia",
+          "published_at": "2026-04-16T01:23:51+00:00",
+          "summary": "The film will be released in theaters this Thanksgiving.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5e41e9ec430",
+          "title": "Lena Dunham Gives Taylor Swift Sweet Acknowledgment in New Memoir: ‘You Sing the Songs I Wrote This Book To’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/lena-dunham-taylor-swift-acknowledgment-memoir-1236224019/",
+          "category": "ia",
+          "published_at": "2026-04-16T01:07:53+00:00",
+          "summary": "The pair have been friends for years, with the pop star serving as a bridesmaid for the actress in 2021.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "513231b00537",
+          "title": "Live Nation Lost Its Monopoly Trial. What’s Next — and Could Ticketmaster Really Be Sold?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/live-nation-lost-monopoly-trial-what-happens-ticketmaster/",
+          "category": "musique",
+          "published_at": "2026-04-16T00:15:52+00:00",
+          "summary": "As the dust settles on a jury's antitrust verdict against Live Nation, Billboard unpacks what's next in the high-stakes legal battle.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-15",
       "articles": [
+        {
+          "id": "ae5125dd2f99",
+          "title": "Live Nation operated as illegal monopoly, jury finds in landmark antitrust trial",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/federal-jury-finds-live-nation-operated-as-illegal-monopoly-in-landmark-antitrust-trial/",
+          "category": "ia",
+          "published_at": "2026-04-15T19:38:11+00:00",
+          "summary": "Landmark verdict could reshape the live entertainment industry.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f81a71b998bc",
+          "title": "Streaming Fraud Doesn’t Respect Silos. Neither Should We.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/streaming-fraud-doesnt-respect-silos-neither-should-we/",
+          "category": "justice",
+          "published_at": "2026-04-15T17:13:30+00:00",
+          "summary": "Merlin CEO, Charlie Lexton, addresses THAT fallout with TikTok - and Merlin's own anti-fraud progress\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c43c7b242c9",
+          "title": "On a testé la recharge en 5 minutes de BYD et c’est du pur délire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2233537-on-a-teste-la-recharge-en-5-minutes-de-byd-et-cest-du-pur-delire.html",
+          "category": "ia",
+          "published_at": "2026-04-15T16:13:14+00:00",
+          "summary": "À l'occasion d'un atelier pendant les essais de la Denza Z9 GT, nous avons pu voir de nos propres yeux la nouvelle technologie Flash Charging de BYD, permettant de ravitailler de 10 à 70 % en seulement 5 minutes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5aadc786caca",
+          "title": "Pixels de suivi dans les emails : la Cnil demande une mise en conformité sous trois mois",
+          "source": "Next INpact",
+          "url": "https://next.ink/233735/pixels-de-suivi-dans-les-emails-la-cnil-demande-une-mise-en-conformite-sous-trois-mois/",
+          "category": "ia",
+          "published_at": "2026-04-15T15:53:29+00:00",
+          "summary": "La Cnil vient de publier une recommandation en forme de piqure de rappel ou de clarification à destination des professionnels de l&#8217;email marketing : l&#8217;intégration aux courriers électroniques d&#8217;un pixel de suivi, ou pixel de tracking, obéit à des règles strictes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f90dd8c0248b",
+          "title": "☕️ Patch tuesday : Microsoft bouche 165 failles de sécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/patch-tuesday-microsoft-bouche-167-failles-de-securite/",
+          "category": "ia",
+          "published_at": "2026-04-15T15:42:39+00:00",
+          "summary": "Puisqu&#8217;il ne reste&#160;plus de bugs (connus) dans Windows 11, les ingénieurs de Microsoft ont tout loisir de boucher les vulnérabilités dans leurs différents logiciels. Ils ne s&#8217;en privent pas : à l&#8217;échelle du vaste catalogue produit de l&#8217;éditeur, le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1655afd19208",
+          "title": "☕️ L’app européenne de vérification de l’âge est « techniquement prête »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/lapp-europeenne-de-verification-de-lage-est-techniquement-prete/",
+          "category": "ia",
+          "published_at": "2026-04-15T15:07:00+00:00",
+          "summary": "L&#8217;application de vérification de l&#8217;âge européenne est «&#160;techniquement prête ». À la veille d&#8217;une réunion du groupe spécial sur la sécurité des enfants en ligne, Ursula von der Leyen vient d&#8217;annoncer que cette app sera bientôt accessible aux citoyens.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b151b5fc9ef",
+          "title": "Deepfakes pornographiques : Apple a menacé de suspendre X de son App Store",
+          "source": "Next INpact",
+          "url": "https://next.ink/233761/deepfakes-pornographiques-apple-a-menace-de-suspendre-x-de-son-app-store/",
+          "category": "ia",
+          "published_at": "2026-04-15T14:56:25+00:00",
+          "summary": "En janvier, Apple a participé à la pression mise sur xAI et Grok pour les obliger à freiner la production de deepfakes dénudés non consentis. Depuis, néanmoins, la génération de ce type d’image reste possible sur les deux plateformes. Après la vague de contenus pornographiques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24c3ec0da32e",
+          "title": "Dune 3 : Denis Villeneuve dévoile des nouvelles images en petit comité, et le choc est total",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233575-dune-3-denis-villeneuve-devoile-des-nouvelles-images-en-petit-comite-et-le-choc-est-total.html",
+          "category": "ia",
+          "published_at": "2026-04-15T14:47:57+00:00",
+          "summary": "Il ne s’agit pas encore d’une bande-annonce publique, mais d’une « expérience sensorielle ». Lors d'une présentation ultra-privée au CinemaCon de Las Vegas, Denis Villeneuve a projeté les premières minutes de Dune 3. Verdict des rares privilégiés : l’immersion est plus totale,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cf873f59358",
+          "title": "UMG’s Michael Nash takes aim at ‘false narrative of artist replacement’ by AI – and 3 other things we learned from his HumanX panel with Splice’s CEO",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umgs-michael-nash-takes-aim-at-the-ai-versus-artists-narrative-and-3-other-things-you-might-have-missed-from-his-humanx-panel-with-splice-ceo-kakul-srivastava/",
+          "category": "ia",
+          "published_at": "2026-04-15T14:42:18+00:00",
+          "summary": "The pair discussed UMG's approach to AI, including how the company balances protecting artists' rights with leaning into AI innovation\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1875961ad0f3",
+          "title": "Audiotool launches a global hackathon for music apps",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/audiotool-launches-a-global-hackathon-for-music-apps/",
+          "category": "musique",
+          "published_at": "2026-04-15T14:19:16+00:00",
+          "summary": "Music-production firm Audiotool has unveiled &#8216;Let&#8217;s Build&#8217;, a series of online and in-person events designed as a hackathon for music apps.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7177e3b82da",
+          "title": "« J’ai passé une journée vraiment difficile », comment une fausse app Ledger glissée dans l’App Store a aspiré 9,5 millions de dollars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2233487-jai-passe-une-journee-vraiment-difficile-comment-une-fausse-app-ledger-glissee-dans-lapp-store-a-aspire-95-millions-de-dollars.html",
+          "category": "musique",
+          "published_at": "2026-04-15T13:40:06+00:00",
+          "summary": "Pendant près d’une semaine, une fausse application Ledger Live a séjourné sur le Mac App Store, après avoir passé la revue de sécurité d’Apple. Suffisamment longtemps pour vider les portefeuilles crypto de plus de cinquante utilisateurs, pour un total de 9,5 millions de dollars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee1248d2f226",
+          "title": "Les boutiques officielles d’Apple et de Google laissent toujours passer des apps malveillantes",
+          "source": "Next INpact",
+          "url": "https://next.ink/233749/les-boutiques-officielles-dapple-et-de-google-laissent-toujours-passer-des-apps-malveillantes/",
+          "category": "ia",
+          "published_at": "2026-04-15T13:35:35+00:00",
+          "summary": "Apple l&#8217;affirme : l&#8217;App Store est « l&#8217;endroit le plus sûr pour trouver les apps que vous aimez » grâce aux équipes chargées d&#8217;examiner de près les applications soumises par les développeurs du monde entier. Un message de sécurité repris aussi par Google…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b1d136d4874",
+          "title": "Néobanques (Revolut, N26, Bunq…) : comment déclarer son compte en banque aux impôts ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/1385276-revolut-n26-comment-declarer-compte-etranger-impots.html",
+          "category": "ia",
+          "published_at": "2026-04-15T13:20:05+00:00",
+          "summary": "Avec l'arrivée des beaux jours vient aussi le temps de la déclaration fiscale. Parmi les fastidieuses épreuves des impôts, il y a la déclaration de vos comptes bancaires auprès des « néobanques », comme N26 ou Revolut, qui, pour certains, sont des comptes à l'étranger. Vous avez…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aaa1c83914bc",
+          "title": "Spotify to support US grassroots venues via NIVA partnership",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/spotify-to-support-us-grassroots-venues-via-niva-partnership/",
+          "category": "musique",
+          "published_at": "2026-04-15T13:16:51+00:00",
+          "summary": "Spotify has inked a one-year deal with US grassroots-venues body NIVA to support its members, with plans to make them more prominent.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c303bfb5dd8",
+          "title": "Quel stylet Apple Pencil choisir pour son iPad ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1535236-apple-pencil-1-2-ou-usb-c-quel-stylet-choisir-pour-son-ipad.html",
+          "category": "ia",
+          "published_at": "2026-04-15T13:04:01+00:00",
+          "summary": "Avec les modèles USB-C et Pro, les Apple Pencil de première et seconde génération restent toujours disponibles en ligne : il y a autant de stylets que de tablettes chez Apple. Pour s'y retrouver vos mieux avoir ce guide sous la main.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17a1c92319d1",
+          "title": "Spotify strikes deal with National Independent Venue Association to boost indie venues in the US",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-strikes-year-long-deal-with-national-independent-venue-association-to-boost-indie-venues-in-the-us/",
+          "category": "musique",
+          "published_at": "2026-04-15T13:01:16+00:00",
+          "summary": "Throughout 2026, Spotify will boost visibility for independent venues through existing features including venue pages and its Live Events Feed.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eae7e5c46bc5",
+          "title": "Chris Marking appointed Executive Vice President, International Venue Sponsorship at Live Nation",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/chris-marking-appointed-executive-vice-president-international-venue-sponsorship-at-live-nation/",
+          "category": "musique",
+          "published_at": "2026-04-15T13:00:53+00:00",
+          "summary": "Marking joins from AEG as the company expands global naming rights and brand partnership strategy across its international venue network.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1e3dfe6a6dd",
+          "title": "Sample creators will get payouts from Splice’s new GenAI tools",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/sample-creators-will-get-payouts-from-splices-new-genai-tools/",
+          "category": "ia",
+          "published_at": "2026-04-15T13:00:00+00:00",
+          "summary": "Splice is launching three new GenAI tools for musicians and producers, including &#8216;Variations&#8217;. But it is also stressing the ethics.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79bbfa6562b4",
+          "title": "IA, accélération, mutations : Jérémy Clédat (Welcome to the Jungle) nous livre sa vision du futur du travail",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2232943-ia-acceleration-mutations-jeremy-cledat-welcome-to-the-jungle-nous-livre-sa-vision-du-futur-du-travail.html",
+          "category": "ia",
+          "published_at": "2026-04-15T12:58:16+00:00",
+          "summary": "Jérémy Clédat, fondateur et CEO de Welcome to the Jungle présent au salon Go Entrepreneurs Paris, a passé un an à repenser de fond en comble la plateforme de recrutement phare en France. Nous l'avons rencontré pour parler de la nouvelle suite qu'il s'apprête à déployer, mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "959969fbcf95",
+          "title": "Spotify and labels win (notional) $322m from Anna’s Archive",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/spotify-and-labels-win-notional-322m-from-annas-archive/",
+          "category": "musique",
+          "published_at": "2026-04-15T12:30:00+00:00",
+          "summary": "We say &#8216;notional&#8217; because there is surely very little chance of getting this money. Nonetheless, Spotify and the three major labels have won a default judgement against Anna&#8217;s Archive. That&#8217;s the site that announced before Christmas that it had scraped…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a176f4d689b7",
+          "title": "BTS ‘Arirang’ album was streamed 739.1m times in first week",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/bts-arirang-album-was-streamed-739-1m-times-in-first-week/",
+          "category": "musique",
+          "published_at": "2026-04-15T12:30:00+00:00",
+          "summary": "You don&#8217;t need us to tell you that the BTS comeback album &#8216;Arirang&#8217; was a hit in its first week. But you might need Luminate&#8217;s number-crunchers to tell you exactly how big the album was in streaming terms. Thankfully, they have. &#8220;Looking at global…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36981ed8f266",
+          "title": "Label vets reveal new ventures: 26.2, Joan of Arc, Cofvnders",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/label-vets-reveal-new-ventures-26-2-joan-of-arc-cofvnders/",
+          "category": "musique",
+          "published_at": "2026-04-15T12:30:00+00:00",
+          "summary": "The recent rounds of reorganisation within major labels have seen some big-name executives exit those companies – either as part of planned cuts, or because the time seemed right to seek new pastures or do their own thing. A flurry of those own things have been announced this…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d3b43de4966",
+          "title": "Etsy ‘Festival Shop’ features Laufey, PinkPantheress and Willow Avalon",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/15/etsy-festival-shop-features-laufey-pinkpantheress-and-willow-avalon/",
+          "category": "ia",
+          "published_at": "2026-04-15T12:30:00+00:00",
+          "summary": "Etsy is getting into the licensed merch game, but in a way that taps into its community of makers rather than just relying on the official products that artists are already selling. It has launched &#8216;The Festival Shop&#8217; with three artists: Laufey, PinkPantheress and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f645f07f42d",
+          "title": "Les nouveaux forfaits mobile de Lidl pourraient faire trembler Free et Sosh en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2233413-lidl-va-lancer-des-forfaits-mobiles-bientot-une-nouvelle-guerre-des-prix.html",
+          "category": "ia",
+          "published_at": "2026-04-15T12:19:47+00:00",
+          "summary": "Selon les informations du Financial Times, le géant du hard-discount prépare une offensive majeure sur le marché des télécoms. En s'alliant à la société britannique 1Global, Lidl compte distribuer des forfaits mobiles dans plusieurs pays, dont la France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18a33acbb7a9",
+          "title": "India added nearly 4m paid music streaming subscriptions in 2025, taking its total to 14.4m, according to new report",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/india-added-nearly-4m-paid-music-streaming-subscriptions-in-2025-taking-its-total-to-14-4m-according-to-new-report/",
+          "category": "musique",
+          "published_at": "2026-04-15T11:42:12+00:00",
+          "summary": "However, the report found that of the 178 million people who streamed music in 2025, only about 8% were paying for it. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab79977e2a31",
+          "title": "Face à un public inquiet, l’IA continue son expansion à grande vitesse",
+          "source": "Next INpact",
+          "url": "https://next.ink/233672/face-a-un-public-inquiet-lia-continue-son-expansion-a-grande-vitesse/",
+          "category": "ia",
+          "published_at": "2026-04-15T11:40:50+00:00",
+          "summary": "L’AI Index 2026 de l’Institute for Human-Centered Artificial Intelligence décrit une industrie de l’IA en croissance ultra-rapide, mais qui distance au passage les travaux dédiés à la sécurisation de ces technologies. Quand bien même les usages se répandent, elle peine par…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "1556bd5e4c99",
           "title": "Arguments rage over Chaotic Good, Geese and ‘trend simulation’",
@@ -155,6 +690,16 @@
           "summary_type": "extrait source"
         },
         {
+          "id": "7d6115c2f5ed",
+          "title": "☕️ Fin de support annoncée pour le Fairphone 3, deux ans de sursis offerts avec /e/OS",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/fin-de-support-annoncee-pour-le-fairphone-3-deux-ans-de-sursis-offerts-avec-e-os/",
+          "category": "ia",
+          "published_at": "2026-04-15T09:29:00+00:00",
+          "summary": "Lancés en 2019, le smartphone Fairphone 3 et sa déclinaison 3+ prendront officiellement leur retraite à compter d&#8217;août 2026, a annoncé le constructeur mercredi 15 avril. L&#8217;appareil aura donc profité d&#8217;un support total de sept ans, supérieur aux cinq années…",
+          "summary_type": "extrait source"
+        },
+        {
           "id": "2d5a3b612a56",
           "title": "Musicians Respond to Calls For PRS to Reduce License Fees, Say Move Would Make Songwriter Careers ‘Less Viable’",
           "source": "Billboard",
@@ -242,6 +787,16 @@
           "category": "ia",
           "published_at": "2026-04-15T07:53:52+00:00",
           "summary": "Le New York Times avance que le taux d&#8217;erreurs des AI Overviews de Google, qui résument la meilleure réponse du moteur de recherche, serait d&#8217;environ 10 %. Google conteste ce chiffre, au motif qu&#8217;il serait basé sur un benchmark biaisé d&#8217;OpenAI. Or,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc1852440e19",
+          "title": "[MàJ] AI Overviews : Google conteste le taux de 10% d’erreurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/233454/ai-overviews-google-conteste-le-taux-de-10-derreurs-mais-en-denombre-lui-meme-22/",
+          "category": "ia",
+          "published_at": "2026-04-15T07:53:52+00:00",
+          "summary": "Le New York Times avance que le taux d&#8217;erreurs des AI Overviews de Google, qui résument la meilleure réponse du moteur de recherche, serait d&#8217;environ 10 %. Google conteste ce chiffre, au motif qu&#8217;il serait basé sur un benchmark biaisé d&#8217;OpenAI.…",
           "summary_type": "extrait source"
         },
         {
