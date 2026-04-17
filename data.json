@@ -1,9 +1,574 @@
 {
-  "generated_at": "2026-04-16T11:43:00.685944+00:00",
+  "generated_at": "2026-04-17T11:33:38.638111+00:00",
   "days": [
+    {
+      "date": "2026-04-17",
+      "articles": [
+        {
+          "id": "16acdaadaf74",
+          "title": "Spotify roll out its own AI-transparency feature in beta",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/spotify-roll-out-its-own-ai-transparency-feature-in-beta/",
+          "category": "musique",
+          "published_at": "2026-04-17T11:30:00+00:00",
+          "summary": "Last September, Spotify announced a series of measures relating to AI music, spam and deepfakes. They included supporting – and, indeed, revealing for the first time – a new industry standard for music credits to make it clear how and when AI is used in music tracks. Now Spotify…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b0718451db2",
+          "title": "Top Gun 3 confirmé : une crise existentielle pour le personnage de Maverick",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2234947-top-gun-3-confirme-une-crise-existentielle-pour-le-personnage-de-maverick.html",
+          "category": "ia",
+          "published_at": "2026-04-17T11:02:00+00:00",
+          "summary": "Lors de la présentation de Paramount Pictures au CinemaCon 2026, le studio a confirmé le développement actif de Top Gun 3,avec un scénario en cours d'écriture. Après le triomphe planétaire de Maverick en 2022, Tom Cruise s’apprête à reprendre les commandes pour un troisième…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2621226ea87",
+          "title": "Behind The Single: Justė, Jaxstyle, Jon – “Turn The Lights Off”",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/behind-the-single-juste-jaxstyle-jon-turn-the-lights-off/",
+          "category": "musique",
+          "published_at": "2026-04-17T11:00:00+00:00",
+          "summary": "Track: Justė, Jaxstyle, Jon &#8211; “Turn The Lights Off”Released: 7 Nov 2025Label: Spinnin’ Records (Warner Music Group) Metrics: Over 37m million streams on Spotify  1bn global radio plays #1 across Europe’s Shazam charts #1 in Poland for six weeks, three weeks in Sweden…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5deaa5e72ff",
+          "title": "Universal Music Group launches Everything Jazz, a new global digital platform for jazz music and culture",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-launches-everything-jazz-a-new-global-digital-platform-for-jazz-music-and-culture/",
+          "category": "musique",
+          "published_at": "2026-04-17T10:47:06+00:00",
+          "summary": "New digital hub combines e-commerce and editorial content focused on jazz repertoire and culture.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "420b117d19c1",
+          "title": "Inside The ‘Landmark’ Exhibition Showcasing The Story of Black British Music at London’s Brand-New V&A",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/features/va-east-london-black-music-exhibition-1236225048/",
+          "category": "musique",
+          "published_at": "2026-04-17T10:44:02+00:00",
+          "summary": "The exhibition is part of the opening programme at London's newest edition of the V&#38;A.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b0846cc4492",
+          "title": "☕️ Bruxelles flèche 180M€ de contrats vers les acteurs du cloud, les Français en bonne place",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/bruxelles-fleche-180me-de-contrats-vers-les-acteurs-du-cloud-les-francais-en-bonne-place/",
+          "category": "ia",
+          "published_at": "2026-04-17T10:42:00+00:00",
+          "summary": "La Commission européenne a dévoilé vendredi 17 avril les lauréats de l&#8217;appel d&#8217;offres dynamique qu&#8217;elle avait enclenché en octobre 2025 pour permettre à ses différents bureaux et agences de s&#8217;équiper en ressources cloud. L&#8217;enveloppe, fixée à 180…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87795bcc538e",
+          "title": "« On doit réguler la parole sur les réseaux sociaux » : à un an de la présidentielle, Macron veut en finir avec les ingérences étrangères",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2234863-on-doit-reguler-la-parole-sur-les-reseaux-sociaux-a-un-an-de-la-presidentielle-macron-veut-en-finir-avec-les-ingerences-etrangeres.html",
+          "category": "ia",
+          "published_at": "2026-04-17T10:37:00+00:00",
+          "summary": "À tout juste un an de la prochaine élection présidentielle, à laquelle Emmanuel Macron ne participera pas, l'exécutif accélère sur le front de la sécurité démocratique. Dans le viseur du chef de l'État : l'opacité des algorithmes, les fermes de faux comptes et les ingérences…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e2f3000861a",
+          "title": "Olivia Rodrigo, sombr, Nine Inch Noize & More: New Friday Music Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-sombr-nine-inch-noize-new-friday-music-guide-1236225046/",
+          "category": "musique",
+          "published_at": "2026-04-17T10:36:51+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e309458dc05",
+          "title": "Meta augmente le prix de ses casques Quest 3 et 3S en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2234905-meta-augmente-le-prix-de-ses-casques-quest-3-et-3s-en-france.html",
+          "category": "ia",
+          "published_at": "2026-04-17T10:17:25+00:00",
+          "summary": "Si vous aviez prévu d’acheter un casque de réalité mixte Meta Quest 3 ou Meta Quest 3S, c'est aujourd'hui le bon moment, avant de devoir ajouter quelques euros supplémentaires au panier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5acbc42c301f",
+          "title": "Demi Lovato Struts Into Her Dance Era With ‘Low Rise Jeans’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/demi-lovato-low-rise-jeans-stream-it-now-1236225050/",
+          "category": "musique",
+          "published_at": "2026-04-17T10:08:40+00:00",
+          "summary": "The new jam will be housed on her deluxe album release, \"It’s Not That Deep (Unless You Want It To Be).\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20e531c89cbf",
+          "title": "La mise à jour de Codex pose les bases de la « superapp » d’OpenAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/233910/la-mise-a-jour-de-codex-pose-les-bases-de-la-superapp-dopenai/",
+          "category": "ia",
+          "published_at": "2026-04-17T10:01:00+00:00",
+          "summary": "Codex, l&#8217;application dédiée au code d&#8217;OpenAI, est la fondation de la «&#160;superapp&#160;» sur laquelle l&#8217;entreprise planche depuis plusieurs mois. Un premier pas qui se destine surtout aux développeurs, cible principale du logiciel. Mais on entrevoit déjà les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "361eab08d2a6",
+          "title": "Avengers Doomsday : Disney présente sa nouvelle stratégie pour tuer IMAX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2234803-avengers-doomsday-disney-presente-sa-nouvelle-strategie-pour-tuer-imax.html",
+          "category": "musique",
+          "published_at": "2026-04-17T09:59:00+00:00",
+          "summary": "En lançant Infinity Vision, Disney s'apprête à bouleverser l'exploitation cinématographique. Cette nouvelle certification premium, qui labellise les salles les plus performantes sans nécessiter de nouveaux investissements matériels, constitue une attaque directe et chirurgicale…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08b2e966bbc3",
+          "title": "Il a révolutionné la télévision : Reed Hastings, le créateur de Netflix, tire sa révérence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2234689-il-a-revolutionne-la-television-reed-hastings-le-createur-de-netflix-tire-sa-reverence.html",
+          "category": "justice",
+          "published_at": "2026-04-17T09:49:57+00:00",
+          "summary": "Le 16 avril 2026, Netflix a annoncé le départ prochain de son cofondateur Reed Hastings de son conseil d’administration. Une page se tourne pour le géant du streaming, au moment même où l’entreprise affiche des résultats solides mais doit composer avec un environnement plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1df44a394ddc",
+          "title": "Le patron de Xiaomi va-t-il faire la même erreur stratégique que Tesla sur les voitures abordables ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2234853-xiaomi-va-t-il-faire-la-meme-erreur-strategique-que-tesla-sur-les-voitures-abordables.html",
+          "category": "ia",
+          "published_at": "2026-04-17T09:26:08+00:00",
+          "summary": "Lors d’une longue diffusion en direct sur les réseaux, le patron de Xiaomi a eu l’occasion de répondre à certaines questions et rumeurs, notamment sur l’arrivée de Xiaomi sur les voitures à petit prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0186c6e91a87",
+          "title": "Netflix trace sa route après le rachat manqué de Warner, Reed Hastings sur le départ",
+          "source": "Next INpact",
+          "url": "https://next.ink/233926/netflix-trace-sa-route-apres-le-rachat-manque-de-warner-reed-hastings-sur-le-depart/",
+          "category": "ia",
+          "published_at": "2026-04-17T09:02:00+00:00",
+          "summary": "Netflix a publié jeudi de nouveaux résultats financiers record, soutenus par l&#8217;indemnité versée suite à la rupture des négociations liées au rachat de Warner. Le géant du streaming a dans le même temps annoncé le départ prochain de Reed Hastings, son emblématique…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e307de572ce",
+          "title": "Retour aux sources pour Metro 2039, qui se dévoile dans un trailer sombre et intense",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2234703-retour-aux-sources-pour-metro-2039-qui-se-devoile-dans-un-trailer-sombre-et-intense.html",
+          "category": "ia",
+          "published_at": "2026-04-17T08:57:28+00:00",
+          "summary": "Le studio 4A Games a dévoilé Metro 2039, le prochain opus de la célèbre franchise post-apocalyptique. Le FPS se révèle dans un trailer époustouflant, accompagné de premières images de gameplay d’une grande beauté.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f401b0dbb53",
+          "title": "Paul McCartney Walks Us Through Every Track on New Album, ‘The Boys of Dungeon Lane’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/paul-mccartney-every-track-the-boys-of-dungeon-lane/",
+          "category": "musique",
+          "published_at": "2026-04-17T08:55:33+00:00",
+          "summary": "The Beatle played the album for a small group of fans at a Los Angeles studio.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a05fa2dea2d",
+          "title": "Voici votre premier aperçu de la future citadine de Dacia : elle ressemble à la Twingo et c’est normal",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2234701-voici-votre-premier-apercu-de-la-future-citadine-de-dacia-elle-ressemble-a-la-twingo-et-cest-normal.html",
+          "category": "ia",
+          "published_at": "2026-04-17T08:54:49+00:00",
+          "summary": "Dacia travaille sur une nouvelle citadine électrique. Celle-ci reprendra la base de la Renault Twingo E-Tech et ça se voit. En témoignent les premiers clichés d'un prototype encore camouflé, laissant deviner ses lignes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "864fc9f4d2de",
+          "title": "Claude Opus 4.7 est arrivé… avec un formulaire qui dit tout de la stratégie cyber d’Anthropic",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2234691-claude-opus-4-7-est-arrive-avec-un-formulaire-qui-dit-tout-de-la-strategie-cyber-danthropic.html",
+          "category": "ia",
+          "published_at": "2026-04-17T08:38:44+00:00",
+          "summary": "Le 16 avril 2026, Anthropic annonçait le déploiement de son nouveau modèle Claude Opus 4.7. Au-delà des annonces de performances, ce lancement s'accompagne d'un formulaire de vérification qui révèle en creux comment Anthropic entend gérer les usages en cybersécurité de ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef9e4226f3c8",
+          "title": "Cette sonde japonaise va aller ausculter  les satellites morts en orbite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2234735-cette-sonde-japonaise-va-aller-ausculter-les-satellites-morts-en-orbite.html",
+          "category": "ia",
+          "published_at": "2026-04-17T08:38:22+00:00",
+          "summary": "L'entreprise Astroscale compte lancer une sonde qui ira inspecter d'anciens satellites en orbite autour de la Terre. Il s'agit de préparer de futurs projets de nettoyage spatial, alors que la multiplication des satellites met en péril l'utilisation de l'orbite terrestre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8aa80f094567",
+          "title": "☕️ Zorin OS 18.1 est disponible, recommandant encore plus d’apps alternatives",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/zorin-os-18-1-est-disponible-recommandant-encore-plus-dapps-alternatives/",
+          "category": "ia",
+          "published_at": "2026-04-17T08:31:11+00:00",
+          "summary": "Comme la dernière version majeure de Zorin OS, la version 18.1 qui vient de sortir propose un environnement fait pour séduire les utilisateurs de Windows 10 qui se demandent par quoi remplacer l’ancien système. L&#8217;équipe de la distribution explique notamment dans un billet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "650ede39000a",
+          "title": "Olivia Dean Dominates ARIA Charts as the Several Artists Enjoy Post-Coachella Bounce",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-dean-aria-charts-post-coachella-bounce-1236224971/",
+          "category": "ia",
+          "published_at": "2026-04-17T08:18:21+00:00",
+          "summary": "Sabrina Carpenter and Justin Bieber are both on the rise down under after their weekend 1 Coachella headline performances.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f40630fe309f",
+          "title": "ExoMars 2028 : sauvée de la malédiction, la mission européenne s’envolera vers Mars sur un Falcon Heavy",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2234699-exomars-2028-sauvee-de-la-malediction-la-mission-europeenne-senvolera-vers-mars-sur-un-falcon-heavy.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-17T08:12:24+00:00",
+          "summary": "Longtemps considérée comme maudite, la mission européenne ExoMars voit enfin son horizon s’éclaircir. Épaulé par la NASA, le rover Rosalind Franklin s’envolera fin 2028 à bord du rare et surpuissant Falcon Heavy de SpaceX, prêt à traquer d'anciennes traces de vie sous le sol…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae3dc1da9d70",
+          "title": "Quels sont les meilleurs jeux sur PS5 ? Notre classement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/665953-ps5-tous-les-jeux-et-accessoires-pour-bien-debuter.html",
+          "category": "ia",
+          "published_at": "2026-04-17T07:41:55+00:00",
+          "summary": "Vous cherchez un jeu à lancer sur votre PS5 mais vous pensez avoir épuisé toutes les idées ? Numerama a regroupé dans cette liste nos coups de cœur de la console de Sony que vous soyez sur Slim ou Pro : une liste de 20 jeux du survival horror au FPS nerveux jusqu'au RPG.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bec93c42979d",
+          "title": "A&R10: Sua Música boss talks Ronaldinho’s new record label",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/ronaldinhos-new-label-he-has-always-been-closely-connected-to-music/",
+          "category": "musique",
+          "published_at": "2026-04-17T07:15:13+00:00",
+          "summary": "Brazilian footballing legend Ronaldinho was renowned for his silky skills on the pitch, not to mention legendary partying abilities.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "242283ff1c73",
+          "title": "Vous êtes abonnés à SFR ? Que va-t-il arriver à votre forfait après le rachat par Bouygues, Orange et Free ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2094613-vous-etes-abonnes-a-sfr-que-va-t-il-arriver-a-votre-forfait-apres-le-rachat-par-bouygues-orange-et-free.html",
+          "category": "ia",
+          "published_at": "2026-04-17T07:02:00+00:00",
+          "summary": "C'est fait : le 17 avril 2026, Bouygues Telecom, Orange et Free ont annoncé entrer en négociations exclusives avec SFR. Les abonnés SFR Mobile, SFR Fibre et RED by SFR seraient ainsi répartis entre les trois autres opérateurs. Altice France avait rejeté la première offre le 15…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59298e92d475",
+          "title": "L’IA de Google réécrit des titres d’articles et pages web de façon putaclic et erronée",
+          "source": "Next INpact",
+          "url": "https://next.ink/233558/lia-de-google-reecrit-des-titres-darticles-et-pages-web-de-facon-putaclic-et-erronee/",
+          "category": "ia",
+          "published_at": "2026-04-17T07:00:00+00:00",
+          "summary": "Aux États-Unis, Google expérimente le fait « d&#8217;identifier, sur une page, le contenu susceptible de constituer un titre utile et pertinent par rapport à la requête d&#8217;un utilisateur », avant de re-générer par IA les titres des pages et articles qu&#8217;il indexe.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "130b32281182",
+          "title": "Rachat de SFR : Orange, Free et Bouygues Telecom entrent en négociations exclusives",
+          "source": "Next INpact",
+          "url": "https://next.ink/233932/rachat-de-sfr-orange-free-et-bouygues-telecom-entrent-en-negociations-exclusives/",
+          "category": "ia",
+          "published_at": "2026-04-17T06:28:41+00:00",
+          "summary": "Le consortium constitué par Orange, Free et Bouygues Telecom annonce son entrée en négociations exclusives avec le groupe Altice en vue d&#8217;acquérir les actifs de SFR. La nouvelle offre porte sur un montant minimal de 20,35 milliards d&#8217;euros. Après les discussions,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c0f6a8a16393",
+          "title": "SFR va être vendu : Orange, Free et Bouygues ont convaincu Patrick Drahi",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2234645-sfr-va-etre-vendu-orange-free-et-bouygues-ont-convaincu-patrick-drahi.html",
+          "category": "ia",
+          "published_at": "2026-04-17T06:19:54+00:00",
+          "summary": "Après une première offre refusée fin 2025, le consortium Bouygues Telecom, Free-Iliad et Orange annonce être entré en négociations exclusives avec le groupe Altice France pour une vente de SFR. Une nouvelle offre qui valorise SFR à hauteur de 20,35 milliards d’euros a convaincu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60095697a8b4",
+          "title": "La Nintendo Switch 2 peut vous suffire pour apprécier Pragmata, mais…",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2229657-la-nintendo-switch-2-peut-vous-suffire-pour-apprecier-pragmata-mais.html",
+          "category": "justice",
+          "published_at": "2026-04-17T06:11:00+00:00",
+          "summary": "Décidément, Capcom semble (beaucoup) aimer la Nintendo Switch 2. Après l'excellent Resident Evil Requiem, c'est au tour de la nouvelle licence du développeur japonais de faire ses débuts à la fois sur PlayStation 5 – support auquel on la croyait exclusivement destinée lors de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1dcfae944306",
+          "title": "La fusée géante de Blue Origin s’apprête à être réutilisée pour la première fois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2234473-la-fusee-geante-de-blue-origin-sapprete-a-etre-reutilisee-pour-la-premiere-fois.html",
+          "category": "ia",
+          "published_at": "2026-04-17T06:08:30+00:00",
+          "summary": "Blue Origin vient de boucler une étape cruciale pour son prochain lancement. Le 16 avril 2026, l'entreprise de Jeff Bezos a effectué avec succès la mise à feu statique de son lanceur lourd New Glenn, ouvrant la voie à sa troisième mission opérationnelle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1691752f119",
+          "title": "Claude Opus 4.7 : le nouveau modèle d’Anthropic se veut plus performant et plus gourmand",
+          "source": "Next INpact",
+          "url": "https://next.ink/233905/claude-opus-4-7-le-nouveau-modele-danthropic-se-veut-plus-performant-et-plus-gourmand/",
+          "category": "ia",
+          "published_at": "2026-04-17T05:51:00+00:00",
+          "summary": "À chaque jour son grand modèle de langage, ou presque. Anthropic a en effet dévoilé Claude Opus 4.7, son LLM le plus performant (en dehors de Mythos). Des performances qui se paient : le modèle peut se montrer plus gourmand. Un peu plus de&#160;deux mois après Claude Opus 4.6,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54607ee7d05b",
+          "title": "Don Schlitz, Grammy-Winning Composer of ‘The Gambler,’ Dies at 73",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/don-schlitz-obituary/",
+          "category": "musique",
+          "published_at": "2026-04-17T05:37:49+00:00",
+          "summary": "Schlitz wrote some of country music's most enduring songs, and was lauded with several lifetime achievement awards.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f792a19cdb2e",
+          "title": "« L’open source est mort » : ce projet majeur ferme subitement son code par peur de l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2234329-lopen-source-est-mort-ce-projet-majeur-ferme-subitement-son-code-par-peur-de-lia.html",
+          "category": "ia",
+          "published_at": "2026-04-17T05:30:00+00:00",
+          "summary": "Cal, application de planification parmi les plus importantes de l'écosystème open source, abandonne sa licence ouverte. En cause : la capacité des IA à analyser du code à la recherche de failles. Un signal qui en dit long sur l'état du logiciel libre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57548caa4754",
+          "title": "Nine Inch Nail’s Album With Boys Noize Has Dropped Like a Hammer: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/nine-inch-nails-boys-noize-album-stream-it-now-1236224944/",
+          "category": "ia",
+          "published_at": "2026-04-17T04:43:55+00:00",
+          "summary": "NIN's collaborative venture with Boys Noize rolls out ahead of the industrial juggernaut's performance on weekend 2 of Coachella.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7575159ceb54",
+          "title": "Olivia Rodrigo Kicks Off Her ‘Sad Lover Girl’ Era With New Single ‘Drop Dead’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-new-song-drop-dead-here-listen-1236224695/",
+          "category": "musique",
+          "published_at": "2026-04-17T04:01:35+00:00",
+          "summary": "The song marks the lead single from upcoming album You Seem Pretty Sad for a Girl So in Love.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ff1df25dc5c",
+          "title": "‘The Shows Will Of Course Go On’: Iron Maiden Won’t Derail Australia Tour For Rock Hall Induction",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/iron-maiden-australia-tour-not-impacted-rock-hall-induction-1236224922/",
+          "category": "ia",
+          "published_at": "2026-04-17T03:39:50+00:00",
+          "summary": "“We would like to assure all our fans in Australasia that the Australian and New Zealand dates will remain unaffected.”",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-16",
       "articles": [
+        {
+          "id": "30492dc6ff17",
+          "title": "« Là-haut, c’est véritablement une guerre spatiale » : l’armée française face à l’inéluctable arsenalisation de l’espace",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2234149-la-haut-cest-veritablement-une-guerre-spatiale-larmee-francaise-face-a-lineluctable-arsenalisation-de-lespace.html",
+          "category": "ia",
+          "published_at": "2026-04-16T19:25:07+00:00",
+          "summary": "Auditionné à l'Assemblée nationale, le général Jérôme Bellanger, chef d'état-major de l'armée de l'Air et de l'Espace, a livré un constat sans appel : l'orbite terrestre est devenue un champ de bataille. Face à une arsenalisation de l'espace jugée inexorable, la France muscle sa…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "992e25ed462e",
+          "title": "As K-pop concert revenues rise, HYBE, SM Entertainment, JYP, and YG plot music festival joint venture",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/k-pop-giants-hybe-jyp-sm-entertainment-and-yg-entertainment-plan-joint-venture-for-music-festival-to-rival-coachella/",
+          "category": "musique",
+          "published_at": "2026-04-16T18:27:28+00:00",
+          "summary": "News arrives as live music becomes an increasingly important revenue stream for K-pop's biggest companies\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f679adecf0b8",
+          "title": "Rapper turned Prime Minister Balen Shah is among Time’s Most Influential People of 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/rapper-turned-prime-minister-balen-shah-is-among-times-most-influential-people-of-2026/",
+          "category": "musique",
+          "published_at": "2026-04-16T17:15:28+00:00",
+          "summary": "South Asian actors are far likelier to make it to Time magazine’s annual list of the 100 Most Influential People in the World than south Asian musicians, so it helps [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bce3d625eab",
+          "title": "Just how many audio-streaming service users does India have?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/just-how-many-audio-streaming-service-users-does-india-have/",
+          "category": "musique",
+          "published_at": "2026-04-16T17:00:08+00:00",
+          "summary": "During her keynote address at the All About Music conference in Mumbai in August 2025, IFPI CEO Victoria Oakley said that India had “192m users on free streaming in India, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b15c7dd930f3",
+          "title": "Live Nation and Ticketmaster lose antitrust trial: What happened, what it means, and what comes next",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-antitrust-verdict-what-happened-what-it-means-and-what-comes-next/",
+          "category": "ia",
+          "published_at": "2026-04-16T16:28:45+00:00",
+          "summary": "Live Nation antitrust verdict explained\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdd44944ce80",
+          "title": "Anthropic dévoile Claude Opus 4.7, le nouveau meilleur modèle du marché",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2234439-anthropic-devoile-claude-opus-4-7-le-nouveau-meilleur-modele-du-marche.html",
+          "category": "ia",
+          "published_at": "2026-04-16T16:17:18+00:00",
+          "summary": "Le 16 avril 2026, Anthropic a dévoilé Claude Opus 4.7, une nouvelle version de son modèle orientée vers les tâches complexes et l’usage « agentique ». Plus performant que son prédécesseur, il sert aussi de terrain de test pour de nouveaux garde-fous en cybersécurité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab6a785c8efe",
+          "title": "Claude peut maintenant exiger une vérification d’identité",
+          "source": "Next INpact",
+          "url": "https://next.ink/233893/claude-peut-maintenant-exiger-une-verification-didentite/",
+          "category": "ia",
+          "published_at": "2026-04-16T16:15:49+00:00",
+          "summary": "C&#8217;est une première pour les chatbots IA. Claude peut désormais réclamer une vérification de l&#8217;identité de l&#8217;utilisateur. Il faudra alors présenter un passeport, un permis de conduire ou une carte d&#8217;identité avec photo. Les photocopies, les captures…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "932826e7523a",
+          "title": "La France lance JUNN, un socle national pour des jumeaux numériques de territoire",
+          "source": "Next INpact",
+          "url": "https://next.ink/233868/la-france-lance-junn-un-socle-national-pour-des-jumeaux-numeriques-de-territoire/",
+          "category": "ia",
+          "published_at": "2026-04-16T15:05:18+00:00",
+          "summary": "L&#8217;IGN, le Cerema et Inria vont assurer la mise en route d&#8217;un projet visant à créer, d&#8217;ici trois ans, un socle technique adapté à la création d&#8217;un jumeau numérique national (JUNN) des territoires. Il doit permettre aux acteurs du public comme du privé de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2c3d9860bd5",
+          "title": "La plus grande carte de Battlefield 6 arrive, et ce n’est pas la seule surprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233643-la-plus-grande-carte-de-battlefield-6-arrive-et-ce-nest-pas-la-seule-surprise.html",
+          "category": "ia",
+          "published_at": "2026-04-16T15:00:00+00:00",
+          "summary": "C’est l’annonce que les fans n'osaient plus espérer. Lors d’un événement privé organisé par Electronic Arts le 14 avril 2026, auquel Numerama a pu assister, DICE a enfin levé le voile sur le futur de Battlefield 6. Si la feuille de route est dense, un point a retenu notre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1f1b9da40df",
+          "title": "L’App Store et le Play Store ont toujours des problèmes avec les apps de deepfakes sexuels",
+          "source": "Next INpact",
+          "url": "https://next.ink/233871/lapp-store-et-le-play-store-ont-toujours-des-problemes-avec-les-apps-de-deepfakes-sexuels/",
+          "category": "ia",
+          "published_at": "2026-04-16T14:30:00+00:00",
+          "summary": "L&#8217;App Store d&#8217;Apple et le Play Store de Google hébergent des dizaines d&#8217;applications permettant de générer des nus synthétiques à partir d&#8217;images réelles. Suite à une enquête du Tech Transparent Project, les contrôleurs d&#8217;accès en ont supprimé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9151f6887de6",
+          "title": "☕️ Présomption d’usage de contenus culturels dans l’IA : les tentatives d’influence de Google",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/presomption-dusage-de-contenus-culturels-dans-lia-les-tentatives-dinfluence-de-google/",
+          "category": "ia",
+          "published_at": "2026-04-16T14:00:06+00:00",
+          "summary": "Google est très mobilisé pour faire évoluer la proposition de loi sur l’intelligence artificielle adoptée au Sénat le 8 avril dernier. En l’état, le texte instaure surtout une présomption d’usage des contenus culturels par les constructeurs d’IA dès que des indices peuvent en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "964af762d962",
+          "title": "How Mrs. GREEN APPLE’s dominance in Japan is driving a global breakthrough for the UMG-signed band",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/how-mrs-green-apples-dominance-in-japan-is-driving-a-global-breakthrough-for-the-umg-signed-band/",
+          "category": "justice",
+          "published_at": "2026-04-16T12:44:02+00:00",
+          "summary": "The act's streaming and physical sales in Japan made them the world's 13th biggest-selling act in 2025 — without an international campaign. UMG says their global push is still to come.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a5164e5f922",
+          "title": "Laufey is the headline artist for season 14 of Fortnite Festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/laufey-is-the-headline-artist-for-season-14-of-fortnite-festival/",
+          "category": "musique",
+          "published_at": "2026-04-16T12:40:00+00:00",
+          "summary": "Fortnite’s in-game music game Festival is into its 14th season now, having originally launched in December 2023. As ever, the season has an artist as its headliner: Laufey is the star this time round. Yes, Fortnite meets jazz-pop! With an avatar in a giant rabbit head on drums,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55439417dcd3",
+          "title": "« Une semaine sans charger » : Ligier a décidé de muscler ses quadricycles électriques avec de nouvelles batteries",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2234115-une-semaine-sans-charger-ligier-a-decide-de-muscler-ses-quadricycles-electriques-avec-de-nouvelles-batteries.html",
+          "category": "ia",
+          "published_at": "2026-04-16T12:37:59+00:00",
+          "summary": "Ligier a peut-être perdu la bataille du prix face à la Citroën Ami, mais la marque continue de miser sur un argument simple : offrir à ses clients davantage de voitures électriques sans permis. C’est le cas avec sa nouvelle batterie « haute performance ».",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe88e134c69c",
+          "title": "Catalogue is key factor in UK’s most-streamed artists for 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/catalogue-is-key-factor-in-uks-most-streamed-artists-for-2025/",
+          "category": "musique",
+          "published_at": "2026-04-16T12:30:00+00:00",
+          "summary": "Coldplay’s last studio album came out in October 2024. Dua Lipa’s came out in May that year. Arctic Monkeys’ last long-player was released in October 2022. And Calvin Harris’s came out in August 2024. Why are we reeling off the most-recent album release-dates for British…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2548138c38b4",
+          "title": "Study explores how and why US teens use TikTok, Instagram and Snapchat",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/study-explores-how-and-why-us-teens-use-tiktok-instagram-and-snapchat/",
+          "category": "ia",
+          "published_at": "2026-04-16T12:30:00+00:00",
+          "summary": "As moves for social-media bans for under-16s increase around the world, the US-based Pew Research Center has published an interesting new study on how and why teenagers use three key platforms: TikTok, Instagram and Snapchat. It interviewed 1,485 pairs of teenagers (defined here…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "600311380688",
+          "title": "K-Pop’s ‘Big Four’ to collaborate on Fanomenon music festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/k-pops-big-four-to-collaborate-on-fanomenon-music-festival/",
+          "category": "ia",
+          "published_at": "2026-04-16T12:15:00+00:00",
+          "summary": "South Korean agencies Hybe, SM Entertainment, JYP Entertainment and YG Entertainment compete fiercely when it comes to developing and breaking K-Pop artists. But they are also collaborating with a view to the bigger global picture. Maeil Business reported on their latest work as…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9a338c6836f",
+          "title": "Où trouver Tomodachi Life en stock et au meilleur prix ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2233933-ou-trouver-tomodachi-life-en-stock-et-au-meilleur-prix.html",
+          "category": "ia",
+          "published_at": "2026-04-16T12:11:58+00:00",
+          "summary": "[Deal du jour] Le nouvel épisode de Tomodachi Life a débarqué sur Switch 2, mais sa version physique est rapidement tombée en rupture de stock. Voilà où le trouver, et au meilleur prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eaefe96aa57d",
+          "title": "Applications open for 2026 edition of IPRS’ Soundscapes of India",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/applications-open-for-2026-edition-of-iprs-soundscapes-of-india/",
+          "category": "ia",
+          "published_at": "2026-04-16T12:00:13+00:00",
+          "summary": "Apart from the presence of Katseye’s Lara Raj, Coachella—which programmed Arooj Aftab and Raveena in 2022; Ali Sethi, Diljit Dosanjh, Jai Paul, Jai Wolf and Joy Crookes in 2023; AP [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "9291b76706e0",
           "title": "AIPD : le CEPD lance une consultation publique sur un modèle européen",
@@ -12,6 +577,26 @@
           "category": "ia",
           "published_at": "2026-04-16T12:00:00+00:00",
           "summary": "Le Comité européen de la protection des données (CEPD) a élaboré un document-type à destination des responsables de traitement afin de les aider à documenter les résultats de leur analyse d’impact concernant la protection des données (AIPD). Une consultation publique sur ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dbc794ad695",
+          "title": "Ordre du jour de la séance plénière du 16 avril 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-16-avril-2026",
+          "category": "institutionnel",
+          "published_at": "2026-04-16T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 16 avril 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c175113a52c3",
+          "title": "Splice launches AI tools that compensate sample creators when their sounds are used",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/splice-launches-ai-tools-that-compensate-sample-creators-when-their-sounds-are-used/",
+          "category": "ia",
+          "published_at": "2026-04-16T11:51:13+00:00",
+          "summary": "Firm says original sample creators will be compensated when their sounds are used to generate new material\nSource",
           "summary_type": "extrait source"
         },
         {
@@ -87,6 +672,16 @@
         {
           "id": "decbcbcdae92",
           "title": "Gaana is partnering with “artist-empowerment” platform Fenix360",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/16/gaana-is-partnering-with-artist-empowerment-platform-fenix360/",
+          "category": "musique",
+          "published_at": "2026-04-16T10:05:32+00:00",
+          "summary": "In the great Indian audio-streaming service shake-up that has seen the shutting down of Resso (2024), Wynk Music (2024) and Hungama Music (2025), Gaana has stood out for sticking around [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35dc2cb3fdb8",
+          "title": "Gaana is partnering with “artist empowerment” platform Fenix360",
           "source": "Music Ally",
           "url": "https://musically.com/2026/04/16/gaana-is-partnering-with-artist-empowerment-platform-fenix360/",
           "category": "musique",
