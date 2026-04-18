@@ -1,9 +1,374 @@
 {
-  "generated_at": "2026-04-17T11:33:38.638111+00:00",
+  "generated_at": "2026-04-18T10:27:30.569466+00:00",
   "days": [
+    {
+      "date": "2026-04-18",
+      "articles": [
+        {
+          "id": "93408eb44e63",
+          "title": "« Rester un acteur majeur » : Audi donne tout pour reconquérir le marché chinois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2235677-rester-un-acteur-majeur-audi-donne-tout-pour-reconquerir-le-marche-chinois.html",
+          "category": "ia",
+          "published_at": "2026-04-18T10:24:50+00:00",
+          "summary": "Audi et le géant chinois SAIC franchissent une étape dans leur coopération industrielle. Les deux constructeurs ont annoncé le développement conjoint de quatre nouvelles voitures électriques, spécifiquement conçues pour répondre aux attentes du marché chinois.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e1f9346aa308",
+          "title": "FSD aux Pays-Bas : Tesla pulvérise le mythe des lenteurs administratives",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2235665-fsd-aux-pays-bas-tesla-pulverise-le-mythe-des-lenteurs-administratives.html",
+          "category": "ia",
+          "published_at": "2026-04-18T09:12:23+00:00",
+          "summary": "L'idée qu'une mise à jour logicielle de conduite autonome doive subir six mois de tests réglementaires avant d'être déployée en Europe vient de voler en éclats. Aux Pays-Bas, Tesla propose déjà une mise à jour de son FSD, prouvant que l'agilité logicielle peut cohabiter avec les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80d66f18eae0",
+          "title": "Claude Design : Le nouveau séisme d’Anthropic qui fait trembler les géants du design",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235649-claude-design-le-nouveau-seisme-danthropic-qui-fait-trembler-les-geants-du-design.html",
+          "category": "ia",
+          "published_at": "2026-04-18T08:11:58+00:00",
+          "summary": "Anthropic lance Claude Design, un outil expérimental destiné à automatiser la conception d'interfaces utilisateur de haute fidélité. Cette innovation marque l'entrée stratégique du laboratoire de recherche dans le secteur de la création graphique professionnelle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fbcb6dc9a2b",
+          "title": "6LACK Shares New Single ‘Sunday Again’ Featuring 2 Chainz",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/6lack-new-single-sunday-again-featuring-2-chainz-1236226092/",
+          "category": "ia",
+          "published_at": "2026-04-18T07:31:21+00:00",
+          "summary": "The track features additional vocal contributions from Serayah, Jordan Ward and Dos Dias, among others.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa7338e744e4",
+          "title": "Investir dans le spatial à partir de 300 euros : voici la nouvelle opportunité de Mon Petit Placement [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235265-investir-dans-le-spatial-a-partir-de-300-euros-voici-la-nouvelle-opportunite-de-mon-petit-placement.html",
+          "category": "ia",
+          "published_at": "2026-04-18T06:30:00+00:00",
+          "summary": "Sponsorisé par Mon Petit Placement\n\nEt si vous investissiez dans le « Spatial » ? Mon Petit Placement vous offre la possibilité de diversifier votre épargne et de miser sur ce secteur d’avenir, encore peu représenté sur les marchés financiers. Seulement 300 euros suffisent pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92bd78662002",
+          "title": "Incendie trompeur au siège de BYD, jet supersonique qui monte en puissance et  sauvetage de Rise par le commandant d’Artémis II : le récap’ de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235483-incendie-trompeur-au-siege-de-byd-jet-supersonique-qui-monte-en-puissance-et-sauvetage-de-rise-par-le-commandant-dartemis-ii-le-recap-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-04-18T04:30:00+00:00",
+          "summary": "Cette semaine sur Numerama, vous avez lu de la science, de l'automobile et de l'aérospatial !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70e24d85f77b",
+          "title": "Dutch Mayor Finds No Basis to Ban Ye From Upcoming Netherlands Concerts: ‘The Law Prevails’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/netherlands-mayor-no-ban-kanye-west-concerts-1236226014/",
+          "category": "musique",
+          "published_at": "2026-04-18T00:00:43+00:00",
+          "summary": "West is slated to perform a pair of shows at the Gelredome Stadium in Arnhem on June 6 and June 8.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-17",
       "articles": [
+        {
+          "id": "8f95d203cacd",
+          "title": "How Much Will Taylor Swift Actually Factor Into the Blake Lively v. Justin Baldoni Trial?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/taylor-swift-blake-lively-justin-baldoni-trial-factor-in/",
+          "category": "musique",
+          "published_at": "2026-04-17T22:47:24+00:00",
+          "summary": "Billboard is unpacking how exactly the pop superstar's name might come up in the highly anticipated trial next month.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8450e9e2fff",
+          "title": "Chart Rewind: In 2021, Chris Stapleton’s ‘Starting Over’ Finished Its Run to No. 1",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/chris-stapleton-starting-over-chart-rewind-2021-1236226001/",
+          "category": "ia",
+          "published_at": "2026-04-17T22:01:32+00:00",
+          "summary": "The song also soundtracked a truck commercial and won big at the CMA Awards.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a4430ef4518",
+          "title": "Ice Spice Slapped in ‘Unprovoked Attack’ at Hollywood McDonald’s, Lawyer Says",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/ice-spice-slapped-mcdonalds-fight-attorney-1236225920/",
+          "category": "musique",
+          "published_at": "2026-04-17T22:00:08+00:00",
+          "summary": "\"The only thing that will be going viral for them is their mugshots,\" Ice Spice's attorney Bradford Cohen tells Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c78e2397c30",
+          "title": "D4vd Arrested for Alleged Murder of Celeste Rivas | Billboard News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/d4vd-arrested-alleged-murder/",
+          "category": "musique",
+          "published_at": "2026-04-17T21:07:48+00:00",
+          "summary": "Rapper D4vd has been arrested for the alleged murder of Celeste Rivas by the LAPD. Keep watching for the full details of the case. Tetris Kelly: D4vd has been arrested for alleged murder of Celeste Rivas, months after body found in singer’s car. 21-year-old “Romantic…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8645e9fced8c",
+          "title": "Mac Miller’s Love for the Pittsburgh Steelers Lives on in This Apparel Capsule: Shop Here",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/mac-miller-pittsburgh-steelers-apparel-capsule-shop-online-1236225849/",
+          "category": "musique",
+          "published_at": "2026-04-17T21:06:00+00:00",
+          "summary": "The capsule dropped by Mitchell &#38; Ness honors Miller's love of the team with inventive football apparel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8068f00aece",
+          "title": "Looking Ahead: A Release Calendar of Upcoming Albums in 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/new-albums-2026-calendar-new-music-releases-this-year/",
+          "category": "musique",
+          "published_at": "2026-04-17T21:04:26+00:00",
+          "summary": "We'll be updating our list as musicians announce their new music, so keep checking back for the latest!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de846887b5ab",
+          "title": "NBA Playoffs 2026: How to Watch Postseason Games Live Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/nba-playoffs-how-to-watch-without-cable-1235158064/",
+          "category": "musique",
+          "published_at": "2026-04-17T20:53:04+00:00",
+          "summary": "Here's how you can livestream basketball game online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4a4c29bd984",
+          "title": "From Live Nation’s antitrust trial loss to Max Lousada and Julie Greenwald’s 26.2 launch… it’s MBW’s weekly round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-live-nations-antitrust-trial-loss-to-max-lousada-and-julie-greenwalds-26-2-launch-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-04-17T15:43:52+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e148085e87af",
+          "title": "World War Z 2 : la suite est officielle, Brad Pitt enfin de retour ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235367-world-war-z-2-la-suite-est-officielle-brad-pitt-enfin-de-retour.html",
+          "category": "ia",
+          "published_at": "2026-04-17T15:26:19+00:00",
+          "summary": "Après treize ans d'attente et de multiples annulations, Paramount Pictures a profité du CinemaCon 2026 pour officialiser le retour de&nbsp;World War Z&nbsp;en production. Entre rachat stratégique et volonté de capitaliser sur une franchise lucrative, le projet est désormais une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4ed713652ad",
+          "title": "UE : la Commission a copié/collé les lobbys pour cacher les données sur les datacenters",
+          "source": "Next INpact",
+          "url": "https://next.ink/234008/ue-la-commission-a-copie-colle-les-lobbys-pour-cacher-les-donnees-sur-les-datacenters/",
+          "category": "institutionnel",
+          "published_at": "2026-04-17T15:05:39+00:00",
+          "summary": "En 2024, Microsoft et le lobby bruxellois de la tech DigitalEurope ont obtenu que les données de consommation des datacenters de plus de 500 kW récoltées par la Commission européenne ne soient pas rendues publiques. Le consortium Investigate Europe montre que les amendements au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f344732ae31",
+          "title": "Vos pare-brise sont moins sales qu’avant, et c’est une très mauvaise nouvelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2234081-vos-pare-brise-sont-moins-sales-quavant-et-cest-une-tres-mauvaise-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-04-17T14:56:38+00:00",
+          "summary": "Le 13 avril 2026, le Muséum national d’Histoire naturelle a annoncé le lancement en France de « Bugs Matter », une initiative qui propose aux automobilistes de contribuer à la recherche sur le déclin des insectes, encore difficile à mesurer à grande échelle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3d3f3e00b8b",
+          "title": "The Mandalorian and Grogu : c’est le grand retour de l’action dans l’univers Star Wars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235141-the-mandalorian-and-grogu-cest-le-grand-retour-de-laction-dans-lunivers-star-wars.html",
+          "category": "ia",
+          "published_at": "2026-04-17T14:45:00+00:00",
+          "summary": "L’émotion était palpable lors de la clôture du CinemaCon à Las Vegas, où Lucasfilm a dévoilé les ultimes images de The Mandalorian and Grogu. Ce premier long-métrage Star Wars depuis sept ans ne se contente pas de promettre du grand spectacle, il place le lien quasi paternel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b1b7fa012bc",
+          "title": "☕️ Google : 1,6 milliard de publicités frauduleuses supprimées dans l’UE avec Gemini",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/google-16-milliard-de-publicites-frauduleuses-supprimees-dans-lue-avec-gemini/",
+          "category": "ia",
+          "published_at": "2026-04-17T14:12:14+00:00",
+          "summary": "Google ne cherche pas seulement à intégrer Gemini partout où c&#8217;est possible dans ses applications et services destinés au grand public. L&#8217;IA est également à pied d&#8217;œuvre dans les outils internes, comme celui qui fait la chasse aux mauvaises publicités.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35094f7e8256",
+          "title": "Sécurité : Le tout caméra de Tesla recalé par l’ADAC sous la pluie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2235001-securite-le-tout-camera-de-tesla-recale-par-ladac-sous-la-pluie.html",
+          "category": "ia",
+          "published_at": "2026-04-17T14:03:40+00:00",
+          "summary": "Une nouvelle étude de l'ADAC met en lumière des disparités majeures entre les systèmes d'aide au freinage d'urgence face aux intempéries. Si la technologie progresse, certains choix techniques montrent leurs limites dès que la visibilité chute.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c691e10c631c",
+          "title": "« On doit réguler la parole sur les réseaux sociaux » : Macron veut en finir avec les faux comptes, à un an de la présidentielle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2234863-on-doit-reguler-la-parole-sur-les-reseaux-sociaux-macron-veut-en-finir-avec-les-faux-comptes-a-un-an-de-la-presidentielle.html",
+          "category": "ia",
+          "published_at": "2026-04-17T13:58:24+00:00",
+          "summary": "À tout juste un an de la prochaine élection présidentielle, à laquelle Emmanuel Macron ne participera pas, l'exécutif accélère sur le front de la sécurité démocratique. Dans le viseur du chef de l'État : l'opacité des algorithmes, les fermes de faux comptes et les ingérences…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a96719f06fdc",
+          "title": "La vente de SFR cache un changement majeur pour de nombreux opérateurs low-cost",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2094611-la-vente-de-sfr-cache-un-changement-majeur-pour-de-nombreux-operateurs-low-cost.html",
+          "category": "ia",
+          "published_at": "2026-04-17T13:39:08+00:00",
+          "summary": "Si vous êtes client RED ou SFR, les questions concernant les répercussions d'un rachat de l'opérateur sont logiques. Mais l’impact dépasse largement ces deux enseignes. Une galaxie d’opérateurs virtuels (MVNO) dépendent exclusivement des antennes de SFR pour fonctionner. Pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50d37df04587",
+          "title": "Vous changez l’heure sur Tomodachi Life ? La sanction de Nintendo est sévère",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2234429-vous-changez-lheure-sur-tomodachi-life-la-sanction-de-nintendo-est-severe.html",
+          "category": "ia",
+          "published_at": "2026-04-17T13:14:18+00:00",
+          "summary": "Modifier l’horloge de sa console pour accélérer le temps dans Tomodachi Life n’est pas sans conséquence. Nintendo applique une pénalité temporaire qui peut affecter les boutiques, au risque de frustrer une partie des joueurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3af5a32e2a6",
+          "title": "Des singes parviennent à se déplacer dans un univers virtuel en 3D grâce à une interface cerveau-machine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2235107-des-singes-parviennent-a-se-deplacer-dans-un-univers-virtuel-en-3d-grace-a-une-interface-cerveau-machine.html",
+          "category": "ia",
+          "published_at": "2026-04-17T13:13:21+00:00",
+          "summary": "Des chercheurs belges sont parvenus à faire naviguer trois macaques rhésus dans un environnement virtuel en 3D grâce à une interface cerveau-machine et à l’intelligence artificielle. Partagée à la mi-avril 2026 dans Science Advances, leur expérience nourrit l’espoir de futures…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0ba02245364",
+          "title": "Half-Life 2, Max Payne… Comment l’IA et le Path Tracing ressuscitent les jeux cultes des années 2000 [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2234209-half-life-2-max-payne-comment-lia-et-le-path-tracing-ressuscitent-les-jeux-cultes-des-annees-2000.html",
+          "category": "ia",
+          "published_at": "2026-04-17T13:03:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec NVIDIA\n\nEt si les cartes graphiques Nvidia Geforce de 2026 rendaient les vieux jeux des années 2000 plus beaux ? L'idée est tellement séduisante que Nvidia a donné les outils pour le faire aux moddeurs. Son nom : RTX Remix. Voici…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c2682cd5c72",
+          "title": "Coachella and Stagecoach boost California’s economy by $700m+",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/coachella-and-stagecoach-boost-californias-economy-by-700m/",
+          "category": "musique",
+          "published_at": "2026-04-17T12:40:00+00:00",
+          "summary": "Ahead of the second weekend of the Coachella festival, with the Stagecoach festival to follow later in the month, California&#8217;s governor Gavin Newsom has published a Big Number on the two events&#8217; economic value to the state. Together, the festivals generate more than…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61e768d9e5b4",
+          "title": "The Grateful Dead team up with Nugs for ‘Play Dead’ archive",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/the-grateful-dead-team-up-with-nugs-for-play-dead-archive/",
+          "category": "musique",
+          "published_at": "2026-04-17T12:40:00+00:00",
+          "summary": "Venerable US jam-band The Grateful Dead have one of the largest archives of live recordings, thanks to their longstanding policy of supporting fans who wanted to tape their shows. Now their vault of recordings is opening up in hi-res form, in partnership with Rhino Entertainment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30818a5c5070",
+          "title": "UK’s CMS committee calls for official ‘Music Fans Association’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/uks-cms-committee-calls-for-official-music-fans-association/",
+          "category": "musique",
+          "published_at": "2026-04-17T12:35:00+00:00",
+          "summary": "The UK parliament&#8217;s Culture, Media and Sport (CMS) committee has published its &#8216;Fan-Led Review of Live and Electronic Music&#8217; report after nearly a year of consultation with fans and the industry. The report&#8217;s heart is a &#8216;Fans&#8217; Charter&#8217;…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "277e72f02d69",
+          "title": "Music, radio and podcast advertising grew by just 1.3% in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/music-radio-and-podcast-advertising-grew-by-just-1-3-in-2025/",
+          "category": "musique",
+          "published_at": "2026-04-17T12:30:00+00:00",
+          "summary": "Global advertising body the IAB and PwC have released their &#8216;2025 Internet Advertising Revenue Report&#8217;, which tracks a 13.9% increase in those revenue last year to $294.6bn – a record total. Within that, social advertising revenues grew by 32.6% to $117.7bn, and are…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b74c9c85c80",
+          "title": "Le Xiaomi Poco M7 est un très bon smartphone à moins de 120 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235055-le-xiaomi-poco-m7-est-un-tres-bon-smartphone-a-moins-de-120-e.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-17T12:11:29+00:00",
+          "summary": "[Deal du jour] La gamme Poco de Xiaomi possède un excellent rapport qualité-prix. Le Poco M7 a de quoi séduire celles et ceux qui cherchent un bon smartphone pour le quotidien, ou comme premier téléphone pour leur ado.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6245953512c7",
+          "title": "Ella Langley hosts TikTok in-app album experience",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/ella-langley-hosts-tiktok-in-app-album-experience/",
+          "category": "musique",
+          "published_at": "2026-04-17T12:00:00+00:00",
+          "summary": "Country sensation Ella Langley is celebrating the release of her sophomore album ‘Dandelion’ with an in-app TikTok experience. While commonplace for major artists, this highlights her rapid rise seeing as the artist released her debut album in 2024.  Langley recently made…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44e95c8ac9c9",
+          "title": "Three takeaways from the first Coachella weekend",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/three-takeaways-from-the-first-coachella-weekend/",
+          "category": "musique",
+          "published_at": "2026-04-17T12:00:00+00:00",
+          "summary": "Coachella weekend one just wrapped. Here are the highlights for artist teams: Justin Bieber leaned into millennial nostalgia, triggering his biggest streaming day since 2025 and a 24.6 million stream surge. While many songs from his catalogue are populating the Global Spotify…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7cf29950249",
+          "title": "LyricFind launches new artist video service",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/lyricfind-launches-new-artist-video-service/",
+          "category": "musique",
+          "published_at": "2026-04-17T12:00:00+00:00",
+          "summary": "This week lyric licensing and data company LyricFind announced Artist Unlimited, a new subscription plan which allows artists to create professional-tier videos using software courtesy of Rotor Videos. Users on the platform can quickly create visualisers, lyric videos, social…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24e0d0072a3d",
+          "title": "Yungblud’s manager Tommas Arnby on rock’s future",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/17/yungbluds-manager-tommas-arnby-on-rocks-future/",
+          "category": "musique",
+          "published_at": "2026-04-17T12:00:00+00:00",
+          "summary": "“I started my management company upstairs on the fifth floor,” Yungblud’s manager Tommas Arnby told Music Ally from the artist’s new brick and mortar shop, Beautifully Romanticised Accidentally Traumatized (B.r.a.t.) on Denmark Street in London. “There were two desks and a bunch…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "638bcf2361c5",
+          "title": "OpenAI récupère le prénom de Rosalind Franklin pour son modèle spécialisé en biologie",
+          "source": "Next INpact",
+          "url": "https://next.ink/233946/openai-recupere-le-prenom-de-rosalind-franklin-pour-son-modele-specialise-en-biologie/",
+          "category": "ia",
+          "published_at": "2026-04-17T11:38:11+00:00",
+          "summary": "Avec GPT‑Rosalind, OpenAI veut encore affirmer que ses outils peuvent être utiles aux chercheurs mais surtout aux industries pharmaceutiques et biomédicales. L&#8217;entreprise de Sam Altman utilise aussi le prénom d&#8217;une chercheuse, Rosalind Franklin, dont le travail a été…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "16acdaadaf74",
           "title": "Spotify roll out its own AI-transparency feature in beta",
@@ -22,6 +387,16 @@
           "category": "ia",
           "published_at": "2026-04-17T11:02:00+00:00",
           "summary": "Lors de la présentation de Paramount Pictures au CinemaCon 2026, le studio a confirmé le développement actif de Top Gun 3,avec un scénario en cours d'écriture. Après le triomphe planétaire de Maverick en 2022, Tom Cruise s’apprête à reprendre les commandes pour un troisième…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "494486b30815",
+          "title": "Akhila Shankar promoted to Director of Artist Services for India and South Asia at Believe",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/akhila-shankar-promoted-to-director-of-artist-services-for-india-and-south-asia-at-believe/",
+          "category": "ia",
+          "published_at": "2026-04-17T11:00:59+00:00",
+          "summary": "Shankar, who currently leads TuneCore in the region, will expand her remit across Believe’s Artist Services business.\nSource",
           "summary_type": "extrait source"
         },
         {
