@@ -1,9 +1,134 @@
 {
-  "generated_at": "2026-04-18T10:27:30.569466+00:00",
+  "generated_at": "2026-04-19T10:26:09.378776+00:00",
   "days": [
+    {
+      "date": "2026-04-19",
+      "articles": [
+        {
+          "id": "e4b9fb50dffc",
+          "title": "Suivez en direct l’envol de la fusée géante New Glenn et la réutilisation de son premier étage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2231659-suivez-en-direct-lenvol-de-la-fusee-geante-new-glenn-et-la-reutilisation-de-son-premier-etage.html",
+          "category": "ia",
+          "published_at": "2026-04-19T10:08:34+00:00",
+          "summary": "Ce dimanche 19 avril 2026, l’entreprise spatiale de Jeff Bezos s’apprête à faire décoller sa fusée lourde New Glenn pour la troisième fois (mission NG-3) au profit d’AST SpaceMobile. Un vol de grande importance à suivre en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19682ba26afa",
+          "title": "PinkPantheress Brings Out Janelle Monáe, Zara Larsson & More During Coachella Set",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/pinkpantheress-coachella-janelle-monae-zara-larsson-1236226504/",
+          "category": "ia",
+          "published_at": "2026-04-19T07:00:05+00:00",
+          "summary": "The performance also saw appearances from Australian DJ Ninajirachi, alongside actor Tyriq Withers, Chase Infiniti, Slayyyter, and Manon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3309495bd879",
+          "title": "Smart pensait grandir avec ses SUV électriques, le résultat est brutal",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2234923-smart-pensait-grandir-avec-ses-suv-electriques-le-resultat-est-brutal.html",
+          "category": "justice",
+          "published_at": "2026-04-19T06:44:00+00:00",
+          "summary": "Smart voulait grandir. Smart se retrouve à surnager. Et le plus ironique, c’est que son salut pourrait venir de la voiture que ses dirigeants ont eux-mêmes coulée. Parmi les mauvaises décisions stratégiques, le cas de Smart est certainement l'un des plus emblématiques, assez…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bed811fb1aa7",
+          "title": "Zayn Hints at Australia Tour: ‘You Might Be Seeing Me Soon’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/zayn-malik-hints-australia-tour-1236226499/",
+          "category": "ia",
+          "published_at": "2026-04-19T04:54:56+00:00",
+          "summary": "“I remember performing there in the band… what the crowds were like, what the people were like… I feel like I want to go back there.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "669b16b1360f",
+          "title": "Olivia Rodrigo Debuts ‘Drop Dead’ Live With Addison Rae at Coachella",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-drop-dead-addison-rae-coachella-1236226485/",
+          "category": "musique",
+          "published_at": "2026-04-19T03:57:40+00:00",
+          "summary": "They sang \"Drop Dead\" -- as well as Rae's \"Headphones On\" -- as a duet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c802ff2cf5dc",
+          "title": "TAEMIN on His Historic Coachella Debut and Why Second-Gen K-Pop Is the ‘Generation of Dreams Coming True’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/taemin-coachella-debut-interview-1236226096/",
+          "category": "loi",
+          "published_at": "2026-04-19T01:43:42+00:00",
+          "summary": "After becoming the first Korean male K-pop soloist to take the festival's stage, the \"idol's idol\" is setting his sights on even loftier goals.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-18",
       "articles": [
+        {
+          "id": "b3849ddcc030",
+          "title": "Zara Larsson’s ‘Midnight Sun’ World & ‘Stateside’ Magic with PinkPantheress | Billboard Women In Music 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/zara-larsson-midnight-sun-stateside-magic/",
+          "category": "musique",
+          "published_at": "2026-04-18T21:00:00+00:00",
+          "summary": "Billboard Women in Music 2026 Breakthrough honoree Zara Larsson opens up about her Midnight Sun lifestyle. Zara reflects on her journey as an artist since being signed at 14 years old, remixing “Stateside” with PinkPantheress (and how it blew up), Alysa Liu’s skating to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04184ca86232",
+          "title": "Tory Lanez Sues California Prison System for $100M Over Stabbing by Inmate",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/legal/tory-lanez-sues-california-prison-system-inmate-stabbing-1236226246/",
+          "category": "ia",
+          "published_at": "2026-04-18T16:44:43+00:00",
+          "summary": "The rapper was stabbed 16 times in May 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e84ea08a2f4a",
+          "title": "Ce que les données Strava au Marathon de Paris nous disent de la Gen Z française",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235287-ce-que-les-donnees-strava-au-marathon-de-paris-nous-disent-de-la-gen-z-francaise.html",
+          "category": "ia",
+          "published_at": "2026-04-18T16:03:00+00:00",
+          "summary": "Le 12 avril 2026, 60 000 coureurs et coureuses s'élançaient dans les rues de Paris pour affronter les 42,2 km du marathon de la capitale. Grâce aux montres connectées pour s'entraîner et aux applications sociales dédiées au sport, on peut faire des analyses impossibles il y a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b3042183ca4",
+          "title": "Éclipse solaire du 12 août 2026 : pourquoi vous devez acheter vos lunettes d’éclipse dès maintenant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2234437-eclipse-solaire-du-12-aout-2026-pourquoi-vous-devez-acheter-vos-lunettes-declipse-des-maintenant.html",
+          "category": "ia",
+          "published_at": "2026-04-18T15:25:00+00:00",
+          "summary": "L'éclipse solaire du 12 août 2026 semble encore bien lointaine pour les Français et les Françaises. Pourtant, l'observation de ce phénomène astronomique doit être anticipée. Le risque d'une pénurie de lunettes d'éclipse certifiées sera réel à l'approche du jour J.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "194269d32e7f",
+          "title": "Qu’est-ce que l’aphasie, le trouble qui a frappé l’astronaute de l’ISS ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2233905-quest-ce-que-laphasie-le-trouble-qui-a-frappe-lastronaute-de-liss.html",
+          "category": "ia",
+          "published_at": "2026-04-18T13:31:00+00:00",
+          "summary": "L’aphasie, une subite perte de la parole, ne se retrouve sous le feu des projecteurs que lorsqu’elle touche des personnalités médiatiques. Pourtant, ce trouble, qui entraîne non seulement de grandes difficultés de communication, mais aussi une grande détresse psychique, affecte…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c69a151f07a",
+          "title": "#Flock : The ShAIning",
+          "source": "Next INpact",
+          "url": "https://next.ink/234112/flock-the-shaining/",
+          "category": "ia",
+          "published_at": "2026-04-18T11:37:00+00:00",
+          "summary": "All work and no play makes Flock a dull boy. All work and no play makes Flock a dull boy. All work and no play makes Flock a dull boy. All work and no play makes Flock a dull boy. All work and no play makes Flock a dull boy. All work and no play [&#8230;]",
+          "summary_type": "extrait source"
+        },
         {
           "id": "93408eb44e63",
           "title": "« Rester un acteur majeur » : Audi donne tout pour reconquérir le marché chinois",
