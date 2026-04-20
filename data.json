@@ -1,9 +1,384 @@
 {
-  "generated_at": "2026-04-19T10:26:09.378776+00:00",
+  "generated_at": "2026-04-20T12:11:49.343897+00:00",
   "days": [
+    {
+      "date": "2026-04-20",
+      "articles": [
+        {
+          "id": "6e84823b12b1",
+          "title": "Revoir le webinaire - Élections municipales 2026 : quelles sont les nouvelles règles de ciblage électoral ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/revoir-le-webinaire-elections-municipales-2026",
+          "category": "ia",
+          "published_at": "2026-04-20T12:00:00+00:00",
+          "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux nouvelles règles de ciblage électoral.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6c6edde89ca",
+          "title": "Billie Eilish’s Mom Thanks Justin Bieber For ‘One of the Most Touching Moments Ever’ After ‘One Less Lonely Girl’ Coachella Serenade of Daughter",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/billie-eilish-mom-thanks-justin-bieber-coachella-serenade-1236226692/",
+          "category": "ia",
+          "published_at": "2026-04-20T11:45:07+00:00",
+          "summary": "Maggie Baird gushed about watching the \"crazy unimaginable dream\" of Billie and Justin becoming friends in a sweet Instagram post on Sunday (April 19).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e199736a2b91",
+          "title": "Six ans après Linux, WireGuard sous Windows passe enfin en version… 1.0",
+          "source": "Next INpact",
+          "url": "https://next.ink/234229/six-ans-apres-linux-wireguard-sous-windows-passe-enfin-en-version-1-0/",
+          "category": "ia",
+          "published_at": "2026-04-20T11:37:00+00:00",
+          "summary": "WireGuard pour Windows passe enfin en version 1.0. Le développeur explique avoir trouvé une solution de contournement pour deux « épines » qu’il avait dans le pied… Il s’agit dans les faits de contourner deux problèmes rencontrés sur Windows (et non corrigés par Microsoft).…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2249ff8b05e1",
+          "title": "Dragon Ball Super 2026 : le teaser avec Freezer qui change tout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235917-dragon-ball-super-2026-le-teaser-avec-freezer-qui-change-tout.html",
+          "category": "ia",
+          "published_at": "2026-04-20T11:01:00+00:00",
+          "summary": "C’est la nouvelle que les fans n'osaient plus espérer. Lors du Dragon Ball Games Battle Hour 2026, Toei Animation a dévoilé un teaser inédit pour son nouveau projet,&nbsp;Dragon Ball Super: Beerus. Entre promesse de combats sublimés et retour surprise d'un Freezer plus menaçant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "300edf9ea1c0",
+          "title": "☕️ Victime d’une intrusion, Vercel évoque un vol d’identifiants via un outil IA tierce partie",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/victime-dune-intrusion-vercel-evoque-un-vol-didentifiants-via-un-outil-ia-tierce-partie/",
+          "category": "ia",
+          "published_at": "2026-04-20T10:57:00+00:00",
+          "summary": "Vercel et sa plateforme permettant de déployer une application web en quelques clics ont été victimes d&#8217;un incident de sécurité, signalé par l&#8217;entreprise dimanche 19 avril. «&#160;Nous avons initialement identifié un nombre limité de clients dont les identifiants…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afe4ba99f703",
+          "title": "Charlie Cox (Daredevil) veut Robert Pattinson dans le film Clair Obscur: Expedition 33",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235967-charlie-cox-daredevil-veut-robert-pattinson-dans-le-film-clair-obscur-expedition-33.html",
+          "category": "ia",
+          "published_at": "2026-04-20T10:31:00+00:00",
+          "summary": "Charlie Cox, qui prête sa voix à Gustave dans le jeu vidéo Clair Obscur: Expedition 33, souhaiterait voir Robert Pattinson dans le film. La ressemblance physique avec le héros est évidente.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "252d608921df",
+          "title": "La fusée géante New Glenn a déraillé en plein vol, le satellite doit être détruit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2235945-la-fusee-geante-new-glenn-a-deraille-en-plein-vol-le-satellite-doit-etre-detruit.html",
+          "category": "ia",
+          "published_at": "2026-04-20T10:02:16+00:00",
+          "summary": "Blue Origin a connu un terrible ascenseur émotionnel ce week-end. Lors du troisième vol du lanceur New Glenn, le booster a réussi son retour sur Terre pour la deuxième fois. Mais le satellite, lui, n'a pas pu atteindre la bonne orbite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f9b3d7fad1f",
+          "title": "L’Europe vs Meta et Google : de nouvelles mesures (contraignantes) en approche",
+          "source": "Next INpact",
+          "url": "https://next.ink/234172/leurope-vs-meta-et-google-de-nouvelles-mesures-contraignantes-en-approche/",
+          "category": "ia",
+          "published_at": "2026-04-20T10:02:00+00:00",
+          "summary": "La semaine dernière était chargée pour la Commission européenne dans sa lutte contre les géants américains du Net. Elle a tout d’abord renvoyé Meta dans ses cordes sur la question des assistants d&#8217;IA tiers de WhatsApp, puis elle a proposé des mesures à Google sur le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9f53448b418",
+          "title": "Une remasterisation de Fallout: New Vegas pourrait être un cas épineux pour Bethesda",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235765-une-remasterisation-de-fallout-new-vegas-pourrait-etre-un-cas-epineux-pour-bethesda.html",
+          "category": "ia",
+          "published_at": "2026-04-20T09:59:56+00:00",
+          "summary": "Ex-designer de Fallout: New Vegas, Chris Avellone s'est exprimé sur une éventuelle remasterisation du RPG très apprécié. Pour lui, le projet sera complexe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd70a1c48b71",
+          "title": "Si vous n’avez pas encore joué à Clair Obscur : Expedition 33, il passe aujourd’hui sous les 35 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235973-si-vous-navez-pas-encore-joue-a-clair-obscur-expedition-33-il-passe-aujourdhui-sous-les-35-e.html",
+          "category": "ia",
+          "published_at": "2026-04-20T09:54:11+00:00",
+          "summary": "[Deal du jour] Vous n’avez pas encore joué au GOTY 2025 ? C’est le bon moment de plonger dans la fabuleuse histoire du jeu de Sandfall Interactive.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66fb27050b15",
+          "title": "75,000 AI-generated tracks now flood Deezer daily, representing 44% of all new music uploaded to the platform, says streamer",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/75000-ai-generated-tracks-now-flood-deezer-daily-representing-44-of-all-new-music-uploaded-to-the-platform-says-streamer/",
+          "category": "musique",
+          "published_at": "2026-04-20T09:33:21+00:00",
+          "summary": "The volume of fully AI-generated music being uploaded to Deezer has surged again\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5e50c84b647b",
+          "title": "Spider-Man : avis aux fans du super-héros, vous allez en avoir pour votre argent !",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235795-spider-man-avis-aux-fans-du-super-heros-vous-allez-en-avoir-pour-votre-argent.html",
+          "category": "ia",
+          "published_at": "2026-04-20T09:20:00+00:00",
+          "summary": "Alors que la série très attendue Spider-Noir s'apprête à débarquer sur nos écrans, son showrunner, Oren Uziel, a lâché une bombe : d'autres projets centrés sur des variants de l'homme-araignée sont actuellement en développement. Sony et Marvel semblent bien décidés à explorer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec31d94c9853",
+          "title": "Tesla lance son service de robotaxis dans deux nouvelles villes… sans robotaxis",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2235807-tesla-lance-son-service-de-robotaxis-dans-deux-nouvelles-villes-sans-robotaxis.html",
+          "category": "ia",
+          "published_at": "2026-04-20T09:10:11+00:00",
+          "summary": "Dallas et Houston s'ajoutent à la liste des villes américaines dans lesquelles sont disponibles les taxis autonomes de Tesla. Le bémol ? La zone couverte est minuscule et il n'y a même pas de véhicules disponibles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4599d14eb09",
+          "title": "Blizzard fait fermer Turtle WoW",
+          "source": "Next INpact",
+          "url": "https://next.ink/234178/blizzard-fait-fermer-turtle-wow/",
+          "category": "justice",
+          "published_at": "2026-04-20T09:03:53+00:00",
+          "summary": "Trainée en justice par Blizzard, la société qui opérait le serveur privé Turtle WoW jette l&#8217;éponge. Une semaine après avoir négocié une transaction au tribunal, elle annonce la fermeture prochaine de ses serveurs et de son site. Fin 2025, elle avait déjà dû se résoudre à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9ac2bf9ddfc",
+          "title": "L’humain est dépassé : un robot humanoïde bipède chinois vient de plier le record du semi-marathon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235757-lhumain-est-depasse-un-robot-humanoide-chinois-vient-de-plier-le-record-du-semi-marathon.html",
+          "category": "ia",
+          "published_at": "2026-04-20T08:38:34+00:00",
+          "summary": "50 minutes et 26 secondes. En bouclant le semi-marathon de Pékin avec ce chrono ahurissant, le robot humanoïde Lightning conçu par Honor vient de pulvériser le record du monde humain, avec ses deux jambes mécaniques. Retour sur un exploit technologique inédit, bâti en moins d'un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa9fbb72ba9a",
+          "title": "Les développeurs de Tomodachi Life ont peaufiné le bruit des pets jusqu’à obtenir le « son parfait »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235777-les-developpeurs-de-tomodachi-life-ont-peaufine-le-bruit-des-pets-jusqua-obtenir-le-son-parfait.html",
+          "category": "ia",
+          "published_at": "2026-04-20T08:30:31+00:00",
+          "summary": "Apparemment, il y avait un débat au sein de l'équipe de développement de Tomodachi Life : Une vie de rêve sur la possibilité d'autoriser les Miis à avoir des gaz.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5cdc6b30b956",
+          "title": "Bouygues Telecom peut vous facturer un antivirus sans action de votre part : voici comment l’annuler",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235767-bouygues-telecom-peut-vous-facturer-un-antivirus-sans-action-de-votre-part-voici-comment-lannuler.html",
+          "category": "ia",
+          "published_at": "2026-04-20T08:30:01+00:00",
+          "summary": "Certains clients de Bouygues Telecom ont eu la mauvaise surprise de découvrir l'ajout automatique d'une option antivirus payante à leur forfait. Facturé 3 € par mois, cet « avantage » s'active par défaut si l'abonné ne s'y oppose pas formellement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a48f44e2d26b",
+          "title": "La Chine teste un faisceau de micro-ondes pour recharger des drones en plein vol",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235799-la-chine-teste-un-faisceau-de-micro-ondes-pour-recharger-des-drones-en-plein-vol.html",
+          "category": "ia",
+          "published_at": "2026-04-20T08:22:54+00:00",
+          "summary": "D'après un article du South China Morning Post, publié le 19 avril 2026, la Chine vient de franchir une étape concrète vers la capacité à maintenir une flotte de drones en vol indéfiniment, sans atterrissage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c62f500366e4",
+          "title": "☕️ OpenAI : trois départs successifs après l’arrêt de Sora",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/openai-le-responsable-de-sora-celui-de-la-branche-science-et-le-cto-b2b-partent/",
+          "category": "justice",
+          "published_at": "2026-04-20T08:15:00+00:00",
+          "summary": "Alors qu&#8217;OpenAI a abandonné Sora le mois dernier, le responsable du projet en interne, Bill Peebles, a annoncé son départ de l&#8217;entreprise. «&#160;Sora était un projet qui n&#8217;aurait pu voir le jour nulle part ailleurs qu&#8217;à OpenAI, et c&#8217;est pour cette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3f9fd4f1708",
+          "title": "Katy Perry Tosses Credit Card Into Trevi Fountain for ‘Good Luck’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/katy-perry-rome-trevi-fountain-1236226682/",
+          "category": "ia",
+          "published_at": "2026-04-20T07:54:04+00:00",
+          "summary": "“Y’all, I told you in ‘Save as Draft’ that I don’t f**k with change,” Perry says in the clip.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7ce11e89516",
+          "title": "☕️ Mozilla drague les entreprises avec un client IA open source, Thunderbolt",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/mozilla-drague-les-entreprises-avec-un-client-ia-open-source-thunderbolt/",
+          "category": "ia",
+          "published_at": "2026-04-20T07:45:00+00:00",
+          "summary": "MZLA, la filiale de Mozilla en charge du développement du logiciel de messagerie Thunderbird depuis 2020, se lance sur le terrain de l&#8217;intelligence artificielle avec l&#8217;annonce d&#8217;un client open source dédié, baptisé Thunderbolt. Conçu pour fonctionner en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6292598059ce",
+          "title": "La prochaine version de Avengers: Endgame est un terrible aveu d’échec pour les films Marvel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235751-la-prochaine-version-de-avengers-endgame-est-un-terrible-aveu-dechec-pour-les-films-marvel.html",
+          "category": "ia",
+          "published_at": "2026-04-20T07:31:22+00:00",
+          "summary": "Joe Russo, co-réalisateur, a évoqué la future version de Avengers: Endgame, qui sortira juste avant Avengers: Doomsday. Elle comportera des scènes inédites pour créer un lien avec la future réunion des super-héros. Ce qui en dit long sur les films sortis entre eux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "658ef44a1e93",
+          "title": "Un an après sa mort, Val Kilmer (ou plutôt son clone IA) de retour au cinéma",
+          "source": "Next INpact",
+          "url": "https://next.ink/234127/un-an-apres-sa-mort-val-kilmer-ou-plutot-son-clone-ia-de-retour-au-cinema/",
+          "category": "ia",
+          "published_at": "2026-04-20T07:09:00+00:00",
+          "summary": "Val Kilmer, décédé l&#8217;an dernier, va faire son grand retour au cinéma… sous la forme d&#8217;un clone IA. L&#8217;acteur, connu pour ses rôles dans Top Gun, Heat ou encore The Doors, est en effet au casting de As Deep as the Grave, bien qu&#8217;il n&#8217;ait jamais été…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd3cb40a9642",
+          "title": "☕️ Après le code, Claude génère des interfaces",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/apres-le-code-claude-genere-des-interfaces/",
+          "category": "ia",
+          "published_at": "2026-04-20T06:16:44+00:00",
+          "summary": "Les designers d&#8217;interface qui se pensaient à l&#8217;abri du tsunami de l&#8217;IA générative peuvent trembler. Anthropic a en effet&#160;présenté&#160;Claude Design, un nouvel outil encore à l&#8217;état expérimental, qui génère des interfaces à partir d&#8217;une requête…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1252abe09a9",
+          "title": "☕️ La boutique de la console Playdate bannit les contenus générés par IA dans les jeux",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/la-boutique-de-la-console-playdate-bannit-les-contenus-generes-par-ia-dans-les-jeux/",
+          "category": "ia",
+          "published_at": "2026-04-20T06:03:43+00:00",
+          "summary": "La question de l&#8217;utilisation de l&#8217;IA générative continue d&#8217;agiter l&#8217;industrie du jeu vidéo et les joueurs. Une ligne semble toutefois se dessiner : si les contenus générés par IA – visuels, audio, textes… – sont de plus en plus rejetés par les joueurs, il…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37fa6b662008",
+          "title": "mike. Announces Final Australia and New Zealand Tour Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/mike-final-australian-tour-dates-1236226664/",
+          "category": "ia",
+          "published_at": "2026-04-20T04:08:14+00:00",
+          "summary": "The New York rapper announced a run of headline shows across Sydney, Melbourne and Brisbane this September.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c37042b3fa23",
+          "title": "Fans Choose Madonna’s ‘I Feel So Free’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/madonnas-i-feel-so-free-favorite-new-music-poll-results-1236226639/",
+          "category": "musique",
+          "published_at": "2026-04-20T01:40:36+00:00",
+          "summary": "The Queen of Pop's new single brought in 40% of the vote.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-19",
       "articles": [
+        {
+          "id": "34b4349c3d9c",
+          "title": "Indigo Girls’ Emily Saliers Reveals Cervical Dystonia and Essential Tremor Diagnoses: ‘My Voice Will Not Be What It Was’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/indigo-girls-emily-voice-cervical-dystonia-essential-tremor-1236226603/",
+          "category": "ia",
+          "published_at": "2026-04-19T23:14:07+00:00",
+          "summary": "The duo posted the health update on Instagram, where support for Saliers poured in from peers and fans ahead of the Indigo Girls' tour kickoff.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60cbf072a01c",
+          "title": "Tate McRae on Manifestation, Collaboration & Finding Her Artistic Vision | Billboard Women in Music 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/tate-mcrae-artistic-vision-billboard-women-in-music-2026/",
+          "category": "musique",
+          "published_at": "2026-04-19T21:00:00+00:00",
+          "summary": "Billboard Women in Music 2026 Hitmaker Award recipient Tate McRae opens up about her artistic journey, songwriting process and the raw vulnerability that drives her music. From her roots in Calgary, Alberta, Canada, to the global stage, Tate shares what it means to create songs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b40982140785",
+          "title": "Eddie Murphy Receives AFI Lifetime Achievement Award in Star-Filled Tribute",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/eddie-murphy-afi-lifetime-achievement-award-2026-1236226587/",
+          "category": "musique",
+          "published_at": "2026-04-19T20:46:51+00:00",
+          "summary": "Jennifer Hudson delivered a musical performance from 'Dreamgirls,' the 2006 film in which she co-starred with Murphy, at the American Film Institute's 2026 ceremony.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eae0270092f5",
+          "title": "Tina Knowles Previews Unreleased ‘Matriarch’ Excerpt at Kurt Geiger London Mother’s Day Campaign Event",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/lifestyle/tina-knowles-matriarch-kurt-geiger-london-mothers-day-1236226557/",
+          "category": "ia",
+          "published_at": "2026-04-19T19:40:47+00:00",
+          "summary": "The mother of Beyoncé is preparing for the re-release of her 2025 memoir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "201f8c05585c",
+          "title": "Ella Langley Achieves First No. 1 Album on Billboard 200 With ‘Dandelion’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-number-one-billboard-200-chart-1236226543/",
+          "category": "musique",
+          "published_at": "2026-04-19T19:00:02+00:00",
+          "summary": "Plus: Justin Bieber and Sabrina Carpenter return to the top 10 after headlining Coachella’s first weekend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7002cf28d222",
+          "title": "Frétillez comme un poisson dans l’eau, avec Koi, notre jeu de société de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2235087-fretillez-comme-un-poisson-dans-leau-avec-koi-notre-jeu-de-societe-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-04-19T15:58:00+00:00",
+          "summary": "Créez un bassin ornemental à votre image et faites-y grandir de superbes carpes koï. Symboles de chance et de réussite, sauront-elles vous porter bonheur dans Koi, notre jeu de société de la semaine ? Comment ça se joue ? Quel est notre avis ? On vous dit tout.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a67e9ab16e4",
+          "title": "Cette chaise de bureau ergonomique de Sihoo  baisse son prix de plus de 20 %",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235377-cette-chaise-de-bureau-ergonomique-de-sihoo-baisse-son-prix-de-plus-de-20.html",
+          "category": "ia",
+          "published_at": "2026-04-19T15:35:05+00:00",
+          "summary": "[Deal du jour] Le télétravail c'est bien, mais ça fait mal au dos. Pour éviter les complications, mieux vaut investir dans une bonne chaise ergonomique, comme ce modèle de Sihoo en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55ccae14938b",
+          "title": "Ils piratent des transporteurs et volent des cargaisons entières : dans les coulisses de la cyberattaque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2235117-ils-piratent-des-transporteurs-et-volent-des-cargaisons-entieres-dans-les-coulisses-de-la-cyberattaque.html",
+          "category": "ia",
+          "published_at": "2026-04-19T14:02:00+00:00",
+          "summary": "Dans un article de blog publié le 16 avril 2026, les chercheurs de Proofpoint retracent la manière dont ils ont infiltré un groupe criminel spécialisé dans le vol de marchandises physiques via des cyberattaques ciblant l’industrie du transport routier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "055139ee2d44",
+          "title": "Les meilleurs films d’action à voir sur Netflix en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2234141-les-meilleurs-films-daction-a-voir-sur-netflix-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-04-19T12:30:00+00:00",
+          "summary": "Entre blockbusters internationaux, thrillers musclés à la française et productions originales, le catalogue de Netflix regorge de séquences explosives. Pour vous aider à faire le tri ce week-end, nous avons sélectionné huit titres incontournables disponibles actuellement sur la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ce6e6bf92e6",
+          "title": "La Nasa montre à quoi va ressembler sa base sur la Lune, mais ne donne aucune date",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2234847-la-nasa-montre-a-quoi-va-ressembler-sa-base-lunaire-mais-elle-ne-donne-pas-de-dates.html",
+          "category": "ia",
+          "published_at": "2026-04-19T11:01:00+00:00",
+          "summary": "La Nasa est bien décidée à construire une base lunaire dans un avenir proche. Ce projet extrêmement ambitieux se dévoile peu à peu dans une feuille de route qui évite soigneusement de fournir des dates trop précises.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "e4b9fb50dffc",
           "title": "Suivez en direct l’envol de la fusée géante New Glenn et la réutilisation de son premier étage",
