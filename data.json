@@ -1,9 +1,614 @@
 {
-  "generated_at": "2026-04-20T12:11:49.343897+00:00",
+  "generated_at": "2026-04-21T11:48:10.241616+00:00",
   "days": [
+    {
+      "date": "2026-04-21",
+      "articles": [
+        {
+          "id": "a6776adff4cd",
+          "title": "Mariah Carey Not Bothered About Latest Rock & Roll Hall of Fame Induction Snub: ‘Who Cares? Give it To Somebody Else’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/mariah-carey-who-cares-rock-roll-hall-of-fame-induction-snub-1236227565/",
+          "category": "ia",
+          "published_at": "2026-04-21T11:47:29+00:00",
+          "summary": "MC was shut out for the third year in a row this year after first being nominated in 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8613954902c",
+          "title": "On sait ce qui a causé le fiasco de la fusée géante New Glenn lors de son vol",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2236955-on-sait-ce-qui-a-cause-le-fiasco-de-la-fusee-geante-new-glenn-lors-de-son-vol.html",
+          "category": "ia",
+          "published_at": "2026-04-21T11:41:04+00:00",
+          "summary": "Si le premier étage de sa fusée géante New Glenn a réussi son retour sur Terre ce dimanche, une défaillance du second étage a condamné la mission. Conséquence immédiate : les autorités américaines ont ouvert une enquête et cloué le lanceur au sol.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e3999a2f298",
+          "title": "In the age of generative AI, it’s high time for artists to organize.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/in-the-age-of-generative-ai-its-high-time-for-artists-to-organize/",
+          "category": "ia",
+          "published_at": "2026-04-21T11:21:12+00:00",
+          "summary": "Bill Werde, Director of the Bandier Music Business Program at Syracuse University, argues that 2026 is the year artists should finally unionize – wielding joint leverage to improve things for anyone who’s ever stood in front of a mic…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab993263337c",
+          "title": "Country Profile – Japan 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/21/country-profile-japan-2026/",
+          "category": "musique",
+          "published_at": "2026-04-21T11:00:00+00:00",
+          "summary": "The IFPI charts suggest that Japanese musical exports are booming, thanks to physical sales. The reality is slightly more complex  &#8211; but still positive. The success of music streaming in Japan isn’t just a growth story &#8211; it’s “a high-margin revolution” according to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7026dab7851f",
+          "title": "Xiaomi continue de puiser chez Tesla pour devenir une marque puissante",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2236943-xiaomi-continue-de-puiser-chez-tesla-pour-devenir-une-marque-puissante.html",
+          "category": "ia",
+          "published_at": "2026-04-21T10:52:00+00:00",
+          "summary": "À quelques jours du salon auto de Beijing, une nouvelle recrue fait son arrivée chez Xiaomi. Pour la première fois, la marque chinoise a désigné un directeur technique (CTO), preuve qu'elle compte bien devenir un acteur majeur du secteur automobile.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "efdee3afc400",
+          "title": "Windows 11 : le long, (très) très long, chemin du passage de 32 Go à 2 To en FAT32",
+          "source": "Next INpact",
+          "url": "https://next.ink/234371/windows-11-le-long-tres-tres-long-chemin-du-passage-de-32-go-a-2-to-en-fat32/",
+          "category": "ia",
+          "published_at": "2026-04-21T10:44:00+00:00",
+          "summary": "Microsoft prend son temps et le temporaire a vite fait de s’installer pour quelques années, voire décennies, dans le cas de la limitation FAT32 à 32 Go dans Windows. Après les Insiders sur le canal Canary, Microsoft fait sauter cette limite sur les canaux Dev et Beta. Marty, va…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "056d29cc6523",
+          "title": "Electra, l’opérateur de recharge qui veut se rendre incontournable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2237005-electra-loperateur-de-recharge-qui-veut-se-rendre-incontournable.html",
+          "category": "ia",
+          "published_at": "2026-04-21T10:36:33+00:00",
+          "summary": "L’opérateur français Electra multiplie les bornes de recharge, mais ce n’est pas le seul domaine où l’entreprise se montre hyperactive : elle enchaîne aussi les partenariats.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a96465a9b50",
+          "title": "Comment les bactéries miroir sont devenues un sujet d’alerte",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2236875-comment-les-bacteries-miroir-sont-devenues-un-sujet-dalerte.html",
+          "category": "ia",
+          "published_at": "2026-04-21T10:09:14+00:00",
+          "summary": "Longtemps envisagées comme une avancée scientifique prometteuse, les bactéries miroir sont désormais au cœur de fortes inquiétudes en biosécurité. En quelques années, ce champ de recherche est passé d’un horizon d’innovation biomédicale à un sujet d’alerte internationale, en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "876e08aef6d6",
+          "title": "Anthropic et Amazon étendent leur accord, 5 milliards de dollars contre 5 GW",
+          "source": "Next INpact",
+          "url": "https://next.ink/234333/anthropic-et-amazon-etendent-leur-accord-5-milliards-de-dollars-contre-5-gw/",
+          "category": "ia",
+          "published_at": "2026-04-21T09:57:43+00:00",
+          "summary": "Nouvel accord croisé entre Anthropic et Amazon. L&#8217;éditeur de Claude s&#8217;engage à consommer l&#8217;équivalent de 5 GW de puissance de calcul sur les infrastructures d&#8217;AWS. En échange, Amazon investit 5 milliards de dollars dans Anthropic, avec une option portant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af0e2a1a0e75",
+          "title": "Decathlon brade les vélos électriques Neomouv Raipon jusqu’à 350 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2236853-decathlon-brade-les-velos-electriques-neomouv-raipon-jusqua-350-e.html",
+          "category": "ia",
+          "published_at": "2026-04-21T09:53:15+00:00",
+          "summary": "[Deal du jour] Avec leur bonne autonomie et leur ergonomie agréable, les vélos électriques Neomouv Raipon proposés par Decathlon sont de bons modèles utilisables en ville ou en randonnée, et sont encore plus recommandables en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4348840a0e63",
+          "title": "Matt Gralen promoted to CEO of Beatport, Helen Sartory upped to President & COO, as longtime Chief Exec Robb McDaniels moves to Executive Chairman role",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/matt-gralen-promoted-to-ceo-of-beatport-helen-sartory-upped-to-president-coo-as-longtime-chief-exec-robb-mcdaniels-moves-to-executive-chairman-role/",
+          "category": "ia",
+          "published_at": "2026-04-21T09:49:17+00:00",
+          "summary": "Gralen previously served as President and CFO, while Sartory was most recently Chief Revenue Officer.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34c411f1ab07",
+          "title": "Je suis une Légende 2 : le film revient enfin d’entre les morts",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236803-je-suis-une-legende-2-le-film-revient-enfin-dentre-les-morts.html",
+          "category": "ia",
+          "published_at": "2026-04-21T09:30:59+00:00",
+          "summary": "C’est l’un des projets de science-fiction les plus intrigants de ces dernières années. Après des mois de rumeurs, la suite du film culte Je suis une légende vient de franchir une étape cruciale. Steven Caple Jr. a officiellement confirmé qu'il prendra les rênes de cette suite…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "641fae836f38",
+          "title": "Qui est John Ternus, le nouveau patron d’Apple qui devra réinventer l’iPhone ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2236765-qui-est-john-ternus-le-nouveau-patron-dapple-qui-devra-reinventer-liphone.html",
+          "category": "ia",
+          "published_at": "2026-04-21T09:28:03+00:00",
+          "summary": "C'est officiel : John Ternus est le nouveau CEO d'Apple. Tim Cook cédera sa place le 1er septembre 2026 après plus de 15 ans à la tête de la plus grande entreprise de la Silicon Valley. Un profil fascinant pour un dirigeant tech : John Ternus est un ingénieur de formation et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "439de2842386",
+          "title": "☕️ The Onion a trouvé un nouveau plan pour mettre la main sur le site complotiste InfoWars",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/the-onion-a-trouve-un-nouveau-plan-pour-mettre-la-main-sur-le-site-complotiste-infowars/",
+          "category": "ia",
+          "published_at": "2026-04-21T09:22:00+00:00",
+          "summary": "The Onion a peut-être finalement trouvé un plan pour prendre le contrôle d&#8217;InfoWars, après une longue bataille de prétoires. Le célèbre site satirique américain s&#8217;était porté acquéreur du média complotiste suite à la banqueroute de son principal animateur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "702b3757bdaf",
+          "title": "Blizzard ferme l’un des plus gros serveurs privés de WoW",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236703-blizzard-ferme-lun-des-plus-gros-serveurs-prives-de-wow.html",
+          "category": "ia",
+          "published_at": "2026-04-21T09:14:33+00:00",
+          "summary": "Après une longue période juridique, Blizzard Entertainment est parvenu à ses fins concernant le serveur Turtle WoW. Il fermera ses portes le 14 mai prochain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2572d66e6709",
+          "title": "Quelle est la meilleure plateforme de streaming en 2026 ? Le comparatif pour bien choisir son abonnement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/541742-netflix-amazon-canal-ocs-apple-tv-le-grand-comparatif-2019-des-offres-de-svod-en-france.html",
+          "category": "ia",
+          "published_at": "2026-04-21T09:10:00+00:00",
+          "summary": "Ce comparatif vous aide à choisir la plateforme la plus pertinente selon vos goûts sans empiler les abonnements inutiles. Dans ce comparatif 2026, on passe au crible 8 services de streaming sVOD pour vous aider à choisir celui qui correspond le mieux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a45f71082b4",
+          "title": "Le jet supersonique X-59 n’a jamais été aussi proche de franchir le mur du son",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2236705-le-jet-supersonique-x-59-na-jamais-ete-aussi-proche-de-franchir-le-mur-du-son.html",
+          "category": "ia",
+          "published_at": "2026-04-21T09:06:16+00:00",
+          "summary": "L’avion expérimental X-59 de la Nasa frôle désormais le mur du son. Lors de ses récents essais au-dessus de la Californie, le jet a dépassé les 1 000 km/h et volé bien plus haut que les avions de ligne classiques. Le mythique passage en supersonique silencieux n'est plus qu'une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2e550dd00eb",
+          "title": "Lil Tjay on Offset, Justin Bieber, and Keeping His Foot on the Gas",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/lil-tjay-offset-bieber-album-1236227550/",
+          "category": "musique",
+          "published_at": "2026-04-21T09:03:35+00:00",
+          "summary": "The Bronx rapper briefly addressed the renewed attention surrounding his conflict with Offset before turning focus to his new single “Life On Edge” and upcoming album, They Just Ain’t You.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "732212fcc2d5",
+          "title": "Le Hyundai Ioniq 3 est un crossover futuriste, mais un peu décevant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2236707-le-hyundai-ioniq-3-est-un-crossover-futuriste-mais-un-peu-decevant.html",
+          "category": "ia",
+          "published_at": "2026-04-21T08:54:47+00:00",
+          "summary": "Hyundai complète sa gamme électrique par le bas avec une nouvelle voiture électrique : le Ioniq 3. Un crossover urbain revendiquant une autonomie de près de 500 km. Cependant, le reste de sa fiche technique déçoit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38d34a5f92ae",
+          "title": "Reacher : une saison 5 déjà en préparation avant la sortie de la saison 4 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236697-reacher-une-saison-5-deja-en-preparation-avant-la-sortie-de-la-saison-4.html",
+          "category": "ia",
+          "published_at": "2026-04-21T08:45:00+00:00",
+          "summary": "Jack Reacher n'est visiblement pas près de poser son sac à dos. Alors que les fans attendent avec impatience la quatrième saison de Reacher prévue pour 2026, des sources internes révèlent qu'Amazon travaille déjà activement sur une cinquième saison. Une preuve supplémentaire de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61667c9756f0",
+          "title": "L’app de vérification d’âge de la Commission européenne présente de « grosses lacunes »",
+          "source": "Next INpact",
+          "url": "https://next.ink/234281/lapp-de-verification-dage-de-la-commission-europeenne-presente-de-grosses-lacunes/",
+          "category": "institutionnel",
+          "published_at": "2026-04-21T08:38:15+00:00",
+          "summary": "Présentée comme « techniquement prête », l&#8217;app de vérification d&#8217;âge de la Commission européenne n&#8217;a pas tardé à soulever chez certains chercheurs des questions sur sa sécurité. Leurs découvertes sont pour le moins embarrassantes, même si le champ des attaques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92055c26970d",
+          "title": "Le cerveau a un problème dans l’espace : il refuse de lâcher prise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2236757-le-cerveau-a-un-probleme-dans-lespace-il-refuse-de-lacher-prise.html",
+          "category": "ia",
+          "published_at": "2026-04-21T08:31:58+00:00",
+          "summary": "Dans l'espace, le corps des astronautes est soumis à rude épreuve. Et malgré ses capacités d'adaptation, le cerveau resterait très confus après plusieurs mois sans gravité, au point que cela pourrait avoir des conséquences sur les missions spatiales à venir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "303d9d794006",
+          "title": "Agression sexuelle sur mineur : anonymisation mais pas de suppression",
+          "source": "Légalis",
+          "url": "https://www.legalis.net/actualite/agression-sexuelle-sur-mineur-anonymisation-mais-pas-de-suppression/",
+          "category": "justice",
+          "published_at": "2026-04-21T08:12:58+00:00",
+          "summary": "Par un jugement du 8 avril 2026, le tribunal judiciaire de Paris a rejeté la demande de l’ex-chef de chœur de la maîtrise d’une cathédrale de supprimer de la page Wikipedia consacrée à la maîtrise, le paragraphe évoquant sa condamnation en 2007 pour agression sexuelle sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0a4bdfedb04",
+          "title": "The Last of Us 3 pourrait prendre une direction inattendue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236695-the-last-of-us-3-pourrait-prendre-une-direction-inattendue.html",
+          "category": "ia",
+          "published_at": "2026-04-21T08:10:38+00:00",
+          "summary": "Un ancien développeur de Naughty Dog ayant travaillé sur The Last of Us a révélé plusieurs détails issus d'une conversation avec Neil Druckmann, le créateur de la série. Des détails qui pourraient donner quelques indices sur la direction que prendra le futur épisode.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96902b6ba8ba",
+          "title": "Donut Lab rattrapé par un lanceur d’alerte sur sa batterie solide faussement « miracle »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2236603-donut-lab-rattrape-par-un-lanceur-dalerte-sur-sa-batterie-solide-faussement-miracle.html",
+          "category": "ia",
+          "published_at": "2026-04-21T07:51:44+00:00",
+          "summary": "L'ancien dirigeant d’un partenaire clé de Donut Lab accuse la startup d’avoir largement survendu sa technologie. Une plainte a été déposée en Finlande. Cette nouvelle polémique s’ajoute à une série de démonstrations déjà jugées peu convaincantes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1136795c9779",
+          "title": "Ubisoft se trolle lui-même avant la présentation du futur Assassin’s Creed",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236683-ubisoft-se-trolle-lui-meme-avant-la-presentation-du-futur-assassins-creed.html",
+          "category": "ia",
+          "published_at": "2026-04-21T07:35:49+00:00",
+          "summary": "Ubisoft a donné rendez-vous le jeudi 23 avril 2026 pour la présentation mondiale du remake Assassin's Creed Black Flag Resynced. Un secret de polichinelle, assumé par un troll.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffee44dab488",
+          "title": "Comment l’intelligence artificielle générative bouscule le métier d’avocat d’affaires",
+          "source": "Next INpact",
+          "url": "https://next.ink/234282/comment-lintelligence-artificielle-generative-bouscule-le-metier-davocat-daffaires/",
+          "category": "ia",
+          "published_at": "2026-04-21T07:00:00+00:00",
+          "summary": "Chez les avocats aussi, l’IA générative change certaines logiques de travail. Des clients qui pré-rédigent leurs contrats à l’IA comme assistant de documentation, Next a demandé à plusieurs professionnels leurs retours d’expérience. «&#160;De la même manière qu’on peut demander…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e004a9464607",
+          "title": "☕️ WhatsApp Plus : Meta teste un abonnement payant pour des cosmétiques premium",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/whatsapp-plus-meta-teste-un-abonnement-payant-pour-des-cosmetiques-premium/",
+          "category": "ia",
+          "published_at": "2026-04-21T06:32:00+00:00",
+          "summary": "Avec plus de trois milliards d&#8217;utilisateurs, WhatsApp est évidemment un énorme poids lourd de la messagerie que Meta entend bien rentabiliser autant que possible. Au tout début de l&#8217;application, elle était facturée 0,99 euro à l&#8217;année, mais suite à son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d847a305a19",
+          "title": "☕️ UFC-Que Choisir devient Que Choisir Ensemble",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/ufc-que-choisir-devient-que-choisir-ensemble/",
+          "category": "institutionnel",
+          "published_at": "2026-04-21T05:57:07+00:00",
+          "summary": "Ne l&#8217;appelez plus UFC-Que Choisir. L&#8217;association indépendante de défense des consommateurs, qui fête ses 75 ans, change de nom et devient&#160;Que Choisir Ensemble. Exit l&#8217;Union fédérale des consommateurs (UFC), le bureau d&#8217;études créé en 1951. La…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48614f1819c1",
+          "title": "Violent Soho Announce 2026 Australian Tour Following Four-Year Hiatus",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/violent-soho-announce-2026-australian-tour-1236227543/",
+          "category": "ia",
+          "published_at": "2026-04-21T05:50:01+00:00",
+          "summary": "Joining the band on tour are Beddy Rays, who will open all shows, with Teenage Joans appearing in Sydney and Brisbane and Secret World set for the Melbourne date.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4fc848904404",
+          "title": "À 25 milliards de km, le pari de la NASA pour modifier le fonctionnement électrique des sondes Voyager",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2236259-a-24-milliards-de-km-le-pari-risque-de-la-nasa-pour-modifier-le-fonctionnement-electrique-des-sondes-voyager.html",
+          "category": "ia",
+          "published_at": "2026-04-21T05:31:00+00:00",
+          "summary": "À 25 milliards de kilomètres de la Terre, les sondes Voyager luttent contre le froid et l’épuisement de leurs batteries nucléaires. Pour éviter le silence définitif, la NASA lance une opération de la dernière chance baptisée Big Bang. Objectif : réorganiser totalement la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21cf9b0b68d5",
+          "title": "Greater Music Group aims to rethink the modern label – with AI at its heart",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/21/greater-music-group-aims-to-rethink-the-modern-label-with-ai-at-its-heart/",
+          "category": "musique",
+          "published_at": "2026-04-21T04:37:00+00:00",
+          "summary": "Companies in the music industry are using AI in various ways. But few are doing it quite as ambitiously as Greater Music Group.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "082999cc3184",
+          "title": "‘American Idol’ Announces Taylor Swift Night for Top 7 Singers",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/taylor-swift-night-american-idol-top-7-singers-1236227532/",
+          "category": "musique",
+          "published_at": "2026-04-21T01:53:47+00:00",
+          "summary": "The April 27 episode -- which will feature guest judge Nikki Glaser -- will be the first night entirely dedicated to Swift's music in the show's 24 seasons.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b5a4b25f70e",
+          "title": "Justin Bieber Lands Most Albums of His Career on Billboard 200, As Sabrina Carpenter & Karol G Also See Coachella Chart Bump",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/justin-bieber-sabrina-carpenter-karol-g-coachella-chart-bump-1236227485/",
+          "category": "musique",
+          "published_at": "2026-04-21T00:36:51+00:00",
+          "summary": "Bieber leads the headliner pack on the charts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bad15d38259",
+          "title": "Justin Bieber’s 12-Year-Old ‘Journals’ Album Debuts on Billboard 200 After Coachella",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/justin-bieber-journals-debut-billboard-200-chart-1236227490/",
+          "category": "musique",
+          "published_at": "2026-04-21T00:27:36+00:00",
+          "summary": "The set is one of a career-high seven albums from Bieber on the chart.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-20",
       "articles": [
+        {
+          "id": "1036f7ce47ac",
+          "title": "Poof Doof Launches Record Label: Exclusive",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/poof-doof-launches-record-label/",
+          "category": "musique",
+          "published_at": "2026-04-20T23:00:00+00:00",
+          "summary": "Jimi the Kween's “All I Need” is the first release through Poof Doof Records.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ee796f339b8",
+          "title": "‘To create from a genuine place, you have to be open, vulnerable and sensitive and when you put music out, you need to be the opposite. It’s almost impossible.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/to-create-from-a-genuine-place-you-have-to-be-open-vulnerable-and-sensitive-and-when-you-put-music-out-you-need-to-be-the-opposite-its-almost-impossible/",
+          "category": "musique",
+          "published_at": "2026-04-20T22:00:02+00:00",
+          "summary": "MBW's Inspiring Women series meets former September Management COO-turned-author Delphine Seddon\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5ec8bea6df5",
+          "title": "Apple tourne officiellement la page de Tim Cook",
+          "source": "Next INpact",
+          "url": "https://next.ink/234311/apple-tourne-officiellement-la-page-de-tim-cook/",
+          "category": "institutionnel",
+          "published_at": "2026-04-20T21:04:38+00:00",
+          "summary": "Tim Cook cédera son siège de PDG d&#8217;Apple à John Ternus au 1er septembre. L&#8217;annonce était attendue depuis des mois, elle est désormais officielle. Johny Srouji, qui était jusqu&#8217;à présent chargé des puces du constructeur, remplace le futur CEO au poste de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3eff1081072e",
+          "title": "Apple annonce le départ de Tim Cook",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2236615-tim-cook-annonce-son-depart-dapple-15-ans-de-regne-prendront-fin-en-septembre.html",
+          "category": "ia",
+          "published_at": "2026-04-20T20:42:30+00:00",
+          "summary": "C’est officiel : John Ternus va remplacer Tim Cook en tant que CEO d’Apple. La marque californienne a dévoilé ce changement historique en fin de journée le lundi 20 avril, alors que tout laissait penser que Tim Cook conserverait son poste encore plusieurs mois. Tim Cook dirigera…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc35970acf12",
+          "title": "Chord Music-linked ABS vehicle plans $500M deal, backed by $830M catalog led by Suicideboys, Morgan Wallen, and Ryan Tedder rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/chord-music-linked-abs-vehicle-plans-500m-deal-backed-by-830m-catalog-led-by-suicideboys-morgan-wallen-and-ryan-tedder-rights/",
+          "category": "musique",
+          "published_at": "2026-04-20T19:10:33+00:00",
+          "summary": "Deal collateralized by royalties from a catalog of more than 3,750 works\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95a6584350b6",
+          "title": "Fashion brand Quince, recently valued at $10B, sued by UMG for ‘rampant and brazen infringement’ in TikTok posts",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/fashion-brand-quince-recently-valued-at-10b-sued-by-umg-over-unlicensed-use-of-music-from-sabrina-carpenter-justin-bieber-billie-eilish-and-more-in-tiktok-posts/",
+          "category": "ia",
+          "published_at": "2026-04-20T17:12:37+00:00",
+          "summary": "The company raised a $500 million Series E in March at a $10.1 billion valuation\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95a56416f913",
+          "title": "Palantir veut faire du numérique un instrument de puissance coercitive",
+          "source": "Next INpact",
+          "url": "https://next.ink/234267/palantir-veut-faire-du-numerique-un-instrument-de-puissance-coercitive/",
+          "category": "ia",
+          "published_at": "2026-04-20T16:08:17+00:00",
+          "summary": "Palantir a publié samedi sur X un manifeste en 22 points qui reprend l&#8217;essentiel de la thèse développée par son cofondateur, Alex Karp. Aussi péremptoires que belliqueuses, ses propositions dépeignent la façon dont le monde numérique devrait se mettre au service…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ae29043bf55",
+          "title": "Pourquoi le train dans GTA V fascine les joueurs (et pourquoi ils ne réussiront jamais à l’arrêter)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236119-pourquoi-le-train-dans-gta-v-fascine-les-joueurs-et-pourquoi-ils-ne-reussiront-jamais-a-larreter.html",
+          "category": "justice",
+          "published_at": "2026-04-20T15:45:15+00:00",
+          "summary": "C'est l'un des mèmes les plus légendaires de GTA 5 : le train qui sillonne les rails de Los Santos et est tout simplement inarrêtable. Rockstar Games a probablement fait ce choix pour éviter des problèmes susceptibles de créer des bugs, des collisions imprévisibles ou des chutes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70f59354a02c",
+          "title": "☕️ Pegasus : la justice française a auditionné deux des cofondateurs de NSO",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/pegasus-la-justice-francaise-a-auditionne-deux-des-cofondateurs-de-nso/",
+          "category": "ia",
+          "published_at": "2026-04-20T15:39:02+00:00",
+          "summary": "Deux fondateurs de NSO Group, la société israélienne qui a créé le logiciel espion Pegasus (passée sous pavillon étatsunien en novembre dernier), ont été entendus dans le cadre de la procédure judiciaire ouverte sur la surveillance de plusieurs téléphones portables français.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5dab100603f8",
+          "title": "TPLM interpelle la ministre de la Culture sur le déplafonnement des taxes affectées au CNM",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/tplm-interpelle-la-ministre-de-la-culture-sur-le-deplafonnement-des-taxes-affectees-au-cnm/",
+          "category": "musique",
+          "published_at": "2026-04-20T15:33:23+00:00",
+          "summary": "TPLM interpelle la ministre de la Culture sur le déplafonnement des taxes affectées au CNM A l’occasion de sa visite au Printemps de Bourges, Catherine Pégard a reçu une délégation de Tous Pour La Musique (TPLM), conduite par son président, Jean-Christophe Bourgeois. Réunissant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf9c75bf5d51",
+          "title": "ChatGPT en panne ? Voici les meilleures alternatives en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1246474-voici-les-meilleures-alternatives-gratuites-a-chatgpt.html",
+          "category": "ia",
+          "published_at": "2026-04-20T15:27:27+00:00",
+          "summary": "Il fut un temps où pour interagir avec une intelligence artificielle, on ouvrait naturellement ChatGPT. Mais en 2026, le chatbot d'OpenAI n'est plus seul sur son trône, et ses concurrents ont définitivement cessé de faire de la figuration. Voici les meilleures alternatives à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce1246c8f3d7",
+          "title": "ChatGPT en panne : l’outil IA ne répond plus,  Gemini, Copilot et Claude aussi en difficulté",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2236385-chatgpt-en-panne-loutil-ia-ne-repond-plus-gemini-copilot-et-claude-aussi-en-difficulte.html",
+          "category": "ia",
+          "published_at": "2026-04-20T15:23:36+00:00",
+          "summary": "Plusieurs outils d'intelligence artificielle générative rencontrent des soucis de fonctionnement en ce lundi 20 avril 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "020f11a0c0ec",
+          "title": "☕️ OpenSSL passe en version 4.0, avec Encrypted Client Hello (ECH)",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/openssl-passe-en-version-4-0-avec-encrypted-client-hello-ech/",
+          "category": "ia",
+          "published_at": "2026-04-20T14:55:00+00:00",
+          "summary": "Quatre ans et demi après la version 3.0, OpenSSL passe en version 4.0. Attention, ce n’est pas une version LTS, elle n’est donc supportée que jusqu’en mai 2027, contrairement aux moutures 3.0 et 3.5 qui sont respectivement prises en charge jusqu’en septembre 2026 et avril 2030.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dbc586df9a2b",
+          "title": "La baisse du budget du CNRS, « une rupture » dans le financement de la recherche française",
+          "source": "Next INpact",
+          "url": "https://next.ink/234176/la-baisse-du-budget-du-cnrs-une-rupture-dans-le-financement-de-la-recherche-francaise/",
+          "category": "ia",
+          "published_at": "2026-04-20T14:29:24+00:00",
+          "summary": "Les agents du CNRS s&#8217;alarment d’une nouvelle coupe budgétaire : «&#160;On assiste à un net désengagement de l&#8217;État ». La France est-elle en train de suivre le chemin tracé par Donald Trump aux États-Unis ? Nous sommes en tout cas à contre-courant de la Chine qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3d8b462201c",
+          "title": "Pourquoi Pragmata est banni de Reddit ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236111-pourquoi-pragmata-est-banni-de-reddit.html",
+          "category": "ia",
+          "published_at": "2026-04-20T14:03:15+00:00",
+          "summary": "Pragmata est sorti il y a maintenant plusieurs jours, et le succès est indéniable. Le jeu a reçu une pluie de critiques positives de la part de la presse, tandis que les joueuses et les joueurs semblent tout aussi conquis, voire davantage. Pourtant, certains modérateurs sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c2ccd303534",
+          "title": "Quand sort le film Elden Ring ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236201-quand-sort-le-film-elden-ring.html",
+          "category": "ia",
+          "published_at": "2026-04-20T13:55:05+00:00",
+          "summary": "Bandai Namco a dévoilé la date de sortie du film Elden Ring, projet ô combien ambitieux. Il paraîtra en mars 2028, sous la direction d'Alex Garland.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff2af85224cd",
+          "title": "☕️ Spliiit ne peut plus partager d’abonnements Ligue 1+",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/spliiit-ne-peut-plus-partager-dabonnements-ligue-1/",
+          "category": "ia",
+          "published_at": "2026-04-20T13:15:00+00:00",
+          "summary": "Spliiit, le service qui permet de partager à plusieurs le prix d&#8217;un abonnement à un service en ligne, enfreint les conditions générales d&#8217;utilisation de Ligue 1+. Saisi par la Ligue de football professionnel (LFP), le tribunal judiciaire de Paris…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f726778fe279",
+          "title": "Laufey Fortnite partnership extends to her own playable island",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/20/laufey-fortnite-partnership-extends-to-her-own-playable-island/",
+          "category": "musique",
+          "published_at": "2026-04-20T12:55:55+00:00",
+          "summary": "We reported last week on Laufey becoming the latest artist to headline a season of Fortnite Festival, the music game-within-the-game on Fortnite. But it turns out her activation on the platform goes further than this. Sony Immersive Music Studios has teamed up with AWAL to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f0d19d26b6b",
+          "title": "A Vinyl Bar in Shibuya launches a music-making app called Bop",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/20/a-vinyl-bar-in-shibuya-launches-a-music-making-app-called-bop/",
+          "category": "musique",
+          "published_at": "2026-04-20T12:52:26+00:00",
+          "summary": "No need to look puzzled: A Vinyl Bar in Shibuya is not, in fact, a vinyl-themed boozer in Tokyo’s youth-culture hotspot. It’s actually a “music software label” founded by Máuhan M. Zonoozy, who used to he head of innovation at Spotify. Although he did come up with the name in…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2714cb316f04",
+          "title": "OpenAI boss Sam Altman’s ‘World’ gets into concert ticketing",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/20/openai-boss-sam-altmans-world-gets-into-concert-ticketing/",
+          "category": "musique",
+          "published_at": "2026-04-20T12:47:49+00:00",
+          "summary": "Sam Altman is best known as the co-founder and CEO of OpenAI, but he’s got another project called ‘World’ that is suddenly directly relevant to the music industry. Sharply summarised by Wired as “Sam Altman’s iris-scanning, humanity-verifying World project” in a recent article,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f9fe9f00dfa",
+          "title": "UMG’s ‘Everything Jazz’ site focuses on sales and curation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/20/umgs-everything-jazz-site-focuses-on-sales-and-curation/",
+          "category": "musique",
+          "published_at": "2026-04-20T12:47:45+00:00",
+          "summary": "Downloads may be well into a long-term decline that shows no signs of a vinyl-style revival, but there are still contexts where they are meaningful for individual artists and labels. Bandcamp is one, and Universal Music Group will be hoping that jazz is another. Specifically…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12c2fdc08325",
+          "title": "☕️ France Titres a subi une fuite de données",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/france-titres-a-subi-une-fuite-de-donnees/",
+          "category": "ia",
+          "published_at": "2026-04-20T12:46:39+00:00",
+          "summary": "Le site du gouvernement français vous permettant d&#8217;effectuer vos démarches de passeport, carte d’identité, permis de conduire et carte grise a subi un « incident de sécurité », selon un email que le service a envoyé à des utilisateurs. L&#8217;agence nationale des titres…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e4905b4ab8d",
+          "title": "Open letter pushes back on calls to ban Israel from Eurovision",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/20/open-letter-pushes-back-on-calls-to-ban-israel-from-eurovision/",
+          "category": "ia",
+          "published_at": "2026-04-20T12:39:53+00:00",
+          "summary": "Israel’s participation in the Eurovision Song Contest is one of the hottest music-political potatoes in the world right now, just under a month before the event in Austria. In December, Ireland, Spain, the Netherlands and Slovenia pulled out of this year’s contest in protest at…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9c89666848b",
+          "title": "Live music’s economic impact in Spain was €5.81bn in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/20/live-musics-economic-impact-in-spain-was-e5-81bn-in-2025/",
+          "category": "musique",
+          "published_at": "2026-04-20T12:35:47+00:00",
+          "summary": "The box-office revenues for Spain’s live-music industry grew to €807.2m in 2025, but that’s only part of the picture for the economic impact of the country’s concerts and festivals. Now legal and business-management firm Sympathy for the Lawyer has published a report telling the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c39faad6ba0",
+          "title": "Reservoir-backed PopArabia acquires MENA label and distributor Viral Wave",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reservoir-backed-poparabia-acquires-mena-label-and-distributor-viral-wave/",
+          "category": "musique",
+          "published_at": "2026-04-20T12:25:44+00:00",
+          "summary": "Acquisition marks 'an important milestone in PopArabia’s continued growth,' according to PopArabia and Reservoir \nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "6e84823b12b1",
           "title": "Revoir le webinaire - Élections municipales 2026 : quelles sont les nouvelles règles de ciblage électoral ?",
@@ -32,6 +637,16 @@
           "category": "ia",
           "published_at": "2026-04-20T11:37:00+00:00",
           "summary": "WireGuard pour Windows passe enfin en version 1.0. Le développeur explique avoir trouvé une solution de contournement pour deux « épines » qu’il avait dans le pied… Il s’agit dans les faits de contourner deux problèmes rencontrés sur Windows (et non corrigés par Microsoft).…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f60d658e55b",
+          "title": "IngaRose is a hit as SIQA launches ‘AI Music Intelligence’ report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/20/ingarose-is-a-hit-as-siqa-launches-ai-music-intelligence-report/",
+          "category": "musique",
+          "published_at": "2026-04-20T11:30:00+00:00",
+          "summary": "Actually, a quick public service announcement about &#8216;hit&#8217; first. It may be high time we stopped using ‘is number one on an iTunes chart somewhere’ as a marker for success in the modern streaming age. With no disrespect to Apple, it doesn’t take *that* many sales to…",
           "summary_type": "extrait source"
         },
         {
