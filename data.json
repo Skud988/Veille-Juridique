@@ -1,9 +1,604 @@
 {
-  "generated_at": "2026-04-23T11:47:11.479140+00:00",
+  "generated_at": "2026-04-24T11:47:09.182270+00:00",
   "days": [
+    {
+      "date": "2026-04-24",
+      "articles": [
+        {
+          "id": "d8c100380454",
+          "title": "Vote par correspondance électronique : la CNIL met à jour sa recommandation",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/recommandation-vote-electronique",
+          "category": "ia",
+          "published_at": "2026-04-24T12:00:00+00:00",
+          "summary": "À l’issue d’une consultation publique, la CNIL actualise sa recommandation sur la sécurité des systèmes de vote par correspondance électronique. Elle offre un cadre plus clair et plus opérationnel, en maintenant un haut niveau d’exigence en matière de sécurité, de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68b5a4b0dce1",
+          "title": "Circoloco India cancelled less than 24 hours before its scheduled debut in Mumbai",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/24/circoloco-india-cancelled-less-than-24-hours-before-its-scheduled-debut-in-mumbai/",
+          "category": "musique",
+          "published_at": "2026-04-24T11:45:39+00:00",
+          "summary": "If 2025 was the year of recognition for India’s live music industry—when the world was alerted to the immense potential of the country’s ‘concert economy’—then 2026 is turning out to [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dae1aeddeafc",
+          "title": "☕️ Next sera ce week-end au Festival des médias indépendants à Paris",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/next-sera-ce-week-end-au-festival-des-medias-independants-a-paris/",
+          "category": "ia",
+          "published_at": "2026-04-24T11:37:00+00:00",
+          "summary": "Ce week-end des 25 et 26 avril aura lieu un Festival des médias indépendants réunissant plus de 40 médias, dont Next et les 7 médias membres de La Presse Libre, ainsi que Basta!, Blast, Bon Pote, Disclose, Facto !, Fakir, La Déferlante, Médianes, l&#8217;Observatoire des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2089d823c9b",
+          "title": "Anthropic’s Claude AI adds Spotify and StubHub as ‘connectors’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/24/anthropics-claude-ai-adds-spotify-and-stubhub-as-connectors/",
+          "category": "musique",
+          "published_at": "2026-04-24T11:30:00+00:00",
+          "summary": "It seems clear that a growing proportion of online searching and shopping will be happening via AI chatbots&#8230; and also, perhaps, music discovery – from artists and songs to concerts and ticketing. Hence the eagerness of companies including Spotify, Apple Music, Ticketmaster…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20df4a655c44",
+          "title": "Meta va licencier 10 % de ses effectifs, plan de départ volontaire chez Microsoft",
+          "source": "Next INpact",
+          "url": "https://next.ink/235194/meta-va-licencier-10-de-ses-effectifs-plan-de-depart-volontaire-chez-microsoft/",
+          "category": "ia",
+          "published_at": "2026-04-24T10:34:00+00:00",
+          "summary": "Meta et Microsoft ont tous deux confirmé cette semaine d&#8217;importantes coupes à venir dans leurs effectifs. Le premier prévoit de licencier 8 000 personnes, soit environ 10 % de ses équipes, d&#8217;ici le mois de juin, et réduit la voilure au niveau des nouvelles embauches.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6603ad28c54",
+          "title": "L’Europe enferme six personnes pendant 100 jours pour la science",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2240001-cest-comme-le-loft-mais-pour-la-science-leurope-enferme-six-personnes-pendant-100-jours.html",
+          "category": "ia",
+          "published_at": "2026-04-24T10:32:00+00:00",
+          "summary": "Pour préparer les futurs voyages vers la Lune et Mars, l'Agence spatiale européenne (ESA) vient de lancer SOLIS100. Six volontaires vont vivre enfermés pendant plus de trois mois dans un complexe allemand pour tester les limites du mental humain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6e60cf02112",
+          "title": "Avengers : « J’avais tort »,  Jon Favreau brise le silence sur la fin tragique d’Iron Man",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239899-avengers-javais-tort-jon-favreau-brise-le-silence-sur-la-fin-tragique-diron-man.html",
+          "category": "ia",
+          "published_at": "2026-04-24T10:05:01+00:00",
+          "summary": "Jon Favreau admet avoir eu tort concernant la mort de Tony Stark dans Avengers : Endgame. Près de sept ans après la conclusion de la Saga de l&#8217;Infini, Jon Favreau, réalisateur d&#8217;Iron Man et pilier du Marvel Cinematic Universe (MCU), est revenu en 2026 sur l&#8217;un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f388a5f35c5c",
+          "title": "☕️ Polymarket : un soldat US arrêté pour son gain de 430 000$ sur la chute de Maduro",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/polymarket-un-soldat-us-arrete-pour-son-pari-de-430-000-sur-la-chute-de-maduro/",
+          "category": "ia",
+          "published_at": "2026-04-24T09:53:45+00:00",
+          "summary": "Un soldat états-unien a été arrêté dans le cadre du pari sur la chute de Maduro, qui lui avait permis d&#8217;empocher 430 000 dollars sur Polymarket. Ce gain avait été remarqué vu le montant du gain, et le timing du pari. L&#8217;utilisateur avait commencé à parier sur la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffcc0212daec",
+          "title": "SXSW London Unveils Entire 2026 Live Music Program: See Full Lineup",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sxsw-london-2026-see-full-lineup-1236230820/",
+          "category": "musique",
+          "published_at": "2026-04-24T09:50:32+00:00",
+          "summary": "The event will take place from June 1-6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29869780ce2a",
+          "title": "Déjà abordable, cet écran PC gaming ultra-large de Xiaomi tombe en promo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2239821-deja-abordable-cet-ecran-pc-gaming-ultra-large-de-xiaomi-tombe-en-promo.html",
+          "category": "ia",
+          "published_at": "2026-04-24T09:49:50+00:00",
+          "summary": "[Deal du jour] Vous rêvez de l'immersion totale d'un mastodonte comme le Samsung Odyssey G9, mais votre banquier fait les gros yeux ? Xiaomi a le moniteur pour vous et il tombe en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ba1ce2b83b5",
+          "title": "Polymarket : un soldat américain arrêté après avoir gagné 400 000 dollars sur la chute de Maduro",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2239955-polymarket-un-soldat-americain-arrete-apres-avoir-gagne-400-000-dollars-sur-la-chute-de-maduro.html",
+          "category": "justice",
+          "published_at": "2026-04-24T09:40:41+00:00",
+          "summary": "Un soldat américain impliqué dans l'opération qui a conduit à la capture de Nicolás Maduro a été arrêté par le ministère de la Justice américain. Il est accusé d'avoir utilisé des informations classifiées pour miser sur Polymarket quelques jours avant l'annonce publique. Ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7cdc6f8785b7",
+          "title": "Peugeot dévoile deux concepts de dingue pour des voitures que l’on n’aura jamais chez nous",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2239707-peugeot-devoile-deux-concepts-de-dingue-pour-des-voitures-que-lon-naura-jamais-chez-nous.html",
+          "category": "ia",
+          "published_at": "2026-04-24T09:34:02+00:00",
+          "summary": "Au salon auto de Beijing, Peugeot impressionne avec deux concept-cars au look ravageur. Si la marque au lion a choisi la Chine pour les présenter, c'est parce que les modèles seront vendus là-bas et dans quelques marchés internationaux. La France n'a pas droit au bonheur ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "129facedaa5f",
+          "title": "Ball Park Music Postpones Concert After Dean Hanson Breaks Collar Bone Playing Cricket",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/ball-park-music-postpones-concert-dean-hanson-collar-bone-1236230832/",
+          "category": "musique",
+          "published_at": "2026-04-24T09:33:01+00:00",
+          "summary": "Ball Park Music's guitarist has gone under the knife.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39b9fa2e4ba6",
+          "title": "« J’espère qu’il continuera à passer sous les radars » : comment LinkedIn a invité un agent IA sur scène avant de le bannir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2239809-jespere-quil-continuera-a-passer-sous-les-radars-comment-linkedin-a-invite-un-agent-ia-sur-scene-avant-de-le-bannir.html",
+          "category": "ia",
+          "published_at": "2026-04-24T09:28:42+00:00",
+          "summary": "Dans un article publié sur Wired, le journaliste américain Evan Ratliff raconte comment il a monté une startup entièrement pilotée par des agents IA. Parmi eux, on retrouve Kyle, CEO virtuel, devenu influenceur LinkedIn pendant cinq mois, jusqu'à ce que la plateforme l'invite à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b79589b82ec5",
+          "title": "7 fois moins cher que Claude Opus 4.7 : la Chine dégaine DeepSeek-V4, un modèle open source conçu pour vous détourner des États-Unis",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2239687-7-fois-moins-cher-que-claude-opus-4-7-la-chine-degaine-deepseek-v4-un-modele-open-source-concu-pour-vous-detourner-des-etats-unis.html",
+          "category": "ia",
+          "published_at": "2026-04-24T08:57:22+00:00",
+          "summary": "Après avoir fait trembler la Silicon Valley en janvier 2025, le laboratoire chinois DeepSeek publie DeepSeek-V4-Preview, une famille de deux modèles open weight capables de rivaliser avec les meilleurs modèles propriétaires américains pour une fraction de leur coût. DeepSeek…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df6c86773ddb",
+          "title": "La série Spider-Noir avec Nicolas Cage dévoile ses grands méchants",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239691-la-serie-spider-noir-avec-nicolas-cage-devoile-ses-grands-mechants.html",
+          "category": "ia",
+          "published_at": "2026-04-24T08:43:20+00:00",
+          "summary": "La nouvelle série Spider-Noir, attendue en mai 2026 sur MGM+ et Prime Video, réimagine l'univers Marvel dans le New York de la Prohibition (1933). Entre vétérans de guerre, gangsters et enquêteurs, le co-showrunner Oren Uziel et les acteurs de la série dévoilent une galerie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02f9223adc64",
+          "title": "Déjà une mauvaise nouvelle pour le remake Assassin’s Creed Black Flag Resynced",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239683-deja-une-mauvaise-nouvelle-pour-le-remake-assassins-creed-black-flag-resynced.html",
+          "category": "ia",
+          "published_at": "2026-04-24T08:43:18+00:00",
+          "summary": "Jeu exclusivement solo, Assassin's Creed Black Flag Resynced, remake de l'épisode Assassin's Creed IV: Black Flag, imposera une connexion internet pour pouvoir jouer. Un choix qui fait déjà jaser.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9121995d74a",
+          "title": "Un mystérieux orbe doré a été découvert au fond de l’océan, et on sait enfin de quoi il s’agit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2239837-un-mysterieux-orbe-dore-a-ete-decouvert-au-fond-de-locean-et-on-sait-enfin-de-quoi-il-sagit.html",
+          "category": "ia",
+          "published_at": "2026-04-24T08:36:33+00:00",
+          "summary": "Depuis plus de deux ans, la communauté scientifique se passionne pour un objet doré d'origine inconnue retrouvé au fond du golfe d'Alaska. Des analyses ont permis de l'identifier, et il a une origine biologique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60a6ff5ee838",
+          "title": "Royalties London talent academy seeks emerging creatives",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/24/royalties-london-talent-academy-seeks-emerging-creatives/",
+          "category": "ia",
+          "published_at": "2026-04-24T08:33:41+00:00",
+          "summary": "The latest initiative aimed at young creatives is Royalties London, although it has a long history behind it.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef5273a39c99",
+          "title": "Vers la fin du « 100 % renouvelable » ? La réforme du Scope 2 fait grincer des dents",
+          "source": "Next INpact",
+          "url": "https://next.ink/235171/vers-la-fin-du-100-renouvelable-la-reforme-du-scope-2-fait-grincer-des-dents/",
+          "category": "ia",
+          "published_at": "2026-04-24T08:26:49+00:00",
+          "summary": "Une partie de l&#8217;industrie s&#8217;est levée comme un seul homme pour s&#8217;opposer à une réforme des règles de calcul des émissions indirectes de CO₂. Porté par le Greenhouse Gas Protocol, ce projet a pour objectif d&#8217;améliorer la fiabilité des données et leur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc3b1bd908a3",
+          "title": "Clair Obscur: Expedition 33 fête son premier anniversaire avec un cadeau des développeurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239697-clair-obscur-expedition-33-fete-son-premier-anniversaire-avec-un-cadeau-des-developpeurs.html",
+          "category": "ia",
+          "published_at": "2026-04-24T08:09:19+00:00",
+          "summary": "Le studio Sandfall Interactive a sorti une mise à jour pour Clair Obscur Expedition 33, le jeu de l'année 2025. De quoi faire plaisir à celles et ceux qui aiment personnaliser les héros du jeu de rôle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8dddfb572d95",
+          "title": "Comment jouer avec vos Mii de la Wii et de la 3DS sur Tomodachi Life : Une vie de rêve ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239685-comment-jouer-avec-vos-mii-de-la-wii-et-de-la-3ds-sur-tomodachi-life-une-vie-de-reve.html",
+          "category": "ia",
+          "published_at": "2026-04-24T07:56:56+00:00",
+          "summary": "Il existe une astuce pour transférer les Mii de votre Wii et de votre Nintendo 3DS vers la Nintendo Switch ou Switch 2. Tout ce dont vous avez besoin, c’est d’une figurine amiibo. Vous pourrez ainsi jouer avec vos anciens Mii sur Tomodachi Life.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2266b5ed82a9",
+          "title": "Olivia Rodrigo’s ‘Drop Dead’ Debuts at No. 1 on ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-drop-dead-no-1-australia-aria-chart-1236230795/",
+          "category": "justice",
+          "published_at": "2026-04-24T07:44:24+00:00",
+          "summary": "The U.S. pop star now boasts a fourth No. 1 single in Australia after “Drivers Licence” (six weeks in 2021), “Good 4 U” (five weeks in 2021) and “Vampire” was (one week in 2023)",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee049fa98fc4",
+          "title": "Saros est l’un des meilleurs jeux de la PS5, point",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239085-test-de-saros-sur-ps5-pro.html",
+          "category": "ia",
+          "published_at": "2026-04-24T07:00:00+00:00",
+          "summary": "Grosse exclusivité PS5 de cette année 2026, Saros ne déçoit pas, bien au contraire. Il est la version 2.0 de Returnal, soit une expérience toujours exigeante mais bien plus aboutie et accueillante dans absolument tous les domaines. Dans le genre action, c'est une masterclass.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "863d0b8b547f",
+          "title": "Shaboozey’s Outlaw Era Rides on With ‘Born to Die’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/shaboozeys-born-to-die-stream-it-now-1236230784/",
+          "category": "musique",
+          "published_at": "2026-04-24T06:57:33+00:00",
+          "summary": "“Born to Die” is a thigh-slapping, country music party pressed into 2 minutes 45 seconds.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50de25264ca3",
+          "title": "Microsoft Gaming est mort",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239671-microsoft-gaming-est-mort.html",
+          "category": "ia",
+          "published_at": "2026-04-24T06:55:19+00:00",
+          "summary": "Dans un mémo interne partagé publiquement, Microsoft annonce sa révolution pour la marque Xbox, fruit d'un gros travail d'autocritique, sous l'impulsion d'Asha Sharma, la nouvelle boss. Retour des exclusivités, nouvelle identité (avec un nouveau logo), engagement fort auprès des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61a4d4086b55",
+          "title": "GPT-5.5, Privacy Filter, ChatGPT Images 2.0 : OpenAI fait feu de tout bois",
+          "source": "Next INpact",
+          "url": "https://next.ink/235174/gpt-5-5-privacy-filter-chatgpt-images-2-0-openai-fait-feu-de-tout-bois/",
+          "category": "ia",
+          "published_at": "2026-04-24T06:08:00+00:00",
+          "summary": "On n&#8217;en est pas à un nouveau LLM par jour, mais pas loin ! OpenAI a dévoilé GPT-5.5, alors que son prédécesseur GPT-5.4 remonte à début mars. Cette nouvelle version s&#8217;ajoute au lancement de ChatGPT Images 2.0 il y a quelques jours, et à celui de Privacy Filter qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0059fa7d3ed",
+          "title": "Noah Kahan, Kehlani, Suki Waterhouse & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/noah-kahan-kehlani-suki-waterhouse-new-music-friday-guide-1236230297/",
+          "category": "musique",
+          "published_at": "2026-04-24T05:03:24+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67b40053440b",
+          "title": "Foo Fighters Unwrap ‘Your Favorite Toy’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/foo-fighters-unwrap-your-favorite-toy-stream-1236230756/",
+          "category": "musique",
+          "published_at": "2026-04-24T04:41:41+00:00",
+          "summary": "Foo Fighters press play on \"Your Favorite Toy,\" the Rock And Roll Hall of Fame inducted band’s 12 studio album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cd88f1483e4",
+          "title": "Ella Langley & Morgan Wallen’s ‘I Can’t Love You Anymore’ Duet Has Arrived: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/ella-langley-morgan-wallen-i-cant-love-you-anymore-stream-1236229801/",
+          "category": "musique",
+          "published_at": "2026-04-24T04:01:42+00:00",
+          "summary": "The highly anticipated new duet from two of the biggest stars in country music has arrived.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cbbf5e380e2",
+          "title": "Jason Aldean’s ‘Songs About Us’: Every Track Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/jason-aldean-songs-about-us-every-tracked-ranked/",
+          "category": "musique",
+          "published_at": "2026-04-24T04:00:00+00:00",
+          "summary": "Billboard ranks every song on Jason Aldean's new album 'Songs About Us.'",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-23",
       "articles": [
+        {
+          "id": "15aff9a3153e",
+          "title": "How will the major labels overcome the copyright threat from AI music? By turning to the most powerful weapon available: AI itself.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/how-will-the-major-labels-overcome-the-copyright-threat-from-ai-music-by-turning-to-the-most-powerful-weapon-available-ai-itself/",
+          "category": "musique",
+          "published_at": "2026-04-23T20:03:14+00:00",
+          "summary": "MBW digs through new patent filings describing a 'media rights platform' that sits between rightsholders, gen AI systems, and the end users who want to prompt AI to create derivative works from copyrighted music\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90c5b5f57ff7",
+          "title": "OpenAI dévoile GPT-5.5 et veut faire une remontada historique face à Claude et Gemini",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2239629-openai-devoile-gpt-5-5-et-veut-faire-une-remontada-historique-face-a-claude-et-gemini.html",
+          "category": "ia",
+          "published_at": "2026-04-23T18:30:59+00:00",
+          "summary": "Deux jours après le lancement réussi du nouveau générateur d'images ChatGPT Images 2.0, OpenAI dévoile GPT-5.5, autrefois connu sous le nom de code « Spud ». Un modèle pensé pour agir de manière autonome et qui a pour lourde tâche de reprendre la couronne à Anthropic… quitte à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ed3a50c18ca",
+          "title": "Pourquoi l’élite de la NASA s’oblige à perdre aux cartes juste avant le décollage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2239157-pourquoi-lelite-de-la-nasa-soblige-a-perdre-aux-cartes-juste-avant-le-decollage.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-23T18:17:42+00:00",
+          "summary": "Avant de quitter la Terre pour rejoindre le pas de tir, les équipages de la NASA se plient à une drôle de coutume dans la salle d'habillage : une partie de cartes dont l'issue est primordiale pour le succès de la mission.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1980bc802336",
+          "title": "« On a tous fait quelque chose d’extraordinaire » : Ils ont bâti une antenne radio pour téléphoner à Sophie Adenot dans l’ISS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2237003-on-a-tous-fait-quelque-chose-dextraordinaire-ils-ont-bati-une-antenne-radio-pour-telephoner-a-sophie-adenot-dans-liss.html",
+          "category": "ia",
+          "published_at": "2026-04-23T18:13:02+00:00",
+          "summary": "Une vingtaine d'élèves du CP au lycée ont pu avoir un échange en direct avec l'astronaute française Sophie Adenot, à bord de l'ISS. Une prouesse technique que l'on doit à des radioamateurs mobilisés pour faire le lien avec la Station spatiale internationale grâce à une simple…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "867450c2c6af",
+          "title": "Record labels’ $2B+ copyright lawsuit against Verizon jointly dismissed in wake of Supreme Court’s Cox ruling",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/record-labels-and-verizon-jointly-dismiss-2-6-billion-copyright-lawsuit-in-wake-of-supreme-courts-cox-ruling/",
+          "category": "musique",
+          "published_at": "2026-04-23T18:00:04+00:00",
+          "summary": "The case was originally filed in July 2024\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "69f27a764947",
+          "title": "Senior Accountant (Label and Artist Management Company) – Anomally Records – Remote (UK)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/music-industry-finance-lead-anomally-records-remote-uk/",
+          "category": "musique",
+          "published_at": "2026-04-23T17:51:51+00:00",
+          "summary": "Anomally Records is an independent label and artist management company operating across the UK, GCC, Hong Kong, China, and international markets. We are looking for a Music Industry Finance Lead to take ownership of financial operations across releases, touring, artist…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d835d6ac22a",
+          "title": "La saga continue : un paquet NPM vérolé de Bitwarden CLI a dérobé des secrets",
+          "source": "Next INpact",
+          "url": "https://next.ink/235095/la-saga-continue-un-paquet-npm-verole-de-bitwarden-cli-a-derobe-des-secrets/",
+          "category": "ia",
+          "published_at": "2026-04-23T16:36:04+00:00",
+          "summary": "Le paquet NPM du CLI de Bitwarden publié comme la version 2026.4.0 est en fait un malware qui récupère les secrets, clés SSH et autres identifiants. Cette version a été rapidement étiquetée comme « obsolète »&#160;et l&#8217;équipe du projet a contacté NPM pour que le paquet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2350a70faa5a",
+          "title": "Cet agent IA a ouvert sa propre boutique, mais a oublié un détail absurde le jour J",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2239519-la-premiere-boutique-geree-par-un-agent-ia-a-ouvert-ses-portes-et-ca-a-vire-au-fiasco.html",
+          "category": "ia",
+          "published_at": "2026-04-23T16:34:00+00:00",
+          "summary": "À San Francisco, aux États-Unis, Andon Market se présente comme le premier commerce de détail géré par une intelligence artificielle. Baptisée Luna, l’IA pilote les principales décisions du magasin, des commandes au recrutement, avec l’ambition d’ouvrir le débat sur la place de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "398c73f6d92c",
+          "title": "Le remake Assassin’s Creed Black Flag Resynced se dévoile largement et annonce sa date de sortie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2237483-le-remake-assassins-creed-black-flag-resynced-se-devoile-largement-et-annonce-sa-date-de-sortie.html",
+          "category": "ia",
+          "published_at": "2026-04-23T16:15:00+00:00",
+          "summary": "Annoncé officiellement le 4 mars dernier alors que c'était un des secrets les moins bien gardés de l'histoire d'Assassin's Creed, le remake de Black Flag, Resynced, a enfin été dévoilé largement à la faveur d'une longue vidéo qui, sans rassurer totalement, a le mérite de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cccde04cb22b",
+          "title": "Netflix, NASA… pourquoi tout le monde a partagé des photos satellites ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2239331-netflix-nasa-pourquoi-tout-le-monde-a-partage-des-photos-satellites.html",
+          "category": "ia",
+          "published_at": "2026-04-23T15:52:46+00:00",
+          "summary": "« NASA » ou « TUDUM » écrits avec des photographies aériennes. Voilà ce que l'on pouvait voir sur les réseaux sociaux le 22 avril 2026. Des créations qui ont une explication, ou plutôt deux : le Jour de la Terre et le programme Landsat.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d677a4ef674",
+          "title": "☕️ Un robot de Sony bat des champions humains au ping-pong",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/un-robot-de-sony-bat-des-champions-humains-au-ping-pong/",
+          "category": "ia",
+          "published_at": "2026-04-23T15:50:06+00:00",
+          "summary": "Si les robots ne sont pas encore capables d&#8217;asservir l&#8217;humanité, ils peuvent déjà nous battre aux échecs ou au Go (Deep Blue et AlphaGo), au poker (Cepheus) et désormais… au ping-pong. Un robot mis au point par Sony AI a battu des athlètes humains. Les frères Lebrun…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a386a4225545",
+          "title": "L’usine Stellantis de Rennes sous pavillon chinois ? Derrière la rumeur, le vrai problème de Stellantis",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2239413-lusine-stellantis-de-rennes-sous-pavillon-chinois-derriere-la-rumeur-le-vrai-probleme-de-stellantis.html",
+          "category": "ia",
+          "published_at": "2026-04-23T15:23:41+00:00",
+          "summary": "L’hypothèse d’une vente de l’usine bretonne de Stellantis à un groupe chinois agite le secteur automobile. Mais derrière la rumeur, c’est surtout un problème structurel qui refait surface : les surcapacités industrielles en Europe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a6c3f92c363",
+          "title": "Plus de 100 pays dotés de logiciels espions, nous évoluons « entre la paix et la guerre »",
+          "source": "Next INpact",
+          "url": "https://next.ink/235111/plus-de-100-pays-dotes-de-logiciels-espions-nous-evoluons-entre-la-paix-et-la-guerre/",
+          "category": "ia",
+          "published_at": "2026-04-23T15:19:49+00:00",
+          "summary": "Après avoir initialement été utilisés pour cibler des dissidents, défenseurs des droits humains et journalistes, les logiciels espions seraient de plus en plus utilisés pour cibler des banquiers et des cadres supérieurs fortunés. Le National Cyber Security Centre (qui fait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c485fd86599b",
+          "title": "La plateforme Parcoursup a été piratée : ce que l’on sait de cette intrusion inédite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2239385-la-plateforme-parcoursup-a-ete-piratee-ce-que-lon-sait-sur-cette-intrusion-inedite.html",
+          "category": "ia",
+          "published_at": "2026-04-23T15:01:58+00:00",
+          "summary": "En octobre 2025, un attaquant a exfiltré les données personnelles de centaines de milliers de candidats inscrits sur Parcoursup en Occitanie. Le ministère de l'Enseignement supérieur n'en a été informé que cinq mois plus tard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c48f48afcd2",
+          "title": "☕️ 705 000 candidats à Parcoursup victimes d’une nouvelle fuite de leurs données personnelles",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/705-000-candidats-a-parcoursup-victimes-dune-nouvelle-fuite-de-leurs-donnees-personnelles/",
+          "category": "ia",
+          "published_at": "2026-04-23T13:41:04+00:00",
+          "summary": "Dans un communiqué, le ministère de l&#8217;Enseignement annonce que, à « la suite d’un signalement intervenu courant mars 2026, ses équipes […] ont identifié une usurpation frauduleuse affectant le compte d’un module de gestion des données Parcoursup réservé à l’usage des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68297ef33011",
+          "title": "Spotify to show AI tags in Song Credits, where artists have chosen to disclose through their label or distributor",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-to-show-ai-tags-in-song-credits-where-artists-have-chosen-to-disclose-through-their-label-or-distributor/",
+          "category": "musique",
+          "published_at": "2026-04-23T13:33:15+00:00",
+          "summary": "The feature, however, is optional as artists can still  choose whether to disclose AI involvement in their song production.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29455033ab86",
+          "title": "Google lance ses TPU v8 et spécialise ses puces pour l’IA : enjeux et comparatif maison",
+          "source": "Next INpact",
+          "url": "https://next.ink/234952/google-lance-ses-tpu-v8-et-specialise-ses-puces-pour-lia-enjeux-et-comparatif-maison/",
+          "category": "ia",
+          "published_at": "2026-04-23T13:21:41+00:00",
+          "summary": "Google vient d’annoncer sa nouvelle génération de Tensor Processing Unit, alias TPU, des puces spécialisées dans les calculs liés à l’IA (générative). Google change son fusil d’épaule pour les v8 et spécialise ses puces. On vous explique les enjeux et les approches techniques,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a91c315f0a17",
+          "title": "☕️ SpaceX aurait courtisé Mistral avant son deal avec Cursor",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/spacex-aurait-courtise-mistral-avant-son-deal-avec-cursor/",
+          "category": "ia",
+          "published_at": "2026-04-23T12:55:49+00:00",
+          "summary": "Cursor pourrait tomber dans l&#8217;escarcelle de SpaceX, pour la modique somme de 60 milliards de dollars. Mais l&#8217;acteur majeur du spatial avait d&#8217;autres projets en tête pour rattraper son retard dans un secteur des outils de génération de code dominé par Claude…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d21947d52b6",
+          "title": "Substack adds translation and nears 100k publishers getting payouts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/substack-adds-translation-and-nears-100k-publishers-getting-payouts/",
+          "category": "musique",
+          "published_at": "2026-04-23T12:45:00+00:00",
+          "summary": "Not-just-newsletters-any-more platform Substack has a new feature: translation. It will now be translating notes from English into 15 languages, and from more than 100 languages into English. Translations for posts will follow in the coming weeks. “For writers, this will open…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4219b14aba62",
+          "title": "Industry Blackout wants DSPs to remove D4vd’s music catalogue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/industry-blackout-wants-dsps-to-remove-d4vds-music-catalogue/",
+          "category": "ia",
+          "published_at": "2026-04-23T12:40:00+00:00",
+          "summary": "Earlier this week, musician D4vd was charged with the murder of 14 year-old Celeste Rivas Hernandez, following a lengthy investigation by the Los Angeles District Attorney’s Office. The artist – real name David Burke – is facing three charges, including first degree murder,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6307f6d69ff7",
+          "title": "Canadian body Factor to invest $2m in local live-music sector",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/canadian-body-factor-to-invest-2m-in-local-live-music-sector/",
+          "category": "musique",
+          "published_at": "2026-04-23T12:40:00+00:00",
+          "summary": "How Canadian music is funded has become something of a controversial topic in recent years, with music-streaming services agitating furiously against a levy on their revenues to fund local content and creators. Here’s a story that’s less likely to ruffle feathers however. Factor…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1251b2d807a3",
+          "title": "Bandsintown inks its latest DSP deal – with Amazon Music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/bandsintown-inks-its-latest-dsp-deal-with-amazon-music/",
+          "category": "musique",
+          "published_at": "2026-04-23T12:40:00+00:00",
+          "summary": "Concert-discovery firm Bandsintown now has a full set of partnerships with the Big Four global streaming services, after announcing an Amazon Music deal this week. Its concert listings will now appear on artist profiles on Amazon Music, with the latter’s app also sending fans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de810673f383",
+          "title": "World’s new ‘Concert Kit’ will NOT be used for Bruno Mars tour",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/worlds-new-concert-kit-will-not-be-used-for-bruno-mars-tour/",
+          "category": "musique",
+          "published_at": "2026-04-23T12:37:00+00:00",
+          "summary": "Earlier this week, we wrote about ‘Concert Kit’, launched via a project called ‘World’ that was founded by OpenAI boss Sam Altman. It was a technology to help artists and their teams reserve a portion of their tickets for ‘verified human’ fans – the verification taking place in…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4e2971eb51f",
+          "title": "TuneCore is helping artists donate royalties to EarthPercent",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/tunecore-is-helping-artists-donate-royalties-to-earthpercent/",
+          "category": "ia",
+          "published_at": "2026-04-23T12:35:00+00:00",
+          "summary": "Nonprofit organisation EarthPercent has been working with a growing number of musicians, who donate a portion of their income to help fund conservation and climate programs. Now distributor TuneCore wants to help more artists join the movement. It has launched a campaign called…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb61ed3571bc",
+          "title": "More than a third of Apple Music uploads are now AI music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/more-than-a-third-of-apple-music-uploads-are-now-ai-music/",
+          "category": "musique",
+          "published_at": "2026-04-23T12:30:00+00:00",
+          "summary": "Deezer’s regular announcements about what percentage of its daily uploads are AI-generated music haven’t been matched by similar sharing from its bigger rivals. Until now, at least. We now have a corresponding number from Apple Music, courtesy of VP of Apple Music and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c60e23d2f0aa",
+          "title": "IMS report: Electronic music was a $15.1bn business in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/ims-report-electronic-music-was-a-15-1bn-business-in-2025/",
+          "category": "ia",
+          "published_at": "2026-04-23T12:30:00+00:00",
+          "summary": "It’s that time of the year again: when swathes of electronic-music execs hop on planes to the IMS Ibiza conference, and when the tie-in ‘IMS Electronic Music Business Report’ is published to calculate the size of their market. In 2025, that size was $15.1bn according to the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fba42db2f740",
+          "title": "Grammys On The Hill event focuses on three key AI-focused bills",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/23/grammys-on-the-hill-event-focuses-on-three-key-ai-focused-bills/",
+          "category": "ia",
+          "published_at": "2026-04-23T12:30:00+00:00",
+          "summary": "Today is the final day of ‘Grammys On The Hill 2026’ – the annual event where US industry body The Recording Academy takes musicians to Washington, D.C. to sway politicians towards its latest lobbying priorities. This year, those priorities centre on three pieces of proposed…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb03eac7ace2",
+          "title": "Katie Mae Miller and Chelsea Cloud appointed VPs within marketing division at AEG Presents",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/katie-mae-miller-and-chelsea-cloud-appointed-vps-within-marketing-division-at-aeg-presents/",
+          "category": "musique",
+          "published_at": "2026-04-23T11:42:42+00:00",
+          "summary": "Miller promoted to regional integrated marketing role; and Cloud joins from Universal Music Group to lead Goldenvoice strategy.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "60e5d3d5bf84",
           "title": "YouTube extends deepfake detection tool access to celebrities and talent agencies",
@@ -29,6 +624,16 @@
           "title": "Latin American dance label INVERSA launches with backing from Milk & Honey, ONErpm and M3 Music",
           "source": "Music Business Worldwide",
           "url": "https://www.musicbusinessworldwide.com/latin-american-dance-label-inversa-launches-with-backing-from-milk-honey-onerpm-and-m3-music/",
+          "category": "musique",
+          "published_at": "2026-04-23T11:30:38+00:00",
+          "summary": "19Clouds will be the first artist to release music through INVERSA and will also serve as a “creative decision-maker” and A&#038;R.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7fbc55257f3",
+          "title": "Latin American dance label INVERSA launches with investors Milk & Honey, ONErpm and M3 Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/latin-american-dance-label-inversa-launches-milk-honey-onerpm-m3-music/",
           "category": "musique",
           "published_at": "2026-04-23T11:30:38+00:00",
           "summary": "19Clouds will be the first artist to release music through INVERSA and will also serve as a “creative decision-maker” and A&#038;R.\nSource",
@@ -207,6 +812,16 @@
         {
           "id": "a6b7fbb81529",
           "title": "Apple résout une vulnérabilité qui a permis au FBI de récupérer des messages de Signal",
+          "source": "Next INpact",
+          "url": "https://next.ink/234934/apple-resout-une-vulnerabilite-qui-a-permis-au-fbi-de-recuperer-des-messages-de-signal/",
+          "category": "loi",
+          "published_at": "2026-04-23T09:19:06+00:00",
+          "summary": "Les récentes mises à jour de iOS et iPadOS bloquent la méthode d&#8217;extraction de données que le FBI a utilisée pour récupérer des messages Signal dans les notifications d&#8217;un iPhone. Apple vient de mettre à jour en urgence, ce mercredi 22 avril, ses systèmes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "efccb92f7026",
+          "title": "Apple corrige une vulnérabilité qui a permis au FBI de récupérer des messages de Signal",
           "source": "Next INpact",
           "url": "https://next.ink/234934/apple-resout-une-vulnerabilite-qui-a-permis-au-fbi-de-recuperer-des-messages-de-signal/",
           "category": "loi",
