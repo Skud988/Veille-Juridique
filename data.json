@@ -1,9 +1,424 @@
 {
-  "generated_at": "2026-04-26T10:33:16.050819+00:00",
+  "generated_at": "2026-04-27T10:26:55.535216+00:00",
   "days": [
+    {
+      "date": "2026-04-27",
+      "articles": [
+        {
+          "id": "f35f4d368895",
+          "title": "La scène choquante de The Last of Us Part 2 a fait débat chez Naughty Dog",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241053-la-scene-choquante-de-the-last-of-us-part-2-a-fait-debat-chez-naughty-dog.html",
+          "category": "ia",
+          "published_at": "2026-04-27T10:14:32+00:00",
+          "summary": "L'introduction de The Last of Us Part 2 s'articule autour d'une scène qui a choqué plus d'un fan, bien évidemment reprise dans la série diffusée sur HBO. Une scène qui ne faisait pas l'unanimité au sein de Naughty Dog.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fb5b8a93d4e",
+          "title": "Dans un contexte de crise, des CHU misent sur l’IA pour créer un « hôpital augmenté »",
+          "source": "Next INpact",
+          "url": "https://next.ink/235641/dans-un-contexte-de-crise-des-chu-misent-sur-lia-pour-creer-un-hopital-augmente/",
+          "category": "ia",
+          "published_at": "2026-04-27T10:09:36+00:00",
+          "summary": "Portée par des financements publics et des partenariats privés, l&#8217;intelligence artificielle s&#8217;impose dans les centres hospitaliers universitaires français. Alors que six établissements de santé sur dix utilisent déjà des outils d&#8217;IA, les stratégies…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5651b833f3d0",
+          "title": "Indie label group Futures Music raises $6m as it sets sights on catalog deals",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indie-label-group-futures-music-raises-6m-as-it-sets-sights-on-catalog-deals1/",
+          "category": "musique",
+          "published_at": "2026-04-27T10:09:00+00:00",
+          "summary": "Ben Blackburn, founder of Common Knowledge and manager of girl in red, is among the investors\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac33b955b10c",
+          "title": "Un voyageur temporel a-t-il vraiment prédit le tireur de Washington en 2023 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2240905-un-voyageur-temporel-a-t-il-vraiment-predit-le-tireur-de-washington-en-2023.html",
+          "category": "ia",
+          "published_at": "2026-04-27T10:04:48+00:00",
+          "summary": "En décembre 2023, un compte X a publié un message avec comme seul texte : « Cole Allen ». Après la fusillade visant Donald Trump au dîner des correspondants de la Maison-Blanche, ce tweet est devenu, pour la complosphère, la nouvelle « preuve » qu’un voyageur temporel se cache…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fa264ccd017",
+          "title": "Quels astronautes sont dans la Station spatiale internationale (ISS) en ce moment ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1292486-quels-astronautes-sont-dans-liss-en-ce-moment.html",
+          "category": "ia",
+          "published_at": "2026-04-27T10:02:31+00:00",
+          "summary": "Le nombre d’astronautes à bord de la Station spatiale internationale (ISS) évolue constamment au rythme des rotations d’équipages. Pour savoir qui se trouve dans la Station spatiale internationale, la NASA et ses partenaires tiennent un registre rigoureux de chaque mission.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4b9045f4e37",
+          "title": "Cette réplique Lego du Faucon Millenium à exposer est à -40 %",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241109-cette-replique-a-exposer-du-lego-faucon-millenium-est-a-40.html",
+          "category": "loi",
+          "published_at": "2026-04-27T09:48:02+00:00",
+          "summary": "[Deal du jour] Si vous avez envie d'un Lego Faucon Millenium sans vouloir investir dans le set à 849,99 €, ce petit modèle à exposer est en ce moment en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20c0dd451070",
+          "title": "« On a fait preuve d’arrogance » : le patron des batteries françaises ACC reconnaît ses erreurs face à la réalité industrielle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2241023-on-a-fait-preuve-darrogance-le-patron-des-batteries-francaises-acc-reconnait-ses-erreurs-face-a-la-realite-industrielle.html",
+          "category": "ia",
+          "published_at": "2026-04-27T09:42:55+00:00",
+          "summary": "L’Europe pensait pouvoir combler son retard sur les batteries. Les premiers industriels, comme l'entreprise ACC, découvrent une réalité bien plus complexe. Son patron admet des erreurs, tout en misant encore avec optimisme sur les années à venir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46996ba2b208",
+          "title": "Ils saturent votre attention pour infiltrer votre réseau : on décortique la campagne cybercriminelle « Snow »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2240967-ils-saturent-votre-attention-pour-infiltrer-votre-reseau-on-decortique-la-campagne-cybercriminelle-snow.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-27T09:33:37+00:00",
+          "summary": "Dans un rapport publié le 23 avril 2026, les chercheurs en cybersécurité de Mandiant ont disséqué les méthodes d’intrusion du groupe de hackers UNC6692. Leur stratégie ? Se positionner d’abord comme élément perturbateur, puis comme sauveur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cc906f1cb62",
+          "title": "TikTok’s Add to Music App tool surpasses 6B track saves in the past year",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktoks-add-to-music-app-tool-surpasses-6b-track-saves-in-the-past-year/",
+          "category": "musique",
+          "published_at": "2026-04-27T09:30:25+00:00",
+          "summary": "6 billion track saves translated to 'many, many billions more streams in repeat' on platforms like Spotify and Apple Music said TikTok\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d055d34295a9",
+          "title": "Netflix avec pub, Standard ou Premium : quel abonnement Netflix choisir en 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1615514-prix-netflix-quel-est-le-meilleur-tarif-dabonnement-pour-le-site-de-streaming.html",
+          "category": "ia",
+          "published_at": "2026-04-27T09:30:00+00:00",
+          "summary": "Entre la formule avec publicité, l'offre Standard et le forfait Premium, les tarifs et les options ont bien évolué en France. Qualité d'image 4K, écrans simultanés ou partage de compte : voici le guide complet des prix Netflix pour choisir le bon abonnement en 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "744bae097767",
+          "title": "Après 560 jours d’absence, la fusée lourde de SpaceX fait son grand retour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2241005-apres-560-jours-dabsence-la-fusee-geante-de-spacex-fait-son-grand-retour.html",
+          "category": "ia",
+          "published_at": "2026-04-27T09:21:00+00:00",
+          "summary": "La fusée lourde de SpaceX fait son grand retour sur les pas de tir. Après plus d'un an et demi d'absence, le Falcon Heavy décolle ce lundi 27 avril 2026 pour mettre en orbite le satellite de télécommunications Viasat-3 F3. Le lancement est à suivre en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8f40c80a324",
+          "title": "Jusqu’à 595 km d’autonomie : Audi revoit son SUV électrique best-seller",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2240887-jusqua-595-km-dautonomie-audi-revoit-son-suv-electrique-best-seller.html",
+          "category": "ia",
+          "published_at": "2026-04-27T09:00:00+00:00",
+          "summary": "C'est l'heure du restylage pour l'Audi Q4 e-tron. Le SUV compact de la marque aux anneaux évolue sagement, mais sûrement, et vient désormais titiller la barre des 600 km d'autonomie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e74a3216e36e",
+          "title": "☕️ France Titres : le portail de l’ANTS est fermé pour maintenance depuis vendredi",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/france-titres-le-portail-de-lants-est-ferme-pour-maintenance-depuis-vendredi/",
+          "category": "ia",
+          "published_at": "2026-04-27T08:55:01+00:00",
+          "summary": "S&#8217;agissait-il du piratage de trop ? Le portail France Titres (ants.gouv.fr) a été placé en maintenance technique à compter du vendredi 24 avril, à 19h30 : «&#160;L&#8217;accès à votre compte est momentanément indisponible. L’ANTS poursuit les mesures de renforcement de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf833f3cde4e",
+          "title": "Bouygues Telecom dévoile Mega BiG, son forfait concurrent de Free Max… avec trois grosses différences",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2240957-bouygues-telecom-devoile-mega-big-son-forfait-concurrent-de-free-max-avec-trois-grosses-differences.html",
+          "category": "ia",
+          "published_at": "2026-04-27T08:51:33+00:00",
+          "summary": "Commercialisé à 19,99 euros pour les abonnés Bbox et 29,99 euros pour le grand public, le forfait Mega BiG de Bouygues Telecom s'adresse aux voyageurs en quête d'un forfait utilisable dans plus de 150 pays. Mais contrairement à son équivalent chez Free Mobile (Free Max), il…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "edf13052f6b6",
+          "title": "Après le succès de Battlefield 6, Hollywood prépare enfin l’adaptation ultime",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2240889-apres-le-succes-de-battlefield-6-hollywood-prepare-enfin-ladaptation-ultime.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-27T08:50:00+00:00",
+          "summary": "Michael B. Jordan et Christopher McQuarrie s’associent pour adapter à l'écran la célèbre franchise de jeux vidéo Battlefield. Entre l’acteur oscarisé de Sinners et le réalisateur de Mission: Impossible, ce long-métrage s'annonce comme l'un des événements cinématographiques les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca802db9ad3c",
+          "title": "Un acteur de Clair Obscur: Expedition 33 pense que les jeux vidéo n’ont pas besoin d’être adaptés en film ou en série",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2240875-un-acteur-de-clair-obscur-expedition-33-pense-que-les-jeux-video-nont-pas-besoin-detre-adaptes-en-film-ou-en-serie.html",
+          "category": "ia",
+          "published_at": "2026-04-27T08:47:00+00:00",
+          "summary": "Ben Starr, acteur qui a incarné Verso dans Clair Obscur: Expedition 33, s'est exprimé sur le besoin d'adapter des jeux vidéo en série et/ou en film. Selon lui, ce n'est pas du tout nécessaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fa768976c76",
+          "title": "Le créateur de Mario et Zelda a estimé qu’il était du « devoir de Nintendo de produire des alternatives à GTA »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2240893-le-createur-de-mario-et-zelda-a-estime-quil-etait-du-devoir-de-nintendo-de-produire-des-alternatives-a-gta.html",
+          "category": "ia",
+          "published_at": "2026-04-27T08:39:07+00:00",
+          "summary": "Il y a un avant et un après Grand Theft Auto III. Suite au succès du jeu de Rockstar, qui a popularisé le genre, Nintendo a fait un choix stratégique clair à l'époque : ne pas suivre cette tendance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d95fdd16af02",
+          "title": "L’usage du téléphone au volant entraînera la suspension immédiate du permis dans certains départements",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2240883-lusage-du-telephone-au-volant-entrainera-la-suspension-immediate-du-permis-dans-certains-departements.html",
+          "category": "ia",
+          "published_at": "2026-04-27T08:27:59+00:00",
+          "summary": "Certains départements en France métropolitaine vont connaître un durcissement des règles du Code de la route. À partir du 1er mai 2026, le simple fait d'utiliser son smartphone entraînera la suspension immédiate du permis de conduire pour l'automobiliste pris sur le fait.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba58ba479244",
+          "title": "☕️ XChat : Elon Musk lance son concurrent à Signal ou WhatsApp sur iOS",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/xchat-elon-musk-lance-son-concurrent-a-signal-ou-whatsapp-sur-ios/",
+          "category": "ia",
+          "published_at": "2026-04-27T08:12:01+00:00",
+          "summary": "En attendant que X devienne la «&#160;super app&#160;» bonne à tout faire dont rêve Elon Musk, le réseau social vient de lancer sa messagerie, XChat, sous forme d&#8217;application dédiée. Cette première mouture publique est réservée aux utilisateurs d&#8217;iPhone sous iOS 26.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a35c09192f77",
+          "title": "Olivia Rodrigo Surprises Fans With ‘Drop Dead’ Performance at NYC Open Mic",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-drop-dead-nyc-open-mic-1236232284/",
+          "category": "ia",
+          "published_at": "2026-04-27T08:00:43+00:00",
+          "summary": "The appearance took place at Pete’s Candy Store in Williamsburg.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d13f400ea715",
+          "title": "Le premier teaser de la suite de l’excellent Alien: Isolation est déjà flippant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2240867-le-premier-teaser-de-la-suite-de-lexcellent-alien-isolation-est-deja-flippant.html",
+          "category": "ia",
+          "published_at": "2026-04-27T07:26:28+00:00",
+          "summary": "Sans crier gare, Sega a diffusé un premier teaser pour Alien: Isolation 2, la suite de l'un des meilleurs jeux d'horreur jamais réalisés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4d3bd65a376",
+          "title": "Björn Ulvaeus warns majors over AI deals: ‘We have to be consulted’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/27/bjorn-ulvaeus-warns-majors-over-ai-deals-we-have-to-be-consulted/",
+          "category": "musique",
+          "published_at": "2026-04-27T07:21:53+00:00",
+          "summary": "Last week saw the first Stockholm Music Week, a conference intersecting music industry, business, tech and academics.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a239e92bf1f",
+          "title": "Internet haut débit par satellite : voici une alternative française qui défie les géants étrangers [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2231549-internet-haut-debit-par-satellite-voici-une-alternative-francaise-qui-defie-les-geants-etrangers.html",
+          "category": "ia",
+          "published_at": "2026-04-27T06:55:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Nordnet\n\nJusqu’à 200 Mb/s de débit et des options intéressantes pour les familles comme les professionnels : la connexion haut débit par satellite de Nordnet est un service 100 % français qui offre une solution viable pour les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b31eb01a2c1b",
+          "title": "Claude Code réfléchissait trop, puis plus assez : Anthropic corrige le coup de mou",
+          "source": "Next INpact",
+          "url": "https://next.ink/235482/claude-code-reflechissait-trop-puis-plus-assez-anthropic-corrige-le-coup-de-mou/",
+          "category": "ia",
+          "published_at": "2026-04-27T06:52:29+00:00",
+          "summary": "Le coup de mou qui a affecté Claude Code ces dernières semaines n&#8217;était pas une vue de l&#8217;esprit. Anthropic a constaté l&#8217;existence de problèmes, et les a corrigés. Claude Code a connu des soucis de fonctionnement entre la fin du mois de mars et mi-avril. Des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a8dcddf34e4",
+          "title": "Vote électronique en AG d’assos, copros, primaires, etc. : les recommandations de la CNIL",
+          "source": "Next INpact",
+          "url": "https://next.ink/235341/vote-electronique-en-ag-dassos-copros-primaires-etc-les-recommandations-de-la-cnil/",
+          "category": "ia",
+          "published_at": "2026-04-27T06:13:00+00:00",
+          "summary": "La pratique du vote par correspondance électronique se développe de plus en plus. Ce constat posé, la CNIL a émis une nouvelle recommandation pour proposer un cadre plus clair sur les objectifs de sécurité. Celle-ci est applicable pour tout nouveau scrutin dont la préparation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5b6c8c87b37",
+          "title": "Gmail, Drive, Meet… Préparez-vous à du changement pour les services Google",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2240855-gmail-drive-meet-preparez-vous-a-du-changement-pour-les-services-google.html",
+          "category": "ia",
+          "published_at": "2026-04-27T06:00:41+00:00",
+          "summary": "Google préparerait une refonte majeure des icônes de ses applications avec des dégradés inspirés de Gemini et de sa nouvelle identité visuelle. Tous les services pourraient évoluer dans les prochaines semaines.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1426ccd9ebe9",
+          "title": "Music, Sports, and the Fans Who Got There First",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/27/music-sports-and-the-fans-who-got-there-first/",
+          "category": "musique",
+          "published_at": "2026-04-27T05:53:00+00:00",
+          "summary": "A couple of years ago, I was standing in a live music venue in my hometown of Paris, France and tears started streaming down my face uncontrollably. The artist on [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06bf1c0d56af",
+          "title": "☕️ Le canadien Cohere et l’allemand Aleph Alpha forment une alternative IA aux États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/le-canadien-cohere-et-lallemand-aleph-alpha-forment-une-alternative-ia-aux-etats-unis/",
+          "category": "ia",
+          "published_at": "2026-04-27T05:47:36+00:00",
+          "summary": "Le Canadien Cohere acquiert l&#8217;Allemand Aleph Alpha afin de construire une alternative IA aux géants américains et chinois. Un dossier surveillé de près par Ottawa et Berlin. Cohere, fondée en 2019 à Toronto par d&#8217;anciens chercheurs de Google, développe de grands…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6dc43cf3946e",
+          "title": "David Lee Roth Joins Teddy Swims at Stagecoach for ‘Jump’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/david-lee-roth-teddy-swims-stagecoach-1236232180/",
+          "category": "ia",
+          "published_at": "2026-04-27T05:42:54+00:00",
+          "summary": "The collaboration marked the pair's third consecutive festival appearance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "572c37860a2c",
+          "title": "Nedra Talley Ross, The Ronettes’ Last Surviving Member, Dies at 80",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ronettes-nedra-talley-ross-death-1236232014/",
+          "category": "musique",
+          "published_at": "2026-04-27T02:20:48+00:00",
+          "summary": "Alongside her cousins Ronnie and Estelle, she recorded hits in the '60s that live on as classic pop staples, most notably the influential \"Be My Baby.\"",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-26",
       "articles": [
+        {
+          "id": "7fb192656d4e",
+          "title": "Fans Choose Noah Kahan’s ‘The Great Divide’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/noah-kahan-the-great-divide-favorite-new-music-poll-results-1236231941/",
+          "category": "musique",
+          "published_at": "2026-04-26T23:50:23+00:00",
+          "summary": "The singer-songwriter's new album brought in 60% of the vote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5328b35d796a",
+          "title": "El Último de la Fila Return After 30 Years to Prove Their Songs Still Belong to Everyone",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/el-ultimo-de-la-fila-returns-30-years-reunion-tour-recap-1236231967/",
+          "category": "ia",
+          "published_at": "2026-04-26T22:27:33+00:00",
+          "summary": "More than 18,500 people joined Manolo García and Quimi Portet for the launch of their tour in Spain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5e57160ab02",
+          "title": "The Night ‘Ghetto Singer’ Ryan Castro Became a Singer Who Fills Stadiums",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/ryan-castro-stadium-show-medellin-colombia-review-1236231947/",
+          "category": "musique",
+          "published_at": "2026-04-26T22:05:07+00:00",
+          "summary": "Castro performed on Saturday at the Atanasio Girardot Stadium in Medellín, Colombia, giving the most important concert of his career alongside guests including Maluma, Feid and J Balvin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a45f90dc6063",
+          "title": "Foo Fighters Debut ‘Caught in the Echo’ & ‘Child Actor’ Live on ‘SNL UK’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/foo-fighters-snl-uk-caught-in-the-echo-child-actor-live-1236231888/",
+          "category": "musique",
+          "published_at": "2026-04-26T21:18:50+00:00",
+          "summary": "Before performing two new album tracks, frontman Dave Grohl was spotted in a cameo during Saturday night's monologue.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fdb50b916fc",
+          "title": "After Just One Weekend, Michael Jackson Film Ranks Among 10 Highest-Grossing Music Biopics Worldwide: Find Out Where",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+          "category": "musique",
+          "published_at": "2026-04-26T20:18:38+00:00",
+          "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e77d285d95d",
+          "title": "Where Does ‘KPop Demon Hunters’ Rank Among Soundtracks With Most Weeks in Billboard 200 Top 10?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/soundtracks-most-weeks-in-billboard-200-top-10-full-list/",
+          "category": "musique",
+          "published_at": "2026-04-26T19:22:16+00:00",
+          "summary": "Here's every soundtrack with 25 or more weeks in the top 10 since 1963, when separate mono and stereo charts were combined.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c8d9404cd03",
+          "title": "Ella Langley’s ‘Dandelion’ Spends Second Week Atop Billboard 200",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/ella-langley-dandelion-second-week-number-one-billboard-200-1236231740/",
+          "category": "musique",
+          "published_at": "2026-04-26T19:00:02+00:00",
+          "summary": "Plus: TOMORROW X TOGETHER has the week’s top debut and Justin Bieber’s SWAG and the KPop Demon Hunters soundtrack surge.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ceb302485068",
+          "title": "La Petite Maison dans la Prairie : tout savoir sur le reboot Netflix de 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236235-la-petite-maison-dans-la-prairie-tout-savoir-sur-le-reboot-netflix-de-2026.html",
+          "category": "justice",
+          "published_at": "2026-04-26T16:30:00+00:00",
+          "summary": "C’est officiel, la famille Ingalls s’apprête à conquérir une nouvelle génération. Netflix a confirmé le retour de la licence culte&nbsp;La Petite Maison dans la Prairie&nbsp;pour un reboot moderne. Entre nostalgie et renouveau, voici tout ce qu’il faut savoir sur cet événement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e05013357b1f",
+          "title": "La plus puissante version d’Ariane 6 est prête à s’envoler pour la deuxième fois d’affilée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2237425-la-plus-puissante-version-dariane-6-est-prete-a-senvoler-pour-la-deuxieme-fois-daffilee.html",
+          "category": "ia",
+          "published_at": "2026-04-26T15:02:00+00:00",
+          "summary": "Retour aux affaires pour Ariane 6. Quelques semaines seulement après le précédent vol, la fusée européenne s'apprête à s'élancer de nouveau dans le ciel guyanais. Là encore, c'est la configuration lourde, dite Ariane 64, qui sera utilisée. Il s'agit de la version la plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1ecbc369f2f",
+          "title": "Le prochain jeu de cette grosse licence de Nintendo est maintenant en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2240563-le-prochain-jeu-de-cette-grosse-licence-de-nintendo-est-maintenant-en-precommande.html",
+          "category": "justice",
+          "published_at": "2026-04-26T14:00:00+00:00",
+          "summary": "[Précommande] Fraîchement annoncé, Splatoon Raiders, le spin-off de Splatoon, attendu exclusivement sur Switch 2, est déjà disponible en précommande.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe71fa5949ab",
+          "title": "Des manchots pour dompter l’IA ? Cette méthode casse le mystère derrière l’effet « boîte noire »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2240433-des-manchots-pour-dompter-lia-cette-methode-casse-le-mystere-derriere-leffet-boite-noire.html",
+          "category": "ia",
+          "published_at": "2026-04-26T11:31:00+00:00",
+          "summary": "La plupart des algorithmes performants actuels – notamment l’apprentissage profond (deep learning) et ses réseaux de neurones – fonctionnent comme des boîtes noires. On sait qu’ils donnent de bons résultats, mais impossible de comprendre leur logique interne. Ceci pose problème…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "8ddca9a2dbdd",
           "title": "Following Delay Due To High Winds, Lainey Wilson Brings Masterful Headlining Set to Stagecoach on Saturday Night",
