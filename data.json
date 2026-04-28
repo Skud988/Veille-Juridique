@@ -1,9 +1,584 @@
 {
-  "generated_at": "2026-04-27T10:26:55.535216+00:00",
+  "generated_at": "2026-04-28T10:26:04.785894+00:00",
   "days": [
+    {
+      "date": "2026-04-28",
+      "articles": [
+        {
+          "id": "17fdb81d9931",
+          "title": "Commerce de détail : la CNIL approuve le code de conduite porté par l’Alliance du Commerce",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/la-cnil-approuve-le-code-de-conduite-porte-par-lalliance-du-commerce",
+          "category": "ia",
+          "published_at": "2026-04-28T12:00:00+00:00",
+          "summary": "Ce code&amp;nbsp;de&amp;nbsp;conduite aide les commerçants français du secteur de l’habillement et de la chaussure à s’engager en faveur de la protection de leurs clients. Il traduit concrètement les exigences du RGPD et renforce la protection des données dans la vente et la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c9762ebfc0c",
+          "title": "Call of Duty : le film tant attendu est déjà au cœur d’un gros bad buzz",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242275-call-of-duty-le-film-tant-attendu-est-deja-au-coeur-dun-gros-bad-buzz.html",
+          "category": "ia",
+          "published_at": "2026-04-28T10:15:55+00:00",
+          "summary": "À peine nommé par Paramount et Microsoft pour porter la légendaire franchise Call of Duty sur grand écran, le réalisateur Peter Berg se retrouve au cœur d’une polémique majeure. En cause, des déclarations passées particulièrement virulentes, dans lesquelles il qualifiait les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7411722651c",
+          "title": "Attention, le choc entre le PSG et le Bayern Munich n’est pas diffusé sur Canal+",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242245-attention-le-choc-entre-le-psg-et-le-bayern-munich-nest-pas-diffuse-sur-canal.html",
+          "category": "ia",
+          "published_at": "2026-04-28T10:10:43+00:00",
+          "summary": "C'est le choc des titans. Ce mardi 28 avril 2026, deux géants européens croisent le fer en demi-finale aller de Ligue des champions. D'un côté, le PSG, tenant du titre. De l'autre, le Bayern Munich, qui réalise une saison époustouflante. Où voir ce match ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c227edb78cce",
+          "title": "« Vibe mathing » : un amateur armé de ChatGPT a craqué une énigme mathématique vieille de 60 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242081-vibe-mathing-un-amateur-arme-de-chatgpt-a-craque-une-enigme-mathematique-vieille-de-60-ans.html",
+          "category": "ia",
+          "published_at": "2026-04-28T10:04:59+00:00",
+          "summary": "Un amateur de 23 ans a réussi à résoudre une énigme mathématique vieille de 60 ans grâce à une simple conversation avec ChatGPT. En contournant les biais académiques traditionnels, le modèle GPT-5.4 Pro prouve que l'IA est capable de fulgurances créatives.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc6863db9c5d",
+          "title": "La Russie accusée du « piratage » de plusieurs centaines de comptes Signal",
+          "source": "Next INpact",
+          "url": "https://next.ink/235837/la-russie-accusee-du-piratage-de-plusieurs-centaines-de-comptes-signal/",
+          "category": "ia",
+          "published_at": "2026-04-28T10:01:28+00:00",
+          "summary": "L’Allemagne accuserait la Russie d’être derrière la cyberattaque de comptes Signal de personnalités politiques (notamment des ministres), de journalistes, de militaires, de membres du renseignement, etc. Cela fait des mois que des messageries sont ciblées, pas seulement Signal.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee844063e976",
+          "title": "HYBE’s Taeho Park on expanding the superfan market via ‘transmedia’ content – and why the firm’s NEB unit is its ‘future business frontier’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybes-taeho-park-on-expanding-the-superfan-market-via-transmedia-content-and-why-the-firms-neb-unit-is-its-future-business-frontier/",
+          "category": "ia",
+          "published_at": "2026-04-28T09:58:35+00:00",
+          "summary": "MBW's World Leaders series meets Taeho Park, who leads the NEXT ENTERTAINMENT BUSINESS (NEB) and Data Strategy Center units at Korean entertainment giant HYBE, the home of BTS\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b43d8121aeaf",
+          "title": "‘American Idol’ Enters Its Taylor Swift Era With Theme Night",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/american-idol-taylor-swift-night-1236233268/",
+          "category": "ia",
+          "published_at": "2026-04-28T09:44:41+00:00",
+          "summary": "Keyla Richardson drew particular attention for her take on “Lover,” reworking the song into something that even guest judge Nikki Glaser said felt entirely new.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f43f218bfc7",
+          "title": "Sosh lance une offre fibre avec une Livebox 7 et pas de téléphone fixe : une belle réponse à B&You Pure Fibre et à la Freebox Pop S",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242179-sosh-lance-une-offre-fibre-avec-une-livebox-7-et-pas-de-telephone-fixe-une-belle-reponse-a-byou-pure-fibre-et-a-la-freebox-pop-s.html",
+          "category": "ia",
+          "published_at": "2026-04-28T09:36:29+00:00",
+          "summary": "Pour 26,99 euros par mois, Sosh propose désormais un forfait «&nbsp;Sosh Boost Fibre » avec une Livebox 7 SE en Wi-Fi 7, un débit descendant de 8 Gbit/s et un débit montant de 2 Gbit/s. C'est la première fois que la filiale d'Orange lance une offre sans téléphone fixe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfe5624a470c",
+          "title": "« C’est entièrement la faute de ce type » : un agent IA ravage une base de données et pose la question que les vibe codeurs évitent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2242001-cest-entierement-la-faute-de-ce-type-un-agent-ia-ravage-une-base-de-donnees-et-pose-la-question-que-les-vibe-codeurs-evitent.html",
+          "category": "ia",
+          "published_at": "2026-04-28T09:35:51+00:00",
+          "summary": "Depuis le 25 avril 2026 et la publication de son témoignage sur X, Jer Crane est au cœur d'un débat qui embrase la communauté tech. Le fondateur de PocketOS a vu trois mois de données clients s'évaporer en 9 secondes, la faute à un agent IA. L'entrepreneur tient pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59e30c14b9a7",
+          "title": "Cette start-up veut fournir de l’électricité depuis l’espace pour envoyer à des data centers",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2242201-cette-start-up-veut-fournir-de-lelectricite-depuis-lespace-pour-envoyer-a-des-data-centers.html",
+          "category": "ia",
+          "published_at": "2026-04-28T09:25:26+00:00",
+          "summary": "Overview Energy compte sur des satellites pour récolter de l'énergie solaire depuis l'espace. Cette manne énergétique inépuisable servirait ensuite à alimenter électriquement Meta pour faire tourner ses data centers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1b934ffe6f6",
+          "title": "Ne vendez plus de logiciels et remplacez vos employés : le nouveau dogme des startups de la Silicon Valley",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2241967-ne-vendez-plus-de-logiciels-et-remplacez-vos-employes-le-nouveau-dogme-des-startups-de-la-silicon-valley.html",
+          "category": "ia",
+          "published_at": "2026-04-28T09:21:07+00:00",
+          "summary": "Selon sa nouvelle liste de « Requests for Startups » publiée le 27 avril 2026, Y Combinator acte un basculement : l’intelligence artificielle n’est plus un simple ajout, mais le socle sur lequel construire entreprises, services et technologies. Une vision « AI-native » qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "875f0da7115a",
+          "title": "Police seize nearly 6,500 counterfeit vinyl records in UK raid",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/police-seize-nearly-6500-counterfeit-vinyl-records-in-uk-raid/",
+          "category": "ia",
+          "published_at": "2026-04-28T09:10:10+00:00",
+          "summary": "The records carry an estimated retail loss of GBP £259,920 ($351,372), according to investigators.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4e08b3a02bd",
+          "title": "Aphelion séduit par son histoire touchante, mais agace par son gameplay pénible",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241335-aphelion-seduit-par-son-histoire-touchante-mais-agace-par-son-gameplay-penible.html",
+          "category": "ia",
+          "published_at": "2026-04-28T09:00:00+00:00",
+          "summary": "Développé par Don't Nod, en partenariat avec l'Agence Spatiale Européenne (ESA), Aphelion est un jeu narratif qui nous envoie sur une planète inconnue, en quête d'un salut pour l'humanité. L'histoire captive, mais le gameplay s'avère bancal et pénible. Notre test.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12333db74da6",
+          "title": "Le héros de Resident Evil Requiem s’appelle Leon grâce à un film culte français",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241985-le-heros-de-resident-evil-requiem-sappelle-leon-grace-a-un-film-culte-francais.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-28T08:54:20+00:00",
+          "summary": "Vous vous êtes toujours demandés pourquoi Leon s'appelle Leon dans les jeux Resident Evil ? Après des années de théories, Hideki Kamiya, directeur du deuxième épisode, a révélé la grande source d'inspiration.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45c6834a65ca",
+          "title": "Les jeux PS5 dématérialisés bloqués après 30 jours ? PlayStation suscite une nouvelle polémique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242065-les-jeux-ps5-dematerialises-bloques-apres-30-jours-playstation-suscite-une-nouvelle-polemique.html",
+          "category": "ia",
+          "published_at": "2026-04-28T08:48:02+00:00",
+          "summary": "PlayStation est victime d'une nouvelle polémique : les jeux dématérialisés achetés récemment forcent à se connecter à Internet au bout de 30 jours. Sony n'a pas encore dit s'il s'agit d'un bug ou d'une décision commercialisation, mais la polémique rappelle que seuls les jeux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1935561da38",
+          "title": "Django & Zorro : le mashup de Tarantino le plus fou arrive au cinéma",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242025-django-zorro-le-mashup-de-tarantino-le-plus-fou-arrive-au-cinema.html",
+          "category": "ia",
+          "published_at": "2026-04-28T08:44:09+00:00",
+          "summary": "C’est l'un des projets les plus fous d'Hollywood qui sort enfin de l'enfer du développement. Sony Pictures a officiellement lancé la production de Django/Zorro, un film mashup basé sur la bande dessinée de Quentin Tarantino. Pour diriger l’écriture, le studio a fait appel à un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "25e73a181f2e",
+          "title": "Un remake du premier Assassin’s Creed serait en préparation, et il serait 100 % justifié",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241963-un-remake-du-premier-assassins-creed-serait-en-preparation-et-il-serait-100-justifie.html",
+          "category": "justice",
+          "published_at": "2026-04-28T08:19:50+00:00",
+          "summary": "Le remake d’Assassin’s Creed Black Flag est assurément une bonne nouvelle, mais un autre épisode de la licence mériterait tout autant, sinon davantage, de revenir sur le devant de la scène. De nouvelles rumeurs évoquent, une fois encore, un potentiel remake du tout premier opus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "649191bb363a",
+          "title": "SpaceX et Blue Origin contraignent la NASA à revoir ses plans pour Artémis III",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2241969-spacex-et-blue-origin-contraignent-la-nasa-a-revoir-ses-plans-pour-artemis-iii.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-28T07:57:28+00:00",
+          "summary": "Comme les missions précédentes, Artémis III connait à son tour un glissement de calendrier. Ce vol, qui doit également impliquer des astronautes lors d'une manœuvre inédite, va connaitre un retard de plusieurs mois.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a77fc0289e5",
+          "title": "L’Europe veut forcer Android à s’ouvrir à ChatGPT et Claude : Google n’est pas content",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2241947-leurope-veut-forcer-android-a-souvrir-a-chatgpt-et-claude-google-nest-pas-content.html",
+          "category": "ia",
+          "published_at": "2026-04-28T07:56:26+00:00",
+          "summary": "La Commission européenne veut forcer Google à ouvrir Android aux IA concurrentes de Gemini. Elles pourraient ainsi accéder aux mêmes fonctions que l'assistant préinstallé sur tous les téléphones (accès aux messages, aux contenus à l'écran, aux intégrations système…). Google…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "112a0fdfaf13",
+          "title": "Un brouillon IETF propose de passer à IPv8, pourquoi pas IPv6 en émojis ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/235751/un-brouillon-ietf-propose-de-passer-a-ipv8-et-pourquoi-pas-ipv6-en-emojis/",
+          "category": "ia",
+          "published_at": "2026-04-28T07:48:00+00:00",
+          "summary": "IPv6 bientôt dépassé par un nouveau protocole&#160;: IPv8&#160;? Non… La publication d’un brouillon sur le site de l’IETF (organisme de normalisation des standards Internet) en a enflammé certains, pour rien. Ce n’est pas le premier « protocole » du genre, ni le dernier. Publier…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d552dff407a",
+          "title": "La manette Steam Controller est chère, mais c’est normal",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241951-la-manette-steam-controller-est-chere-mais-cest-normal.html",
+          "category": "ia",
+          "published_at": "2026-04-28T07:32:02+00:00",
+          "summary": "Valve a annoncé les modalités de lancement pour son Steam Controller, sa nouvelle manette de jeu. Elle sera disponible à compter du 4 mai 2026, moyennant un prix de quasiment 100 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88275de1093b",
+          "title": "GitHub Copilot passe à une facturation à l’usage à partir du 1er juin",
+          "source": "Next INpact",
+          "url": "https://next.ink/235803/github-copilot-passe-a-une-facturation-a-lusage-a-partir-du-1er-juin/",
+          "category": "ia",
+          "published_at": "2026-04-28T07:26:10+00:00",
+          "summary": "Une semaine après avoir restreint la souscription de nouveaux abonnements individuels, Microsoft annonce le passage prochain de GitHub Copilot à une tarification basée sur l&#8217;usage réel. L&#8217;utilisateur n&#8217;aura donc plus accès aux modèles d&#8217;IA générative une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22b722d9411c",
+          "title": "L’Europe veut forcer Google à ouvrir Android tout entier aux assistants IA rivaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/235790/leurope-veut-forcer-google-a-ouvrir-android-tout-entier-aux-assistants-ia-rivaux/",
+          "category": "ia",
+          "published_at": "2026-04-28T06:54:03+00:00",
+          "summary": "Un nouveau front réglementaire contre Google s&#8217;ouvre dans l&#8217;Union européenne. La Commission veut ouvrir Android à la concurrence IA, en vertu du règlement sur les marchés numériques (DMA). Premier visé : Gemini. Ce n&#8217;est pas une enquête formelle pour infraction…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f0b9b5abdfc",
+          "title": "Leapmotor envisage de lancer une seconde marque plus premium",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2241953-leapmotor-envisage-de-lancer-une-seconde-marque-plus-premium.html",
+          "category": "ia",
+          "published_at": "2026-04-28T06:51:00+00:00",
+          "summary": "La jeune marque chinoise Leapmotor envisagerait déjà d’agrandir son portefeuille de marques en chassant sur le créneau des véhicules premium.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b2ae1234899",
+          "title": "Buffalo Traffic Jam Announce Debut Australia and New Zealand Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/buffalo-traffic-jam-australia-new-zealand-tour-1236233255/",
+          "category": "ia",
+          "published_at": "2026-04-28T06:39:35+00:00",
+          "summary": "The dates mark the duo’s first performances in both territories, arriving on the heels of a sold-out U.S. tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43e1b5fec57a",
+          "title": "Sans attendre la Steam Machine, Valve lance sa manette Steam Controller à 99 euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/235770/sans-attendre-la-steam-machine-valve-lance-sa-manette-steam-controller-a-99-euros/",
+          "category": "ia",
+          "published_at": "2026-04-28T06:08:12+00:00",
+          "summary": "La manette Steam Controller a finalement obtenu son bon de sortie et un prix : le 4 mai, pour 99&#160;euros. La console de salon Steam Machine et le casque VR Steam Frame attendront encore un peu. En novembre dernier, Valve faisait feu de tout bois en présentant rien moins que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a107b40f14ac",
+          "title": "Votre iPhone 17 ne charge plus ? Apple serait victime d’un bug inquiétant (mais facile à réparer)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2241463-votre-iphone-17-ne-charge-plus-apple-serait-victime-dun-bug-inquietant-mais-facile-a-reparer.html",
+          "category": "ia",
+          "published_at": "2026-04-28T05:43:35+00:00",
+          "summary": "D'après une découverte de 9to5mac, certains iPhone 17 et iPhone Air peuvent refuser de redémarrer si leur batterie est tombée à 0 %. L'écran reste noir même avec un câble USB-C branché. La solution est en réalité toute simple : il faut utiliser un chargeur sans-fil pendant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a890a1096649",
+          "title": "Morgan Evans Set for Intimate Nova’s Red Room Performance in Sydney",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/morgan-evans-nova-red-room-sydney-1236233247/",
+          "category": "ia",
+          "published_at": "2026-04-28T04:43:00+00:00",
+          "summary": "The ARIA Award-winning country artist will take the stage on May 15.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e59291131e29",
+          "title": "Mark Ronson to Receive Honorary Clio Award",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/mark-ronson-honorary-clio-award-2026-1236233233/",
+          "category": "ia",
+          "published_at": "2026-04-28T02:23:28+00:00",
+          "summary": "Keegan-Michael Key will host the event, which will be held May 12 at Cipriani in New York City.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94463bf8a454",
+          "title": "Josh Groban to Get ‘Closer’ to His Fans With a Star on Hollywood Walk of Fame",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/josh-groban-hollywood-walk-of-fame-star-ceremony-1236233146/",
+          "category": "musique",
+          "published_at": "2026-04-28T00:18:35+00:00",
+          "summary": "The ceremony is two days before the release of his new album Cinematic, and two months before the start of a tour with special guest Jennifer Hudson.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a38fc49739f",
+          "title": "Zach Bryan Responds to ‘Karens’ Complaining About His Nebraska Concert Being Cut Short for Lightning",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/zach-bryan-responds-complaints-about-cutting-concert-short-1236233070/",
+          "category": "ia",
+          "published_at": "2026-04-28T00:16:22+00:00",
+          "summary": "Some fans on social media weren't happy that the country star had to delay and then cut short his show over the weekend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dab53330c60a",
+          "title": "Inside Madonna’s ‘Club Confessions’ Dance Party: Setting the Scene of West Hollywood’s Hottest Ticket",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/madonna-confessions-dance-party-inside-pop-shop-podcast-1236232807/",
+          "category": "musique",
+          "published_at": "2026-04-28T00:00:00+00:00",
+          "summary": "On the new Billboard Pop Shop Podcast, Katie &#38; Keith take listeners inside The Abbey as Madonna previews unreleased Confessions II tracks.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-27",
       "articles": [
+        {
+          "id": "c2da7c5f4886",
+          "title": "Nia Long Reveals Her Favorite Rap Lyric Written About Her",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/nia-long-reveals-favorite-rap-lyric-written-about-her-1236233007/",
+          "category": "musique",
+          "published_at": "2026-04-27T22:55:03+00:00",
+          "summary": "Rappers have been mentioning the actress in their music for about 30 years.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3d9e757db5e",
+          "title": "Spotify strikes Peloton partnership to launch fitness and wellness content for Premium subscribers",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-strikes-peloton-partnership-to-launch-fitness-and-wellness-content-for-premium-subscribers/",
+          "category": "musique",
+          "published_at": "2026-04-27T22:00:39+00:00",
+          "summary": "Deal marks Spotify’s expansion into guided wellness experiences as Peloton pushes further into platform-agnostic distribution strategy.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cef74db6fbdc",
+          "title": "Quand pourrez-vous jouer à la nouvelle map d’ARC Raiders ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241347-quand-pourrez-vous-jouer-a-la-nouvelle-map-darc-raiders.html",
+          "category": "ia",
+          "published_at": "2026-04-27T19:30:03+00:00",
+          "summary": "La mise à jour tant attendue d’ARC Raiders va enfin avoir lieu avec l'arrivée d'une toute nouvelle carte. Si vous attendiez ce moment pour relancer l’extraction shooter d’Embark Studios, voici tout ce qu’il faut savoir sur son contenu et son heure de sortie en France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6353bd00950",
+          "title": "« Œil pour œil, fils pour fils » : le duel plus tragique de House of the Dragon se précise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241627-oeil-pour-oeil-fils-pour-fils-le-duel-plus-tragique-de-house-of-the-dragon-se-precise.html",
+          "category": "ia",
+          "published_at": "2026-04-27T18:48:45+00:00",
+          "summary": "HBO a sorti ce 27 avril 2026 la nouvelle bande-annonce de la très attendue saison 3 de House of the Dragon. Le trailer fait monter la tension d'un cran et surtout les images évoquent enfin le face-à-face inévitable et apocalyptique entre Aemond et Daemon Targaryen.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ac9080f3076",
+          "title": "La fin des applications ? OpenAI préparerait un smartphone 100% IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2241545-la-fin-des-applications-openai-preparerait-un-smartphone-100-ia.html",
+          "category": "ia",
+          "published_at": "2026-04-27T16:30:00+00:00",
+          "summary": "Selon une note de l’analyste Ming‑Chi Kuo publiée le 27 avril 2026, OpenAI travaillerait désormais sur un smartphone centré sur les agents d’IA, co‑conçu avec MediaTek, Qualcomm et le fabricant Luxshare.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59e75069327e",
+          "title": "Face aux constructeurs chinois, Kia baisse ses prix en Europe : vraiment ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2241809-face-aux-constructeurs-chinois-kia-baisse-ses-prix-en-europe-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-04-27T16:12:09+00:00",
+          "summary": "Kia indique avoir commencé à réduire l’écart de prix avec ceux des constructeurs automobiles chinois en Europe. Sur les voitures électriques commercialisées en France, c’est loin d’être une évidence.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e092d9bd5f35",
+          "title": "Social Media and Digital Marketing Coordinator – Solar Management – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/27/social-media-and-digital-marketing-coordinator-solar-management-london/",
+          "category": "musique",
+          "published_at": "2026-04-27T16:11:44+00:00",
+          "summary": "Busy artist and producer management company in N1 London looking for a tech-savvy and creative coordinator to support our teams of managers across the roster and the company&#8217;s own channels.&#160; [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec451754ce42",
+          "title": "À quelle heure pourra-t-on jouer à Diablo IV: Lord of Hatred ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2241351-a-quelle-heure-pourra-t-on-jouer-a-diablo-iv-lord-of-hatred.html",
+          "category": "ia",
+          "published_at": "2026-04-27T16:10:32+00:00",
+          "summary": "La sortie de l'extension Diablo IV: Lord of Hatred est imminente. Pour les couche-tard, il sera possible d'y jouer dès cette nuit. Voilà à quelle heure les serveurs débloqueront la nouvelle aventure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a53ad846a79",
+          "title": "☕️ Donald Trump a viré tous les membres du CA de la National Science Foundation",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/donald-trump-a-vire-tous-les-membres-du-ca-de-la-national-science-foundation/",
+          "category": "institutionnel",
+          "published_at": "2026-04-27T15:24:34+00:00",
+          "summary": "La National Science Foundation (NSF), une des principales agences étasuniennes de financement de la recherche, vient de perdre l&#8217;intégralité de son conseil d&#8217;administration (CA). « Au nom du président Donald J. Trump, je vous écris pour vous informer que votre mandat…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "121597ad91ff",
+          "title": "Encore des hausses de prix chez OVHcloud et Scaleway… jusqu’à 600 % !",
+          "source": "Next INpact",
+          "url": "https://next.ink/235675/encore-des-hausses-de-prix-chez-ovhcloud-et-scaleway-jusqua-600/",
+          "category": "ia",
+          "published_at": "2026-04-27T15:14:00+00:00",
+          "summary": "Vous avez des services chez OVHcloud et/ou Scaleway ? Mauvaise nouvelle, la saison des hausses de tarifs est loin d’être terminée. Le premier revoit ses hébergements web, avec trois gammes dont les tarifs après la première année peuvent être multipliés par trois. Chez Scaleway,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95cd8f2aa973",
+          "title": "‘The road to true artist development is still a long one. Tenacity wins long-term.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-road-to-true-artist-development-is-still-a-long-one-tenacity-wins-long-term/",
+          "category": "musique",
+          "published_at": "2026-04-27T15:00:34+00:00",
+          "summary": "Tom Rose, MD of UK-based GRAPE.VN (formerly Propeller), on radio's significance in the streaming age, the firm's pan-European promo work with RAYE, and its move to offer management, label services and more following a rebrand\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91914cb7982f",
+          "title": "☕️ La Chine bloque l’acquisition de Manus par Meta",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/la-chine-bloque-lacquisition-de-manus-par-meta/",
+          "category": "ia",
+          "published_at": "2026-04-27T14:40:30+00:00",
+          "summary": "Meta est tombé sur un os : le gouvernement chinois vient de rejeter le projet d&#8217;acquisition de Manus, un agent d&#8217;IA conçu par une des startups IA chinoises les plus en vue du moment, The Butterfly Effect. L&#8217;opération à 2 milliards de dollars,&#160;annoncée en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95e2a068f6b2",
+          "title": "Palantir : un frémissement de remise en question chez les anciens et actuels salariés",
+          "source": "Next INpact",
+          "url": "https://next.ink/235547/palantir-un-fremissement-de-remise-en-question-chez-les-anciens-et-actuels-salaries/",
+          "category": "ia",
+          "published_at": "2026-04-27T14:17:10+00:00",
+          "summary": "Alors que le cofondateur et actuel CEO de Palantir, Alex Karp, a réaffirmé sa volonté de mettre son entreprise au service d&#8217;une vision fascisante du pouvoir, certains employés, passés ou présents, commencent tout juste à se poser des questions. Pendant ce temps-là,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2e31bc4652c",
+          "title": "Concord acquires Mothership Music Publishing and its 5,000-song catalog",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/concord-acquires-mothership-music-publishing-and-its-5000-song-catalog/",
+          "category": "musique",
+          "published_at": "2026-04-27T14:00:36+00:00",
+          "summary": "Mothership's roster includes Grammy Best New Artist nominee The Marías, Falling In Reverse, Architects, Pam Sheyne and more.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03076921c2ab",
+          "title": "MonVote2027 : dans les coulisses du « quiz citoyen » pour les présidentielles",
+          "source": "Next INpact",
+          "url": "https://next.ink/235530/monvote2027-dans-les-coulisses-du-quiz-citoyen-pour-les-presidentielles/",
+          "category": "ia",
+          "published_at": "2026-04-27T13:49:58+00:00",
+          "summary": "Apparu début avril sur les réseaux sociaux, MonVote2027 propose de vous aider à choisir votre candidat de prédilection pour les prochaines élections présidentielles, sur la base d&#8217;un questionnaire en 20 ou 100 questions. Le site est lancé par des anonymes, avec toutes les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd7668eb5fba",
+          "title": "Avex Music Group launches $100M fund to acquire publishing catalogs and companies; strikes first deal with ‘Lose Control’ co-writer Infamous",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/avex-music-group-launches-100m-fund-to-acquire-publishing-catalogs-and-companies-strikes-first-deal-with-lose-control-co-writer-infamous/",
+          "category": "musique",
+          "published_at": "2026-04-27T13:02:23+00:00",
+          "summary": "Infamous co-wrote and co-produced Teddy Swims' \"Lose Control\", and worked with Lil Wayne and Charlie Puth.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3640040651be",
+          "title": "Deezer revenues were down in Q1 2026, but direct subs grew",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/27/deezer-revenues-were-down-in-q1-2026-but-direct-subs-grew/",
+          "category": "musique",
+          "published_at": "2026-04-27T12:30:00+00:00",
+          "summary": "Deezer’s latest financial results reflect some ongoing trends for the streaming service: growth in some parts of its business outweighed – if not by much – by decline in others. The company reported €131.9m of revenues for Q1 2026 ($114.3m at current exchange rates). That was…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f88a70f292dd",
+          "title": "Reports: iHeartMedia and SiriusXM are discussing a merger",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/27/reports-iheartmedia-and-siriusxm-are-discussing-a-merger/",
+          "category": "musique",
+          "published_at": "2026-04-27T12:30:00+00:00",
+          "summary": "iHeartMedia and SiriusXM are both giants of the US radio industry that have been navigating the challenges and opportunities in a world where radio competes with (but also complements) on-demand streaming and podcasts. Soon they could be sharing this environment in an even…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bd08b1686cc",
+          "title": "City of London Police disrupt counterfeit vinyl operation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/27/city-of-london-police-disrupt-counterfeit-vinyl-operation/",
+          "category": "musique",
+          "published_at": "2026-04-27T12:30:00+00:00",
+          "summary": "We have seen in streaming that where there’s money in music, there will be criminals trying to siphon some off for themselves. But that trend is by no means restricted to streaming. The City of London Police’s Pipcu unit, which focuses on intellectual-property crime,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a4bd7b8082e",
+          "title": "☕️ Une fuite de données à l’ANFR touche 330 000 usagers du téléservice Radiomaritime",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/une-fuite-de-donnees-a-lanfr-touche-330-000-usagers-du-teleservice-radiomaritime/",
+          "category": "justice",
+          "published_at": "2026-04-27T12:17:31+00:00",
+          "summary": "Arrêtez nous si vous avez déjà lu ça aujourd&#8217;hui : une nouvelle fuite de données a touché une administration publique. Il s&#8217;agit cette fois de l&#8217;ANFR (Agence nationale des fréquences), et plus spécifiquement le téléservice Radiomaritime. Ce service public, qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "254e62914e54",
+          "title": "Le rapport d’activité du DPO : piloter la conformité et valoriser ses actions",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/rapport-activite-dpo",
+          "category": "institutionnel",
+          "published_at": "2026-04-27T12:00:00+00:00",
+          "summary": "Recommandé par la CNIL, le rapport d’activité du délégué / de la déléguée à la protection des données participe au pilotage de la conformité et permet au DPO de rendre compte de son activité à la direction. Pour favoriser et faciliter son élaboration, la CNIL propose un modèle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8c46c822b4b",
+          "title": "Spotify expands into fitness with Peloton workouts partnership",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/27/spotify-expands-into-fitness-with-peloton-workouts-partnership/",
+          "category": "musique",
+          "published_at": "2026-04-27T12:00:00+00:00",
+          "summary": "Spotify started with music as its focus, then added podcasts, audiobooks and educational courses. And now fitness – with Peloton.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a8e38cc557a",
+          "title": "Matt Spetzler’s Pipeline hires Jennifer Scher as CFO, Jason Munro as General Counsel and Jay Srivastav as Head of Data & Product",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/matt-spetzlers-pipeline-hires-jennifer-scher-as-cfo-jason-munro-as-general-counsel-and-jay-srivastav-as-head-of-data-product/",
+          "category": "musique",
+          "published_at": "2026-04-27T11:51:29+00:00",
+          "summary": "New senior appointments come as music-focused financing platform builds out infrastructure across capital, legal and data functions\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f35652df071d",
+          "title": "Comment survivre à la déferlante à venir des vulnérabilités identifiées par IA ? (3/3)",
+          "source": "Next INpact",
+          "url": "https://next.ink/232344/comment-survivre-a-la-deferlante-a-venir-des-vulnerabilites-identifiees-par-ia-3-3/",
+          "category": "ia",
+          "published_at": "2026-04-27T11:19:00+00:00",
+          "summary": "250 responsables de la sécurité des systèmes d&#8217;information viennent de cosigner, en urgence, un rapport afin d&#8217;anticiper la potentielle déferlante de failles et de correctifs de sécurité que la cinquantaine de bêta-testeurs de Mythos Preview, l&#8217;IA spécialisée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "241f9f29e484",
+          "title": "Deezer revenues hit $154M in Q1, down 1.6% YoY, but direct subscribers grew to 5.7m",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/deezer-revenues-hit-154m-in-q1-down-1-6-yoy-but-direct-subscribers-grew-to-5-7m/",
+          "category": "musique",
+          "published_at": "2026-04-27T11:17:28+00:00",
+          "summary": "France-headquartered music streaming service Deezer has published its Q1 2026 results, covering the three months ended March 31\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "f35f4d368895",
           "title": "La scène choquante de The Last of Us Part 2 a fait débat chez Naughty Dog",
