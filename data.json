@@ -1,9 +1,504 @@
 {
-  "generated_at": "2026-04-28T10:26:04.785894+00:00",
+  "generated_at": "2026-04-29T10:19:54.096717+00:00",
   "days": [
+    {
+      "date": "2026-04-29",
+      "articles": [
+        {
+          "id": "56f9d333e8d4",
+          "title": "On a vu la citadine ID. Polo : Volkswagen a mis les petits plats dans les grands",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2243257-on-a-vu-la-citadine-id-polo-volkswagen-a-mis-les-petits-plats-dans-les-grands.html",
+          "category": "ia",
+          "published_at": "2026-04-29T10:01:00+00:00",
+          "summary": "Cette ID. Polo était plus qu’attendue dans la gamme Volkswagen. Elle est désormais là et elle a beaucoup d’arguments (design, caractéristiques et prix) pour faire craquer les clients fidèles à la marque allemande.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae477ddc5405",
+          "title": "☕️ Pour Bruxelles, Meta a enfreint le DSA sur l’accès à ses réseaux au moins de 13 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/pour-bruxelles-meta-a-enfreint-le-dsa-sur-lacces-a-ses-reseaux-au-moins-de-13-ans/",
+          "category": "ia",
+          "published_at": "2026-04-29T09:57:29+00:00",
+          "summary": "L&#8217;année dernière, la Commission européenne avait ouvert deux enquêtes sur la protection des mineurs sur Facebook et Instagram. Concernant l&#8217;accès à ses réseaux par les moins de 13 ans, elle vient de conclure « à titre préliminaire » que ces plateformes «…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ab16c788c28",
+          "title": "Il y a 15 ans, Apple sortait son iPhone le plus maudit : connaissez-vous son histoire ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2243333-il-y-a-15-ans-apple-sortait-son-iphone-le-plus-maudit-connaissez-vous-son-histoire.html",
+          "category": "ia",
+          "published_at": "2026-04-29T09:53:27+00:00",
+          "summary": "Le 7 juin 2010, Apple dévoilait l'iPhone 4. Steve Jobs officialisait alors l'arrivée de l'iPhone dans une seconde couleur : le blanc. Mais Apple n'avait pas anticipé plusieurs problèmes : cacher un capteur dans du verre blanc était notamment plus délicat que dans du verre noir.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "362ab63794ca",
+          "title": "French Days : suivez en direct les meilleurs bons plans de ce mercredi 29 avril",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242013-french-days-en-direct-les-seules-offres-qui-meritent-votre-argent-au-lancement.html",
+          "category": "ia",
+          "published_at": "2026-04-29T09:46:11+00:00",
+          "summary": "Les French Days sont lancés chez Boulanger, Fnac, Darty et Cdiscount, et même Amazon. Puisque notre but est de vous faire gagner du temps et de l'argent, on compile ici les meilleures offres sur les produits incontournables du 29 avril au 5 mai 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f5c54687b45",
+          "title": "Geely E5 : le géant chinois débarque en France avec un SUV taillé pour conquérir l’Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2243289-geely-e5-le-geant-chinois-debarque-en-france-avec-un-suv-taille-pour-conquerir-leurope.html",
+          "category": "ia",
+          "published_at": "2026-04-29T09:36:45+00:00",
+          "summary": "475 km d'autonomie, équipements de luxe et prix agressifs, le SUV E5 est la nouvelle arme de Geely, qui possède Volvo, Polestar et Smart. Le géant chinois arrive en France pour jouer en son propre nom.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1b5c97964b4",
+          "title": "ClawSwarm : le piège qui transforme vos agents IA en travailleurs fantômes d’une économie crypto",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2243281-clawswarm-le-piege-qui-transforme-vos-agents-ia-en-travailleurs-fantomes-dune-economie-crypto.html",
+          "category": "ia",
+          "published_at": "2026-04-29T09:03:03+00:00",
+          "summary": "30 outils piégés, près de 10 000 téléchargements, et des agents IA qui travaillent en secret pour une économie de tokens crypto. Le 28 avril 2026, les chercheurs en cybersécurité de Manifold ont mis en lumière la campagne ClawSwarm, qui exploite le manque de supervision des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b11123bc843b",
+          "title": "SpaceX va sacrifier le cœur de sa fusée géante pour cette mission hors norme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2241005-spacex-va-sacrifier-le-coeur-de-sa-fusee-geante-pour-cette-mission-hors-norme.html",
+          "category": "ia",
+          "published_at": "2026-04-29T08:53:58+00:00",
+          "summary": "La fusée lourde de SpaceX fait son grand retour sur les pas de tir. Après plus d'un an et demi d'absence, le Falcon Heavy décolle ce mercredi 29 avril 2026 pour mettre en orbite le satellite de télécommunications Viasat-3 F3. Le lancement est à suivre en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7e32b1af115",
+          "title": "ChatGPT s’amuse à dire qu’il a résolu une énigme sur laquelle il passait pour un idiot",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2243197-chatgpt-samuse-a-dire-quil-a-resolu-une-enigme-sur-laquelle-il-passait-pour-un-idiot.html",
+          "category": "ia",
+          "published_at": "2026-04-29T08:30:02+00:00",
+          "summary": "Si vous habitiez à 20 mètres d'une station de lavage, iriez-vous à pied ou en voiture pour laver votre voiture ? Cela vous paraît évident. Mais pour ChatGPT, il y avait débat.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cefbc630ca0b",
+          "title": "Les jeux PlayStation achetés en ligne bloqués au bout de 30 jours ? Voilà ce qu’il se passe vraiment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242065-les-jeux-playstation-achetes-en-ligne-bloques-au-bout-de-30-jours-voila-ce-quil-se-passe-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-04-29T08:20:48+00:00",
+          "summary": "PlayStation est victime d'une nouvelle polémique : les jeux dématérialisés achetés récemment forcent à se connecter à Internet au bout de 30 jours. Selon l'enquête de plusieurs joueurs, il pourrait s'agir d'une mesure pensée pour éviter des abus sur la période de rétractation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fefc1ef518d",
+          "title": "Le grand cirque OpenAI avant son introduction en bourse",
+          "source": "Next INpact",
+          "url": "https://next.ink/235937/le-grand-cirque-openai-avant-son-introduction-en-bourse/",
+          "category": "ia",
+          "published_at": "2026-04-29T08:15:19+00:00",
+          "summary": "OpenAI a-t-elle les moyens de ses ambitions ? La question, sempiternelle, revient régulièrement sur la table, et encore plus avec l&#8217;introduction en Bourse qui se profile à l&#8217;horizon. L&#8217;inquiétude est de mise, après des bruits de couloir sur les résultats moins…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f8cf6df5944",
+          "title": "Jeux PS5 bloqués hors-ligne : face à l’incertitude, cet accessoire risque une nouvelle pénurie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242921-jeux-ps5-bloques-hors-ligne-face-a-lincertitude-cet-accessoire-risque-une-nouvelle-penurie.html",
+          "category": "ia",
+          "published_at": "2026-04-29T08:09:14+00:00",
+          "summary": "Alors qu'une nouvelle politique controversée de Sony menace l'accès aux jeux dématérialisés, le support physique n'a jamais été aussi important. Le lecteur de disque pour PS5 et PS5 Pro est actuellement en stock à un prix abordable, mais la situation pourrait très vite basculer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "feecef3cac8f",
+          "title": "Quand sort The Blood of Dawnwalker, The Witcher mais avec des vampires ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2243147-quand-sort-the-blood-of-dawnwalker-the-witcher-mais-avec-des-vampires.html",
+          "category": "ia",
+          "published_at": "2026-04-29T07:55:03+00:00",
+          "summary": "Bandai Namco a officialisé la date de sortie de The Blood of Dawnwalker, futur RPG développé par des vétérans passés par CD Projekt Red. Le rendez-vous est pris pour la rentrée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73ad2ae11c32",
+          "title": "Ce quadricycle français veut casser les codes de la Citroën Ami : on en a testé le premier exemplaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2243045-ce-quadricycle-francais-veut-casser-les-codes-de-la-citroen-ami-on-en-a-teste-le-premier-exemplaire.html",
+          "category": "ia",
+          "published_at": "2026-04-29T07:40:08+00:00",
+          "summary": "Ipop Automobiles vient de lancer son quadricycle électrique (L6e et L7e) fabriqué en France. Parmi les spécificités du modèle, on retrouve des moteurs-roues et plein d’autres détails originaux qui donnent du caractère à l'engin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f66b71e5684",
+          "title": "Le MacBok Neo connaît sa première baisse de prix pendant les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2243157-le-macbok-neo-connait-sa-premiere-baisse-de-prix-pendant-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-04-29T07:37:39+00:00",
+          "summary": "[Deal du jour] Vous attendiez une petite baisse de prix pour vous procurer le dernier né de la gamme MacBook ? Pour les French Days, le prix du MacBook Neo baisse, et il s'accompagne même d'une paire d'AirPods 4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ed682044fac",
+          "title": "Plus de 1 800 faux détectés : des chercheurs achètent des signatures pour gonfler leurs stats",
+          "source": "Next INpact",
+          "url": "https://next.ink/235911/plus-de-1-800-faux-detectes-des-chercheurs-achetent-des-signatures-pour-gonfler-leurs-stats/",
+          "category": "ia",
+          "published_at": "2026-04-29T07:27:00+00:00",
+          "summary": "Une étude montre que les actes des conférences scientifiques peuvent accueillir massivement des articles rédigés (ou générés par IA) dans le but de vendre aux chercheurs une place bien au chaud pour leur signature moyennant 11 à 400 dollars. Next est allé à la rencontre d’un des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9aae52aafba",
+          "title": "Amazon baisse le prix de la Nintendo Switch 2 pour les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1953135-amazon-baisse-le-prix-de-la-nintendo-switch-2-pour-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-04-29T07:10:39+00:00",
+          "summary": "[Deal du jour] Dès le début des French Days, la console de Nintendo commence à chuter. Sur Amazon, la console perd plus de 60 € au panier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00e6fd76cf5a",
+          "title": "Google Gemini a deux nouvelles armes en France pour piquer les utilisateurs de ChatGPT",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2243125-google-gemini-a-deux-nouvelles-armes-en-france-pour-piquer-les-utilisateurs-de-chatgpt.html",
+          "category": "ia",
+          "published_at": "2026-04-29T07:00:00+00:00",
+          "summary": "Quelques semaines après les États-Unis, Google active en France deux nouvelles fonctionnalités de Gemini : la mémoire des conversations et un outil d'importation qui permet de basculer son historique ChatGPT ou Claude directement dans l'application.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fe1d0e9540b",
+          "title": "☕️ Serveurs web : correction en urgence de vulnérabilités au niveau de cPanel et WHM",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/serveurs-web-correction-en-urgence-de-vulnerabilites-au-niveau-de-cpanel-et-whm/",
+          "category": "ia",
+          "published_at": "2026-04-29T06:39:43+00:00",
+          "summary": "L&#8217;alerte n&#8217;a été que de courte durée, mais elle était de nature à donner quelques sueurs froides aux hébergeurs qui exploitent les panneaux de contrôle cPanel et WHM (Web Host Manager). Mardi 28 avril vers 22 heures (heure de Paris), l&#8217;éditeur de cPanel a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08bd08410c48",
+          "title": "What the PRS v Steam dispute should teach the games industry – guest column",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/29/what-the-prs-v-steam-dispute-should-teach-the-games-industry-guest-column/",
+          "category": "ia",
+          "published_at": "2026-04-29T06:30:00+00:00",
+          "summary": "Guest column: Music Ally publishes guest columns voicing the opinions of notable authors, or advancing specific perspectives on important issues. These are chosen at the Editorial team’s discretion, are not paid-for, and do not necessarily reflect Music Ally&#8217;s own opinion.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cebec2283013",
+          "title": "Rolling Stones Tease ‘Foreign Tongues’ Project",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/rolling-stones-tease-foreign-tongues-1236234064/",
+          "category": "ia",
+          "published_at": "2026-04-29T06:06:09+00:00",
+          "summary": "The legendary British rock band is teasing what appears to be a new project titled Foreign Tongues, clues for which can be seen on their official social pages.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58d234a5d640",
+          "title": "☕️ Ancien de Cloudflare et AWS, Brice Lecoeur prend la tête de Qwant et Shadow",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/ancien-de-cloudflare-et-aws-brice-lecoeur-prend-la-tete-de-qwant-et-shadow/",
+          "category": "institutionnel",
+          "published_at": "2026-04-29T06:00:00+00:00",
+          "summary": "Symfonium, la coentreprise montée par les frères Klaba en 2023 avec le soutien financier de la Banque des territoires (25 % du capital), accueillera le 11 mai prochain son nouveau directeur général, Brice Lecoeur. Ancien dirigeant d’AWS France puis de Cloudflare France, il aura…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10e1cdfbf0f7",
+          "title": "La première nouveauté d’iOS 27 se dévoile et va plaire aux personnes qui prennent beaucoup de photos",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2243115-la-premiere-nouveaute-dios-27-se-devoile-et-va-plaire-aux-personnes-qui-prennent-beaucoup-de-photos.html",
+          "category": "ia",
+          "published_at": "2026-04-29T05:44:55+00:00",
+          "summary": "Selon Bloomberg, Apple prévoit un nouvel éditeur de photos dans iOS 27. Grâce à un modèle IA installé en local, votre iPhone pourrait bientôt comprendre des demandes complexes et effectuer des retouches en quelques secondes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f436e9ab96a",
+          "title": "Cette intelligence artificielle est figée en 1930, et ses prédictions sont fascinantes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242623-cette-intelligence-artificielle-est-figee-en-1930-et-ses-predictions-sont-fascinantes.html",
+          "category": "ia",
+          "published_at": "2026-04-29T05:20:00+00:00",
+          "summary": "Mis en ligne fin avril 2026, Talkie est un modèle de langage un peu particulier : il n’a jamais rien lu après 1930. De quoi explorer, à travers ses réponses, ce que le monde pouvait -- ou non -- anticiper avant la suite des événements.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2fbab8de61d",
+          "title": "‘Wicked: For Good’ Gets Some Love at 2026 ASCAP Screen Celebrates Event",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2026-ascap-screen-celebrates-event-winners-1236234036/",
+          "category": "musique",
+          "published_at": "2026-04-29T03:34:37+00:00",
+          "summary": "David Vanacore received ASCAP’s Golden Note Award in recognition of his career achievements and impact on television music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f767c88ded8",
+          "title": "TOMORROW X TOGETHER Launches New UNICEF Campaign Focused on Youth Mental Health",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/tomorrow-x-together-unicef-youth-mental-health-video-campaign-1236233696/",
+          "category": "ia",
+          "published_at": "2026-04-29T03:01:00+00:00",
+          "summary": "\"Asking for help doesn't mean you are weak,\" SOOBIN says in a new video.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4d386d58a44",
+          "title": "DMA’S Go Major Label Route on New Self-Titled Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/dmas-major-label-sony-new-self-titled-album-1236233999/",
+          "category": "musique",
+          "published_at": "2026-04-29T02:29:00+00:00",
+          "summary": "Their fifth studio album, \"DMA'S\" is due out Aug. 7 through a new global deal with Wonderlick Entertainment partnering with Sony Music Australia and RCA UK.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71637c75e06b",
+          "title": "From Taylor Swift-Approved Jewelry to Made-to-Order Songs: The Most Unique Mother’s Day Gift Ideas for 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/unique-mothers-day-gift-ideas-1236233700/",
+          "category": "musique",
+          "published_at": "2026-04-29T00:37:55+00:00",
+          "summary": "This list is sure to please every mother out there, from music lovers to beauty enthusiasts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a779734c9e78",
+          "title": "Everything We Know About Ariana Grande’s ‘Petal’ (So Far)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/ariana-grande-petal-album-details-everything-we-know/",
+          "category": "ia",
+          "published_at": "2026-04-29T00:18:22+00:00",
+          "summary": "AG8 is coming!",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-28",
       "articles": [
+        {
+          "id": "9a2f1d6bdcf8",
+          "title": "Billie Eilish Needs a New Rihanna Album in Her Life: ‘If She Ever F—ing Makes R9…’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/billie-eilish-rihanna-r9-album-1236233862/",
+          "category": "musique",
+          "published_at": "2026-04-28T23:22:49+00:00",
+          "summary": "RiRi previously gushed about Eilish and labeled her a \"dream collaborator\" in 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4730efc5fa72",
+          "title": "Chris Brown Says Rihanna Assault Shouldn’t Be Mentioned at Dog Attack Trial",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/chris-brown-rihanna-assault-barred-dog-attack-trial/",
+          "category": "ia",
+          "published_at": "2026-04-28T23:14:29+00:00",
+          "summary": "Lawyers for the R&#38;B star say any reference to the infamous 2009 incident \"would encourage the jury to decide the case based on character or emotion.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "937aeb2a3b2e",
+          "title": "BMG+Concord is the music industry’s biggest bet in years. What’s the plan?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bmgconcord-music-industrys-biggest-bet-in-years-whats-the-plan/",
+          "category": "musique",
+          "published_at": "2026-04-28T19:56:20+00:00",
+          "summary": "Thomas Coesfeld and Bob Valentine answer MBW's questions on a mega-merger – and ambitious targets\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2b5b20239e0",
+          "title": "Spotify Co-CEOs outline AI ambitions and more on Q1 2026 earnings call",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotifys-co-ceos-outline-ai-ambitions-and-more-on-q1-2026-earnings-call/",
+          "category": "musique",
+          "published_at": "2026-04-28T18:38:21+00:00",
+          "summary": "Here are five things we learned from the company's Q1 earnings call\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ff8559577a0",
+          "title": "Fin de la paralysie à Baïkonour, la Russie a sauvé son pas de tir vers l’ISS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2242573-fin-de-la-paralysie-a-baikonour-la-russie-a-sauve-son-pas-de-tir-vers-liss.html",
+          "category": "ia",
+          "published_at": "2026-04-28T17:49:24+00:00",
+          "summary": "Après l'effondrement des infrastructures du pas de tir 31 en novembre 2025, le programme spatial russe semblait dans l'impasse. Pourtant, avec deux lancements consécutifs de cargos Progress menés avec succès depuis mars, Roscosmos confirme que le site est réparé. La crise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffa62d7bea19",
+          "title": "Jimi Hendrix bandmates’ estates lose UK court battle against Sony Music over ownership of band’s recordings",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jimi-hendrix-bandmates-estates-lose-uk-court-battle-against-sony-music-over-ownership-of-bands-recordings/",
+          "category": "musique",
+          "published_at": "2026-04-28T16:33:54+00:00",
+          "summary": "The UK High Court has dismissed a lawsuit brought by the estates of Noel Redding and Mitch Mitchell\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3401c22cc143",
+          "title": "« Une sorte de blocage mental » : un amateur armé de ChatGPT résout un problème mathématique vieux de 60 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242081-vibe-mathing-un-amateur-arme-de-chatgpt-a-craque-une-enigme-mathematique-vieille-de-60-ans.html",
+          "category": "ia",
+          "published_at": "2026-04-28T16:03:52+00:00",
+          "summary": "Un amateur de 23 ans a réussi à résoudre une énigme mathématique vieille de 60 ans grâce à une simple conversation avec ChatGPT. En contournant les biais académiques traditionnels, le modèle GPT-5.4 Pro prouve que l'IA est capable de fulgurances créatives.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fe6774af735",
+          "title": "Une actrice historique de Harry Potter explique le réel intérêt de la série HBO",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242583-une-actrice-historique-de-harry-potter-explique-le-reel-interet-de-la-serie-hbo.html",
+          "category": "ia",
+          "published_at": "2026-04-28T15:50:00+00:00",
+          "summary": "Alors que Poudlard s'apprête à rouvrir ses portes sur HBO, une voix familière de la saga originale vient d'apporter son soutien au projet. Bonnie Wright, l'interprète de Ginny Weasley, estime que le format série permettra enfin de rendre justice à l'œuvre de J.K. Rowling d'une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da5834702b2d",
+          "title": "La date de sortie de Ted Lasso saison 4 a été dévoilée par Apple TV",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242867-la-date-de-sortie-de-ted-lasso-saison-4-a-ete-devoilee-par-apple-tv.html",
+          "category": "ia",
+          "published_at": "2026-04-28T15:36:03+00:00",
+          "summary": "Le coach le plus optimiste du monde est officiellement de retour. Apple TV a mis fin au suspense, et révélé la date de sortie de la saison 4 de Ted Lasso. Cette fois, Ted quitte la Premier League masculine pour un tout nouveau défi qui s'annonce déjà culte.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0971ed11d76f",
+          "title": "Quelle est la date de la prochaine pleine Lune ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1599622-quelle-est-la-date-de-la-prochaine-pleine-lune-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-04-28T15:35:19+00:00",
+          "summary": "Tous les 29 jours, la pleine Lune revient dans le ciel. Quand a lieu la prochaine de l'année 2026 ? Voici le calendrier avec les dates à retenir, pour ne jamais manquer la pleine Lune cette année.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4f70209d0ce",
+          "title": "L’étrange système de vérification des jeux PlayStation dématérialisés : bug ou DRM ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/235900/letrange-systeme-de-verification-des-jeux-playstation-dematerialises-bug-ou-drm/",
+          "category": "ia",
+          "published_at": "2026-04-28T14:46:18+00:00",
+          "summary": "Un DRM s&#8217;est-il discrètement invité dans les jeux PS4 et PS5 achetés en ligne ? C&#8217;est la crainte de nombreux joueurs PlayStation, depuis qu&#8217;un nouveau système (ou un bug ?) frappe les jeux vendus sur le PS Store. Les premiers témoignages sur la présence…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "523074a7d627",
+          "title": "Samsung dévoile par erreur les Galaxy Glasses : tout ce que l’on sait sur les futures lunettes Android XR",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242821-samsung-devoile-par-erreur-les-galaxy-glasses-tout-ce-que-lon-sait-sur-les-futures-lunettes-android-xr.html",
+          "category": "ia",
+          "published_at": "2026-04-28T14:40:10+00:00",
+          "summary": "Une mise à jour d'une application préinstallée sur les smartphones Samsung mentionne le support des « Glasses », un produit pour l'instant non commercialisé par la marque coréenne. Les lunettes Galaxy Glasses, que l'on sait en développement depuis deux ans, pourraient…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85b6e6216b4d",
+          "title": "Les effrayantes marionnettes ayant servi pour le jeu Star Fox ont été au cœur d’une véritable chasse au trésor",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242537-les-effrayantes-marionnettes-ayant-servi-pour-le-jeu-star-fox-ont-ete-au-coeur-dune-veritable-chasse-au-tresor.html",
+          "category": "ia",
+          "published_at": "2026-04-28T14:17:41+00:00",
+          "summary": "Vous souvenez-vous de cette campagne de promotion pour le jeu Star Fox en 1993 ? Nintendo avait utilisé des marionnettes vraiment classes, qui figuraient également sur la jaquette du jeu. Il semblerait que l'histoire ne se soit pas très bien terminée pour elles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "baa155ecc9bf",
+          "title": "Primary Wave strikes deal with Harry Chapin estate covering singer-songwriter’s catalog, name, image & likeness rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/primary-wave-strikes-deal-with-harry-chapin-estate-acquiring-singer-songwriters-catalog-name-image-likeness-rights/",
+          "category": "musique",
+          "published_at": "2026-04-28T14:00:42+00:00",
+          "summary": "Harry Chapin's catalog encompasses 11 albums, 14 singles, and more than 16 million albums sold worldwide.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd53f08d0ebc",
+          "title": "Taylor Swift dépose sa voix et son image comme marques pour contrer les clones IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/235888/taylor-swift-depose-sa-voix-et-son-image-comme-marques-pour-contrer-les-clones-ia/",
+          "category": "ia",
+          "published_at": "2026-04-28T13:11:48+00:00",
+          "summary": "Les lois sur le droit d&#8217;auteur pourraient ne pas suffire à protéger efficacement les artistes contre les clones générés par IA. C&#8217;est pourquoi certains d&#8217;entre eux ont décidé d&#8217;aller plus loin en faisant appel au droit des marques pour protéger leur voix…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1833df69b2ee",
+          "title": "Fred Again.. uses Dropbox to share USB002 tour content with fans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/28/fred-again-uses-dropbox-to-share-usb002-tour-content-with-fans/",
+          "category": "musique",
+          "published_at": "2026-04-28T12:31:00+00:00",
+          "summary": "When Fred Again.. kicked off its USB002 tour last year, there was a message to fans to put their phones in their pockets in order to properly live in the moment. But also a promise that he’d release photos and videos from the concerts for them afterwards. Now he’s done that –…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac8360abf999",
+          "title": "Taylor Swift files trademark applications to protect voice and image",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/28/taylor-swift-files-trademark-applications-to-protect-voice-and-image/",
+          "category": "ia",
+          "published_at": "2026-04-28T12:30:00+00:00",
+          "summary": "What do Taylor Swift and Matthew McConaughey have in common, apart from box-office success? Both have trademarked their voice and likeness in an effort to foil future AI deepfakes. McConaughey did it in January with eight trademark applications in the US to – in his words…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9318a7f701cd",
+          "title": "Suno recruitment ad points to more music-industry dealmaking",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/28/suno-recruitment-ad-points-to-more-music-industry-dealmaking/",
+          "category": "musique",
+          "published_at": "2026-04-28T12:30:00+00:00",
+          "summary": "Suno is still battling lawsuits from Universal Music Group and Sony Music Group, but the company’s latest recruitment ad points to its desire for more dealmaking with rightsholders. The ad is for a director, business development, music industry partnerships at the AI-music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7ceb649668a",
+          "title": "Le Sserafim take over the Seoul map of Roblox game Berry Avenue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/28/le-sserafim-take-over-the-seoul-map-of-roblox-game-berry-avenue/",
+          "category": "musique",
+          "published_at": "2026-04-28T12:30:00+00:00",
+          "summary": "Roblox and K-Pop has been a good match over the years: Twice and Blackpink both launched their own experiences on the platform in 2023 for example, although the latter’s has since shut down. Now another South Korean success story is giving Roblox a spin, albeit not with their…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a27ff474abb",
+          "title": "BMG and Concord reveal plans to merge under BMG name",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/28/bmg-and-concord-reveal-plans-to-merge-under-bmg-name/",
+          "category": "musique",
+          "published_at": "2026-04-28T12:11:47+00:00",
+          "summary": "The recent rumours were right: BMG and Concord are set for a merger to create &#8220;the leading independent music company in the world&#8221;.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00661c592809",
+          "title": "BMG and Concord confirm merger, with Bertelsmann as majority-owner; Bob Valentine named CEO of combined company",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bmg-and-concord-confirm-merger-with-bertelsmann-as-majority-owner-bob-valentine-named-ceo-of-combined-company/",
+          "category": "ia",
+          "published_at": "2026-04-28T12:00:01+00:00",
+          "summary": "The combined company will be owned approximately 67% by Bertelsmann, and 33% by affiliates of Great Mountain Partners, a long-time investor in Concord\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "17fdb81d9931",
           "title": "Commerce de détail : la CNIL approuve le code de conduite porté par l’Alliance du Commerce",
@@ -12,6 +507,66 @@
           "category": "ia",
           "published_at": "2026-04-28T12:00:00+00:00",
           "summary": "Ce code&amp;nbsp;de&amp;nbsp;conduite aide les commerçants français du secteur de l’habillement et de la chaussure à s’engager en faveur de la protection de leurs clients. Il traduit concrètement les exigences du RGPD et renforce la protection des données dans la vente et la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4101dd0ed0b0",
+          "title": "Spotify added 10m users and 3m subscribers in Q1 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/28/spotify-added-10m-users-and-3m-subscribers-in-q1-2026/",
+          "category": "musique",
+          "published_at": "2026-04-28T11:58:31+00:00",
+          "summary": "Spotify has published its latest quarterly financial results, revealing that it ended Q1 2026 with 761 million monthly active users.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "775ff679aad1",
+          "title": "Taylor Swift files to trademark her voice and likeness amid crackdown on AI deepfakes",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swift-files-to-trademark-her-voice-and-likeness-amid-crackdown-on-ai-deepfakes/",
+          "category": "ia",
+          "published_at": "2026-04-28T11:50:40+00:00",
+          "summary": "The applications include recordings of Swift saying, 'Hey, it's Taylor,' and 'Hey, it's Taylor Swift,' as well as an image showing her holding a pink guitar on stage.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cbdca51d2a12",
+          "title": "Publishing update: Market shares, Avex fund, Mothership, Chord…",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/28/publishing-update-market-shares-avex-fund-mothership-chord/",
+          "category": "musique",
+          "published_at": "2026-04-28T11:30:00+00:00",
+          "summary": "What was the story of music publishing in 2025 as seen through the lens of market share? According to Music &#38; Copyright’s annual research, it was another year of a widening gap between the top two publishers. But only a slight one. Sony Music Publishing’s share of the market…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56f1e7e0c706",
+          "title": "Spotify subscriber base grew by 3m to 293m in Q1; company posted $837M operating profit for the quarter",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-subscriber-base-grew-by-3m-to-293m-in-q1-company-posted-837m-operating-profit-for-the-quarter/",
+          "category": "musique",
+          "published_at": "2026-04-28T11:22:06+00:00",
+          "summary": "Spotify's total Monthly Active Users hit 761 million in Q1 2026\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb0ff13b41ba",
+          "title": "Tech startup Tamber raises $5M to launch AI music tool, backed by Adobe Ventures, Rackhouse Ventures and more",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tech-startup-tamber-raises-5m-to-launch-ai-music-tool-backed-by-adobe-ventures-rackhouse-ventures-and-more/",
+          "category": "musique",
+          "published_at": "2026-04-28T11:00:42+00:00",
+          "summary": "Los Angeles–based music technology startup says its technology is “designed to extend — not replace — human artistry.”\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfa6280a3155",
+          "title": "20 000 voix pour protéger la Création",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/communiques-dossiers-de-presse/20-000-voix-pour-proteger-la-creation/",
+          "category": "ia",
+          "published_at": "2026-04-28T10:55:58+00:00",
+          "summary": "Le Snep soutient l’appel des 20 000 premiers signataires de la tribune collective sur la présomption d&#8217;utilisation des œuvres par les IA. Après le vote unanime du Sénat et l’avis favorable du Conseil d’État confirmant la solidité du texte, la mobilisation pour la…",
           "summary_type": "extrait source"
         },
         {
