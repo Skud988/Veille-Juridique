@@ -1,9 +1,624 @@
 {
-  "generated_at": "2026-04-29T10:19:54.096717+00:00",
+  "generated_at": "2026-04-30T10:20:09.593765+00:00",
   "days": [
+    {
+      "date": "2026-04-30",
+      "articles": [
+        {
+          "id": "a8997b2ec688",
+          "title": "Revoir le webinaire - Usages numériques des enfants : comment sensibiliser les parents-salariés ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/revoir-le-webinaire-numerique-enfants-sensibilisation-parents-salaries",
+          "category": "ia",
+          "published_at": "2026-04-30T12:00:00+00:00",
+          "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux usages numériques des enfants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0eddd439e68c",
+          "title": "« Copy Fail » : comment une faille dans le noyau Linux a donné accès à tous vos systèmes depuis 2017",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2244697-copy-fail-comment-une-faille-dans-le-noyau-linux-a-donne-acces-a-tous-vos-systemes-depuis-2017.html",
+          "category": "ia",
+          "published_at": "2026-04-30T10:10:01+00:00",
+          "summary": "Une vulnérabilité découverte par des chercheurs en sécurité permet à n'importe quel utilisateur local de prendre le contrôle total d'un système Linux, sur la quasi-totalité des distributions existantes. L'exploit tient en 732 octets de Python.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e208637bf85",
+          "title": "Amyl and The Sniffers, INXS Win Big at 2026 APRA Music Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/amyl-and-the-sniffers-inxs-2026-apra-music-awards-1236235473/",
+          "category": "musique",
+          "published_at": "2026-04-30T10:05:42+00:00",
+          "summary": "The 2026 APRA Music Awards, presented Wednesday night (April 29) in Sydney, celebrated APRA's centenary.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1af3db5d205f",
+          "title": "Sans crier gare, la Chine sort un supercalculateur de 2,47 ExaFLOPS… sans GPU",
+          "source": "Next INpact",
+          "url": "https://next.ink/236229/sans-crier-gare-la-chine-sort-un-supercalculateur-de-247-exaflops-sans-gpu/",
+          "category": "ia",
+          "published_at": "2026-04-30T09:43:43+00:00",
+          "summary": "La Chine a utilisé un supercalculateur pour entrainer une IA, rien d’exceptionnel si ce n’est la puissance de la machine : 1,2 ExaFLOPS… et elle n’était qu’à un quart de sa puissance théorique ! Si la Chine participait encore au Top500, LineShine pourrait être au coude à coude…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a96cbe9c572",
+          "title": "French Days sur Amazon, Fnac, Darty… : on traque en direct les meilleures offres en ligne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242013-french-days-sur-amazon-fnac-darty-on-traque-en-direct-les-meilleures-offres-en-ligne.html",
+          "category": "ia",
+          "published_at": "2026-04-30T09:38:54+00:00",
+          "summary": "Les French Days entament leur deuxième jour. Au milieu des milliers de références poussées par Fnac, Amazon, Cdiscount ou Boulanger jusqu'au 5 mai 2026, il y a seulement quelques promos qui valent de sortir la carte bleue. On reste sur le pont pour faire le tri à votre place et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e159f8ed250",
+          "title": "Le prochain film Thor pourrait bien marcher dans les pas de Logan",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2244543-le-prochain-film-thor-pourrait-bien-marcher-dans-les-pas-de-logan.html",
+          "category": "ia",
+          "published_at": "2026-04-30T09:37:04+00:00",
+          "summary": "Alors que l'avenir de Thor dans le Marvel Cinematic Universe (MCU) reste entouré de mystères, une voix familière vient de lancer une idée qui fait déjà frissonner les fans. Kenneth Branagh, le réalisateur du premier volet de la saga, souhaite voir Thor tirer sa révérence dans un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fa9460d6907",
+          "title": "Tips Music registers 21% revenue growth in FY2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/tips-music-registers-21-revenue-growth-in-fy2026/",
+          "category": "musique",
+          "published_at": "2026-04-30T09:30:26+00:00",
+          "summary": "Publicly-listed Indian legacy label Tips Music has revealed its results for FY2026. Revenue from operations grew 21% year-on-year—down from the 29% increase from FY2024 to FY2025—to Rs375.5 crore (approx. $39.6m), [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52c0ac6ff40c",
+          "title": "PlayStation communique enfin sur le bug des 30 jours qui empêche de jouer à des titres achetés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242065-les-jeux-playstation-achetes-en-ligne-bloques-au-bout-de-30-jours-voila-ce-quil-se-passe-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-04-30T09:19:16+00:00",
+          "summary": "PlayStation est victime d'une nouvelle polémique : certains jeux dématérialisés achetés récemment affichent une vérification de licence au bout de 30 jours. Sony assure qu'il ne s'agit pas d'une connexion obligatoire permanente, mais d'une vérification unique après achat. Un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b460202646ea",
+          "title": "« Apporter la mobilité à la masse » : Citroën veut récréer le même phénomène que la 2CV après la Guerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2244431-apporter-la-mobilite-a-la-masse-citroen-veut-recreer-le-meme-phenomene-que-la-2cv-apres-la-guerre.html",
+          "category": "institutionnel",
+          "published_at": "2026-04-30T09:08:30+00:00",
+          "summary": "Face à l'envolée des prix de l'électrique, Citroën confirme son intention de lancer un modèle inédit sous le seuil symbolique des 15 000 euros. Le directeur général de la marque, Xavier Chardon, entend ainsi renouer avec la mission sociale historique des chevrons.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d5bd676ca26",
+          "title": "Ne vous inquiétez pas pour Google : l’IA lui fait gagner énormément d’argent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244415-ne-vous-inquietez-pas-pour-google-lia-lui-fait-gagner-enormement-dargent.html",
+          "category": "ia",
+          "published_at": "2026-04-30T08:58:49+00:00",
+          "summary": "Alors que beaucoup prédisaient le déclin inévitable de Google et de son moteur de recherche face à la révolution de l'IA générative, les résultats trimestriels publiés par Alphabet le 29 avril 2026 prouvent exactement l'inverse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f59ae2f07d88",
+          "title": "50 drones lâchés en plein vol : la future arme impressionnante de l’Airbus A400M",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244455-50-drones-laches-en-plein-vol-la-future-arme-impressionnante-de-lairbus-a400m.html",
+          "category": "ia",
+          "published_at": "2026-04-30T08:54:42+00:00",
+          "summary": "On connaissait l'A400M comme avion de transport et de logistique. Il sera bientôt un aéronef beaucoup plus offensif, grâce à un module amovible permettant de larguer des dizaines de drones et de missiles de croisière en plein vol.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a0ece9404ad",
+          "title": "Il existe un moyen d’améliorer la précision de Leon dans Resident Evil Requiem",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2244473-il-existe-un-moyen-dameliorer-la-precision-de-leon-dans-resident-evil-requiem.html",
+          "category": "ia",
+          "published_at": "2026-04-30T08:44:49+00:00",
+          "summary": "Dans le stress de l’action, il peut parfois être difficile de viser correctement les ennemis qui vous foncent dessus. Et c'est bien là tout le charme des jeux Resident Evil. Mais il existe une manière d’améliorer très légèrement la visée de Leon dans le dernier épisode de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ee60cbc22fb",
+          "title": "Cette pépite d’exploration notée 9/10 voit son prix s’effondrer sous les 20 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2237761-cette-pepite-dexploration-notee-9-10-voit-son-prix-seffondrer-sous-les-20-e.html",
+          "category": "ia",
+          "published_at": "2026-04-30T08:43:28+00:00",
+          "summary": "[Deal du jour] Hell is Us fait partie de ces jeux double A pour lesquels il est difficile de savoir s’ils valent vraiment un achat plein tarif. En revanche, dès qu’il passe sous la barre des 20 €, la question ne se pose presque plus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d88c02b2c759",
+          "title": "☕️ 45 ans plus tard, Microsoft publie le code source de 86-DOS 1.00",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/45-ans-plus-tard-microsoft-publie-le-code-source-de-86-dos-1-00/",
+          "category": "ia",
+          "published_at": "2026-04-30T08:36:38+00:00",
+          "summary": "Quand la publication d&#8217;une archive prend des accents de découverte archéologique : Microsoft a annoncé lundi 28 avril la publication du «&#160;plus ancien code source DOS jamais découvert ». Le code en question fait effectivement figure d&#8217;antiquité à l&#8217;échelle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a927467ba718",
+          "title": "Ce personnage culte de votre enfance est officiellement de retour sur Disney+",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2244451-ce-personnage-culte-de-votre-enfance-est-officiellement-de-retour-sur-disney.html",
+          "category": "ia",
+          "published_at": "2026-04-30T08:27:52+00:00",
+          "summary": "Le fantôme le plus célèbre de l’histoire s’apprête à hanter nos écrans. Après une bataille acharnée entre 5 diffuseurs, c'est finalement Disney+ qui a remporté les droits pour une nouvelle adaptation de Casper. Un projet ambitieux qui promet une lecture bien plus sombre que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff228cd42732",
+          "title": "Les taxis autonomes Waymo dépassent les 500 000 courses par semaine : Google a réussi son pari",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2244465-les-taxis-autonomes-waymo-depassent-les-500-000-courses-par-semaine-google-a-reussi-son-pari.html",
+          "category": "ia",
+          "published_at": "2026-04-30T08:23:49+00:00",
+          "summary": "Dans ses résultats financiers, Alphabet, la maison mère de Google, annonce que Waymo réalise désormais plus de 500 000 courses par semaine rien qu'aux États-Unis. L'activité est encore loin de géants comme Uber, mais est la preuve que la demande existe pour des véhicules 100 %…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bbb38687b88b",
+          "title": "Duran Duran And Nile Rodgers Perform Night Version of ‘Free to Love’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/duran-duran-nile-rodgers-free-to-love-kimmel-1236235465/",
+          "category": "ia",
+          "published_at": "2026-04-30T08:21:38+00:00",
+          "summary": "\"There is nothing more important than freedom and love,\" explains Nick Rhodes. \"We certainly need a lot more of both in the world right now.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "050ccfe2d82d",
+          "title": "« D’où viennent les gobelins ? » : OpenAI explique l’obsession de ChatGPT pour les créatures fantastiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244409-dou-viennent-les-gobelins-openai-explique-lobsession-de-chatgpt-pour-les-creatures-fantastiques.html",
+          "category": "ia",
+          "published_at": "2026-04-30T08:01:38+00:00",
+          "summary": "Depuis plusieurs jours, les théories se multiplient autour de l’étrange obsession de certains modèles d’OpenAI pour les gobelins, gremlins et autres créatures fantastiques. L’entreprise vient de publier une explication détaillée, et elle apporte un éclairage sur les limites de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d6a865cb816",
+          "title": "Cloud souverain : des acteurs européens lancent leur propre label",
+          "source": "Next INpact",
+          "url": "https://next.ink/236187/cloud-souverain-des-acteurs-europeens-lancent-leur-propre-label/",
+          "category": "musique",
+          "published_at": "2026-04-30T07:57:02+00:00",
+          "summary": "Pas convaincues par la grille de notation dévoilée par Bruxelles en fin d&#8217;année dernière, des entreprises européennes du cloud ont lancé leur propre référentiel pour des services infonuagiques « souverains et résilients ». Les fournisseurs ayant décroché leur badge ont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60130f3ce920",
+          "title": "Believe Launches Label & Artist Solutions Activities In U.S.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/believe-label-artist-solutions-activities-us/",
+          "category": "musique",
+          "published_at": "2026-04-30T07:30:18+00:00",
+          "summary": "Thomas Maxwell will lead the new activities as vice president US, Label &#38; Artist Solutions (LAS).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0958da1d8e6a",
+          "title": "Suivez en direct le vol d’Ariane 6 dans sa version surpuissante pour la deuxième fois d’affilée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2237425-suivez-en-direct-le-vol-dariane-6-dans-sa-version-surpuissante-pour-la-deuxieme-fois-daffilee.html",
+          "category": "ia",
+          "published_at": "2026-04-30T07:29:17+00:00",
+          "summary": "Retour aux affaires pour Ariane 6. Quelques semaines seulement après le précédent vol, la fusée européenne s'apprête à s'élancer de nouveau dans le ciel guyanais. Là encore, c'est la configuration lourde, dite Ariane 64, qui sera utilisée. Il s'agit de la version la plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4be080480d81",
+          "title": "Datacenters : 0,1 % de la chaleur fatale réutilisée en France, moins de 2 % en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/236053/datacenters-01-de-la-chaleur-fatale-reutilisee-en-france-moins-de-2-en-europe/",
+          "category": "loi",
+          "published_at": "2026-04-30T07:20:00+00:00",
+          "summary": "La valorisation de la chaleur fatale est une obligation pour les datacenters, avec un seuil minimum de réutilisation de 20 % pour la France. Nous sommes encore loin, très loin, avec moins de 1 % pour l’ensemble des datacenters. Au niveau européen ce n’est pas beaucoup mieux avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84909d9b8ca2",
+          "title": "11 Best Moments From 2026 Billboard Women in Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/2026-billboard-women-in-music-awards-recap-best-moments/",
+          "category": "musique",
+          "published_at": "2026-04-30T07:19:08+00:00",
+          "summary": "From our Women of the Year -- HUNTR/X's EJAE, AUDREY NUNA &#38; REI AMI -- and beyond, these were our favorite moments.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d35eaaf47f28",
+          "title": "Le MacBook Air M5 d’Apple version 13 pouces baisse son prix pour les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242899-le-macbook-air-m5-dapple-version-13-pouces-baisse-son-prix-pour-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-04-30T07:02:02+00:00",
+          "summary": "[Deal du jour] Apple a récemment mis à jour sa gamme de MacBook, dont ce MacBook Air avec une nouvelle configuration M5. Pour les French Days, le modèle 13 pouces est moins cher.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4793c4931c2c",
+          "title": "☕️ Le studio Spiders en liquidation suite à la chute de Nacon",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/le-studio-spiders-en-liquidation-suite-a-la-chute-de-nacon/",
+          "category": "ia",
+          "published_at": "2026-04-30T06:47:00+00:00",
+          "summary": "Nouveau coup dur pour l&#8217;industrie française du jeu vidéo. Les difficultés d&#8217;Ubisoft font régulièrement la une de l&#8217;actualité, mais un autre acteur est en grand danger : le groupe Nacon, planté par sa maison mère BigBen Interactive. Un de ses studios, Spiders,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c275a16952c",
+          "title": "PlayStation Plus : les 3 jeux offerts en mai 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2244389-playstation-plus-les-3-jeux-offerts-en-mai-2026.html",
+          "category": "ia",
+          "published_at": "2026-04-30T06:30:00+00:00",
+          "summary": "En mai, les abonnés PlayStation Plus vont pouvoir refaire le match PSG-Bayern Munich sur EA Sports FC 26. Ou souffrir dans Wuchang: Fallen Featherss.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bda901d72b8",
+          "title": "David Allan Coe, Country Music Outlaw, Dies at 86: Reports",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/david-allan-coe-obituary-1236235288/",
+          "category": "musique",
+          "published_at": "2026-04-30T05:43:06+00:00",
+          "summary": "The late artist's life was “full of bad luck and misadventure,” and produced several country classics.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a871700745a4",
+          "title": "BINI Defines What It Means to Be a Global Force & More | Billboard Women In Music 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/bini-defines-what-it-means-to-be-a-global-force/",
+          "category": "musique",
+          "published_at": "2026-04-30T05:37:26+00:00",
+          "summary": "BINI caught up with Drew Afualo &#38; Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71258b982014",
+          "title": "EJAE, Audrey Nuna & Rei Ami On Performing “Golden” With KATSEYE | Billboard Women In Music 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/ejae-audrey-nuna-rei-ami-on-performing-golden-with-katseye/",
+          "category": "musique",
+          "published_at": "2026-04-30T05:17:49+00:00",
+          "summary": "The singing voices of HUNTR/X from the ‘KPop Demon Hunters,’ EJAE, Audrey Nuna &#38; Rei Ami, caught up with Drew Afualo &#38; Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98c9d5bd13e5",
+          "title": "Le pape dénonce l’IA… mais ses messages auraient été écrits par IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244283-le-pape-denonce-lia-mais-ses-messages-auraient-ete-ecrits-par-ia.html",
+          "category": "ia",
+          "published_at": "2026-04-30T05:15:00+00:00",
+          "summary": "Le compte X du pape serait-il lui aussi touché par la vague de contenus générés par IA ? Plusieurs messages récents attribués à Léon XIV portent la signature probable de l’intelligence artificielle, un phénomène désormais massif sur X, Medium, LinkedIn, Substack et de nombreux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53bf71a9e59b",
+          "title": "Teyana Taylor on Receiving Visionary Award, Dionne Warwick Friendship, & Directorial Debut | Billboard Women In Music 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/teyana-taylor-on-visionary-award-dionne-warwick-friendship/",
+          "category": "musique",
+          "published_at": "2026-04-30T05:00:41+00:00",
+          "summary": "Teyana Taylor caught up with Drew Afualo &#38; Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e04aafcf95ec",
+          "title": "Ella Mai Calls ‘Do You Still Love Me?’ Her Most Vulnerable Project to Date | Billboard Women In Music 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/ella-mai-do-you-still-love-me-her-most-vulnerable-project/",
+          "category": "musique",
+          "published_at": "2026-04-30T04:48:58+00:00",
+          "summary": "Ella Mai caught up with Drew Afualo &#38; Billboard’s Lyndsey Havens on the red carpet at the Billboard Women in Music 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62b1eabce7da",
+          "title": "Thalia Receives Icon Award with Mariachi at Women in Music 2026: ‘It’s About Opening Doors So Others Can Walk Through Them’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/thalia-brings-mexican-pride-women-in-music-2026-icon-award-1236235158/",
+          "category": "musique",
+          "published_at": "2026-04-30T04:46:33+00:00",
+          "summary": "The superstar performed \"Piel Morena\" and \"Amor a la Mexicana\" before receiving her trophy from Eva Longoria.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c261b49022a3",
+          "title": "Times Music acquires long-running Punjabi music label Catrack Entertainment",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/times-music-acquires-long-running-punjabi-music-label-catrack-entertainment/",
+          "category": "musique",
+          "published_at": "2026-04-30T04:00:00+00:00",
+          "summary": "The Times Group-owned Times Music has acquired the catalogue of Mohali-based Punjabi music label Catrack Entertainment, its third buyout of an Indian regional-language music company after receiving a strategic investment [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-29",
       "articles": [
+        {
+          "id": "b6a873e3050c",
+          "title": "Malayalam label Millennium Audios signs distro deal with Virgin Music Group",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/malayalam-label-millennium-audios-signs-distro-deal-with-virgin-music-group/",
+          "category": "musique",
+          "published_at": "2026-04-29T23:00:39+00:00",
+          "summary": "Millennium Audios might not be a familiar name to those outside the Malayalam music industry but the Kozhikode-based label, which was formed in 2000, boasts an extensive catalogue of tunes [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8148823664ff",
+          "title": "New Indian music conference The Bharat Music Experience scheduled for October",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/new-indian-music-conference-the-bharat-music-experience-scheduled-for-october/",
+          "category": "musique",
+          "published_at": "2026-04-29T23:00:30+00:00",
+          "summary": "India is getting a new music conference. Music services firm Gatsvy Media and Mumbai-based live venue Dome at the SVP Stadium are teaming up to stage The Bharat Music Experience. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c52d2d43ffc9",
+          "title": "UMG generated $3.39 billion in Q1, up 8.1% YoY – driven by BTS, Olivia Dean, Taylor Swift, and more",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-generated-3-39-billion-in-q1-up-8-1-yoy-driven-by-bts-olivia-dean-taylor-swift-and-more/",
+          "category": "musique",
+          "published_at": "2026-04-29T17:54:44+00:00",
+          "summary": "Universal Music Group has published its Q1 2026 results for the three months ending March 31 \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af6d9961ac20",
+          "title": "3 Observations On… BMG x Concord",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/3-observations-on-bmg-x-concord/",
+          "category": "ia",
+          "published_at": "2026-04-29T17:24:58+00:00",
+          "summary": "This article orginally appeared in Tim Ingham’s latest ‘Tim’s Take’ email, issued exclusively to MBW+ subscribers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "26e870159751",
+          "title": "Universal is selling 50% of its Spotify stake, generating around $1.4 billion",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-is-selling-50-of-its-spotify-stake-generating-around-1-4-billion/",
+          "category": "musique",
+          "published_at": "2026-04-29T16:55:16+00:00",
+          "summary": "UMG will sell half of its equity stake in Spotify and use the proceeds to help fund an expanded share buyback program totaling EUR €1 billion (USD $1.17bn)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6613e5e9c595",
+          "title": "GitHub en perte de fiabilité et de développeurs [MàJ]",
+          "source": "Next INpact",
+          "url": "https://next.ink/236163/github-en-perte-de-fiabilite-et-de-developpeurs/",
+          "category": "ia",
+          "published_at": "2026-04-29T15:56:03+00:00",
+          "summary": "GitHub a un problème de fiabilité qui pèse de plus en plus lourd dans l&#8217;esprit des utilisateurs. Plusieurs développeurs, usés par les dysfonctionnements de la plateforme de Microsoft, ont décidé de plier bagage. Mise à jour, 30 avril, 8h10 : ajout des éléments de réponse…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1d7aa17efab",
+          "title": "Uber se lance dans les hôtels et dévoile plusieurs nouveautés majeures",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244071-uber-se-lance-dans-les-hotels-et-devoile-plusieurs-nouveautes-majeures.html",
+          "category": "ia",
+          "published_at": "2026-04-29T15:44:11+00:00",
+          "summary": "À l'occasion de sa conférence annuelle Uber Go-Get, le géant des transports a annoncé qu'il allait proposer des réservations de chambres d'hôtel grâce à un partenariat avec Expedia. Uber veut transformer son application en super conciergerie pour vous permettre de réserver une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5605ee506cf9",
+          "title": "Le double atterrissage du Falcon Heavy de retour après deux ans d’absence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2244257-le-double-atterrissage-du-falcon-heavy-de-retour-apres-deux-ans-et-demi-dabsence.html",
+          "category": "ia",
+          "published_at": "2026-04-29T15:42:53+00:00",
+          "summary": "Une chorégraphie millimétrée dans le ciel de Floride. À l'occasion de la mission ViaSat-3 F3 ce mercredi, SpaceX a réussi à faire se poser presque simultanément les deux propulseurs de sa fusée Falcon Heavy, un ballet mécanique inédit depuis 673 jours.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac62e3838b58",
+          "title": "Le Diable s’habille en Prada 2 : pourquoi le retour de Miranda est la satire politique qu’on n’attendait pas",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2243797-le-diable-shabille-en-prada-2-pourquoi-le-retour-de-miranda-est-la-satire-politique-quon-nattendait-pas.html",
+          "category": "ia",
+          "published_at": "2026-04-29T15:34:02+00:00",
+          "summary": "En 2006, Miranda Priestly nous apprenait que notre pull bleu céruléen était le produit d’une décision prise dans une chambre feutrée par des gens qui « savaient ». 20 ans plus tard, les algorithmes ont remplacé les éditos. David Frankel revient avec une suite qui n'est pas une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da914843aa5b",
+          "title": "Formule 1, MotoGP : Canal+ fait feu de tout bois pour faire bloquer le streaming pirate",
+          "source": "Next INpact",
+          "url": "https://next.ink/235838/formule-1-motogp-canal-fait-feu-de-tout-bois-pour-faire-bloquer-le-streaming-pirate/",
+          "category": "justice",
+          "published_at": "2026-04-29T15:31:00+00:00",
+          "summary": "Canal+ vient d&#8217;obtenir du tribunal judiciaire de Paris une salve de décisions ordonnant la mise en œuvre de mesures de blocage portant sur une vingtaine de sites de streaming donnant accès aux retransmissions de la saison en cours de Formule 1 et de MotoGP. Comme dans le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "407786abe1b0",
+          "title": "Les origines d’Hawkins révélées : Netflix officialise la saison 2 de Stranger Things: Tales From ’85",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2243433-les-origines-dhawkins-revelees-netflix-officialise-la-saison-2-de-stranger-things-tales-from-85.html",
+          "category": "ia",
+          "published_at": "2026-04-29T15:14:33+00:00",
+          "summary": "Si les aventures en live-action de Stranger Things se sont achevées fin 2025, la franchise, elle, est loin d'être enterrée. À peine sorti sur Netflix, le spin-off animé Tales From ’85 s'offre déjà une saison 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d24f6731f1b7",
+          "title": "Le contenu d’un tiers des nouveaux sites est généré totalement ou partiellement par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/236002/le-contenu-dun-tiers-des-nouveaux-sites-est-genere-totalement-ou-partiellement-par-ia/",
+          "category": "ia",
+          "published_at": "2026-04-29T15:04:43+00:00",
+          "summary": "Selon un rapport d&#8217;Internet Archive, le contenu de 35 % des sites internet nouvellement créés en mai 2025 était soit complètement généré par intelligence artificielle, soit son édition était grandement assistée par une IA. Cela contribuerait à une baisse de la diversité…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83075bd5f8d2",
+          "title": "1er mai : attention aux virements bancaires qui se font un week-end prolongé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2243875-1er-mai-attention-aux-virements-bancaires-qui-se-font-un-week-end-prolonge.html",
+          "category": "ia",
+          "published_at": "2026-04-29T15:04:28+00:00",
+          "summary": "Le 1er mai tombe un vendredi en 2026. Une aubaine pour avoir trois jours de repos, mais moins pour faire des virements : attendez-vous à du retard pour certaines transactions, notamment les salaires.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1acac595b2a8",
+          "title": "L’IA de Doctrine.fr a « halluciné » une décision de la CEDH qui disait tout le contraire",
+          "source": "Next INpact",
+          "url": "https://next.ink/235993/lia-de-doctrine-fr-a-hallucine-une-decision-de-la-cedh-qui-disait-tout-le-contraire/",
+          "category": "ia",
+          "published_at": "2026-04-29T14:14:00+00:00",
+          "summary": "Une contributrice de Wikipédia a découvert que l&#8217;IA de Doctrine.fr avait « halluciné » que la Cour européenne des droits de l&#8217;homme avait « rejeté » la requête d&#8217;un plaidant. Or, la CEDH l&#8217;avait non seulement acceptée, mais la France avait en outre été…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c70585e332f5",
+          "title": "« Ne parle jamais de gobelins » : une étrange consigne cachée dans l’IA d’OpenAI provoque des débats sans fin",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2243759-ne-parle-jamais-de-gobelins-une-etrange-consigne-cachee-dans-lia-dopenai-provoque-des-debats-sans-fin.html",
+          "category": "ia",
+          "published_at": "2026-04-29T14:01:23+00:00",
+          "summary": "Dans les instructions internes de Codex CLI, l’agent de programmation d’OpenAI, une consigne inattendue revient à plusieurs reprises : ne jamais mentionner de gobelins, gremlins, ratons laveurs, trolls, ogres ou pigeons. Cette interdiction, devenue virale, alimente débats et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9cb3326d05d5",
+          "title": "Le propulseur magnétoplasmadynamique, le moteur futuriste que la NASA vient d’allumer pour de vrai",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2243809-un-panache-de-plasma-a-2800-c-le-test-infernal-de-la-nasa-pour-conquerir-lespace-profond.html",
+          "category": "ia",
+          "published_at": "2026-04-29T13:51:58+00:00",
+          "summary": "Pour expédier des astronautes vers Mars, la NASA mise sur un moteur digne de la science-fiction. L'agence spatiale a testé un propulseur électromagnétique au lithium d'une puissance de 120 kilowatts. Une avancée technologique qui concrétise le virage nucléaire américain pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bacda8dabdc0",
+          "title": "Transformer une PS5 en PC Linux, c’est possible (avec des limitations)",
+          "source": "Next INpact",
+          "url": "https://next.ink/236092/transformer-une-ps5-en-pc-linux-cest-possible-avec-des-limitations/",
+          "category": "ia",
+          "published_at": "2026-04-29T13:25:05+00:00",
+          "summary": "Avec la crise de la mémoire qui plombe les prix des composants PC, monter une machine ou en acheter une toute faite est douloureux pour le portefeuille. À la place, pourquoi ne pas recycler une PS5 en PC sous Linux ? C&#8217;est maintenant possible, grâce à une bidouille de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "882a204ce836",
+          "title": "Primary Wave raises $2.2 billion for fourth music fund",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/primary-wave-raises-2-2-billion-for-fourth-music-fund/",
+          "category": "musique",
+          "published_at": "2026-04-29T12:55:42+00:00",
+          "summary": "Fund 4 has already invested $700 million across more than 65 single-artist catalogs, including The Notorious B.I.G., Village People, Neil Sedaka and more\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e0236c93df3",
+          "title": "Study explores DSPs’ power when artists spark controversy",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/29/study-explores-dsps-power-when-artists-spark-controversy/",
+          "category": "musique",
+          "published_at": "2026-04-29T12:45:00+00:00",
+          "summary": "The recent cancellation of the UK’s Wireless Festival has generated another round of headlines about Ye (formerly Kanye West) and his past words and actions. Meanwhile, D4vd’s murder charge also reignited the debate about whether and when streaming services should remove music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f3b60f9e489",
+          "title": "The Beatles’ Apple Corps restructures executive team with new hires and promotions",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-beatles-apple-corps-restructures-executive-team-with-new-hires-and-promotions/",
+          "category": "ia",
+          "published_at": "2026-04-29T12:44:17+00:00",
+          "summary": "The hires span marketing, finance, retail, and strategy, all reporting to Tom Greene, who took on the role in September 2025.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a74ac7f6a729",
+          "title": "☕️ Suivant OpenAI, Google négocie pour faire une place à Gemini au Pentagone",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/suivant-openai-google-negocie-pour-faire-une-place-a-gemini-au-pentagone/",
+          "category": "ia",
+          "published_at": "2026-04-29T12:42:00+00:00",
+          "summary": "Après avoir mis la pression sur Anthropic pour pouvoir utiliser comme il veut ses modèles jusqu&#8217;à l&#8217;avoir désignée « fournisseur à risque pour la sécurité nationale », le Pentagone s&#8217;est tourné vers les concurrents de la startup. D&#8217;abord OpenAI en mars,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2ddb58bf2c6",
+          "title": "There’s now a collecting society just for AI-generated music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/29/theres-now-a-collecting-society-just-for-ai-generated-music/",
+          "category": "musique",
+          "published_at": "2026-04-29T12:40:00+00:00",
+          "summary": "For now, most established collecting societies are not representing GenAI-music creators, amid concerns over the training models of the platforms that they use – and also questions about whether their work even qualifies for copyright protection. However, with nearly 70,000…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43d21223f332",
+          "title": "iHeartMedia in talks to be acquired by SiriusXM Holdings (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/siriusxm-in-talks-to-acquire-iheartmedia-report/",
+          "category": "ia",
+          "published_at": "2026-04-29T12:36:37+00:00",
+          "summary": "Bloomberg reported that the talks are still at an early stage and may not result in a deal\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2df043cb9a6d",
+          "title": "Sony Music wins legal battle over Jimi Hendrix Experience rights",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/29/sony-music-wins-legal-battle-over-jimi-hendrix-experience-rights/",
+          "category": "musique",
+          "published_at": "2026-04-29T12:30:00+00:00",
+          "summary": "Sony Music and Experience Hendrix have emerged as victors in a UK High Court battle over the rights to studio albums by The Jimi Hendrix Experience. They had faced legal action from the estates of Hendrix’s bandmates Noel Redding and Mitch Mitchell, who were seeking copyright…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fda94256c29c",
+          "title": "Indie labels team up on campaign promoting recycled vinyl",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/29/indie-labels-team-up-on-campaign-promoting-recycled-vinyl/",
+          "category": "musique",
+          "published_at": "2026-04-29T12:30:00+00:00",
+          "summary": "We shouldn’t call it a ‘vinyl boom’ any more: we’re now nearly two decades in to the sustained resurgence of the physical format. And while that’s a happy trend, it does bring some concerns about vinyl’s environmental impact. The latest effort to tackle that challenge comes from…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "380441b22207",
+          "title": "L’USB Type-C s’impose davantage en Europe, mais…",
+          "source": "Next INpact",
+          "url": "https://next.ink/235981/lusb-type-c-simpose-davantage-en-europe-mais/",
+          "category": "ia",
+          "published_at": "2026-04-29T12:03:14+00:00",
+          "summary": "Dans l’Union européenne, la directive sur le chargeur universel s’applique désormais aux ordinateurs portables. L’USB Type-C, qui a de nombreux avantages, est obligatoire comme port de charge. Un pas dans le bon sens, mais il reste un problème : la qualité des chargeurs et des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89106e49409f",
+          "title": "Spotify co-CEOs talk ad challenges and plans for GenAI features",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/29/spotify-co-ceos-talk-ad-challenges-and-plans-for-genai-features/",
+          "category": "musique",
+          "published_at": "2026-04-29T11:30:00+00:00",
+          "summary": "Following yesterday’s quarterly financial results, Spotify’s new co-CEOs Alex Norström and Gustav Söderström fielded questions from analysts in the company’s earnings call. Challenges in its advertising business, some stats on key features, and plans for GenAI were on the…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "56f9d333e8d4",
           "title": "On a vu la citadine ID. Polo : Volkswagen a mis les petits plats dans les grands",
@@ -212,6 +827,16 @@
           "category": "institutionnel",
           "published_at": "2026-04-29T06:00:00+00:00",
           "summary": "Symfonium, la coentreprise montée par les frères Klaba en 2023 avec le soutien financier de la Banque des territoires (25 % du capital), accueillera le 11 mai prochain son nouveau directeur général, Brice Lecoeur. Ancien dirigeant d’AWS France puis de Cloudflare France, il aura…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9af61719ffd",
+          "title": "☕️ Ancien de Cloudflare et AWS, Boris Lecoeur prend la tête de Qwant et Shadow",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/ancien-de-cloudflare-et-aws-brice-lecoeur-prend-la-tete-de-qwant-et-shadow/",
+          "category": "institutionnel",
+          "published_at": "2026-04-29T06:00:00+00:00",
+          "summary": "Symfonium, la coentreprise montée par les frères Klaba en 2023 avec le soutien financier de la Banque des territoires (25 % du capital), accueillera le 11 mai prochain son nouveau directeur général, Boris Lecoeur. Ancien dirigeant d’AWS France puis de Cloudflare France, il aura…",
           "summary_type": "extrait source"
         },
         {
