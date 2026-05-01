@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-04-30T10:20:09.593765+00:00",
+  "generated_at": "2026-05-01T09:58:21.124368+00:00",
   "days": [
+    {
+      "date": "2026-05-01",
+      "articles": [
+        {
+          "id": "384679585af0",
+          "title": "KATSEYE Sets One-Off Performance In Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/katseye-one-off-performance-melbourne-australia-1236236759/",
+          "category": "musique",
+          "published_at": "2026-05-01T09:21:05+00:00",
+          "summary": "The international girl group will deliver a one-off show next Friday, May 8, at Melbourne’s Festival Hall.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e34f5eb5181e",
+          "title": "Au fait, pourquoi l’IA Claude d’Anthropic s’appelle Claude ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2235401-au-fait-pourquoi-claude-sappelle-claude.html",
+          "category": "ia",
+          "published_at": "2026-05-01T09:01:00+00:00",
+          "summary": "Pourquoi le chatbot d'Anthropic porte-t-il un prénom complètement oublié par les Français ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e06135715f3a",
+          "title": "Noah Kahan’s ‘The Great Divide’ Debuts at No. 1 In Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-no-1-aria-australia-1236236746/",
+          "category": "ia",
+          "published_at": "2026-05-01T08:32:19+00:00",
+          "summary": "Kahan nabs his second consecutive ARIA Chart leader after \"Stick Season,\" which logged three weeks at No. 1 in 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e22538397ec7",
+          "title": "#Flock : Vive la fête du travail !",
+          "source": "Next INpact",
+          "url": "https://next.ink/236560/flock-vive-la-fete-du-travail/",
+          "category": "ia",
+          "published_at": "2026-05-01T08:10:00+00:00",
+          "summary": "À tous les travailleurs de ce monde : à ceux qui se lèvent tôt pour aller au turbin, à ceux qui se font fliquer le long du chemin, à ceux qui sont scrutés jusqu&#8217;à la moelle par leur boîte pour finir à la poubelle le lendemain, à ceux qui se font virer par un manager…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a41ad5e3063a",
+          "title": "Voyage dans les abysses : voilà l’incroyable vision des animaux de l’extrême",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2242753-ce-que-les-creatures-des-abysses-voient-dans-le-noir.html",
+          "category": "ia",
+          "published_at": "2026-05-01T07:31:00+00:00",
+          "summary": "Comment les créatures des abysses perçoivent-elles un monde sans soleil ? Dans un extrait de leur ouvrage Secrets de l'océan profond, les chercheurs Juliette Ravaux et Sébastien Duperron nous entraînent à plus de 2 000 mètres sous la surface. Des crevettes détectrices de chaleur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e137aafc9d24",
+          "title": "#Nextquick : Pourquoi et comment Opus 4.7 crame ses tokens beaucoup plus vite qu’Opus 4.6",
+          "source": "Next INpact",
+          "url": "https://next.ink/236418/nextquick-pourquoi-et-comment-opus-4-7-crame-ses-tokens-beaucoup-plus-vite-quopus-4-6/",
+          "category": "ia",
+          "published_at": "2026-05-01T07:09:00+00:00",
+          "summary": "Opus 4.7 est plus performant certes, mais consomme aussi bien plus vite les forfaits des utilisateurs. La faute à la tokenization et à une réflexion plus « intense », deux éléments qui engloutissent plus de tokens. Autre conséquence : même si Opus 4.6 et 4.7 coûtent le même prix…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8dac98511bf",
+          "title": "Amazon casse le prix de nombreux jeux pépites sur Switch 2 pour les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2244905-amazon-casse-le-prix-de-nombreux-jeux-pepites-sur-switch-2-pour-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-05-01T07:05:00+00:00",
+          "summary": "Les French Days battent leur plein et les jeux vidéo sont aussi de la partie. Pour vous éviter de fouiller tout le catalogue d'Amazon, nous avons fait le tri et regroupé ici les meilleures offres du moment sur nos véritables jeux coups de cœur actuellement en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fa14a32bb2a",
+          "title": "Olivia Rodrigo’s New Album Has ‘Multiple Songs’ Inspired by Miranda and Steve from ‘Sex And The City",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-new-album-sex-and-the-city-inspiration-1236236738/",
+          "category": "musique",
+          "published_at": "2026-05-01T06:49:22+00:00",
+          "summary": "The pop phenomenon stopped by \"The Tonight Show,\" where she spilled the beans on her forthcoming album, tour and \"SNL\" gig.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a51858b76c68",
+          "title": "Le casting 100 % francophone rêvé pour Clair Obscur : Expedition 33",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2236057-le-casting-100-francophone-reve-pour-clair-obscur-expedition-33.html",
+          "category": "ia",
+          "published_at": "2026-05-01T06:01:00+00:00",
+          "summary": "Clair Obscur : Expedition 33 a ébloui son monde avec sa direction artistique inspirée de la Belle Époque. En attendant le film, nous nous sommes prêtés au jeu du casting idéal. Exit Hollywood : pour incarner Gustave, Lune ou Maëlle, voici la distribution 100 % française que l'on…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2d60137946b",
+          "title": "Zara Larsson Previews ‘Midnight Sun’ Remix Album ‘Girls Trip’ at Intimate Listening Party",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/zara-larsson-previews-midnight-sun-girls-trip-1236236633/",
+          "category": "musique",
+          "published_at": "2026-05-01T05:54:00+00:00",
+          "summary": "The Swedish pop star also shared her inspiration for the project, her thoughts on each track and her own girls trip essentials.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "23d92dcc14b8",
+          "title": "The Black Keys’ Peel Off ‘Peaches!’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/the-black-keys-peaches-stream-it-now-1236236714/",
+          "category": "musique",
+          "published_at": "2026-05-01T05:42:52+00:00",
+          "summary": "\"Peaches!\" is the Grammy Award-winning blue specialists' 14th studio album, and third in as many years.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12557b7ab466",
+          "title": "Étoiles filantes, pleine Lune, retour de Mercure : que voir dans le ciel en mai 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2242841-etoiles-filantes-pleine-lune-retour-de-mercure-que-voir-dans-le-ciel-en-mai-2026.html",
+          "category": "ia",
+          "published_at": "2026-05-01T05:35:00+00:00",
+          "summary": "Que peut-on observer à l'œil nu dans le ciel en mai 2026 ? Deux occurrences de la pleine Lune, des étoiles filantes et plusieurs conjonctions. Voici le programme astronomique du mois, accessible même aux débutants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dcb9326e493e",
+          "title": "Madonna and Sabrina Carpenter, Kacey Musgraves, Zara Larsson & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madonna-sabrina-carpenter-new-music-friday-guide-1236236591/",
+          "category": "musique",
+          "published_at": "2026-05-01T05:19:34+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31a8ea7210fb",
+          "title": "Lizzo Is 100% That ‘Bitch’ on Upcoming Album’s Bold Title Track: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/lizzo-bitch-new-song-album-title-track-1236235864/",
+          "category": "musique",
+          "published_at": "2026-05-01T04:05:46+00:00",
+          "summary": "The concept album built around the in-your-face title is the follow-up to 2022's Special.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef71127e0f1e",
+          "title": "Kacey Musgraves Finds Herself In The ‘Middle of Nowhere’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/kacey-musgraves-middle-of-nowhere-album-stream-1236236498/",
+          "category": "musique",
+          "published_at": "2026-05-01T04:02:59+00:00",
+          "summary": "Kacey Musgraves' new album is out now.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9163622c562f",
+          "title": "The ‘Devil Wears Prada 2’ Soundtrack Is Ready for the Runway: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/devil-wears-prada-2-soundtrack-lady-gaga-stream-it-now-1236235846/",
+          "category": "ia",
+          "published_at": "2026-05-01T04:01:12+00:00",
+          "summary": "Featuring three new Lady Gaga songs, the star-studded set arrives the same day its accompanying film hits theaters. Get all the details.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-04-30",
       "articles": [
+        {
+          "id": "6777c255881d",
+          "title": "Cybersécurité de l’État : le plan du gouvernement pour (essayer de) stopper l’hémorragie",
+          "source": "Next INpact",
+          "url": "https://next.ink/236507/cybersecurite-de-letat-le-plan-du-gouvernement-pour-essayer-de-stopper-lhemorragie/",
+          "category": "ia",
+          "published_at": "2026-04-30T18:31:41+00:00",
+          "summary": "Fuites de données, cyberattaques, failles de sécurité : pas un jour ne se passe sans que l&#8217;actualité rappelle la vulnérabilité des infrastructures numériques. C&#8217;est le cas dans les entreprises privées, mais aussi dans l&#8217;administration publique et notoirement en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4479d3328b4b",
+          "title": "In Q1, YouTube Music and Premium saw ‘largest quarterly increase’ in non-trial subscribers since 2018 launch, says Alphabet CEO, as platform’s quarterly ad revenues rose to $9.88B",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/youtube-music-and-premium-saw-largest-quarterly-increase-in-non-trial-subscribers-since-2018-launch-says-alphabet-ceo-as-platforms-ad-revenues-rose-to-9-88b/",
+          "category": "musique",
+          "published_at": "2026-04-30T18:06:48+00:00",
+          "summary": "YouTube's advertising revenue grew 11% YoY to $9.88 billion in Q1 2026\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b967c5093678",
+          "title": "Tech startup Nebula partners with Ghazi Shami’s Supply Chain to launch what it calls an ‘earn-before-you-stream’ music distro service",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tech-startup-nebula-partners-with-ghazi-shamis-supply-chain-to-launch-what-it-calls-an-earn-before-you-stream-music-distro-service/",
+          "category": "ia",
+          "published_at": "2026-04-30T17:34:30+00:00",
+          "summary": "The new service lets fans invest in artists' music via Nebula's marketplace\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e0d950835b3",
+          "title": "Hadopi : la fameuse « réponse graduée » se fait dégommer par le conseil d’État",
+          "source": "Next INpact",
+          "url": "https://next.ink/236333/hadopi-la-fameuse-reponse-graduee-se-fait-degommer-par-le-conseil-detat/",
+          "category": "justice",
+          "published_at": "2026-04-30T16:07:18+00:00",
+          "summary": "Dans une décision qui marque peut-être la fin d’un dossier de 17 ans, le Conseil d&#8217;État vient de planter des clous du cercueil de la « réponse graduée », dispositif mis en place par la fameuse Hadopi et opéré depuis 2021 par l’Arcom. Le Conseil d&#8217;État vient de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc3b9a46d7f1",
+          "title": "Believe and TuneCore are blocking distribution of Generative AI tracks made on ‘pirate studios’ like Suno – while inking new partnerships with ElevenLabs and Udio",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-and-tunecore-blocking-suno-elevenlabs-and-udio/",
+          "category": "ia",
+          "published_at": "2026-04-30T15:54:48+00:00",
+          "summary": "Denis Ladegaillerie walks MBW through company's new policy – and gives his thoughts on AI, Ackman, and more\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b7597b81822",
+          "title": "On annonçait sa mort face à ChatGPT, mais Google n’a jamais gagné autant d’argent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244415-on-annoncait-sa-mort-face-a-chatgpt-mais-google-na-jamais-gagne-autant-dargent.html",
+          "category": "ia",
+          "published_at": "2026-04-30T15:30:00+00:00",
+          "summary": "Alors que beaucoup prédisaient le déclin inévitable de Google et de son moteur de recherche face à la révolution de l'IA générative, les résultats trimestriels publiés par Alphabet le 29 avril 2026 prouvent exactement l'inverse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc096f855952",
+          "title": "Hadopi est presque mort : le dispositif anti-piratage ne peut plus vous envoyer devant un juge",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2245387-hadopi-est-presque-mort-le-dispositif-anti-piratage-ne-peut-plus-vous-envoyer-devant-un-juge.html",
+          "category": "loi",
+          "published_at": "2026-04-30T15:17:09+00:00",
+          "summary": "Le Conseil d'État annule plusieurs dispositions du décret de 2010 qui permet à Hadopi de s'attaquer aux pirates en plusieurs étapes (le principe de riposte graduée, avec un envoi devant le juge au troisième mail). Saisie en 2019, la juridiction administrative juge que le cœur du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37513788b4fb",
+          "title": "☕️ Telegram épinglé par l’Arcom pour sa lenteur face au piratage sportif",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/telegram-epingle-par-larcom-pour-sa-lenteur-face-au-piratage-sportif/",
+          "category": "justice",
+          "published_at": "2026-04-30T15:06:17+00:00",
+          "summary": "Telegram n&#8217;est pas suffisamment réactif pour retirer les contenus illicites, a jugé l&#8217;Arcom. Une décision qui pourrait peser lourd pour la messagerie, dans le viseur des ayants droit et des régulateurs européens. L&#8217;application Telegram est dans la ligne de mire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "754c7eac506f",
+          "title": "Quand sort le jeu de course Star Wars: Galactic Racer ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2245327-quand-sort-le-jeu-de-course-star-wars-galactic-racer.html",
+          "category": "ia",
+          "published_at": "2026-04-30T14:54:06+00:00",
+          "summary": "La date de sortie de Star Wars: Galactic Racer avait fuité il y a quelques jours. Son développeur, Fuse Games, vient de la rendre officielle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8b4ca69ae21",
+          "title": "Vous pouvez enfin quitter l’application YouTube sans couper votre vidéo, et sans payer d’abonnement Premium",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244731-vous-pouvez-enfin-quitter-lapplication-youtube-sans-couper-votre-video-et-sans-payer-dabonnement-premium.html",
+          "category": "ia",
+          "published_at": "2026-04-30T14:50:25+00:00",
+          "summary": "C’est la fin d’une frustration pour des millions d’utilisateurs. YouTube officialise le déploiement mondial et gratuit du Picture-in-Picture (PiP) pour tout le monde. Cette option était jusqu'ici réservée aux abonnés Premium dans la plupart des pays.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f8b25bba92d",
+          "title": "Un robot humanoïde par heure : face à l’offensive chinoise, ce fabricant américain multiplie par 24 sa production",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2245073-un-robot-humanoide-par-heure-face-a-loffensive-chinoise-ce-fabricant-americain-multiplie-par-24-sa-production.html",
+          "category": "ia",
+          "published_at": "2026-04-30T14:36:35+00:00",
+          "summary": "L'entreprise américaine Figure déclare avoir multiplié par 24 sa production de robots humanoïdes en seulement quatre mois, atteignant désormais un rythme d’un exemplaire par heure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c249a3ff159d",
+          "title": "Voici où peut trouver plein de Lego en promotion pendant les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2244463-voici-ou-peut-trouver-plein-de-lego-en-promotion-pendant-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-04-30T14:34:30+00:00",
+          "summary": "Des Lego, il y en a beaucoup trop. Et parmi la longue liste de sets que vous convoitez, certains sont très onéreux. Aussi, quand des promotions tombent, comme pendant ces French Days, cela permet de faire un tri dans la liste et d’acquérir l’un des sets désirés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5af628031bed",
+          "title": "Symphonic targets catalog acquisitions and indie artist financing deals with launch of Symphonic NEXT",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/symphonic-targets-catalog-acquisitions-and-indie-artist-financing-deals-with-launch-of-symphonic-next/",
+          "category": "ia",
+          "published_at": "2026-04-30T14:24:13+00:00",
+          "summary": "Michelle Garramone, who recently joined Symphonic as Head of Strategic Partnerships, will lead the new initiative.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a23d949ef31",
+          "title": "Dopés par l’IA, les géants du cloud projettent 700 milliards $ d’investissements en 2026",
+          "source": "Next INpact",
+          "url": "https://next.ink/236240/dopes-par-lia-les-geants-du-cloud-projettent-700-milliards-dinvestissements-en-2026/",
+          "category": "ia",
+          "published_at": "2026-04-30T14:16:08+00:00",
+          "summary": "Microsoft, Meta, Amazon et Alphabet (Google) ont tous quatre profité de la publication de leurs résultats financiers pour annoncer, mercredi, une révision à la hausse de leurs investissements en direction de l&#8217;IA. Les enveloppes prévisionnelles cumulées représentent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "beb81b8e7285",
+          "title": "Un morceau de fusée Falcon 9 va bientôt s’écraser sur la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2244609-un-morceau-de-fusee-falcon-9-va-bientot-secraser-sur-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-04-30T14:10:53+00:00",
+          "summary": "Un débris de fusée laissé dans l'espace après un lancement de SpaceX va finir sa course sur la Lune d'ici quelques mois. Un incident qui ne présente aucun risque, mais qui interroge sur la gestion des débris spatiaux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3af4b604a68e",
+          "title": "Sandbox Guide :: The perfect pivot",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/sandbox-guide-the-perfect-pivot/",
+          "category": "musique",
+          "published_at": "2026-04-30T14:00:00+00:00",
+          "summary": "“An artist is usually ready for a brand evolution when they’ve exhausted the current version of themselves&#8221; Sandbox Guides are for music marketers: They explain how you can use new platforms, create new strategies, and build new audiences. The Guides feature cutting-edge…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c54c635a0f4a",
+          "title": "Et si on construisait un barrage géant entre la Russie et l’Alaska ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2241089-et-si-on-construisait-un-barrage-geant-entre-la-russie-et-lalaska.html",
+          "category": "ia",
+          "published_at": "2026-04-30T13:51:47+00:00",
+          "summary": "Le courant océanique AMOC est chaque année de plus en plus faible, ce qui est inquiétant pour l'écosystème mondial. Afin de le renforcer, des scientifiques ont eu une idée : construire un barrage géant dans le détroit de Béring. Une solution prometteuse, mais pas miraculeuse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20b76f04aa8b",
+          "title": "Resident Evil : le premier trailer totalement horrifique du reboot de 2026 est là",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2245143-resident-evil-le-premier-trailer-totalement-horrifique-du-reboot-de-2026-est-la.html",
+          "category": "ia",
+          "published_at": "2026-04-30T13:46:00+00:00",
+          "summary": "Oubliez tout ce que vous pensiez savoir sur les adaptations de&nbsp;Resident Evil. Sony vient de dévoiler la bande-annonce du nouveau film de la franchise, et le moins que l’on puisse dire, c’est que le réalisateur Zach Cregger (Barbarian) semble avoir injecté une dose de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01db27d43c02",
+          "title": "Marketplaces étrangères : 46 % des produits testés sont dangereux, alerte la DGCCRF",
+          "source": "Next INpact",
+          "url": "https://next.ink/236318/marketplaces-etrangeres-46-des-produits-testes-sont-dangereux-alerte-la-dgccrf/",
+          "category": "ia",
+          "published_at": "2026-04-30T13:43:49+00:00",
+          "summary": "La DGCCRF a passé au crible des chargeurs électriques achetés sur des plateformes étrangères. Le résultat est sans appel : 100 % sont non conformes et 60 % sont dangereux. D’autres produits ont été testés, et ce n’est pas beaucoup mieux. Sur les 588 articles analysés, 46 % sont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d16cad561aac",
+          "title": "India’s Times Music buys Punjabi record label Catrack Entertainment — in third acquisition since striking $100m JV with Primary Wave",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indias-times-music-buys-punjabi-record-label-catrack-entertainment-in-third-acquisition-since-striking-100m-jv-with-primary-wave/",
+          "category": "musique",
+          "published_at": "2026-04-30T13:29:58+00:00",
+          "summary": "Punjabi specialist Catrack was founded in 1990, with a catalog that spans what the company describes as a 'golden era' of the genre.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52f293a922c3",
+          "title": "Gros cadeau pour les joueurs PlayStation : FC 26 (FIFA) devient gratuit sur PS5 et PS4",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2244389-playstation-plus-les-3-jeux-offerts-en-mai-2026.html",
+          "category": "ia",
+          "published_at": "2026-04-30T13:25:47+00:00",
+          "summary": "En mai, les abonnés PlayStation Plus vont pouvoir refaire le match PSG-Bayern Munich sur EA Sports FC 26, alors que la Coupe du monde approche. Ou souffrir dans Wuchang: Fallen Featherss. Voici les trois jeux offerts sur le service de Sony.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39414114a395",
+          "title": "Non, la « bulle IA » ne va pas éclater : les milliards d’Amazon, Microsoft et Google en sont la preuve",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244649-non-la-bulle-ia-ne-va-pas-eclater-les-milliards-damazon-microsoft-et-google-en-sont-la-preuve.html",
+          "category": "ia",
+          "published_at": "2026-04-30T13:03:19+00:00",
+          "summary": "La crainte d’une bulle de l’IA s’installe dans le débat public, portée par l’ampleur des investissements et la frénésie des marchés. Pourtant, à l’heure de publier leurs résultats trimestriels, Alphabet, Microsoft et Amazon affichent des performances solides, largement soutenues…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a97cc427797",
+          "title": "Sorry, AI artists. Spotify’s not letting you become ‘verified’ on its platform.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sorry-ai-artists-spotifys-not-letting-you-become-verified-on-its-platform/",
+          "category": "musique",
+          "published_at": "2026-04-30T12:53:42+00:00",
+          "summary": "Spotify is introducing a new verification badge for artist profiles.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb23caea5424",
+          "title": "YouTube ads were a $9.88bn business in first quarter of 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/youtube-ads-were-a-9-88bn-business-in-first-quarter-of-2026/",
+          "category": "ia",
+          "published_at": "2026-04-30T12:38:00+00:00",
+          "summary": "Alphabet was another tech giant announcing its latest quarterly financial results this week – including the latest update on YouTube&#8217;s advertising business. That generated $9.88bn of revenues in the first quarter, up 10.7% year-on-year. This follows the company&#8217;s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b19f9716dcc9",
+          "title": "Meta blames Iran and Russia for decline in daily active users",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/meta-blames-iran-and-russia-for-decline-in-daily-active-users/",
+          "category": "ia",
+          "published_at": "2026-04-30T12:35:00+00:00",
+          "summary": "Red alert, red alert, klaxon klaxon! Meta had 3.56 billion daily active people across its apps in March 2026, down from 3.58 billion people in December 2025. Clear the decks for How It All Went Wrong For Meta hot takes! The flight has begu&#8230; Alright, maybe not. &#8220;The…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf5b27e96056",
+          "title": "‘Patreon isn’t social media’ – but it does now have short-form posts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/patreon-isnt-social-media-but-it-does-now-have-short-form-posts/",
+          "category": "musique",
+          "published_at": "2026-04-30T12:32:00+00:00",
+          "summary": "Bob Dylan has a career of gnomic quips behind him, but now he also has Quips with a capital &#8216;Q&#8217;. What are we talking about? Quips are the latest feature added to Patreon, the membership platform that Dylan recently became the latest high-profile musician on. In…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75023b3f8074",
+          "title": "UK’s ban on ticket scalping may be delayed until next year",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/uks-ban-on-ticket-scalping-may-be-delayed-until-next-year/",
+          "category": "musique",
+          "published_at": "2026-04-30T12:29:00+00:00",
+          "summary": "As an announcement, &#8216;Government bans ticket touting to protect fans from rip-off prices&#8217; seems crystal clear. But has the UK government – which announced exactly that last November – actually banned ticket touting (scalping)? No it hasn&#8217;t. And it may not be…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58a152efaf0e",
+          "title": "Prediction-market firm Kalshi adds trading for music streams",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/prediction-market-firm-kalshi-adds-trading-for-music-streams/",
+          "category": "musique",
+          "published_at": "2026-04-30T12:26:00+00:00",
+          "summary": "Prediction markets – where people bet on what they think will happen in the future – have been making some negative headlines recently: see the Guardian&#8217;s investigation into people &#8220;betting millions on war&#8221; on one of the biggest platforms, Polymarket. However,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef86f960f917",
+          "title": "ElevenLabs launches ElevenMusic as ‘not just a listening app’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/elevenlabs-launches-elevenmusic-as-not-just-a-listening-app/",
+          "category": "musique",
+          "published_at": "2026-04-30T12:22:00+00:00",
+          "summary": "AI firm ElevenLabs&#8217; march into music has been swift. Last August it announced licensing deals with Kobalt and Merlin as well as plans to launch a service called &#8216;ElevenMusic&#8217;. One $500m funding round and an AI-music album featuring Liza Minnelli and Art…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae33aff92532",
+          "title": "Primary Wave’s latest fund to buy music rights reaches $2.23bn",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/primary-waves-latest-fund-to-buy-music-rights-reaches-2-23bn/",
+          "category": "musique",
+          "published_at": "2026-04-30T12:19:00+00:00",
+          "summary": "Remember the flurry of speculation that the catalogue-sales boom was about to pop – or at least deflate? A series of announcements this year on big raises for catalogue buyers suggests otherwise. Primary Wave Music made the latest headlines, announcing yesterday that it has…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e874fcfca57c",
+          "title": "Hybe reports biggest-ever first quarter with revenues up 39.5%",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/hybe-reports-biggest-ever-first-quarter-with-revenues-up-39-5/",
+          "category": "musique",
+          "published_at": "2026-04-30T12:16:00+00:00",
+          "summary": "South Korean music firm Hybe enjoyed a bumper Q1 this year, and no prizes for guessing one of the prime drivers of its growth: BTS. Hybe reported revenues of KRW 698.3bn ($471.2m at current exchange rates) for the first quarter. That&#8217;s a record Q1 for the company, with the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32760711ca03",
+          "title": "TikTok scam ads are using deepfakes of Rihanna and Taylor Swift",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/tiktok-scam-ads-are-using-deepfakes-of-rihanna-and-taylor-swift/",
+          "category": "ia",
+          "published_at": "2026-04-30T12:13:00+00:00",
+          "summary": "Why has Taylor Swift filed &#8216;sound marks&#8217; for her voice? You can watch a few reasons why in this blog post by deepfake experts Copyleaks. It tracks some of the &#8220;AI-manipulated ads&#8221; it has found circulating on TikTok featuring deepfakes of celebrities…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "a8997b2ec688",
           "title": "Revoir le webinaire - Usages numériques des enfants : comment sensibiliser les parents-salariés ?",
@@ -12,6 +497,66 @@
           "category": "ia",
           "published_at": "2026-04-30T12:00:00+00:00",
           "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux usages numériques des enfants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3103060b13df",
+          "title": "The UK’s PRS for Music paid out $1.41B to songwriters, composers and publishers in 2025",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-uks-prs-for-music-paid-out-1-41b-to-songwriters-composers-and-publishers-in-2025/",
+          "category": "musique",
+          "published_at": "2026-04-30T11:45:38+00:00",
+          "summary": "Royalty collections at UK collection society grew 7.7% YoY to $1.63B\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6880a5e2c1a",
+          "title": "Copy fail : depuis 2017, une faille dans le noyau Linux permettait à un utilisateur de passer root",
+          "source": "Next INpact",
+          "url": "https://next.ink/236230/copy-fail-depuis-2017-une-faille-dans-le-noyau-linux-permettait-a-un-utilisateur-de-passer-root/",
+          "category": "ia",
+          "published_at": "2026-04-30T11:40:21+00:00",
+          "summary": "Depuis 2017, une vulnérabilité dans le module cryptographique authencesn du noyau Linux laissait à un compte d&#8217;un simple utilisateur la possibilité de passer en root. Elle concerne la plupart des grandes distributions jusqu&#8217;au déploiement du patch, qui est déjà en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccb70ef9f77e",
+          "title": "Dirty Hit opens first continental European office in Berlin, led by EU Label Manager Noura Labbani",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dirty-hit-opens-first-continental-european-office-in-berlin-led-by-eu-label-manager-noura-labbani/",
+          "category": "musique",
+          "published_at": "2026-04-30T11:33:37+00:00",
+          "summary": "Labbani will lead Dirty Hit's European operations for its full roster\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0f73b2a3450",
+          "title": "Pourquoi on ne croit pas à la rumeur sur la mort du Apple Vision Pro",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2244521-pourquoi-on-ne-croit-pas-a-la-rumeur-sur-la-mort-du-apple-vision-pro.html",
+          "category": "ia",
+          "published_at": "2026-04-30T11:31:00+00:00",
+          "summary": "Dans un article paru le 29 avril 2026, MacRumors affirme avoir appris qu'Apple a abandonné son casque de réalité mixte. La marque préfèrerait se concentrer sur des lunettes et ne croirait plus au potentiel du Vision Pro. Mais attention aux conclusions hâtives.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d2343fa2068",
+          "title": "UMG revenues up 8.1% as it prepares to sell 50% of Spotify stake",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/umg-revenues-up-8-1-as-it-prepares-to-sell-50-of-spotify-stake/",
+          "category": "musique",
+          "published_at": "2026-04-30T11:30:00+00:00",
+          "summary": "One of the big questions around Universal Music Group&#8217;s quarterly financials announcement yesterday was whether it would provide an update on the $63.5bn acquisition bid for the company made by hedge-fund Pershing Square. The question was dispatched crisply by chairman and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a202338e91f",
+          "title": "Hybe India shares venues for Guwahati and Mumbai auditions and pop-ups",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/04/30/hybe-india-shares-venues-for-guwahati-and-mumbai-auditions-and-pop-ups/",
+          "category": "ia",
+          "published_at": "2026-04-30T10:35:14+00:00",
+          "summary": "Five-star hotels and malls are turning out to be the preferred venues where Hybe will conduct its hunt for talent to form an Indian girl group, and its adjacent pop-up [&#8230;]\nThe post is from Music Ally.",
           "summary_type": "extrait source"
         },
         {
