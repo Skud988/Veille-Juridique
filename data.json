@@ -1,9 +1,434 @@
 {
-  "generated_at": "2026-05-03T09:40:23.898624+00:00",
+  "generated_at": "2026-05-04T10:25:27.954996+00:00",
   "days": [
+    {
+      "date": "2026-05-04",
+      "articles": [
+        {
+          "id": "789e70dbea4d",
+          "title": "Le procès Musk contre Altman va être diffusé en direct : comment écouter l’audience sur l’avenir d’OpenAI ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2246083-le-proces-musk-contre-altman-va-etre-diffuse-en-direct-comment-ecouter-laudience-sur-lavenir-dopenai.html",
+          "category": "justice",
+          "published_at": "2026-05-04T10:01:20+00:00",
+          "summary": "Le procès entre Elon Musk et Sam Altman, qui pourrait bouleverser l'avenir d'OpenAI, va être diffusé en direct à partir de sa seconde semaine. Problème : le tribunal n'autorise qu'un flux audio. Il sera impossible de le regarder en vidéo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be86c3bf7659",
+          "title": "Volkswagen attend sa plateforme avec Rivian pour être aussi rentable avec ses électriques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2245969-volkswagen-attend-sa-plateforme-avec-rivian-pour-etre-aussi-rentable-avec-ses-electriques.html",
+          "category": "ia",
+          "published_at": "2026-05-04T09:59:48+00:00",
+          "summary": "La transition vers le 100 % électrique chamboule les plans financiers des constructeurs. Pour Volkswagen, la question de la rentabilité des voitures électriques intervient dans un contexte d'incertitude du marché. Le groupe mise énormément sur sa future plateforme avec Rivian…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73edd921486d",
+          "title": "« Une simple tactique marketing » : IMAX contre-attaque violemment contre Disney et son Infinity Vision",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246037-une-simple-tactique-marketing-imax-contre-attaque-violemment-contre-disney-et-son-infinity-vision.html",
+          "category": "musique",
+          "published_at": "2026-05-04T09:46:37+00:00",
+          "summary": "C'est une guerre ouverte pour la domination des écrans géants. Alors que Disney vient de lancer « Infinity Vision », son propre label pour les salles premium, le CFO d'IMAX n'a pas mâché ses mots. Pour l'entreprise technologique, cette nouvelle certification n'est qu'un écran de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3835db34145e",
+          "title": "Le secret de Yoda : pourquoi le maître Jedi parle-t-il à l’envers dans Star Wars ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2245935-le-secret-de-yoda-pourquoi-le-maitre-jedi-parle-t-il-a-lenvers-dans-star-wars.html",
+          "category": "ia",
+          "published_at": "2026-05-04T09:36:15+00:00",
+          "summary": "« Parler à l'envers, pourquoi Yoda le fait-il ? » En ce 4 mai, journée mondiale de Star Wars, retour sur le secret de fabrication du phrasé le plus célèbre de la galaxie. De l'intention pédagogique de George Lucas à l'improvisation du marionnettiste Frank Oz, voilà comment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "095cb73529b2",
+          "title": "Amazon fait chuter le prix du meilleur casque audio de Bose pour les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2245975-amazon-fait-chuter-le-prix-du-meilleur-casque-audio-de-bose-pour-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-05-04T09:33:14+00:00",
+          "summary": "[Deal du jour] Le QuietComfort Ultra II est le casque haut de gamme de Bose. Un modèle de grande qualité, dont le prix baisse sur Amazon pendant les French Days.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f482230c5272",
+          "title": "Vous n’avez pas encore vu toutes les photos de la mission Artémis II autour de la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2245847-vous-navez-pas-encore-vu-toutes-les-photos-de-la-mission-artemis-ii-autour-de-la-lune.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-04T09:31:27+00:00",
+          "summary": "Une impressionnante galerie d'images prises durant la mission Artémis II a été publiée par la Nasa. Plus de 12 000 images de ce voyage exceptionnel autour de la Lune sont disponibles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de74a988f1dd",
+          "title": "☕️ Ask ne répond plus",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/ask-ne-repondra-plus/",
+          "category": "ia",
+          "published_at": "2026-05-04T09:11:00+00:00",
+          "summary": "InterActive Corp (IAC) vient officiellement de fermer le site de son moteur de recherche Ask.com qui existait depuis 1997. « Alors que IAC poursuit sa réorientation stratégique, nous avons pris la décision de mettre fin à nos activités dans le domaine de la recherche, dont fait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7bb208dfc019",
+          "title": "Cette histoire liée au jeu vidéo Pragmata va vous fendre le cœur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2245871-cette-histoire-liee-au-jeu-video-pragmata-va-vous-fendre-le-coeur.html",
+          "category": "ia",
+          "published_at": "2026-05-04T08:58:50+00:00",
+          "summary": "Un homme, qui a perdu sa fille, raconte combien Pragmata a été thérapeutique pour lui grâce à la présence du personnage de Diana. Une histoire terriblement touchante.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a916897e2359",
+          "title": "GameStop veut racheter eBay pour 56 milliards de dollars : le pari fou du Micromania américain pour défier Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2245805-gamestop-veut-racheter-ebay-pour-56-milliards-de-dollars-le-pari-fou-du-micromania-americain-pour-defier-amazon.html",
+          "category": "ia",
+          "published_at": "2026-05-04T08:50:36+00:00",
+          "summary": "Le 3 mai 2026, GameStop a créé la surprise en annonçant une OPA non sollicitée sur eBay, valorisée à 55,5 milliards de dollars. Une offensive audacieuse, portée par Ryan Cohen, qui ambitionne de transformer la plateforme en concurrent direct d’Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9a1f6af7134",
+          "title": "Le remake live action de Raiponce s’offre une star de Star Wars pour un rôle très mystérieux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2245833-le-remake-live-action-de-raiponce-soffre-une-star-de-star-wars-pour-un-role-tres-mysterieux.html",
+          "category": "musique",
+          "published_at": "2026-05-04T08:45:42+00:00",
+          "summary": "Le royaume de Corona s'agrandit. Alors que Disney peaufine l'adaptation en prises de vues réelles de son classique de 2010,&nbsp;Raiponce, une nouvelle étoile vient de s'ajouter à la distribution. Diego Luna, la star de la série&nbsp;Andor, rejoint ce projet très attendu aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd292f09192a",
+          "title": "Le Pentagone choisit ses nouveaux fournisseurs IA et exclut Anthropic… enfin presque",
+          "source": "Next INpact",
+          "url": "https://next.ink/236581/le-pentagone-choisit-ses-nouveaux-fournisseurs-ia-et-exclut-anthropic-enfin-presque/",
+          "category": "ia",
+          "published_at": "2026-05-04T08:43:00+00:00",
+          "summary": "Le Pentagone fait ses emplettes IA dans plusieurs échoppes. Le ministère américain de la Défense a signé des accords avec huit fournisseurs de modèles pour déployer leurs capacités IA dans des opérations classifiées. Anthropic n&#8217;en fait pas partie. Le Department of Defense…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "25d19c4965f4",
+          "title": "Le nouveau design de Gemini a fuité : Google prépare du lourd pour sa conférence I/O",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2245791-le-nouveau-design-de-gemini-a-fuite-google-prepare-du-lourd-pour-sa-conference-i-o.html",
+          "category": "ia",
+          "published_at": "2026-05-04T08:27:53+00:00",
+          "summary": "Prévue le 19 mai, la conférence Google I/O 2026 devrait être le lieu où Google dévoilera de très nombreuses nouveautés pour son assistant Gemini, dont un nouveau design pour l'application mobile. Certaines rumeurs évoquent le lancement d'un nouveau modèle omnimodal qui pourrait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d2b7fdf892a",
+          "title": "SpaceX : une explosion survient lors d’un test sur le pas de tir de Starbase",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2245839-spacex-une-explosion-survient-lors-dun-test-sur-le-pas-de-tir-de-starbase.html",
+          "category": "ia",
+          "published_at": "2026-05-04T08:20:58+00:00",
+          "summary": "Lors d’un test de son système de déluge d’eau le 3 mai 2026 à Starbase, SpaceX a été confrontée à une anomalie. La défaillance d'un équipement au sol a littéralement soufflé le toit d'une installation, rappelant la violence inouïe des pressions en jeu pour préparer le décollage…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec1feeb36703",
+          "title": "Pour le réalisateur de The Witcher 3, Crimson Desert et Clair Obscur: Expedition 33 reflètent l’âge d’or des RPG",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2245831-pour-le-realisateur-de-the-witcher-3-crimson-desert-et-clair-obscur-expedition-33-refletent-lage-dor-des-rpg.html",
+          "category": "ia",
+          "published_at": "2026-05-04T08:12:46+00:00",
+          "summary": "Clair Obscur : Expedition 33 et Crimson Desert font partie des jeux qui ont marqué le jeu vidéo ces derniers temps. L'un pour son histoire et son gameplay, l'autre pour son monde ouvert. Pour le réalisateur de The Witcher 3: Wild Hunt, tous deux renvoient à l'âge d'or des RPG…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74b5f1d7e30e",
+          "title": "Prix Renault 4 E-Tech Plein Sud : le plaisir cheveux au vent se paie fort",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2245823-prix-renault-4-e-tech-plein-sud-le-plaisir-cheveux-au-vent-se-paie-fort.html",
+          "category": "ia",
+          "published_at": "2026-05-04T08:11:19+00:00",
+          "summary": "La nouvelle Renault 4 électrique à toit découvrable est enfin disponible en France. Cependant, il va falloir avoir le porte-monnaie bien accroché, car elle démarre à partir de 37 290 € !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10b1e89bbfb5",
+          "title": "French Days (J-1) : on traque en direct les dernières offres immanquables chez Amazon, Fnac, Darty…",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242013-french-days-2026-les-meilleures-offres-du-4-mai.html",
+          "category": "ia",
+          "published_at": "2026-05-04T08:08:33+00:00",
+          "summary": "Dernière ligne droite pour les French Days. Le rideau tombe demain, mardi 5 mai à 23H59 chez Amazon, Fnac, Darty,  Cdiscount ou encore Boulanger. On reste sur le pont pour ce sprint final afin de faire le tri à votre place et vous compiler en direct les ultimes deals à ne pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afeff3026bdd",
+          "title": "GameStop veut racheter eBay pour construire un nouveau géant du commerce",
+          "source": "Next INpact",
+          "url": "https://next.ink/236605/gamestop-veut-racheter-ebay-pour-construire-un-nouveau-geant-du-commerce/",
+          "category": "ia",
+          "published_at": "2026-05-04T08:02:31+00:00",
+          "summary": "La chaîne de magasins spécialisés dans le jeu vidéo GameStop a lancé, dimanche 3 mai, une offre d&#8217;achat aussi audacieuse que non sollicitée sur eBay, le vétéran de la vente aux enchères en ligne. La proposition, qui consiste en un mélange de cash, d&#8217;actions et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8edc39edee87",
+          "title": "ChatGPT, Gemini et Claude auraient expliqué comment créer des armes biologiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2245675-chatgpt-gemini-et-claude-auraient-explique-comment-creer-des-armes-biologiques.html",
+          "category": "ia",
+          "published_at": "2026-05-04T07:36:21+00:00",
+          "summary": "Malgré les verrous de sécurité instaurés par les fleurons de l’intelligence artificielle, leurs chatbots ont fourni des protocoles détaillés pour concevoir et propager des armes biologiques.&nbsp;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb4875291dc1",
+          "title": "☕️ Installation dépouillée de Windows avec Rufus 4.14, Wine 11.8 corrige un bug avec Golf 99",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/installation-depouillee-de-windows-avec-rufus-4-14-wine-11-8-corrige-un-bug-avec-golf-99/",
+          "category": "ia",
+          "published_at": "2026-05-04T07:35:00+00:00",
+          "summary": "Durant ce long week-end pour commencer le mois de mai, deux logiciels ont eu droit à des mises à jour. Commençons par Rufus, un logiciel spécialisé dans la préparation et la création de clé USB pour installer des systèmes d’exploitation. Il est passé en version 4.14, une dizaine…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "897755b1ec9f",
+          "title": "Meta veut devenir l’Android des robots humanoïdes",
+          "source": "Next INpact",
+          "url": "https://next.ink/236584/meta-veut-devenir-landroid-des-robots-humanoides/",
+          "category": "ia",
+          "published_at": "2026-05-04T06:57:41+00:00",
+          "summary": "S&#8217;il est encore bien difficile d&#8217;assurer à 100&#160;% que le grand public va s&#8217;arracher les robots humanoïdes, l&#8217;industrie s&#8217;est lancée dans ce chantier tête baissée. Meta fait un pas de plus, dans l&#8217;espoir de fournir la base technologique…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ec45bc3acfd",
+          "title": "☕️ Pas de statuettes pour l’IA à la prochaine cérémonie des Oscars",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/pas-de-statuettes-pour-lia-a-la-prochaine-ceremonie-des-oscars/",
+          "category": "ia",
+          "published_at": "2026-05-04T06:31:00+00:00",
+          "summary": "Val Kilmer ne recevra pas d&#8217;Oscar posthume pour son rôle dans le film As Deep as the Grave. L’Academy of Motion Picture Arts and Sciences (AMPAS), qui organise l&#8217;événement couronnant (parfois) le meilleur du cinéma américain, a publié les règles qui présideront à la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b8be4766d40",
+          "title": "C’est la fin du Mac mini à 699 euros",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2245785-cest-la-fin-du-mac-mini-a-699-euros.html",
+          "category": "ia",
+          "published_at": "2026-05-04T06:06:23+00:00",
+          "summary": "Apple a discrètement retiré le Mac mini avec 256 Go de stockage de la vente. Le nouveau ticket d'entrée passe à 949 euros, soit 250 euros de plus qu'auparavant, mais avec 512 Go de stockage. Une décision liée à la pénurie de Mac mini et Mac Studio, les machines fétiches des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02c678269b05",
+          "title": "☕️ Vimeo touchée à son tour par la vague d’attaques liée à Anodot",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/vimeo-touchee-a-son-tour-par-la-vague-dattaques-liee-a-anodot/",
+          "category": "ia",
+          "published_at": "2026-05-04T05:56:58+00:00",
+          "summary": "Vimeo a été victime du groupe de pirates ShinyHunters, qui ont subtilisé des données d&#8217;utilisateurs. L&#8217;ampleur de la fuite n&#8217;est pas connue. Au tour de Vimeo de souffrir de l&#8217;incident de sécurité qui a affecté Anodot, une entreprise spécialisée dans les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d934f8d7b94",
+          "title": "Fans Choose Madonna & Sabrina Carpenter’s ‘Bring Your Love’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/madonna-sabrina-carpentersbring-your-love-best-new-music-1236238041/",
+          "category": "musique",
+          "published_at": "2026-05-04T04:05:32+00:00",
+          "summary": "The pop collab brought in nearly 89% of the vote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "702897fa6fdf",
+          "title": "Olivia Rodrigo’s Debut as ‘SNL’ Host: All 7 Sketches Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/olivia-rodrigo-snl-sketches-ranked-2026-episode/",
+          "category": "ia",
+          "published_at": "2026-05-04T02:04:05+00:00",
+          "summary": "Here's a breakdown of every 'SNL' sketch with Rodrigo on May 2.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-03",
       "articles": [
+        {
+          "id": "5a4ccbd7d6f7",
+          "title": "Olivia Dean’s ‘The Art of Loving’ Tour Will Be 2026’s Hottest Ticket: 5 Best Moments from London’s O2 Arena",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/olivia-dean-art-of-loving-tour-london-best-moments/",
+          "category": "ia",
+          "published_at": "2026-05-03T20:47:33+00:00",
+          "summary": "Sam Fender was a special guest at the Saturday night (May 2) show.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd60f37cbd15",
+          "title": "Donald Trump Credits His ‘Y.M.C.A.’ Viral Dance Moves for Disco Hit’s Rise on Billboard Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/donald-trump-ymca-dance-billboard-chart-rise-1236237932/",
+          "category": "ia",
+          "published_at": "2026-05-03T20:11:54+00:00",
+          "summary": "The president also said that his wife Melania “hates” his reaction to the classic Village People track.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff2cb7b6a587",
+          "title": "Michael Jackson Film Moves Up Our List of Highest-Grossing Music Biopics Worldwide: See Where It Ranks",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+          "category": "musique",
+          "published_at": "2026-05-03T19:38:47+00:00",
+          "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3e27fb5beb4",
+          "title": "Noah Kahan Earns First No. 1 Album on Billboard 200 With ‘The Great Divide’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/noah-kahan-the-great-divide-number-one-billboard-200-chart-1236237889/",
+          "category": "musique",
+          "published_at": "2026-05-03T19:00:01+00:00",
+          "summary": "Plus: Kehlani’s self-titled set debuts in the top five, while Michael Jackson’s Thriller returns to the top 10.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e61b2fe4e2f",
+          "title": "Amy Allen, Sony Music Publishing ,’Die With a Smile’ among big winners at 2026 ASCAP Pop Music Awards",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/amy-allen-sony-music-publishing-die-with-a-smile-among-big-winners-at-2026-ascap-pop-music-awards/",
+          "category": "musique",
+          "published_at": "2026-05-03T18:59:28+00:00",
+          "summary": "\"We are honored to be named ASCAP's Pop Publisher of the Year,\" said Katie Welle, Sony Music Publishing President, Head of A&#038;R.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bea5fe90668c",
+          "title": "Warner Music Group named to TIME’s list of 100 Most Influential Companies for its approach to AI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-group-named-to-times-list-of-100-most-influential-companies-for-its-approach-to-ai/",
+          "category": "musique",
+          "published_at": "2026-05-03T18:52:20+00:00",
+          "summary": "Robert Kyncl told the magazine: \"AI is a fast-growing phenomenon. It's really important that companies like us stand up for artists and songwriters — do it early, and do it together with AI companies.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f305792e52ae",
+          "title": "Suno is now the ‘controller’ of Songkick user data – and is hiring a GM to wire it into its AI music platform",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-is-now-the-controller-of-songkick-user-data-and-is-hiring-a-gm-to-wire-it-into-its-ai-music-platform/",
+          "category": "musique",
+          "published_at": "2026-05-03T18:25:12+00:00",
+          "summary": "Emails sent to Songkick users on Thursday (April 30) confirmed that personal data held by the platform \"will be transferred to Suno, who will become the controller responsible for that data going forward.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9678ecfa1f7a",
+          "title": "Olivia Rodrigo Jokes About Jake Paul, Performs ‘Drivers License’ Parody in ‘SNL’ Monologue: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-snl-monologue-jake-paul-drivers-license-1236237905/",
+          "category": "musique",
+          "published_at": "2026-05-03T18:13:17+00:00",
+          "summary": "The pop star pulled double duty as host and musical guest on May 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad78b47cd647",
+          "title": "Laura Pausini Fulfills Her Dream of Singing ‘Hijo de la Luna’ With Ana Torroja in Mexico",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/laura-pausini-ana-torroja-sing-hijo-de-la-luna-tour-mexico-1236237887/",
+          "category": "ia",
+          "published_at": "2026-05-03T17:47:24+00:00",
+          "summary": "The Italian star had Achille Lauro as a guest at her May 2 show in Mexico City.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38ed037caea5",
+          "title": "Connor Storrie Makes Surprise ‘SNL’ Cameo to Introduce Olivia Rodrigo’s New Song: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/connor-storrie-snl-olivia-rodrigo-new-song-begged-1236237883/",
+          "category": "ia",
+          "published_at": "2026-05-03T17:27:06+00:00",
+          "summary": "The Heated Rivalry star hosted the comedy show earlier in the year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cadf0d3a7ca5",
+          "title": "Voici 3 livres Star Wars incontournables à offrir aux vrais fans de la saga",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2242875-voici-trois-livres-star-wars-incontournables-a-offrir-aux-vrais-fans-de-la-saga.html",
+          "category": "ia",
+          "published_at": "2026-05-03T16:02:00+00:00",
+          "summary": "Oui, le 4 mai est la journée Star Wars. Et oui, on a des recommandations de lecture à vous proposer. Des essais sur le droit, un roman graphique et un mook.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df6cde6e5daa",
+          "title": "Elle aurait provoqué la fuite de l’ANTS : c’est quoi, une faille IDOR ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2242883-elle-aurait-provoque-la-fuite-de-lants-cest-quoi-une-faille-idor.html",
+          "category": "ia",
+          "published_at": "2026-05-03T15:35:00+00:00",
+          "summary": "C'est une faille vieille comme le web qui aurait permis d'exploiter l'une des bases de données les plus sensibles de l'État français. Le piratage de l'ANTS en avril 2026 aurait été permis par une faille IDOR. Mais, c'est quoi, au juste ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af93a4648701",
+          "title": "Les meilleurs spots pour aller surfer dans le Système solaire et au-delà",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2243747-les-meilleurs-spots-pour-aller-surfer-dans-le-systeme-solaire-et-au-dela.html",
+          "category": "ia",
+          "published_at": "2026-05-03T14:02:00+00:00",
+          "summary": "La Terre n'est pas la seule planète dans l'Univers, ni même dans le Système solaire, qui possède de l'eau liquide à sa surface, ou quelque chose d'équivalent. En revanche, la forme des vagues peut varier d'un monde à l'autre, et des scientifiques ont essayé de déterminer à quoi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7960d5e7613",
+          "title": "Voici la carte interactive indispensable pour se préparer à voir l’éclipse solaire du 12 août 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2245107-voici-la-carte-interactive-indispensable-pour-se-preparer-a-voir-leclipse-solaire-du-12-aout-2026.html",
+          "category": "ia",
+          "published_at": "2026-05-03T13:31:00+00:00",
+          "summary": "Vous avez trouvé vos lunettes d'éclipse ? Bonne nouvelle. Mais il faut encore anticiper à quoi ressemblera l'éclipse solaire du 12 août 2026 depuis votre lieu d'observation. L'Observatoire de Paris met justement à disposition une carte interactive plutôt pratique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad5d7d99b81c",
+          "title": "Dans quel ordre regarder tous les films Star Wars ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/578374-dans-quel-ordre-regarder-star-wars.html",
+          "category": "ia",
+          "published_at": "2026-05-03T11:12:13+00:00",
+          "summary": "En général, deux approches existent pour regarder Star Wars : suivre la sortie au cinéma ou choisir l'ordre chronologique. Mais il existe un troisième ordre Star Wars plus original. Découvrez cette troisième solution qui bouscule chaque trilogie de la saga pour procurer une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5396348b0c2f",
+          "title": "Cette action cam DJI fait tout comme une une GoPro, en bien moins chère pour les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2245503-cette-action-cam-dji-fait-tout-comme-une-une-gopro-en-bien-moins-chere-pour-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-05-03T10:55:00+00:00",
+          "summary": "[Deal du jour] La DJI Osmo Action 4 n'est pas le dernier modèle d'action cam du fabricant. Pendant les French Days, son prix en baisse en fait pourtant une excellente affaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac513643fdde",
+          "title": "Ce nouveau gros vaisseau Lego Star Wars a un look d’enfer (mais il est cher)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2245109-ce-nouveau-gros-vaisseau-lego-star-wars-a-un-look-denfer-mais-il-est-cher.html",
+          "category": "ia",
+          "published_at": "2026-05-03T10:31:00+00:00",
+          "summary": "En cette année 2026, le nouveau gros vaisseau Star Wars commercialisé par Lego n'est autre que le chasseur N-1 du Mandalorien. Un modèle iconique, qui est en fait une renaissance du N-1 Starfighter de Naboo.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "882fd9ae1ab4",
           "title": "Cinq biopics musicaux à voir absolument avant ou après Michael",
