@@ -1,9 +1,434 @@
 {
-  "generated_at": "2026-05-04T10:25:27.954996+00:00",
+  "generated_at": "2026-05-05T10:13:05.009288+00:00",
   "days": [
+    {
+      "date": "2026-05-05",
+      "articles": [
+        {
+          "id": "3face2f0587a",
+          "title": "IA conversationnelle et santé mentale des jeunes : résultats de l’enquête européenne",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-et-sante-mentale-des-jeunes-resultats-de-lenquete-europeenne",
+          "category": "ia",
+          "published_at": "2026-05-05T12:00:00+00:00",
+          "summary": "Selon une enquête du Groupe VYV et de la CNIL menée dans quatre pays européens, près de 9 jeunes sur 10 utilisent une IA conversationnelle en France et près d’un sur deux y évoque des sujets personnels, ces outils s’imposant comme des interlocuteurs en matière de santé mentale —…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afce84e3f354",
+          "title": "Suno is raising another $250 million+ at a $5 billion valuation (reports)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-is-raising-another-250-million-at-a-5-billion-valuation-reports/",
+          "category": "musique",
+          "published_at": "2026-05-05T09:57:15+00:00",
+          "summary": "Suno will likely raise above $250 million, the same amount that it pulled in during its Series C just six months ago, sources told Billboard.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "200b59a30299",
+          "title": "noyb accuse LinkedIn de vendre l’accès à des infos qu’il devrait donner gratuitement",
+          "source": "Next INpact",
+          "url": "https://next.ink/236814/noyb-accuse-linkedin-de-vendre-lacces-a-des-infos-quil-devrait-donner-gratuitement/",
+          "category": "ia",
+          "published_at": "2026-05-05T09:49:14+00:00",
+          "summary": "L&#8217;association noyb a déposé plainte contre LinkedIn auprès de l&#8217;autorité autrichienne de protection des données. Elle constate que le réseau social refuse de communiquer gratuitement la liste des personnes ayant visité le profil d&#8217;un utilisateur au nom de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7fa194acfce",
+          "title": "SpaceX : le premier vol du tout nouveau Starship V3 se rapproche à grands pas",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2246771-spacex-le-premier-vol-du-tout-nouveau-starship-v3-se-rapproche-a-grands-pas.html",
+          "category": "ia",
+          "published_at": "2026-05-05T09:21:19+00:00",
+          "summary": "L'effervescence monte du côté de Starbase. Aux dernières nouvelles, le 12e vol d'essai du lanceur géant de SpaceX surviendrait à la mi-mai. Ce test du Starship est important pour l'entreprise : il s'agit du tout premier essai de la version 3 de la fusée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "070971655bce",
+          "title": "French Days : le top 50 des meilleures offres de ce dernier jour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242013-french-days-2026-les-dernieres-promos-a-ne-pas-rater-ce-5-mai.html",
+          "category": "ia",
+          "published_at": "2026-05-05T09:12:38+00:00",
+          "summary": "Voilà une semaine que les French Days battent leur plein dans les boutiques de l'Hexagone, et surtout en ligne. L'événement prend fin ce 5 mai à 23h59 chez la plupart des grandes enseignes : ce qui veut dire que vous n'avez plus forcément le temps de fouiller dans les immenses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40ba263a19d2",
+          "title": "En France, deux tiers des jeunes considèrent l’IA comme « un conseiller de vie »",
+          "source": "Next INpact",
+          "url": "https://next.ink/236798/en-france-deux-tiers-des-jeunes-considerent-lia-comme-un-conseiller-de-vie/",
+          "category": "ia",
+          "published_at": "2026-05-05T09:08:41+00:00",
+          "summary": "Ce n’est pas une surprise : les jeunes Français et Européens utilisent massivement des outils d’IA. Mais dans quelles proportions, à quelle fréquence et pour quels types d&#8217;usages&#160;? La CNIL répond à ces questions. La CNIL vient de publier les résultats d’une enquête…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2967cd6ea5ae",
+          "title": "FSD en Europe : Tesla met la pression aux régulateurs, mais son lobbying pourrait être contreproductif",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2246793-fsd-en-europe-tesla-met-la-pression-aux-regulateurs-mais-son-lobbying-pourrait-etre-contreproductif.html",
+          "category": "ia",
+          "published_at": "2026-05-05T09:04:11+00:00",
+          "summary": "Tesla compte beaucoup sur la conduite autonome pour relancer ses ventes en Europe. Mais en voulait forcer la main des décideurs, la marque d’Elon Musk risque de braquer les régulateurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74abe984282a",
+          "title": "L’un des meilleurs TV OLED du marché est à moins de 760 € pour les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2246789-lun-des-meilleurs-tv-oled-du-marche-est-a-moins-de-760-e-pour-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-05-05T09:03:20+00:00",
+          "summary": "[Deal du jour] Les téléviseurs de LG sont réputés pour leur qualité, et ce OLED55C5 ne fait pas exception, avec le Dolby Vision compatible et le 144 Hz. Pour les French Days, il perd 1 200 € de son prix initial.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d69fcaa5d2cf",
+          "title": "81 organisations se mobilisent pour la PPL Présomption",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/81-organisations-se-mobilisent-pour-la-ppl-presomption/",
+          "category": "ia",
+          "published_at": "2026-05-05T08:58:47+00:00",
+          "summary": "COMMUNIQUÉ DE PRESSE IA : SACRIFIER LES DROITS DE PROPRIÉTÉ INTELLECTUELLE N’EST PAS UN ACTE DE SOUVERAINETÉ Tous les secteurs de la Culture et de l’Information représentés par nos 81 organisations s’expriment ici d’une seule voix pour saluer l’engagement déterminé du Sénat en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f07a4d64c374",
+          "title": "Bonne nouvelle pour Pokémon Pokopia : un DLC massif serait en préparation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246691-bonne-nouvelle-pour-pokemon-pokopia-un-dlc-massif-serait-en-preparation.html",
+          "category": "ia",
+          "published_at": "2026-05-05T08:49:45+00:00",
+          "summary": "Un immense DLC pourrait bientôt doubler la taille de la carte de Pokémon Pokopia. Selon une fuite relayée le 30 avril 2026, le jeu de construction prévoirait d'ajouter cinq nouvelles zones directement inspirées de la région de Kanto.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3dbc605ac829",
+          "title": "Resident Evil Requiem signifie-t-il la retraite pour Leon ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246665-resident-evil-requiem-signifie-t-il-la-retraite-pour-leon.html",
+          "category": "ia",
+          "published_at": "2026-05-05T08:47:49+00:00",
+          "summary": "Leon S. Kennedy est aussi charismatique et badass qu'âgé dans Resident Evil Requiem. Mais cela ne veut pas dire que le héros emblématique de la saga sera mis à la retraite de sitôt.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "136d63391b45",
+          "title": "Michael : le biopic de Michael Jackson entre officiellement dans l’Histoire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246745-michael-le-biopic-de-michael-jackson-entre-officiellement-dans-lhistoire.html",
+          "category": "musique",
+          "published_at": "2026-05-05T08:35:23+00:00",
+          "summary": "Il n'aura fallu que dix jours pour que le Roi de la Pop reprenne son trône, cette fois sur grand écran. Malgré les polémiques et une concurrence féroce, le film Michael s'impose déjà comme l'un des plus grands succès de l'histoire pour un biopic musical.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae3d097ff93a",
+          "title": "À défaut d’atteindre la bonne orbite, la coiffe de la fusée New Glenn de Blue Origin sait tomber avec style",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2246657-blue-origin-devoile-des-images-de-la-chute-de-la-coiffe.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-05T08:04:21+00:00",
+          "summary": "Malgré la perte de son satellite et l'interdiction de vol qui frappe sa fusée géante New Glenn, Blue Origin veut retenir le positif de sa mission NG-3. Le PDG de l'entreprise a dévoilé une vidéo vertigineuse de la chute de la coiffe, confirmant le test réussi d'une technologie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5d121328524",
+          "title": "Jack Johnson Announces AU/NZ Dates With Ben Harper and John Butler",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jack-johnson-2026-australia-new-zealand-tour-1236239068/",
+          "category": "musique",
+          "published_at": "2026-05-05T07:58:39+00:00",
+          "summary": "The announcement ties into Johnson’s upcoming SURFILMUSIC project.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1bfbfaf2cb0",
+          "title": "La sortie de GTA 6 terrifie le patron de Take-Two",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246655-la-sortie-de-gta-6-terrifie-le-patron-de-take-two.html",
+          "category": "ia",
+          "published_at": "2026-05-05T07:57:55+00:00",
+          "summary": "Pour le PDG de Take-Two, la sortie de GTA VI est à la fois excitante et terrifiante, compte tenu des attentes élevées concernant le jeu de Rockstar.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a05f68cc41a9",
+          "title": "☕️ La version Mac de Notepad++ désavouée par le créateur du projet originel devient Nextpad++",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/la-version-mac-de-notepad-desavouee-par-le-createur-du-projet-originel-devient-nextpad/",
+          "category": "ia",
+          "published_at": "2026-05-05T07:48:29+00:00",
+          "summary": "« Pour être tout à fait clair : Notepad++ n&#8217;a jamais sorti de version pour macOS », explique, sur son site, Don Ho, le mainteneur de Notepad++ qui a créé le projet en 2003. Depuis le début, Notepad++ n&#8217;est officiellement distribué que sous forme d&#8217;une version…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ecbfbae27632",
+          "title": "Activision prend une décision radicale pour le prochain Call of Duty",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246649-activision-prend-une-decision-radicale-pour-le-prochain-call-of-duty.html",
+          "category": "justice",
+          "published_at": "2026-05-05T07:27:44+00:00",
+          "summary": "Enfin ! Activision a annoncé que le futur opus de la saga Call of Duty, attendu pour la fin d'année, ne sortira pas sur PS4 (ni sur Xbox One a priori). Une excellente nouvelle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe0eabe6cc75",
+          "title": "Xbox a toujours la tête sous l’eau",
+          "source": "Next INpact",
+          "url": "https://next.ink/236576/xbox-a-toujours-la-tete-sous-leau/",
+          "category": "ia",
+          "published_at": "2026-05-05T06:48:00+00:00",
+          "summary": "Il faut toucher le fond avant de remonter à la surface, mais Xbox est toujours en train de creuser. Les derniers résultats trimestriels de Microsoft confirment, s&#8217;il en était besoin, que la division jeux vidéo du groupe ne se porte pas très bien, que ce soit pour les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07e2578dd4aa",
+          "title": "L’Odyssée : le prochain Nolan s’offre une seconde bande-annonce de toute beauté",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246199-lodyssee-le-prochain-nolan-soffre-une-seconde-bande-annonce-de-toute-beaute.html",
+          "category": "ia",
+          "published_at": "2026-05-05T06:46:08+00:00",
+          "summary": "Christopher Nolan passe à la vitesse supérieure. Après un premier trailer finalement peu loquace qui avait enflammé la Toile, le cinéaste vient de dévoiler la deuxième bande-annonce d’Odyssée. Un aperçu beaucoup plus riche qui confirme que le réalisateur d’Interstellar s’apprête…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3605d9934023",
+          "title": "Les RCS sécurisés arrivent enfin sur iPhone : les messages verts aussi sûrs que les bleus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2246633-les-rcs-securises-arrivent-enfin-sur-iphone-les-messages-verts-aussi-surs-que-les-bleus.html",
+          "category": "ia",
+          "published_at": "2026-05-05T06:24:12+00:00",
+          "summary": "Après plusieurs mois de test, Apple confirme que la mise à jour iOS 26.5, qui devrait être disponible dans les prochains jours, introduira les RCS chiffrés dans l'application Messages. Un échange entre un iPhone et un smartphone Android se fera donc dans un cadre chiffré alors…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1049256dcd65",
+          "title": "Avec iOS 26.5, le chiffrement de bout en bout des messages RCS arrive entre iPhone et Android",
+          "source": "Next INpact",
+          "url": "https://next.ink/236765/avec-ios-26-5-le-chiffrement-de-bout-en-bout-des-messages-rcs-arrive-entre-iphone-et-android/",
+          "category": "ia",
+          "published_at": "2026-05-05T06:08:02+00:00",
+          "summary": "Les messages RCS entre iPhone et Android seront très bientôt chiffrés de bout en bout. De quoi assurer une bien meilleure sécurisation des messages texte échangés entre plateformes. Le chemin a décidément été bien long pour le RCS. Le protocole de communication (Rich…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02d6f1df8b83",
+          "title": "Pourquoi votre assurance habitation vous coûte-t-elle si cher ? Voici des leviers pour faire baisser la facture [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/business/2199497-pourquoi-votre-assurance-habitation-vous-coute-t-elle-si-cher-voici-des-leviers-pour-faire-baisser-la-facture.html",
+          "category": "ia",
+          "published_at": "2026-05-05T05:47:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Luko (by Allianz Direct)\n\nL’assurance habitation, c’est un peu comme une mise à jour des conditions générales d’utilisation (CGU) : on clique sur « accepter » sans vraiment regarder, en espérant que tout ira bien.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57c6ccc2e8a8",
+          "title": "Pourquoi les gobelins et les gremlins ont envahi ChatGPT",
+          "source": "Next INpact",
+          "url": "https://next.ink/236550/pourquoi-les-gobelins-et-les-gremlins-ont-envahi-chatgpt/",
+          "category": "ia",
+          "published_at": "2026-05-05T05:35:00+00:00",
+          "summary": "À quoi rêvent les intelligences artificielles ? À des gobelins, manifestement. Suite à des signalements d&#8217;utilisateurs de ChatGPT, OpenAI a découvert d&#8217;où provenait l&#8217;étrange propension du bot à multiplier les métaphores avec des gobelins et des gremlins ces…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6bcf1d7740d7",
+          "title": "Artémis II : ce site interactif retrace les 10 jours de la mission lunaire en photos",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2246233-artemis-ii-ce-site-interactif-retrace-les-10-jours-de-la-mission-lunaire-en-photos.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-05T04:45:00+00:00",
+          "summary": "Un site a répertorié toute une série de photos de la mission Artémis II pour les transformer en expérience interactive. Une manière de revivre cette emblématique mission lunaire de la Nasa, comme jamais auparavant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8f1e6bfbe6b",
+          "title": "Maren Morris Praises Women Dominating Country Music: ‘They’re All Crushing It’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/maren-morris-women-country-music-1236239054/",
+          "category": "musique",
+          "published_at": "2026-05-05T04:14:24+00:00",
+          "summary": "Morris singled out Ella Langley, Lainey Wilson and Megan Moroney as artists exciting her right now.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2afd24f524a6",
+          "title": "Post Malone to Headline Australia’s Strummingbird Festival in 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/post-malone-strummingbird-festival-2026-1236239023/",
+          "category": "ia",
+          "published_at": "2026-05-05T03:23:36+00:00",
+          "summary": "Post Malone marks his return to Australia three years after a sold-out run at Spilt Milk.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07d6cef150d1",
+          "title": "Met Gala 2026: The 10 Best Musician Looks on the Red Carpet",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/met-gala-2026-best-musician-photos-1236238894/",
+          "category": "musique",
+          "published_at": "2026-05-05T01:43:53+00:00",
+          "summary": "This year's dress code was \"Fashion Is Art.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f959c7b68e28",
+          "title": "SZA’s Dazzling Met Gala Dress Is Made of Pieces Bought Off eBay: ‘This Is How I See Myself’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sza-wears-dress-made-of-pieces-bought-off-ebay-2026-met-gala-1236238863/",
+          "category": "ia",
+          "published_at": "2026-05-05T00:36:12+00:00",
+          "summary": "\"This is like my ethereal body,\" the singer said of the look.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-04",
       "articles": [
+        {
+          "id": "33d2c57a2bad",
+          "title": "L’anomalie du « manchot » : cette découverte fait espérer une percée considérable en physique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2246051-lanomalie-du-manchot-cette-decouverte-du-cern-defie-50-ans-de-physique.html",
+          "category": "ia",
+          "published_at": "2026-05-04T16:53:25+00:00",
+          "summary": "L'étude de la collision des particules au Cern a donné des résultats qui contredisent le modèle standard de la physique. Si cela se confirme, ce serait une remise en cause du socle qui maintient la science moderne depuis des décennies.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "162e439c92a2",
+          "title": "Udio admits to scraping YouTube audio for AI training in answer to Sony Music lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/udio-admits-to-scraping-youtube-audio-for-ai-training-in-answer-to-sony-music-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-05-04T16:47:16+00:00",
+          "summary": "Udio admitted that its models were trained with “a vast amount of different kinds of sound recordings” gathered from publicly available sources.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6abea8c038cb",
+          "title": "Après 3 ans d’IA générative, un marché de l’emploi des développeurs touché mais pas coulé",
+          "source": "Next INpact",
+          "url": "https://next.ink/236671/apres-3-ans-dia-generative-un-marche-de-lemploi-des-developpeurs-touche-mais-pas-coule/",
+          "category": "ia",
+          "published_at": "2026-05-04T16:09:27+00:00",
+          "summary": "Aux États-Unis comme en France, les institutions comme l&#8217;Insee ou la Fed constatent une stagnation, voire une baisse, de l’emploi dans les secteurs liés à l’informatique, ceci corrélé à l&#8217;arrivée en masse des outils d&#8217;IA générative. Après un peu plus de trois…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dcd5e707bb95",
+          "title": "Tesla augmente le tarif de ses Superchargeurs en France, jusqu’à être prohibitif pour les non-Tesla",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2246547-tesla-augmente-le-tarif-de-ses-superchargeurs-en-france-jusqua-etre-prohibitif-pour-les-non-tesla.html",
+          "category": "ia",
+          "published_at": "2026-05-04T15:46:12+00:00",
+          "summary": "Les prix de la recharge sur les bornes de Tesla ont sensiblement augmenté. Si quelques centimes en plus ne changent pas radicalement la facture finale, dans certains cas, il y a mieux ailleurs pour recharger.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7247493085fe",
+          "title": "Le Diable s’habille en Prada 2 : ce mème de Miranda Priestly cache un secret qui ravit les fans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246359-le-diable-shabille-en-prada-2-ce-meme-de-miranda-priestly-cache-un-secret-qui-ravit-les-fans.html",
+          "category": "ia",
+          "published_at": "2026-05-04T15:37:11+00:00",
+          "summary": "Alors que la suite tant attendue du film culte vient de sortir en salles, un détail passionne les réseaux sociaux. Pour créer une image parodique de Miranda Priestly dans Le Diable s'habille en Prada 2, le réalisateur David Frankel a fait un choix radical : refuser…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ca4fc2a4f3a",
+          "title": "700 millions de dollars saisis, 503 sites supprimés : comment ce gigantesque réseau d’arnaques crypto a fini par tomber",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2246007-700-millions-de-dollars-saisis-503-sites-supprimes-comment-ce-gigantesque-reseau-darnaques-crypto-a-fini-par-tomber.html",
+          "category": "ia",
+          "published_at": "2026-05-04T15:25:48+00:00",
+          "summary": "Fin avril 2026, les autorités américaines ont levé le voile sur une industrie structurée de l’arnaque aux cryptomonnaies, organisée depuis l’Asie du Sud-Est. Derrière des centaines de sites d’investissement, une opération d’ampleur révèle un système mêlant fraude financière,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "883dff622f1e",
+          "title": "Il ne reste plus beaucoup de temps pour profiter de ce forfait 300 Go à un prix mini",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2246485-il-ne-reste-plus-beaucoup-de-temps-pour-profiter-de-ce-forfait-300-go-a-un-prix-mini.html",
+          "category": "ia",
+          "published_at": "2026-05-04T15:23:32+00:00",
+          "summary": "[Deal du jour] À l’occasion des French Days, l’opérateur virtuel Cdiscount Mobile propose un forfait mobile 5G de 300 Go pour moins de 9 euros par mois.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3bb93a32aac",
+          "title": "Premiers résultats pour le chantier à ciel ouvert de l’optimisation de Windows 11",
+          "source": "Next INpact",
+          "url": "https://next.ink/236704/premiers-resultats-pour-le-chantier-a-ciel-ouvert-de-loptimisation-de-windows-11/",
+          "category": "ia",
+          "published_at": "2026-05-04T15:20:14+00:00",
+          "summary": "Au mois de mars, Microsoft admettait que l&#8217;intégration à marche forcée de l&#8217;IA dans Windows 11 repoussait de plus en plus d&#8217;utilisateurs. Retour aux fondamentaux donc, avec plusieurs mises à jour visant à «&#160;intégrer l&#8217;IA où elle a le plus de sens »,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7f4d6643bc3",
+          "title": "Le Steam Controller sort aujourd’hui, voici tout ce qu’il faut savoir sur la manette de Valve",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2246297-le-steam-controller-sort-aujourdhui-voici-tout-ce-quil-faut-savoir-sur-la-manette-de-valve.html",
+          "category": "ia",
+          "published_at": "2026-05-04T15:10:58+00:00",
+          "summary": "Onze ans après une première tentative très clivante, Valve retente l’expérience. Ce lundi 4 mai 2026, sort le Steam Controller : une manette de seconde génération pensée aussi pour accompagner la future Steam Machine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eaff25846ca7",
+          "title": "Spotify wins motion for arbitration in ‘payola’ lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-wins-motion-for-arbitration-in-payola-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-05-04T14:55:31+00:00",
+          "summary": "A Spotify subscriber sued the company in November, claiming it deceives users by letting labels boost song visibility through reduced royalty payments.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32518ae132d8",
+          "title": "YouTube creators hit by music copyright claims can now replace tracks with AI – at the touch of a button",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/youtube-creators-hit-by-music-copyright-claims-can-now-replace-tracks-with-ai-at-the-touch-of-a-button/",
+          "category": "ia",
+          "published_at": "2026-05-04T14:51:04+00:00",
+          "summary": "The update, announced via YouTube's Creator Insider channel on Friday (May 1), adds a new \"Create\" button to the existing \"Replace Song\" tool in YouTube Studio on desktop.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a74687174bf",
+          "title": "Comment des joueurs de Diablo 4 squattent les classements pour promouvoir leurs astuces",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246303-comment-des-joueurs-de-diablo-4-squattent-les-classements-pour-promouvoir-leurs-astuces.html",
+          "category": "ia",
+          "published_at": "2026-05-04T14:33:10+00:00",
+          "summary": "Des joueurs de Diablo 4 se retrouvent en tête des classements du mode La Tour, avec un même pseudo : INFBuilds. Il s'agit en réalité d'un coup de communication pour un site qui permet d'aider les autres à créer un personnage puissant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "42f74b19bfb0",
+          "title": "Tesla a dépassé les 16 milliards de km en FSD : en route pour la version non supervisée ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2246229-tesla-a-depasse-les-16-milliards-de-km-en-fsd-en-route-pour-la-version-non-supervisee.html",
+          "category": "ia",
+          "published_at": "2026-05-04T14:14:01+00:00",
+          "summary": "Tesla s'est félicité d'avoir franchi le cap des 10 milliards de miles (16 milliards de km) parcourus en FSD. D'après Elon Musk, il s'agissait du seuil à atteindre pour déployer la version non supervisée du logiciel. Mais que dit la réalité ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1a36c6ed6e2",
+          "title": "Vols de données : les pirates ciblent la France (ou le font croire) pour se venger",
+          "source": "Next INpact",
+          "url": "https://next.ink/236316/vols-de-donnees-les-pirates-ciblent-la-france-ou-le-font-croire-pour-se-venger/",
+          "category": "institutionnel",
+          "published_at": "2026-05-04T10:40:08+00:00",
+          "summary": "Le rapport annuel sur la cybercriminalité du commandement du ministère de l’Intérieur dans le cyberespace évoque une « recrudescence significative » de revendications de piratages d&#8217;entités françaises. Elles s&#8217;inscriraient dans une « logique manifeste de représailles…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "789e70dbea4d",
           "title": "Le procès Musk contre Altman va être diffusé en direct : comment écouter l’audience sur l’avenir d’OpenAI ?",
