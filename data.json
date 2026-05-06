@@ -1,9 +1,644 @@
 {
-  "generated_at": "2026-05-05T10:13:05.009288+00:00",
+  "generated_at": "2026-05-06T10:27:23.625486+00:00",
   "days": [
+    {
+      "date": "2026-05-06",
+      "articles": [
+        {
+          "id": "dcb16b928418",
+          "title": "Vue d’ensemble",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/g7-vue-d-ensemble",
+          "category": "musique",
+          "published_at": "2026-05-06T12:00:00+00:00",
+          "summary": "Les autorités de protection des données et de la vie privée du G7 collaborent afin d’identifier les enjeux et opportunités communs, de s’adapter avec agilité aux évolutions en cours et de mettre en œuvre des approches réglementaires concertées visant, autant que possible, à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bc1983ccfeb",
+          "title": "Les membres et les résultats",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/g7-membres-et-resultats",
+          "category": "cnil",
+          "published_at": "2026-05-06T12:00:00+00:00",
+          "summary": "Créée en 2021, la Table ronde des autorités de protection des données des pays et de la vie privée du G7 réunit, sous l’impulsion de la présidence annuelle, les autorités compétentes de l'Allemagne, du Canada, des États-Unis, la France, l'Italie, du Japon, du Royaume-Uni…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "435c6a528980",
+          "title": "Médiathèque",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/g7-mediatheque",
+          "category": "ia",
+          "published_at": "2026-05-06T12:00:00+00:00",
+          "summary": "Retrouvez dans cette rubrique les communiqués de presse ainsi que les photos et vidéos de l’évènement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3559aa3de0f",
+          "title": "G7 2026 : la CNIL accueille à Paris la Table ronde des autorités de protection des données et de la vie privée",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/g7-2026-la-cnil-accueille-la-table-ronde",
+          "category": "cnil",
+          "published_at": "2026-05-06T12:00:00+00:00",
+          "summary": "Du 23 au 26 juin 2026, les autorités de protection des données des pays du G7 se réuniront à Paris sous la présidence de la CNIL. Cette rencontre annuelle vise à renforcer la coopération internationale et à promouvoir une protection élevée des données personnelles à l’ère des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb3577ea6132",
+          "title": "SM Entertainment’s revenue surges 21% YoY in Q1 to $192M on strong concert, merch sales",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sm-entertainments-revenue-surges-21-yoy-in-q1-to-192m-on-strong-concert-merch-sales/",
+          "category": "musique",
+          "published_at": "2026-05-06T10:18:32+00:00",
+          "summary": "SM’s revenue from concerts surged 56% YoY to KRW 60.8 billion ($42m), driven by tours from SUPER JUNIOR, NCT DREAM, aespa, RIIE and NCT WISH.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b4847dd766b",
+          "title": "Épidémie d’hantavirus sur un bateau de croisière : un passager a été infecté par la souche des Andes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2247897-epidemie-dhantavirus-sur-un-bateau-de-croisiere-un-passager-a-ete-infecte-par-la-souche-des-andes.html",
+          "category": "ia",
+          "published_at": "2026-05-06T10:18:00+00:00",
+          "summary": "Trois personnes sont décédées à bord d'un bateau de croisière voyageant sur l'océan Atlantique. Un des passagers a été infecté par la souche d'hantavirus des Andes, qui est la seule transmissible entre êtres humains.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "171808a593eb",
+          "title": "The Bear sort un épisode surprise pour faire revenir le personnage qui nous manquait le plus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247887-the-bear-sort-un-episode-surprise-pour-faire-revenir-le-personnage-qui-nous-manquait-le-plus.html",
+          "category": "ia",
+          "published_at": "2026-05-06T10:14:36+00:00",
+          "summary": "La chaîne FX a sorti un épisode inédit de The Bear, en attendant la saison 5. Il met en scène Richard « Richie » Jerimovich (Ebon Moss-Bachrach) et surtout Jon Bernthal, qui revient pour incarner Michael « Mikey » Berzatto.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9744980ebeb2",
+          "title": "Want to talk about ‘superfans’? Ask Live Nation.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/want-to-talk-about-superfans-ask-live-nation/",
+          "category": "musique",
+          "published_at": "2026-05-06T10:06:58+00:00",
+          "summary": "\"It's not even about just being 'premium'. It's just consumers will pay for a shorter line, better parking, better hospitality.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83495fac8468",
+          "title": "Copyright : Hachette, Elsevier et trois autres éditeurs attaquent Meta",
+          "source": "Next INpact",
+          "url": "https://next.ink/237072/copyright-hachette-elsevier-et-trois-autres-editeurs-attaquent-meta/",
+          "category": "ia",
+          "published_at": "2026-05-06T10:03:28+00:00",
+          "summary": "Après plusieurs plaintes d&#8217;auteurs, cinq multinationales de l&#8217;édition (notamment scolaire et scientifique) attaquent Meta devant la justice américaine pour l&#8217;utilisation d&#8217;œuvres qu&#8217;elles éditent pour entrainer la famille de modèles d&#8217;IA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ebe4dab6e8f",
+          "title": "Les microplastiques posent une nouvelle menace, comparable aux pires gaz à effet de serre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2247861-les-microplastiques-posent-une-nouvelle-menace-comparable-aux-pires-gaz-a-effet-de-serre.html",
+          "category": "ia",
+          "published_at": "2026-05-06T10:02:00+00:00",
+          "summary": "La pollution aux microplastiques a un effet direct sur le climat. Une étude parue dans Nature montre que les particules qui errent dans l'atmosphère auraient tendance à réchauffer la planète encore plus vite que certains gaz à effet de serre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58757889f3c0",
+          "title": "Cetelem victime d’une attaque informatique : vos données ont peut-être fuité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2247889-cetelem-victime-dune-attaque-informatique-vos-donnees-ont-peut-etre-fuite.html",
+          "category": "ia",
+          "published_at": "2026-05-06T09:49:38+00:00",
+          "summary": "BNP Paribas Personal Finance (Cetelem, Cofinoga et Findomestic) confirme à Numerama avoir subi une attaque informatique le 20 avril 2026. Le groupe rassure en assurant que seules les adresses mail de certains clients sont concernées, mais les tentatives d'hameçonnage pourraient…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e58674f6c37",
+          "title": "Cette petite borne d’arcade Sonic trop mignone perd 40 € de son prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2247845-cette-petite-borne-darcade-sonic-trop-mignone-perd-40-e-de-son-prix.html",
+          "category": "ia",
+          "published_at": "2026-05-06T09:34:45+00:00",
+          "summary": "[Deal du jour] Une borne d’arcade, c’est bien, mais ça prend de la place. Alors, quand un modèle compact à l’effigie de l’une des plus grandes mascottes du jeu vidéo apparaît en promotion, ça mérite le coup d’œil.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c723b6f6ad6",
+          "title": "Oui, Edge stocke les mots de passe en clair dans la mémoire, c’est normal selon Microsoft",
+          "source": "Next INpact",
+          "url": "https://next.ink/237074/oui-edge-stocke-les-mots-de-passe-en-clair-dans-la-memoire-cest-normal-selon-microsoft/",
+          "category": "ia",
+          "published_at": "2026-05-06T09:19:42+00:00",
+          "summary": "Un chercheur affirme, avec un prototype publié sur GitHub, que le navigateur Edge charge tous les mots de passe de son gestionnaire en clair dans la mémoire de l&#8217;ordinateur. N’importe qui peut donc y accéder ? Presque, il faut des droits administrateur tout de même.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71d2d7a054c2",
+          "title": "Valve a raté le lancement du Steam Controller",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247729-valve-a-rate-le-lancement-du-steam-controller.html",
+          "category": "ia",
+          "published_at": "2026-05-06T09:15:00+00:00",
+          "summary": "Dans un message publié sur X, Valve s'est à moitié excusé pour la rupture de stock actuellement observée par le Steam Controller, qui vient tout juste d'être lancé. L'entreprise travaille sur un réassort, pendant que les spéculateurs s'enrichissent.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2aa83d248045",
+          "title": "☕️ Google renouvelle son Android Show le 12 mai et promet des nouveautés majeures",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/google-renouvelle-son-android-show-le-12-mai-et-promet-des-nouveautes-majeures/",
+          "category": "ia",
+          "published_at": "2026-05-06T08:37:00+00:00",
+          "summary": "Google a confirmé mardi une organisation en deux temps pour ses conférences du mois de mai dédiées à l&#8217;univers du mobile. Le moteur de recherche tiendra d&#8217;abord une présentation baptisée The Android Show, programmée le 12 mai 2026 à 19 heures (heure de Paris). Comme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f298cbf7c14d",
+          "title": "« C’est un titre de référence mondiale » : Cafeyn ajoute le Washington Post dans son abonnement presse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2247711-cest-un-titre-de-reference-mondiale-cafeyn-ajoute-le-washington-post-dans-son-abonnement-presse.html",
+          "category": "ia",
+          "published_at": "2026-05-06T08:30:00+00:00",
+          "summary": "Pour la première fois, le service français qui permet de consulter plusieurs journaux et magazines grâce à un abonnement unique (12,99 euros par mois) s'ouvre à un des titres majeurs du paysage américain. Avec l'arrivée du Washington Post dans son offre, Cafeyn explique à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb3f7a49cd5e",
+          "title": "Evil Dead Burn : le prochain film d’horreur choque déja tout le monde avec son trailer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247751-evil-dead-burn-le-prochain-film-dhorreur-choque-deja-tout-le-monde-avec-son-trailer.html",
+          "category": "ia",
+          "published_at": "2026-05-06T08:27:23+00:00",
+          "summary": "Le sang va encore couler. Warner Bros. vient de lever le voile sur la bande-annonce d'Evil Dead Burn, le sixième opus de la franchise légendaire créée par Sam Raimi. Préparez-vous, la sortie est fixée au 10 juillet 2026, et la boucherie s’annonce totale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11a278b1898e",
+          "title": "OpenAI lance GPT-5.5 Instant : ChatGPT devient moins bavard",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2247685-openai-lance-gpt-5-5-instant-chatgpt-devient-moins-bavard.html",
+          "category": "ia",
+          "published_at": "2026-05-06T08:24:58+00:00",
+          "summary": "Lancé le 5 mai 2026, GPT-5.5 Instant devient le nouveau modèle par défaut de ChatGPT. OpenAI promet une IA plus fiable, plus concise et mieux personnalisée, avec moins d’hallucinations et une meilleure prise en compte du contexte des utilisateurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e461029d563f",
+          "title": "Messageries chiffrées : la Délégation parlementaire au renseignement relance la polémique",
+          "source": "Next INpact",
+          "url": "https://next.ink/236891/messageries-chiffrees-la-delegation-parlementaire-au-renseignement-relance-la-polemique/",
+          "category": "ia",
+          "published_at": "2026-05-06T08:15:00+00:00",
+          "summary": "Plus d&#8217;un an après avoir essayé de l&#8217;introduire dans la proposition de loi Narcotrafic, la délégation parlementaire au renseignement relance le débat sur l&#8217;introduction de portes dérobées dans les messageries chiffrées. Les parlementaires évoquent «&#160;un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4747eeb45e21",
+          "title": "Proton Mail redoute l’émergence des ordinateurs quantiques, mais a une parade pour les mails",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2247699-proton-mail-redoute-lemergence-des-ordinateurs-quantiques-mais-a-une-parade-pour-les-mails.html",
+          "category": "ia",
+          "published_at": "2026-05-06T08:12:06+00:00",
+          "summary": "La célèbre messagerie chiffrée n'attend pas l'arrivée des ordinateurs quantiques pour agir. Proton Mail intègre dès aujourd'hui un nouveau standard de chiffrement pour contrer les hackers qui interceptent vos messages maintenant en vue de les déchiffrer dans quelques années.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "577c337cce33",
+          "title": "Kylie Minogue’s Netflix Doc Now Has a Trailer: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/kylie-minogue-netflix-doc-trailer-stream-it-now-1236240216/",
+          "category": "ia",
+          "published_at": "2026-05-06T08:03:16+00:00",
+          "summary": "Nick Cave, Dannii Minogue and, of course, Kylie, are among the featured guests in the new three-part documentary series.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3948f6941c45",
+          "title": "Quel smartphone choisir pour remplacer son ancien modèle ? Les incontournables en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-06T08:00:20+00:00",
+          "summary": "Vous cherchez quel téléphone acheter pour remplacer votre ancien modèle ? En 2026, il est rare de trouver un mauvais smartphone à proprement parler. Cependant, certains méritent plus votre argent que d'autres. Que vous cherchiez le meilleur smartphone en photo, celui avec le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a55631a09a1f",
+          "title": "Voilà pourquoi Lego Batman: Legacy of the Dark Knight sera le meilleur jeu du mois de mai",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247677-voila-pourquoi-lego-batman-legacy-of-the-dark-knight-sera-le-meilleur-jeu-du-mois-de-mai.html",
+          "category": "ia",
+          "published_at": "2026-05-06T07:38:29+00:00",
+          "summary": "Lego Batman: Legacy of the Dark Knight, anthologie des films et séries du célèbre super-héros, au format Lego, sera rempli de références. Les développeurs se sont même amusés à reproduire le générique du meilleur dessin animé du monde.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd154bf737f0",
+          "title": "☕️ Amazon ouvre sa machine logistique à toutes les entreprises",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/amazon-ouvre-sa-machine-logistique-a-toutes-les-entreprises/",
+          "category": "ia",
+          "published_at": "2026-05-06T07:28:00+00:00",
+          "summary": "Le petit monde de la logistique compte un nouvel acteur, et pas des moindres : Amazon a en effet annoncé que son infrastructure de distribution mondiale peut maintenant être utilisée par n&#8217;importe quelle entreprise, y compris si elle ne vend rien sur Amazon. Rude…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e1f5eb830ee4",
+          "title": "C’est officiel, Google organise une conférence dédiée au futur d’Android dans quelques jours",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2240473-cest-officiel-google-organise-une-conference-dediee-au-futur-dandroid-dans-quelques-jours.html",
+          "category": "ia",
+          "published_at": "2026-05-06T07:14:02+00:00",
+          "summary": "Une semaine avant la Google I/O, Google organisera une conférence dédiée exclusivement à l'écosystème Android. En plus de la mise à jour Android 17, d'autres nouveautés pourraient être dévoilées et déployées sur des centaines de millions de smartphones.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c78df7d1b6e2",
+          "title": "Entraînement des IA et droit d’auteur : l’industrie culturelle veut l’adoption rapide de la loi",
+          "source": "Next INpact",
+          "url": "https://next.ink/237045/entrainement-des-ia-et-droit-dauteur-lindustrie-culturelle-veut-ladoption-rapide-de-la-loi/",
+          "category": "ia",
+          "published_at": "2026-05-06T07:09:00+00:00",
+          "summary": "Plus de 80 organisations culturelles appellent au vote rapide par l&#8217;Assemblée nationale d&#8217;une proposition de loi adoptée par le Sénat sur la présomption d&#8217;utilisation des contenus par les fournisseurs d&#8217;IA. Un texte qui donne à l&#8217;industrie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e2e5b848a43",
+          "title": "‘Plenty of AI isn’t generative, and/or is not using someone else’s training data’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/06/plenty-of-ai-isnt-generative-and-or-is-not-using-someone-elses-training-data/",
+          "category": "musique",
+          "published_at": "2026-05-06T07:00:00+00:00",
+          "summary": "In September 2022, Drew Thurlow left his job as SVP of A&#038;R at Sony Music Entertainment to focus on being a stay-at-home father.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b621c8c3b5a",
+          "title": "Grand ménage de printemps chez Xbox, avec l’arrêt de Copilot sur mobile et consoles",
+          "source": "Next INpact",
+          "url": "https://next.ink/237048/grand-menage-de-printemps-chez-xbox-avec-larret-de-copilot-sur-mobile-et-consoles/",
+          "category": "ia",
+          "published_at": "2026-05-06T06:30:00+00:00",
+          "summary": "La nouvelle patronne de la division Xbox met un terme aux développements liés à l&#8217;IA dans l&#8217;environnement de jeu de Microsoft et annonce le retrait des fonctions Copilot déjà implémentées. Asha Sharma continue d&#8217;imprimer sa marque dans la division Xbox…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9604825ddb3",
+          "title": "Ticketing’s Real Problem Isn’t Live Nation – Guest column",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/06/ticketings-real-problem-isnt-live-nation-guest-column/",
+          "category": "musique",
+          "published_at": "2026-05-06T06:10:00+00:00",
+          "summary": "Guest column: Music Ally publishes guest columns voicing the opinions of notable authors, or advancing specific perspectives on important issues. These are chosen at the Editorial team’s discretion, are not paid-for, and do not necessarily reflect Music Ally&#8217;s own opinion.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abbd7ec2fdb1",
+          "title": "Une rumeur affirme que Disney va effacer la postlogie Star Wars. Vraiment ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247399-une-rumeur-affirme-que-disney-va-effacer-la-postlogie-star-wars-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-05-06T06:01:00+00:00",
+          "summary": "Disney serait-il sur le point de décanoniser les aventures de Rey et Kylo Ren pour sauver sa franchise au cinéma ? Si la rumeur d'un effacement magique de la postlogie fait rêver ses détracteurs, les projets actuels de Lucasfilm soutiennent exactement l'inverse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e9dc8da2dfa",
+          "title": "Nebula becomes latest fan-to-artist investment platform",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/06/nebula-becomes-latest-fan-to-artist-investment-platform/",
+          "category": "musique",
+          "published_at": "2026-05-06T06:00:00+00:00",
+          "summary": "Music tech startup Nebula has partnered with distribution company Supply Chain Music to create a new &#8220;earn-before-you-stream&#8221; service. Their goal, they say, is to shift artist compensation on streaming platforms from a post-release payout, to a payout that happens…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "878e06cd894f",
+          "title": "☕️ Les promesses non tenues autour de Siri vont coûter cher à Apple",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/les-promesses-non-tenues-autour-de-siri-vont-couter-cher-a-apple/",
+          "category": "ia",
+          "published_at": "2026-05-06T05:57:02+00:00",
+          "summary": "Apple n&#8217;en finit pas de payer les errements de son intelligence artificielle. Dévoilée en grande pompe en juin 2024, la version « personnalisée » de Siri n&#8217;est toujours pas disponible, deux ans plus tard. Ce qui n&#8217;a pas empêché le constructeur d&#8217;en faire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8befc1fb131",
+          "title": "The Handmaid’s Tale sur Netflix : pourquoi il faut (re)découvrir cette série culte",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246757-the-handmaids-tale-sur-netflix-pourquoi-il-faut-redecouvrir-cette-serie-culte.html",
+          "category": "ia",
+          "published_at": "2026-05-06T05:30:00+00:00",
+          "summary": "Robe rouge, coiffe blanche et cœurs révoltés. L’intégrale de The Handmaid's Tale : La Servante écarlate, la série la plus emblématique de la décennie post Me Too, portée par la puissante Elisabeth Moss, débarque le 6 mai sur Netflix. On vous explique pourquoi il ne faut pas la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ad41bf36b82",
+          "title": "Arena One, AMC Theatres Lift the Curtain on ‘Next Chapter of Live Shows’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/arena-one-amc-theatres-next-chapter-live-shows/",
+          "category": "musique",
+          "published_at": "2026-05-06T04:46:08+00:00",
+          "summary": "Bebe Rexha is the first artist confirmed for the new, interactive concert experience.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fade036121f",
+          "title": "Kobie Dee to Kick Off A-League Grand Final Celebrations",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/kobie-dee-a-league-grand-final-celebrations-1236240167/",
+          "category": "ia",
+          "published_at": "2026-05-06T03:51:06+00:00",
+          "summary": "The Indigenous Australian hip-hop artist will mark his first time performing at a major national sporting event.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c0150368f38",
+          "title": "Delta Goodrem Sets Sail With European Luxury Voyage Shows",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/delta-goodrem-european-luxury-voyage-shows-1236240156/",
+          "category": "ia",
+          "published_at": "2026-05-06T03:12:47+00:00",
+          "summary": "The Australian pop star will helm the music program for a 12-day luxury voyage through the Adriatic and Eastern Mediterranean.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d9d95e09a55",
+          "title": "Salt-N-Pepa’s Music Ownership Appeal Has a ‘Foundational Deficiency,’ UMG Argues",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/salt-n-pepa-music-ownership-lawsuit-umg-appeal-rejected/",
+          "category": "musique",
+          "published_at": "2026-05-06T00:59:41+00:00",
+          "summary": "The world's largest music company says an appellate court should reject the rappers' legal challenge.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79da48bb7ecb",
+          "title": "5 Things to Know About Avery Anna, the 2026 ACM Winner for New Female Artist of the Year",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/avery-anna-2026-acm-winner-new-female-artist-fun-facts/",
+          "category": "institutionnel",
+          "published_at": "2026-05-06T00:19:29+00:00",
+          "summary": "The host of this year's ACM Awards, and the four artists with the most nominations, are all past winners in this category.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d91c040bfca9",
+          "title": "6 Things to Know About Tucker Wetmore, the 2026 ACM Winner for New Male Artist of the Year",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/tucker-wetmore-2026-acm-winner-new-male-artist-fun-facts/",
+          "category": "musique",
+          "published_at": "2026-05-06T00:05:56+00:00",
+          "summary": "The rising country star opened for Thomas Rhett in concert last summer. On April 30, Rhett returned the favor.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62557e5a6c18",
+          "title": "Romeo Santos, Daddy Yankee, Keityn & More Win Big at 2026 ASCAP Latin Music Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2026-ascap-latin-music-awards-winners-1236239693/",
+          "category": "musique",
+          "published_at": "2026-05-06T00:00:00+00:00",
+          "summary": "Plus, DY extends his reign as the most decorated Latin ASCAP songwriter in history, adding his 63rd and 64th awards.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-05",
       "articles": [
+        {
+          "id": "71fe0a403fa4",
+          "title": "Épidémie d’hantavirus : 3 morts sur un bateau de croisière, ce qu’il faut savoir sur cette maladie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2247317-epidemie-dhantavirus-3-morts-sur-un-bateau-de-croisiere-ce-quil-faut-savoir-sur-cette-maladie.html",
+          "category": "ia",
+          "published_at": "2026-05-05T19:17:49+00:00",
+          "summary": "Le 3&nbsp;mai&nbsp;2026, selon les informations communiquées par l'OMS, trois&nbsp;personnes sont mortes à bord d’un bateau de croisière sur l’océan Atlantique. L’OMS suspecte une épidémie provoquée par un hantavirus, une famille de virus qui peuvent, de manière exceptionnelle,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "052b28245f26",
+          "title": "Où voir le Diable s’habille en Prada avant de voir le 2 au cinéma ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247405-ou-voir-le-diable-shabille-en-prada-avant-de-voir-le-2-au-cinema.html",
+          "category": "ia",
+          "published_at": "2026-05-05T18:15:00+00:00",
+          "summary": "Alors que Le Diable s’habille en Prada 2 vient de s’emparer de la tête du box-office depuis sa sortie le 29 avril 2026, l’envie de retrouver les débuts d’Andy Sachs et les répliques cinglantes de Miranda Priestly n'a jamais été aussi forte. Bonne nouvelle, si vous voulez réviser…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccc9fcbc0eec",
+          "title": "LOA et LLD voiture électrique : les meilleures offres de leasing auto à saisir avant l’été 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/1048900-quelles-sont-les-meilleures-voitures-electriques-a-louer-a-partir-de-100-e-par-mois.html",
+          "category": "ia",
+          "published_at": "2026-05-05T17:50:51+00:00",
+          "summary": "Les Locations Longue Durée (LLD) ou Locations avec Option d'Achat (LOA) sont de bonnes alternatives pour acquérir une nouvelle voiture électrique. Beaucoup de constructeurs intègrent des offres de leasing attractives pour leurs modèles 100 % électrique. Profitez des meilleures…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b215fe1c4e8",
+          "title": "Google, Microsoft et xAI cèdent les clés de leurs futures IA au gouvernement américain",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2247323-google-microsoft-et-xai-cedent-les-cles-de-leurs-futures-ia-au-gouvernement-americain.html",
+          "category": "ia",
+          "published_at": "2026-05-05T16:08:22+00:00",
+          "summary": "Le 5 mai 2026, Microsoft, Google et xAI ont accepté d’accorder au gouvernement américain un accès anticipé à leurs modèles d’IA les plus avancés. Un nouvel accord qui confirme un tournant dans les relations entre la Silicon Valley et Washington.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d85d3e707f6c",
+          "title": "Elon Musk vs OpenAI : tout ce qu’il faut savoir du procès qui secoue la Silicon Valley",
+          "source": "Next INpact",
+          "url": "https://next.ink/236770/elon-musk-vs-openai-tout-ce-quil-faut-savoir-du-proces-qui-secoue-la-silicon-valley/",
+          "category": "ia",
+          "published_at": "2026-05-05T15:49:02+00:00",
+          "summary": "C&#8217;est le procès du siècle (même si le siècle est encore jeune) : Elon Musk et OpenAI s&#8217;affrontent devant le jury d&#8217;un tribunal fédéral en Californie. Une bataille à plusieurs (centaines de) milliards de dollars qui mêle rivalités personnelles, gouvernance…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b353b18b46f2",
+          "title": "Xbox Game Pass : les 14 nouveaux jeux à découvrir en mai 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247327-xbox-game-pass-les-14-nouveaux-jeux-a-decouvrir-en-mai-2026.html",
+          "category": "ia",
+          "published_at": "2026-05-05T15:44:29+00:00",
+          "summary": "Microsoft a levé le voile sur la première vague de jeux qui rejoindront les différents catalogues du Xbox Game Pass en mai. Un mois marqué par l'arrivée de Forza Horizon 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71ad859d8d70",
+          "title": "☕️ L’IA de Meta scrute profils et photos pour estimer l’âge des utilisateurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/lia-de-meta-scrute-profils-et-photos-pour-estimer-lage-des-utilisateurs/",
+          "category": "ia",
+          "published_at": "2026-05-05T15:29:08+00:00",
+          "summary": "Les moins de 13 ans ne peuvent officiellement pas créer de compte sur Instagram ou sur Facebook… même s’il est relativement facile de tromper le processus d’inscription. C’est pourquoi Meta a mis en place des mécanismes de vérification pour supprimer ces comptes, et les met à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8eb75b2a4222",
+          "title": "From Wine to Diamonds, Every Major Consumer Industry Protects You From Fakes. Why Doesn’t Music?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-wine-to-diamonds-every-major-consumer-industry-protects-you-from-fakes-why-doesnt-music/",
+          "category": "musique",
+          "published_at": "2026-05-05T15:18:19+00:00",
+          "summary": "Music supervisor and Catalog founder Frederic Schindler argues it's time for standardized 'Music Facts' labels – modeled on food nutrition panels – to make the origin of every track in the supply chain visible to consumers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95c067b6e90e",
+          "title": "Ce futur RPG inspiré de The Witcher 3 et avec des vampires est en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247291-ce-futur-rpg-inspire-de-the-witcher-3-et-avec-des-vampires-est-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-05-05T15:16:47+00:00",
+          "summary": "[Précommande] The Blood of Dawnwalker pourrait bien être le jeu de la rentrée prochaine, avec d'anciens membres de CD Projekt Red aux commandes. Le titre, édité par Bandai Namco, est disponible en précommande.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1871df2bf3e",
+          "title": "A bill in France would force AI firms to prove they didn’t use copyrighted content to train their tech. The country’s music biz is urging lawmakers to pass it",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/a-bill-in-france-would-force-ai-firms-to-prove-they-didnt-use-copyrighted-content-to-train-their-tech-the-countrys-music-biz-is-urging-lawmakers-to-pass-it/",
+          "category": "musique",
+          "published_at": "2026-05-05T15:16:17+00:00",
+          "summary": "The law would reverse the burden of proof in copyright disputes involving AI in France\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b798aec2776",
+          "title": "The US Copyright Office is hiking registration fees by 43%. Independent music orgs say many artists won’t be able to afford it.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-us-copyright-office-is-hiking-registration-fees-by-43-independent-music-orgs-say-many-artists-wont-be-able-to-afford-it/",
+          "category": "musique",
+          "published_at": "2026-05-05T14:57:20+00:00",
+          "summary": "With the fee hike, independent creators could lose access to the Copyright Claims Board, a more affordable way to pursue infringement cases, the coalition said.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46845baa6e08",
+          "title": "Bercy « décode » la désinformation et promet… des « sources ouvertes et accessibles »",
+          "source": "Next INpact",
+          "url": "https://next.ink/236898/bercy-decode-la-desinformation-et-promet-des-sources-ouvertes-et-accessibles/",
+          "category": "ia",
+          "published_at": "2026-05-05T14:50:28+00:00",
+          "summary": "Les fakes news envahissent – polluent serait plus juste – de plus en plus l’espace médiatique. Cela va au-delà de la mésinformation ou désinformation, avec des ingérences étrangères. Les risques sont nombreux, notamment en période d’élections (les présidentielles approchent).…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2278f7792b0e",
+          "title": "Shigeru Miyamoto défend le rythme effréné de Super Mario Galaxy Le Film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2247123-shigeru-miyamoto-defend-le-rythme-effrene-de-super-mario-galaxy-le-film.html",
+          "category": "ia",
+          "published_at": "2026-05-05T14:32:25+00:00",
+          "summary": "Shigeru Miyamoto est récemment revenu sur le rythme effréné de Super Mario Galaxy Le Film, défendant le fait que le blockbuster enchaîne les scènes en ne laissant aucun moment de respiration.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6e57a331a58",
+          "title": "On… Universal, Spotify, Virgin, and the ‘leakage’ causing analyst discomfort.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-spotify-virgin-and-the-leakage-causing-analyst-discomfort/",
+          "category": "musique",
+          "published_at": "2026-05-05T14:31:18+00:00",
+          "summary": "This article orginally appeared in Tim Ingham’s latest ‘Tim’s Take’ email, issued exclusively to MBW+ subscribers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b781f4880ec",
+          "title": "☕️ Rakuten France, ex-PriceMinister, cherche un repreneur",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/rakuten-france-ex-priceminister-cherche-un-repreneur/",
+          "category": "justice",
+          "published_at": "2026-05-05T14:14:45+00:00",
+          "summary": "Pionnier français de la vente en ligne, l&#8217;ex PriceMinister devenu Rakuten cherche un repreneur pour ses activités e-commerce en France. À défaut, l&#8217;entreprise envisage l&#8217;arrêt pur et simple de la version française de sa place de marché, ce qui se traduirait par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9081fc0c5995",
+          "title": "Affaire Gisèle Pelicot : le site Cocoland a fermé, et fait une victime collatérale",
+          "source": "Next INpact",
+          "url": "https://next.ink/236741/affaire-gisele-pelicot-le-site-cocoland-a-ferme-et-fait-une-victime-collaterale/",
+          "category": "ia",
+          "published_at": "2026-05-05T13:42:11+00:00",
+          "summary": "La plateforme anonyme de chat utilisée pour recruter les violeurs de Gisèle Pelicot avait brièvement réouvert un clone, qui a depuis été fermé suite aux révélations de Ouest-France. Une erreur de l&#8217;AFP a entraîné l&#8217;éditeur d&#8217;un site homonyme à fermer lui aussi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f616253a4d6",
+          "title": "Sony Music expands JV with German rap label Two Sides, as founder Lucas Teuchner takes on broader advisory role for the major in the GSA region",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-expands-jv-with-german-rap-label-two-sides-as-founder-lucas-teuchner-takes-on-broader-advisory-role-for-the-major-in-the-gsa-region/",
+          "category": "musique",
+          "published_at": "2026-05-05T13:02:31+00:00",
+          "summary": "The Berlin-based hip-hop label and management company is behind superstar rapper Apache 207\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8f3afc65804",
+          "title": "Une méta-analyse sur les effets positifs de ChatGPT dans l’éducation rétractée 1 an après",
+          "source": "Next INpact",
+          "url": "https://next.ink/236807/une-meta-analyse-sur-les-effets-positifs-de-chatgpt-dans-leducation-retractee-1-an-apres/",
+          "category": "ia",
+          "published_at": "2026-05-05T12:50:00+00:00",
+          "summary": "Une méta-analyse sur les effets de ChatGPT sur les élèves qui soutenait « un impact positif considérable » a été rétractée. Des chercheurs ont rapidement pointé des problèmes méthodologiques importants mais la revue n&#8217;a réagi qu&#8217;un an après. En mai 2025, la revue…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6de526d3af2",
+          "title": "YouTube allows creators to replace music with copyright issues with genAI songs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/05/youtube-allows-creators-to-replace-music-with-copyright-issues-with-genai-songs/",
+          "category": "musique",
+          "published_at": "2026-05-05T12:30:00+00:00",
+          "summary": "US-based YouTube creators who are finding their videos struck down by pesky content ID claims due to the use of copyright-protected music can now generate replacement instrumental tracks in the back-end of the site, YouTube Studio. The “replace song” tool will now include a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f05aca8f311f",
+          "title": "Sony reportedly looking to buy Recognition Music Group’s publishing assets",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/05/sony-reportedly-looking-to-buy-recognition-music-groups-publishing-assets/",
+          "category": "musique",
+          "published_at": "2026-05-05T12:30:00+00:00",
+          "summary": "Recognition Music Group, if you don’t &#8211; get it &#8211; recognise the name, was the result of the bundling-together of three companies connected to former catalogues-aquirer Hipgnosis: Hipgnosis Songs Fund, Hipgnosis Songs Assets and Hipgnosis Song Management. The new…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b408d838dbe9",
+          "title": "Spotify Discovery Mode “payola” lawsuit to move into arbitration",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/05/spotify-discovery-mode-payola-lawsuit-to-move-into-arbitration/",
+          "category": "ia",
+          "published_at": "2026-05-05T12:30:00+00:00",
+          "summary": "Back in November 2025, disgruntled Spotify user Genevieve Capolongo filed a lawsuit against the DSP, claiming that its Discovery Mode feature means that listeners are being misled because “Spotify’s playlists and recommendations are shaped by undisclosed pay-for-play…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b55ae4856a9",
+          "title": "Symphonic Next connects indie rightsholders to capital",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/05/symphonic-next-connects-indie-rightsholders-to-capital/",
+          "category": "ia",
+          "published_at": "2026-05-05T12:30:00+00:00",
+          "summary": "Distributer Symphonic has announced the launch of Symphonic Next, which is “designed to connect clients with the capital, partnerships, and strategic pathways needed to grow and monetize their businesses.”  The platform bridges Symphonic’s expanding role in catalogue…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff04b3ae4fa3",
+          "title": "☕️ Homebridge 2.0 se fait Matter (en plus de HomeKit)",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/homebridge-2-0-se-fait-matter-en-plus-de-homekit/",
+          "category": "ia",
+          "published_at": "2026-05-05T12:15:46+00:00",
+          "summary": "Homebridge est une solution logicielle open source permettant d’ajouter le support de HomeKit (la plateforme d&#8217;objets connectés d’Apple) à des produits qui ne le sont pas nativement. Par exemple, des caméras Ring d’Amazon sont ainsi accessibles et utilisables depuis…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3face2f0587a",
           "title": "IA conversationnelle et santé mentale des jeunes : résultats de l’enquête européenne",
@@ -12,6 +647,36 @@
           "category": "ia",
           "published_at": "2026-05-05T12:00:00+00:00",
           "summary": "Selon une enquête du Groupe VYV et de la CNIL menée dans quatre pays européens, près de 9 jeunes sur 10 utilisent une IA conversationnelle en France et près d’un sur deux y évoque des sujets personnels, ces outils s’imposant comme des interlocuteurs en matière de santé mentale —…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73468d168e3c",
+          "title": "Ordre du jour de la séance plénière du 5 mai 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-5-mai-2026",
+          "category": "institutionnel",
+          "published_at": "2026-05-05T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 5 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ea67a6fa786",
+          "title": "Suno reportedly looking to raise $1/4 billion+ in latest funding round",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/05/suno-reportedly-looking-to-raise-1-4-billion-in-latest-funding-round/",
+          "category": "musique",
+          "published_at": "2026-05-05T11:00:00+00:00",
+          "summary": "Only six months ago, GenAI music platform Suno announced a $250m Series-C funding round. That valued the company at $2.45bn and took its total funding (post seed and Series A rounds) to $375M. Now, Billboard reports, Suno is looking for another round of funding &#8211; that’s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f09b7279b65c",
+          "title": "☕️ Dav2d : VideoLAN publie son décodeur AV2 open source",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/dav2d-videolan-publie-son-decodeur-av2-open-source/",
+          "category": "ia",
+          "published_at": "2026-05-05T10:16:10+00:00",
+          "summary": "Presque huit ans après Dav1d, VideoLAN remet le couvert avec Dav2d. Comme son nom l’indique, c’est une implémentation logicielle pour décompresser des vidéos AV2, le codec en cours de développement par l’Alliance for Open Media. Il prend donc la suite de Dav1d – qui est…",
           "summary_type": "extrait source"
         },
         {
