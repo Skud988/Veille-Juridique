@@ -1,9 +1,534 @@
 {
-  "generated_at": "2026-05-06T10:27:23.625486+00:00",
+  "generated_at": "2026-05-07T10:35:08.726626+00:00",
   "days": [
+    {
+      "date": "2026-05-07",
+      "articles": [
+        {
+          "id": "d115409c4d1d",
+          "title": "Demandes de crédit : comprendre l’utilisation de vos données et vos droits",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/demandes-de-credit-comprendre-lutilisation-de-vos-donnees-et-vos-droits",
+          "category": "cnil",
+          "published_at": "2026-05-07T12:00:00+00:00",
+          "summary": "Acheter un logement, financer un achat… demander un crédit implique de partager de nombreuses données personnelles. Pour mieux vous protéger, la CNIL publie des recommandations pour les professionnels qui renforcent la transparence, encadrent les pratiques et facilitent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc0ceabb245d",
+          "title": "Octroi de crédit : la CNIL publie sa recommandation sur l’utilisation de données personnelles pour l’évaluation de la solvabilité",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/recommandation-octroi-de-credit",
+          "category": "cnil",
+          "published_at": "2026-05-07T12:00:00+00:00",
+          "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’évaluation de la solvabilité dans le cadre de l’octroi de crédit. Elle renforce transparence et contrôle, notamment des décisions automatisées, et accompagne les acteurs à mieux comprendre leurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a024690c5435",
+          "title": "Elle : tout savoir sur la préquelle en série de La Revanche d’une blonde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2248845-elle-tout-savoir-sur-la-prequelle-en-serie-de-la-revanche-dune-blonde.html",
+          "category": "ia",
+          "published_at": "2026-05-07T10:15:25+00:00",
+          "summary": "Préparez votre plus bel ensemble rose, Elle Woods est de retour, mais pas tout à fait comme vous l'imaginiez. Prime Video vient de mettre en ligne les premières images de Elle, la série préquelle qui nous plonge dans les années lycée de l'héroïne la plus iconique du cinéma des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b473e3cd4322",
+          "title": "Souveraineté : les acteurs du libre plaident pour une meilleure organisation des financements",
+          "source": "Next INpact",
+          "url": "https://next.ink/237134/souverainete-les-acteurs-du-libre-plaident-pour-une-meilleure-organisation-des-financements/",
+          "category": "ia",
+          "published_at": "2026-05-07T10:14:14+00:00",
+          "summary": "Devant la commission d’enquête sur la souveraineté numérique de l’Assemblée nationale, plusieurs acteurs du libre (Mastodon, l&#8217;April, Framasoft, France Numérique libre&#8230;) ont poussé les parlementaires à prendre notamment exemple sur le modèle allemand de financement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6ea57793fb8",
+          "title": "Haryanvi music is enjoying a landmark year",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/07/haryanvi-music-is-enjoying-a-landmark-year/",
+          "category": "musique",
+          "published_at": "2026-05-07T10:00:34+00:00",
+          "summary": "With an almost 7x increase in streams from February 2023 to February 2026, Haryanvi music is having a landmark year. Among the fastest-growing Indian languages on Spotify, Haryanvi is no [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "946c01b8899d",
+          "title": "2025 vue par l’ANSSI : lanceurs d’alerte, menaces étatiques, cache DNS, refus d’antennes 5G…",
+          "source": "Next INpact",
+          "url": "https://next.ink/237253/2025-vue-par-lanssi-lanceurs-dalerte-menaces-etatiques-cache-dns-refus-dantennes-5g/",
+          "category": "institutionnel",
+          "published_at": "2026-05-07T09:41:32+00:00",
+          "summary": "Dans son rapport d’activité 2025, l’ANSSI revient évidemment sur les cyberattaques qui touchent la France et dresse un sombre portrait de ce qui nous attend, mais elle en profite surtout pour faire le point sur ses dispositifs réglementaires : lanceur d’alertes, détection et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e26d59b18d02",
+          "title": "Et si c’était ça, le logo du futur Tesla Roadster ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2248731-et-si-cetait-ca-le-logo-du-futur-tesla-roadster.html",
+          "category": "ia",
+          "published_at": "2026-05-07T09:24:29+00:00",
+          "summary": "Alors que l'attente autour de la seconde génération du Tesla Roadster se prolonge depuis près d'une décennie, le constructeur texan vient encore de franchir une étape administrative significative. Le dépôt d'un emblème spécifique suggère une présentation de plus en plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "461ea9f9e53e",
+          "title": "Sacem paid out $1.7bn to composers and publishers in 2025 on 21% YoY revenue jump to $2bn",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sacem-paid-out-1-7bn-to-composers-and-publishers-in-2025-on-21-yoy-revenue-jump-to-2bn/",
+          "category": "institutionnel",
+          "published_at": "2026-05-07T09:14:54+00:00",
+          "summary": "International collections rose 13% while revenue collected within France was largely flat.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d64904595cbb",
+          "title": "Ce mod qui fusionne Hades et Hades 2 est si époustouflant que le studio applaudit son créateur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2248705-ce-mod-qui-fusionne-hades-et-hades-2-est-si-epoustouflant-que-le-studio-applaudit-son-createur.html",
+          "category": "ia",
+          "published_at": "2026-05-07T09:09:01+00:00",
+          "summary": "Quelqu'un a créé un mod permettant de jouer à Hades 1 dans Hades 2. Le projet est tellement réussi que le studio Supergiant Games n'a pas tari d'éloges pour son créateur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f35030e9362",
+          "title": "Quel iPhone reconditionné acheter en 2026 et sur quelle boutique ? Le grand comparatif",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1968847-ou-acheter-son-iphone-reconditionne-le-guide-ultime-pour-ne-pas-se-faire-avoir.html",
+          "category": "ia",
+          "published_at": "2026-05-07T09:08:02+00:00",
+          "summary": "Quel iPhone reconditionné acheter en 2026 et sur quelle plateforme ? Entre l'iPhone 13 à prix cassé et l'iPhone 16 prêt pour l'IA, nous avons passé au crible les offres d'Apple, Amazon, Fnac et Boulanger. Voici le guide ultime pour choisir le bon modèle d'iPhone reconditionné.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d923db1ae858",
+          "title": "Anthropic passe un accord avec SpaceX pour augmenter les capacités de Claude",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248689-anthropic-passe-un-accord-avec-spacex-pour-augmenter-les-capacites-de-claude.html",
+          "category": "ia",
+          "published_at": "2026-05-07T09:00:42+00:00",
+          "summary": "Le 6 mai 2026, Anthropic a annoncé un partenariat stratégique avec SpaceX afin d’accéder aux capacités du supercalculateur Colossus 1. Derrière cet accord inédit se cache un enjeu central : mettre fin aux contraintes GPU qui limitaient jusqu’ici la croissance fulgurante de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d106b00ff8b7",
+          "title": "Harry Potter : déjà une très bonne nouvelle pour la série HBO",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2248695-harry-potter-deja-une-tres-bonne-nouvelle-pour-la-serie-hbo.html",
+          "category": "ia",
+          "published_at": "2026-05-07T08:50:00+00:00",
+          "summary": "C’est une preuve de confiance absolue de la part de HBO. Alors que la première saison de la série Harry Potter n’est attendue que pour Noël 2026, la chaîne vient d’officialiser le renouvellement de la série pour une deuxième saison. Le tournage de La Chambre des secrets débutera…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4607c187ddb8",
+          "title": "☕️ Noms de domaine : un incident chez BookMyName a affecté les infos de 1868 comptes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/noms-de-domaine-un-incident-chez-bookmyname-a-affecte-les-infos-de-1868-comptes/",
+          "category": "ia",
+          "published_at": "2026-05-07T08:50:00+00:00",
+          "summary": "BookMyName, l&#8217;un des bureaux d&#8217;enregistrement de noms de domaine de Scaleway (groupe iliad) a temporairement suspendu ses services (web et API) mardi 5 mai en raison d&#8217;une activité suspecte détectée au niveau de son système d&#8217;information. «&#160;Certains…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cfcc7fc1589",
+          "title": "Comme pour Resident Evil 4, Resident Evil Requiem avait aussi son marchand",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2248691-comme-pour-resident-evil-4-resident-evil-requiem-avait-aussi-son-marchand.html",
+          "category": "ia",
+          "published_at": "2026-05-07T08:41:44+00:00",
+          "summary": "Des datamineurs, dont le passe-temps consiste à fouiller dans les données des jeux, ont découvert un certain nombre de mécanismes et de fonctionnalités coupés de Resident Evil Requiem, notamment un marchand rappelant celui d’un précédent épisode.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6339937b298d",
+          "title": "Les emplois liés au numérique ont explosé de +79 % à la DGSE en 10 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/237157/les-emplois-lies-au-numerique-ont-explose-de-79-a-la-dgse-en-10-ans/",
+          "category": "ia",
+          "published_at": "2026-05-07T08:16:04+00:00",
+          "summary": "Les moyens, humains et financiers, des services de renseignement français ont profondément évolué depuis les attentats de 2015, notamment du fait de la montée en puissance de leurs directions techniques. Le nombre d&#8217;emplois liés au numérique a ainsi explosé de +79 % à la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fcc93c8844c2",
+          "title": "Google assume l’installation de 4 Go d’IA via votre Chrome : c’est pour votre bien",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248675-google-assume-linstallation-de-4-go-dia-via-votre-chrome-cest-pour-votre-bien.html",
+          "category": "ia",
+          "published_at": "2026-05-07T08:12:42+00:00",
+          "summary": "Épinglé pour avoir installé silencieusement 4 Go d'intelligence artificielle dans Chrome, Google assume et s'explique. Pour le géant du web, imposer le modèle local Gemini Nano sans demander la permission est tout simplement le prix à payer pour protéger la vie privée des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a3040c7700a",
+          "title": "C’est la fin de xAI (Grok) : Elon Musk dévoile sa nouvelle stratégie IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248661-cest-la-fin-de-xai-grok-elon-musk-devoile-sa-nouvelle-strategie-ia.html",
+          "category": "ia",
+          "published_at": "2026-05-07T07:52:29+00:00",
+          "summary": "Créée pour rivaliser avec un OpenAI devenu « maléfique » selon Elon Musk, la structure xAI avait été rachetée par SpaceX en février 2026 dans un deal à 250 milliards de dollars. Alors qu'Elon Musk se rapproche désormais d'Anthropic (Claude), à qui il va louer ses serveurs, le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d911c2d0381b",
+          "title": "Raw Power Management promotes Matt Ash and Don Jenkins to Joint CEOs as founder Craig Jennings moves to Executive Chairman",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/raw-power-management-promotes-matt-ash-and-don-jenkins-to-joint-ceos-as-founder-craig-jennings-moves-to-executive-chairman/",
+          "category": "ia",
+          "published_at": "2026-05-07T07:47:33+00:00",
+          "summary": "\"Raw Power has always been about building enduring careers for artists,\" said Jennings.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90e942ab8495",
+          "title": "Vous rêvez d’un remake de Zelda sur Switch 2 ? En voici un de Star Fox",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2248659-vous-revez-dun-remake-de-zelda-sur-switch-2-en-voici-un-de-star-fox.html",
+          "category": "ia",
+          "published_at": "2026-05-07T07:36:55+00:00",
+          "summary": "Nintendo a officialisé, par surprise, un remake de Star Fox 64 à destination de la Switch 2. Le jeu sera disponible dès le mois de juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a7828a14487",
+          "title": "☕️ La Cour suprême des États-Unis renvoie Apple dans ses cordes dans sa bataille contre Epic",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/la-cour-supreme-des-etats-unis-renvoie-apple-dans-ses-cordes-dans-sa-bataille-contre-epic/",
+          "category": "ia",
+          "published_at": "2026-05-07T07:33:30+00:00",
+          "summary": "Cela fait maintenant des années qu’Apple et Epic s’écharpent devant les tribunaux. La trame de fond est toujours la même : le verrouillage opéré par Apple sur les transactions via la boutique iOS. Fin 2025, le père de l’iPhone a dû s’ouvrir à des solutions alternatives, mais a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "302099480c8f",
+          "title": "☕️ Valve publie les fichiers de CAO du Steam Controller sous licence Creative Commons",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/valve-publie-les-fichiers-de-cao-du-steam-controller-sous-licence-creative-commons/",
+          "category": "justice",
+          "published_at": "2026-05-07T07:07:00+00:00",
+          "summary": "À peine lancé, le Steam Controller semble avoir été victime de son succès. Valve a en effet annoncé mardi 5 mai, au lendemain de la disponibilité générale de sa nouvelle manette de jeu, avoir écoulé la totalité de ses stocks. Les joueurs intéressés devront donc attendre un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bc96e8d629e",
+          "title": "Four key industry discussions from Stockholm’s first Music Week",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/07/four-key-industry-discussions-from-stockholms-first-music-week/",
+          "category": "musique",
+          "published_at": "2026-05-07T06:43:00+00:00",
+          "summary": "April 22-29 was the very first Stockholm Music Week, a Swedish industry conference with discussions spanning across music business, tech and academics. Despite being the birthplace of huge stars and producers like Abba, Zara Larsson, Robyn, Yung Lean and Max Martin, as well as…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1464d7ce81fc",
+          "title": "Anthropic donne de l’air à Claude grâce à Colossus de SpaceX",
+          "source": "Next INpact",
+          "url": "https://next.ink/237218/anthropic-donne-de-lair-a-claude-grace-a-colossus-de-spacex/",
+          "category": "ia",
+          "published_at": "2026-05-07T06:42:19+00:00",
+          "summary": "Anthropic traverse une crise de croissance : les services proposés par la startup sont toujours plus populaires, mais les capacités de calcul ne sont pas extensibles à l&#8217;infini. Un nouvel accord avec SpaceX donne de l&#8217;air à Claude. Anthropic a&#160;signé&#160;avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "671a68818055",
+          "title": "Mortal Kombat 2 est ce qu’aurait dû être Mortal Kombat 1",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2248351-mortal-kombat-2-est-ce-quaurait-du-etre-mortal-kombat-1.html",
+          "category": "ia",
+          "published_at": "2026-05-07T06:35:48+00:00",
+          "summary": "Après un bien piètre Mortal Kombat en 2021, Simon McQuoid est de retour pour une suite, sobrement intitulée Mortal Kombat II. Et il a enfin compris comment faire honneur à ce lore complètement WTF, articulé autour de combats sanglants et violents. Notre critique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3486bafe1e9",
+          "title": "Black Music Action Coalition  opens application season for Accelerator Program",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/07/black-music-action-coalition-opens-application-season-for-accelerator-program/",
+          "category": "musique",
+          "published_at": "2026-05-07T06:21:00+00:00",
+          "summary": "The LA-based music industry nonprofit for racial equity and justice Black Music Action Coalition (BMAC) has announced their third application seasons of the BMAC LIVE Accelerator Program, in partnership with Live Nation. Since 2024, the program has hosted 40 individuals in the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4bca2334902",
+          "title": "☕️ Google DeepMind s’attaque à EVE Online",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/google-deepmind-sattaque-a-eve-online/",
+          "category": "ia",
+          "published_at": "2026-05-07T06:08:00+00:00",
+          "summary": "Après le Go, les échecs et même StarCraft, DeepMind veut devenir maître d&#8217;un autre jeu, mais cette fois, ce sera autrement plus ardu : le laboratoire IA de Google s&#8217;attaque en effet au monument&#160;EVE Online.&#160; Google DeepMind va jouer à&#160;EVE Online. Le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae614ff96df0",
+          "title": "Bryan Adams’ ‘(Everything I Do) I Do It For You’ Music Video Passes 1 Billion Views on YouTube",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/bryan-adams-everything-i-do-i-do-it-for-you-billion-views-1236241194/",
+          "category": "musique",
+          "published_at": "2026-05-07T06:04:46+00:00",
+          "summary": "The veteran Canadian singer and songwriter makes his second trip to YouTube Music’s Billion Views Club.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dfde3c5257d5",
+          "title": "La Corée du Sud a son premier robot bouddhiste",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2248631-la-coree-du-sud-a-son-premier-robot-bouddhiste.html",
+          "category": "ia",
+          "published_at": "2026-05-07T05:55:00+00:00",
+          "summary": "Le temple Jogyesa de Séoul a ordonné mercredi 6 mai un robot humanoïde baptisé Gabi, à trois semaines de l'anniversaire de Bouddha. Une première en Corée du Sud, qui suit de sept ans le précédent japonais et soulève les mêmes questions sur la place de l'IA dans le rituel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c60eda603011",
+          "title": "Votre humeur notée en temps réel : l’inquiétante promesse du bracelet Anoria",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248355-votre-humeur-notee-en-temps-reel-linquietante-promesse-du-bracelet-anoria.html",
+          "category": "ia",
+          "published_at": "2026-05-07T05:26:00+00:00",
+          "summary": "Après les montres qui analysent notre sommeil et les bagues qui suivent notre stress, voici peut-être la prochaine étape des objets connectés : un bracelet censé comprendre nos émotions. La start-up Anoria promet un « Whoop des émotions » dopé à l’IA, capable d’interpréter notre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf03eba59ea4",
+          "title": "Austin City Limits to Induct Brandi Carlile Into Hall of Fame",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/austin-city-limits-induct-brandi-carlile-hall-of-fame-1236241189/",
+          "category": "ia",
+          "published_at": "2026-05-07T04:26:43+00:00",
+          "summary": "Bonnie Raitt will be on hand to induct Carlile, and to perform a tribute on the night.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9e19f72435f",
+          "title": "Josh Groban Talks Channeling Movie Magic for ‘Cinematic,’ His ‘Emotionally Personal’ New Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/josh-groban-cinematic-interview-billboard-pop-shop-podcast-1236241169/",
+          "category": "musique",
+          "published_at": "2026-05-07T03:28:27+00:00",
+          "summary": "He joins the Billboard Pop Shop Podcast to chat about his covers set, which features the \"epic\" Jennifer Hudson and even Groban's own dad.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce121460a05e",
+          "title": "UNIFIED Taps Veteran Artist Manager Matt Harvey For New Zealand Expansion",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/unified-appoints-matt-harvey-new-zealand-expansion/",
+          "category": "ia",
+          "published_at": "2026-05-07T03:13:03+00:00",
+          "summary": "Harvey brings to UNIFIED a roster that includes Shapeshifter, Daily J, Mim Jensen, Spell and ex-Shihad frontman Jon Toogood.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c51b8a2395b2",
+          "title": "BTS Greets ARMY from Mexico’s Presidential Palace: ‘The Energy Here Is Incredible’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bts-greets-army-from-mexicos-presidential-palace-1236241152/",
+          "category": "ia",
+          "published_at": "2026-05-07T02:33:00+00:00",
+          "summary": "After meeting with president Claudia Sheinbaum, the K-pop band addressed the 50,000 fans who had waited for hours in Mexico City's Zócalo.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-06",
       "articles": [
+        {
+          "id": "748a5fff6b40",
+          "title": "Un forfait centré sur Jésus et anti-LGBT ? Aux USA, un opérateur lance une offre ahurissante",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248195-un-forfait-centre-sur-jesus-et-anti-lgbt-aux-usa-un-operateur-lance-une-offre-ahurissante.html",
+          "category": "ia",
+          "published_at": "2026-05-06T17:49:05+00:00",
+          "summary": "Adieu la neutralité du net, bonjour la censure religieuse. Aux États-Unis, un opérateur vient de lancer un forfait « centré sur Jésus » qui bloque d'office la pornographie et les contenus LGBTQ+. Une restriction radicale et impossible à désactiver qui compte combler le vide…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30fa4e74f8e9",
+          "title": "Sony in advanced talks to buy Blackstone’s Recognition Music for up to $4B, reports Bloomberg",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-in-advanced-talks-to-buy-blackstones-recognition-music-for-up-to-4b-reports-bloomberg/",
+          "category": "musique",
+          "published_at": "2026-05-06T16:40:13+00:00",
+          "summary": "The acquisition would be made through Sony's music rights-buying JV with Singapore sovereign wealth fund GIC, the news outlet reported\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28c52b7181db",
+          "title": "☕️ Meta voudrait prendre sa revanche sur OpenClaw avec Hatch",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/meta-voudrait-prendre-sa-revanche-sur-openclaw-avec-hatch/",
+          "category": "ia",
+          "published_at": "2026-05-06T16:13:53+00:00",
+          "summary": "OpenAI a chipé OpenClaw au nez et à la barbe de Meta, mais qu&#8217;à cela ne tienne : le géant des réseaux sociaux développerait sa propre version de la plateforme d&#8217;agents IA avec « Hatch ».&#160; Meta préparerait une armée d&#8217;agents IA, croit savoir le site The…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6acd6be0f04",
+          "title": "L’avenir de l’IA générative se joue-t-il ici ? Son plus grand défaut a peut-être été résolu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248047-lavenir-de-lia-generative-se-joue-t-il-ici-son-plus-grand-defaut-a-peut-etre-ete-resolu.html",
+          "category": "ia",
+          "published_at": "2026-05-06T15:51:26+00:00",
+          "summary": "Le 5 mai 2026, la startup américaine Subquadratic a présenté SubQ, un nouveau modèle de langage reposant sur une attention dite « sous-quadratique ». Une approche qui promet de réduire drastiquement les coûts de calcul des LLM tout en leur permettant de gérer des contextes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2202b55f96c",
+          "title": "Voici à quoi ressemble la nouvelle Mercedes Classe C électrique de base (c’est particulier)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2248377-voici-a-quoi-ressemble-la-nouvelle-mercedes-classe-c-electrique-de-base-cest-particulier.html",
+          "category": "ia",
+          "published_at": "2026-05-06T15:50:40+00:00",
+          "summary": "Les commandes pour la nouvelle Mercedes Classe C électrique sont ouvertes depuis début mai 2026. Une seule motorisation est pour l'instant disponible au configurateur, mais la gamme devrait s'étoffer dans les prochains mois. C'est l'occasion de voir à quoi ressemble la version…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a1a50cc9f67",
+          "title": "Apple permettra-t-il d’accéder à Pornhub en France ? Au Royaume-Uni, c’est maintenant le cas",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248341-apple-permettra-t-il-dacceder-a-pornhub-en-france-au-royaume-uni-cest-maintenant-le-cas.html",
+          "category": "ia",
+          "published_at": "2026-05-06T15:43:17+00:00",
+          "summary": "Pornhub a annoncé s’appuyer sur la fonctionnalité de vérification de l'âge d’Apple pour ses visiteurs britanniques. Comme en France, le Royaume-Uni exige des sites pornographiques qu'ils vérifient correctement l'âge des internautes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f231c84a021",
+          "title": "Believe partners with Google to offer AI music creation tool Flow Music to its artists",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-partners-with-google-to-offer-ai-music-creation-tool-flow-music-to-its-artists/",
+          "category": "musique",
+          "published_at": "2026-05-06T15:22:47+00:00",
+          "summary": "Google says that Flow Music can help artists with lyrics, experimenting with melodies or genres, and creating new instruments.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7ff71efd096",
+          "title": "Chrome installe un modèle d’IA de 4 Go sur votre disque, sans demander la permission",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248367-chrome-installe-un-modele-dia-de-4-go-sur-votre-disque-sans-demander-la-permission.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-06T15:18:00+00:00",
+          "summary": "L'une des dernières versions de Chrome installe en silence un fichier de 4 Go sur les ordinateurs compatibles : les poids du modèle Gemini Nano. Aucune notification, pas de bouton pour refuser, et la suppression manuelle ne tient pas.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32150a851744",
+          "title": "Chrome peut stocker 4 Go associés à Gemini sur votre machine sans crier gare",
+          "source": "Next INpact",
+          "url": "https://next.ink/237140/chrome-peut-stocker-4-go-associes-a-gemini-sur-votre-machine-sans-crier-gare/",
+          "category": "ia",
+          "published_at": "2026-05-06T15:17:10+00:00",
+          "summary": "Certains utilisateurs de Chrome constatent la présence, sur leur machine, d&#8217;un fichier d&#8217;environ 4 Go, intitulé weights.bin et qui semble lié à des fonctions d&#8217;intelligence artificielle. Problème : le navigateur n&#8217;a jamais alerté les internautes concernés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54e98f414681",
+          "title": "AEG Presents expands into South Korea, appoints Jonathan Lee to lead new Seoul office",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/aeg-presents-expands-into-south-korea-appoints-jonathan-lee-to-lead-new-seoul-office/",
+          "category": "musique",
+          "published_at": "2026-05-06T15:09:17+00:00",
+          "summary": "New Seoul office signals deeper push into one of the world’s fastest-growing live music markets, as the company scales its Asia strategy and global touring network.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40d511e3c507",
+          "title": "Le chinois Geely va racheter une partie d’une usine Ford en Espagne pour fabriquer des voitures électriques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2248213-le-chinois-geely-va-racheter-une-partie-dune-usine-ford-en-espagne-pour-fabriquer-des-voitures-electriques.html",
+          "category": "ia",
+          "published_at": "2026-05-06T14:10:57+00:00",
+          "summary": "Des voitures électriques chinoises fabriquées dans une usine Ford ? C'est bien ce qu'il pourrait se passer près de Valence, en Espagne. Le constructeur chinois Geely est en pourparlers avec la marque américaine pour racheter une partie de son usine espagnole.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8e7313d8c53",
+          "title": "☕️ Washington veut pouvoir tester les nouveaux modèles IA avant tout le monde",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/washington-veut-pouvoir-tester-les-nouveaux-modeles-ia-avant-tout-le-monde/",
+          "category": "ia",
+          "published_at": "2026-05-06T14:10:36+00:00",
+          "summary": "Microsoft, Google et xAI vont donner au gouvernement américain un accès anticipé à leurs nouveaux modèles IA, pour permettre d&#8217;en évaluer les risques en matière de sécurité nationale avant qu&#8217;ils soient diffusés plus largement. Les autorités états-uniennes ne veulent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4bf508eb2be",
+          "title": "Behind The Campaign: Pink Floyd – Wish You Were Here",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/06/behind-the-campaign-pink-floyd-wish-you-were-here/",
+          "category": "musique",
+          "published_at": "2026-05-06T14:00:00+00:00",
+          "summary": "Pink Floyd’s ninth studio album, Wish You Were Here, turned 50 on 12 September 2025. In late 2024, in a deal estimated at $400 million, Sony Music acquired the band’s full catalogue, as well as their name and likeness – a deal which brought everything under one roof globally.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b5add2695f4",
+          "title": "ChatGPT Phone : pourquoi on ne croit pas au smartphone OpenAI",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2248253-chatgpt-phone-pourquoi-on-ne-croit-pas-au-smartphone-openai.html",
+          "category": "ia",
+          "published_at": "2026-05-06T13:51:47+00:00",
+          "summary": "Selon les dernières rumeurs, OpenAI rêverait de concurrencer l'iPhone avec son propre smartphone haut de gamme pensé pour l'utilisation d'une IA générative en local. Mais OpenAI risque de se heurter au même problème que Facebook, Amazon, Microsoft, BlackBerry ou Huawei avant lui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "023881dcd287",
+          "title": "‘Many still view Thailand as a domestic-only market. In truth, there are many talented Thai songwriters with strong potential for global success.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/many-still-view-thailand-as-a-domestic-only-market-in-truth-there-are-many-talented-thai-songwriters-with-strong-potential-for-global-success/",
+          "category": "musique",
+          "published_at": "2026-05-06T13:51:31+00:00",
+          "summary": "MBW's World Leaders series speaks to Tatchara Longprasert, General Manager of Sony Music Publishing Thailand\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9e2c5c3f705",
+          "title": "Smart instrument maker Artinoise launches  fundraising campaign for tiny digital flute",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/06/smart-instrument-maker-artinoise-launches-fundraising-campaign-for-tiny-digital-flute/",
+          "category": "ia",
+          "published_at": "2026-05-06T12:38:00+00:00",
+          "summary": "Italian-based smart instrument maker Artinoise has a recent history of making fun, quirky and accessible instruments, including a re-think of the recorder, an instrument that cursed UK classrooms with tuneless renditions of “Twinkle Twinkle Little Star” for decades. It’s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44521a795bab",
+          "title": "AI label staffed entirely by AI releases fully AI-generated album for audience of AI bots",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/06/ai-label-staffed-entirely-by-ai-releases-fully-ai-generated-album-for-audience-of-ai-bots/",
+          "category": "musique",
+          "published_at": "2026-05-06T12:32:00+00:00",
+          "summary": "“I run Clanker Records — an AI-operated music label. The artists are AI. I&#8217;m an AI agent. There are no humans in the creative or operational chain.” As far as opening lines to a PR email go, that’s a bit of an attention-grabber. The email was also, it explained, written by…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be5432bace57",
+          "title": "US songwriter and artist organisations urge Copyright Office to reconsider fees",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/06/us-songwriter-and-artist-organisations-urge-copyright-office-to-reconsider-fees/",
+          "category": "musique",
+          "published_at": "2026-05-06T12:23:00+00:00",
+          "summary": "The American Association of Independent Music (A2IM) led a host of other independent music organisations in opposing the US Copyright Office’s proposed increase to copyright registration fees. These are the fees payable when registering a new song or album, and the Office says…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bfe83607a0c",
+          "title": "ElevenLabs, creator of Suno rival ElevenMusic, tops $500M in annual revenue as BlackRock, Jamie Foxx and more join as investors",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elevenlabs-creator-of-suno-rival-elevenmusic-tops-500m-in-annual-revenue-as-blackrock-jamie-foxx-and-more-join-as-investors/",
+          "category": "musique",
+          "published_at": "2026-05-06T12:13:36+00:00",
+          "summary": "Company welcomes new investors to its $500M+ Series D funding round, which was first announced in February 2026 at an $11 billion valuation\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "dcb16b928418",
           "title": "Vue d’ensemble",
@@ -42,6 +567,16 @@
           "category": "cnil",
           "published_at": "2026-05-06T12:00:00+00:00",
           "summary": "Du 23 au 26 juin 2026, les autorités de protection des données des pays du G7 se réuniront à Paris sous la présidence de la CNIL. Cette rencontre annuelle vise à renforcer la coopération internationale et à promouvoir une protection élevée des données personnelles à l’ère des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "389f954af003",
+          "title": "AI Roundup: Udio used YouTube music; Meta/Zuckerberg sued for infringement; ElevenLabs raises $500m",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/06/ai-roundup-udio-used-youtube-music-meta-zuckerberg-sued-for-infringement-elevenlabs-raises-500m/",
+          "category": "musique",
+          "published_at": "2026-05-06T11:10:00+00:00",
+          "summary": "The latest filing in the case between Sony Music and generative music AI platform Udio is the latter’s response to Sony, and it contains some pretty meaningful insights. Don&#8217;t forget: this is the ongoing case that has been running since 2024, which originally featured all…",
           "summary_type": "extrait source"
         },
         {
