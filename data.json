@@ -1,9 +1,304 @@
 {
-  "generated_at": "2026-05-08T09:53:33.955489+00:00",
+  "generated_at": "2026-05-09T09:43:43.748914+00:00",
   "days": [
+    {
+      "date": "2026-05-09",
+      "articles": [
+        {
+          "id": "4fc522c8b2eb",
+          "title": "Gérer des ailes n’est pas un problème pour notre cerveau, mais ça ne nous fait pas voler pour autant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250293-gerer-des-ailes-nest-pas-un-probleme-pour-notre-cerveau-mais-ca-ne-nous-fait-pas-voler-pour-autant.html",
+          "category": "ia",
+          "published_at": "2026-05-09T08:44:11+00:00",
+          "summary": "Une équipe chinoise a entraîné 25 volontaires à voler avec des ailes virtuelles. Au bout d'une semaine, leur cerveau a commencé à traiter ces ailes comme s'il s'agissait de bras.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17e3712ad72d",
+          "title": "OVNI « chandelier » : l’étoile à huit branches n’a probablement rien d’extraterrestre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2250279-ovni-chandelier-letoile-a-huit-branches-na-probablement-rien-dextraterrestre.html",
+          "category": "ia",
+          "published_at": "2026-05-09T08:18:52+00:00",
+          "summary": "Une image d'OVNI en forme d'étoile à huit branches, captée par un capteur infrarouge militaire au Moyen-Orient, refait surface sur X après la publication de fichiers liés aux OVNI par la Maison-Blanche. La vidéo date en réalité de 2013, et l'explication la plus probable n'a rien…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed58745c8e57",
+          "title": "Deux robots humanoïdes Helix-02 rangent une chambre en moins de deux minutes (mais pas la vôtre)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250269-deux-robots-humanoides-helix-02-rangent-une-chambre-en-moins-de-deux-minutes-mais-pas-la-votre.html",
+          "category": "ia",
+          "published_at": "2026-05-09T07:44:34+00:00",
+          "summary": "Figure a publié une vidéo de deux humanoïdes Helix-02 qui remettent en ordre une chambre à coucher en moins de deux minutes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "245dd2aefa63",
+          "title": "Pourquoi l’IA Claude adorait faire du chantage (et comment Anthropic a mis fin à cette dérive)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250265-pourquoi-lia-claude-adorait-faire-du-chantage-et-comment-anthropic-a-mis-fin-a-cette-derive.html",
+          "category": "ia",
+          "published_at": "2026-05-09T07:11:00+00:00",
+          "summary": "Anthropic a expliqué dans un long billet de recherche comment ses modèles Claude sont passés d'un taux de chantage de 96 % à zéro dans ses tests d'alignement. La recette : leur enseigner le raisonnement derrière les bons comportements, pas seulement les bons comportements.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad799a30f20c",
+          "title": "Ce très grand TV QD-Mini LED de 65″ 4K 144 Hz tombe en promotion à moins de 600 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2249561-ce-tres-grand-tv-qd-mini-led-de-65%e2%80%b3-4k-144-hz-tombe-en-promotion-a-moins-de-600-e.html",
+          "category": "ia",
+          "published_at": "2026-05-09T07:06:00+00:00",
+          "summary": "[Deal du jour] Avec sa dalle QD-Mini LED de qualité et son taux de rafraîchissement de 144 Hz, ce TV de TCL d'une taille de 65\" est un excellent deal à ce prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0cbfe8dd6e2f",
+          "title": "Dua Lipa Makes Surprise Appearance at Tame Impala’s London O2 Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/dua-lipa-surprise-appearance-tame-impala-london-1236243418/",
+          "category": "ia",
+          "published_at": "2026-05-09T06:57:02+00:00",
+          "summary": "\"Let's play a song that we made together!\" he announced, before the pair broke into Lipa's 2024 hit \"Houdini\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "043f37da58fd",
+          "title": "Comme les Français, les Américains ne pourront plus tricher sur l’Apple Store",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250263-comme-les-francais-les-americains-ne-pourront-plus-tricher-sur-lapple-store.html",
+          "category": "ia",
+          "published_at": "2026-05-09T06:49:21+00:00",
+          "summary": "Depuis le 8 mai 2026, Apple impose une vérification d'identité via UNiDAYS pour acheter sur son Apple Education Store aux États-Unis, au Canada et au Chili. La fin d'un système à la confiance qui laissait à peu près n'importe qui décrocher 10 % de remise.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7ec49b76941",
+          "title": "Joey Valence & Brae Turn ‘Security’ Into Dance-Rap Chaos on ‘Like A Version’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/joey-valence-brae-like-a-version-1236243408/",
+          "category": "ia",
+          "published_at": "2026-05-09T05:19:46+00:00",
+          "summary": "Their Like A Version appearance arrived during the Australian leg of the HYPERYOUTH World Tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79b3ec849497",
+          "title": "WWE Backlash 2026 Livestream: How to Watch Roman Reigns vs. Jacob Fatu Live Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-wwe-backlash-live-online-streaming-1235672180/",
+          "category": "musique",
+          "published_at": "2026-05-09T03:31:06+00:00",
+          "summary": "Reigns defends his title and John Cena returns to the WWE on Saturday (May 9).",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "articles": [
+        {
+          "id": "c8cbb79e1b1b",
+          "title": "TDE’s Punch Addresses ‘Bot Allegations’ on ‘Joe Budden Podcast’: ‘Our True Metric Is Seeing People in Them Seats at the Show’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/tde-punch-joe-budden-podcast-we-dont-bot-1236243279/",
+          "category": "ia",
+          "published_at": "2026-05-08T23:44:51+00:00",
+          "summary": "Fans online have accused Kendrick Lamar &#38; Top Dawg Entertainment of juicing their numbers by using bots.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "889472ad5418",
+          "title": "Red Hot Chili Peppers Sells Recorded Music Catalog to WMG for Over $300 Million",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/red-hot-chili-peppers-sells-recorded-catalog-warner-music/",
+          "category": "musique",
+          "published_at": "2026-05-08T23:12:47+00:00",
+          "summary": "The company purchased the catalog through a $1.2 billion joint venture with Bain Capital.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc52e8296c76",
+          "title": "Fabio Wardley vs. Daniel Dubois Livestream: How to Watch the Pay-Per-View Boxing Event Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/wardley-vs-dubois-how-to-watch-live-boxing-ppv-online-1236239498/",
+          "category": "musique",
+          "published_at": "2026-05-08T22:34:00+00:00",
+          "summary": "Livestream the PPV heavyweight title bout live from Manchester, England, on Saturday, May 9.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc6ff336fae2",
+          "title": "NewJeans Members and HYBE Sued Over ‘How Sweet’: Songwriters Claim ‘Blatant Copying’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/newjeans-members-hybe-copyright-lawsuit-how-sweet/",
+          "category": "musique",
+          "published_at": "2026-05-08T22:26:38+00:00",
+          "summary": "Four writers are suing for a share of royalties from the 2024 song, which hit No. 7 on the Billboard Global Excl. U.S. chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "26fad258dece",
+          "title": "From Tencent Music’s 250K song takedowns to Sony and WMG’s calendar Q1 results… it’s MBW’s weekly round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-tencent-musics-250k-song-takedowns-to-warner-and-sonys-calendar-q1-results-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-05-08T19:02:38+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4eab1e9cd369",
+          "title": "Revenir dans Star Wars a inquiété l’acteur Andy Serkis, car il appréhendait la réaction des fans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2250051-revenir-dans-star-wars-a-inquiete-lacteur-andy-serkis-car-il-apprehendait-linterpretation-des-fans.html",
+          "category": "ia",
+          "published_at": "2026-05-08T16:28:14+00:00",
+          "summary": "Andy Serkis a joué deux rôles dans Star Wars, à deux époques différentes. Une particularité qui a été pour l'acteur une source de préoccupation, car l'intéressé se demandait comment les fans allaient réagir et interpréter les deux personnages.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2fc3f36c2748",
+          "title": "Cette nouvelle fusée s’ouvre comme une mâchoire géante, et cette drôle d’excentricité a convaincu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2250109-cette-nouvelle-fusee-souvre-comme-une-machoire-geante-et-cette-drole-dexcentricite-a-convaincu.html",
+          "category": "ia",
+          "published_at": "2026-05-08T16:08:06+00:00",
+          "summary": "Alors que son vol inaugural est attendu pour 2026, la fusée Neutron de Rocket Lab vient de décrocher cinq nouveaux contrats. Un signe de confiance pour ce lanceur au design révolutionnaire, avec une coiffe atypique en forme de mâchoire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ed6f89fcd85",
+          "title": "« Trois lueurs au-dessus du relief lunaire » : les USA ouvrent leurs premiers X-Files sur les OVNI",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2250137-trois-lueurs-au-dessus-du-relief-lunaire-les-usa-ouvrent-leurs-premiers-x-files-sur-les-ovni.html",
+          "category": "ia",
+          "published_at": "2026-05-08T14:46:24+00:00",
+          "summary": "Ce qui n’était qu’une pique de Donald Trump contre Barack Obama en février dernier vient de se transformer en séisme d’État. Ce 8 mai 2026, le Département de la Guerre a lancé le portail War.gov/UFO, livrant au public les premières pièces d’un puzzle de 161 archives…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5892fd8cd24",
+          "title": "Vidéo : l’avion expérimental X-59 de la Nasa frôle le mur du son",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2250015-video-lavion-experimental-x-59-de-la-nasa-frole-le-mur-du-son.html",
+          "category": "ia",
+          "published_at": "2026-05-08T14:29:07+00:00",
+          "summary": "La promesse du vol supersonique sans bruit se concrétise. Alors que l'avion expérimental X-59 frôlait le mur du son en avril, une vidéo inédite montre que le jet s'est retrouvée encore plus près du cap fatidique. Le grand saut est pour bientôt.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6535cfce670",
+          "title": "Backline launches ‘Mental Health Toolkit’ for electronic-music sector",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/backline-launches-mental-health-toolkit-for-electronic-music-sector/",
+          "category": "musique",
+          "published_at": "2026-05-08T12:37:44+00:00",
+          "summary": "There is growing awareness of the strains that life on the road can create for DJs and electronic-music artists and their teams. Now US-based non-profit Backline has launched a ‘Mental Health Tookit’ specifically for this sector. “Touring, late-night schedules, substance use,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c42cd0618a9d",
+          "title": "Believe and Hybe reveal their latest labels: Aztec and ABD",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/believe-and-hybe-reveal-their-latest-labels-aztec-and-abd/",
+          "category": "musique",
+          "published_at": "2026-05-08T12:35:00+00:00",
+          "summary": "2026 looks like being a big year for new label-imprints, whether they’re joint ventures between entrepreneurs (or artists) and bigger music companies, or simply the latter’s strategic expansion. We’ve got one of each to report on today. Starting with Aztec, which is a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb96c2ea2a65",
+          "title": "Live Nation pushes back on ‘blue dot fever’: ‘It’s a normal touring year’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/live-nation-pushes-back-on-blue-dot-fever-its-a-normal-touring-year/",
+          "category": "musique",
+          "published_at": "2026-05-08T12:30:00+00:00",
+          "summary": "Yesterday we wrote about the ‘blue dot fever’ phrase that’s been prominent in music-trade media this week, following a spate of big tours being cancelled or delayed amid rumours of poor sales. As the company involved in many of those tours, Live Nation has now responded to the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ba123f13696",
+          "title": "Spotify’s AI-powered DJ feature adds four more languages",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/spotifys-ai-powered-dj-feature-adds-four-more-languages/",
+          "category": "musique",
+          "published_at": "2026-05-08T12:30:00+00:00",
+          "summary": "Spotify has some new recruits to its music-programming team. Maïa, Ben, Alex and Dani began work this week, although they won’t be seen gossiping round the water-cooler any time soon. They’re the latest versions of Spotify’s AI-powered ‘DJ’ feature, which has expanded with four…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e51e4623195",
+          "title": "Mexican corridos music has doubled its stream-share since 2020",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/mexican-corridos-music-has-doubled-its-stream-share-since-2020/",
+          "category": "musique",
+          "published_at": "2026-05-08T12:30:00+00:00",
+          "summary": "Corridos is one of the most traditional music genres, going back through centuries of Mexican storytelling. But it’s now also a thoroughly-modern trend thanks to its streaming growth. A new report from Chartmetric and Duetti has more details on that, hailing corridos as “the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2f4ff0df7c5",
+          "title": "Cactus Music taps AI for ‘Artist Ops’ to support human musicians",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/cactus-music-taps-ai-for-artist-ops-to-support-human-musicians/",
+          "category": "musique",
+          "published_at": "2026-05-08T12:00:00+00:00",
+          "summary": "Cactus Music began life in 2013 in Chile as a record label, before pivoting five years later to become a marketing agency.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1606f6819f90",
+          "title": "Zara Larsson maxxes out ‘Girls Trip’ with bi-coastal popups",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/zara-larsson-maxxes-out-girls-trip-with-bi-coastal-popups/",
+          "category": "musique",
+          "published_at": "2026-05-08T12:00:00+00:00",
+          "summary": "In the spirit of her new deluxe album ‘Midnight Sun: Girls Trip’, Zara Larsson has been cruising through 20 cities on her latest tour, where 3k fans have gotten the chance to be first listeners – as well as glam out with a full-body glitter spray tan, featuring guided recorded…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38d409550756",
+          "title": "Billie Eilish hits Roblox’s ‘The Block’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/billie-eilish-hits-robloxs-the-block/",
+          "category": "musique",
+          "published_at": "2026-05-08T12:00:00+00:00",
+          "summary": "In anticipation of the pop star’s upcoming 3D documentary concert film Hit Me Hard and Soft: The Tour, starting this week Roblox’s “The Block” digital venue underwent a Billie Eilish-themed makeover, giving fans the chance to take the stage as the artist herself.  As of today,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4508170220d",
+          "title": "Instagram Edits launches AI video generation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/instagram-edits-launches-ai-video-generation/",
+          "category": "ia",
+          "published_at": "2026-05-08T12:00:00+00:00",
+          "summary": "Instagram Edits has been releasing a steady stream of new features, with one of the latest being AI video generation. Artists using Edits as part of their content creation toolset are now able to create Reels from text prompts, photos or existing videos.  While we don’t…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a392653d4773",
+          "title": "WMG talks catalogue and AI after strong Q2 financial results",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/wmg-talks-catalogue-and-ai-after-strong-q2-financial-results/",
+          "category": "musique",
+          "published_at": "2026-05-08T11:30:00+00:00",
+          "summary": "“Catalogue is 65% of our revenue, therefore, very important. It deserves all the attention that it gets&#8230;” That’s Warner Music Group CEO Robert Kyncl talking in the major label’s financial-earnings call yesterday. He made a point of telling analysts how these revenues are…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67f4a16fc6b6",
+          "title": "Akai and Denon DJ owner InMusic buys Native Instruments",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/08/akai-and-denon-dj-owner-inmusic-buys-native-instruments/",
+          "category": "musique",
+          "published_at": "2026-05-08T10:00:00+00:00",
+          "summary": "Electronic-music tech firm Native Instruments has found its saviour. It is being acquired by InMusic following its recent insolvency.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3b0560a42b3e",
           "title": "The Rolling Stones’ ‘Foreign Tongues’ Features an Amy Winehouse Cover",
