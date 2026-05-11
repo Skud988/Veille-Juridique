@@ -1,9 +1,454 @@
 {
-  "generated_at": "2026-05-10T09:48:41.432890+00:00",
+  "generated_at": "2026-05-11T11:36:48.285218+00:00",
   "days": [
+    {
+      "date": "2026-05-11",
+      "articles": [
+        {
+          "id": "b460f1651709",
+          "title": "Les lunettes connectées : la CNIL appelle à la vigilance",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/lunettes-connectees-appel-a-la-vigilance",
+          "category": "cnil",
+          "published_at": "2026-05-11T12:00:00+00:00",
+          "summary": "L’essor des lunettes connectées constitue un nouveau défi pour la vie privée et soulève des enjeux éthiques et sociétaux forts. La CNIL alerte sur ces risques, qui nécessitent une vigilance collective, et lance son plan d’action.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b252d51573b7",
+          "title": "Sony Music Group’s revenues grew 21% year-on-year in Q1 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/11/sony-music-groups-revenues-grew-21-year-on-year-in-q1-2026/",
+          "category": "musique",
+          "published_at": "2026-05-11T11:31:00+00:00",
+          "summary": "We have a full set of financial results for the major labels, with Sony Music Group declaring its first-quarter numbers last week following UMG and WMG’s recent announcements. Sony Music Group’s overall revenues were up 21% year-on-year to ¥570bn ($3.63bn at current exchange…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a10b53d6e12f",
+          "title": "La « vallée de la mort » de la batterie européenne a fait une nouvelle victime",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2250695-la-vallee-de-la-mort-de-la-batterie-europeenne-a-fait-une-nouvelle-victime.html",
+          "category": "ia",
+          "published_at": "2026-05-11T11:30:53+00:00",
+          "summary": "L’Europe traverse une période charnière pour son industrie naissante des batteries. Une nouvelle victime vient s'ajouter à l’échec de Northvolt : Morrow Batteries a déposé le bilan.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af799da1da85",
+          "title": "WMG and Bain Capital splash $300m on Red Hot Chili Peppers catalogue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/11/wmg-and-bain-capital-splash-300m-on-red-hot-chili-peppers-catalogue/",
+          "category": "musique",
+          "published_at": "2026-05-11T11:30:00+00:00",
+          "summary": "Warner Music Group clearly realised it didn’t want to be miser when it came to the Red Hot Chili Peppers’ recordings. The major’s joint-venture with Bain Capital has reportedly splashed more than $300m on the catalogue. The Hollywood Reporter broke the news via the usual…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "356ac85319d6",
+          "title": "The Beatles Get Back: Fab Four’s First Official Museum to Open in London at Rooftop Gig Site",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/beatles-fan-experience-london-savile-row-final-concert-1236244078/",
+          "category": "ia",
+          "published_at": "2026-05-11T11:18:47+00:00",
+          "summary": "The Beatles at 3 Savile Row will open to the public in 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76ad5f8a28ff",
+          "title": "Sony Music Publishing confirms agreement to acquire Blackstone’s Recognition Music Group catalog, encompassing over 45,000 songs",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-confirms-agreement-to-acquire-blackstones-recognition-music-group-encompassing-over-45000-songs/",
+          "category": "musique",
+          "published_at": "2026-05-11T11:13:36+00:00",
+          "summary": "The deal, announced on Monday (May 11), is subject to customary closing conditions.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7537bfd694be",
+          "title": "Taylor Swift hits back at ‘Showgirl’ trademark lawsuit, calling it ‘meritless,’ and alleges plaintiff used her IP in 40+ social media posts",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swift-hits-back-at-showgirl-trademark-lawsuit-calling-it-meritless-and-alleges-plaintiff-used-her-ip-in-40-social-media-posts/",
+          "category": "ia",
+          "published_at": "2026-05-11T11:09:57+00:00",
+          "summary": "Taylor Swift's legal team has filed an opposition to a motion for preliminary injunction\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac69bfa12ae1",
+          "title": "Dirty Frag : une faille de sécurité de 9 ans d’âge dans le noyau Linux",
+          "source": "Next INpact",
+          "url": "https://next.ink/237512/dirty-frag-une-faille-de-securite-de-9-ans-dage-dans-le-noyau-linux/",
+          "category": "ia",
+          "published_at": "2026-05-11T11:00:40+00:00",
+          "summary": "Ce 7 mai, une nouvelle faille dans le noyau Linux permettant d&#8217;obtenir les droits superutilisateur a été divulguée. Mais l&#8217;embargo sur sa découverte a été cassé par des tiers. Même si un moyen de l&#8217;endiguer a été disponible rapidement, les responsables de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "576ef59ba99a",
+          "title": "Michael Jackson biopic passes $500 million at global box office – as Sony Music reaps streaming windfall from catalog stake",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/michael-jackson-biopic-passes-500-million-at-global-box-office-as-sony-music-reaps-streaming-windfall-from-catalog-stake/",
+          "category": "musique",
+          "published_at": "2026-05-11T10:59:54+00:00",
+          "summary": "That makes it only the second music biopic ever to cross the $500 million threshold, after 2018's Bohemian Rhapsody.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36bbfe6b9526",
+          "title": "C’est acté, Disney écrase totalement la concurrence en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2250581-cest-acte-disney-ecrase-totalement-la-concurrence-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-05-11T10:40:00+00:00",
+          "summary": "Cinq mois seulement après le début de l'année, la firme aux grandes oreilles confirme sa domination absolue sur l'industrie cinématographique. Disney vient d'officialiser son statut de premier studio à franchir la barre des 2 milliards de dollars de recettes mondiales pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c721ae6ea77",
+          "title": "Red Hot Chili Peppers sells recorded music catalog to Warner Music Group for $300 million+",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/red-hot-chili-peppers-sells-recorded-music-catalog-to-warner-music-group-for-300-million/",
+          "category": "musique",
+          "published_at": "2026-05-11T10:28:43+00:00",
+          "summary": "Band had been shopping catalog since early last year, according to reports\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e96eab457cb0",
+          "title": "Un propriétaire de Tesla aurait fait le plus long trajet en FSD sans aucune intervention (4559 km)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2250537-un-proprietaire-de-tesla-aurait-fait-le-plus-long-trajet-en-fsd-sans-aucune-intervention-4559-km.html",
+          "category": "ia",
+          "published_at": "2026-05-11T10:23:00+00:00",
+          "summary": "Aux États-Unis, le propriétaire d'une Tesla Model 3 a reproduit le célèbre trajet du Cannonball Run, mais en utilisant uniquement le FSD. Un tracé long de 4 559 km pendant lequel aucune intervention humaine n'aurait été nécessaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78492b75ecdd",
+          "title": "Ces sites pour suivre la propagation de l’hantavirus sont-ils fiables ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2250529-ces-sites-pour-suivre-la-propagation-de-lhantavirus-sont-ils-fiables.html",
+          "category": "ia",
+          "published_at": "2026-05-11T10:19:39+00:00",
+          "summary": "Alors que le nombre de cas confirmés ou suspectés de contamination à l'hantavirus augmente, des sites de « trackers » apparaissent pour suivre la diffusion du virus à travers le monde. Mais s'ils peuvent être utiles pour visualiser l'évolution, ils restent très incomplets.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2338bb4093d",
+          "title": "Native Instruments acquired by inMusic, owner of Akai and Moog, three months after entering insolvency",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/native-instruments-acquired-by-inmusic-owner-of-akai-and-moog-three-months-after-entering-insolvency/",
+          "category": "musique",
+          "published_at": "2026-05-11T10:17:53+00:00",
+          "summary": "The deal comes roughly three months after Native Instruments entered preliminary insolvency proceedings in Germany.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca00a9afbf73",
+          "title": "Subnautica 2 s’offre un trailer de gameplay de toute beauté",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2250515-subnautica-2-soffre-un-trailer-de-gameplay-de-toute-beaute.html",
+          "category": "ia",
+          "published_at": "2026-05-11T10:01:45+00:00",
+          "summary": "À quelques jours de la sortie de Subnautica 2, une toute nouvelle bande-annonce dévoile des images de gameplay du jeu, et ça fait terriblement envie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6872b64b902d",
+          "title": "Mozilla industrialise la chasse aux bugs dans Firefox avec l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/237489/mozilla-industrialise-la-chasse-aux-bugs-dans-firefox-avec-lia/",
+          "category": "ia",
+          "published_at": "2026-05-11T09:42:00+00:00",
+          "summary": "Firefox sert désormais de laboratoire grandeur nature pour éprouver de nouveaux outils de cybersécurité assistés par IA. En avril, Mozilla a corrigé la bagatelle de 423 vulnérabilités, la majorité ayant été débusquée par Mythos. Mozilla ne tarit décidément pas d&#8217;éloges sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fb9afe3b278",
+          "title": "Idéal pour la PS5, ce SSD Lexar Play 1 To avec dissipateur est à un très bon prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250525-ideal-pour-la-ps5-ce-ssd-lexar-play-1-to-avec-dissipateur-est-a-un-tres-bon-prix.html",
+          "category": "ia",
+          "published_at": "2026-05-11T09:35:13+00:00",
+          "summary": "[Deal du jour] Vous souhaitez augmenter le stockage de votre PS5 ? Ce SSD de Lexar de 1 To est en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee78bfa9935a",
+          "title": "Votre ex vous manque ? Cette IA propose de le cloner",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250487-votre-ex-vous-manque-cette-ia-propose-de-le-cloner.html",
+          "category": "ia",
+          "published_at": "2026-05-11T09:31:44+00:00",
+          "summary": "Avec Ex.skill, un projet open source publié sur GitHub, l’IA s’invite désormais jusque dans les ruptures amoureuses. À partir de messages, photos et souvenirs, l’outil propose de recréer une version artificielle de son ex pour continuer à discuter avec elle après la séparation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b312fa24dc99",
+          "title": "Sans un Bruit 3 : une bonne nouvelle et un casting monumental pour le film avec Emily Blunt",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2250493-sans-un-bruit-3-une-bonne-nouvelle-et-un-casting-monumental-pour-le-film-avec-emily-blunt.html",
+          "category": "ia",
+          "published_at": "2026-05-11T09:21:12+00:00",
+          "summary": "Après l’intermède réussi du préquel&nbsp;Day One, la saga horrifique de Paramount revient à ses racines. John Krasinski vient d’officialiser le lancement de la production de&nbsp;A Quiet Place Part 3&nbsp;(Sans un bruit 3) avec une photo qui confirme le retour à New York et une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00551b3e959e",
+          "title": "Après avoir imposé l’USB-C à tout le monde, l’Europe envoie des accessoires… Lightning",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250447-apres-avoir-impose-lusb-c-a-tout-le-monde-leurope-envoie-des-accessoires-lightning.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-11T09:05:36+00:00",
+          "summary": "Fervent défenseur du « chargeur universel » et de la connectique USB-C, la Commission européenne a envoyé à des journalistes et influenceurs un kit « microphone cravate sans-fil » qui se branche en Lightning. Difficile d'y voir autre chose qu'une erreur du service de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "feb46fd8980a",
+          "title": "The Punisher One Last Kill devrait marquer la fin d’une ère pour Disney+",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2250347-the-punisher-one-last-kill-devrait-marquer-la-fin-dune-ere-pour-disney.html",
+          "category": "ia",
+          "published_at": "2026-05-11T09:05:00+00:00",
+          "summary": "Le retour de Frank Castle est imminent. Avec la sortie de&nbsp;The Punisher: One Last Kill, Marvel Studios ne se contente pas d'offrir un nouveau chapitre à Jon Bernthal, le studio clôt un chapitre majeur de sa stratégie sur Disney+. C'est la fin d'une ère pour la plateforme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09f4db5b57b4",
+          "title": "Renault pourrait choisir un autre pays pour produire trois voitures électriques, dont le prochain Scenic",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2250371-renault-pourrait-choisir-un-autre-pays-pour-produire-trois-voitures-electriques-dont-le-prochain-scenic.html",
+          "category": "ia",
+          "published_at": "2026-05-11T08:41:05+00:00",
+          "summary": "En raison de tensions avec les syndicats, Renault va réduire la capacité de production de son usine de Palencia, en Espagne. Un changement qui pourrait avoir comme conséquence un revirement sur les trois nouvelles voitures électriques qui allaient y être produites.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3825df624630",
+          "title": "Piraté, le site de JDownloader a distribué un malware au lieu du fichier d’installation",
+          "source": "Next INpact",
+          "url": "https://next.ink/237506/pirate-le-site-de-jdownloader-a-distribue-un-malware-au-lieu-du-fichier-dinstallation/",
+          "category": "ia",
+          "published_at": "2026-05-11T08:41:01+00:00",
+          "summary": "Victime d&#8217;un piratage, le site officiel de JDownloader a pendant 48 heures distribué un malware en lieu et place du fichier d&#8217;installation proposé pour Windows et Linux. L&#8217;équipe en charge du projet affirme que seuls les liens de téléchargement ont été modifiés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bf4efa17b13",
+          "title": "Forza Horizon 6 souffre d’une fuite massive sur Steam à quelques jours de sa sortie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2250379-forza-horizon-6-souffre-dune-fuite-massive-sur-steam-a-quelques-jours-de-sa-sortie.html",
+          "category": "ia",
+          "published_at": "2026-05-11T08:33:00+00:00",
+          "summary": "Forza Horizon 6, le prochain gros jeu de Microsoft, a été mis en ligne sur Steam sans aucune protection. Résultat : le jeu s’est retrouvé disponible en téléchargement illégal plus d’une semaine avant sa sortie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79f65d7757ee",
+          "title": "Sous pression, Whoop annonce son « Doctolib » et une mise à jour de son IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250439-sous-pression-whoop-annonce-son-doctolib-et-une-mise-a-jour-de-son-ia.html",
+          "category": "ia",
+          "published_at": "2026-05-11T08:30:35+00:00",
+          "summary": "Whoop ajoute des consultations vidéo avec des médecins dans son application et muscle son IA. La société valorisée à 10,1 milliards de dollars semble être légèrement paniquée, entre son procès contre Bevel et l'incursion de Google dans son pré carré.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c92a01b44170",
+          "title": "Keli Holiday Says U.S. Entry Was Revoked Mid-Tour, Forcing Cancellation of New York Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/keli-holiday-denied-us-reentry-1236244038/",
+          "category": "ia",
+          "published_at": "2026-05-11T08:23:07+00:00",
+          "summary": "\"I have spent all day detained at the Canadian border and denied entry back into the U.S. despite having the proper visa documentation in place,\" the Australian artist explained.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fcf31c490e29",
+          "title": "Pourquoi Dua Lipa réclame 15 millions de dollars à Samsung",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2250357-pourquoi-dua-lipa-reclame-15-millions-de-dollars-a-samsung.html",
+          "category": "justice",
+          "published_at": "2026-05-11T08:20:28+00:00",
+          "summary": "Selon une plainte déposée le 9 mai 2026 devant un tribunal fédéral de Californie, la chanteuse Dua Lipa accuse Samsung d'avoir utilisé son image sans autorisation sur les emballages de plusieurs téléviseurs vendus aux États-Unis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9abdf63ff17b",
+          "title": "Ella Mai Teases Upcoming Do You Still Love Me Tour: ‘We Want to Step It Up a Bit’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ella-mai-teases-do-you-still-love-me-tour-saint-lucia-jazz-1236244063/",
+          "category": "ia",
+          "published_at": "2026-05-11T08:20:26+00:00",
+          "summary": "Billboard caught up with R&#38;B star after her performance at this year's Saint Lucia Jazz &#38; Arts Festival.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71d3de241d2b",
+          "title": "Arrêtez d’utiliser Instagram pour vos messages personnels",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250377-arretez-dutiliser-instagram-pour-vos-messages-personnels.html",
+          "category": "justice",
+          "published_at": "2026-05-11T08:09:47+00:00",
+          "summary": "Depuis le 8 mai 2026, Instagram ne propose plus de chiffrement de bout en bout pour ses messages privés. Techniquement parlant, Meta peut accéder au contenu de tous vos DM.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "debd906eeea1",
+          "title": "À Montreuil, un incendie spectaculaire relance les peurs sur les voitures électriques : à tort ou à raison ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2250361-a-montreuil-un-incendie-spectaculaire-relance-les-peurs-sur-les-voitures-electriques-a-tort-ou-a-raison.html",
+          "category": "ia",
+          "published_at": "2026-05-11T08:08:37+00:00",
+          "summary": "À Montreuil, une station de recharge TotalEnergies a brûlé avec trois véhicules électriques en charge. Voici ce que l’on sait pour le moment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d3d371a52f5",
+          "title": "Attendu depuis 14 ans, le nouveau jeu James Bond est déjà à prix cassé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2145509-precommande-007-first-light.html",
+          "category": "ia",
+          "published_at": "2026-05-11T07:44:21+00:00",
+          "summary": "[Précommande] Attendu pour la fin du mois de mai après deux mois de report, le jeu vous proposant d'incarner le mythique espion britannique fait déjà chuter son prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "752a673c4681",
+          "title": "Il fait tenir un ordinateur complet dans une carte de crédit de 1 mm",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250335-il-fait-tenir-un-ordinateur-complet-dans-une-carte-de-credit-de-1-mm.html",
+          "category": "ia",
+          "published_at": "2026-05-11T07:18:16+00:00",
+          "summary": "Un développeur connu sous le pseudonyme krauseler a glissé un ordinateur complet, écran e-paper et NFC compris, dans une carte de 1&nbsp;mm d'épaisseur. Le projet, baptisé Muxcard, n'est pas commercial, mais il esquisse à quoi pourrait ressembler l'informatique discrète des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6583b1b5b49c",
+          "title": "☕️ Apple pourrait de nouveau utiliser des processeurs fabriqués par Intel dans ses produits",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/apple-pourrait-de-nouveau-utiliser-des-processeurs-intel-dans-ses-produits/",
+          "category": "ia",
+          "published_at": "2026-05-11T06:20:00+00:00",
+          "summary": "Six ans après avoir amorcé la transition des processeurs Intel vers ses propres puces dans les Mac, Apple s&#8217;apprêterait à travailler de nouveau avec le fondeur américain. Les deux entreprises se seraient accordées pour lancer la production de puces destinées à des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7f9d2f250cb",
+          "title": "Fans Choose MUNA’s ‘Dancing on the Wall’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/best-new-music-muna-dancing-on-the-wall-1236244036/",
+          "category": "musique",
+          "published_at": "2026-05-11T05:52:13+00:00",
+          "summary": "Dancing on the Wall rose to the top in a week that also featured Charli xcx's hotly anticipated genre-pivot single \"Rock Music.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0dcc45d0b3a",
+          "title": "Google lance un nouveau bracelet Fitbit avec de l’IA sur abonnement",
+          "source": "Next INpact",
+          "url": "https://next.ink/237472/google-lance-un-nouveau-bracelet-fitbit-avec-de-lia-sur-abonnement/",
+          "category": "ia",
+          "published_at": "2026-05-11T05:47:43+00:00",
+          "summary": "Le Fitbit Air est un nouveau bracelet de suivi de l&#8217;activité physique et sportive. Sans écran et relativement abordable, c&#8217;est un cheval de Troie vers le nouveau coach IA sur abonnement de Google. Retour aux fondamentaux pour Fitbit. En 2012, le fabricant lançait un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "25385ef8a4e1",
+          "title": "Eric Church Delivers UNC-Chapel Hill Commencement Speech Like a Guitar Lesson, Performs ‘Carolina’ for Grads",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/eric-church-unc-chapel-hill-graduation-speech-2206-1236244006/",
+          "category": "musique",
+          "published_at": "2026-05-11T02:42:22+00:00",
+          "summary": "Church shared words with the class of 2026 the best way he knows how -- with his guitar.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-10",
       "articles": [
+        {
+          "id": "a6de7bd174c8",
+          "title": "Dua Lipa Sues Samsung for $15 Million Over ‘Unauthorized Commercial Exploitation’ of Her Image on TV Boxes",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/dua-lipa-samsung-lawsuit-15-million-tv-boxes-1236243996/",
+          "category": "ia",
+          "published_at": "2026-05-10T23:59:50+00:00",
+          "summary": "The lawsuit includes complaints of copyright infringement, trademark infringement and violation of Dua Lipa's right of publicity.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc9c108692f1",
+          "title": "Morgan Wallen Walks Out With Caitlin Clark at Indianapolis Stadium Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/morgan-wallen-caitlin-clark-walkout-indianapolis-concert-1236243974/",
+          "category": "ia",
+          "published_at": "2026-05-10T22:03:05+00:00",
+          "summary": "The WNBA star made a stadium entrance with Wallen following Indiana Fever's game against the Dallas Wings on Saturday (May 9).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "077c8bb85e6c",
+          "title": "‘Michael’ Becomes 2nd Music Biopic to Top $500 Million in Global Boxoffice Grosses: See the Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+          "category": "musique",
+          "published_at": "2026-05-10T20:44:49+00:00",
+          "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0270a376d368",
+          "title": "Vampire Crawlers réussit à faire aussi bien que Vampire Survivors, tout en étant encore plus addictif",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2246561-vampire-crawlers-reussit-a-faire-aussi-bien-que-vampire-survivors-tout-en-etant-encore-plus-addictif.html",
+          "category": "ia",
+          "published_at": "2026-05-10T16:11:37+00:00",
+          "summary": "Celles et ceux qui ont joué à Vampire Survivors, le titre au succès astronomique sorti en 2022, le savent : le jeu du développeur indépendant Poncle est hautement addictif. Vampire Crawlers: The Turbo Wildcard from Vampire Survivors prouve que la recette tient davantage du génie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ab7f4f84e93",
+          "title": "Le meilleur rapport prix/data est dans ce forfait parfait pour le quotidien",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2249721-le-meilleur-rapport-prix-data-est-dans-ce-forfait-parfait-pour-le-quotidien.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-10T15:59:05+00:00",
+          "summary": "[Deal du jour] L’opérateur virtuel Lebara Mobile propose des forfaits à des prix très attractifs, et avec une quantité de Go idéale pour le quotidien.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0eca56aa2e14",
+          "title": "Éclipse solaire du 12 août 2026 : où la verra-t-on le mieux en France ? (CARTE)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2248293-eclipse-solaire-du-12-aout-2026-ou-la-verra-t-on-le-mieux-en-france-carte.html",
+          "category": "ia",
+          "published_at": "2026-05-10T13:12:00+00:00",
+          "summary": "Le 12 août 2026, la France aura la chance d'assister à la deuxième éclipse de Soleil de l'année. Une éclipse solaire, réservée à l'Espagne dans sa phase totale, mais néanmoins remarquable dans l'Hexagone. Voici les endroits d'où on la verra le mieux. Alors, depuis quelles villes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38a235847fe8",
+          "title": "« Ayez peur de la Chine » : l’opaque campagne américaine sur TikTok pour imposer son IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2249257-ayez-peur-de-la-chine-lopaque-campagne-americaine-sur-tiktok-pour-imposer-son-ia.html",
+          "category": "ia",
+          "published_at": "2026-05-10T12:29:00+00:00",
+          "summary": "Selon une enquête de Wired publiée le 1er mai 2026, un réseau de groupes financés par la « dark money » américaine rémunérerait des influenceurs pour promouvoir l’IA made in USA tout en alimentant la peur de la Chine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "efaf4f860113",
+          "title": "Oubliez le Rummikub ! Ce jeu de tuiles va sauver vos repas de famille",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2249263-marre-du-rummikub-essayez-restart.html",
+          "category": "ia",
+          "published_at": "2026-05-10T10:59:00+00:00",
+          "summary": "Si les interminables parties de Rummikub commencent à tourner en rond, il est peut-être temps d’essayer quelque chose d’un peu différent. Cette semaine, on vous propose Restart, un jeu de tuiles malin et nerveux qui reprend les bases de ce grand classique tout en y ajoutant…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "8759fa67bf1d",
           "title": "Confort, réduction de bruit et autonomie, le meilleur casque audio de Sony baisse son prix",
