@@ -1,9 +1,624 @@
 {
-  "generated_at": "2026-05-11T11:36:48.285218+00:00",
+  "generated_at": "2026-05-12T10:41:35.977423+00:00",
   "days": [
+    {
+      "date": "2026-05-12",
+      "articles": [
+        {
+          "id": "b7cfd67993b7",
+          "title": "Pour contrer Claude Mythos, OpenAI lance son IA de cyberdéfense",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251321-pour-contrer-claude-mythos-openai-lance-son-ia-de-cyberdefense.html",
+          "category": "ia",
+          "published_at": "2026-05-12T10:39:00+00:00",
+          "summary": "OpenAI a présenté, le 11 mai 2026, Daybreak, une plateforme d’IA dédiée à la cybersécurité. L’entreprise entre à son tour dans la course aux IA spécialisées dans la cyberdéfense, quelques semaines après les annonces d’Anthropic autour de Claude Mythos.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "355fc36de78e",
+          "title": "AWAL Creator Fund picks its first cohort of UK music content creators",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/awal-creator-fund-picks-its-first-cohort-of-uk-music-content-creators/",
+          "category": "musique",
+          "published_at": "2026-05-12T10:37:59+00:00",
+          "summary": "Iona Bielby, Glenn McFarlane, and Aker Okoye were selected from more than 130 applicants to the program. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ac4dade8263",
+          "title": "Dan Hawie promoted to Managing Director of MNRK Music Group’s Last Gang Records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dan-hawie-promoted-to-managing-director-of-mnrk-music-groups-last-gang-records/",
+          "category": "musique",
+          "published_at": "2026-05-12T10:28:24+00:00",
+          "summary": "Hawie will report to Randy Derebegian, MNRK's VP of Artist Development, and Chris Moncada, COO of MNRK Music Group.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dae5095c882e",
+          "title": "Presque moitié prix pour cette trottinette fiable et endurante de Ninebot",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2251451-presque-moitie-prix-pour-cette-trottinette-fiable-et-endurante-de-ninebot.html",
+          "category": "ia",
+          "published_at": "2026-05-12T10:24:57+00:00",
+          "summary": "[Deal du jour] Avec ses gammes de trottinettes, Segway-Ninebot propose des modèles endurants, parfaits pour des trajets urbains. Le modèle F2 Plus E en promotion en est la preuve.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d07bc8da947e",
+          "title": "La gendarmerie a économisé 1/2 milliard d’euros grâce au Libre et Linux en 20 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/237345/la-gendarmerie-a-economise-1-2-milliard-deuros-grace-au-libre-et-linux-en-20-ans/",
+          "category": "ia",
+          "published_at": "2026-05-12T10:12:00+00:00",
+          "summary": "Le directeur de l’agence du numérique des forces de sécurité intérieure (ANFSI) reconnaît que la gendarmerie avait migré sur Linux « en mode très militaire, un peu brutal ». Il estime a contrario que « la souveraineté se gagne aussi sur le terrain des ressources humaines », ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f1aae901212",
+          "title": "Près de 200 milliards d’euros investis en Europe dans la voiture électrique : la France parmi les champions",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2251275-pres-de-200-milliards-deuros-investis-en-europe-dans-la-voiture-electrique-la-france-parmi-les-champions.html",
+          "category": "ia",
+          "published_at": "2026-05-12T10:04:32+00:00",
+          "summary": "Selon des données du groupe New Automotive, les pays européens ont dépensé près de 200 milliards d'euros dans l'industrie de la voiture électrique. À la deuxième place du classement des plus gros contributeurs, on retrouve la France. Voici comment a été réparti cet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f696eada4c41",
+          "title": "☕️ Les tentatives de chantage de Claude seraient dûes à des fictions sur l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/les-tentatives-de-chantage-de-claude-seraient-dues-a-des-fictions-sur-lia/",
+          "category": "ia",
+          "published_at": "2026-05-12T09:43:35+00:00",
+          "summary": "En 2025, Anthropic publiait Opus 4 et Sonnet 4, deux modèles salués pour leurs capacités de développement, mais dont l’un, Opus 4, s’avérait parfois tenter de… faire chanter ses utilisateurs. Dans certains exercices de «&#160;red teaming&#160;», les constructeurs avaient glissé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5dad496da5ca",
+          "title": "☕️ Meta échoue à faire censurer les droits voisins devant la Cour de justice de l’UE",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/meta-echoue-a-faire-censurer-les-droits-voisins-devant-la-cour-de-justice-de-lue/",
+          "category": "justice",
+          "published_at": "2026-05-12T09:41:33+00:00",
+          "summary": "Un arrêt de la Cour de justice de l&#8217;Union européenne rejette la demande de Meta, qui cherchait à faire invalider la «&#160;compensation équitable&#160;» mise en place par l&#8217;Autorité italienne de régulation des communications au profit des éditeurs de presse en ligne.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5102ca9eea26",
+          "title": "Comment suivre The Android Show, la grande conférence de Google sur l’avenir des smartphones prévue ce soir ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251211-comment-suivre-the-android-show-la-grande-conference-de-google-sur-lavenir-des-smartphones-prevue-ce-soir.html",
+          "category": "ia",
+          "published_at": "2026-05-12T09:38:45+00:00",
+          "summary": "Mardi soir à 19 heures, Google organise une grande conférence dédiée au futur de l'écosystème Android. Intégration de Gemini, nouveautés d'Android 17 et nouvelles fonctions… L'événement est diffusé sur YouTube, ce 12 mai 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed6acba162b6",
+          "title": "L’éclipse solaire du 12 août 2026 n’est que le début d’une série d’éclipses exceptionnelles en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2251265-leclipse-solaire-du-12-aout-2026-nest-que-le-debut-dune-serie-declipses-exceptionnelles-en-france.html",
+          "category": "ia",
+          "published_at": "2026-05-12T09:32:49+00:00",
+          "summary": "L'été 2026 sera marqué par une éclipse solaire totale visible en Europe. La France pourra assister à une occultation partielle du Soleil, qui s'annonce mémorable. Mais cet événement du 12 août ne sera que le début d'une série d'éclipses de Soleil majeures dans la région.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "102718f664f6",
+          "title": "Hantavirus : pourquoi l’OMS s’inquiète-t-elle des règles sanitaires aux États-Unis",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2251357-hantavirus-pourquoi-loms-sinquiete-t-elle-des-regles-sanitaires-aux-etats-unis.html",
+          "category": "ia",
+          "published_at": "2026-05-12T09:26:15+00:00",
+          "summary": "Alors que des passagers américains du navire MV Hondius ont été débarqués aux États-Unis, la prise en charge des autorités sanitaires du pays interroge. Des scientifiques dénoncent un laxisme qui pourrait avoir de grandes conséquences au vu des recommandations de Organisation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f24c8ce3ff9f",
+          "title": "Événement Bridgerton dans Les Sims 4 : comment débloquer les objets gratuits ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2251273-evenement-bridgerton-dans-les-sims-4-comment-debloquer-les-objets-gratuits.html",
+          "category": "ia",
+          "published_at": "2026-05-12T09:18:50+00:00",
+          "summary": "Le célèbre jeu de simulation de vie d'Electronic Arts Les Sims 4 s'associe à Netflix et Shondaland pour intégrer l’univers de la série&nbsp;Bridgerton. Dès le 12 mai 2026, les joueurs pourront plonger dans l'esthétique de la Régence anglaise à travers une série d’événements et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f157d6b20029",
+          "title": "Vortex-S : pour son futur avion spatial, Dassault réussit avec OHB ce qu’il rate avec Airbus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251187-vortex-s-pour-son-futur-avion-spatial-dassault-reussit-avec-ohb-ce-quil-rate-avec-airbus.html",
+          "category": "ia",
+          "published_at": "2026-05-12T09:12:16+00:00",
+          "summary": "Loin des tensions du SCAF, Dassault Aviation joue la carte de la réconciliation franco-allemande pour conquérir l’orbite. En s'alliant au spécialiste OHB pour proposer le projet Vortex-S à l’ESA, l'avionneur français veut doter l’Europe d’une navette spatiale polyvalente et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b64e0ca86fb2",
+          "title": "Deepl, Cloudflare et GitLab coupent dans leurs effectifs au nom de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/237711/deepl-cloudflare-et-gitlab-coupent-dans-leurs-effectifs-au-nom-de-lia/",
+          "category": "ia",
+          "published_at": "2026-05-12T09:01:56+00:00",
+          "summary": "Trois acteurs de la tech ont annoncé ces derniers jours des plans de départ significatifs. Chacun à sa façon, l&#8217;Allemand Deepl et les deux États-uniens Cloudflare et GitLab affirment que ces réductions de voilure sont liées à l&#8217;adoption d&#8217;outils…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce4c197bba16",
+          "title": "93 % des transporteurs équipés en camions électriques sont convaincus, de quoi casser quelques idées reçues",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2251295-93-des-transporteurs-equipes-en-camions-electriques-sont-convaincus-de-quoi-casser-quelques-idees-recues.html",
+          "category": "ia",
+          "published_at": "2026-05-12T08:51:09+00:00",
+          "summary": "Une enquête allemande menée auprès des premiers utilisateurs de poids lourds électriques montre un niveau de satisfaction très élevé. Une réalité bien différente des idées reçues sur le secteur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07dbe84954ca",
+          "title": "Vous avez acheté de la RAM récemment ? Attention, des contrefaçons ultra-réalistes circulent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251155-vous-avez-achete-de-la-ram-recemment-attention-des-contrefacons-ultra-realistes-circulent.html",
+          "category": "ia",
+          "published_at": "2026-05-12T08:42:43+00:00",
+          "summary": "La pénurie mondiale de RAM commence à alimenter un nouveau type d’arnaque : de fausses barrettes de DDR5 circulent désormais en ligne, parfois équipées de simples blocs en fibre de verre imitant de véritables puces mémoire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7e473864336",
+          "title": "Guy Moot is this year’s recipient of the UK’s MITS Award – the first music publisher to receive the honor",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/guy-moot-is-this-years-recipient-of-the-uks-music-industry-trusts-award-the-first-music-publisher-to-receive-the-honor/",
+          "category": "musique",
+          "published_at": "2026-05-12T08:40:46+00:00",
+          "summary": "Guy Moot, Co-Chair and CEO of Warner Chappell Music (WCM), has been named the recipient of the 2026 Music Industry Trusts Award (MITS).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "151e677ef1e3",
+          "title": "Free Mobile supporte désormais les montres Samsung Galaxy Watch : c’est la fin de l’exclusivité Apple Watch",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251249-free-mobile-supporte-desormais-les-montres-samsung-galaxy-watch-cest-la-fin-de-lexclusivite-apple-watch.html",
+          "category": "ia",
+          "published_at": "2026-05-12T08:32:01+00:00",
+          "summary": "Quatre mois après avoir lancé une « option montre connectée » gratuite pour les Apple Watch, Free Mobile annonce le 12 mai 2026 que les montres de Samsung sont les premières de l'écosystème Android compatibles avec la 4G de l'opérateur. Free compte désormais s'attaquer aux Pixel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7429aeda556d",
+          "title": "☕️ IBM France annule son plan de départ volontaire, au grand dam des salariés concernés",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/ibm-france-annule-son-plan-de-depart-volontaire-au-grand-dam-des-salaries-concernes/",
+          "category": "ia",
+          "published_at": "2026-05-12T08:23:19+00:00",
+          "summary": "Fin janvier, IBM annonçait se séparer de 10 % de ses effectifs en Europe afin, expliquait Libération, de&#160;maintenir sa compétitivité sur les marchés du cloud et de l’IA, d&#8217;augmenter sa productivité et de réduire ses coûts. En France, où la société compte plus de 3 000…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5a2f6927335",
+          "title": "Oubliez la R4 classique, Renault vient de dévoiler la version que tout le monde voudrait s’arracher cet été",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2251129-oubliez-la-r4-classique-renault-vient-de-devoiler-la-version-que-tout-le-monde-voudrait-sarracher-cet-ete.html",
+          "category": "ia",
+          "published_at": "2026-05-12T08:10:14+00:00",
+          "summary": "La R4 JP4 est de retour. À l'occasion de l'ouverture prochaine du tournoi de tennis Roland-Garros, Renault lève le voile sur un concept qui reprend tous les codes esthétiques de la 4L des plages des années 1980.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e37d677ffa5",
+          "title": "Invincible : son créateur annonce de gros changements après la saison 4",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2251133-invincible-son-createur-annonce-de-gros-changements-apres-la-saison-4.html",
+          "category": "ia",
+          "published_at": "2026-05-12T08:05:59+00:00",
+          "summary": "Alors que la saison 4 d'Invincible bat son plein sur Prime Video, le créateur Robert Kirkman lâche une petite bombe : le futur de la série ne se contentera pas de suivre les cases du comics original. Entre « quêtes secondaires » et nouveaux arcs narratifs, la série s'apprête à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22fdd75790b1",
+          "title": "Sony risque de perdre l’une de ses exclusivités",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2251147-sony-risque-de-perdre-lune-de-ses-exclusivites.html",
+          "category": "ia",
+          "published_at": "2026-05-12T08:05:00+00:00",
+          "summary": "La suite de Stellar Blade ne sera probablement pas une exclusivité PlayStation 5. Le studio Shift Up a révélé son intention d'autoéditer son jeu et de le sortir sur plus de plateformes, afin de toucher un public plus large.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5a99c06a481",
+          "title": "RCS chiffré sur iPhone : Orange, Free, SFR, Bouygues… quels opérateurs français sont compatibles ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251145-rcs-chiffre-sur-iphone-orange-free-sfr-bouygues-quels-operateurs-francais-sont-compatibles.html",
+          "category": "ia",
+          "published_at": "2026-05-12T08:02:08+00:00",
+          "summary": "Avec la mise à jour iOS 26.5, Apple déploie enfin le chiffrement de bout en bout sur le RCS, le successeur du SMS, pour faciliter les conversations entre les iPhone et les smartphones Android. Qu'en est-il en France ? Si nos voisins belges, allemands, espagnols ou britanniques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cecf57a39526",
+          "title": "Pour améliorer l’éthique de leurs systèmes, les constructeurs d’IA se tournent vers les religions",
+          "source": "Next INpact",
+          "url": "https://next.ink/237712/pour-ameliorer-lethique-de-leurs-systemes-les-constructeurs-dia-se-tournent-vers-les-religions/",
+          "category": "ia",
+          "published_at": "2026-05-12T07:49:25+00:00",
+          "summary": "Les dirigeants d’OpenAI et Anthropic ont récemment rencontré des chefs de plusieurs ordres religieux pour réfléchir aux manières de construire leurs outils de manière éthique. Alors que le monde catholique attend la première encyclique du pape Léon XIV, qui devrait notamment se…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e02f71b709c8",
+          "title": "Thinking Machines : Mira Murati dévoile une IA qui parle et écoute en même temps, à quoi ça sert ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251125-thinking-machines-mira-murati-devoile-une-ia-qui-parle-et-ecoute-en-meme-temps-a-quoi-ca-sert.html",
+          "category": "ia",
+          "published_at": "2026-05-12T07:47:39+00:00",
+          "summary": "Quatorze mois après son départ d'OpenAI, Mira Murati dévoile le premier vrai modèle de Thinking Machines. Il ne s'agit pas d'un concurrent frontal de GPT, mais une IA conçue pour écouter, voir et répondre simultanément.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70fcc9180a02",
+          "title": "La répétition générale est un succès : la fusée géante Starship est prête pour le grand saut",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2251123-la-repetition-generale-est-un-succes-la-fusee-geante-starship-est-prete-pour-le-grand-saut.html",
+          "category": "ia",
+          "published_at": "2026-05-12T07:46:49+00:00",
+          "summary": "Ultime étape avant le grand saut. SpaceX a bouclé avec succès la répétition générale de son Starship de nouvelle génération le 11 mai. Le douzième vol d'essai de la fusée géante n'est plus qu'une question de jours.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6dc2b06d1779",
+          "title": "Stephen Colbert Reunites With Kimmel, Fallon, Oliver and Meyers Ahead of ‘Late Show’ Finale",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/1236245343-1236245343/",
+          "category": "musique",
+          "published_at": "2026-05-12T07:39:27+00:00",
+          "summary": "They previously united in 2023 during the writers' strike to launch a limited-run podcast called Strike Force Five.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76d5ecc806dc",
+          "title": "L’IA aurait aidé des pirates à développer un exploit zero-day, une première selon Google",
+          "source": "Next INpact",
+          "url": "https://next.ink/237695/lia-aurait-aide-des-pirates-a-developper-un-exploit-zero-day-une-premiere-selon-google/",
+          "category": "ia",
+          "published_at": "2026-05-12T07:03:00+00:00",
+          "summary": "Un «&#160;avant-goût de ce qui nous attend » : c&#8217;est ainsi que John Hultquist, chef analyste du Google Threat Intelligence Group (GTIG), a qualifié la découverte du labo. Les chercheurs en sécurité de l&#8217;entreprise ont identifié un acteur malveillant utilisant un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01e0a08d7004",
+          "title": "Lamb of God and Trivium Announce 2026 Australian Co-Headline Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/lamb-of-god-trivium-2026-co-headline-australian-tour-1236245340/",
+          "category": "ia",
+          "published_at": "2026-05-12T06:08:23+00:00",
+          "summary": "Scottish metalcore outfit Bleed From Within will serve as special guests across all dates.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac7b87d07b86",
+          "title": "Avec iOS 26.5, Apple ouvre un peu plus son jardin fermé dans l’UE et ailleurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/237699/avec-ios-26-5-apple-ouvre-un-peu-plus-son-jardin-ferme-dans-lue-et-ailleurs/",
+          "category": "ia",
+          "published_at": "2026-05-12T06:01:59+00:00",
+          "summary": "Apple innove contre son gré. iOS 26.5, dont la version finale est disponible depuis lundi, est plein de fonctions qui ont été dictées au constructeur par des régulateurs. Outre le support du RCS chiffré de bout en bout, plusieurs nouveautés destinées aux utilisateurs européens…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4edea048b3a4",
+          "title": "Pour la CNIL, les lunettes connectées sont une menace sérieuse pour la vie privée",
+          "source": "Next INpact",
+          "url": "https://next.ink/237679/pour-la-cnil-les-lunettes-connectees-sont-une-menace-serieuse-pour-la-vie-privee/",
+          "category": "cnil",
+          "published_at": "2026-05-12T05:20:26+00:00",
+          "summary": "Les lunettes connectées présentent des risques majeurs pour la vie privée, alerte la CNIL qui lance un plan d&#8217;action pour répondre à ce «&#160;nouveau défi ». La CNIL&#160;s&#8217;inquiète&#160;des risques que font peser les lunettes connectées pour la vie privée. Leur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12bf743d2878",
+          "title": "‘American Idol’ Crowns Season 24 Winner in Star-Studded Live Finale",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/american-idol-season-24-winner-1236245330/",
+          "category": "musique",
+          "published_at": "2026-05-12T04:39:05+00:00",
+          "summary": "The star-studded finale featured guest mentor Alicia Keys, who performed alongside the top contestants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf719e334880",
+          "title": "The Wiggles Admit They Don’t Really Know Oasis: ‘I Am So Out of Touch’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-wiggles-dont-know-oasis-1236245324/",
+          "category": "ia",
+          "published_at": "2026-05-12T04:11:59+00:00",
+          "summary": "“Controversially, I like Blur more … that is why I have no idea,” Lucia said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a8ba9425c5a",
+          "title": "iHeartMedia Revenue Up Nearly 10% on Podcast Business — But Soft Ad Market Hurts Profits",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/iheartmedia-q1-earnings-revenue-up-podcasts-soft-ad-market/",
+          "category": "ia",
+          "published_at": "2026-05-12T01:05:21+00:00",
+          "summary": "The radio company forecast growth in podcast revenue and political ad spending later this year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c32875ed751",
+          "title": "Billboard Receives 7 Nominations for the 2026 L.A. Press Club Southern California Journalism Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/billboard-2026-los-angeles-press-club-socal-awards-noms-1236245025/",
+          "category": "institutionnel",
+          "published_at": "2026-05-12T00:56:53+00:00",
+          "summary": "The nods span categories across photography, feature writing &#38; culture news.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c25152289107",
+          "title": "Nettwerk Music Group Founders Terry McBride & Mark Jowett to Receive Lifetime Achievement Award at 2026 Libera Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/nettwerk-music-group-founders-honored-2026-libera-awards/",
+          "category": "musique",
+          "published_at": "2026-05-12T00:45:44+00:00",
+          "summary": "They’ll receive the honor on June 8 at Gotham Hall in New York City.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-11",
       "articles": [
+        {
+          "id": "bfb83102a43c",
+          "title": "Trade Group to Strengthen Local Music Ecosystems in the U.S. Announces Launch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/trade-group-strengthen-local-us-music-ecosystems-launches/",
+          "category": "musique",
+          "published_at": "2026-05-11T23:47:36+00:00",
+          "summary": "The Association of Music Offices launches with 14 government music offices, community organizations and industry partners.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "171f1934ded3",
+          "title": "When Effie Met Effie: Watch Jennifer Hudson & Jenifer Lewis Perform a ‘Dreamgirls’ Duet",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/jennifer-hudson-jenifer-lewis-duet-i-am-changing-dreamgirls-1236245013/",
+          "category": "musique",
+          "published_at": "2026-05-11T23:45:31+00:00",
+          "summary": "Both stars played the role of Effie White in the iconic musical.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75a2e65ff622",
+          "title": "iOS 26.5 apporte le chiffrement de bout en bout aux messages RCS iPhone/Android [MàJ]",
+          "source": "Next INpact",
+          "url": "https://next.ink/236765/avec-ios-26-5-le-chiffrement-de-bout-en-bout-des-messages-rcs-arrive-entre-iphone-et-android/",
+          "category": "ia",
+          "published_at": "2026-05-11T18:04:17+00:00",
+          "summary": "Les messages RCS entre iPhone et Android seront très bientôt chiffrés de bout en bout. De quoi assurer une bien meilleure sécurisation des messages texte échangés entre plateformes. Mise à jour 11/05 —&#160;Apple a livré la version finale d&#8217;iOS 26.5,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09b1eddf7f9b",
+          "title": "Les meilleurs films Netflix à voir sur la plateforme en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2250917-les-meilleurs-films-netflix-a-voir-sur-la-plateforme-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-05-11T17:15:00+00:00",
+          "summary": "Blockbusters explosifs, pépites d'animation oscarisées et thrillers psychologiques : l'année 2026 marque un tournant historique pour Netflix.&nbsp;Avec un catalogue qui aligne les noms les plus prestigieux d'Hollywood, de Guillermo del Toro à Ben Affleck, la plateforme domine…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d39dc70e488",
+          "title": "iOS 26.5 est disponible : quelles sont les nouveautés de la mise à jour sur iPhone ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2250999-ios-26-5-est-disponible-quelles-sont-les-nouveautes-de-la-mise-a-jour-sur-iphone.html",
+          "category": "loi",
+          "published_at": "2026-05-11T17:09:44+00:00",
+          "summary": "Deux mois après iOS 26.4, Apple déploie la mise à jour iOS 26.5 sur les iPhone. Cette mise à jour conclut le cycle 2025-2026 en attendant la présentation d'iOS 27 à la WWDC en juin. iOS 26.5 apporte plusieurs nouveautés comme les RCS chiffrés entre iPhone et Android ou un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d781e7a32b4",
+          "title": "Google a détecté le premier exploit « zero-day » conçu avec l’aide de l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2250983-google-a-detecte-le-premier-exploit-zero-day-concu-avec-laide-de-lia.html",
+          "category": "ia",
+          "published_at": "2026-05-11T16:12:35+00:00",
+          "summary": "Le 11 mai 2026, Google a publié un rapport consacré à l’usage de l’intelligence artificielle dans les menaces cyber. L’entreprise y décrit un cas inédit : des cybercriminels auraient utilisé un modèle d’IA pour développer un exploit zero-day capable de contourner une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46715c745353",
+          "title": "Le Xbox Game Pass sera maintenant offert avec l’abonnement payant à Discord",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2251001-le-xbox-game-pass-sera-maintenant-offert-avec-labonnement-payant-a-discord.html",
+          "category": "ia",
+          "published_at": "2026-05-11T15:48:44+00:00",
+          "summary": "Microsoft et Discord s’associent pour lancer une offre d’abonnement groupée. Les abonnés à Discord Nitro, l’offre payante de Discord, pourront désormais accéder au Xbox Game Pass.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c079a959d3f",
+          "title": "Même les clients à 160 000 dollars se font ghoster par Tesla à la dernière minute",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2251027-meme-les-clients-a-160-000-dollars-se-font-ghoster-par-tesla-a-la-derniere-minute.html",
+          "category": "justice",
+          "published_at": "2026-05-11T15:37:57+00:00",
+          "summary": "Les plus fidèles clients de Tesla ont été conviés à un événement pour la livraison des derniers Model S et Model X «&nbsp;Signature&nbsp;». Sauf que celui-ci vient d’être reporté à la dernière minute, une décision qui passe mal.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2e8ccc872e8",
+          "title": "Wordle va devenir une émission TV",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2251013-wordle-va-devenir-une-emission-tv.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-11T15:34:45+00:00",
+          "summary": "Vous avez fait votre Wordle du jour ? Bientôt, ce ne sera pas qu'une phrase lancée dans un open space : le jeu de devinette basé sur les mots va devenir une émission de télévision diffusée sur la chaîne NBC à partir de 2027. Une première incursion du quotidien dans le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af31c15aa063",
+          "title": "☕️ xAI balade son adresse de contact juridique européenne en Estonie",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/xai-balade-son-adresse-de-contact-juridique-europeenne-en-estonie/",
+          "category": "ia",
+          "published_at": "2026-05-11T15:32:41+00:00",
+          "summary": "Suite à la vague de deepfakes visant à dénuder des femmes perpétrée par des utilisateurs du réseau social X, xAI fait face en Europe à plusieurs enquêtes en cours, notamment ouvertes par la Commission de protection des données irlandaise (la Data Protection Commission, DPC), la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ebb6e0d76132",
+          "title": "BYD imite Tesla en lançant son propre service de voiture électrique d’occasion",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2250859-byd-imite-tesla-en-lancant-son-propre-service-de-voiture-electrique-doccasion.html",
+          "category": "musique",
+          "published_at": "2026-05-11T15:17:45+00:00",
+          "summary": "Plus de trois ans après son arrivée en France, BYD lance son label de véhicules d'occasion certifiés. Une démarche calquée sur les standards du secteur, avec quelques spécificités notables autour de la batterie. De quoi singer l'appellation de son grand rival Tesla.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3af44f9da54d",
+          "title": "☕️ SoftBank investirait jusqu’à 100 milliards de dollars dans des infrastructures IA en France",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/softbank-investirait-jusqua-100-milliards-de-dollars-dans-des-infrastructures-ia-en-france/",
+          "category": "ia",
+          "published_at": "2026-05-11T15:15:01+00:00",
+          "summary": "Le groupe SoftBank s&#8217;apprêterait à dévoiler un plan à 100 milliards de dollars pour doter la France de nouveaux centres de données. C&#8217;est du moins le projet qu&#8217;aurait monté Masayoshi Son, patron du conglomérat japonais, après une rencontre avec Emmanuel Macron.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d880218af60",
+          "title": "Dua Lipa sues Samsung for $15M over unauthorized use of her image on TV boxes",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dua-lipa-sues-samsung-for-15m-over-unauthorized-use-of-her-image-on-tv-boxes/",
+          "category": "institutionnel",
+          "published_at": "2026-05-11T14:15:03+00:00",
+          "summary": "Electronics giant is accused of using Dua Lipa's photo on TV packaging without her permission \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5b7140eff28",
+          "title": "HYBE taps PLEDIS’ Jiwon No, SEVENTEEN producer Sung Soo Han for new girl group label ABD",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-taps-pledis-jiwon-no-seventeen-producer-sung-soo-han-for-new-girl-group-label-abd/",
+          "category": "musique",
+          "published_at": "2026-05-11T13:53:39+00:00",
+          "summary": "Jiwon No, who previously served as Head of Artist Planning at PLEDIS, was named President of the new label.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0947986bd71b",
+          "title": "☕️ Bruxelles obtient un accès à GPT-5.5-Cyber, mais ça bloque toujours avec Mythos",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/bruxelles-obtient-un-acces-a-gpt-5-5-cyber-mais-ca-bloque-toujours-avec-mythos/",
+          "category": "ia",
+          "published_at": "2026-05-11T13:46:00+00:00",
+          "summary": "L&#8217;Union européenne a décroché son billet pour GPT-5.5-Cyber, le grand modèle de langage d&#8217;OpenAI spécialisé dans la cybersécurité. En revanche, les discussions se poursuivent avec Anthropic pour obtenir un accès à Mythos. L&#8217;UE court après les LLM américains…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07929c854f3d",
+          "title": "India’s Zee Entertainment sues Reliance-Disney venture JioStar over alleged music copyright infringement (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indias-zee-entertainment-sues-reliance-disney-venture-jiostar-over-alleged-music-copyright-infringement-report/",
+          "category": "ia",
+          "published_at": "2026-05-11T13:20:33+00:00",
+          "summary": "Reuters reported that Zee is seeking $3M in damages over the alleged unauthorized use of its music\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "164c72270c46",
+          "title": "[Màj] Fusillade à l’université de Floride : OpenAI visée par une plainte",
+          "source": "Next INpact",
+          "url": "https://next.ink/234566/openai-et-chatgpt-vises-dans-lenquete-sur-la-fusillade-a-luniversite-de-floride/",
+          "category": "ia",
+          "published_at": "2026-05-11T13:18:00+00:00",
+          "summary": "En avril 2025, Phoenix Ikner, 20 ans, a consulté le chatbot d&#8217;OpenAI sur l&#8217;opportunité de la fusillade à l&#8217;université de l&#8217;État de Floride dont il est suspecté d&#8217;être le principal auteur. Le procureur général de l&#8217;État a annoncé lancer une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9a9f3cfdcb9",
+          "title": "Dans l’IA, la Chine bouscule son monde avec sa stratégie open source",
+          "source": "Next INpact",
+          "url": "https://next.ink/237595/dans-lia-la-chine-bouscule-son-monde-avec-sa-strategie-open-source/",
+          "category": "ia",
+          "published_at": "2026-05-11T12:42:00+00:00",
+          "summary": "Derrière le bras de fer qui oppose la Chine et les États-Unis dans l’accès aux semi-conducteurs, la Chine séduit un nombre croissant d’entreprises et d’institutions avec ses modèles open source. Quel est le modèle d’IA générative le plus utilisé au monde ? Si l’on en croit Open…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c0501898ff2",
+          "title": "Oasis reunion documentary heads for cinemas – and then Disney+",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/11/oasis-reunion-documentary-heads-for-cinemas-and-then-disney/",
+          "category": "musique",
+          "published_at": "2026-05-11T12:41:00+00:00",
+          "summary": "Whenever you’re calculating attendances for big stadium tours nowadays, you’ll need to add on a few dozen to cover the camera crews filming concert documentaries. Oasis are the latest artist turning their trek into a film – in their case, in partnership with Disney, Magna…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d1170eef873",
+          "title": "Beatles fans will be able to visit the London rooftop where the band played their final concert – when Apple Corps opens 3 Savile Row as a ticketed experience in 2027",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/beatles-fans-will-be-able-to-visit-the-london-rooftop-where-the-band-played-their-final-concert-when-apple-corps-opens-3-savile-row-as-a-ticketed-experience-in-2027/",
+          "category": "musique",
+          "published_at": "2026-05-11T12:40:51+00:00",
+          "summary": "The Beatles at 3 Savile Row, due to open in 2027, will give the public access to the building for the first time.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "533486684351",
+          "title": "The first ‘Beatles fan experience’ is set to open in London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/11/the-first-beatles-fan-experience-is-set-to-open-in-london/",
+          "category": "ia",
+          "published_at": "2026-05-11T12:36:00+00:00",
+          "summary": "3 Savile Row in London’s Mayfair district is a very-famous location in rock history. It was an early headquarters of the Beatles’ company Apple Corps, including the rooftop where they famously played their final concert in 1969. Now it’s being turned into “the first ever…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f3d6b01d5c9",
+          "title": "Chordal got 5bn TikTok views for Commercial Music Library tracks",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/11/chordal-got-5bn-tiktok-views-for-commercial-music-library-tracks/",
+          "category": "musique",
+          "published_at": "2026-05-11T12:33:00+00:00",
+          "summary": "We know from various anecdotal examples that TikTok’s Commercial Music Library (CML) can lead to big spikes in views and video creations on the app. Now licensing firm Chordal has provided some more stats on the impact. It signed a deal eight months ago to tap its ‘InstantClear’…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a365fc7be812",
+          "title": "UMG and WMG ink tourism-focused deals in south-east Asia",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/11/umg-and-wmg-ink-tourism-focused-deals-in-south-east-asia/",
+          "category": "musique",
+          "published_at": "2026-05-11T12:30:00+00:00",
+          "summary": "Planning a holiday in south-east Asia? Two major labels are keen to sway your decision about which country to visit. Universal Music Group’s latest deal aims to “amplify Singapore’s appeal as a must-visit destination”, but Warner Music Group’s wants to “showcase Thailand’s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1fd73c51c04",
+          "title": "Vibe coding : des milliers de web apps exposent des données sensibles en ligne",
+          "source": "Next INpact",
+          "url": "https://next.ink/237470/vibe-coding-des-milliers-de-web-apps-exposent-des-donnees-sensibles-en-ligne/",
+          "category": "ia",
+          "published_at": "2026-05-11T12:23:01+00:00",
+          "summary": "Plus besoin de connaissances en HTML ou en JavaScript pour développer des web apps : il suffit de la décrire à une des plateformes de vibe coding qui se partagent un marché florissant. Mais la sécurité est le parent pauvre de cette pratique. Les apps générées par IA publiées sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c397802314e",
+          "title": "Songwriters sue HYBE, NewJeans, claiming elements of ‘How Sweet’ were taken from their rejected demo",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/songwriters-sue-hybe-newjeans-claiming-elements-of-how-sweet-were-taken-from-their-rejected-demo/",
+          "category": "ia",
+          "published_at": "2026-05-11T12:03:52+00:00",
+          "summary": "The songwriters alleged that NewJeans' creative agency received the demo and told the plaintiffs their topline was liked but would not be used.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "b460f1651709",
           "title": "Les lunettes connectées : la CNIL appelle à la vigilance",
@@ -12,6 +627,16 @@
           "category": "cnil",
           "published_at": "2026-05-11T12:00:00+00:00",
           "summary": "L’essor des lunettes connectées constitue un nouveau défi pour la vie privée et soulève des enjeux éthiques et sociétaux forts. La CNIL alerte sur ces risques, qui nécessitent une vigilance collective, et lance son plan d’action.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd87bdbda4f8",
+          "title": "☕️ La France insoumise victime d’un vol de données personnelles",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/la-france-insoumise-victime-dun-vol-de-donnees-personnelles/",
+          "category": "ia",
+          "published_at": "2026-05-11T11:59:00+00:00",
+          "summary": "La France Insoumise (LFI) a informé certains de ses adhérents ou sympathisants d&#8217;un vol de données personnelles survenu au niveau de ses outils internes. Elle y indique avoir été victime d&#8217;une attaque cybercriminelle susceptible d&#8217;avoir conduit à…",
           "summary_type": "extrait source"
         },
         {
@@ -152,6 +777,16 @@
           "category": "ia",
           "published_at": "2026-05-11T10:01:45+00:00",
           "summary": "À quelques jours de la sortie de Subnautica 2, une toute nouvelle bande-annonce dévoile des images de gameplay du jeu, et ça fait terriblement envie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ec5356f5aba",
+          "title": "First John Sweeney awards given out at Liverpool Sound City",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/11/first-john-sweeney-awards-given-out-at-liverpool-sound-city/",
+          "category": "musique",
+          "published_at": "2026-05-11T10:00:00+00:00",
+          "summary": "The memory of music executive John Sweeney, who died in June 2025, was celebrated at the Liverpool Sound City showcase festival.",
           "summary_type": "extrait source"
         },
         {
