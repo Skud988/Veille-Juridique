@@ -1,9 +1,594 @@
 {
-  "generated_at": "2026-05-12T10:41:35.977423+00:00",
+  "generated_at": "2026-05-13T10:43:41.737539+00:00",
   "days": [
+    {
+      "date": "2026-05-13",
+      "articles": [
+        {
+          "id": "b1af06c4aa77",
+          "title": "Confidentialité de l’euro numérique : où en sommes-nous ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/confidentialite-de-leuro-numerique-ou-en-sommes-nous",
+          "category": "ia",
+          "published_at": "2026-05-13T12:00:00+00:00",
+          "summary": "La proposition de règlement sur l’euro numérique est en cours de vote au Parlement européen et l'Eurosystème se prépare à son émission d'ici 2029. La CNIL et l’autorité fédérale allemande de protection des données (BfDI) reviennent sur les enjeux et travaux sur la vie privée des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ea82950b058",
+          "title": "The Punisher One Last Kill : que vaut le retour de Frank Castle sur Disney+ ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2252455-the-punisher-one-last-kill-que-vaut-le-retour-de-frank-castle-sur-disney.html",
+          "category": "ia",
+          "published_at": "2026-05-13T10:24:01+00:00",
+          "summary": "Frank Castle est de retour, mais il n'a jamais semblé aussi brisé.&nbsp;Avec&nbsp;The Punisher: One Last Kill, Disney+ tente un pari risqué : transformer la machine à tuer de Jon Bernthal en un homme hanté par ses démons, avant de le plonger dans un enfer urbain ultra-violent.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7df1757449c7",
+          "title": "Tencent Music’s $2.4B Ximalaya takeover cleared by China’s competition watchdog – with conditions",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tencent-musics-2-4b-ximalaya-takeover-cleared-by-chinas-competition-watchdog-with-conditions/",
+          "category": "musique",
+          "published_at": "2026-05-13T10:18:23+00:00",
+          "summary": "Tencent Music Entertainment&#8216;s acquisition of Chinese audiobooks and podcasting platform Ximalaya has cleared China&#8217;s competition watchdog. China&#8217;s State Administration for Market Regulation (SAMR) issued an announcement on Tuesday (May 12) granting conditional…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "438d6bbab406",
+          "title": "La Nasa teste un futur hélicoptère martien qui défie déjà la vitesse du son",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2252347-la-nasa-teste-un-futur-helicoptere-martien-qui-defie-deja-la-vitesse-du-son.html",
+          "category": "ia",
+          "published_at": "2026-05-13T10:11:00+00:00",
+          "summary": "La Nasa travaille sur son futur hélicoptère martien, qui doit prendre la relève d'Ingenuity pour transporter cette fois des instruments scientifiques. Lors de récents tests, les pales ont atteint la vitesse du son martienne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a77339ed5a6",
+          "title": "Universal Music Group Partners With Amber Health, Project Healthy Minds For Mental Health Initiatives",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/universal-music-group-mental-health-initiatives/",
+          "category": "musique",
+          "published_at": "2026-05-13T10:00:00+00:00",
+          "summary": "Through a combination of partnerships and programs, UMG intends to improve access to care within its creative community.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffe98eac5a1f",
+          "title": "Googlebook : date de sortie, prix, constructeurs… Tout savoir sur les futurs rivaux des MacBook",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2252323-googlebook-date-de-sortie-prix-constructeurs-tout-savoir-sur-les-futurs-rivaux-des-macbook.html",
+          "category": "ia",
+          "published_at": "2026-05-13T09:54:43+00:00",
+          "summary": "Avec les Googlebook, une toute nouvelle gamme d'ordinateurs premium taillée pour l'intelligence artificielle Gemini, Google s'attaque frontalement aux MacBook d'Apple et aux PC Windows. Voici tout ce qu'il faut savoir sur ces nouveaux ordinateurs prévus pour la fin d'année 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "600eb686e15a",
+          "title": "Grève Samsung : l’IA et le prix de la RAM menacés par un « scénario catastrophe »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2252375-greve-samsung-lia-et-le-prix-de-la-ram-menaces-par-un-scenario-catastrophe.html",
+          "category": "ia",
+          "published_at": "2026-05-13T09:51:56+00:00",
+          "summary": "Le 12 mai 2026, Samsung et un syndicat sud-coréen ont échoué à trouver un accord sur le partage des profits liés à l’essor de l’IA. Plus de 50 000 salariés menacent de lancer une grève susceptible de perturber la production mondiale de mémoire et de composants critiques pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e75dfe3ecc53",
+          "title": "Jury orders Kanye West to pay over $438,000 over unauthorized sample at ‘Donda’ listening party",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jury-orders-kanye-west-to-pay-over-438000-over-unauthorized-sample-at-donda-listening-party/",
+          "category": "justice",
+          "published_at": "2026-05-13T09:48:04+00:00",
+          "summary": "A manager for Artists Revenue Advocates said they will appeal the larger part of the case, hoping to secure larger damages.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06fe09a3ad88",
+          "title": "Plus d’un million de caméras IP et babyphones diffusaient leurs images aux quatre vents",
+          "source": "Next INpact",
+          "url": "https://next.ink/228309/plus-dun-million-de-cameras-ip-et-babyphones-diffusaient-leurs-images-aux-quatre-vents/",
+          "category": "ia",
+          "published_at": "2026-05-13T09:43:49+00:00",
+          "summary": "Un Français a découvert début mars que le fournisseur chinois qui équipe des dizaines de modèles de caméras IP et babyphones vendus sur Amazon, Fnac, Cdiscount ou en marque blanche chez les opérateurs mobiles disposait d&#8217;un accès direct aux images de centaines de milliers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b060eb0d5dc9",
+          "title": "HYBE overhauls brand identity as it pushes further into superfans and technology",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-overhauls-brand-identity-as-it-pushes-further-into-superfans-and-technology/",
+          "category": "musique",
+          "published_at": "2026-05-13T09:38:41+00:00",
+          "summary": "HYBE says it looks to become “an entertainment lifestyle platform company built on both music and technology.”\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f410061df163",
+          "title": "VPN, le grand n’importe quoi gouvernemental ? Un député demande des clarifications",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2252365-vpn-le-grand-nimporte-quoi-gouvernemental-un-depute-demande-des-clarifications.html",
+          "category": "ia",
+          "published_at": "2026-05-13T09:34:09+00:00",
+          "summary": "Le gouvernement veut-il sacrifier les VPN sur l'autel de la vérification de l'âge ? Face aux menaces sur le télétravail et la sécurité, le député Philippe Latombe somme la ministre de clarifier sa position.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3755a636e05b",
+          "title": "Samsung blames content partner for Dua Lipa TV box image dispute, denies ‘intentional misuse’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/samsung-blames-content-partner-for-dua-lipa-tv-box-image-dispute-denies-intentional-misuse/",
+          "category": "ia",
+          "published_at": "2026-05-13T09:28:24+00:00",
+          "summary": "Samsung said the image was used to reflect the content of its third-party partners available on Samsung TV, and was provided by a content partner.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f82f0dd23090",
+          "title": "ID. Buzz en feu : pourquoi le second incendie de Toulouse était évitable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2252419-id-buzz-en-feu-pourquoi-le-second-incendie-de-toulouse-etait-evitable.html",
+          "category": "ia",
+          "published_at": "2026-05-13T09:21:38+00:00",
+          "summary": "Après un incendie à Montreuil, un second Volkswagen ID. Buzz a pris feu dans une station de recharge TotalEnergies à Toulouse le 12 mai 2026. Cet incident met en lumière un enjeu crucial : le respect strict des procédures de rappel constructeur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfecb8f1f38d",
+          "title": "☕️ IA : George Clooney, Meryl Streep et Kristen Stewart soutiennent le « Human Consent Standard »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/ia-george-clooney-meryl-streep-et-kristen-stewart-soutiennent-le-human-consent-standard/",
+          "category": "ia",
+          "published_at": "2026-05-13T08:59:17+00:00",
+          "summary": "Plusieurs acteurs et producteurs hollywoodiens se sont réunis pour soutenir un nouveau projet de licence dédié à l’intelligence artificielle, le Human Consent Standard. Ce dernier est porté par RSL Media, une ONG cofondée en 2025 par l’actrice Cate Blanchett pour travailler sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3461cb0391f9",
+          "title": "Waymo met à jour ses robotaxis pour qu’ils ne traversent plus des routes inondées",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2252307-waymo-met-a-jour-ses-robotaxis-pour-quils-ne-traversent-plus-des-routes-inondees.html",
+          "category": "ia",
+          "published_at": "2026-05-13T08:42:31+00:00",
+          "summary": "Waymo déploie une mise à jour sur presque 4 000 taxis autonomes, car ils étaient susceptibles d'emprunter des routes inondées. Toutefois, le problème ne serait pas encore totalement réglé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2254a01693af",
+          "title": "Android 17 arrive sur votre smartphone : toutes les nouveautés et la date de sortie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2178501-android-17-nouveautes-sortie-installation-smartphones-compatibles.html",
+          "category": "ia",
+          "published_at": "2026-05-13T08:28:52+00:00",
+          "summary": "Android 17 est finalisé : la première mise à jour majeure d'Android en 2026 devrait bientôt être déployée sur de premiers téléphones. Google vient de dévoiler la liste complète des nouveautés, dont des applications dans des bulles, de nouveaux réglages et Gemini Intelligence, un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd71cea071f1",
+          "title": "Sortie de la saison 2 d’Ahsoka : Disney douche les espoirs des fans de Star Wars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2252297-sortie-de-la-saison-2-dahsoka-disney-douche-les-espoirs-des-fans-de-star-wars.html",
+          "category": "ia",
+          "published_at": "2026-05-13T08:20:30+00:00",
+          "summary": "Il va falloir s'armer d'une patience de Jedi, et peut-être même plus encore.&nbsp;Alors que les fans attendaient de pied ferme des nouvelles de la célèbre apprentie d'Anakin Skywalker, Lucasfilm a enfin lâché une date. Mais le soulagement a vite laissé place à la frustration :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65367a0eb610",
+          "title": "Comment participer à la chasse au trésor géante organisée pour Assassin’s Creed Black Flag Resynced ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2252275-ubisoft-lance-une-vraie-chasse-au-tresor-geante-pour-la-sortie-dassassins-creed-black-flag-resynced.html",
+          "category": "ia",
+          "published_at": "2026-05-13T08:19:32+00:00",
+          "summary": "Pour le lancement du remake d'Assassin’s Creed Black Flag prévu en juillet 2026, Ubisoft lance une immense chasse au trésor grandeur nature, avec à la clé un butin de 500 000 $ (425 000 €) à empocher, soit tout de même l'équivalent de presque 6 000 exemplaires d'Assassin's Creed…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a40f1463017",
+          "title": "Pour ses 20 ans, Spotify dévoile un Wrapped qui retrace toute votre vie sur la plateforme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2252295-pour-ses-20-ans-spotify-devoile-un-wrapped-qui-retrace-toute-votre-vie-sur-la-plateforme.html",
+          "category": "ia",
+          "published_at": "2026-05-13T08:07:33+00:00",
+          "summary": "À l’occasion de ses 20 ans, Spotify lance une nouvelle version de son Wrapped. Disponible depuis le 12 mai 2026, cette rétrospective permet aux utilisateurs de remonter l’ensemble de leur historique d’écoute grâce à plusieurs statistiques inédites.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17ea33f95a61",
+          "title": "Microsoft va doter Windows Update d’une récupération de pilotes « initiée par le cloud »",
+          "source": "Next INpact",
+          "url": "https://next.ink/237889/microsoft-va-doter-windows-update-dune-recuperation-de-pilotes-initiee-par-le-cloud/",
+          "category": "ia",
+          "published_at": "2026-05-13T07:58:02+00:00",
+          "summary": "Microsoft prépare la mise en place d&#8217;une fonction intégrée à Windows Update capable de procéder à la récupération d&#8217;un pilote matériel si celui-ci n&#8217;offre pas le niveau de performances attendu. Cette récupération «&#160;initiée par le cloud&#160;» pourrait être…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d15c600091bd",
+          "title": "Tim Apple, Musk, Huang : pourquoi Trump emmène la Silicon Valley à Pékin",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2252293-tim-apple-musk-huang-pourquoi-trump-emmene-la-silicon-valley-a-pekin.html",
+          "category": "ia",
+          "published_at": "2026-05-13T07:48:34+00:00",
+          "summary": "Pour la première visite officielle d'un président américain en Chine depuis 2017, Donald Trump arrive à Pékin avec une délégation de 17 patrons, dont Tim Cook (Tim Apple, dans le texte), Elon Musk et, à la toute dernière minute, Jensen Huang, l'iconique boss de Nvidia. La…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36b1d0c61bf7",
+          "title": "La fusée géante Starship a son plan de vol, mais zappe sa manœuvre la plus spectaculaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2252279-la-fusee-geante-starship-a-son-plan-de-vol-mais-zappe-sa-manoeuvre-la-plus-spectaculaire.html",
+          "category": "ia",
+          "published_at": "2026-05-13T07:43:56+00:00",
+          "summary": "Le 19 mai, SpaceX lancera le douzième vol d'essai de sa fusée géante Starship. Pour ce vol inaugural de la « Version 3 », marqué par une refonte technologique et de nouveaux moteurs Raptor, l'entreprise privilégiera la prudence avec un amerrissage en mer du booster plutôt qu'une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2fe839f34972",
+          "title": "Tokenmaxxing : quand les salariés d’Amazon brûlent des tokens pour se faire bien voir",
+          "source": "Next INpact",
+          "url": "https://next.ink/237868/tokenmaxxing-quand-les-salaries-damazon-brulent-des-tokens-pour-se-faire-bien-voir/",
+          "category": "ia",
+          "published_at": "2026-05-13T06:50:00+00:00",
+          "summary": "Des salariés d&#8217;Amazon utilisent un outil maison équivalent à OpenClaw pour brûler des tokens et générer artificiellement de l&#8217;activité IA pour éviter de mauvaises évaluations. Ce phénomène du « tokenmaxxing » n&#8217;est pas propre à Amazon. Les entreprises qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52010fcc03dd",
+          "title": "GYRO.Group Recruits Digital Music Veteran Henry Compton",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/gyro-group-recruits-henry-compton/",
+          "category": "musique",
+          "published_at": "2026-05-13T06:26:27+00:00",
+          "summary": "\"Our goal is to be the biggest net exporter of Australian music, and every decision we are making right now,\" says group CEO Andy Irvine, \"is pointed directly at that.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "69efbfbd079a",
+          "title": "Google troque le Chromebook pour un Googlebook dopé à Gemini Intelligence",
+          "source": "Next INpact",
+          "url": "https://next.ink/237873/google-troque-le-chromebook-pour-un-googlebook-dope-a-gemini-intelligence/",
+          "category": "ia",
+          "published_at": "2026-05-13T06:01:28+00:00",
+          "summary": "Google n&#8217;attend pas l&#8217;ouverture de son événement I/O la semaine prochaine pour lever le voile sur un gros paquet de nouveautés qui, sans trop de surprise, tournent beaucoup autour de l&#8217;intelligence artificielle. Mais il y a tout de même quelque chose de nouveau…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4978d934c000",
+          "title": "Peut-on vraiment détecter l’hantavirus avec une application ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2251541-cette-application-pretend-detecter-le-hantavirus-ne-tombez-pas-dans-le-piege.html",
+          "category": "ia",
+          "published_at": "2026-05-13T05:15:00+00:00",
+          "summary": "La propagation du hantavirus hors de son foyer sur le navire MV Hondius semble motiver la création d'outils de détection pas forcément rigoureux scientifiquement. Il est nécessaire de faire preuve de prudence et de ne pas croire à n'importe quelle solution miracle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "353ea7f55852",
+          "title": "U2 Is Taking It To The Streets Of Mexico City For New Music Video: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/u2-street-of-dreams-mexico-city-new-music-video-watch-1236241251/",
+          "category": "musique",
+          "published_at": "2026-05-13T03:27:54+00:00",
+          "summary": "Bono, The Edge, Adam Clayton and Larry Mullen Jr. were snapped in the Mexican capital where they're shooting the music video for “Street of Dreams.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a5374cbbe85",
+          "title": "Ahead of Eurovision Performance, Delta Goodrem Announces ‘Pure’ Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/ahead-eurovision-delta-goodrem-pure-album-1236246499/",
+          "category": "musique",
+          "published_at": "2026-05-13T02:35:09+00:00",
+          "summary": "The superstar Australian pop singer announces Pure, her first album through a new deal struck with Universal Music via Better Now Records/Electrola.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a532535c465",
+          "title": "Kacey Musgraves’ ‘Middle of Nowhere’ Tops 3 Billboard Album Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/kacey-musgraves-middle-of-nowhere-tops-billboard-charts-1236246464/",
+          "category": "musique",
+          "published_at": "2026-05-13T01:26:02+00:00",
+          "summary": "The set also scores her best vinyl sales week ever.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-12",
       "articles": [
+        {
+          "id": "a5f0f79287dd",
+          "title": "Ye Loses Copyright Trial Over Uncleared ‘Donda’ Demo Sample",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/kanye-west-loses-trial-sample-donda-song-hurricane/",
+          "category": "justice",
+          "published_at": "2026-05-12T23:58:48+00:00",
+          "summary": "A jury held the rapper liable for infringing an instrumental track at a 2021 listening party for his chart-topping album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f360f8c1a70d",
+          "title": "Linda Perry Talks ‘Let It Die Here’ Documentary & Album, Plus 4 Non Blondes’ ‘What’s Up?’ Viral Moment: ‘You Can’t Buy That Kind of Marketing’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/linda-perry-interview-let-it-here-film-album-pop-shop-podcast-1236246396/",
+          "category": "musique",
+          "published_at": "2026-05-12T23:30:02+00:00",
+          "summary": "The legendary songwriter &#38; frontwoman also talks to the Billboard Pop Shop Podcast about reuniting with her '90s band for a new album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b6f129ffde7",
+          "title": "Warner Music launches Atlantic Records Finland, led by Fredi Lundén and Kristiina Wheeler",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-launches-atlantic-records-finland-led-by-fredi-lunden-and-kristiina-wheeler/",
+          "category": "musique",
+          "published_at": "2026-05-12T23:01:06+00:00",
+          "summary": "Lundén promoted to Director, Atlantic Records Finland; Wheeler joins as Senior A&#038;R\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6d046785186",
+          "title": "Warner Music Group’s Armin Zerza adds COO role to his remit, just one year after joining as CFO",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-groups-armin-zerza-adds-coo-role-to-his-remit-just-one-year-after-joining-as-cfo/",
+          "category": "musique",
+          "published_at": "2026-05-12T19:41:29+00:00",
+          "summary": "Zerza's new remit as COO will encompass corporate development, central marketing, business and market intelligence, and WMX\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fa56f2f13de",
+          "title": "Bertelsmann veteran Björn Bauer named CFO of combined BMG-Concord music company",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bertelsmann-veteran-bjorn-bauer-named-designated-cfo-of-combined-bmg-concord-music-company/",
+          "category": "musique",
+          "published_at": "2026-05-12T19:31:44+00:00",
+          "summary": "The appointment will take effect upon closing of the BMG-Concord merger, which is expected to fall in the second half of 2026.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a7bad897d00",
+          "title": "If you thought the US music industry was concerned about AI, you should hear what they’re saying in China.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/if-you-thought-the-us-music-industry-was-concerned-about-ai-you-should-hear-what-theyre-saying-in-china/",
+          "category": "musique",
+          "published_at": "2026-05-12T19:17:37+00:00",
+          "summary": "Tencent Music has explicitly blamed the 'proliferation of unauthorized AI-generated content' for creating 'headwinds' for its music subscription growth.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c06cc382911",
+          "title": "FLP-t 150 : quelle est cette nouvelle munition que la France pourrait bientôt utiliser sur le champ de bataille ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251673-flp-t-150-quelle-est-cette-nouvelle-munition-que-la-france-pourrait-bientot-utiliser-sur-le-champ-de-bataille.html",
+          "category": "ia",
+          "published_at": "2026-05-12T17:23:37+00:00",
+          "summary": "ArianeGroup et Thales viennent de réussir le premier tir de la FLP-t 150, une munition balistique capable de frapper à plus de 150 km avec une précision chirurgicale. Entre héritage des missiles nucléaires et résistance au brouillage électronique, voici comment ce nouveau…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e771f461d22e",
+          "title": "Quels téléphones Android sont compatibles avec Gemini Intelligence ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251483-quels-telephones-android-sont-compatibles-avec-gemini-intelligence.html",
+          "category": "ia",
+          "published_at": "2026-05-12T17:20:00+00:00",
+          "summary": "Gemini Intelligence, l'IA « proactive » de Google, arrive cet été sur Android. Cette mise à jour logicielle et matérielle ne sera pas disponible pour tout le monde dès le départ. Côté smartphones, voici les premiers modèles annoncés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0504dc4fc79e",
+          "title": "Vos stories Instagram vont enfin devenir belles sur Android : c’est la fin de la supériorité de l’iPhone",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251801-vos-stories-instagram-vont-enfin-devenir-belles-sur-android-cest-la-fin-de-la-superiorite-de-liphone.html",
+          "category": "ia",
+          "published_at": "2026-05-12T17:15:00+00:00",
+          "summary": "Les stories Instagram photographiées depuis des smartphones Android devraient devenir plus belles grâce à un partenariat conclu avec Meta, a annoncé Google le 12 mai 2026. De quoi resserrer l'écart avec celles prises sur iPhone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56b13f41304a",
+          "title": "Google réinvente la dictée vocale sur Android : on espère que l’iPhone le copiera",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251681-google-reinvente-la-dictee-vocale-sur-android-on-espere-que-liphone-le-copiera.html",
+          "category": "ia",
+          "published_at": "2026-05-12T17:12:19+00:00",
+          "summary": "Avec Rambler, Google met fin à la dictée vocale mot pour mot que l'on connaît depuis des années. Le clavier ne se contente plus de convertir une voix en texte, mais comprend la pensée brouillonne de son utilisateur. Il peut supprimer les hésitations et mettre en forme un message…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "796e6dfaf67f",
+          "title": "Google Maps change complètement de design : voici les nouveautés à venir dans Android Auto et Android",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2251847-android-auto-va-recevoir-une-grosse-mise-a-jour-voici-les-principales-nouveautes.html",
+          "category": "ia",
+          "published_at": "2026-05-12T17:10:00+00:00",
+          "summary": "Google transforme son écosystème automobile. Entre l'intégration de l'IA Gemini, une navigation Maps en 3D immersive et un design Material 3 plus flexible, voici les nouveautés majeures qui vont transformer l'expérience de conduite de millions d'automobilistes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fd6a724dc22",
+          "title": "Google dévoile les Googlebook, des ordinateurs portables sous Android avec une souris réinventée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251661-google-devoile-les-googlebook-des-ordinateurs-portables-sous-android-avec-une-souris-reinventee.html",
+          "category": "ia",
+          "published_at": "2026-05-12T17:00:00+00:00",
+          "summary": "15 ans après les Chromebook, Google monte en puissance avec une nouvelle proposition pour réinventer l'ordinateur portable. Les Googlebook, qui seront lancés en fin d'année, misent sur une intégration profonde de l'IA pour se faire une place sur un marché saturé par Windows et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9a391e4222f",
+          "title": "Les émojis vont changer sur Android : Google dévoile ses nouvelles icônes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251665-les-emojis-vont-changer-sur-android-google-devoile-ses-nouvelles-icones.html",
+          "category": "ia",
+          "published_at": "2026-05-12T17:00:00+00:00",
+          "summary": "À l'occasion du Android Show 2026, Google a dévoilé une nouvelle collection d'emojis 3D. Un style qui se rapproche vraiment, pour la première fois, de ceux déployés sur iPhone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8d2af9bb807",
+          "title": "Google dévoile Android 17 avec Gemini Intelligence, un agent IA qui contrôle votre smartphone",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2251677-google-devoile-android-17-avec-gemini-intelligence-un-agent-ia-qui-controle-votre-smartphone.html",
+          "category": "ia",
+          "published_at": "2026-05-12T17:00:00+00:00",
+          "summary": "Avec l'arrivée de Gemini Intelligence cet été, Google s'apprête à transformer Android en un système d'exploitation IA. Pour la première fois, des actions autrement réservées aux humains deviennent totalement automatisables. La technologie, qui devrait faire ses débuts dans une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8e1fda45ed2",
+          "title": "The Punisher: One Last Kill sera court, trop court pour de nombreux fans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2252045-the-punisher-one-last-kill-sera-court-trop-court-pour-de-nombreux-fans.html",
+          "category": "ia",
+          "published_at": "2026-05-12T15:57:17+00:00",
+          "summary": "Le retour tant attendu de Frank Castle laisse déjà un goût amer aux fidèles de l'antihéros. Alors que Disney+ s'apprête à mettre en ligne ce mardi soir aux États-Unis (dans la nuit de mardi à mercredi en France, vers 3h du matin) The Punisher: One Last Kill, la durée officielle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e75d0de6b1c4",
+          "title": "« Ni crédible ni attractive » : eBay refuse l’offre de rachat à 56 milliards de dollars de GameStop",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2245805-ni-credible-ni-attractive-ebay-refuse-loffre-de-rachat-a-56-milliards-de-dollars-de-gamestop.html",
+          "category": "ia",
+          "published_at": "2026-05-12T15:52:05+00:00",
+          "summary": "Le 3 mai 2026, GameStop a créé la surprise en annonçant une OPA non sollicitée sur eBay, valorisée à 55,5 milliards de dollars. Une proposition refusée par eBay le 12 mai 2026, qui a jugé l'offre « ni crédible, ni attractive ».",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b95a20297146",
+          "title": "IA : Thinking Machines présente un modèle qui réagit en direct à ce qu’on lui raconte",
+          "source": "Next INpact",
+          "url": "https://next.ink/237815/ia-thinking-machines-presente-un-modele-qui-reagit-en-direct-a-ce-quon-lui-raconte/",
+          "category": "ia",
+          "published_at": "2026-05-12T15:15:55+00:00",
+          "summary": "Avec TLM-Interaction-Small, Thinking Machines Lab affirme créer un nouveau type de modèle d’intelligence artificielle, plus interactif que les outils génératifs les plus connus. Fondée par Mira Murati, l’ancienne directrice technique d’OpenAI, Thinking Machines Lab annonce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10edec32e274",
+          "title": "☕️ Daybreak, la nouvelle plateforme cybersécurité d’OpenAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/daybreak-la-nouvelle-plateforme-cybersecurite-dopenai/",
+          "category": "ia",
+          "published_at": "2026-05-12T14:30:45+00:00",
+          "summary": "OpenAI ne veut pas se laisser distancer par Anthropic sur le terrain de la cybersécurité. Avec Daybreak, le créateur de ChatGPT a lancé sa réponse à Mythos : l&#8217;idée est la même dans les deux cas (équiper les défenseurs d&#8217;un outil IA de chasse aux bugs), mais la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b76fb67f8ab9",
+          "title": "[MàJ] Elon Musk vs OpenAI : « l’amateurisme total » du conseil d’administration d’OpenAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/236770/elon-musk-vs-openai-tout-ce-quil-faut-savoir-du-proces-qui-secoue-la-silicon-valley/",
+          "category": "ia",
+          "published_at": "2026-05-12T13:42:25+00:00",
+          "summary": "C&#8217;est le procès du siècle (même si le siècle est encore jeune) : Elon Musk et OpenAI s&#8217;affrontent devant le jury d&#8217;un tribunal fédéral en Californie. Une bataille à plusieurs (centaines de) milliards de dollars qui mêle rivalités personnelles, gouvernance…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8682bede02e3",
+          "title": "Protection des données : derrière Europol, une architecture informatique de l’ombre",
+          "source": "Next INpact",
+          "url": "https://next.ink/237795/protection-des-donnees-derriere-europol-une-architecture-informatique-de-lombre/",
+          "category": "institutionnel",
+          "published_at": "2026-05-12T13:01:01+00:00",
+          "summary": "Alors que les missions d’Europol s’étendent, de nouveaux détails sur son architecture informatique poussent des parlementaires européens à demander un meilleur contrôle de la part du contrôleur européen de la protection des données. L&#8217;Agence de l’Union européenne pour la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6310d683daa6",
+          "title": "TikTok is rolling out a new ‘ad-free’ subscription in the UK",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/12/tiktok-is-rolling-out-a-new-ad-free-subscription-in-the-uk/",
+          "category": "ia",
+          "published_at": "2026-05-12T12:30:00+00:00",
+          "summary": "TikTok has become the latest social-media platform to offer a paid subscription that removes advertising. ‘TikTok Ad-Free’ is launching in the UK for £3.99 a month ($5.40 at current exchange rates). It’s only available for users aged 18 and over, and will be rolling out “over…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4e31b8eb1e9",
+          "title": "Brazilian artists’ Spotify royalties grew by 24% in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/12/brazilian-artists-spotify-royalties-grew-by-24-in-2025/",
+          "category": "musique",
+          "published_at": "2026-05-12T12:30:00+00:00",
+          "summary": "Spotify paid out R$2bn of royalties for music by Brazilian artists in 2025, the company has announced. That’s around $409.2m at current exchange rates. The payouts grew by 24% compared to 2024. “To put this in perspective: royalties generated by Brazilian artists on Spotify grew…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a5cc5fd7c5c",
+          "title": "Artistic Futures wants to help songwriters find missing royalties",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/12/artistic-futures-wants-to-help-songwriters-find-missing-royalties/",
+          "category": "ia",
+          "published_at": "2026-05-12T12:30:00+00:00",
+          "summary": "A European Union co-funded project called Artistic Futures is aiming to put AI to positive use for songwriters: by helping them to identify unclaimed royalties and broken metadata. The project is the work of a group of music companies: Unison Rights and Encert Predict from…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47578a6710bb",
+          "title": "Sonilo signs Shutterstock deal to train its ‘video-to-music’ AI",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/12/sonilo-signs-shutterstock-deal-to-train-its-video-to-music-ai/",
+          "category": "musique",
+          "published_at": "2026-05-12T12:30:00+00:00",
+          "summary": "What’s a video-to-music AI when it’s at home, you may be wondering? It’s a model that generates music based on a video input rather than a text prompt – the idea being to create a soundtrack that matches the footage. Sonilo is one of the startups building such a service, and now…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc93a237fd12",
+          "title": "US music offices and organisations launch their own association",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/12/us-music-offices-and-organisations-launch-their-own-association/",
+          "category": "musique",
+          "published_at": "2026-05-12T12:30:00+00:00",
+          "summary": "Music cities (and counties, and states&#8230;) are an increasingly-active element of the US music industry, with an array of organisations working to nurture their local ecosystems and communities. Now they’ve got a trade body of their own. The Association of Music Offices (AMO)…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d842cfb89cc0",
+          "title": "CD Baby debuts ‘Stages Selects’ program with 10 indie artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/12/cd-baby-debuts-stages-selects-program-with-10-indie-artists/",
+          "category": "musique",
+          "published_at": "2026-05-12T12:30:00+00:00",
+          "summary": "Newly ensconced within UMG’s Virgin Music Group after the acquisition of its parent company Downtown Music, distributor CD Baby has unveiled a new “high-level support” program for some of its artists. ‘Stages Selects’ will offer priority distribution, DSP marketing, paid…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "176e48d9ce07",
+          "title": "Exportation des outils de surveillance : l’Europe « détourne le regard »",
+          "source": "Next INpact",
+          "url": "https://next.ink/237729/exportation-des-outils-de-surveillance-leurope-detourne-le-regard/",
+          "category": "institutionnel",
+          "published_at": "2026-05-12T12:06:15+00:00",
+          "summary": "L&#8217;ONG Human Rights Watch pointe le laisser-faire de l&#8217;Europe concernant la vente des technologies de surveillance à des pays bien connus pour enfreindre les droits humains. Selon un rapport de Human Rights Watch, l&#8217;Union européenne se montre incapable d&#8217;…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "234af5fdfd41",
+          "title": "Ordre du jour de la séance plénière du 12 mai 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-12-mai-2026",
+          "category": "institutionnel",
+          "published_at": "2026-05-12T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 12 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "233ca42b77d2",
+          "title": "Sony Music completes big-bucks Recognition Music Group deal",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/12/sony-music-completes-big-bucks-recognition-music-group-deal/",
+          "category": "musique",
+          "published_at": "2026-05-12T11:30:00+00:00",
+          "summary": "As rumoured, Sony Music Publishing is acquiring the complete catalogue of Recognition Music Group (RMG) – the company formerly known as three different Hipgnosis entities. The deal covers rights to more than 45,000 songs, and reunites RMG with yet another Hipgnosis company –…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "b7cfd67993b7",
           "title": "Pour contrer Claude Mythos, OpenAI lance son IA de cyberdéfense",
