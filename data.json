@@ -1,9 +1,484 @@
 {
-  "generated_at": "2026-05-13T10:43:41.737539+00:00",
+  "generated_at": "2026-05-14T10:34:18.746585+00:00",
   "days": [
+    {
+      "date": "2026-05-14",
+      "articles": [
+        {
+          "id": "2dc750fa202e",
+          "title": "After KATSEYE, HYBE and Geffen unveil second global girl group, SAINT SATINE",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-katseye-hybe-and-geffen-unveil-second-global-girl-group-saint-satine/",
+          "category": "ia",
+          "published_at": "2026-05-14T10:31:56+00:00",
+          "summary": "Three former The Debut: Dream Academy contestants – EMILY, LEXIE, and SAMARA – had previously been confirmed as members of the group.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93579f15b32b",
+          "title": "Bonne nouvelle pour les fans de Zelda qui attendant le film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253397-bonne-nouvelle-pour-les-fans-de-zelda-qui-attendant-le-film.html",
+          "category": "musique",
+          "published_at": "2026-05-14T10:30:00+00:00",
+          "summary": "Le 14 mai 2026, Shigeru Miyamoto a annoncé que le film live-action « The Legend of Zelda » sortirait finalement une semaine plus tôt que prévu, avec une nouvelle date fixée à fin avril 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "455f7f8da298",
+          "title": "Mistral AI piraté ? Un hacker met en vente 5 Go de code source et 450 dépôts internes pour 25 000 dollars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2253341-mistral-ai-pirate-un-hacker-met-en-vente-5-go-de-code-source-et-450-depots-internes-pour-25-000-dollars.html",
+          "category": "ia",
+          "published_at": "2026-05-14T09:40:00+00:00",
+          "summary": "Sur un forum cybercriminel, un vendeur affirme détenir environ 5 Go de dépôts internes et de code source attribués à Mistral AI, dont près de 450 repositories privés. La revendication, qui circule depuis le 13 mai, n'a pas été confirmée par l'entreprise française. Mais l'enquête…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90a462262ebc",
+          "title": "Le trailer 3 de GTA 6 imminent ? Un revendeur américain dévoile la date de précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253373-le-trailer-3-de-gta-6-imminent-un-revendeur-americain-devoile-la-date-de-precommande.html",
+          "category": "ia",
+          "published_at": "2026-05-14T08:46:54+00:00",
+          "summary": "Plusieurs affiliés de Best Buy aux États-Unis affirment avoir reçu un mail évoquant une campagne de précommande pour GTA VI du 18 au 21 mai 2026. Une fuite à prendre au sérieux au vu de l'importance de Best Buy aux États-Unis, qui pourrait bel et bien se préparer à une vague…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "564c7b69417b",
+          "title": "Claude a réussi un exploit : récupérer 5 Bitcoin bloqués depuis 11 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253319-claude-a-reussi-un-exploit-recuperer-5-bitcoin-bloques-depuis-11-ans.html",
+          "category": "ia",
+          "published_at": "2026-05-14T08:26:10+00:00",
+          "summary": "Il y a 11 ans, un utilisateur avait acheté 5 bitcoins pour 1 000 dollars. Des cryptos aujourd'hui valorisées autour des 400 000 dollars… auxquels il n'avait plus accès. Après plusieurs années à tenter de récupérer son magot, ce dernier prétend avoir réussi grâce à l’IA Claude et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f52474ea459",
+          "title": "En attendant Pokémon Vents et Vagues, écoutez sa musique originale et son orchestre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253323-en-attendant-pokemon-vents-et-vagues-ecoutez-sa-musique-originale-et-son-orchestre.html",
+          "category": "musique",
+          "published_at": "2026-05-14T07:27:49+00:00",
+          "summary": "The Pokémon Company a publié le 13 mai une vidéo des coulisses de l'enregistrement du thème principal de Pokémon Vents et Pokémon Vagues, interprété par l'Orchestre symphonique de la NHK. Le jeu arrivera en 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "beb249103ea9",
+          "title": "Android 17 a un mode anti-TikTok : « Pause Point » vous force à patienter avant de scroller",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253309-android-17-a-un-mode-anti-tiktok-pause-point-vous-force-a-patienter-avant-de-scroller.html",
+          "category": "ia",
+          "published_at": "2026-05-14T07:00:32+00:00",
+          "summary": "Avec Pause Point, Android 17 veut lutter contre le réflexe d'ouvrir TikTok, Instagram ou X sans réfléchir. La nouvelle fonction de bien-être numérique ajoute une pause de 10 secondes avant l'ouverture d'une application jugée distrayante, avec une question simple : pourquoi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6c55a33afa1",
+          "title": "Here Comes The Drop: How TMRW Music Dominated 60% of ARIA’s Dance Chart In a Single Week",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/tmrw-music-aria-dance-chart-analysis/",
+          "category": "musique",
+          "published_at": "2026-05-14T06:43:45+00:00",
+          "summary": "Billboard caught up with the top brass at TMRW Music and etcetc for a closer look at Australia’s vibrant dance space and how the Sydney label group is lifting the tempo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6db3f9802089",
+          "title": "How should AI licensing work for music? The BPI has some ideas…",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/14/how-should-ai-licensing-work-for-music-the-bpi-has-some-ideas/",
+          "category": "musique",
+          "published_at": "2026-05-14T06:34:40+00:00",
+          "summary": "This may not be the best week to be lobbying the British government about AI and creative-industries policy, if we&#8217;re honest.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb973d4ee096",
+          "title": "Samsung : 50 000 salariés menacent de faire grève et pourraient bloquer toute l’industrie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2252375-samsung-50-000-salaries-menacent-de-faire-greve-et-pourraient-bloquer-toute-lindustrie.html",
+          "category": "ia",
+          "published_at": "2026-05-14T06:28:57+00:00",
+          "summary": "Le 12 mai 2026, Samsung et un syndicat sud-coréen ont échoué à trouver un accord sur le partage des profits liés à l’essor de l’IA. Plus de 50 000 salariés menacent de lancer une grève susceptible de perturber la production mondiale de mémoire et de composants critiques pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "408efb9beb76",
+          "title": "Les Japonais ne veulent absolument pas d’un GTA qui se passerait au Japon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2251867-les-japonais-ne-veulent-absolument-pas-dun-gta-qui-se-passerait-au-japon.html",
+          "category": "ia",
+          "published_at": "2026-05-14T06:01:00+00:00",
+          "summary": "Si vous nourrissiez l’espoir de voir un jour un GTA se dérouler au Japon (pas forcément un épisode principal, mais au moins un spin-off), sachez que les Japonais sont réticents à cette idée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7562832babb",
+          "title": "Hayley Williams Gives Fans an Ego Death at The Wiltern in Los Angeles: 5 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/hayley-williams-the-wiltern-los-angeles-5-best-moments/",
+          "category": "ia",
+          "published_at": "2026-05-14T05:54:34+00:00",
+          "summary": "The Grammy Award-winning rock star is about to wrap up her first ever solo tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3389ca86b0d3",
+          "title": "Et si l’hantavirus commençait à muter ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2252901-et-si-lhantavirus-commencait-a-muter.html",
+          "category": "ia",
+          "published_at": "2026-05-14T05:25:00+00:00",
+          "summary": "Le hantavirus qui a déclenché d'importantes mesures sanitaires à travers le monde est désormais étudié de près par les scientifiques. Ils tentent de savoir si le virus serait capable de muter, et les résultats ne sont pas encore très clairs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89946cb8f9a1",
+          "title": "Mark Smythe, Los Angeles-Based Composer, Dies at 53",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/mark-smythe-obituary/",
+          "category": "musique",
+          "published_at": "2026-05-14T05:12:56+00:00",
+          "summary": "The New Zealand-born musician also served as an executive and educator.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dde9b9cb6d69",
+          "title": "BMG Acquires Jet’s Music Publishing Interests",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/bmg-acquires-jet-music-publishing-interests/",
+          "category": "musique",
+          "published_at": "2026-05-14T03:16:38+00:00",
+          "summary": "The arrangement expands on BMG’s long-term publishing relationship with the rockers, and follows the 2023 purchase of their recordings catalog.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0fe43c4b4e43",
+          "title": "Ninajirachi Dominates 2026 AIR Awards Nominations",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/ninajirachi-2026-air-awards-nominations-1236247936/",
+          "category": "ia",
+          "published_at": "2026-05-14T02:20:49+00:00",
+          "summary": "The annual celebration of Australia's independent music community will be presented Thursday, July 30 at Adelaide Town Hall, for an invite-only industry event.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00ed3e234726",
+          "title": "Eladio Carrión’s ‘CORSA’ Races Into Top 10 on Top Latin Albums Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/eladio-carrions-corsa-top-10-top-latin-albums-chart-1236247908/",
+          "category": "musique",
+          "published_at": "2026-05-14T01:03:25+00:00",
+          "summary": "With the new arrival, the rapper and Latin trap singer claims his seventh top 10.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-13",
       "articles": [
+        {
+          "id": "d3650a190567",
+          "title": "Sony Music Publishing wins Pop Publisher of the Year at 2026 BMI Awards… as Kendrick Lamar’s ‘Luther’ takes Song of the Year",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-wins-pop-publisher-of-the-year-at-2026-bmi-awards-as-kendrick-lamars-luther-takes-song-of-the-year/",
+          "category": "musique",
+          "published_at": "2026-05-13T19:06:45+00:00",
+          "summary": "SMP landed the title for representing 24 of the previous year's most-performed songs.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa41a324673b",
+          "title": "Listeners engage less deeply with music labeled as AI – even when it’s actually human-made, academic study finds",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/listeners-engage-less-deeply-with-music-labeled-as-ai-even-when-its-actually-human-made-academic-study-finds/",
+          "category": "musique",
+          "published_at": "2026-05-13T17:28:07+00:00",
+          "summary": "The Wu and Holmes paper was based on two preregistered studies involving 399 US participants\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0fc4d1b7b5be",
+          "title": "Tencent Music investors see ByteDance’s Soda as a major threat. What is it, and why are they so worried?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tencent-music-investors-see-bytedances-soda-as-a-major-threat-what-is-it-and-why-are-they-so-worried/",
+          "category": "musique",
+          "published_at": "2026-05-13T17:24:30+00:00",
+          "summary": "MBW explains why Soda Music has become such a preoccupation for TME's shareholders.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae99a746c7a9",
+          "title": "BMG acquires publishing interests in catalog of Jet, the band behind ‘Are You Gonna Be My Girl’, expanding on 2023 recordings deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bmg-acquires-publishing-interests-in-catalog-of-jet-the-band-behind-are-you-gonna-be-my-girl-expanding-on-2023-recordings-deal/",
+          "category": "musique",
+          "published_at": "2026-05-13T17:24:22+00:00",
+          "summary": "Jet released three studio albums and have sold more than 6.5 million records worldwide\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cacb5034e072",
+          "title": "Universal Music India strikes global distribution deal with indie artist services company first.wav",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-india-strikes-global-distribution-deal-with-indie-artist-services-company-first-wav/",
+          "category": "musique",
+          "published_at": "2026-05-13T17:09:57+00:00",
+          "summary": "Company's operations span artist management, music distribution, and marketing\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bfce10161e3",
+          "title": "L’Odyssée : nouveau jour, nouvelle polémique pour le prochain Nolan",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2252949-lodyssee-nouveau-jour-nouvelle-polemique-pour-le-prochain-nolan.html",
+          "category": "ia",
+          "published_at": "2026-05-13T16:26:44+00:00",
+          "summary": "Christopher Nolan n'a pas fini de faire grincer des dents.&nbsp;Alors que son épopée à 250 millions de dollars,&nbsp;L'Odyssée, approche à grands pas, le réalisateur d'&nbsp;Oppenheimer&nbsp;se retrouve au cœur d'une tempête numérique sans précédent. Entre les armures jugées…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd5e972b67ee",
+          "title": "Nouveau film Tintin : Peter Jackson confirme enfin la suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253109-nouveau-film-tintin-peter-jackson-confirme-enfin-la-suite.html",
+          "category": "ia",
+          "published_at": "2026-05-13T15:51:55+00:00",
+          "summary": "Le monde des aventuriers n'a pas fini de faire vibrer le grand écran.&nbsp;Alors qu’il vient de recevoir une Palme d’or d’honneur au Festival de Cannes 2026, Peter Jackson a créé la surprise lors d'une masterclass. Le réalisateur néo-zélandais a confirmé travailler activement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2850a8258287",
+          "title": "« Halupédia » : ce site est un Wikipédia avec 100 % d’hallucinations IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2252897-halupedia-ce-site-est-un-wikipedia-avec-100-dhallucinations-ia.html",
+          "category": "ia",
+          "published_at": "2026-05-13T15:49:22+00:00",
+          "summary": "Et si Wikipédia était entièrement alimenté par des hallucinations d’IA ? C’est précisément le concept d’Halupédia, une encyclopédie open source où chaque article est généré à la volée par un modèle d’intelligence artificielle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4b2648aaefb",
+          "title": "Avec l’hantavirus, les théories du complot sont de retour",
+          "source": "Next INpact",
+          "url": "https://next.ink/238038/avec-lhantavirus-les-theories-du-complot-sont-de-retour/",
+          "category": "ia",
+          "published_at": "2026-05-13T15:29:00+00:00",
+          "summary": "Depuis l’identification d’un foyer d’hantavirus sur un navire de croisière, les théories du complot se multiplient sur les réseaux. Souvent promues par le même type d’acteurs ayant poussé des thèses farfelues à l’époque du Covid, elles en reprennent aussi de nombreux gimmicks.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4d74cc742be",
+          "title": "Comment désactiver l’IA dans Chrome pour retirer le modèle de 4 Go installé sans autorisation ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253009-comment-desactiver-lia-dans-chrome-pour-retirer-le-modele-de-4-go-installe-sans-autorisation.html",
+          "category": "ia",
+          "published_at": "2026-05-13T15:18:16+00:00",
+          "summary": "L'affaire du modèle d'IA de 4 Go installé sans crier gare dans Google Chrome a fait couler beaucoup d'encre. Depuis, une méthode a émergé pour couper cette fonctionnalité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22dbb3dfa688",
+          "title": "☕️ L’UE veut l’ouverture d’Android aux IA rivales : Apple vole au secours de Google",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/lue-veut-louverture-dandroid-aux-ia-rivales-apple-vole-au-secours-de-google/",
+          "category": "ia",
+          "published_at": "2026-05-13T15:02:39+00:00",
+          "summary": "Google reçoit un coup de main d&#8217;Apple, pour éviter d&#8217;avoir à donner aux IA concurrentes un accès à Android. Fin avril, dans le cadre du règlement sur les marchés numériques (DMA), la Commission européenne envoyait au moteur de recherche ses « conclusions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0641fd46430",
+          "title": "BYD veut profiter des usines sous-utilisées pour conquérir l’Europe et Stellantis pourrait l’aider",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2252893-byd-veut-profiter-des-usines-sous-utilisees-pour-conquerir-leurope-et-stellantis-pourrait-laider.html",
+          "category": "ia",
+          "published_at": "2026-05-13T15:01:47+00:00",
+          "summary": "BYD serait en discussions avec Stellantis ainsi que d'autres constructeurs pour racheter des usines sous-utilisées en Europe. Le géant chinois pourrait jeter son dévolu sur un site en Italie et se dit également intéressé par la France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "457f3f253715",
+          "title": "Universal Music India renews distro deal with music services company first.wav",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/universal-music-india-renews-distro-deal-with-first-wav/",
+          "category": "musique",
+          "published_at": "2026-05-13T14:35:51+00:00",
+          "summary": "Universal Music India, which first signed an exclusive worldwide distribution deal with Indian music services company first.wav in 2023, has renewed its agreement with the Mumbai-based entity. The major will [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7bd6b743a97",
+          "title": "Billie Eilish, Iron Maiden documentaries to release in India this weekend",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/billie-eilish-iron-maiden-documentaries-to-release-in-india-this-weekend/",
+          "category": "ia",
+          "published_at": "2026-05-13T14:35:31+00:00",
+          "summary": "We at Music Ally South Asia are among those you’ll find in the intersecting circles of a Venn diagram for people who are fans of Billie Eilish and Iron Maiden. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bef09834bf4f",
+          "title": "Sunburn 2026 to be staged over two days at Mumbai’s Mahalaxmi Racecourse",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/sunburn-2026-to-be-staged-over-two-days-at-mumbais-mahalaxmi-racecourse/",
+          "category": "ia",
+          "published_at": "2026-05-13T14:26:04+00:00",
+          "summary": "Is Sunburn getting bigger or smaller this year? The 2026 edition of the BookMyShow-owned Indian electronic dance music festival will take place over two days instead of the usual three, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e53919bca833",
+          "title": "Amazon brade toutes ses clés HDMI Fire TV Stick 4K",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2252443-amazon-brade-toutes-ses-cles-hdmi-fire-tv-stick-4k.html",
+          "category": "ia",
+          "published_at": "2026-05-13T14:11:15+00:00",
+          "summary": "[Deal du jour] Amazon casse les prix sur toute sa gamme Fire TV Stick de dernière génération. De belles promotions si vous souhaitez vous passer de votre box TV Internet, ou de l'OS de votre téléviseur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "42c97ae1b947",
+          "title": "[MàJ] Elon Musk vs OpenAI : Elon Musk voulait léguer OpenAI à ses enfants",
+          "source": "Next INpact",
+          "url": "https://next.ink/236770/elon-musk-vs-openai-tout-ce-quil-faut-savoir-du-proces-qui-secoue-la-silicon-valley/",
+          "category": "ia",
+          "published_at": "2026-05-13T14:02:36+00:00",
+          "summary": "C&#8217;est le procès du siècle (même si le siècle est encore jeune) : Elon Musk et OpenAI s&#8217;affrontent devant le jury d&#8217;un tribunal fédéral en Californie. Une bataille à plusieurs (centaines de) milliards de dollars qui mêle rivalités personnelles, gouvernance…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2de9a27fd21",
+          "title": "« Je n’ai aucun problème avec ça » : Peter Jackson dédramatise l’IA au cinéma",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2252871-je-nai-aucun-probleme-avec-ca-peter-jackson-dedramatise-lia-au-cinema.html",
+          "category": "ia",
+          "published_at": "2026-05-13T13:51:36+00:00",
+          "summary": "Peter Jackson, qui a porté Le Seigneur des anneaux sur grand écran, vient-il de trahir l'art du cinéma ou fait-il preuve de pragmatisme ? Présent au Festival de Cannes 2026 pour recevoir une Palme d'or d'honneur, le cinéaste a jeté un pavé dans la mare en déclarant qu'il « ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cfe0a90f51c",
+          "title": "La surprise des tuiles blanches : SpaceX en a peint certaines sur sa fusée géante Starship pour tester une nouveauté",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2252841-la-surprise-des-tuiles-blanches-spacex-en-a-peint-certaines-sur-sa-fusee-geante-starship-pour-tester-une-nouveaute.html",
+          "category": "ia",
+          "published_at": "2026-05-13T13:46:44+00:00",
+          "summary": "Le 19 mai 2026, SpaceX lancera le douzième vol d’essai du Starship. L'entreprise va tester une manœuvre inédite : le scan de son bouclier thermique par des satellites-inspecteurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0d2031bc140",
+          "title": "Pour Digital Realty, les data centers français sont en situation de « rattrapage »",
+          "source": "Next INpact",
+          "url": "https://next.ink/237948/pour-digital-realty-les-data-centers-francais-sont-en-situation-de-rattrapage/",
+          "category": "ia",
+          "published_at": "2026-05-13T12:42:00+00:00",
+          "summary": "Auditionné par la Commission sur les dépendances structurelles dans le secteur numérique, le PDG de Digital Realty Fabrice Coquio a décrit un marché français des centres de données en situation de «&#160;rattrapage&#160;» sur ses concurrents européens et qualifié le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd927dffadaa",
+          "title": "Anthropic’s new funding round sees valuation approaching $1tn",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/anthropics-new-funding-round-sees-valuation-approaching-1tn/",
+          "category": "ia",
+          "published_at": "2026-05-13T12:39:00+00:00",
+          "summary": "Its tangle with music publishers continues to show no sign of impeding Anthropic’s ability to raise absolutely tons of money from investors and tech giants. The AI firm is reportedly in talks to raise its next bumper round of funding.  Bloomberg  suggested that it’s raising “at…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ebbc057cad6",
+          "title": "Hollywood stars back RSL Media’s crusade for AI consent",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/hollywood-stars-back-rsl-medias-crusade-for-ai-consent/",
+          "category": "ia",
+          "published_at": "2026-05-13T12:36:11+00:00",
+          "summary": "Cate Blanchett, Meryl Streep, George Clooney, Javier Bardem, Viola Davis, Tom Hanks and not one but TWO dames – Helen Mirren and Emma Thompson. We’d all watch the film with that cast, right? Alas, no film. But all of these actors are backing a new public-benefit non-profit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c20ac8e93595",
+          "title": "Scavenger-hunt platform PassPass raises ‘seven-figure’ funding",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/scavenger-hunt-platform-passpass-raises-seven-figure-funding/",
+          "category": "musique",
+          "published_at": "2026-05-13T12:35:00+00:00",
+          "summary": "Earlier this year, we wrote about scavenger-hunts startup PassPass’s drive to get music artists to use its platform in their marketing campaigns. Perhaps news of its latest funding round will persuade them. PassPass has raised a “seven-figure” seed-funding round, which it said…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "23eef011d103",
+          "title": "Beatport launches its own Shazam-style ‘Track ID’ feature",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/beatport-launches-its-own-shazam-style-track-id-feature/",
+          "category": "musique",
+          "published_at": "2026-05-13T12:30:00+00:00",
+          "summary": "It’s hard to remember a time when Apple’s Shazam had any kind of serious competition in the music-identification space – certainly for consumers. The new ‘Track ID’ feature in Beatport’s mobile app won’t be causing sleepless nights in Cupertino on that front, since it’s aimed at…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3942a2c3da5",
+          "title": "Apple Music bags Lady Gaga film as Madonna heads to Tribeca Festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/apple-music-bags-lady-gaga-film-as-madonna-heads-to-tribeca-festival/",
+          "category": "musique",
+          "published_at": "2026-05-13T12:30:00+00:00",
+          "summary": "Lady Gaga pushed out all the visual boats – as fans would expect &#8211; for her ‘The Mayhem Ball’ tour, which finished last month. Now a filmed performance and live album are making their way to Apple Music, with the film also playing in 15 cinemas in the US tomorrow (14 May).…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1e669a97561",
+          "title": "German artists call for crackdown on secondary ticketing",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/german-artists-call-for-crackdown-on-secondary-ticketing/",
+          "category": "musique",
+          "published_at": "2026-05-13T12:21:25+00:00",
+          "summary": "We’ve been covering the debates and legislation around secondary-ticketing reform in the UK and US. Now Germany is also seeing a step-up in calls from the music industry for change. Industry bodies Pro Musik and BDKV have published an open letter to Germany’s federal government,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3cea6b90569",
+          "title": "Tencent Music’s revenues grew 7.3% year-on-year in Q1 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/tencent-musics-revenues-grew-7-3-year-on-year-in-q1-2026/",
+          "category": "musique",
+          "published_at": "2026-05-13T12:19:05+00:00",
+          "summary": "Chinese music-streaming giant Tencent Music has reported $1.15bn of revenues for the first quarter of 2026. That’s up 7.3% year-on-year, although its actual music business grew faster. That part of the company – mainly its three streaming services – made $944m in Q1, which was a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1336167f53b0",
+          "title": "« Nous avons le plus grand respect pour Mme Lipa » : Samsung s’explique sur la plainte à 15 millions de dollars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2252773-nous-avons-le-plus-grand-respect-pour-mme-lipa-samsung-sexplique-sur-la-plainte-a-15-millions-de-dollars.html",
+          "category": "ia",
+          "published_at": "2026-05-13T12:19:00+00:00",
+          "summary": "Le 13 mai 2026, Samsung a répondu aux accusations de Dua Lipa concernant l’utilisation présumée non autorisée de son image sur des emballages de téléviseurs vendus aux États-Unis. La marque affirme avoir agi de bonne foi, en s’appuyant sur les garanties fournies par un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c7f55a6ffd3",
+          "title": "Luminate digs into music superfans’ demographic differences",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/13/luminate-digs-into-music-superfans-demographic-differences/",
+          "category": "musique",
+          "published_at": "2026-05-13T12:15:04+00:00",
+          "summary": "Does age matter? It may do when it comes to music superfans, according to research firm Luminate. Its latest study explores some of the differences in fandom for various demographics, and makes for interesting reading. One finding: superfans “tend to be on the younger side, with…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91a7902954de",
+          "title": "Le patron de Microsoft Israël part suite aux révélations sur la surveillance en Palestine",
+          "source": "Next INpact",
+          "url": "https://next.ink/237900/le-patron-de-microsoft-israel-part-suite-aux-revelations-sur-la-surveillance-en-palestine/",
+          "category": "ia",
+          "published_at": "2026-05-13T12:12:58+00:00",
+          "summary": "Le responsable de la filiale israélienne de Microsoft va quitter son poste après des révélations sorties l&#8217;année dernière sur l&#8217;accord entre l’unité 8200, agence de surveillance israélienne, et l&#8217;entreprise. Celui-ci a permis à Israël de mettre en place une…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "b1af06c4aa77",
           "title": "Confidentialité de l’euro numérique : où en sommes-nous ?",
@@ -12,6 +487,26 @@
           "category": "ia",
           "published_at": "2026-05-13T12:00:00+00:00",
           "summary": "La proposition de règlement sur l’euro numérique est en cours de vote au Parlement européen et l'Eurosystème se prépare à son émission d'ici 2029. La CNIL et l’autorité fédérale allemande de protection des données (BfDI) reviennent sur les enjeux et travaux sur la vie privée des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85d52075de7f",
+          "title": "Presque 300 000 voitures équipées : Tesla veut plus que doubler sa production de batteries en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2252527-presque-300-000-voitures-equipees-tesla-veut-plus-que-doubler-sa-production-de-batterie-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-05-13T11:23:00+00:00",
+          "summary": "Tesla va augmenter de plus de 210 millions d'euros l'investissement dans sa Gigafactory de Berlin pour augmenter sa capacité de production de batteries. Le constructeur américain a revu en grand ses plans et souhaite ainsi passer d'une capacité annuelle de 8 GWh à 18 GWh.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54924fb7c54d",
+          "title": "Remèdes, vaccins… Où en est-on pour soigner les personnes contaminées par l’hantavirus ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2252461-remedes-vaccins-ou-en-est-on-pour-soigner-les-personnes-contaminees-par-lhantavirus.html",
+          "category": "ia",
+          "published_at": "2026-05-13T11:02:00+00:00",
+          "summary": "Alors que les cas positifs d'hantavirus augmentent à travers le monde, la question des traitements pour faire face à cette maladie se pose. Sauf que la recherche médicale piétine sur un virus qui n'a que peu d'occurrences chez les humains et qui demeure encore mal connu.",
           "summary_type": "extrait source"
         },
         {
