@@ -1,9 +1,514 @@
 {
-  "generated_at": "2026-05-14T10:34:18.746585+00:00",
+  "generated_at": "2026-05-15T10:37:52.884563+00:00",
   "days": [
+    {
+      "date": "2026-05-15",
+      "articles": [
+        {
+          "id": "c1ea167e7a64",
+          "title": "« Même pas un effort sincère » : OpenAI pourrait attaquer Apple à cause de l’intégration ratée de ChatGPT dans l’iPhone",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253637-meme-pas-un-effort-sincere-openai-pourrait-attaquer-apple-a-cause-de-lintegration-ratee-de-chatgpt-dans-liphone.html",
+          "category": "ia",
+          "published_at": "2026-05-15T10:35:00+00:00",
+          "summary": "Les relations entre Apple et OpenAI se seraient fortement dégradées autour de l’intégration de ChatGPT dans l'iPhone. Au point qu’OpenAI envisagerait désormais des recours juridiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7468b548ba0",
+          "title": "Mistral prépare son IA chasseuse de failles, Microsoft déploie déjà son armée d’agents",
+          "source": "Next INpact",
+          "url": "https://next.ink/238097/mistral-prepare-son-ia-chasseuse-de-failles-microsoft-deploie-deja-son-armee-dagents/",
+          "category": "ia",
+          "published_at": "2026-05-15T10:07:00+00:00",
+          "summary": "Qui n&#8217;a pas son arsenal IA pour la cybersécurité ? Après Anthropic et Mythos, après OpenAI et Daybreak, Microsoft a dévoilé sa solution. Et Mistral, le petit Poucet français, planche également sur un modèle capable de détecter les failles à grande échelle. Mistral AI…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cbb3e11e9ff6",
+          "title": "The Batman 2 : le casting complet est enfin connu, et laisse une question clé en suspens",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253587-the-batman-2-le-casting-complet-est-enfin-connu-et-laisse-une-question-cle-en-suspens.html",
+          "category": "ia",
+          "published_at": "2026-05-15T09:57:17+00:00",
+          "summary": "Le Chevalier Noir se prépare à un retour magistral, et il ne sera pas seul dans les rues enneigées de Gotham. Après quatre ans d'attente, Matt Reeves a enfin brisé le silence en révélant le casting complet de The Batman Part 2. Entre confirmations de rumeurs persistantes et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d937f6ee433d",
+          "title": "From DJ Khaled to Kendrick Lamar, Here’s Everyone Drake Appeared to Diss on ‘Iceman’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/drake-iceman-habibti-maid-of-honour-disses-album/",
+          "category": "musique",
+          "published_at": "2026-05-15T09:48:44+00:00",
+          "summary": "The 6 God returned with three new albums on Friday (May 15).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08a49fdef789",
+          "title": "The Avalanches Return With ‘Superfun’ Single ‘Together’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-avalanches-superfun-single-together-1236248931/",
+          "category": "musique",
+          "published_at": "2026-05-15T09:37:36+00:00",
+          "summary": "The Australian electronic music act breaks the drought with the bouncy new single.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39a67093e86f",
+          "title": "Cette promotion sur la Xbox Series X est le meilleur moyen de sécuriser sa console avant GTA 6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253621-cette-promotion-sur-la-xbox-series-x-est-le-meilleur-moyen-de-securiser-sa-console-avant-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-05-15T09:24:10+00:00",
+          "summary": "[Deal du jour] Si vous souhaitez arpenter les rues de Vice City en novembre prochain, le passage obligatoire avant de pouvoir lancer le jeu sera la console. Mais voilà, alors que les prix gonflent, Amazon brade la Xbox Series X, l’une des meilleures consoles pour accueillir le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f150261e0302",
+          "title": "« Le plus important changement de l’histoire de la saga » : Blizzard a décalé ce PNJ de Diablo 4 de trois cm, et ça change tout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253639-le-plus-important-changement-de-lhistoire-de-la-saga-blizzard-a-decale-ce-pnj-de-diablo-4-de-trois-cm-et-ca-change-tout.html",
+          "category": "ia",
+          "published_at": "2026-05-15T09:19:17+00:00",
+          "summary": "Pour mettre fin au cauchemar des clics accidentels dans la nouvelle ville de Temis, Blizzard a trouvé une solution : décaler le forgeron de quelques centimètres. Un micro-ajustement salvateur qui ravit les joueurs de Diablo 4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dc41d51ef86",
+          "title": "Netflix n’a jamais autant aimé la publicité",
+          "source": "Next INpact",
+          "url": "https://next.ink/238103/netflix-na-jamais-autant-aime-la-publicite/",
+          "category": "ia",
+          "published_at": "2026-05-15T09:15:00+00:00",
+          "summary": "Après avoir longtemps juré que la publicité n’aurait jamais sa place sur son service, Netflix vend toujours plus de temps de cerveau disponibles aux annonceurs. La pub va s&#8217;incruster encore davantage sur la plateforme. Qu&#8217;il parait loin, le temps où Reed Hastings,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ca049ec3303",
+          "title": "« Nous n’avons pas besoin d’une Golf électrique » : le patron de Volkswagen trouve sa gamme actuelle suffisante",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2253535-nous-navons-pas-besoin-dune-golf-electrique-le-patron-de-volkswagen-trouve-sa-gamme-actuelle-suffisante.html",
+          "category": "ia",
+          "published_at": "2026-05-15T09:05:33+00:00",
+          "summary": "Le patron de Volkswagen l'a confirmé, la Golf 100 % électrique n'arrivera pas avant la fin de la décennie. La gamme actuelle serait déjà largement suffisante.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db0edf67b0c8",
+          "title": "Marvel en crise : la décision radicale pour sauver le prochain Spider-Man",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253517-spider-man-brand-new-day-tom-holland-abandonne-les-fonds-verts-pour-sauver-le-mcu.html",
+          "category": "justice",
+          "published_at": "2026-05-15T09:05:00+00:00",
+          "summary": "À l'approche de la sortie de&nbsp;Spider-Man : Brand New Day, Marvel et Sony abattent une carte inattendue : celle de l'authenticité.&nbsp;Alors que le studio traverse une crise sans précédent suite au démantèlement quasi total de son département d’effets visuels, la promotion…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6deed5f87d2c",
+          "title": "Pourquoi votre catalogue Netflix pourrait bientôt être envahi de films IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253523-pourquoi-votre-catalogue-netflix-pourrait-bientot-etre-envahi-de-films-ia.html",
+          "category": "ia",
+          "published_at": "2026-05-15T08:35:05+00:00",
+          "summary": "Selon un article publié par The Verge le 14 mai 2026, Netflix travaillerait sur un nouveau studio interne baptisé INKubator, dédié à la création de contenus animés courts à l’aide de l’IA générative. Un projet encore discret, mais qui illustre l’intérêt croissant des plateformes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24414ad6b165",
+          "title": "Énergie : les datacenters prendront-ils la vague houlomotrice ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/237501/energie-les-datacenters-prendront-ils-la-vague-houlomotrice/",
+          "category": "ia",
+          "published_at": "2026-05-15T08:33:00+00:00",
+          "summary": "La récente participation de Peter Thiel au tour de table de la startup spécialisée Panthalassa relance l&#8217;intérêt autour de l&#8217;énergie houlomotrice pour alimenter des datacenters. Si l&#8217;idée d&#8217;exploiter cette nouvelle énergie renouvelable se révèle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1d448fa065e",
+          "title": "« Aucune certitude » : Altice jette un froid sur la vente de SFR à Orange, Free et Bouygues",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253531-aucune-certitude-altice-jette-un-froid-sur-la-vente-de-sfr-a-orange-free-et-bouygues.html",
+          "category": "ia",
+          "published_at": "2026-05-15T08:21:09+00:00",
+          "summary": "Racheter un opérateur télécoms de tout premier plan ne se fait pas en un claquement de doigts. Alors que les négociations autour du rachat de SFR devaient se terminer aujourd’hui, le jeu des négociations va se poursuivre pendant quelques semaines.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "974d678009b0",
+          "title": "Xpeng veut étendre sa production en Europe, mais les usines de Volkswagen sont « un peu trop vieilles » pour lui",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2253563-xpeng-veut-etendre-sa-production-en-europe-mais-les-usines-de-volkswagen-sont-un-peu-trop-vieilles-pour-lui.html",
+          "category": "ia",
+          "published_at": "2026-05-15T08:16:05+00:00",
+          "summary": "Xpeng a besoin de passer à la vitesse supérieure pour la production de ses véhicules en Europe afin d'éviter que ses ventes ne plafonnent. Si le constructeur discute avec son partenaire Volkswagen pour racheter une usine, il n'hésite pas à pointer du doigt la vétusté des outils…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1510b8af192c",
+          "title": "Spotify scraps Premium Lite tier for India, scales back Standard plan prices",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/15/spotify-scraps-premium-lite-tier-for-india-scales-back-standard-plan-prices/",
+          "category": "musique",
+          "published_at": "2026-05-15T08:15:59+00:00",
+          "summary": "Spotify has removed the Premium Lite tier from its subscriptions offerings in India. Premium Lite, which was priced at Rs139 (approx. $1.45) per month and got subscribers ad-free listening with [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e19b008bc84",
+          "title": "Artémis III : la NASA juge qu’un journaliste a « mal interprété » ses propos, les enregistrements montrent l’inverse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2253515-artemis-iii-la-nasa-juge-quun-journaliste-a-mal-interprete-ses-propos-les-enregistrements-montrent-linverse.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-15T08:04:42+00:00",
+          "summary": "En démentant le report de la mission Artémis III à fin 2027, le patron de la NASA a tenté un rétropédalage. Pour justifier la confusion, Jared Isaacman a pointé du doigt la mauvaise interprétation d'un journaliste… avant que l'enregistrement de ses propres déclarations ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "69732e1015c3",
+          "title": "Subnautica 2 bat déjà un record pour l’année 2026 et fait mieux que Resident Evil Requiem",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253501-subnautica-2-bat-deja-un-record-pour-lannee-2026-et-fait-mieux-que-resident-evil-requiem.html",
+          "category": "ia",
+          "published_at": "2026-05-15T07:53:08+00:00",
+          "summary": "Subnautica 2 vient à peine de sortir en accès anticipé, débuté ce 14 mai 2026, qu’il est déjà devenu l’un des jeux les plus joués de 2026. Des centaines de milliers de fans se sont mouillés la nuque et ont plongé pour de bon dans la nouvelle proposition du studio Unknown Worlds.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec4506dfc5ef",
+          "title": "Ella Langley’s ‘Choosin’ Texas’ Rides to No. 1 on ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-no-1-aria-chart-1236248885/",
+          "category": "ia",
+          "published_at": "2026-05-15T07:35:44+00:00",
+          "summary": "Ella Langley’s “Choosin’ Texas” which ascends to the summit some six months after its release.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e29be9edd1b3",
+          "title": "Berlin et la Dame à l’hermine : le nouveau casse du créateur de La Casa de Papel est noyé sous le soap",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253015-berlin-et-la-dame-a-lhermine-le-nouveau-casse-du-createur-de-la-casa-de-papel-est-noye-sous-le-soap.html",
+          "category": "ia",
+          "published_at": "2026-05-15T07:30:00+00:00",
+          "summary": "Trois ans après une première saison à Paris, Berlin est de retour sur Netflix le 15 mai pour un nouveau casse à la hauteur de son amour pour l’art, celui de La Dame à l’hermine, un tableau mythique de Léonard de Vinci. Evidemment, rien ne va se passer comme prévu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa9d201330ac",
+          "title": "☕️ Meta promet des discussions « vraiment privées » avec son IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/meta-promet-des-discussions-vraiment-privees-avec-son-ia/",
+          "category": "ia",
+          "published_at": "2026-05-15T07:10:00+00:00",
+          "summary": "Meta inaugure les discussions incognito avec son assistant IA. Les conversations resteront privées entre Meta AI et l&#8217;interlocuteur humain, et elles seront supprimées sans tarder. Pour Instagram, discuter avec des humains ne mérite pas de protection renforcée : le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6c01d7ecb63",
+          "title": "Future, Revelations & Revenge: Everything That Happened in Drake’s ‘Iceman’ Episode 4 Livestream",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-episode-4-livestream-recap-1236248778/",
+          "category": "musique",
+          "published_at": "2026-05-15T06:48:30+00:00",
+          "summary": "In addition to Iceman, Drake dropped two more albums titled Habibti and Maid of Honour on Friday (May 15).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d17bae7673b",
+          "title": "GTA 6 : nouvelle date de sortie, lieux, personnages… tout savoir sur le jeu de Rockstar",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1542136-gta-vi-ce-que-lon-sait-sur-le-prochain-jeu-de-rockstar-games.html",
+          "category": "justice",
+          "published_at": "2026-05-15T06:30:44+00:00",
+          "summary": "Dure nouvelle pour les fans de GTA 6. En novembre, Rockstar Games a pris la décision de repousser la sortie de Grand Theft Auto 6 au 19 novembre 2026. C'est la deuxième fois que le studio repousse GTA 6 (la première fois, c'était un décalage au 26 mai 2026). Et cette fois, pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "853a143db1da",
+          "title": "AMD Ryzen 7 9850X3D et FSR Redstone : le duo gagnant pour jouer à Crimson Desert en Ultra ? [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2250731-amd-ryzen-7-9850x3d-et-fsr-redstone-le-duo-gagnant-pour-jouer-a-crimson-desert-en-ultra.html",
+          "category": "ia",
+          "published_at": "2026-05-15T06:29:30+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Materiel.net\n\nLes configurations de PC gamer « Full AMD » sont-elles devenues le nouveau standard du gaming haut de gamme ? La question est plus que jamais d’actualité et nous avons décidé de la mettre à l’épreuve en passant au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fc44c357605",
+          "title": "Android : Google, RSF et Amnesty ajoutent une option pour tracer les logiciels espions",
+          "source": "Next INpact",
+          "url": "https://next.ink/237961/android-google-rsf-et-amnesty-ajoutent-une-option-pour-tracer-les-logiciels-espions/",
+          "category": "ia",
+          "published_at": "2026-05-15T06:09:00+00:00",
+          "summary": "Google vient d&#8217;annoncer plusieurs nouveautés concernant la protection des utilisateurs. En coopération avec les deux ONG Reporters Sans Frontières et Amnesty International, l&#8217;entreprise a notamment mis en place un système de logs (optionnel) permettant de tracer les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e6e1df818f6",
+          "title": "Gracie Abrams, Drake, Tove Lo & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/gracie-abrams-drake-new-music-friday-guide-1236246816/",
+          "category": "musique",
+          "published_at": "2026-05-15T04:40:15+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1622d9561e4a",
+          "title": "Madonna & Peggy Gou Release ‘I Feel So Free’ Remix: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madonna-peggy-gou-i-feel-so-free-remix-confessions-ii-1236248719/",
+          "category": "ia",
+          "published_at": "2026-05-15T04:05:00+00:00",
+          "summary": "The release is the first official remix from Madonna's Confessions II era.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9e7e7bc2a10",
+          "title": "Drake Returns With Three New Albums as ‘Iceman,’  ‘Maid of Honour’ & ‘Habibti’ Arrive: Stream Them Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-album-stream-1236248614/",
+          "category": "musique",
+          "published_at": "2026-05-15T04:01:13+00:00",
+          "summary": "Freeze the world.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f94596a48d65",
+          "title": "Bono & The Edge Join Claudia Sheinbaum at Street Child World Cup Event: ‘My President’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bono-the-edge-mexico-president-street-child-world-cup-event-1236248785/",
+          "category": "ia",
+          "published_at": "2026-05-15T03:43:51+00:00",
+          "summary": "The U2 members and the Mexican leader surprised participants in the competition, which is focused on social inclusion and children's rights.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d59c8bcc2a0",
+          "title": "Anastacia Gets Down to Funny Business For Australian Comedy Show ‘Urzila’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/anastacia-sketch-australian-abc-comedy-show-urzila-1236248794/",
+          "category": "ia",
+          "published_at": "2026-05-15T03:40:00+00:00",
+          "summary": "The U.S. singer and songwriter makes an hilarious cameo in the new Australian comedy series Urzila.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-14",
       "articles": [
+        {
+          "id": "b4dc64bedc19",
+          "title": "T.J. Martell Foundation to honor Red Light Management founder Coran Capshaw with Lifetime Music Industry Award",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/t-j-martell-foundation-to-honor-red-light-management-founder-coran-capshaw-with-lifetime-music-industry-award/",
+          "category": "musique",
+          "published_at": "2026-05-14T21:38:06+00:00",
+          "summary": "Capshaw has built Red Light into what the company says is the world's largest independent artist management firm, with a roster that includes Dave Matthews Band, Phish, Chris Stapleton, and The Strokes.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "413715e64c54",
+          "title": "What ‘blue dot fever’? Live Nation CFO says ‘There is absolutely no data that supports any issues’ with ticket sales.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/what-blue-dot-fever-live-nation-cfo-says-there-is-absolutely-no-data-that-supports-any-issues-with-ticket-sales/",
+          "category": "musique",
+          "published_at": "2026-05-14T21:20:16+00:00",
+          "summary": "Live Nation‘s President &#038; CFO spoke at MoffettNathanson’s investor conference on Thursday\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19a73a942820",
+          "title": "Primary Wave strikes partnership with Pete Townshend for ‘future creative endeavors’ including use of his name, image, and likeness rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/primary-wave-strikes-partnership-with-pete-townshend-for-future-creative-endeavors-including-exploitation-of-his-name-image-and-likeness-rights/",
+          "category": "musique",
+          "published_at": "2026-05-14T17:40:51+00:00",
+          "summary": "Primary Wave Music partners with the co-founder and principal songwriter of legendary British rock band The Who\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e74c20a9b43",
+          "title": "Managers of Grammy winners Justice and Gesaffelstein back music biz masters targeting emerging markets",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/managers-of-grammy-winners-justice-and-gesaffelstein-back-music-biz-masters-targeting-emerging-markets/",
+          "category": "musique",
+          "published_at": "2026-05-14T17:39:50+00:00",
+          "summary": "The program's strategic advisory board includes several senior executives from the French music business\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e4369b80a57",
+          "title": "Hybe India partners with Snapchat for girl group hunt’s online auditions",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/14/hybe-india-partners-with-snapchat-for-girl-group-hunts-online-auditions/",
+          "category": "musique",
+          "published_at": "2026-05-14T17:00:12+00:00",
+          "summary": "When Hybe revealed the names of the brands it had got on board for its auditions to put together a girl group from within the country, it indicated that rather [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70b2077b00d2",
+          "title": "Taylor Swift’s 1989 and Beyoncé’s Single Ladies among 25 recordings inducted into Library of Congress National Recording Registry",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swifts-1989-and-beyonces-single-ladies-among-25-recordings-inducted-into-library-of-congress-national-recording-registry/",
+          "category": "musique",
+          "published_at": "2026-05-14T16:50:17+00:00",
+          "summary": "Other inductees include The Go-Go's' debut album Beauty and the Beat, Weezer's self-titled Blue Album, Chaka Khan's I Feel for You and others\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6bcb1a49ffa6",
+          "title": "Will this BTS tide finally lift all K-Pop boats?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/will-this-bts-tide-finally-lift-all-k-pop-boats/",
+          "category": "musique",
+          "published_at": "2026-05-14T16:22:38+00:00",
+          "summary": "The following op/ed comes from author and music economist Will Page, and Jeongbeom ‘JB’ Kim, Chief Data Officer at the Korean-based KreatorsNetwork\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19f871c65c04",
+          "title": "Tencent Music is quietly building a live music empire. Concerts could become the streaming giant’s ultimate differentiator in the age of AI.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tencent-music-is-quietly-building-a-live-music-empire-concerts-could-become-the-streaming-giants-ultimate-differentiator-in-the-age-of-ai/",
+          "category": "musique",
+          "published_at": "2026-05-14T15:03:47+00:00",
+          "summary": "TME's non-subscription music services revenue, encompassing live concerts, advertising, and merchandise, jumped 28.0% YoY to RMB 1.94 billion (USD $282 million) in Q1\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "adcde60c7d40",
+          "title": "Je me suis encore fait pirater mon compte PlayStation (et il y a eu un rebondissement inattendu)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2253449-je-me-suis-encore-fait-pirater-mon-compte-playstation-et-il-y-a-eu-un-rebondissement-inattendu.html",
+          "category": "ia",
+          "published_at": "2026-05-14T14:50:48+00:00",
+          "summary": "Cinq mois après un piratage qui avait fait le tour du monde en révélant une faille de sécurité importante dans le service-client de Sony, j'ai eu la mauvaise surprise de me réveiller mercredi matin avec à nouveau le même mail : « Votre ID de connexion a été mis à jour ».…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a68d5dcb4ba",
+          "title": "TikTok now lets US users book hotels and attractions in-app with ‘TikTok GO’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktok-now-lets-us-users-book-hotels-and-attractions-in-app-with-tiktok-go/",
+          "category": "ia",
+          "published_at": "2026-05-14T14:42:39+00:00",
+          "summary": "TikTok has partnered with Booking.com, Expedia, Viator, Tiqets, Trip.com and GetYourGuide to launch TikTok GO. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "faaf75f21f68",
+          "title": "Netflix, AEG Presents team up to launch ‘KPop Demon Hunters’ global concert tour",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/netflix-aeg-presents-team-up-to-launch-kpop-demon-hunters-global-concert-tour/",
+          "category": "musique",
+          "published_at": "2026-05-14T13:45:30+00:00",
+          "summary": "Amy Reinhard, Netflix’s president of ad sales, said the tour is planned for next year.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79c6c8d7ee8f",
+          "title": "Coca-Cola denies Johnny Cash ‘sound-alike’ claim, disputes infringement in estate lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/coca-cola-denies-johnny-cash-sound-alike-claim-disputes-infringement-in-estate-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-05-14T13:35:48+00:00",
+          "summary": "The company acknowledged that the ad contained “a male singing voice,\" but denied that it was a \"sound-alike singer.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ca1a041ef7d",
+          "title": "Mistral AI dément le piratage de son code source : « les attaquants n’ont pas accédé à nos données »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2253341-mistral-ai-pirate-un-hacker-met-en-vente-5-go-de-code-source-et-450-depots-internes-pour-25-000-dollars.html",
+          "category": "ia",
+          "published_at": "2026-05-14T13:08:00+00:00",
+          "summary": "Contacté par Numerama, Mistral AI dément le piratage massif de 5 Go de code source revendiqué sur un forum cybercriminel. L'entreprise française reconnaît cependant qu'un de ses systèmes de gestion de code a été temporairement compromis le 12 mai, dans le cadre de l'attaque…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cf6e6866a40",
+          "title": "Unis contre l’Europe : Apple vole au secours de Google et dénonce un excès de régulation sur l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253423-unis-contre-leurope-apple-vole-au-secours-de-google-et-denonce-un-exces-de-regulation-sur-lia.html",
+          "category": "ia",
+          "published_at": "2026-05-14T12:48:15+00:00",
+          "summary": "Apple se joint à Google pour critiquer les mesures préliminaires de la Commission européenne qui veut forcer Android à s'ouvrir aux IA concurrentes de Gemini. Le créateur de l'iPhone, pourtant rival historique de Google, dénonce un texte qui ferait courir « de graves risques » à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2cbb7f488e89",
+          "title": "Snap says 31% of 13-15 year-olds are using AI to be creative",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/14/snap-says-31-of-13-15-year-olds-are-using-ai-to-be-creative/",
+          "category": "ia",
+          "published_at": "2026-05-14T12:35:00+00:00",
+          "summary": "Snap has published its latest piece of consumer research, and as ever, a lot of it is geared towards persuading brands that Snapchat is a brilliant app where they should absolutely be spending lots more money on ads please thank you. However, there are some interesting findings…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af36d12ee922",
+          "title": "Two UMG partnerships focus on mental health for musicians",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/14/two-umg-partnerships-focus-on-mental-health-for-musicians/",
+          "category": "musique",
+          "published_at": "2026-05-14T12:31:00+00:00",
+          "summary": "Managers tend to be at the sharp end of any mental-health issues for their artists, but over recent years labels have been facing up to their responsibilities in this regard too – often through partnerships with external organisations. Universal Music Group’s latest announcement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be2a3f8e0b3c",
+          "title": "KPop Demon Hunters is launching a global world tour with AEG",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/14/kpop-demon-hunters-is-launching-a-global-world-tour-with-aeg/",
+          "category": "musique",
+          "published_at": "2026-05-14T12:30:00+00:00",
+          "summary": "They’re going up, up, up&#8230; onto stages around the world. Yes, the inevitable is happening: a global KPop Demon Hunters tour, capitalising on the barnstorming success of Netflix’s animated film – and its soundtrack. Details? There aren’t many yet in terms of when and where…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0164763fa069",
+          "title": "Spotify expands ‘managed accounts’ for under-13s to free tier",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/14/spotify-expands-managed-accounts-for-under-13s-to-free-tier/",
+          "category": "musique",
+          "published_at": "2026-05-14T12:30:00+00:00",
+          "summary": "‘Managed accounts’ have been part of Spotify’s family-plan subscription for a couple of years now: designed to give parents and guardians more control over the accounts of their children. Now the feature is extending to the streaming service’s free tier, starting in a few…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c32c592ce28f",
+          "title": "UK ticket-touting ban will only be draft legislation for now",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/14/uk-ticket-touting-ban-will-only-be-draft-legislation-for-now/",
+          "category": "musique",
+          "published_at": "2026-05-14T12:30:00+00:00",
+          "summary": "Has the UK government shelved its plans to ban the resale of tickets above face-value? No, but it’s also not made the legislation as much of a priority as the music industry expected. Yesterday’s King’s Speech saw the announcement of the next wave of bills planned by the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14cf86c8e2f8",
+          "title": "Forza Horizon 6 est un épisode aussi flemmard qu’extraordinaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253137-forza-horizon-6-est-un-episode-aussi-flemmard-quextraordinaire.html",
+          "category": "ia",
+          "published_at": "2026-05-14T12:00:00+00:00",
+          "summary": "C'est peu dire que cette vrombissante virée au Japon s'est faite attendre ! Après l'avoir fantasmée pendant des années, on s'est mis à baver à la vue des premières images il y a quelques mois. Maintenant qu'on a retourné tout ce que Forza Horizon 6 avait de contenu à proposer,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0cc77836cd1a",
+          "title": "[Rediff] #Flock : Chic, c’est l’Ascension !",
+          "source": "Next INpact",
+          "url": "https://next.ink/136987/flock-chic-cest-lascension/",
+          "category": "ia",
+          "published_at": "2026-05-14T11:37:07+00:00",
+          "summary": "[ Article initialement publié le 11 mai 2024, mais toujours d’actualité ] Hola, belle âme perdue qui est venue cliquer ici alors que tout pousse à faire autre chose que lire sur une quelconque dalle vitrée : Bienvenue ! Tu es ici pour t&#8217;élever, j&#8217;imagine. Tu as…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "2dc750fa202e",
           "title": "After KATSEYE, HYBE and Geffen unveil second global girl group, SAINT SATINE",
@@ -17,6 +522,16 @@
         {
           "id": "93579f15b32b",
           "title": "Bonne nouvelle pour les fans de Zelda qui attendant le film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253397-bonne-nouvelle-pour-les-fans-de-zelda-qui-attendant-le-film.html",
+          "category": "musique",
+          "published_at": "2026-05-14T10:30:00+00:00",
+          "summary": "Le 14 mai 2026, Shigeru Miyamoto a annoncé que le film live-action « The Legend of Zelda » sortirait finalement une semaine plus tôt que prévu, avec une nouvelle date fixée à fin avril 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "890ec3e5b907",
+          "title": "Bonne nouvelle pour les fans de Zelda qui attendent le film",
           "source": "Numerama",
           "url": "https://www.numerama.com/pop-culture/2253397-bonne-nouvelle-pour-les-fans-de-zelda-qui-attendant-le-film.html",
           "category": "musique",
@@ -47,6 +562,16 @@
         {
           "id": "564c7b69417b",
           "title": "Claude a réussi un exploit : récupérer 5 Bitcoin bloqués depuis 11 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253319-claude-a-reussi-un-exploit-recuperer-5-bitcoin-bloques-depuis-11-ans.html",
+          "category": "ia",
+          "published_at": "2026-05-14T08:26:10+00:00",
+          "summary": "Il y a 11 ans, un utilisateur avait acheté 5 bitcoins pour 1 000 dollars. Des cryptos aujourd'hui valorisées autour des 400 000 dollars… auxquels il n'avait plus accès. Après plusieurs années à tenter de récupérer son magot, ce dernier prétend avoir réussi grâce à l’IA Claude et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "667531ee951a",
+          "title": "Claude a réussi un exploit : récupérer 5 bitcoins bloqués depuis 11 ans",
           "source": "Numerama",
           "url": "https://www.numerama.com/tech/2253319-claude-a-reussi-un-exploit-recuperer-5-bitcoin-bloques-depuis-11-ans.html",
           "category": "ia",
