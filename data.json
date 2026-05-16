@@ -1,9 +1,414 @@
 {
-  "generated_at": "2026-05-15T10:37:52.884563+00:00",
+  "generated_at": "2026-05-16T09:51:44.170791+00:00",
   "days": [
+    {
+      "date": "2026-05-16",
+      "articles": [
+        {
+          "id": "f500c4aa5b32",
+          "title": "Une énigme de Diablo 4 a été résolue et un portail secret a été découvert",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2254371-une-enigme-de-diablo-4-a-ete-resolue-et-un-portail-secret-a-ete-decouvert.html",
+          "category": "ia",
+          "published_at": "2026-05-16T08:52:30+00:00",
+          "summary": "Un nouveau secret vient d'être mis en lumière dans Diablo IV: Lord of Hatred. En respectant une chorégraphie très précise dans le mode Echoing Hatred, il est possible d'obtenir un portail de ville exclusif. On vous explique comment l'ajouter à votre collection.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20c65ad6d95b",
+          "title": "En haut, à gauche ou à droite, plus petite : Windows 11 fait sauter les limites de sa barre des tâches",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2254321-en-haut-a-gauche-ou-a-droite-plus-petite-windows-11-fait-sauter-les-limites-de-sa-barre-des-taches.html",
+          "category": "ia",
+          "published_at": "2026-05-16T07:51:42+00:00",
+          "summary": "Déplacer la barre des tâches en haut ou sur les côtés de l'écran sera bientôt possible sur Windows 11. Microsoft expérimente actuellement de nouvelles options pour vous redonner le contrôle sur votre interface et votre menu Démarrer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "646f4d42f363",
+          "title": "Expendables : le spin-off 100% féminin revient d’entre les morts",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2254177-expendables-le-spin-off-100-feminin-revient-dentre-les-morts.html",
+          "category": "ia",
+          "published_at": "2026-05-16T06:01:00+00:00",
+          "summary": "C’est un vieux serpent de mer d’Hollywood. Annoncé, annulé, puis moqué, le projet The Expendabelles vient d'être relancé au Festival de Cannes. Eclectic Pictures et Hollywood Ventures Group s'associent pour offrir une version féminine à la franchise musclée de Sylvester…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e813f2a6e31",
+          "title": "ACM Awards 2026 Predictions: Who Will Take Home Top Honors?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/acm-awards-2026-predictions/",
+          "category": "musique",
+          "published_at": "2026-05-16T00:48:43+00:00",
+          "summary": "Billboard offers predictions on which artists will add new awards wins to their career accomplishments.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abc1eec620d5",
+          "title": "Drake Is Back With Three New Albums: ‘Iceman,’ ‘Maid of Honour’ & ‘Habibti’ | Billboard News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/drake-is-back-with-three-new-albums-iceman-maid-of-honour-and-habibti/",
+          "category": "musique",
+          "published_at": "2026-05-16T00:44:05+00:00",
+          "summary": "Drake returns by releasing three new albums &#8216;Iceman,&#8217; &#8216;Maid of Honour&#8217; and &#8216;Habibti.&#8217; There are references to BTS and shots at DJ Khaled and LeBron James, and he reignites his feud with Kendrick Lamar through a new collaboration with Future on…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f20d51ed9e92",
+          "title": "Drake Sets 2026 Spotify Record for Most-Streamed Artist, Album & Song in a Single Day",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/drake-iceman-2026-spotify-record-single-day-album-streams-1236249717/",
+          "category": "musique",
+          "published_at": "2026-05-16T00:14:15+00:00",
+          "summary": "His Iceman album &#38; song \"Make Them Cry\" set the records.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-15",
       "articles": [
+        {
+          "id": "c87763c9f010",
+          "title": "DISH is the TV Service for Everyone: Here’s How to Sign Up Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/dish-satellite-tv-signup-buy-online-1236244553/",
+          "category": "ia",
+          "published_at": "2026-05-15T22:39:37+00:00",
+          "summary": "The TV service promises reliable TV at a stable price with DISH’s 2-Year Price Guarantee.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aaa1778aa72b",
+          "title": "Watch Hilary Duff Sing 10-Year-Old Fan-Favorite Deep Cut for the First Time Ever",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/hilary-duff-performs-breathe-in-breathe-out-first-time-ever-1236249650/",
+          "category": "ia",
+          "published_at": "2026-05-15T22:04:44+00:00",
+          "summary": "The singer said that performing her older songs feels \"more comfortable\" than the new ones.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5373d61ee9e5",
+          "title": "In Canada: Spotify Raises Premium Prices, Marking First Major Canadian Hike in Nearly 2 Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/spotify-raises-premium-subscription-prices-canada-news/",
+          "category": "musique",
+          "published_at": "2026-05-15T21:22:26+00:00",
+          "summary": "Also: FACTOR's Meg Symsyk is Billboard Canada's Executive of the Week, and how Toronto celebrated Drake's Iceman release.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46f5a4b6f79b",
+          "title": "Carter Faith’s Cherry Valley Gambles Pay Off With A Surprise ACM Visit To Las Vegas",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/carter-faiths-surprise-acm-visit-to-las-vegas-1236249591/",
+          "category": "ia",
+          "published_at": "2026-05-15T21:15:36+00:00",
+          "summary": "In this week's lead story for Country Update, Carter Faith's Cherry Valley makes a splash at the ACM's.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1384ac6a2087",
+          "title": "Sech’s ‘SECHO GANG’ Album & More: Vote for the Best New Latin Music Release This Week",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/best-new-latin-music-release-poll-sech-becky-g-maluma-1236249006/",
+          "category": "musique",
+          "published_at": "2026-05-15T21:15:04+00:00",
+          "summary": "Which new Latin music release is your favorite? Vote below!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57bb1c78c6ea",
+          "title": "Barry Weiss’s RECORDS promotes Andrew Saltman to SVP of Artist Development, Sara Gil to General Manager",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/barry-weisss-records-promotes-andrew-saltman-to-svp-of-artist-development-sara-gil-to-general-manager/",
+          "category": "musique",
+          "published_at": "2026-05-15T17:33:44+00:00",
+          "summary": "The pair will lead label operations across RECORDS and its country imprint RECORDS Nashville\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7cac5293e63a",
+          "title": "Cette IA vous dit quand vous faites un mauvais choix, et vous pouvez l’expérimenter dès à présent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2254097-cette-ia-vous-dit-quand-vous-faites-un-mauvais-choix-et-vous-pouvez-lexperimenter-des-a-present.html",
+          "category": "ia",
+          "published_at": "2026-05-15T16:29:00+00:00",
+          "summary": "Et si l’IA pouvait surtout nous aider… à mieux réfléchir ? Des chercheurs de Cornell University ont conçu un outil baptisé « Interactive Explainable Ranking » (IER), pensé pour structurer les prises de décision plutôt que décider à notre place. De quoi vous indiquer si vous…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0fa2cc64ad53",
+          "title": "From Sony Music Publishing’s $4 billion catalog deal to Live Nation’s ‘blue dot fever’ rebuttal… it’s MBW’s weekly round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-sony-music-publishings-4-billion-catalog-deal-to-live-nations-blue-dot-fever-rebuttal-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-05-15T16:10:27+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cc9fb87070e",
+          "title": "Moins de 28 000 euros pour 482 km d’autonomie : la Leapmotor B05 veut fracasser la concurrence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2254051-moins-de-28-000-euros-pour-482-km-dautonomie-la-leapmotor-b05-veut-fracasser-la-concurrence.html",
+          "category": "ia",
+          "published_at": "2026-05-15T15:31:00+00:00",
+          "summary": "La B05, première berline compacte de Leapmotor, est disponible à la commande en France. La gamme se décline en deux finitions et trois combinaisons batterie/prix, avec une autonomie maximale annoncée de 482 km WLTP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d15e3820801",
+          "title": "‘The next global genre will likely start in someone’s bedroom – and that bedroom might be in Lagos, Mumbai or São Paulo.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-next-global-genre-will-likely-start-in-someones-bedroom-and-that-bedroom-might-be-in-lagos-mumbai-or-sao-paulo/",
+          "category": "ia",
+          "published_at": "2026-05-15T15:06:02+00:00",
+          "summary": "MBW's Trailblazers series meets Constantin Koehncke, CEO of Image-Line, the Belgian company behind FL Studio\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad0a14f4e8dd",
+          "title": "☕️ Revente de données volées : un jeune de 19 ans incarcéré de retour de Thaïlande",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/revente-de-donnees-volees-un-jeune-de-19-ans-incarcere-de-retour-de-thailande/",
+          "category": "ia",
+          "published_at": "2026-05-15T15:03:57+00:00",
+          "summary": "ZDNet a appris du parquet de Paris qu&#8217;un jeune homme de 19 ans, de retour de vacances en Thaïlande, a été mis en examen et placé en détention provisoire ce jeudi 14 mai. Il est soupçonné d&#8217;être le créateur de « C3N Backup », un portail qui usurpait le nom et le logo…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b910954225e",
+          "title": "Russ honored with NMPA Gold & Platinum Recognition celebrating 26 certified songs",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/russ-honored-with-nmpa-gold-platinum-recognition-celebrating-26-certified-songs/",
+          "category": "musique",
+          "published_at": "2026-05-15T15:00:14+00:00",
+          "summary": "The plaque was presented by NMPA President &#038; CEO David Israelite alongside Omar Grant, Senior Director of Creative at Sony Music Publishing\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21baca4d0994",
+          "title": "Coup de tonnerre chez Amazon : le MMO Le Seigneur des Anneaux définitivement enterré",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2254043-seigneur-des-anneaux-annulation-mmo.html",
+          "category": "ia",
+          "published_at": "2026-05-15T15:00:00+00:00",
+          "summary": "C’est une malédiction qui semble coller à la peau d’Amazon Games.&nbsp;Pour la deuxième fois en cinq ans, le géant de la tech jette l’éponge sur son ambitieux projet de MMO basé sur l’univers de Tolkien. Entre licenciements massifs, restructuration stratégique et rumeurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0acbd8ff4c69",
+          "title": "Personne n’a jamais fabriqué ce type de bouclier : Elon Musk pointe l’ultime obstacle pour la fusée géante Starship",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2254047-personne-na-jamais-fabrique-ce-type-de-bouclier-elon-musk-pointe-lultime-obstacle-pour-la-fusee-geante-starship.html",
+          "category": "ia",
+          "published_at": "2026-05-15T14:45:00+00:00",
+          "summary": "Si le Starship enchaîne les vols d'essai prometteurs, la fusée géante est loin d'être prête pour des lancements quotidiens. Elon Musk l'avoue lui-même : la conception d'un bouclier thermique réutilisable reste un immense saut dans l'inconnu pour SpaceX.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fe78653327c",
+          "title": "☕️ Le Royaume-Uni ouvre une enquête sur la position dominante de Microsoft",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/le-royaume-uni-ouvre-une-enquete-sur-la-position-dominante-de-microsoft/",
+          "category": "justice",
+          "published_at": "2026-05-15T14:37:39+00:00",
+          "summary": "L&#8217;Autorité de la concurrence et des marchés britannique (Competition and Markets Authority, CMA) a déclaré que son enquête viserait à déterminer si le regroupement de Windows, Word, Excel, Teams, Copilot et d&#8217;autres produits constituait une pratique…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d57a3400ba5b",
+          "title": "Vous vous souvenez de GoldenEye 007 sur N64 ? Son concepteur révèle pourquoi le jeu est si mémorable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253987-vous-vous-souvenez-de-goldeneye-007-sur-n64-son-concepteur-revele-pourquoi-le-jeu-est-si-memorable.html",
+          "category": "ia",
+          "published_at": "2026-05-15T14:30:00+00:00",
+          "summary": "Nul besoin de revenir une fois de plus sur les raisons du succès de GoldenEye 007 sur la Nintendo 64. Sorti en 1997 sur la console de Nintendo, le jeu reste un classique intemporel du FPS, et ce pour de nombreuses raisons. En voici une que son concepteur, David Doak, a récemment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c28343bfa7fd",
+          "title": "Codex arrive sur iOS et Android : l’app ChatGPT permet de superviser votre ordinateur à distance",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2254015-codex-arrive-sur-ios-et-android-lapp-chatgpt-permet-de-superviser-votre-ordinateur-a-distance.html",
+          "category": "ia",
+          "published_at": "2026-05-15T13:59:39+00:00",
+          "summary": "Le 14 mai 2026, OpenAI a annoncé l’arrivée de Codex sur l’application mobile de ChatGPT. L’agent d’IA, capable de coder et d’automatiser des tâches sur ordinateur, peut désormais être contrôlé à distance depuis un smartphone iOS ou Android, qui sert alors de télécommande pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97a8ae232e6f",
+          "title": "Bientôt des films générés par IA sur Netflix ? La plateforme se prépare",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253523-pourquoi-votre-catalogue-netflix-pourrait-bientot-etre-envahi-de-films-ia.html",
+          "category": "ia",
+          "published_at": "2026-05-15T13:30:00+00:00",
+          "summary": "Selon un article publié par The Verge le 14 mai 2026, Netflix travaillerait sur un nouveau studio interne baptisé INKubator, dédié à la création de contenus animés courts à l’aide de l’IA générative. Un projet encore discret, mais qui illustre l’intérêt croissant des plateformes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bde0be07ed16",
+          "title": "Cette balise bluetooth bien pratique de Xiaomi tombe en promo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253649-cette-balise-bluetooth-bien-pratique-de-xiaomi-tombe-en-promo.html",
+          "category": "ia",
+          "published_at": "2026-05-15T13:28:00+00:00",
+          "summary": "[Deal du jour] Xiaomi aussi propose des traceurs Bluetooth qui viennent concurrencer l'AirTag d’Apple, mais à un prix bien moins onéreux, surtout lorsqu'ils tombent en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c52c3139f11",
+          "title": "Meilleures enceintes Bluetooth portable : 5 modèles à acheter les yeux fermés en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1899652-quelles-sont-les-meilleures-enceintes-bluetooth-en-2025.html",
+          "category": "ia",
+          "published_at": "2026-05-15T13:00:00+00:00",
+          "summary": "Quelle est la meilleure enceinte Bluetooth portable du marché en 2026 ? De la petite enceinte nomade taillée pour l'extérieur au modèle plus sédentaire pour la maison, notre guide rassemble les deux mondes. Voici les 5 modèles incontournables à acheter les yeux fermés en 2026…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "49f71e3f09e2",
+          "title": "Le Seigneur des anneaux : Peter Jackson en lice pour adapter en film l’ultime grand roman de Tolkien ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253955-le-seigneur-des-anneaux-peter-jackson-en-lice-pour-adapter-en-film-lultime-grand-roman-de-tolkien.html",
+          "category": "ia",
+          "published_at": "2026-05-15T12:56:56+00:00",
+          "summary": "C’est l’annonce que plus aucun fan n’osait espérer.&nbsp;Alors qu’il recevait une Palme d’or d’honneur ce mardi 12 mai 2026 au Festival de Cannes, Peter Jackson a révélé être en négociations avancées avec le Tolkien Estate. L'objectif ? Libérer enfin les droits des œuvres «…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18d941e338e3",
+          "title": "French Montana tests SoundCloud’s ‘follower exclusive releases’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/15/french-montana-tests-soundclouds-follower-exclusive-releases/",
+          "category": "musique",
+          "published_at": "2026-05-15T12:46:00+00:00",
+          "summary": "French Montana has become the latest artist to drop a new track to his followers on SoundCloud ahead of its release on other streaming services. ‘Grimey’ is a song from his upcoming ‘Wave Gods 2: Cosmos Brothers’ album with Max B, and will go up on SoundCloud today (15 May) a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cff4652ed32d",
+          "title": "Zara Larsson and EsDeeKid go gaming in Roblox and Fortnite",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/15/zara-larsson-and-esdeekid-go-gaming-in-roblox-and-fortnite/",
+          "category": "musique",
+          "published_at": "2026-05-15T12:43:00+00:00",
+          "summary": "Zara Larsson was one of the first artists to enjoy success on Roblox, generating more than $1m of virtual-merch sales from her first activation there in 2021. Now she’s back. Zara Larsson’s Midnight Sun World is the latest virtual experience from Sony’s Immersive Music Studios…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b42b81d80c19",
+          "title": "Les contenus générés par IA devront être tatoués, sauf s’ils sont vérifiés par un humain",
+          "source": "Next INpact",
+          "url": "https://next.ink/237971/les-contenus-generes-par-ia-devront-etre-tatoues-sauf-sils-sont-verifies-par-un-humain/",
+          "category": "ia",
+          "published_at": "2026-05-15T12:42:00+00:00",
+          "summary": "L&#8217;article 50 de l&#8217;AI Act oblige les fournisseurs et exploitants de contenus (textes, images, sons, vidéos) synthétiques générés par IA à les marquer comme tels, de façon indélébile et « de manière claire et identifiable » au premier coup d&#8217;œil, afin de lutter…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb3d4ff96c38",
+          "title": "AI music-videos startup Sondo AI says it has 10m global users",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/15/ai-music-videos-startup-sondo-ai-says-it-has-10m-global-users/",
+          "category": "musique",
+          "published_at": "2026-05-15T12:39:00+00:00",
+          "summary": "We’re new to ‘AI music video generator’ Sondo AI, but it seems plenty of other people aren’t. The startups say that it has “surpassed 10 million global users” already. There’s another metric in its announcement that provides some context for that: its community has “generated…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b56111c7d39",
+          "title": "WMG and GMM Music to help Asian artists ‘Gliide’ to success",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/15/wmg-and-gmm-music-to-help-asian-artists-gliide-to-success/",
+          "category": "musique",
+          "published_at": "2026-05-15T12:31:00+00:00",
+          "summary": "Warner Music Group and Thailand’s GMM Music have been working together since 2024 on their GMM Global joint venture. Now the partnership is expanding with something called ‘Gliide’. Described as an “artist development platform” the new project aims to help Asian pop artists…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "868a97c02086",
+          "title": "Apple Music goes live from Las Vegas with new EDM series",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/15/apple-music-goes-live-from-las-vegas-with-new-edm-series/",
+          "category": "musique",
+          "published_at": "2026-05-15T12:31:00+00:00",
+          "summary": "Well, it’s starting in Las Vegas, but Apple Music’s ‘Club Live’ will be broadcasting from dancefloors and festivals around the world in the coming months too. It’s a new series for the service’s Apple Music Club radio station, kicking off today (15 May) with a livestream from…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c5b2c6f33ce",
+          "title": "☕️ Le Sovereign Tech Fund allemand investit plus d’un million d’euros dans KDE",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/le-sovereign-tech-fund-allemand-investit-plus-dun-million-deuros-dans-kde/",
+          "category": "ia",
+          "published_at": "2026-05-15T12:30:55+00:00",
+          "summary": "Le Sovereign Tech Fund allemand investit près de 1,3 million d&#8217;euros dans le développement des logiciels KDE. Cet investissement « servira à renforcer la fiabilité et la sécurité structurelles de l&#8217;infrastructure centrale de KDE, notamment Plasma, KDE Linux et les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0240d49c998a",
+          "title": "Voilà minute par minute ce que la fusée géante Starship va tenter à son prochain vol d’essai",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2253959-voila-minute-par-minute-ce-que-la-fusee-geante-starship-va-tenter-a-son-prochain-vol-dessai.html",
+          "category": "ia",
+          "published_at": "2026-05-15T12:21:03+00:00",
+          "summary": "Le 19 mai 2026, SpaceX lance une toute nouvelle génération de son duo Starship et Super Heavy. Entre rentrée atmosphérique sous haute tension, largage de charge utile et amerrissages en pleine mer : voilà le programme de ce douzième vol de test.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "287a3bb0205f",
+          "title": "Bonne nouvelle pour le Tesla Model Y, l’ADEME valide une version précise du SUV et débloque les livraisons",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2253767-bonne-nouvelle-pour-le-tesla-model-y-lademe-valide-une-version-precise-du-suv-et-debloque-les-livraisons.html",
+          "category": "ia",
+          "published_at": "2026-05-15T12:02:00+00:00",
+          "summary": "Tesla vient de recevoir la validation de l'ADEME en France pour le Model Y. Après être passé à la batterie aux cellules maison « 4680 » sur sa version Premium, l'éco-score du SUV électrique devait être réapprouvé. Les livraisons vont donc pouvoir reprendre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21f973478802",
+          "title": "Next-gen labels: new models, new ideas and, yes, some AI",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/15/next-gen-labels-new-models-new-ideas-and-yes-some-ai/",
+          "category": "musique",
+          "published_at": "2026-05-15T11:42:59+00:00",
+          "summary": "One of the main strands at our Music Ally NEXT conference this June is &#8216;next-gen labels&#8217;. Here are some notable recent examples.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53f2061eae3b",
+          "title": "LinkedIn et Cisco annoncent, eux aussi, le licenciement de 5 % de leurs employés",
+          "source": "Next INpact",
+          "url": "https://next.ink/238127/linkedin-et-cisco-annoncent-eux-aussi-le-licenciement-de-5-de-leurs-employes/",
+          "category": "ia",
+          "published_at": "2026-05-15T11:37:00+00:00",
+          "summary": "Les entreprises de la tech&#8217; états-uniennes ont d&#8217;ores et déjà licencié plus de 100 000 employés depuis le début de l&#8217;année. Cisco, qui avait déjà licencié 5 % de ses effectifs en 2025 et 7 % en 2024, vient par ailleurs d&#8217;annoncer un chiffre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "379df03ff852",
+          "title": "Viagogo wants UK government to rethink ticketing-reform plans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/15/viagogo-wants-uk-government-to-rethink-ticketing-reform-plans/",
+          "category": "ia",
+          "published_at": "2026-05-15T11:30:00+00:00",
+          "summary": "We reported yesterday on the disappointment within the UK’s music industry about the country’s planned crackdown on ticket touting being shunted into the long grass. Other opinions are available. Secondary-ticketing platform Viagogo is hoping that the delay will be an…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be3cf55c7b6f",
+          "title": "On a craqué pour l’ID. Polo GTI : l’étincelle qui manquait à l’électrique chez Volkswagen ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2253903-on-a-craque-pour-lid-polo-gti-letincelle-qui-manquait-a-lelectrique-chez-volkswagen.html",
+          "category": "ia",
+          "published_at": "2026-05-15T11:16:18+00:00",
+          "summary": "On a pu approcher l'ID. Polo GTI en studio et, entre sa bouille néo-rétro avec un peu plus de caractère et sa fiche technique qui pique la curiosité, la concurrence risque de devoir s’accrocher.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c1ea167e7a64",
           "title": "« Même pas un effort sincère » : OpenAI pourrait attaquer Apple à cause de l’intégration ratée de ChatGPT dans l’iPhone",
@@ -67,6 +472,16 @@
         {
           "id": "f150261e0302",
           "title": "« Le plus important changement de l’histoire de la saga » : Blizzard a décalé ce PNJ de Diablo 4 de trois cm, et ça change tout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2253639-le-plus-important-changement-de-lhistoire-de-la-saga-blizzard-a-decale-ce-pnj-de-diablo-4-de-trois-cm-et-ca-change-tout.html",
+          "category": "ia",
+          "published_at": "2026-05-15T09:19:17+00:00",
+          "summary": "Pour mettre fin au cauchemar des clics accidentels dans la nouvelle ville de Temis, Blizzard a trouvé une solution : décaler le forgeron de quelques centimètres. Un micro-ajustement salvateur qui ravit les joueurs de Diablo 4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfc335a4f6a2",
+          "title": "« Le plus important changement de l’histoire de la saga » : Blizzard a décalé ce PNJ de Diablo 4 de trois cm, et la vie des joueurs a changé",
           "source": "Numerama",
           "url": "https://www.numerama.com/pop-culture/2253639-le-plus-important-changement-de-lhistoire-de-la-saga-blizzard-a-decale-ce-pnj-de-diablo-4-de-trois-cm-et-ca-change-tout.html",
           "category": "ia",
