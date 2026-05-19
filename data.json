@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-05-18T11:53:40.182582+00:00",
+  "generated_at": "2026-05-19T11:32:41.565333+00:00",
   "days": [
+    {
+      "date": "2026-05-19",
+      "articles": [
+        {
+          "id": "4de9b7d3530a",
+          "title": "Protests slam labels’ AI deals: ‘Our music is not your training data’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/19/protests-slam-labels-ai-deals-our-music-is-not-your-training-data/",
+          "category": "musique",
+          "published_at": "2026-05-19T11:30:00+00:00",
+          "summary": "For music rightsholders, getting to the point where licensing deals can be signed with AI companies has been hard work. But the hardest work may be yet to come: convincing their artists and songwriters to opt in to those agreements. The latest pointer to some of the tensions in…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8802b935c57",
+          "title": "After raising $5M, Adobe-backed Tamber officially launches its AI music-making platform",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-raising-5m-adobe-backed-tamber-officially-launches-its-ai-music-making-platform/",
+          "category": "ia",
+          "published_at": "2026-05-19T11:29:22+00:00",
+          "summary": "The suite is powered by what Tamber calls “sonic intelligence” – a set of tools designed to work alongside artists.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41d8a7dba7b8",
+          "title": "Warner Music Korea strikes strategic global partnership with indie label and management firm FeelGHood Music to represent Korean star BIBI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-korea-strikes-strategic-global-partnership-with-management-firm-feelghood-music-to-represent-korean-star-bibi/",
+          "category": "musique",
+          "published_at": "2026-05-19T11:14:11+00:00",
+          "summary": "BIBI has surpassed one billion streams in the past 12 months and has over 4 million monthly listeners on Spotify.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5c3ca4605f3",
+          "title": "Smile, la mission européenne et chinoise qui part explorer les vents solaires",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2255677-smile-la-mission-europeenne-et-chinoise-qui-part-explorer-les-vents-solaires.html",
+          "category": "ia",
+          "published_at": "2026-05-19T11:02:00+00:00",
+          "summary": "La mission Smile a décollé dans la matinée du 19 mai depuis le Centre spatial guyanais de Kourou. Il s'agit d'un satellite, fruit d'une collaboration entre l'Europe et la Chine, qui doit récolter des informations sur les vents solaires, ces flux encore mal connus qui mettent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2a59c46440b",
+          "title": "Dyson baisse de 200 € sur son purificateur d’air qui rafraîchit en été",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2255589-dyson-baisse-de-200-e-sur-son-purificateur-dair-qui-rafraichit-en-ete.html",
+          "category": "ia",
+          "published_at": "2026-05-19T11:00:53+00:00",
+          "summary": "[Deal du jour] Le Dyson Purifier Cool PC2 De-Nox est un purificateur d'air mais également un ventilateur. Utile pour purifier une pièce et la rafraîchir, son prix en baisse de 200 € le rend encore plus intéressant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dca6ecc0f007",
+          "title": "La CNIL confirme un record de fuites de données en 2025 et promet plus de contrôles",
+          "source": "Next INpact",
+          "url": "https://next.ink/238330/la-cnil-confirme-un-record-de-fuites-de-donnees-en-2025-et-promet-plus-de-controles/",
+          "category": "institutionnel",
+          "published_at": "2026-05-19T10:56:36+00:00",
+          "summary": "Dans son rapport annuel, l&#8217;autorité française de protection des données constate un record de fuites de données en 2025 : 6 167 signalements lui ont été faits, une augmentation de 9,5 % en un an. La CNIL promet d&#8217;augmenter ses contrôles sur les manquements en matière…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ead9831a9ec2",
+          "title": "Xiaomi bat encore une fois un record sur le Nürburgring, cette fois avec un SUV",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2255619-xiaomi-bat-encore-une-fois-un-record-sur-le-nurburgring-cette-fois-avec-un-suv.html",
+          "category": "ia",
+          "published_at": "2026-05-19T10:50:00+00:00",
+          "summary": "Xiaomi prend la couronne du SUV le plus rapide du Nürburgring avec son nouveau YU7 GT. Le tour a été bouclé en 7:34.931, soit 2 secondes de moins que le tenant du titre, l'Audi RSQ8 Performance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63e34555bd1b",
+          "title": "« Le cinéma en salle ne mourra jamais » : Christopher Nolan ne croit pas à l’hégémonie totale du streaming",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255733-le-cinema-en-salle-ne-mourra-jamais-christopher-nolan-ne-croit-pas-a-lhegemonie-totale-du-streaming.html",
+          "category": "ia",
+          "published_at": "2026-05-19T10:08:20+00:00",
+          "summary": "Le roi du box-office a tranché.&nbsp;Alors que l'industrie ne jure que par les algorithmes et le visionnage à la maison via le streaming, Christopher Nolan vient de taper du poing sur la table au micro de la célèbre émission&nbsp;60 Minutes. Pour le réalisateur d'Oppenheimer, la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "440641ef36ce",
+          "title": "Windows 11 : une faille permet de neutraliser BitLocker à partir d’une clé USB",
+          "source": "Next INpact",
+          "url": "https://next.ink/238328/windows-11-une-faille-permet-de-neutraliser-bitlocker-a-partir-dune-cle-usb/",
+          "category": "ia",
+          "published_at": "2026-05-19T09:38:20+00:00",
+          "summary": "Un chercheur indépendant a publié la preuve de concept d&#8217;une faille qui permet de lire le contenu d&#8217;un disque dur chiffré avec BitLocker à partir d&#8217;une simple clé USB. La vulnérabilité semble exploiter la façon dont l&#8217;environnement de récupération Windows…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee5e99f27d62",
+          "title": "Les fans Xbox veulent le retour des jeux exclusifs en priorité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255581-les-fans-xbox-veulent-le-retour-des-jeux-exclusifs-en-priorite.html",
+          "category": "ia",
+          "published_at": "2026-05-19T09:34:14+00:00",
+          "summary": "Microsoft vient de lancer une plateforme sur laquelle les joueuses et les joueurs peuvent partager leurs demandes pour améliorer l'écosystème Xbox. La demande la plus plébiscitée concerne le retour des jeux exclusifs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c17980668d88",
+          "title": "Elon Musk v. Sam Altman : le duel de l’année à 130 milliards tourne court à cause d’un bête problème de calendrier",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2255583-elon-musk-v-sam-altman-le-duel-de-lannee-a-130-milliards-tourne-court-a-cause-dun-bete-probleme-de-calendrier.html",
+          "category": "ia",
+          "published_at": "2026-05-19T09:26:33+00:00",
+          "summary": "Coup de théâtre dans le duel judiciaire de l'année. Le jury a balayé la plainte du milliardaire contre Sam Altman pour une simple question de prescription légale. Elon Musk s'est réveillé beaucoup trop tard, mais il annonce déjà sa riposte en appel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d022cde8a18",
+          "title": "« Arrêtez de penser avec de vieux réflexes » : BYD défend sa batterie Blade 2.0 en s’attaquant aux critiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2255633-arretez-de-penser-avec-de-vieux-reflexes-byd-defend-sa-batterie-blade-2-0-en-sattaquant-aux-critiques.html",
+          "category": "justice",
+          "published_at": "2026-05-19T09:25:26+00:00",
+          "summary": "Face aux critiques sur la surchauffe de sa nouvelle charge ultra-rapide et aux accusations de chimie « bas de gamme », le directeur technique des batteries de BYD, Sun Huajun, a remis les pendules à l'heure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32789af4de84",
+          "title": "Aqua, the Danish-Norwegian Group Behind ‘Barbie Girl,’ Announce Breakup After 30 Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/aqua-breakup-after-30-years-1236251505/",
+          "category": "musique",
+          "published_at": "2026-05-19T09:17:29+00:00",
+          "summary": "\"After many incredible years, we have decided to close the chapter of AQUA as a live band,\" they wrote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b01a27e573c",
+          "title": "« Beaucoup de temps, d’efforts et d’argent » : ce que Cloudflare a appris en testant Claude Mythos sur sa propre infrastructure",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2255489-beaucoup-de-temps-defforts-et-dargent-ce-que-cloudflare-a-appris-en-testant-claude-mythos-sur-sa-propre-infrastructure.html",
+          "category": "ia",
+          "published_at": "2026-05-19T09:16:32+00:00",
+          "summary": "Le géant américain des infrastructures internet Cloudflare a soumis le modèle de cybersécurité d'Anthropic à l'épreuve de ses propres dépôts de code. Les enseignements, tout juste publiés dans un article de blog, sont précieux, et les mises en garde le sont encore plus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba487d778694",
+          "title": "Cybersécurité : face aux nouvelles menaces, voici une formation pour devenir le pilier stratégique de votre entreprise [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2215861-100-000-postes-a-pourvoir-dici-2030-la-cybersecurite-un-enjeu-majeur-pour-la-souverainete-numerique-francaise.html",
+          "category": "ia",
+          "published_at": "2026-05-19T08:48:02+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec École Polytechnique Executive Education\n\nLa cybersécurité est désormais au cœur de la survie des organisations. Afin d'avoir toutes les cartes en main, l'Institut Polytechnique de Paris, associé à des leaders de l'industrie,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a48fc9e6f69",
+          "title": "Bientôt la fin des titres Navigo sur l’iPhone ? Pourquoi ce service pourrait disparaître",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2255495-bientot-la-fin-des-titres-navigo-sur-liphone-pourquoi-ce-service-pourrait-disparaitre.html",
+          "category": "justice",
+          "published_at": "2026-05-19T08:42:48+00:00",
+          "summary": "Les tickets Navigo sur iPhone pourraient bientôt disparaître en Île-de-France. Dans un message publié le 18 mai 2026 sur X, Valérie Pécresse a alerté sur un possible arrêt du dispositif dans les prochaines semaines, en raison d’un conflit réglementaire impliquant Apple, la RATP,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec88499f35d7",
+          "title": "Lanterns : le « True Detective » de l’espace lié au film Superman devient la série HBO à ne pas rater",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255475-lanterns-le-true-detective-de-lespace-lie-au-film-superman-devient-la-serie-hbo-a-ne-pas-rater.html",
+          "category": "ia",
+          "published_at": "2026-05-19T08:29:06+00:00",
+          "summary": "L'enquête policière intergalactique de DC trouve enfin son rythme. Attendue au tournant par les fans de comics, la série Lanterns de HBO vient de s'offrir une date de diffusion officielle fixée au 16 août 2026. Par la même occasion, une nouvelle bande-annonce datant du 19 mai…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1f4b981ec3e",
+          "title": "« Un projet révolutionnaire » : Stellantis officialise sa voiture électrique à moins de 15 000 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2255485-un-projet-revolutionnaire-stellantis-officialise-sa-voiture-electrique-a-moins-de-15-000-e.html",
+          "category": "ia",
+          "published_at": "2026-05-19T08:11:49+00:00",
+          "summary": "Stellantis fait officiellement savoir qu'un projet de petite voiture électrique abordable « E-Car » est en route. Le véhicule sera décliné sous plusieurs marques du groupe, mais sera assemblé dans une seule et même usine d'ici à 2028 en Italie, à Pomigliano.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "509a5940eea5",
+          "title": "☕️ Anthropic achète Stainless, dont les outils sont utilisés par OpenAI, Google et Cloudflare",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/anthropic-achete-stainless-dont-les-outils-sont-utilises-par-openai-google-et-cloudflare/",
+          "category": "ia",
+          "published_at": "2026-05-19T08:07:04+00:00",
+          "summary": "Anthropic a indiqué lundi avoir fait l’acquisition de Stainless, dont les logiciels sont utilisés par la plupart des grands acteurs états-uniens de l’intelligence artificielle, dont OpenAI et Google. Si le montant exact de la transaction n’a pas été divulgué, The Information…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af240865b8d3",
+          "title": "Ça se confirme : les jeux solo exclusifs PlayStation ne sortiront plus sur PC",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2255461-ca-se-confirme-les-jeux-solo-exclusifs-playstation-ne-sortiront-plus-sur-pc.html",
+          "category": "justice",
+          "published_at": "2026-05-19T08:06:03+00:00",
+          "summary": "Jason Schreier, journaliste chez Bloomberg, a confirmé que le PDG de PlayStation a annoncé que les jeux solo ne sortiront désormais plus sur PC. Une décision qui marque un changement de stratégie pour l'avenir des exclusivités PlayStation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03d363a3dfac",
+          "title": "La série Harry Potter subit le départ d’un membre du casting, qui ne reviendra pas à la saison 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255463-la-serie-harry-potter-subit-le-depart-dun-membre-du-casting-qui-ne-reviendra-pas-a-la-saison-2.html",
+          "category": "ia",
+          "published_at": "2026-05-19T07:49:17+00:00",
+          "summary": "Le casting bouge pour la série Harry Potter. L'une des actrices, Gracie Cochrane, a dû se retirer de la production après la première saison. Elle ne reviendra pas pour la suite. Elle avait été recrutée pour jouer Ginny Weasley.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7036ecbd5a7f",
+          "title": "US survey supporting ticket resale reform complicated by ties to Live Nation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/19/us-survey-supporting-ticket-resale-reform-complicated-by-ties-to-live-nation/",
+          "category": "musique",
+          "published_at": "2026-05-19T07:37:30+00:00",
+          "summary": "A survey released by the US-based Music Artists Coalition (MAC) claims widespread, bipartisan support for ticket-resale reform.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9db311dd8d2",
+          "title": "Mauvaise nouvelle pour les propriétaires d’une PS5 : l’abonnement PS Plus augmente",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255449-mauvaise-nouvelle-pour-les-proprietaires-dune-ps5-labonnement-ps-plus-augmente.html",
+          "category": "ia",
+          "published_at": "2026-05-19T06:48:43+00:00",
+          "summary": "Sony a officialisé une nouvelle augmentation du prix du PlayStation Plus. Le mois sera facturé 9,99 € pour les nouveaux abonnés, à partir du 20 mai 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2f42971d415",
+          "title": "« Nous ne pouvons pas tout contrôler » : l’ANSSI face à la complexité des systèmes de l’État",
+          "source": "Next INpact",
+          "url": "https://next.ink/238214/nous-ne-pouvons-pas-tout-controler-lanssi-face-a-la-complexite-des-systemes-de-letat/",
+          "category": "ia",
+          "published_at": "2026-05-19T06:45:00+00:00",
+          "summary": "Face aux quasi-incessantes fuites de données en France, notamment sur des institutions, l’ANSSI serait sur la sellette ? Son directeur général Vincent Strubel réfute et revient sur les travaux de pilotage du numérique, avec une future autorité « Ariane ». Il en profite pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "693f84c12ba7",
+          "title": "Comment les clients Fisker ont repris la main après la faillite du constructeur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2255437-comment-les-clients-fisker-ont-repris-la-main-apres-la-faillite-du-constructeur.html",
+          "category": "ia",
+          "published_at": "2026-05-19T06:19:36+00:00",
+          "summary": "Après la faillite de Fisker, les propriétaires du SUV Ocean ont refusé de voir leur véhicule électrique à 60 000 € devenir inutilisable. En s’organisant en association, ils ont repris en main le logiciel, sécurisé les pièces détachées et créé leur propre réseau d'assistance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5efd81965e7",
+          "title": "☕️ Sony augmente le prix de l’abonnement PlayStation Plus 1 et 3 mois",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief_article/sony-augmente-le-prix-de-labonnement-playstation-plus-1-et-3-mois/",
+          "category": "ia",
+          "published_at": "2026-05-19T06:03:49+00:00",
+          "summary": "Sony a annoncé lundi une hausse de prix imminente pour les versions 1 mois et 3 mois de l&#8217;abonnement PlayStation Plus. Mise en œuvre à partir du 20 mai, la hausse épargne temporairement les joueurs déjà abonnés : elle ne concerne que les nouveaux souscripteurs, sauf en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "079b16c9273d",
+          "title": "Le père de la série FF valide une vidéo de Final Fantasy 6 Remake générée par IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255345-le-pere-de-la-serie-ff-valide-une-video-de-final-fantasy-6-remake-generee-par-ia.html",
+          "category": "ia",
+          "published_at": "2026-05-19T05:32:00+00:00",
+          "summary": "Hironobu Sakaguchi a réagi sur les réseaux sociaux à une vidéo de Final Fantasy générée par IA, une prise de position qui n’a pas manqué de faire réagir les fans de la saga. Beaucoup s’interrogent sur les raisons de l’enthousiasme du créateur de Final Fantasy, tandis que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ac5ee113512",
+          "title": "Google I/O en direct : comment suivre la grande conférence annuelle de Google (et ce qu’on attend)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2255417-google-io-2026-toutes-les-annonces.html",
+          "category": "ia",
+          "published_at": "2026-05-19T05:30:00+00:00",
+          "summary": "Mardi 19 mai à 19 heures, Google organise sa grande conférence annuelle Google I/O depuis son campus de Mountain View (Californie). Numerama est sur place pour vous vous faire vivre les annonces en direct et en français, ainsi que répondre à toutes vos questions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60fc8c2bd3c8",
+          "title": "How Can BTS, Madonna & Shakira All Squeeze Into an 11-Minute World Cup Halftime Show?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/bts-madonna-shakira-world-cup-halftime-set-time-pop-shop-podcast-1236251401/",
+          "category": "musique",
+          "published_at": "2026-05-19T01:08:40+00:00",
+          "summary": "On the new Billboard Pop Shop Podcast, Katie &#38; Keith are chatting about how the trio of superstar acts will share their time on the July 19 stage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bfe28262aa8",
+          "title": "‘Sweetheart Deal’: Lawmakers Slam Live Nation’s DOJ Settlement & Urge Ticketmaster Breakup",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/lawmakers-slam-live-nation-doj-settlement-ticketmaster/",
+          "category": "musique",
+          "published_at": "2026-05-19T00:08:07+00:00",
+          "summary": "Congressional Democrats held a so-called \"shadow hearing\" about Live Nation on Monday (May 18).",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-18",
       "articles": [
+        {
+          "id": "b2fe00ba7f06",
+          "title": "Lykke Li Reflects on Drake Interpolating ‘I Follow Rivers’ on ‘Iceman’: ‘I Was Missing Him’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/lykke-li-drake-iceman-janice-stfu-i-follow-rivers-1236251291/",
+          "category": "justice",
+          "published_at": "2026-05-18T23:19:39+00:00",
+          "summary": "Drizzy previously sampled the Swedish singer on So Far Gone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65735d6546d8",
+          "title": "Watch Lola Young Lose Herself in Deeply Emotional Performance for a Small Room of People: ‘Art Is Really All We Have’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/lola-young-tears-apple-music-room-series-can-we-ignore-it-1236251296/",
+          "category": "musique",
+          "published_at": "2026-05-18T22:15:42+00:00",
+          "summary": "The singer is the first artist to perform for Apple Music's new Music Room series, which launches Tuesday (May 19).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c14b18a538f5",
+          "title": "Denis Ladegaillerie & Romain Vivien Explain the Global Rise of Their Multibillion-Dollar Music Company | Billboard News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/believe-founders-denis-ladegaillerie-romain-vivien-interview/",
+          "category": "musique",
+          "published_at": "2026-05-18T22:04:46+00:00",
+          "summary": "Believe founder Denis Ladegaillerie and executive Romain Vivien decode the rise of their multibillion-dollar music company that is commanding 10% of the global digital market. Believe has successfully outmaneuvered the major label system. Billboard News explores why top musical…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18ece0222af5",
+          "title": "Xbox ne s’écrira plus pareil à l’avenir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2254555-xbox-ne-secrira-plus-pareil-a-lavenir.html",
+          "category": "ia",
+          "published_at": "2026-05-18T19:42:00+00:00",
+          "summary": "Asha Sharma continue de faire sa révolution depuis sa prise de pouvoir au sein de la branche Xbox. Qu'il faut désormais écrire… XBOX, complètement en majuscules.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f06e46d5019e",
+          "title": "[MàJ] Elon Musk est débouté de ses poursuites contre OpenAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/236770/elon-musk-vs-openai-tout-ce-quil-faut-savoir-du-proces-qui-secoue-la-silicon-valley/",
+          "category": "ia",
+          "published_at": "2026-05-18T18:49:29+00:00",
+          "summary": "C&#8217;est le procès du siècle (même si le siècle est encore jeune) : Elon Musk et OpenAI s&#8217;affrontent depuis trois semaines devant le jury d&#8217;un tribunal fédéral en Californie. Une bataille à plusieurs (centaines de) milliards de dollars qui mêle rivalités…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "687b0d748caa",
+          "title": "As ABS deals reshape the music rights landscape, KBRA says it’s rated $12.9B in music royalty-backed bonds since 2020 – but expects issuance to fall 25% in 2026",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/as-abs-deals-reshape-the-music-rights-landscape-kbra-says-its-rated-12-9b-in-music-royalty-backed-bonds-since-2020-but-expects-issuance-to-fall-25-in-2026/",
+          "category": "musique",
+          "published_at": "2026-05-18T16:24:46+00:00",
+          "summary": "The music ABS market has more than tripled in size in just three years, says new KBRA report\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "283333c81c89",
+          "title": "Des fournisseurs de VPN et de messageries chiffrées menacent de quitter le Canada",
+          "source": "Next INpact",
+          "url": "https://next.ink/238296/des-fournisseurs-de-vpn-et-de-messageries-chiffrees-menacent-de-quitter-le-canada/",
+          "category": "ia",
+          "published_at": "2026-05-18T15:47:00+00:00",
+          "summary": "Signal, Meta mais aussi divers fournisseurs de VPN ont pris la parole pour critiquer la proposition de loi C-22 débattue actuellement au Canada. Plusieurs menacent de quitter le pays si le texte n’est pas modifié. En l’état, ils l’accusent de les obliger à créer des backdoors.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fec6621547f",
+          "title": "George Clinton sues UMG, alleging over $1.1M in royalties have been withheld for more than three years",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/george-clinton-sues-umg-alleging-over-1-1m-in-royalties-have-been-withheld-for-more-than-three-years/",
+          "category": "ia",
+          "published_at": "2026-05-18T15:35:17+00:00",
+          "summary": "Complaint accuses UMG of breach of contract\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "efb90da93f7d",
+          "title": "Sphere Entertainment secures $1.7B investment from Abu Dhabi for first international venue",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sphere-entertainment-secures-1-7-bn-investment-from-abu-dhabi-for-first-international-venue/",
+          "category": "ia",
+          "published_at": "2026-05-18T15:22:35+00:00",
+          "summary": "The venue will built on a plot of land between Yas Mall and SeaWorld Abu Dhabi.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bef4c22befc6",
+          "title": "HYBE India partners with Snapchat to power AR auditions for its girl group search",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-india-partners-with-snapchat-to-power-ar-auditions-for-its-girl-group-search/",
+          "category": "ia",
+          "published_at": "2026-05-18T15:16:34+00:00",
+          "summary": "Under the partnership, candidates can film and upload audition content through a dedicated 'Audition' Lens on Snapchat.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ea6e7b2d71d",
+          "title": "Tencent Music completes $2.4B acquisition of audio platform Ximalaya",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tencent-music-completes-2-4b-acquisition-of-audio-platform-ximalaya/",
+          "category": "musique",
+          "published_at": "2026-05-18T15:12:13+00:00",
+          "summary": "Ximalaya is one of China's largest podcasting and audiobooks platforms\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "845a85206e0a",
+          "title": "Polymarket, Kalshi… : les États-Unis parient sur l’IA pour détecter les délits d’initiés",
+          "source": "Next INpact",
+          "url": "https://next.ink/238270/polymarket-kalshi-les-etats-unis-parient-sur-lia-pour-detecter-les-delits-dinities/",
+          "category": "ia",
+          "published_at": "2026-05-18T15:09:10+00:00",
+          "summary": "Alors que les plateformes de paris en ligne sont de plus en plus pointées du doigt pour encourager les délits d&#8217;initiés, l&#8217;agence de régulation CFTC explique s&#8217;appuyer sur l&#8217;IA pour les détecter. L&#8217;administration Trump commence à voir…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94b923353034",
+          "title": "Plus que 50 tweets par jour : X (Twitter) bride drastiquement les comptes gratuits",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2255165-plus-que-50-tweets-par-jour-x-twitter-bride-drastiquement-les-comptes-gratuits.html",
+          "category": "ia",
+          "published_at": "2026-05-18T15:08:49+00:00",
+          "summary": "Depuis les 17 et 18 mai 2026, plusieurs utilisateurs de X ont remarqué un changement majeur : le réseau social a fortement réduit le nombre de publications autorisées chaque jour pour les comptes non certifiés. Une modification discrètement confirmée par la plateforme dans sa…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "371c7a7d9dd2",
+          "title": "Ford annonce une flopée de modèles et recadre l’Europe sur le tout électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2255025-ford-annonce-une-flopee-de-modeles-et-recadre-leurope-sur-le-tout-electrique.html",
+          "category": "ia",
+          "published_at": "2026-05-18T15:04:11+00:00",
+          "summary": "Ford a annoncé ses plans pour l'Europe dans lesquels sont prévus pas moins de sept nouveaux modèles, 100 % électriques, mais pas que. La marque ne veut pas mettre tous ses œufs dans le même panier et fustige l'électrification à marche forcée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7973903f0339",
+          "title": "Primary Wave acquires interests in album art collection from Aubrey ‘Po’ Powell, co-founder of British design studio Hipgnosis",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/primary-wave-acquires-interests-in-album-art-collection-from-aubrey-po-powell-co-founder-of-british-design-studio-hipgnosis/",
+          "category": "musique",
+          "published_at": "2026-05-18T14:58:32+00:00",
+          "summary": "Design studio founded by Powell and the late Storm Thorgerson in the 1960's\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f02c2c3e04cf",
+          "title": "Quel aspirateur robot choisir ? Les 5 modèles incontournables en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1490932-meilleurs-aspirateurs-robots.html",
+          "category": "ia",
+          "published_at": "2026-05-18T14:52:43+00:00",
+          "summary": "Confier son ménage à un robot demande un minimum de confiance. Aujourd'hui, ce n'est plus un marché de niche : il existe des tonnes de modèles avec des prix variant du simple au triple. Pour vous éviter des heures à scruter des fiches techniques à rallonge, on a regroupé ici les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5cd80c0bc54",
+          "title": "Le premier film d’animation de Quentin Dupieux ressemble à un jeu PlayStation 1",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255129-le-premier-film-danimation-de-quentin-dupieux-ressemble-a-un-jeu-playstation-1.html",
+          "category": "loi",
+          "published_at": "2026-05-18T14:50:35+00:00",
+          "summary": "Le premier film d’animation de Quentin Dupieux, Le Vertige, continue de se dévoiler un peu plus et, le moins que l’on puisse dire, c’est qu’on est très loin des standards de Pixar. Évidemment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c4cb6ad3a18",
+          "title": "Derrière la rencontre entre Trump et Xi, l’ombre de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/238257/derriere-la-rencontre-entre-trump-et-xi-lombre-de-lia/",
+          "category": "ia",
+          "published_at": "2026-05-18T12:31:12+00:00",
+          "summary": "Du 13 au 15 mai, Donald Trump s’est rendu en Chine pour un sommet de deux jours avec son homologue Xi Jinping. S’ils évoquent des «&#160;échanges fructueux&#160;», peu d&#8217;accords ont été noués après ces discussions à hauts enjeux pour l’industrie technologique. À voir la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af2a28e0cd4a",
+          "title": "Blue Frog Immersive gives VR concerts a go on Apple Vision Pro",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/18/blue-frog-immersive-gives-vr-concerts-a-go-on-apple-vision-pro/",
+          "category": "musique",
+          "published_at": "2026-05-18T12:30:00+00:00",
+          "summary": "2015-16 was boom-time for music virtual-reality startups – at least in terms the number of companies launching, rather than massive commercial success. Vrtify, Noys, Vrsus and Red Pill VR are long forgotten; Jaunt raised a lot of money but has similarly disappeared; NextVR also…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a533a1bdbcde",
+          "title": "Vietnam’s DAO Music Entertainment strikes strategic partnership with The Orchard",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/vietnams-dao-music-entertainment-strikes-strategic-partnership-with-the-orchard/",
+          "category": "musique",
+          "published_at": "2026-05-18T12:12:54+00:00",
+          "summary": "Deal gives DAO Music Entertainment access to The Orchard's global distribution network\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5bc329292f9",
+          "title": "Rapport annuel : le bilan et les actions marquantes de la CNIL en 2025",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/rapport-annuel-2025",
+          "category": "cnil",
+          "published_at": "2026-05-18T12:00:00+00:00",
+          "summary": "Accompagnement des professionnels, contrôle de leurs pratiques, sensibilisation du public, mais aussi régulation de l’IA, cybersécurité et coopération européenne… la CNIL fait le bilan d’une année 2025 intense, au service de la protection des données personnelles et de la vie…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "8d6474eaed91",
           "title": "‘There Was Never Any Fraud’: Shakira Wins Tax Battle in Spain After More Than Eight Years",
@@ -22,6 +537,16 @@
           "category": "musique",
           "published_at": "2026-05-18T11:48:49+00:00",
           "summary": "The Premium Standard plan has been reduced from ₹199 (approx. $2.24) per month to ₹139 (approx. $1.57) per month.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87b29163ffbe",
+          "title": "Spotify scraps new ‘Premium Lite’ tier in India, Indonesia, Saudi Arabia, UAE, and South Africa – while slashing standard Premium prices",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-scraps-new-premium-lite-tier-in-india-indonesia-saudi-arabia-uae-and-south-africa/",
+          "category": "musique",
+          "published_at": "2026-05-18T11:48:49+00:00",
+          "summary": "The Premium Standard plan has been reduced in multiple markets\nSource",
           "summary_type": "extrait source"
         },
         {
