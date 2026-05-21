@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-05-20T11:20:52.789967+00:00",
+  "generated_at": "2026-05-21T11:36:50.711208+00:00",
   "days": [
+    {
+      "date": "2026-05-21",
+      "articles": [
+        {
+          "id": "40caa383adca",
+          "title": "Spotify backs US bill to outlaw AI deepfakes, joining UMG, Sony, Warner, Google, and OpenAI in growing coalition",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-backs-us-bill-to-outlaw-ai-deepfakes-joining-umg-sony-warner-google-and-openai-in-growing-coalition/",
+          "category": "musique",
+          "published_at": "2026-05-21T11:35:46+00:00",
+          "summary": "The bill has attracted support from Universal Music Group, Sony Music, Warner Music Group, the RIAA, the Recording Academy, and more.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "640ff6df9934",
+          "title": "Pourquoi le prochain film de Michael Bay (Transformers) fait déjà polémique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2257557-pourquoi-le-prochain-film-de-michael-bay-transformers-fait-deja-polemique.html",
+          "category": "musique",
+          "published_at": "2026-05-21T11:33:00+00:00",
+          "summary": "Du grand spectacle en préparation chez Universal.&nbsp;Le roi de l'explosion, Michael Bay, s'apprête à porter à l'écran l'incroyable histoire vraie du sauvetage de deux pilotes américains abattus en Iran. Un projet d'action à haute tension qui marque les retrouvailles du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84fa2457f6c8",
+          "title": "Owner of Peanuts music catalog files four copyright lawsuits targeting video game publisher, social media posts, and the US government",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/owner-of-peanuts-music-catalog-files-four-copyright-lawsuits-targeting-video-game-publisher-social-media-posts-and-the-us-government/",
+          "category": "musique",
+          "published_at": "2026-05-21T11:18:38+00:00",
+          "summary": "Lee Mendelson Film Productions says the lawsuits are intended to halt a pattern of unauthorized commercial use of Vince Guaraldi's compositions.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1400e13888e1",
+          "title": "Stability AI launches new audio models that can generate 6-minute music tracks",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/stability-ai-launches-new-audio-models-that-can-generate-6-minute-music-tracks/",
+          "category": "musique",
+          "published_at": "2026-05-21T11:16:07+00:00",
+          "summary": "Three of the four models are open-weight, meaning they are free to download and build upon.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0333dffc0e12",
+          "title": "OpenAI preparing to file for IPO within days (Report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/openai-preparing-to-file-for-ipo-within-days-report/",
+          "category": "institutionnel",
+          "published_at": "2026-05-21T11:13:52+00:00",
+          "summary": "The company could file with the US Securities and Exchange Commission as soon as Friday (May 22), according to the WSJ and Reuters.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb85077a72c9",
+          "title": "Spanish society SGAE distributed $406M to over 97,000 members in 2025 as revenue hits record high",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spanish-society-sgae-distributed-406m-to-over-97000-members-in-2025-as-revenue-hits-record-high/",
+          "category": "ia",
+          "published_at": "2026-05-21T11:05:15+00:00",
+          "summary": "The number of beneficiaries receiving income rose 16.5% YoY to reach 97,415 authors and composers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7467afa7f33",
+          "title": "Pic de chaleur, +15 °C en quelques jours : comment le « blocage en oméga » fait grimper les températures en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2257483-pic-de-chaleur-15-c-en-quelques-jours-comment-le-blocage-en-omega-fait-grimper-les-temperatures-en-france.html",
+          "category": "ia",
+          "published_at": "2026-05-21T11:05:00+00:00",
+          "summary": "À l'approche du week-end de la Pentecôte, fin mai 2026, la chaleur fait son retour en France. Les températures vont grimper, gagnant parfois entre 10 et 15 °C en quelques jours. Un « blocage en oméga » explique cette situation météorologique. De quoi s'agit-il ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a0423cb1269",
+          "title": "On a trouvé une « route secrète » très utile pour la conquête de la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2257577-on-a-trouve-une-route-secrete-tres-utile-pour-la-conquete-de-la-lune.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-21T11:01:00+00:00",
+          "summary": "Aller dans l'espace coûte cher en carburant. La moindre d'économie doit donc être étudiée avant de procéder au lancement d'une mission. Aujourd'hui, de nouvelles simulations informatiques ont permis de repérer une « route cachée » qui permet d'aller sur la Lune encore plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7349bf387bf",
+          "title": "Wixen doubles damages demand to $102M in expanded copyright lawsuit against Meta",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/wixen-doubles-damages-demand-to-102m-in-expanded-copyright-lawsuit-against-meta/",
+          "category": "ia",
+          "published_at": "2026-05-21T10:53:44+00:00",
+          "summary": "Wixen says it believes the total number of infringed works to be \"well over one thousand.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28758567ccd6",
+          "title": "« C’était vraiment difficile » : Discord comble un retard béant sur la sécurité, mais laisse un goût d’inachevé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2257613-cetait-vraiment-difficile-discord-laisse-se-bouge-enfin-sur-le-chiffrement-mais-laisse-un-gout-dinacheve.html",
+          "category": "ia",
+          "published_at": "2026-05-21T10:31:00+00:00",
+          "summary": "Longtemps pointé du doigt pour ses lacunes en matière de confidentialité, Discord opère un virage historique. L’application déploie le chiffrement de bout en bout par défaut pour sécuriser l’ensemble de ses flux audio et vidéo. Une mise à niveau technique majeure, qui cache…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eaa991851fbf",
+          "title": "Usines menacées et rumeurs de rachat : le patron de Volkswagen tape du poing sur la table",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2257615-usines-menacees-et-rumeurs-de-rachat-le-patron-de-volkswagen-tape-du-poing-sur-la-table.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-21T10:19:29+00:00",
+          "summary": "Le directeur général de Volkswagen a tenu à dissiper les rumeurs lors d'une assemblée du personnel à Wolfsburg. Il a affirmé qu'aucune discussion n'était en cours avec des fabricants chinois, mais reconnaît que la surcapacité industrielle du groupe en Europe reste un problème à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "224d1d82336c",
+          "title": "The Hello Group India onboards Abhijit Vaghani to its management roster",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/the-hello-group-india-onboards-abhijit-vaghani-to-its-management-roster/",
+          "category": "musique",
+          "published_at": "2026-05-21T10:05:16+00:00",
+          "summary": "Abhijit Vaghani is an artist whose name is not that well-known outside of Indian music industry circles but the music composer and producer has a vast discography that spans over [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d1f7b775b3b",
+          "title": "Ce que révèlent les comptes de SpaceX à l’aube de son introduction en bourse",
+          "source": "Next INpact",
+          "url": "https://next.ink/238580/ce-que-revelent-les-comptes-de-spacex-a-laube-de-son-introduction-en-bourse/",
+          "category": "ia",
+          "published_at": "2026-05-21T10:00:41+00:00",
+          "summary": "SpaceX a déposé mercredi le document préliminaire à son introduction en bourse, qui révèle pour la première fois les comptes de l&#8217;entreprise, à défaut de préciser la valorisation recherchée à l&#8217;issue de l&#8217;opération. Ces derniers soulignent l&#8217;extrême…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be126fd43800",
+          "title": "‘Coke Studio Pakistan’ team spotlight rising local talent on new series ‘Humnava’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/coke-studio-pakistan-team-spotlight-rising-local-talent-on-new-series-humnava/",
+          "category": "musique",
+          "published_at": "2026-05-21T10:00:12+00:00",
+          "summary": "Fans of Coke Studio Pakistan awaiting the sixteenth season of the music video series, which is scheduled to release at some point this year, have got a new offering from [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b457483d2e7",
+          "title": "Amazon baisse le prix de ce climatiseur connecté juste avant les premières chaleurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2257623-amazon-baisse-le-prix-de-ce-climatiseur-connecte-juste-avant-les-premieres-chaleurs.html",
+          "category": "ia",
+          "published_at": "2026-05-21T09:56:17+00:00",
+          "summary": "[Deal du jour] Un ventilateur, c'est bien pour apporter un peu de fraîcheur sur le moment, mais pas sur la durée. Un climatiseur permet de faire baisser la température durablement. Ce modèle de Comfee est tout trouvé, surtout en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af9bad203901",
+          "title": "Warner Chappell Music signs publishing deal with Indian composer Anurag Saikia",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/warner-chappell-music-signs-publishing-deal-with-indian-composer-anurag-saikia/",
+          "category": "ia",
+          "published_at": "2026-05-21T09:55:06+00:00",
+          "summary": "In August 2025, after Australian multi-service music company Unified Music Group and Indian booking and talent coordination agency 7Entertainment formed the joint venture Uni7ied “to bring India’s music to the [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9757de834ee6",
+          "title": "☕️ Alexa+, l’agent conversationnel d’Amazon, peut désormais générer des podcasts par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/alexa-lagent-conversationnel-damazon-peut-desormais-generer-des-podcasts-par-ia/",
+          "category": "ia",
+          "published_at": "2026-05-21T09:42:39+00:00",
+          "summary": "Après avoir répondu à « des dizaines de milliards de questions pour obtenir des informations rapides, approfondir certains sujets et accomplir des tâches », le robot conversationnel d&#8217;Amazon propose désormais à ses clients basés aux États-Unis de leur raconter des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee19657facbf",
+          "title": "The Witcher a failli être un jeu multijoueur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2257455-the-witcher-a-failli-etre-un-jeu-multijoueur.html",
+          "category": "ia",
+          "published_at": "2026-05-21T09:40:58+00:00",
+          "summary": "CD Projekt Red a raconté une anecdote sur le premier The Witcher. À l'époque de son développement, le studio polonais avait envisagé un mode multijoueur. Comme pour un certain Cyberpunk 2077.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13f7bd152ee9",
+          "title": "« Aucune hésitation » : une IA d’OpenAI a terrassé un problème de géométrie vieux de 80 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2257419-aucune-hesitation-une-ia-dopenai-a-terrasse-un-probleme-de-geometrie-vieux-de-80-ans.html",
+          "category": "ia",
+          "published_at": "2026-05-21T08:35:45+00:00",
+          "summary": "Le 20 mai 2026, OpenAI a affirmé qu’un de ses modèles d’IA avait contribué à réfuter une conjecture mathématique formulée par Paul Erdős en 1946. Le problème consiste à déterminer combien de paires de points peuvent être placées exactement à distance 1 dans un plan.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e09b7c49a2be",
+          "title": "SpaceX en alerte : pourquoi le vol de la fusée géante Starship pourrait capoter cette nuit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2257463-spacex-en-alerte-pourquoi-le-vol-de-la-fusee-geante-starship-pourrait-capoter-cette-nuit.html",
+          "category": "ia",
+          "published_at": "2026-05-21T08:30:49+00:00",
+          "summary": "La fusée géante de SpaceX doit s'élancer du Texas dans la nuit du 21 au 22 mai 2026. Mais avec seulement 55 % de chances de météo favorable et une menace d'orages violents, le décollage est en sursis. Voici les dangers qui font trembler les ingénieurs de Boca Chica.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d36cd5b1f3c0",
+          "title": "Ecca Vandal Is ‘Cruising’ For Late-Night TV Debut on ‘Kimmel’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/ecca-vandal-late-night-tv-debut-kimmel-1236253186/",
+          "category": "musique",
+          "published_at": "2026-05-21T08:28:06+00:00",
+          "summary": "Following her first appearance at Coachella, another first as Ecca Vandal made her U.S. TV debut with a powerful performance on \"Jimmy Kimmel Live.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ed62e44b8ed",
+          "title": "The Boys : pourquoi ce personnage apprécié a disparu dans la saison 5 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2257441-the-boys-pourquoi-ce-personnage-apprecie-a-disparu-dans-la-saison-5.html",
+          "category": "ia",
+          "published_at": "2026-05-21T08:22:20+00:00",
+          "summary": "Le clap de fin sanglant de la série phare de Prime Video s'est fait sans elle. Alors que la saison 5 de The Boys vient de livrer son ultime épisode, les fans ont guetté en vain le retour d'une des super-héroïnes les plus emblématiques du show. Le showrunner Eric Kripke a brisé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "066a0d3f386c",
+          "title": "Le Japon de Forza Horizon 6 semble si réel qu’il impressionne même les Japonais",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2257439-le-japon-de-forza-horizon-6-semble-si-reel-quil-impressionne-meme-les-japonais.html",
+          "category": "ia",
+          "published_at": "2026-05-21T08:12:32+00:00",
+          "summary": "Forza Horizon 6 place pour la première fois ses circuits au Japon. Le jeu impressionne les joueuses et les joueurs du monde entier, autant que les Japonais, qui s'émerveillent de son ambiance et de son réalisme bluffant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c97d05c3384",
+          "title": "-400 € sur ce TV TCL Mini LED de 98 pouces : transformez votre salon en stade de foot pour la Coupe du monde [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2253187-400-e-sur-ce-tv-tcl-mini-led-de-98-pouces-transformez-votre-salon-en-stade-de-foot-pour-la-coupe-du-monde.html",
+          "category": "ia",
+          "published_at": "2026-05-21T08:03:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec TCL\n\n248 cm de diagonale : ce gigantesque téléviseur 4K Mini-Led de TCL baisse de prix juste à temps pour la Coupe du monde de football.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ddb3702a91ad",
+          "title": "Ubisoft sortira des jeux Assassin’s Creed, Ghost Recon et Far Cry avant… 2029",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2257429-ubisoft-sortira-des-jeux-assassins-creed-ghost-recon-et-far-cry-avant-2029.html",
+          "category": "justice",
+          "published_at": "2026-05-21T07:33:19+00:00",
+          "summary": "Dans son dernier bilan financier, Ubisoft s'est projeté jusqu'à l'horizon 2029, évoquant des années fiscales 2027/2028 et 2028/2029 bien plus reluisantes que la période trouble vécue actuellement. Elles seront portées par le grand retour de licences fortes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ac8b12e0ebe",
+          "title": "Starship de 3e génération : suivez en direct le 12e vol de la fusée géante de SpaceX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2255065-starship-de-3e-generation-suivez-en-direct-le-12e-vol-de-la-fusee-geante-de-spacex.html",
+          "category": "ia",
+          "published_at": "2026-05-21T07:19:52+00:00",
+          "summary": "Nouvelle architecture, tests thermiques extrêmes et manœuvres inédites : le Starship de SpaceX fait sa mue pour son 12e vol d'essai. Ne manquez pas le décollage de la fusée géante, à suivre en direct, dans la nuit du 21 au 22 mai 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f3e0dcc6073",
+          "title": "Voice x Music program seeks to help artists ‘return to their authentic voice’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/voice-x-music-program-seeks-to-help-artists-return-to-their-authentic-voice/",
+          "category": "musique",
+          "published_at": "2026-05-21T07:02:00+00:00",
+          "summary": "Amsterdam-based business therapy practice called Voice has launched a new program called &#8216;Voice x Music&#8217; this week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "715e05ae2ea7",
+          "title": "GitHub s’est fait dérober des données de plusieurs milliers de ses dépôts privés",
+          "source": "Next INpact",
+          "url": "https://next.ink/238548/github-sest-fait-derober-des-donnees-de-plusieurs-milliers-de-ses-depots-prives/",
+          "category": "ia",
+          "published_at": "2026-05-21T06:54:21+00:00",
+          "summary": "GitHub reconnait s’être fait dérober des données de 3 800 dépôts privés, mais uniquement ses propres dépôts, pas ceux de ses clients. TeamPCP a revendiqué l’attaque et propose les données à la vente. Dans un message publié sur X, GitHub reconnait avoir été piraté. Plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5c7531721d1",
+          "title": "PlayStation Plus : voici la nouvelle grille tarifaire complète, bien moins avantageuse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2257417-playstation-plus-voici-la-nouvelle-grille-tarifaire-complete-bien-moins-avantageuse.html",
+          "category": "ia",
+          "published_at": "2026-05-21T06:52:53+00:00",
+          "summary": "Comme il fallait hélas s'y attendre, l'abonnement PlayStation Plus Essential, le moins cher, n'est pas le seul touché par l'inflation. Sony a repensé toute la grille tarifaire de son service, avec des prix à la hausse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11107f15ad4b",
+          "title": "Post Malone Sets ‘Big Ass’ Stadium Tour of Australia and New Zealand",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/post-malone-big-ass-stadium-tour-australia-new-zealand-1236253140/",
+          "category": "ia",
+          "published_at": "2026-05-21T05:14:21+00:00",
+          "summary": "Postie will play his biggest-ever headline shows in Australasia later this year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8313b12e3051",
+          "title": "‘Unbelievably Dark Dark Times’: Moby Speaks Out Against Trump’s Administration",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/moby-criticizes-incompetent-corrupt-trump-administration-1236253124/",
+          "category": "ia",
+          "published_at": "2026-05-21T04:11:27+00:00",
+          "summary": "“The U.S. is being run into the ground by a staggeringly incompetent and corrupt administration,” Moby writes.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-20",
       "articles": [
+        {
+          "id": "dcfc7bf18dd1",
+          "title": "Bruno Mars Soars on Latin Charts With ‘Lo Arriesgo Todo,’ Spanish Rendition of ‘Risk It All’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/bruno-mars-latin-charts-lo-arriesgo-todo-spanish-risk-it-all-1236252892/",
+          "category": "ia",
+          "published_at": "2026-05-20T23:01:33+00:00",
+          "summary": "The Spanish-language remake debuts on Hot Latin Songs, Hot Latin Pop Songs, Latin Pop Airplay &#38; Latin Digital Songs Sales charts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "396aa841d752",
+          "title": "NO FAKES Act Reintroduced Again — This Time With Additional Support From Spotify and Getty",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ai-deepfakes-bill-no-fakes-reintroduced-congress-again/",
+          "category": "musique",
+          "published_at": "2026-05-20T22:48:29+00:00",
+          "summary": "The bill, which is designed to protect artists against \"digital replicas,\" was first proposed in 2024 and reintroduced once before in 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c7218a44403",
+          "title": "Chance the Rapper Performs Stirring Muhammad Ali Tribute ‘I Was a Rock’ at Gordon Parks Foundation Annual Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/chance-the-rapper-muhammad-ali-gordon-parks-foundation-1236252936/",
+          "category": "ia",
+          "published_at": "2026-05-20T22:37:45+00:00",
+          "summary": "Alicia Keys, Swizz Beatz, John Legend &#38; Pharrell were also in attendance for the NYC dinner and auction honoring the late photojournalism icon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59303c46fe8b",
+          "title": "Which Drake Song From His Three New Albums Is Leading the Way on Streaming?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/drake-janice-stfu-iceman-streams-trending-up-1236252588/",
+          "category": "musique",
+          "published_at": "2026-05-20T22:18:57+00:00",
+          "summary": "This week's Trending Up looks at the most likely breakout hit from the 6 God's trio of new releases, as well as new viral moments for Yung Miami, Noah Kahan and PinkPantheress.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b0f44b92566",
+          "title": "Snoop Dogg Says His Company Isn’t Liable in Drakeo the Ruler Concert Death Lawsuit",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/snoop-dogg-llc-not-liable-drakeo-the-ruler-death-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-05-20T21:44:00+00:00",
+          "summary": "The star writes in new court filings that his LLC “had no role in management of the festival” where Drakeo was fatally stabbed.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b5fddb6edf7",
+          "title": "Sony Music Publishing promotes ZaZa Kazadi to Senior Director, A&R, UK & Europe",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-promotes-zaza-kazadi-to-senior-director-ar-uk-europe/",
+          "category": "musique",
+          "published_at": "2026-05-20T18:14:19+00:00",
+          "summary": "The promotion will see Kazadi focus on Hip Hop, Rap, R&#38;B and Afro genres.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cde12b8325cc",
+          "title": "Chord Music Partners’ John Chapman on the next wave of capital heading for music rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/chord-music-partners-john-chapman-on-the-next-wave-of-capital-heading-for-music-rights/",
+          "category": "musique",
+          "published_at": "2026-05-20T17:09:04+00:00",
+          "summary": "Alongside Sam Hendel, Chapman runs Dundee Partners, the investment office of the Hendel family\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a59f10267c37",
+          "title": "After selling Taylor Swift her masters, Shamrock closes new $813M fund – targeting rights including music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-selling-taylor-swift-her-masters-shamrock-closes-new-813m-fund/",
+          "category": "musique",
+          "published_at": "2026-05-20T16:05:39+00:00",
+          "summary": "Shamrock's Content Strategy has grown to more than $3.3 billion in AUM across equity and debt products over the past decade\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6ca3624be16",
+          "title": "42 000 Pa et recharge ultra-rapide : comment le Dreame X60 Pro Ultra Complete peut couvrir 1000 m² sans tomber à plat ? [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2256147-42-000-pa-et-recharge-ultra-rapide-comment-le-dreame-x60-pro-ultra-complete-peut-couvrir-1000-m%c2%b2-sans-tomber-a-plat.html",
+          "category": "ia",
+          "published_at": "2026-05-20T15:43:38+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Dreame\n\nAlors qu'une présentation complète est prévue pour le 27 mai 2026, Dreame dévoile les principales innovations de ses futurs aspirateurs robots haut de gamme. Au programme : aspiration record de 42 000 Pa et double bras…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "196d18855613",
+          "title": "Mars en croissant : la magnifique et surprenante photo capturée par la sonde Psyché",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2257089-mars-en-croissant-la-magnifique-et-surprenante-photo-capturee-par-la-sonde-psyche.html",
+          "category": "ia",
+          "published_at": "2026-05-20T15:36:42+00:00",
+          "summary": "En route vers son mystérieux astéroïde de métal, la sonde Psyché a profité d'un survol de Mars le 15 mai 2026 pour s'offrir un coup d'accélérateur cosmique. Un « vol rase-motte » spectaculaire qui lui a aussi permis d'immortaliser la planète rouge sous un angle rare : un fin…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8726f9573e0b",
+          "title": "Course à la Lune : l’ESA tape du poing sur la table face au déclin européen",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2256031-course-a-la-lune-lesa-tape-du-poing-sur-la-table-face-au-declin-europeen.html",
+          "category": "justice",
+          "published_at": "2026-05-20T15:35:04+00:00",
+          "summary": "Lunar Gateway suspendu, Mars Sample Return sabré... Face aux choix unilatéraux des États-Unis, le directeur général de l’ESA tire la sonnette d’alarme. Pour Josef Aschbacher, l'Europe doit d’urgence s’unir pour financer son autonomie spatiale avant d'être définitivement reléguée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2d373330747",
+          "title": "Une « avance sur l’été » : retour de la chaleur en France, voici pourquoi les températures vont bondir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2256697-une-avance-sur-lete-retour-de-la-chaleur-en-france-voici-pourquoi-les-temperatures-vont-bondir.html",
+          "category": "ia",
+          "published_at": "2026-05-20T15:19:39+00:00",
+          "summary": "Après plusieurs semaines maussades, la chaleur fait son retour en France en cette fin mai 2026. Les températures vont s'envoler, gagnant entre 10 et 15 °C en quelques jours. Ce temps chaud pourrait même perdurer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "382b9c6f5180",
+          "title": "Vous étiez en manque de South Park ? Accrochez-vous, on a une bonne nouvelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2257117-vous-etiez-en-manque-de-south-park-accrochez-vous-on-a-une-bonne-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-05-20T15:05:32+00:00",
+          "summary": "Cartman, Stan, Kyle et Kenny reprennent du service.&nbsp;Après avoir fait exploser les compteurs d'audience en s'attaquant de front au paysage politique américain, la série animée la plus trash de la télévision, South Park, s'apprête à faire son grand retour à la rentrée. Comedy…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "130ad16a5b14",
+          "title": "Country Profile – USA 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/20/country-profile-usa-2026/",
+          "category": "musique",
+          "published_at": "2026-05-20T14:00:00+00:00",
+          "summary": "The US music market continues to perform well &#8211; but the general public’s tastes are changing, with even hip hop on the wane. It’s fair to say that the USA is in the middle of an extremely difficult period, both politically and economically. And yet, among it all, the US…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "804d504438d8",
+          "title": "Voici les meilleurs smartphones en 2026 pour remplacer son vieux téléphone",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
+          "category": "ia",
+          "published_at": "2026-05-20T13:58:55+00:00",
+          "summary": "Vous cherchez à remplacer votre vieux smartphone ? En 2026, soyons honnêtes : les téléphones purement « mauvais » n'existent pratiquement plus. Cependant, certains méritent plus votre argent que d'autres et ils sont tombés miraculeusement tous dans ce papier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7452d9acee7",
+          "title": "Pour le Kremlin, le contrôle des données est un enjeu de survie",
+          "source": "Next INpact",
+          "url": "https://next.ink/238520/pour-le-kremlin-le-controle-des-donnees-est-un-enjeu-de-survie/",
+          "category": "ia",
+          "published_at": "2026-05-20T13:49:36+00:00",
+          "summary": "Depuis l’invasion de l’Ukraine, la maîtrise de la technologie permet au Kremlin d’étendre la surveillance de la population, que ce soit grâce aux données biométriques ou au contrôle d’Internet. Une partie de la population, consciente de la répression à l’œuvre s’adapte, entre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7acd27ef6923",
+          "title": "Spanish collecting society SGAE’s payouts grew by 3.1% in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/20/spanish-collecting-society-sgaes-payouts-grew-by-3-1-in-2025/",
+          "category": "ia",
+          "published_at": "2026-05-20T13:00:00+00:00",
+          "summary": "Another day, another collecting society reporting record revenues in 2025. This time it’s SGAE in Spain, with payouts of €360m.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "93ea31291e22",
           "title": "Next-gen music culture: key shifts, scenes and genres in 2026",
