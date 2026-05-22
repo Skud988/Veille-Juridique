@@ -1,9 +1,574 @@
 {
-  "generated_at": "2026-05-21T11:36:50.711208+00:00",
+  "generated_at": "2026-05-22T11:17:54.347191+00:00",
   "days": [
+    {
+      "date": "2026-05-22",
+      "articles": [
+        {
+          "id": "bb7b9194febc",
+          "title": "Paul McCartney to host global TikTok LIVE Q&A ahead of new album release",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/paul-mccartney-to-host-global-tiktok-live-qa-ahead-of-new-album-release-the-boys-of-dungeon-lane/",
+          "category": "musique",
+          "published_at": "2026-05-22T11:13:35+00:00",
+          "summary": "The event will kick off TikTok LIVE Premiere – the platform's new flagship LIVE series\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "712cdd864f7d",
+          "title": "Pour détruire des drones, l’armée teste autre chose : le char Leclerc et son canon de 120",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2258589-pour-detruire-des-drones-larmee-teste-autre-chose-le-char-leclerc-et-son-canon-de-120.html",
+          "category": "ia",
+          "published_at": "2026-05-22T11:10:00+00:00",
+          "summary": "Face à la prolifération des drones sur le champ de bataille, l'armée française fait preuve d'audace. Le char Leclerc vient d'être testé dans un rôle pour le moins inédit : celui de chasseur de drones",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdfdcd7c4076",
+          "title": "Comment bien choisir sa crème solaire et comprendre le FPS ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1430284-comment-bien-choisir-sa-creme-solaire-et-comprendre-le-fps.html",
+          "category": "ia",
+          "published_at": "2026-05-22T10:40:04+00:00",
+          "summary": "SPF 20, 30, 50... Les nombres affichés sur les tubes de crème solaire peuvent paraître énigmatiques. Peut-on rester plus longtemps au Soleil, si on utilise un indice 50 ? Voici à quoi sert vraiment le facteur de protection solaire (FPS).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc72265bca04",
+          "title": "« Vous n’êtes jamais allés dans l’espace ! » : Les astronautes d’Artémis II interpellés au Capitole",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2258607-vous-netes-jamais-alles-dans-lespace-les-astronautes-dartemis-ii-interpelles-au-capitole.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-22T10:31:00+00:00",
+          "summary": "Pendant une visite du Capitole, à Washington, les quatre membres de l'équipage d'Artémis II ont été verbalement agressés par un homme qui les accuse d'avoir menti sur la mission, assurant que tout était faux. Une interpellation étonnante au vu du nombre de preuves transmises…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b6f5f265a78",
+          "title": "Bryan Johnson lance « Bryan Johnson Femme » : sa compagne Kate Tolo va suivre son protocole pour percer les mystères de la santé féminine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2258497-bryan-johnson-lance-bryan-johnson-femme-sa-compagne-kate-tolo-va-suivre-son-protocole-pour-percer-les-mysteres-de-la-sante-feminine.html",
+          "category": "ia",
+          "published_at": "2026-05-22T10:06:30+00:00",
+          "summary": "Bryan Johnson, le millionnaire américain devenu apôtre de la longévité en bonne santé, annonce que sa compagne Kate Tolo va se soumettre à un protocole médical à 2 millions de dollars par an similaire au sien. Objectif affiché : produire des données de santé spécifiquement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c21fcb19f166",
+          "title": "The Boys : le créateur promet « des surprises de taille » pour la suite après la saison 5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258709-the-boys-le-createur-promet-des-surprises-de-taille-pour-la-suite-apres-la-saison-5.html",
+          "category": "ia",
+          "published_at": "2026-05-22T09:59:55+00:00",
+          "summary": "Le showrunner Eric Kripke a enfin livré les secrets du final explosif de la saison 5 de The Boys. Alors que l'ultime chapitre de la série phare de Prime Video vient de s'achever, son créateur revient sur le sort réservé à Homelander, une scène clé préparée depuis sept ans, et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e8af4afa251",
+          "title": "À temps pour la coupe du monde de foot, cet immense TV 4K perd 300 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2258739-a-temps-pour-la-coupe-du-monde-de-foot-cet-immense-tv-4k-perd-300-e.html",
+          "category": "ia",
+          "published_at": "2026-05-22T09:56:52+00:00",
+          "summary": "[Deal du jour] Le Hisense 75U7Q est un téléviseur Mini LED qui délivre une excellente luminosité ainsi qu'un affichage ultra-fluide. Un modèle qui ravira les cinéphiles, et les joueuses et les joueurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c55029a750b",
+          "title": "Navigo sur iPhone : le scénario catastrophe finalement évité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2258543-navigo-sur-iphone-le-scenario-catastrophe-finalement-evite.html",
+          "category": "ia",
+          "published_at": "2026-05-22T09:09:50+00:00",
+          "summary": "L’achat de titres Navigo dans Apple Wallet ne devrait finalement pas être coupé cet été. L’Autorité de régulation des transports a modifié sa position le 20 mai 2026, tandis que la RATP et la SNCF ne feront pas appel, selon Valérie Pécresse. Le bras de fer autour de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89b74759028f",
+          "title": "☕️ Starlink augmente le prix de ses forfaits en France",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/starlink-augmente-le-prix-de-ses-forfaits-en-france/",
+          "category": "ia",
+          "published_at": "2026-05-22T09:04:11+00:00",
+          "summary": "Starlink a commencé à informer ses abonnés français d&#8217;une hausse de prix à venir sur le montant de ses abonnements, qui sera appliquée au 20 juin prochain. Elle se répercute également dès à présent sur les nouveaux clients. Les trois forfaits résidentiels passent ainsi à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06b80ddc775f",
+          "title": "Lewis Capaldi on Bouncing Back From ‘Detrimental’ Burnout & His Next Chapter: ‘I Don’t Want to Phone In Anything Ever Again’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/features/lewis-capaldi-billboard-uk-cover-story-interview-1236252517/",
+          "category": "ia",
+          "published_at": "2026-05-22T09:00:00+00:00",
+          "summary": "After overcoming a breakdown in his mental health, the Scottish singer’s triumphant North American arena tour marks the culmination of a long, hard-fought journey back to himself.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b2aca2fc81d",
+          "title": "Qobuz and Rough Trade announce new two-year partnership",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/qobuz-and-rough-trade-announce-new-two-year-partnership/",
+          "category": "musique",
+          "published_at": "2026-05-22T08:53:40+00:00",
+          "summary": "As veteran indie label and music retailer Rough Trade approaches its 50th anniversary, and French music streaming platform Qobuz (nearly) its 10th, the two are launching a new two-year partnership [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c832beb2113",
+          "title": "Netflix ne possède pas Emily in Paris (et c’est précisément pour ça que la série s’arrête)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258505-netflix-ne-possede-pas-emily-in-paris-et-cest-precisement-pour-ca-que-la-serie-sarrete.html",
+          "category": "justice",
+          "published_at": "2026-05-22T08:36:09+00:00",
+          "summary": "Toutes les bonnes choses ont une fin, surtout à Hollywood.&nbsp;L'annonce de la conclusion d'Emily in Paris&nbsp;après sa sixième saison vient de tomber. Or, les raisons de cet arrêt programmé ne sont pas artistiques, mais purement financières et stratégiques. Décryptage des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e58db854484e",
+          "title": "Madonna a inspiré Silent Hill 2, mais pas pour les raisons que vous pensez",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258467-non-madonna-na-pas-inspire-silent-hill-2-et-cest-son-directeur-artistique-qui-le-dit.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-22T08:34:24+00:00",
+          "summary": "Vous ne le saviez peut-être pas, mais une légende tenace circule depuis quelques années selon laquelle Madonna aurait influencé la création du deuxième épisode de Silent Hill. Une rumeur qui ne fait visiblement plus vraiment rire le directeur artistique du jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4cc46f949f16",
+          "title": "GTA 6 va pouvoir s’appuyer sur la Coupe du Monde de foot pour assurer sa promotion",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258449-gta-6-va-pouvoir-sappuyer-sur-la-coupe-du-monde-de-foot-pour-assurer-sa-promotion.html",
+          "category": "ia",
+          "published_at": "2026-05-22T08:31:05+00:00",
+          "summary": "Durant son dernier bilan financier, Take-Two Interactive a rappelé que la campagne promotionnelle de GTA 6 débutera cet été. La Coupe du Monde de football pourrait d'ailleurs offrir une sacrée exposition au jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ff2f081aa80",
+          "title": "‘An Incredible Story to Tell’: Filmmaker Wes Orshoski Talks Paul Di’Anno Documentary",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/filmmaker-wes-orshoski-interview-paul-dianno-documentary-1236252362/",
+          "category": "musique",
+          "published_at": "2026-05-22T08:30:00+00:00",
+          "summary": "Billboard caught up with the director to discuss his new feature-length doc, Di’Anno – Iron Maiden’s Lost Singer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7d9dc00ffcf",
+          "title": "☕️ Les « plans de performance » qui poussent des salariés à démissionner débarquent en France",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/les-plans-de-performance-qui-poussent-des-salaries-a-demissionner-debarquent-en-france/",
+          "category": "institutionnel",
+          "published_at": "2026-05-22T08:28:00+00:00",
+          "summary": "Importés des États-Unis, les plans de retour à la performance visent normalement à « soutenir le salarié dans sa progression et de lui permettre de maintenir son employabilité », relève Basta. Également connus sous les acronymes PIP (performance improvement plan), PRPA, PAP ou…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2cd9cae08521",
+          "title": "Éclipse solaire 2026 : où acheter des lunettes certifiées et vraiment fiables pour le 12 août ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2237131-eclipse-solaire-2026-ou-trouver-des-lunettes-vraiment-aux-normes-pour-le-12-aout.html",
+          "category": "ia",
+          "published_at": "2026-05-22T08:12:20+00:00",
+          "summary": "L'éclipse solaire du 12 août 2026 sera le phénomène astronomique majeur en France depuis celle, historique, du 11 août 1999. Face au risque de lésions oculaires graves, l'utilisation de protections homologuées est obligatoire pour l'observation directe. Découvrez comment bien…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e7834338b8e",
+          "title": "IA générative : l’Arcep appelle à faire de l’écoconception un « levier stratégique »",
+          "source": "Next INpact",
+          "url": "https://next.ink/238744/ia-generative-larcep-appelle-a-faire-de-lecoconception-un-levier-strategique/",
+          "category": "ia",
+          "published_at": "2026-05-22T08:07:23+00:00",
+          "summary": "Devant les impacts énergétiques et environnementaux de l’intelligence artificielle générative, l’ARCEP appelle à améliorer les mesures réalisées tout au long de la chaîne de valeur, ainsi qu&#8217;à promouvoir l’écoconception des services et la maîtrise des usages. La maîtrise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c5fc0b6e437",
+          "title": "Pic de chaleur : pourquoi il ne faut pas prendre de douche froide",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1475176-pic-de-chaleur-pourquoi-il-ne-faut-pas-prendre-de-douche-froide.html",
+          "category": "ia",
+          "published_at": "2026-05-22T08:05:28+00:00",
+          "summary": "Avec le retour de la chaleur en France, il est tentant de prendre une douche froide, voire glacée, pour espérer se rafraichir. Cependant, ce n'est pas l'idéal en période de pic de chaleur ou de canicule. Alors, douche chaude ou douche froide ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "affe6886ea5b",
+          "title": "À 40 secondes du décollage, SpaceX stoppe sur le fil le vol de la fusée géante Starship",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2258447-a-40-secondes-du-decollage-spacex-stoppe-sur-le-fil-le-vol-de-la-fusee-geante-starship.html",
+          "category": "ia",
+          "published_at": "2026-05-22T07:56:18+00:00",
+          "summary": "Nouvelle péripétie pour SpaceX : l'entreprise américaine n'a pas pu faire partir sa fusée Starship. C’est la quatrième fois en une semaine que la fusée géante d’Elon Musk reste clouée au sol.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34347cf46fe0",
+          "title": "Le gouvernement aide les taxis à passer à l’électrique, mais avec plusieurs conditions",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2258509-le-gouvernement-aide-les-taxis-a-passer-a-lelectrique-mais-avec-plusieurs-conditions.html",
+          "category": "ia",
+          "published_at": "2026-05-22T07:44:38+00:00",
+          "summary": "Le gouvernement français veut aider les chauffeurs de taxis qui le souhaitent à passer à la voiture électrique, avec un bonus qui leur sera spécifique. Voici ce que l’on sait déjà de cette mesure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68fd23fa3db1",
+          "title": "Est-ce que vous méritez vraiment d’aller à un concert ? Spotify vous le dira",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258431-est-ce-que-vous-meritez-vraiment-daller-a-un-concert-spotify-vous-le-dira.html",
+          "category": "musique",
+          "published_at": "2026-05-22T07:26:11+00:00",
+          "summary": "Annoncée le 21 mai 2026, Spotify Reserved permet à la plateforme de réserver des places de concert aux fans les plus fidèles d’un artiste, avant la mise en vente générale. D’abord lancée aux États-Unis pour les abonnés Premium, la fonctionnalité doit ensuite être étendue à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45aa51f4c423",
+          "title": "The latest Music Business Worldwide Magazine is out now. Read it here.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-latest-music-business-worldwide-magazine-is-out-now-read-it-here/",
+          "category": "musique",
+          "published_at": "2026-05-22T07:14:10+00:00",
+          "summary": "As ever, the latest issue is packed with insight about the past, present, and future of the music business... plus impressive people.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bceeb4b6dc9",
+          "title": "Destiny 2, c’est fini",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258429-destiny-2-cest-fini.html",
+          "category": "ia",
+          "published_at": "2026-05-22T07:06:40+00:00",
+          "summary": "Bungie a annoncé le développement de l'ultime contenu à destination de Destiny 2, laissant les nombreux fans dans l'attente quant à l'avenir de la saga, à court terme, comme dans un horizon plus lointain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2256993b6f84",
+          "title": "☕️ Projet Nova : Mozilla donne un avant-goût des évolutions de design de Firefox",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/projet-nova-mozilla-donne-un-avant-gout-des-evolutions-de-design-de-firefox/",
+          "category": "institutionnel",
+          "published_at": "2026-05-22T06:47:00+00:00",
+          "summary": "Plus rond, plus coloré, et plus facile à personnaliser : Firefox devrait faire l&#8217;objet d&#8217;une refonte d&#8217;interface dans le courant de l&#8217;année. Mozilla a donné un avant-goût de son travail de design en cours, surnommé projet Nova en interne, dans un billet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e137596b5efb",
+          "title": "J’ai réalisé un rêve d’enfance grâce à Google Genie 3 (et le potentiel est fou)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2258395-jai-realise-un-reve-denfance-grace-a-google-genie-3-et-le-potentiel-est-fou.html",
+          "category": "ia",
+          "published_at": "2026-05-22T06:28:53+00:00",
+          "summary": "À la Google I/O 2026, Numerama a pu essayer le modèle Genie 3 de Google DeepMind, désormais capable de générer un monde virtuel jouable à partir d'une simple image Google Street View. Une démo bluffante qui ouvre une porte vertigineuse pour le secteur du jeu vidéo… et qui pose…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c5d39430d82",
+          "title": "[MàJ] Vols de données : des pirates de moins de 25 ans, seuls dans leurs chambres",
+          "source": "Next INpact",
+          "url": "https://next.ink/238669/vols-de-donnees-des-pirates-de-moins-de-25-ans-seuls-dans-leurs-chambres/",
+          "category": "ia",
+          "published_at": "2026-05-22T06:24:00+00:00",
+          "summary": "« J’étais en manque d’attention et seul dans ma chambre. Je ne voyais personne, je m’ennuyais et j’ai dérapé », a expliqué le maraîcher de 21 ans mis en examen pour avoir piraté le fichier des détenteurs d&#8217;armes à feu. Le Monde revient aussi sur le profil de ShinyHunters,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe4ea5aae128",
+          "title": "J’ai essayé les lunettes de Google et Xreal (Aura) et je pense que les casques VR sont cuits",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2258363-jai-essaye-les-lunettes-de-google-et-xreal-aura-et-je-pense-que-les-casques-vr-sont-cuits.html",
+          "category": "ia",
+          "published_at": "2026-05-22T06:20:59+00:00",
+          "summary": "À la Google I/O 2026, Numerama a eu la possibilité d'essayer en avant-première les lunettes « Project Aura » de Google et Xreal, les premières à projeter Android XR au milieu de la vision. Grâce à leurs verres transparents et électrochromes, elles éliminent les défauts…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8c38161a406",
+          "title": "‘Give a Standing Ovation For This Man’: Jack White Salutes Stephen Colbert After ‘Late Night’ Finale",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/jack-white-salutes-stephen-colbert-late-night-finale-1236254435/",
+          "category": "musique",
+          "published_at": "2026-05-22T06:11:24+00:00",
+          "summary": "\"It is absolutely ridiculous that we live in a country where a President's ego can vindictively censor network television.....and nobody stops him,” writes Jack White.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3228d8f8d930",
+          "title": "BTS Shares Details for Asia and Australia Legs of ‘ARIRANG’ World Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/bts-venue-on-sale-details-asia-australia-arirang-world-tour-1236254420/",
+          "category": "ia",
+          "published_at": "2026-05-22T05:32:45+00:00",
+          "summary": "The Asia swing gets underway on Thursday, Nov. 19.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a99ce98be47",
+          "title": "Olivia Rodrigo, Charli xcx, Lola Young & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-charli-xcx-new-music-friday-guide-1236253428/",
+          "category": "musique",
+          "published_at": "2026-05-22T04:44:14+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ba0cb016611",
+          "title": "Paul McCartney Is Stephen Colbert’s Final Musical Guest on ‘The Late Show’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/paul-mccartney-stephen-colbert-final-guest-late-show-1236254402/",
+          "category": "musique",
+          "published_at": "2026-05-22T04:36:20+00:00",
+          "summary": "McCartney completed the full circle, visiting the scene of the Beatles' historic TV performance in 1964.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22a50cd89dd8",
+          "title": "Dua Lipa Releases ‘Live From Mexico’ Album & Radical Optimism Tour Concert Film: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/dua-lipa-live-from-mexico-album-film-1236254105/",
+          "category": "musique",
+          "published_at": "2026-05-22T04:05:18+00:00",
+          "summary": "It's the \"End of an Era.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3eae592d1141",
+          "title": "Olivia Rodrigo Finds ‘The Cure’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-releases-the-cure-stream-it-now-1236254015/",
+          "category": "ia",
+          "published_at": "2026-05-22T04:01:39+00:00",
+          "summary": "The second single from You Seem Pretty Sad for a Girl So in Love is here.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-21",
       "articles": [
+        {
+          "id": "110217400d78",
+          "title": "Warner Music COO, Armin Zerza: Music is under-monetized, under-digitized, and ripe for ‘years of productivity’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-armin-zerza-music-is-under-monetized-under-digitized-and-ripe-for-years-of-productivity/",
+          "category": "musique",
+          "published_at": "2026-05-21T16:54:10+00:00",
+          "summary": "Zerza appeared at the JPMorgan Global Technology, Media and Communications Conference on Wednesday (May 20)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf1d32cee77e",
+          "title": "Peugeot, Fiat, Citroën, Opel… tout ce que prépare Stellantis jusqu’en 2030",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2258209-peugeot-fiat-citroen-opel-tout-ce-que-prepare-stellantis-jusquen-2030.html",
+          "category": "ia",
+          "published_at": "2026-05-21T16:18:39+00:00",
+          "summary": "Une importante conférence stratégique de Stellantis se tenait ce jeudi 21 mai 2026. À l’exception de la confirmation de la Citroën 2CV, les annonces n’ont cependant pas vraiment été excitantes. Rapide tour d’horizon de ce qu’il faut retenir des principales nouveautés à venir…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f75941f0dc52",
+          "title": "Spotify says it’s India’s “market leader in audio-streaming”, at Investor Day event",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/spotify-says-its-indias-market-leader-in-audio-streaming-at-investor-day-event/",
+          "category": "musique",
+          "published_at": "2026-05-21T16:15:59+00:00",
+          "summary": "More than seven years after Spotify began operating in India, the country got some significant talk time during one of its presentations. At its Investor Day event in New York [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc1b9784382a",
+          "title": "Abbey Road Institute Mumbai and Bay Owl Studios launch scholarship for women",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/abbey-road-institute-mumbai-and-bay-owl-studios-launch-scholarship-for-women/",
+          "category": "ia",
+          "published_at": "2026-05-21T16:10:19+00:00",
+          "summary": "Varun Parikh, the director of the India outpost of the UK’s Abbey Road Institute that operates out of Mumbai’s Bay Owl Studios, observed a startling statistic when going through the [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c78662e3114e",
+          "title": "Cette émission culte de votre adolescence revient sur Paramount+",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258179-cette-emission-culte-de-votre-adolescence-revient-sur-paramount.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-21T16:02:35+00:00",
+          "summary": "Avis aux nostalgiques des cascades les plus stupides de la télévision.&nbsp;À l'approche de la sortie au cinéma du cinquième et ultime film de la franchise, l'intégralité de la série originale&nbsp;Jackass&nbsp;vient de faire sa réapparition sur Paramount+. Une excellente…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5822320fb4b8",
+          "title": "Spotify to reserve concert tickets for superfans on Premium tier; Live Nation confirmed as launch partner as companies strike multi-year deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-to-reserve-concert-tickets-for-superfans-on-premium-tier-live-nation-confirmed-as-launch-partner-as-companies-strike-multi-year-deal/",
+          "category": "musique",
+          "published_at": "2026-05-21T16:00:20+00:00",
+          "summary": "Eligible fans will have what Spotify describes as 'a reserved window to purchase before tickets are on sale to the general public'\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54d4520f4c45",
+          "title": "Avatar Le Dernier Maître de l’Air saison 2 : le premier trailer dévoilé par Netflix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258051-avatar-le-dernier-maitre-de-lair-saison-2-le-premier-trailer-devoile-par-netflix.html",
+          "category": "ia",
+          "published_at": "2026-05-21T15:20:00+00:00",
+          "summary": "La guerre pour le Royaume de la Terre est déclarée.&nbsp;Netflix vient de mettre en ligne la toute première bande-annonce de la saison 2 d'Avatar : Le Dernier Maître de l'Air. Entre combats titanesques, maîtrise des éléments et menaces grandissantes de la Nation du Feu, ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed2a969cdab8",
+          "title": "Discord fait un pas historique pour votre vie privée, mais s’arrête au milieu du gué",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2257613-discord-fait-un-pas-historique-pour-votre-vie-privee-mais-sarrete-au-milieu-du-gue.html",
+          "category": "ia",
+          "published_at": "2026-05-21T15:18:00+00:00",
+          "summary": "Longtemps pointé du doigt pour ses lacunes en matière de confidentialité, Discord opère un virage historique. L’application déploie le chiffrement de bout en bout par défaut pour sécuriser l’ensemble de ses flux audio et vidéo. Une mise à niveau technique majeure, qui cache…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "454ec43f907a",
+          "title": "Spotify will now reserve concert tickets for subscribers who are ‘superfans’ of artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/spotify-will-now-reserve-concert-tickets-for-subscribers-who-are-superfans-of-artists/",
+          "category": "musique",
+          "published_at": "2026-05-21T15:16:07+00:00",
+          "summary": "One of the key announcements at Spotify&#8217;s investor day, Spotify Reserved, deepens its involvement in live music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f50b1c7fd47",
+          "title": "Spotify and UMG sign licensing deals to launch an AI tool for ‘fan-made covers and remixes’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/spotify-and-umg-sign-licensing-deals-to-launch-an-ai-tool-for-fan-made-covers-and-remixes/",
+          "category": "musique",
+          "published_at": "2026-05-21T15:10:18+00:00",
+          "summary": "Spotify&#8217;s &#8216;Investor Day&#8217; event in New York has thrown up two key music announcements today. The second is a new GenAI tool with UMG.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd599b7921bd",
+          "title": "Ce robot bienveillant utilise l’IA pour ausculter les plantes et détecter leur stress",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2257975-ce-robot-bienveillant-utilise-lia-pour-ausculter-les-plantes-et-detecter-leur-stress.html",
+          "category": "ia",
+          "published_at": "2026-05-21T15:07:47+00:00",
+          "summary": "Au Chelsea Flower Show 2026, l’Université de Lincoln a décroché une médaille d’argent avec PhenAIx, un robot dopé à l’IA qui ausculte les plantes. Cela peut notamment aider les chercheurs à repérer les variétés les plus résistantes face au changement climatique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "812849f157cc",
+          "title": "Spotify and Universal Music Group strike landmark deal to let fans create AI covers and remixes – as a paid Premium add-on",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-and-universal-music-group-strike-landmark-deal-to-let-fans-create-ai-covers-and-remixes-as-a-paid-premium-add-on/",
+          "category": "musique",
+          "published_at": "2026-05-21T15:06:49+00:00",
+          "summary": "The agreements span both recorded music and music publishing, and will see the tool powered by generative AI technology.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a62543fde470",
+          "title": "EXPORT SUCCESS STORIES – Épisode 1 / 2026",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/export-success-stories-episode-1-2026/",
+          "category": "musique",
+          "published_at": "2026-05-21T14:56:39+00:00",
+          "summary": "A l&#8217;occasion de la publication des certifications export 2025 par le Centre National de la Musique en collaboration avec le Snep, nous ouvrons une nouvelle saison d&#8217;Export Success Stories avec un premier épisode consacré aux artistes produits en France dont les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e948c4e59d97",
+          "title": "Snap, Meta and Roblox promise more action to protect children",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/snap-meta-and-roblox-promise-more-action-to-protect-children/",
+          "category": "ia",
+          "published_at": "2026-05-21T12:43:00+00:00",
+          "summary": "This is very much the season for big digital platforms rushing to announce new measures to protect children and young people on their services. Related: this is also very much the season of a new round of menacing noises from regulators over these issues. UK communications and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e857878d0ae",
+          "title": "Peanuts music rightsholder launches four infringement lawsuits",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/peanuts-music-rightsholder-launches-four-infringement-lawsuits/",
+          "category": "musique",
+          "published_at": "2026-05-21T12:36:00+00:00",
+          "summary": "As Charlie Brown might say: good grief! The music from the Peanuts TV shows and films is at the centre of four new lawsuits filed by its rightsholder Lee Mendelson Film Productions (LMFP). The company oversees the compositions and arrangements of jazz artist Vince Guaraldi,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "287d65a1df70",
+          "title": "Stability AI launches its latest, fully-licensed music model",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/stability-ai-launches-its-latest-fully-licensed-music-model/",
+          "category": "ia",
+          "published_at": "2026-05-21T12:30:00+00:00",
+          "summary": "Stability AI is one of the AI companies that has steered firmly away from using commercial music without permission to train its music models. It used production music for the first version of its Stable Audio tool, which was focused on creating short samples rather than full…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2fa2650830e0",
+          "title": "US No Fakes Act returns – and this time it includes music-streaming",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/us-no-fakes-act-returns-and-this-time-it-includes-music-streaming/",
+          "category": "ia",
+          "published_at": "2026-05-21T12:30:00+00:00",
+          "summary": "Since 2023, American politicians have been trying to tackle unauthorised AI deepfakes with a piece of legislation called the No Fakes Act. It was originally unveiled as a draft in 2023, then formally introduced in the US Senate in 2024. However, it ran out of time to become law…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abfc90de1a12",
+          "title": "Beatport saw surge in subscriptions from Latin America in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/beatport-saw-surge-in-subscriptions-from-latin-america-in-2025/",
+          "category": "musique",
+          "published_at": "2026-05-21T12:30:00+00:00",
+          "summary": "Beatport’s business is growing rapidly in Latin America. The electronic-music service saw its user registrations in the region grow by 25% in 2025, and its paying subscriptions increase by 41%. The stats were revealed in Beatport’s announcement that ‘Latin Electronic’ is now a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74da7e30f570",
+          "title": "Shamrock Capital closes new fund with $813m to spend on rights",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/21/shamrock-capital-closes-new-fund-with-813m-to-spend-on-rights/",
+          "category": "musique",
+          "published_at": "2026-05-21T12:24:00+00:00",
+          "summary": "The last time investment firm Shamrock Capital was making headlines, it was because it had sold the recordings rights to Taylor Swift’s first six albums back to the artist in 2025, winning Swift’s praise for the “no strings attached” deal. Now the company is plotting its next…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdf23a86cfa8",
+          "title": "☕️ Navigateurs : Vivaldi 8.0 adopte un design « unifié » et de nouveaux thèmes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/navigateurs-vivaldi-8-0-adopte-un-design-unifie-et-de-nouveaux-themes/",
+          "category": "ia",
+          "published_at": "2026-05-21T12:08:00+00:00",
+          "summary": "Comme lors du précédent changement de version, c&#8217;est autour de l&#8217;interface que se concentrent les nouveautés de Vivaldi 8.0, publié jeudi 21 mai par l&#8217;éditeur norvégien. Il en parle comme de sa «&#160;plus grande refonte de design à ce jour&#160;» et promet des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04de1e45e074",
+          "title": "Ordre du jour de la séance plénière du 21 mai 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-mai-2026",
+          "category": "institutionnel",
+          "published_at": "2026-05-21T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 21 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c99ab7b53590",
+          "title": "Gigafactory IA en France : Scaleway, Bull, Orange, EDF… unis pour l’appel d’offres de l’UE",
+          "source": "Next INpact",
+          "url": "https://next.ink/238558/gigafactory-ia-en-france-scaleway-bull-orange-edf-unis-pour-lappel-doffres-de-lue/",
+          "category": "ia",
+          "published_at": "2026-05-21T11:37:49+00:00",
+          "summary": "Les industriels français du secteur se réunissent pour pousser la Commission européenne à réaliser sa promesse d&#8217;investissement de 20 milliards d&#8217;euros dans cinq gigafactories IA à travers l&#8217;Europe. Scaleway voit Orange, EDF, Ardian et Capgemini la rejoindre…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "40caa383adca",
           "title": "Spotify backs US bill to outlaw AI deepfakes, joining UMG, Sony, Warner, Google, and OpenAI in growing coalition",
