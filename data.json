@@ -1,9 +1,464 @@
 {
-  "generated_at": "2026-05-22T11:17:54.347191+00:00",
+  "generated_at": "2026-05-23T10:04:52.168630+00:00",
   "days": [
+    {
+      "date": "2026-05-23",
+      "articles": [
+        {
+          "id": "8b639a3e7be6",
+          "title": "C’est officiel : la trilogie culte Le Parrain va avoir droit à une suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259505-la-trilogie-culte-le-parrain-va-avoir-droit-a-une-suite.html",
+          "category": "ia",
+          "published_at": "2026-05-23T09:12:49+00:00",
+          "summary": "La famille Corleone n’en a pas fini avec le cinéma. Le Parrain va revenir sur grand écran avec un quatrième film, adapté du nouveau roman de l’autrice Adriana Trigiani.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21268ec0f0ba",
+          "title": "Plantation Simulator : le jeu Steam accusé de racisme opère un virage à 180 degrés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259487-plantation-simulator-le-jeu-steam-accuse-de-racisme-opere-un-virage-a-180-degres.html",
+          "category": "ia",
+          "published_at": "2026-05-23T08:15:09+00:00",
+          "summary": "Le jeu Plantation Simulator, récemment publié sur Steam, dans lequel vous incarnez un esclavagiste blanc, a essuyé une vague de critiques, notamment de la ministre déléguée chargée de l’Intelligence artificielle et du Numérique, Anne Le Hénanff. Depuis, un patch a corrigé les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09a1280f3a80",
+          "title": "Tommy Lee Debuts ‘Tommyland Rides Again’ With New Track ‘Stupid World’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/tommy-lee-tommyland-rides-again-1236255638/",
+          "category": "justice",
+          "published_at": "2026-05-23T07:48:38+00:00",
+          "summary": "It marks the first time the record has been available on digital streaming platforms.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed6a6c4ebf53",
+          "title": "Le somptueux artbook L’Art de Berserk est enfin en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258111-le-somptueux-artbook-lart-de-berserk-est-enfin-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-05-23T07:30:00+00:00",
+          "summary": "[Deal du jour] Alors que le manga va doucement, mais sûrement, vers sa conclusion, Glénat a annoncé éditer l'artbook de Berserk en France. Les précommandes sont ouvertes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99c7c7ac979a",
+          "title": "Nouveau succès pour le Starship V3 de SpaceX, non sans quelques bémols",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2259469-nouveau-succes-pour-le-starship-v3-de-spacex-non-sans-quelques-bemols.html",
+          "category": "ia",
+          "published_at": "2026-05-23T07:23:07+00:00",
+          "summary": "La dernière version de la fusée Starship de SpaceX, la fusée la plus puissante de l'histoire, vient d’effectuer un 12ᵉ vol d’essai réussi, malgré quelques dysfonctionnements au niveau des moteurs. Une démonstration toutefois spectaculaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e07129406726",
+          "title": "Post Malone Announces Australian and New Zealand Stadium Run With Don Toliver as Special Guest",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/post-malone-australian-new-zealand-stadium-don-toliver-special-guest-1236255635/",
+          "category": "musique",
+          "published_at": "2026-05-23T04:51:14+00:00",
+          "summary": "The Big Ass World Tour touches down at Melbourne's Marvel Stadium on Oct. 9,",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e47594afaab",
+          "title": "ASIAN KUNG-FU GENERATION at 30: Members Talk New Releases ‘Fujieda EP’ & ‘Skins,’ Making Music for a Fractured World, More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/asian-kung-fu-generation-30-interview-fujieda-ep-skins-1236253583/",
+          "category": "musique",
+          "published_at": "2026-05-23T02:00:00+00:00",
+          "summary": "Billboard Japan spoke with the band about the making of Fujieda EP, the perspective behind \"Skins\" &#38; their 30th-anniversary overseas shows.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-22",
       "articles": [
+        {
+          "id": "2bb18ce4e9a9",
+          "title": "Here’s Where to Watch the 2026 French Open Live Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/french-open-2026-tennis-watch-live-online-free-1236251399/",
+          "category": "musique",
+          "published_at": "2026-05-22T22:54:10+00:00",
+          "summary": "Live from Roland Garros Stadium in Paris, France, the tennis Grand Slam tournament starts Sunday, May 24.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fcabc5300e8",
+          "title": "In Canada: The Beaches Reach a New Streaming Peak After Major Sync on Prime Video’s ‘Off Campus’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/in-canada-the-beaches-reach-a-new-streaming-peak/",
+          "category": "justice",
+          "published_at": "2026-05-22T22:24:43+00:00",
+          "summary": "ArtHouse Media Group launched a new venue in Toronto and the industry mourns Cris Derksen",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "264d0b0aea2f",
+          "title": "NCT’s TAEYONG on His Evolution & Letting Instinct Lead While Making ‘WYLD’: ‘I Just Do What I Want’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/nct-taeyong-wyld-interview-1236253135/",
+          "category": "musique",
+          "published_at": "2026-05-22T21:23:34+00:00",
+          "summary": "Following two years in the military, the leader of K-pop's experimental clan explains why his first studio album is symbolic of freedom and growth.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a59e4ac90335",
+          "title": "West Coast Get Down Jazz Trombonist & Kendrick Lamar Collaborator Ryan Porter Dead at 46",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/ryan-porter-death-1236255370/",
+          "category": "ia",
+          "published_at": "2026-05-22T21:13:54+00:00",
+          "summary": "Bandmate Tony Austin said Porter was involved in a \"severe car accident\" in April.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2765f4ce9491",
+          "title": "Christian Nodal Raises the White Flag on New Album, ‘Bandera Blanca’: All Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/christian-nodal-new-album-bandera-blanca-best-songs-ranked/",
+          "category": "ia",
+          "published_at": "2026-05-22T20:47:53+00:00",
+          "summary": "From \"Incompatibles\" to \"Una Mujer Como la Suya\" and more, discover how we ranked the 13 songs on the LP — all the way to our very favorite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b6de6db9347",
+          "title": "Avec son « écran rouge de la mort », Riot Games neutralise désormais le matériel des tricheurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259279-avec-son-ecran-rouge-de-la-mort-riot-games-neutralise-desormais-le-materiel-des-tricheurs.html",
+          "category": "ia",
+          "published_at": "2026-05-22T17:15:46+00:00",
+          "summary": "La dernière mise à jour anti-triche de Riot Games (Valorant) neutralise désormais directement le système du matériel informatique des tricheurs. Une méthode ultra-radicale qui met hors d'usage des équipements à plusieurs milliers d'euros, mais qui suscite déjà de vives réactions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d488b0ddadc",
+          "title": "Obsession : ce film d’horreur actuellement à l’affiche est en passe de dépasser un record historique absolu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259201-obsession-ce-film-dhorreur-actuellement-a-laffiche-est-en-passe-de-depasser-un-record-historique-absolu.html",
+          "category": "ia",
+          "published_at": "2026-05-22T17:10:00+00:00",
+          "summary": "Le cinéma d'horreur tient son nouveau miracle économique.&nbsp;Réalisé avec un budget de misère, le thriller surnaturel&nbsp;Obsession&nbsp;est en train de bousculer les géants du box-office mondial. Porté par un bouche-à-oreille phénoménal, il s'apprête à réaliser un exploit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "180a904c1c4b",
+          "title": "Stellantis fait du neuf avec du vieux : ce qu’il faut retenir du plan stratégique FaSTLAne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2259191-stellantis-fait-du-neuf-avec-du-vieux-ce-quil-faut-retenir-du-plan-strategique-fastlane.html",
+          "category": "ia",
+          "published_at": "2026-05-22T16:00:19+00:00",
+          "summary": "Réorganisation des marques, plateforme STLA One, nouveaux partenariats : Stellantis a dévoilé sa feuille de route jusqu’en 2030. Mais la rupture avec l’ère Tavares reste particulièrement limitée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e037af5524a",
+          "title": "Pour deux Lego achetés, le deuxième est à moitié prix sur La Fnac, mais il faut faire vite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259223-pour-deux-lego-achetes-le-deuxieme-est-a-moitie-prix-sur-la-fnac.html",
+          "category": "ia",
+          "published_at": "2026-05-22T15:59:18+00:00",
+          "summary": "[Deal du jour] À l'occasion de la Fête des mères, La Fnac lance une offre intéressante où le deuxième Lego acheté est à moitié prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c02ab6e10186",
+          "title": "Saisie d’un VPN utilisé dans la quasi-totalité des grandes enquêtes cyber d’Europol",
+          "source": "Next INpact",
+          "url": "https://next.ink/238940/saisie-dun-vpn-utilise-dans-la-quasi-totalite-des-grandes-enquetes-cyber-deuropol/",
+          "category": "ia",
+          "published_at": "2026-05-22T15:53:00+00:00",
+          "summary": "Au terme d&#8217;une enquête ouverte fin 2021, les enquêteurs des polices française, néerlandaise et de 14 autres pays ont saisi et démantelé un service de VPN qui était « presque exclusivement » promu sur les forums de cybercriminels russophones. Son infrastructure aurait été…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df053aae7edd",
+          "title": "Voici 7 plantes capables de vraiment rafraîchir votre intérieur quand il fait chaud",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1411588-voici-7-plantes-capables-de-vraiment-rafraichir-votre-interieur-quand-il-fait-chaud.html",
+          "category": "ia",
+          "published_at": "2026-05-22T15:25:02+00:00",
+          "summary": "Pour apporter un peu de fraicheur à un logement pendant un épisode de fortes chaleurs, les plantes sont de précieuses alliées. Dracaena, strelitzia, calathea... voici celles qui aident à rafraichir l'intérieur d'une maison ou d'un appartement (et comment en prendre soin).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c18550df651c",
+          "title": "From Spotify and UMG’s landmark AI deal to Shamrock’s $813M raise… it’s MBW’s Weekly Round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-spotify-and-umgs-landmark-ai-deal-to-shamrocks-813m-raise-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-05-22T15:24:49+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29561f88b6fb",
+          "title": "☕️ Rockstar confirme la date du 19 novembre pour la sortie de GTA VI",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/rockstar-confirme-la-date-du-19-novembre-pour-la-sortie-de-gta-vi/",
+          "category": "ia",
+          "published_at": "2026-05-22T15:02:01+00:00",
+          "summary": "Take-Two Interactive, maison mère de Rockstar, a rassuré aussi bien les joueurs que les investisseurs en confirmant, jeudi 21 mai, la date de sortie programmée du prochain opus de la série Grand Theft Auto. Sauf accident sur la dernière ligne droite, le très attendu GTA VI…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "155ecbafab6f",
+          "title": "The Boys : le spin-off Vought Rising prend tout le monde par surprise avec un premier trailer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258709-the-boys-vought-rising-bande-annonce.html",
+          "category": "ia",
+          "published_at": "2026-05-22T14:57:00+00:00",
+          "summary": "Le showrunner Eric Kripke a enfin livré les secrets du final explosif de la saison 5 de The Boys. Alors que l'ultime chapitre de la série phare de Prime Video vient de s'achever, son créateur revient sur le sort réservé à Homelander, une scène clé préparée depuis sept ans, et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b9a0b5f9085",
+          "title": "Vous pouvez oublier Reacher : ce nouveau film détruit tout sur Prime Video",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259077-vous-pouvez-oublier-reacher-ce-nouveau-film-detruit-tout-sur-prime-video.html",
+          "category": "ia",
+          "published_at": "2026-05-22T14:30:00+00:00",
+          "summary": "Alan Ritchson a du souci à se faire. Alors que la série Reacher régnait sans partage sur le trône de l'action de Prime Video, le tout premier héros d'action original de la plateforme vient de faire son grand retour. Sorti ce mercredi, le nouveau film de la franchise Jack Ryan a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f48c0668de5",
+          "title": "Un bug étrange dans Tamagotchi Paradise empêche les Tamagochi de mourir paisiblement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259041-un-bug-etrange-dans-tamagotchi-paradise-empeche-les-tamagochi-de-mourir-paisiblement.html",
+          "category": "ia",
+          "published_at": "2026-05-22T14:19:42+00:00",
+          "summary": "Bandai Namco a présenté ses excuses concernant un bug qui touche les Tamagotchi qui meurent de vieillesse dans Tamagotchi Paradise, la nouvelle version du célèbre jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58e6ad2ba374",
+          "title": "F1 en streaming : où voir le GP du Canada de la saison 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/704990-comment-regarder-le-gp-de-miami-de-f1-en-direct.html",
+          "category": "justice",
+          "published_at": "2026-05-22T13:36:50+00:00",
+          "summary": "Après des mois et des mois d'attente, la Formule 1 a repris ses droits. Et cette saison 2026 s'annonce particulièrement indécise en raison d'une nouvelle réglementation. Pour le moment, c'est l'écurie Mercedes qui domine, avec trois victoires de suite pour Kimi Antonelli.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c411b693328",
+          "title": "Amazon brade ce ventilateur sur pied de Philips pendant seulement quelques heures",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2258949-amazon-brade-ce-ventilateur-sur-pied-de-philips-pendant-seulement-quelques-heures.html",
+          "category": "loi",
+          "published_at": "2026-05-22T13:02:49+00:00",
+          "summary": "[Deal du jour] L’été arrive, et avec les chaleurs habituelles. Il va bientôt falloir ressortir ses ventilateurs du placard, à condition qu'ils soient encore en état de tourner. Ou alors, pourquoi ne pas investir dans un nouveau modèle ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b67ce9ab8e6",
+          "title": "6 smartphones à moins de 300 € à acheter les yeux fermés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1209008-un-bon-smartphone-pas-cher-cest-possible-notre-selection-a-moins-de-300-euros.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-22T13:00:00+00:00",
+          "summary": "Pas besoin de dépenser une fortune pour s'offrir un téléphone moderne qui tient la route. Si vous cherchez le meilleur rapport qualité-prix du moment, plusieurs smartphones à moins de 300 € existent et ils sont dans ce guide.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39afbf7b1136",
+          "title": "Michael 2 : la suite tant attendue a déjà une excellente nouvelle pour les fans de MJ",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258835-michael-2-la-suite-tant-attendue-a-deja-une-excellente-nouvelle-pour-les-fans-de-mj.html",
+          "category": "ia",
+          "published_at": "2026-05-22T12:56:19+00:00",
+          "summary": "À peine sorti, déjà une suite sur les rails, et une immense surprise pour le portefeuille du studio.&nbsp;Alors que le premier biopic&nbsp;Michael&nbsp;écrase tout sur son passage au box-office mondial, le grand patron de Lionsgate vient de confirmer le développement actif…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2da251b6542",
+          "title": "US attorneys general seek Live Nation / Ticketmaster breakup",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/us-attorneys-general-seek-live-nation-ticketmaster-breakup/",
+          "category": "musique",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "Live Nation settled with the US Department of Justice a few days into its antitrust trial, but a number of state attorneys general continued with their lawsuit&#8230; and won. The trial has now moved into its &#8216;remedies&#8217; phase where both sides tell the judge what…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "133f57466f23",
+          "title": "Udio reveals details of its licensed AI-music app Starstruck",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/udio-reveals-details-of-its-licensed-ai-music-app-starstruck/",
+          "category": "musique",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "We all knew that AI-music firm Udio is working on a new service to launch later this year, based on its licensing deals with labels. We also knew that the new service would enable fans to play with the music and sound of artists who&#8217;d opted in, and that it would be a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b093326f162f",
+          "title": "Canada’s levy on global streaming services has tripled to 15%",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/canadas-levy-on-global-streaming-services-has-tripled-to-15/",
+          "category": "musique",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "Music-streaming services have been campaigning hard in the last two years against a levy on their Canadian revenues by the country&#8217;s telecommunications regulator the CRTC, to fund local content and creators. The DSPs and their industry body DiMA were furious about what…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c03f87d2ed2",
+          "title": "US Protect Working Musicians Act aims to boost indies’ agency",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/us-protect-working-musicians-act-aims-to-boost-indies-agency/",
+          "category": "ia",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "This appears to be &#8216;third-time lucky week&#8217; for proposed US legislation relating to the music industry. We reported yesterday on the return of the deepfakes-tackling No Fakes Act after two previous attempts to get it onto the statute books. Now another bill, the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9dc0d4bab253",
+          "title": "MMF shares tactics to combat fake music on artists’ profiles",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/mmf-shares-tactics-to-combat-fake-music-on-artists-profiles/",
+          "category": "musique",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "The last year or two has seen a dispiriting growth in the number of artists finding AI-slop tracks uploaded to their streaming profiles pretending to be them. So much so that Spotify took action in March, launching its &#8216;Artist Profile Protection&#8217; feature. Now UK…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e8ddde15c23",
+          "title": "Endel and Richie Hawtin’s ‘Deeper Focus’ gets ‘remastered and reduced’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/endel-and-richie-hawtins-deeper-focus-gets-remastered-and-reduced/",
+          "category": "justice",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "Five years ago, techno titan Richie Hawtin teamed up with AI-music startup Endel to launch &#8216;Deeper Focus&#8217; – an &#8220;adaptive soundscape&#8221; based on his samples and creative DNA. Since then, it has been streamed for more than 5m hours. Now it&#8217;s getting a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f76a78887101",
+          "title": "WMG-backed pilot shows unsold vinyl records can be recycled",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/wmg-backed-pilot-shows-unsold-vinyl-records-can-be-recycled/",
+          "category": "musique",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "Recycled vinyl has been A Thing for a while now&#8230; but is it really A Thing that sounds as good as non-recycled vinyl? A pilot scheme from Warner Music Group and GZ Media aims to prove that it does. The pilot involved taking 10,000 unsold records, shredding them, and then…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec2bf8ba546a",
+          "title": "Lisa, Anitta and Rema team up for globe-spanning World Cup song",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/lisa-anitta-and-rema-team-up-for-globe-spanning-world-cup-song/",
+          "category": "musique",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "One of the big industry talking points in recent years has been about artists from the most exciting non-Anglo territories collaborating with one another – no English-language artists required to break a track globally. One of the tracks on this year&#8217;s &#8216;Official FIFA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a3f9ed3e52f",
+          "title": "I want to hold your handset: Paul McCartney set for TikTok Q&A",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/i-want-to-hold-your-handset-paul-mccartney-set-for-tiktok-qa/",
+          "category": "musique",
+          "published_at": "2026-05-22T12:30:00+00:00",
+          "summary": "You can&#8217;t fault the promo campaign for Sir Paul McCartney&#8217;s new album &#8216;The Boys of Dungeon Lane&#8217;, which has seen the veteran Beatle popping up on podcasts, late-night talk-shows and various other places. And now TikTok. McCartney will be taking part in a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b66fc853955f",
+          "title": "290 000 € de prime en moyenne : l’accord record de Samsung pour éviter une grève historique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2258777-290-000-e-de-prime-en-moyenne-laccord-record-de-samsung-pour-eviter-une-greve-historique.html",
+          "category": "ia",
+          "published_at": "2026-05-22T12:17:26+00:00",
+          "summary": "La grève de 18 jours qui menaçait Samsung Electronics en Corée du Sud a été suspendue après un accord salarial de dernière minute. Le compromis prévoit une hausse des salaires et un nouveau régime de primes lié aux performances des semi-conducteurs, secteur stratégique dopé par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "698bec065456",
+          "title": "P!NK, Julian Bunetta, and Harvey Mason jr. among honorees at NMPA’s 2026 Annual Meeting",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/pnk-julian-bunetta-and-harvey-mason-jr-among-honorees-at-nmpas-2026-annual-meeting/",
+          "category": "ia",
+          "published_at": "2026-05-22T12:06:17+00:00",
+          "summary": "P!NK will receive this year's NMPA Songwriter Icon Award.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "227a1f17b6aa",
+          "title": "Making the most of YouTube’s CTV features",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/making-the-most-of-youtubes-ctv-features/",
+          "category": "ia",
+          "published_at": "2026-05-22T12:00:00+00:00",
+          "summary": "Connected television (CTV) has transformed how audiences consume content on YouTube, rapidly becoming a massive driver of the platform&#8217;s overall viewership and strategic focus.  Televisions have officially surpassed mobile phones as the primary device for YouTube viewing…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f491b42929bf",
+          "title": "Meta’s marketing insights for social search",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/metas-marketing-insights-for-social-search/",
+          "category": "ia",
+          "published_at": "2026-05-22T12:00:00+00:00",
+          "summary": "Meta has released a three-part series and a 16-page report detailing a fundamental shift in how consumers find products, including artist merch and physical products.  For US users, Google searches have dropped nearly 20% year-on-year, with many users engaging with content…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "49a52f9368d9",
+          "title": "A slice of American pie",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/a-slice-of-american-pie/",
+          "category": "ia",
+          "published_at": "2026-05-22T12:00:00+00:00",
+          "summary": "With the US facing myriad political and economic challenges – most recently brought on by Trump’s war in Iran – it’s safe to say the country is in the midst of a rocky period.  Despite difficult times though, the US remains the world’s first in the recorded music market, and is…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65d299d562bd",
+          "title": "L’Odyssée ne sera pas le film le plus long de Christopher Nolan",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258687-lodyssee-ne-sera-pas-le-film-le-plus-long-de-christopher-nolan.html",
+          "category": "ia",
+          "published_at": "2026-05-22T11:50:00+00:00",
+          "summary": "On connaît désormais la durée du film L'Odyssée, signé Christopher Nolan. La future épopée tiendra les spectatrices et les spectateurs en haleine pendant 2h52, mais ce n'est pas le projet le plus long du cinéaste.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e3bf9edf598",
+          "title": "La loi SURE permettrait à la police scientifique de piocher dans des bases ADN étrangères",
+          "source": "Next INpact",
+          "url": "https://next.ink/238697/la-loi-sure-permettrait-a-la-police-scientifique-de-piocher-dans-des-bases-adn-etrangeres/",
+          "category": "loi",
+          "published_at": "2026-05-22T11:37:00+00:00",
+          "summary": "Le projet de loi SURE qui est en cours de lecture au parlement prévoit que la police scientifique puisse s&#8217;appuyer sur les données collectées par les entreprises étrangères de tests ADN « récréatifs ». Il étend aussi le périmètre des infractions entrainant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bc8f3431310",
+          "title": "Spotify sets out its strategy: ‘No such thing as an average user’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/22/spotify-sets-out-its-strategy-no-such-thing-as-an-average-user/",
+          "category": "musique",
+          "published_at": "2026-05-22T11:30:00+00:00",
+          "summary": "We reported yesterday on two of the big announcements from Spotify&#8217;s &#8216;Investor Day&#8217;: its new &#8216;Reserved&#8217; ticketing feature for superfans and its deal with Universal Music Group for AI fan covers and remixes. But there were plenty of other talking…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0bc5da53d1c1",
+          "title": "Red Dead Redemption 2 détrône Wii Sport du podium des jeux les plus vendus de tous les temps",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2258867-red-dead-redemption-2-detrone-wii-sport-du-podium-des-jeux-les-plus-vendus-de-tous-les-temps.html",
+          "category": "ia",
+          "published_at": "2026-05-22T11:25:00+00:00",
+          "summary": "Alors que tout le monde attend GTA 6 avec une grande impatience, Red Dead Redemption 2, l'autre grand jeu de Rockstar, ne s'est jamais aussi bien vendu.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "bb7b9194febc",
           "title": "Paul McCartney to host global TikTok LIVE Q&A ahead of new album release",
@@ -72,6 +527,16 @@
           "category": "ia",
           "published_at": "2026-05-22T09:56:52+00:00",
           "summary": "[Deal du jour] Le Hisense 75U7Q est un téléviseur Mini LED qui délivre une excellente luminosité ainsi qu'un affichage ultra-fluide. Un modèle qui ravira les cinéphiles, et les joueuses et les joueurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab08a55a7c72",
+          "title": "Universal Music Group and TikTok strike new multi-year licensing deal — with expanded AI protections for artists and songwriters",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-and-tiktok-strike-new-multi-year-licensing-deal-with-expanded-ai-protections-for-artists-and-songwriters/",
+          "category": "musique",
+          "published_at": "2026-05-22T09:32:55+00:00",
+          "summary": "Global deal will also see TikTok and UMG work together to remove unauthorized AI-generated music from the platform\nSource",
           "summary_type": "extrait source"
         },
         {
