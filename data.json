@@ -1,9 +1,354 @@
 {
-  "generated_at": "2026-05-24T10:10:47.908794+00:00",
+  "generated_at": "2026-05-25T12:00:06.886387+00:00",
   "days": [
+    {
+      "date": "2026-05-25",
+      "articles": [
+        {
+          "id": "bfcc251bbd24",
+          "title": "Finalement, l’IA coûte plus cher qu’un humain : la dure réalité financière qui rattrape Microsoft",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2259707-finalement-lia-coute-plus-cher-quun-humain-la-dure-realite-financiere-qui-rattrape-microsoft.html",
+          "category": "ia",
+          "published_at": "2026-05-25T11:35:00+00:00",
+          "summary": "Selon un article publié par The Verge à la mi-mai 2026, Microsoft aurait commencé à annuler la plupart de ses licences Claude Code. D’après des sources internes citées par le média américain, l’entreprise estimerait que certains usages d’agents IA coûtent désormais plus cher que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9406579701e2",
+          "title": "Mauvaise nouvelle si vous vouliez voir Les Maîtres de l’univers au cinéma",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259675-mauvaise-nouvelle-si-vous-vouliez-voir-les-maitres-de-lunivers-au-cinema.html",
+          "category": "ia",
+          "published_at": "2026-05-25T11:00:00+00:00",
+          "summary": "Vous attendiez avec impatience le film Les Maîtres de l'univers ? Eh bien vous n'aurez pas l'occasion de le voir au cinéma. Le blockbuster sortira directement sur Amazon Prime Video.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a522b996d94",
+          "title": "The Mandalorian et Grogu a réalisé le pire démarrage de toute la saga Star Wars de l’ère Disney",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259693-the-mandalorian-et-grogu-a-realise-le-pire-demarrage-de-toute-la-saga-star-wars-de-lere-disney.html",
+          "category": "ia",
+          "published_at": "2026-05-25T10:03:00+00:00",
+          "summary": "Star Wars : The Mandalorian and Grogu a rapporté environ 165 millions de dollars au box-office mondial sur son premier week-end. Ce n'est pas une catastrophe, mais ce sont les débuts les plus faibles pour la franchise depuis son rachat par Disney.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c0051a7f0ab5",
+          "title": "Has Warner Turned A Corner?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/has-warner-turned-a-corner/",
+          "category": "musique",
+          "published_at": "2026-05-25T10:01:00+00:00",
+          "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d47d4ec8f0e3",
+          "title": "☕️ Quand l’IA agentique coûte plus cher que de payer ses employés humains",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/quand-lia-agentique-coute-plus-cher-que-de-payer-ses-employes-humains/",
+          "category": "ia",
+          "published_at": "2026-05-25T09:48:23+00:00",
+          "summary": "Alors que les entreprises se tournent vers l&#8217;IA agentique pour booster leur productivité, mais que les agents sont de plus en plus facturés en fonction du nombre de tokens utilisés, et non plus sous forme d&#8217;abonnement forfaitaire, il devient plus coûteux de payer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb96dc5a2f40",
+          "title": "Coup d’envoi pour un an dans l’espace : l’équipage chinois de Shenzhou-23 est bien arrivé en orbite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2259657-coup-denvoi-pour-un-an-dans-lespace-lequipage-de-shenzhou-23-est-bien-arrive-en-orbite.html",
+          "category": "ia",
+          "published_at": "2026-05-25T09:28:00+00:00",
+          "summary": "Trois astronautes chinois sont arrivés dans le « Palais Céleste », la station orbitale Tiangong ce dimanche. L'un d'entre eux restera un an en continu dans le vaisseau, une première pour la Chine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bf427e6d042",
+          "title": "Live Nation faces calls for another competition investigation as UK lawmakers flag live music market dominance",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-faces-calls-for-another-competition-investigation-as-uk-lawmakers-flag-live-music-market-dominance/",
+          "category": "musique",
+          "published_at": "2026-05-25T09:23:07+00:00",
+          "summary": "MPs concluded that Live Nation meets the threshold for market dominance across multiple areas of the UK live music supply chain.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d4bd7616038",
+          "title": "Ed Sheeran leaves Warner Music Group after 15 years – and 170 million albums sold",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ed-sheeran-leaves-warner-music-group-after-15-years-and-170-million-albums-sold/",
+          "category": "musique",
+          "published_at": "2026-05-25T09:18:39+00:00",
+          "summary": "The singer-songwriter revealed in a newsletter to fans that he parted ways with Atlantic Records and Asylum Records last month.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6e1b29ba0bc",
+          "title": "Spotify and major music DSPs on alert as Canada triples streaming tax to 15%",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-and-major-music-dsps-on-alert-as-canada-triples-streaming-tax-to-15/",
+          "category": "musique",
+          "published_at": "2026-05-25T09:17:12+00:00",
+          "summary": "The Canadian Radio-television and Telecommunications Commission tripled the levy on Netflix, Disney+, and Amazon Prime Video to 15%.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98098a9eb601",
+          "title": "Udio’s licensed AI music app will be called Starstruck, with four creation modes for fans (Report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/udios-licensed-ai-music-app-will-be-called-starstruck-with-four-creation-modes-for-fans-report/",
+          "category": "musique",
+          "published_at": "2026-05-25T09:12:16+00:00",
+          "summary": "Starstruck will offer four modes for users to interact with music from opted-in artists and songwriters: Cover, Reimagine, Remix and Create.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3801b5a2099",
+          "title": "Warner Music partners with GZ Media to show unsold vinyl records can be recycled without compromising sound",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-partners-with-gz-media-to-show-unsold-vinyl-records-can-be-recycled-without-compromising-sound/",
+          "category": "musique",
+          "published_at": "2026-05-25T09:05:54+00:00",
+          "summary": "The pilot processed approximately 10,000 unsold records sourced across multiple artists, titles, and pressing plants.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66e26a273089",
+          "title": "Drake ties Taylor Swift for most Billboard 200 No. 1 albums among solo acts and sets new ARIA chart record with triple drop",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/drake-ties-taylor-swift-for-most-billboard-200-no-1-albums-among-solo-acts-and-sets-new-aria-chart-record-with-triple-drop/",
+          "category": "musique",
+          "published_at": "2026-05-25T09:02:43+00:00",
+          "summary": "\"Iceman\" debuted at No. 1 on the Billboard 200 on May 30, giving the rapper his 15th chart-topper and matching Taylor Swift's tally among solo acts.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0008739efb52",
+          "title": "Garmin Varia : l’accessoire indispensable à vélo est à -38 % sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2259659-garmin-varia-laccessoire-indispensable-a-velo-est-a-38-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-05-25T09:01:00+00:00",
+          "summary": "[Deal du jour] Rouler à vélo en ville l’esprit tranquille passe par l’achat de plusieurs accessoires indispensables, comme ce radar arrière de Garmin en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4861731e3b17",
+          "title": "Neil Young Makes First Live Appearance of 2026 at Vancouver Benefit Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/neil-young-live-vancouver-benefit-concert-1236255952/",
+          "category": "musique",
+          "published_at": "2026-05-25T08:54:33+00:00",
+          "summary": "The surprise appearance came after Young abruptly cancelled a planned European tour in February.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4eb76acc6f1",
+          "title": "Instagram vous laisse personnaliser son algorithme : voici comment reprendre le contrôle de votre fil",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2259649-instagram-vous-laisse-personnaliser-son-algorithme-voici-comment-reprendre-le-controle-de-votre-fil.html",
+          "category": "ia",
+          "published_at": "2026-05-25T08:47:39+00:00",
+          "summary": "Depuis la fin mai 2026, plusieurs utilisateurs français d’Instagram voient apparaître un bouton « Ajouter des centres d’intérêt » dans leur biographie. Déjà aperçu en février 2026 chez certains internautes, cet outil encore en test permettrait de mieux orienter les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "012fe8a59705",
+          "title": "L’autorité de protection des données belge veut désormais porter plainte au pénal",
+          "source": "Next INpact",
+          "url": "https://next.ink/239006/lautorite-de-protection-des-donnees-belge-veut-desormais-porter-plainte-au-penal/",
+          "category": "ia",
+          "published_at": "2026-05-25T08:27:38+00:00",
+          "summary": "Confrontée à un manque de moyens humains, et à la mansuétude de la cour d&#8217;appel, qui « considère que la protection des données est un luxe, un droit qui ne vaut pas la peine d’être défendu » et ramène certaines amendes à l&#8217;euro symbolique, l&#8217;APD belge annonce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afc5f571cc76",
+          "title": "The Batman 2 : ce méchant attendu sera bien de la partie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259625-the-batman-2-ce-mechant-attendu-sera-bien-de-la-partie.html",
+          "category": "ia",
+          "published_at": "2026-05-25T08:27:01+00:00",
+          "summary": "Sebastian Stan, qui a rejoint le casting de The Batman 2 dans le costume d'Harvey Dent, a confié qu'il incarnera en réalité plusieurs rôles. On assistera donc à sa transformation en Double-Face.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56659447e9fc",
+          "title": "Les « JO sous stéroïdes » ont eu lieu : voici pourquoi le dopage ne fait pas de miracles",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2259609-les-jo-sous-steroides-ont-eu-lieu-voici-pourquoi-le-dopage-ne-fait-pas-de-miracles.html",
+          "category": "ia",
+          "published_at": "2026-05-25T07:41:19+00:00",
+          "summary": "Le 24 mai 2026, les premiers Enhanced Games se sont tenus à Las Vegas avec une promesse simple : autoriser le dopage pour repousser les limites du corps humain. Mais derrière le storytelling, cette première édition a surtout accouché de records « maison » -- et d’une seule…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df3ea2633470",
+          "title": "Star Citizen franchit un nouveau cap insensé dans son financement participatif",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259607-star-citizen-franchit-un-nouveau-cap-insense-dans-son-financement-participatif.html",
+          "category": "ia",
+          "published_at": "2026-05-25T07:33:45+00:00",
+          "summary": "Toujours en accès anticipé depuis 2012, Star Citizen, le jeu multijoueur de Cloud Imperium Games, a désormais dépassé le milliard de dollars de financement participatif.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5cbfab8dc326",
+          "title": "Epic Games annonce l’Unreal Engine 6 avec un premier jeu surprenant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259603-epic-games-annonce-lunreal-engine-6-avec-un-premier-jeu-surprenant.html",
+          "category": "ia",
+          "published_at": "2026-05-25T07:10:41+00:00",
+          "summary": "Epic Games a officialisé l'arrivée de la sixième génération de son moteur Unreal Engine. L'entreprise a choisi Rocket League comme première vitrine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6906f8e5a34",
+          "title": "Drake Sets ARIA Chart Record",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/drake-aria-albums-chart-record-1236253215/",
+          "category": "musique",
+          "published_at": "2026-05-25T06:03:53+00:00",
+          "summary": "Drizzy becomes the first artist to enter the top 10 with three new albums in the same frame since the ARIA Charts were first published in 1983.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc0e81d3b436",
+          "title": "Fuerza Regida Closed Sueños 2026 With Corridos, Chaos and Manifested Glory",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/fuerza-regida-marlboro-rojo-suenos-festival-2026-recap-1236255925/",
+          "category": "ia",
+          "published_at": "2026-05-25T05:53:27+00:00",
+          "summary": "JOP and company capped off the Chicago fest with “Marlboro Rojo,” surprise guests and the kind of fan hysteria that stopped the show more than once.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7001792849a",
+          "title": "ZEvent 2026 : tout savoir sur la dernière édition du marathon caritatif (dates, concert, associations, fin)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255125-zevent-2026-tout-savoir-sur-la-derniere-edition-du-marathon-caritatif-dates-concert-associations-fin.html",
+          "category": "musique",
+          "published_at": "2026-05-25T05:28:00+00:00",
+          "summary": "L'histoire du streaming français s'apprête à tourner une page majeure. À la suite de la finale de la ZLan, ZeratoR a fait savoir que le ZEvent 2026 sera le tout dernier. Après dix ans de records, de divertissements et de millions d'euros récoltés pour la bonne cause, le marathon…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7b9a39129ba",
+          "title": "Dylan Gossett Returns to Australia and New Zealand on The Headed Out Back Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/dylan-gossett-australia-new-zealand-headed-out-back-tour-1236255920/",
+          "category": "ia",
+          "published_at": "2026-05-25T03:54:29+00:00",
+          "summary": "It marks the Texas singer-songwriter's second run through the region following a breakthrough year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f935587e0af",
+          "title": "Drake Ties Taylor Swift for the Most Billboard 200 No. 1 Albums Among Soloists",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+          "category": "musique",
+          "published_at": "2026-05-25T03:28:43+00:00",
+          "summary": "He passes JAY-Z among solo males and R&#38;B/hip-hop acts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa565940046e",
+          "title": "The Pretty Reckless Release ‘Dear God,’ Title Track From Upcoming Fifth Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/the-pretty-reckless-dear-god-single-1236255916/",
+          "category": "musique",
+          "published_at": "2026-05-25T03:12:28+00:00",
+          "summary": "The track arrives as the band's fourth single from the album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4eac7357aac",
+          "title": "‘KPop Demon Hunters’ Finally Gets Physical Release on Blu-ray and DVD: Order It Here",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-film-blu-ray-dvd-4k-physical-release-buy-1236255905/",
+          "category": "justice",
+          "published_at": "2026-05-25T02:15:13+00:00",
+          "summary": "This marks the first time the hit animated film has been available for viewing outside of streaming, save for a brief theatrical run.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-24",
       "articles": [
+        {
+          "id": "6b6f51278cdf",
+          "title": "Girls Aloud’s Nicola Roberts Welcomes Her First Baby With Fiancé Mitch Hahn",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/nicola-roberts-welcomes-first-baby-fiance-mitch-hahn-1236255870/",
+          "category": "ia",
+          "published_at": "2026-05-24T21:40:04+00:00",
+          "summary": "\"It’s heaven on earth with her and we can hardly believe she’s ours,\" the singer gushed.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32fb52cd63f9",
+          "title": "Fans Choose Neutro Shorty’s ‘El Disco de Salsa’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/neutro-shorty-el-disco-de-salsa-new-music-poll-results-1236255854/",
+          "category": "musique",
+          "published_at": "2026-05-24T20:31:25+00:00",
+          "summary": "The Venezuelan rapper's new album earned 75% of the vote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f279aba19b6",
+          "title": "‘Michael’ Closing in on ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+          "category": "musique",
+          "published_at": "2026-05-24T20:28:13+00:00",
+          "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf3474ce97f4",
+          "title": "Notre test d’Elementallis, un jeu qui fait tout pour vous faire croire qu’il est un Zelda de Super Nintendo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2256199-notre-test-delementallis-un-jeu-qui-fait-tout-pour-vous-faire-croire-quil-est-sorti-sur-super-nintendo.html",
+          "category": "ia",
+          "published_at": "2026-05-24T16:11:00+00:00",
+          "summary": "Il y a des jeux qui sentent bon la nostalgie, tout en étant des titres d'aujourd'hui, et d’autres qui ressemblent à de véritables capsules temporelles, comme s’ils avaient toute leur place dans la ludothèque d’une console rétro. Elementallis se classe fièrement dans cette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b24ffba1ecb",
+          "title": "Le prochain jeu de course dans l’univers de Star Wars est en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2259181-le-prochain-jeu-de-course-dans-lunivers-de-star-wars-est-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-05-24T15:07:28+00:00",
+          "summary": "[Précommande] Envie d'un jeu de course qui ne fait pas comme les autres ? Star Wars Galactic Racer pourrait bien bousculer les codes du genre, dans un jeu à 100 à l'heure pour les fans de la saga.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb137c7ce75f",
+          "title": "Nvidia, Apple et… des sushis : la folle théorie sur les derniers investissements de Donald Trump",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2258137-nvidia-apple-et-des-sushis-la-folle-theorie-sur-les-derniers-investissements-de-donald-trump.html",
+          "category": "ia",
+          "published_at": "2026-05-24T14:30:00+00:00",
+          "summary": "Donald Trump a-t-il vraiment investi plusieurs millions de dollars dans une chaîne de sushis sur tapis roulant ? Cette ligne étonnante dans ses déclarations financières a fait naître une théorie sur les réseaux sociaux : le président américain aurait peut-être confondu Kura…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "435e8bdde37c",
+          "title": "Le jeu narratif Directive 8020 se saborde presque lui-même",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2257663-le-jeu-narratif-directive-8020-se-saborde-presque-lui-meme.html",
+          "category": "ia",
+          "published_at": "2026-05-24T12:25:00+00:00",
+          "summary": "Dernier jeu narratif horrifique du studio Supermassive Games, Directive 8020, intégré à la collection The Dark Pictures Anthology, s'apparente à une aventure mi-figue mi-raisin. Notre test.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "92bde5b5ded4",
           "title": "Les joueurs de Destiny 2 se soulèvent contre Sony et exigent Destiny 3",
