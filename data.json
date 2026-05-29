@@ -1,9 +1,594 @@
 {
-  "generated_at": "2026-05-28T11:50:35.973752+00:00",
+  "generated_at": "2026-05-29T11:40:48.350458+00:00",
   "days": [
+    {
+      "date": "2026-05-29",
+      "articles": [
+        {
+          "id": "2eafbd3277ca",
+          "title": "CMAT Shares ‘Deep Sadness’ Over Body-Shaming Comments Following BBC Radio 1 Big Weekend Performance: ‘I Simply Have to Sit Here and Take It’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/cmat-body-shaming-comments-response-bbc-radio-big-weekend-1236259856/",
+          "category": "musique",
+          "published_at": "2026-05-29T11:39:05+00:00",
+          "summary": "The Irish musician shared a statement on Instagram responding to the misogynistic abuse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0fe3bbcf5d2f",
+          "title": "Toy Story 5 devrait vous faire pleurer et c’est Woody qui le dit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262551-toy-story-5-devrait-vous-faire-pleurer-et-cest-woody-qui-le-dit.html",
+          "category": "ia",
+          "published_at": "2026-05-29T11:35:00+00:00",
+          "summary": "Sortez les mouchoirs, les jouets de notre enfance s'apprêtent à briser le cœur d'une nouvelle génération.&nbsp;Réunis à Londres ce jeudi 28 mai 2026 pour le lancement britannique de&nbsp;Toy Story 5, Tom Hanks (Woody) et Tim Allen (Buzz l'Éclair) ont dévoilé les premiers détails…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d963ffefccd",
+          "title": "A tale of two US events: Freedom 250 and Power to the People",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/a-tale-of-two-us-events-freedom-250-and-power-to-the-people/",
+          "category": "musique",
+          "published_at": "2026-05-29T11:32:00+00:00",
+          "summary": "The devil may famously have the best tunes, but when it comes to big politically-leaning music events in the US in 2026, well, it seems the progressives have the bigger bookings. Or at least the ones less prone to chaotic withdrawals. This is a tale of two high-profile events…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3175a27e90e",
+          "title": "Noah Kahan Announces Lineup For 2027 Out of the Blue Festival With Hayley Williams, Mt. Joy, The Head and the Heart & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/noah-kahan-lineup-2027-out-of-blue-festival-hayley-williams-1236259862/",
+          "category": "ia",
+          "published_at": "2026-05-29T11:29:07+00:00",
+          "summary": "The event will take place at the Moon Palace Resort in Riviera Cancun, Mexico from Jan. 7-10.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1746ee1702a3",
+          "title": "À 550 000 €, la première Ferrari électrique au design controversé s’arracherait déjà selon son patron",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2262541-a-550-000-e-la-premiere-ferrari-electrique-au-design-controverse-sarracherait-deja-selon-son-patron.html",
+          "category": "ia",
+          "published_at": "2026-05-29T11:00:00+00:00",
+          "summary": "Le patron de Ferrari suggère qu'il ne devrait pas avoir de problèmes à vendre sa première voiture électrique. Après la présentation de la Luce à des personnes triées sur le volet et de nombreux clients, le carnet de commandes commence déjà à se remplir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c73405fd2974",
+          "title": "Anthropic pèse désormais l’équivalent de la 16e entreprise mondiale, sans être en Bourse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262343-anthropic-pese-desormais-lequivalent-de-la-16e-entreprise-mondiale-sans-etre-en-bourse.html",
+          "category": "ia",
+          "published_at": "2026-05-29T10:40:31+00:00",
+          "summary": "Anthropic a récemment annoncé une nouvelle levée de fonds portant sa valorisation à 965 milliards de dollars, la plaçant aujourd’hui parmi les entreprises les plus valorisées de la planète, sans même être cotée en Bourse — du jamais-vu pour une entreprise tech loin de Wall…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7535ab79ee43",
+          "title": "Avant la New Glenn, quelles sont les explosions de fusées les plus violentes de l’histoire ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2262433-avant-la-new-glenn-quelles-sont-les-explosions-de-fusees-les-plus-violentes-de-lhistoire.html",
+          "category": "ia",
+          "published_at": "2026-05-29T10:30:00+00:00",
+          "summary": "Dans l'histoire spatiale, si les succès sont nombreux, les échecs aussi. Alors qu’une partie de la fusée New Glenn a été détruite dans une spectaculaire explosion lors d'un essai au sol fin mai 2026, ce n’est pas la première fois que le secteur spatial fait face à de tels…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cbf12423460e",
+          "title": "Sur le front, les militaires états-uniens ciblés grâce aux données de tracking commercial",
+          "source": "Next INpact",
+          "url": "https://next.ink/239696/sur-le-front-les-militaires-etats-uniens-cibles-grace-aux-donnees-de-tracking-commercial/",
+          "category": "ia",
+          "published_at": "2026-05-29T10:16:01+00:00",
+          "summary": "Le département de la Défense états-unien l&#8217;a confirmé : des militaires de son armée ont bien été ciblés en utilisant des données de géolocalisation obtenues via des courtiers de données. Ça devait arriver. Sur le front, les militaires peuvent être ciblés avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78c4096ccf43",
+          "title": "Quels sont les métros climatisés à Paris ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/1442220-canicule-2026-les-lignes-de-metro-et-rer-climatisees-a-paris.html",
+          "category": "ia",
+          "published_at": "2026-05-29T09:55:04+00:00",
+          "summary": "Dans les transports en commun d'Île-de-France, toutes les lignes ne sont pas « climatisées ». Voici les lignes à privilégier (métros, RER, tramways) si l'on veut voyager au frais à Paris, même en pleine canicule.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fcf409807991",
+          "title": "Bret Michaels Steps Out Of Great American State Fair Lineup: ‘This Isn’t About Politics’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/bret-michaels-exits-great-american-state-fair-1236259848/",
+          "category": "ia",
+          "published_at": "2026-05-29T09:51:30+00:00",
+          "summary": "Michaels is the sixth act to pull out of the festival.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e052bd7b548c",
+          "title": "« Et ensuite ? » Anthropic dévoile Opus 4.8 mais tous les yeux sont rivés ailleurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262565-et-ensuite-anthropic-devoile-opus-4-8-mais-tous-les-yeux-sont-rives-ailleurs.html",
+          "category": "ia",
+          "published_at": "2026-05-29T09:35:53+00:00",
+          "summary": "Anthropic a mis à jour son modèle phare avec Opus 4.8, sorti le 28 mai. Les benchmarks sont au rendez-vous. Mais le communiqué officiel laisse entendre que cette version n'est peut-être qu'une transition avant un saut d'échelle inédit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16444021462d",
+          "title": "500 millions de dollars brûlés en 30 jours : cette entreprise a « oublié » d’encadrer l’usage de l’IA Claude",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262327-500-millions-de-dollars-brules-en-30-jours-cette-entreprise-a-oublie-dencadrer-lusage-de-lia-claude.html",
+          "category": "ia",
+          "published_at": "2026-05-29T09:15:59+00:00",
+          "summary": "Une entreprise aurait accidentellement dépensé 500 millions de dollars en un mois sur Claude, faute d’avoir fixé des limites d’usage à ses employés, rapporte Axios le 28 mai 2026. Une histoire qui interroge, une nouvelle fois, sur le coût délirant de l'IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3ddfb117191",
+          "title": "L’explosion de la fusée géante New Glenn est un désastre en cascade pour Blue Origin",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2262335-lexplosion-de-la-fusee-geante-new-glenn-est-un-desastre-en-cascade-pour-blue-origin.html",
+          "category": "ia",
+          "published_at": "2026-05-29T09:09:05+00:00",
+          "summary": "L’explosion colossale de la fusée New Glenn sur son pas de tir, dans la nuit du 28 au 29 mai 2026, va bien au-delà du simple raté technique pour Blue Origin. Avec des infrastructures dévastées et l'absence de lanceur lourd de rechange, l'entreprise de Jeff Bezos plonge dans une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7878eff1924",
+          "title": "Maisie Peters Lights Up ARIA Chart With ‘Florescence’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/maisie-peters-olivia-rodrigo-aria-charts-australia-1236259838/",
+          "category": "ia",
+          "published_at": "2026-05-29T09:06:48+00:00",
+          "summary": "Olivia Rodrigo makes it two in a row as “The Cure” opens it’s account at No. 1 on the ARIA Singles Chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6248e4f1aaa4",
+          "title": "Billboard’s 2026 U.K. Power Players Revealed",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/billboard-uk-power-players-2026-list/",
+          "category": "musique",
+          "published_at": "2026-05-29T09:00:00+00:00",
+          "summary": "These are the executives playing a key role in the U.K.'s bumper year in music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "251231a3d291",
+          "title": "« Un produit, une usine, un client » : Verkor dépend trop de Renault et cela devient un problème",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2262409-un-produit-une-usine-un-client-verkor-depend-trop-de-renault-et-cela-devient-un-probleme.html",
+          "category": "ia",
+          "published_at": "2026-05-29T08:54:35+00:00",
+          "summary": "La stratégie de la start-up française Verkor repose sur un client unique&nbsp;: Renault. Mais avec des batteries 30 à 40 % plus chères que la concurrence asiatique et plusieurs mois de retard sur la production en série, le fantôme de Northvolt plane au-dessus de l’usine de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21242dc18a5d",
+          "title": "#Nextquick : 500 cyberattaques ou 55 milliards, c’est parfois la même chose, pourquoi ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/238310/nextquick-500-cyberattaques-ou-55-milliards-cest-parfois-la-meme-chose-pourquoi/",
+          "category": "ia",
+          "published_at": "2026-05-29T08:44:39+00:00",
+          "summary": "500 cyberattaques pendant les Jeux olympiques selon l’ANSSI, 55 milliards selon le CIO : les chiffres n’ont rien à voir, et pourtant ils comptent bien la même chose. Cela parait absurde, mais non : c’est une question de référentiel (et de message à faire passer). On retrouve le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "336ba25cc8ce",
+          "title": "Regional-language music streaming service Damroo raises investment from HT Media",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/regional-language-music-streaming-service-damroo-raises-investment-from-ht-media/",
+          "category": "musique",
+          "published_at": "2026-05-29T08:40:02+00:00",
+          "summary": "Indian conglomerate HT Media—the parent company of the Hindustan Times and Hindustan newspapers—has made a strategic investment worth Rs5 crore (approximately $522,000) in Damroo, an audio-streaming service dedicated to Indian [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac8bfbbf096b",
+          "title": "Spider-Man Brand New Day devrait marquer une grande première dans le MCU",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262427-spider-man-brand-new-day-devrait-marquer-une-grande-premiere-dans-le-mcu.html",
+          "category": "ia",
+          "published_at": "2026-05-29T08:40:00+00:00",
+          "summary": "Le tisseur de toile revient à ses racines les plus pures.&nbsp;Après l'avoir fait voyager dans l'espace et à travers le Multivers, Marvel Studios s'apprête à offrir à Tom Holland son film le plus intime et le plus fidèle aux bandes dessinées d'origine. Avec&nbsp;Spider-Man:…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76cfca0373eb",
+          "title": "Netflix France : 20 films et séries à voir en juin 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262333-netflix-france-20-films-et-series-a-voir-en-juin-2026.html",
+          "category": "ia",
+          "published_at": "2026-05-29T08:33:11+00:00",
+          "summary": "Alors que le mois de juin marquera le coup d'envoi de la Coupe du monde 2026, Netflix va quand même tenter de proposer des alternatives de qualité à celles et ceux qui n'aiment pas le foot. Voilà le programme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97b852aecc73",
+          "title": "Shift, cette start-up qui veut nettoyer votre appartement gratuitement, en échange de données précieuses",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262347-shift-cette-start-up-qui-veut-nettoyer-votre-appartement-gratuitement-en-echange-de-donnees-precieuses.html",
+          "category": "ia",
+          "published_at": "2026-05-29T08:27:32+00:00",
+          "summary": "Une start-up new-yorkaise propose des ménages offerts contre le droit de filmer votre intérieur pour entraîner des robots. L'annonce a enflammé les réseaux sociaux entre fascination et inquiétudes sur la vie privée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df07beb24a0b",
+          "title": "Up From Down Under: How New Zealand’s Zane Lowe Became ‘The Rock Star Whisperer’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/new-zealand-apple-music-zane-lowe-interview-1236259824/",
+          "category": "musique",
+          "published_at": "2026-05-29T08:25:30+00:00",
+          "summary": "Billboard caught up with Lowe for a glimpse at a career that has taken him from the Land of the Long White Cloud, to the BBC in London and now one of the biggest gigs in music with Apple Music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3633cb99dce9",
+          "title": "« Ne faites pas confiance à Elon là-dessus » : des salariés chargés d’entraîner l’IA de Tesla fustigent l’efficacité du FSD",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2262059-ne-faites-pas-confiance-a-elon-la-dessus-des-salaries-charges-dentrainer-lia-de-tesla-fustigent-lefficacite-du-fsd.html",
+          "category": "ia",
+          "published_at": "2026-05-29T07:34:09+00:00",
+          "summary": "Selon une enquête de Reuters, les coulisses du développement du FSD chez Tesla cacheraient beaucoup du comportement réel du logiciel de conduite autonome. Certaines équipes s'occupant de l'entraînement de l'intelligence artificielle du FSD mettent en garde contre les allégations…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7ad65bc05ee",
+          "title": "Utiq, l’identifiant publicitaire des telcos que vous allez adorer détester",
+          "source": "Next INpact",
+          "url": "https://next.ink/239468/utiq-lidentifiant-publicitaire-unifie-des-telcos-que-vous-allez-adorer-detester/",
+          "category": "ia",
+          "published_at": "2026-05-29T07:32:00+00:00",
+          "summary": "Conçue comme un identifiant publicitaire alternatif aux cookies tiers, la technologie Utiq apparait aujourd&#8217;hui au niveau des bandeaux de consentement de nombreux médias et sites de marque. Bien qu&#8217;elle soit présentée comme un «&#160;simple&#160;» identifiant, son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cac9453ba59e",
+          "title": "Ce joueur a passé 3 500 heures et 11 ans de sa vie à aider les gens sur Bloodborne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262321-ce-joueur-a-passe-3-500-heures-et-11-ans-de-sa-vie-a-aider-les-gens-sur-bloodborne.html",
+          "category": "ia",
+          "published_at": "2026-05-29T07:25:21+00:00",
+          "summary": "Sorti sur PS4 en 2015, Bloodborne est considéré comme l’un des meilleurs jeux du studio FromSoftware, à qui l’on doit la série des Dark Souls, Sekiro et Elden Ring. Son unique DLC, The Old Hunters, abrite d’ailleurs l’un des boss les plus difficiles du jeu, qu’un joueur bat…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "957eb088ef7b",
+          "title": "!K7 calls for indie labels to measure EDI as well as their climate impact",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/k7-calls-for-indie-labels-to-measure-edi-as-well-as-their-climate-impact/",
+          "category": "musique",
+          "published_at": "2026-05-29T07:17:10+00:00",
+          "summary": "Independent labels in Europe have been making notable progress measuring their climate impact. !K7 thinks EDI could get the same treatment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01ba5c339523",
+          "title": "Avec Opus 4.8, Claude apprend à dire « je ne sais pas »",
+          "source": "Next INpact",
+          "url": "https://next.ink/239627/avec-opus-4-8-claude-apprend-a-dire-je-ne-sais-pas/",
+          "category": "ia",
+          "published_at": "2026-05-29T07:04:00+00:00",
+          "summary": "Ça n&#8217;aura pas traîné : à peine 40 jours après le lancement d&#8217;Opus 4.7, Anthropic remet le couvert avec une nouvelle version de son modèle IA le plus avancé (hors Mythos). Opus 4.8 inaugure une nouvelle fonction pour améliorer la prise en charge des requêtes très…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50f6f17800fd",
+          "title": "Barry Can’t Swim Inks Deal With Atlantic Records, Drops Dancefloor Heater ‘Return to Bhibo’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/barry-cant-swim-signs-atlantic-new-song-return-to-bhibo/",
+          "category": "musique",
+          "published_at": "2026-05-29T07:00:00+00:00",
+          "summary": "The Scottish DJ and producer released his sophomore album, Loser, in 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d6c228aaf37",
+          "title": "On a déjà une idée de la taille de la future extension de The Witcher 3",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262295-on-a-deja-une-idee-de-la-taille-de-la-future-extension-de-the-witcher-3.html",
+          "category": "ia",
+          "published_at": "2026-05-29T06:34:13+00:00",
+          "summary": "CD Projekt Red a annoncé une nouvelle extension pour The Witcher 3: Wild Hunt, intitulée Songs of the Past. CD Projekt Red nous promet un contenu ambitieux, à la hauteur de Blood and Wine (la plus grosse extension du RPG).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "292002c3701e",
+          "title": "☕️ Face au MacBook Neo, Qualcomm dévoile une puce pour PC Windows à 300 dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/face-au-macbook-neo-qualcomm-devoile-une-puce-pour-des-pc-windows-a-300-dollars/",
+          "category": "ia",
+          "published_at": "2026-05-29T06:30:00+00:00",
+          "summary": "La présentation début mars du MacBook Neo a secoué l&#8217;industrie PC. Apple a su construire un ordinateur portable solide et suffisamment performant pour les tâches du quotidien, le tout au prix imbattable (pour un Mac portable) de 699&#160;euros. Et même 599&#160;euros pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3ca205e02d5",
+          "title": "Why We Built an AI Music Video Generator That Listens to Songs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/why-we-built-an-ai-music-video-generator-that-listens-to-songs/",
+          "category": "musique",
+          "published_at": "2026-05-29T06:30:00+00:00",
+          "summary": "In 2021, my co-founders and I began developing the music-vision foundation model that would become Freebeat. The question that drove us, as engineers and lifelong music lovers, was simple: why [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d8f5898878c",
+          "title": "Atari déménage au Luxembourg après 25 ans en France",
+          "source": "Next INpact",
+          "url": "https://next.ink/239647/atari-demenage-au-luxembourg-apres-25-ans-en-france/",
+          "category": "ia",
+          "published_at": "2026-05-29T06:08:00+00:00",
+          "summary": "C&#8217;est la mort dans l&#8217;âme que la France voit partir un de ses plus grands fleurons technologiques, qui va déménager au Luxembourg : Atari, ou plutôt les actionnaires de l&#8217;éditeur mythique de jeux vidéo, ont en effet décidé de voir si l&#8217;herbe était plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31240e305890",
+          "title": "Coup dur pour Artemis : la fusée New Glenn explose dans un tourbillon de feu lors d’un essai statique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2262299-coup-dur-pour-artemis-la-fusee-new-glenn-4-explose-dans-un-tourbillon-de-feu-lors-dun-essai-statique.html",
+          "category": "ia",
+          "published_at": "2026-05-29T06:01:16+00:00",
+          "summary": "La fusée New Glenn de Blue Origin a explosé dans un spectacle retentissant lors d'un essai statique réalisé le 28 mai 2026. C'est une très mauvaise nouvelle pour le programme Artémis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a86b43789f6",
+          "title": "Anthropic lève 65 milliards de dollars, avec une valorisation qui dépasse celle d’OpenAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/239613/anthropic-leve-65-milliards-de-dollars-avec-une-valorisation-qui-depasse-celle-dopenai/",
+          "category": "ia",
+          "published_at": "2026-05-29T05:21:00+00:00",
+          "summary": "Anthropic fait désormais la course en tête. L&#8217;éditeur des modèles Claude a annoncé jeudi 28 mai avoir bouclé une levée de fonds de 65 milliards de dollars sur la base d&#8217;une valorisation fixée à 900 milliards de dollars, supérieure à celle affichée par OpenAI début…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c000114deb7",
+          "title": "Ariana Grande, Labrinth, aespa & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-aespa-new-music-friday-guide-1236258464/",
+          "category": "musique",
+          "published_at": "2026-05-29T05:02:21+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c1a7a6d955e",
+          "title": "After a Prolonged Absence, Boards of Canada Fires-Up With ‘Inferno’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/boards-of-canada-inferno-stream-it-now-1236259803/",
+          "category": "ia",
+          "published_at": "2026-05-29T04:55:50+00:00",
+          "summary": "With \"Inferno,\" which arrived in full at the stroke of midnight via Warp Records, the Scottish electronic duo brings to an end a 13-year drought.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e71cbcb58870",
+          "title": "Ariana Grande Unveils ‘Hate That I Made You Love Me’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/ariana-grande-hate-that-i-made-you-love-me-stream-it-now-1236259537/",
+          "category": "ia",
+          "published_at": "2026-05-29T04:02:09+00:00",
+          "summary": "The first taste of Petal has finally arrived.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-28",
       "articles": [
+        {
+          "id": "7637de8827cf",
+          "title": "Disclosure Day : et si c’était déjà le meilleur film de 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262069-disclosure-day-et-si-cetait-deja-le-meilleur-film-de-2026.html",
+          "category": "ia",
+          "published_at": "2026-05-28T18:15:00+00:00",
+          "summary": "Le patron d'Hollywood a encore frappé. Alors que son blockbuster de science-fiction très secret n'est attendu en salles que pour le 12 juin 2026, Steven Spielberg a présenté Disclosure Day à la presse américaine. Les premières réactions viennent de tomber et elles sont unanimes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b93cf7fb9f5",
+          "title": "Reservoir deployed $120m on acquisitions and advances in latest fiscal year, as its annual revenues grew 11% YoY to $175.7m",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reservoir-deployed-120m-on-acquisitions-and-advances-in-latest-fiscal-year-as-its-annual-revenues-grew-11-yoy-to-175-7m/",
+          "category": "ia",
+          "published_at": "2026-05-28T17:31:01+00:00",
+          "summary": "Reservoir Media has published its fiscal Q4 (calendar Q1) and full-year financial results for its fiscal 2026, ended March 31, 2026.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3994c8dad555",
+          "title": "Gaana’s subscribers are growing at the rate of 15% per year, says CEO",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/28/gaanas-subscribers-are-growing-at-the-rate-of-15-per-year-says-ceo/",
+          "category": "musique",
+          "published_at": "2026-05-28T16:50:23+00:00",
+          "summary": "How is Indian audio-streaming service Gaana faring three-and-a-half years after it became a subscription-only platform? Better than ever before based on the stats shared during its parent company Entertainment Network [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b52bdbcaabb",
+          "title": "Sir Lucian Grainge on AI, Spotify, and why he’s not in the ‘functional music’ industry",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-on-ai-spotify-and-why-hes-not-in-the-functional-music-industry/",
+          "category": "musique",
+          "published_at": "2026-05-28T16:36:20+00:00",
+          "summary": "Three things you might have missed from Grainge's fireside chat at the GREATER Together LA summit last week\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ebe7fff47409",
+          "title": "Call of Duty : Modern Warfare 4 se montre enfin avec une date de sortie et une version Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262163-call-of-duty-modern-warfare-4-se-montre-enfin-avec-une-date-de-sortie-et-une-version-switch-2.html",
+          "category": "justice",
+          "published_at": "2026-05-28T16:03:57+00:00",
+          "summary": "Activision et Infinity Ward ont dévoilé Call of Duty&nbsp;: Modern Warfare 4, un épisode qui compte bien faire revenir les fans de la licence, après un Call of Duty : Black Ops 7 très décevant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb8a6e980ce4",
+          "title": "Nintendo vous offre 2 mois au Switch Online, mais attention à cette condition",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262057-nintendo-vous-offre-2-mois-au-switch-online-mais-attention-a-cette-condition.html",
+          "category": "ia",
+          "published_at": "2026-05-28T15:51:09+00:00",
+          "summary": "Si vous possédez une Switch première du nom ou une Switch 2, c’est peut-être le moment de se pencher sur le service en ligne. Nintendo propose actuellement un bonus de 2 mois offerts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "435a6fd30ae7",
+          "title": "Data center, AGI, industrie : Mistral AI sur tous les fronts",
+          "source": "Next INpact",
+          "url": "https://next.ink/239581/data-center-agi-industrie-mistral-ai-sur-tous-les-fronts/",
+          "category": "ia",
+          "published_at": "2026-05-28T15:50:09+00:00",
+          "summary": "Grosse actualité autour de Mistral AI, le petit Poucet européen de l&#8217;intelligence artificielle générative. À l&#8217;occasion de l&#8217;AI Now Summit, la startup parisienne et son directeur général Arthur Mensch ont multiplié les annonces : centre de données, partenariats…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b49f40094ba2",
+          "title": "iOS 27 : nouveautés, date de sortie, iPhone compatibles… tout ce que l’on sait",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262023-ios-27-nouveautes-date-de-sortie-iphone-compatibles.html",
+          "category": "ia",
+          "published_at": "2026-05-28T15:35:45+00:00",
+          "summary": "La mise à jour iOS 27 sera dévoilée le 8 juin lors de la traditionnelle WWDC d'Apple. Les rumeurs évoquent de très nombreuses nouveautés liées à l'intelligence artificielle générative, dont un nouveau Siri pleinement intégré au système et plusieurs petites nouveautés pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5dac2b2080fe",
+          "title": "Pourquoi il ne faut surtout pas ouvrir ses fenêtres en journée lorsqu’il fait chaud",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1064284-comment-aerer-pendant-une-canicule.html",
+          "category": "ia",
+          "published_at": "2026-05-28T15:30:00+00:00",
+          "summary": "Face aux vagues de chaleur, ouvrir grand ses fenêtres semble être la solution la plus évidente pour se rafraîchir. C'est en réalité un mauvais réflexe, voici pourquoi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2138aa694ac",
+          "title": "Un triste « grand Chelem » : Paris franchit un cap climatique alarmant ce jeudi 28 mai 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2261979-un-triste-grand-chelem-paris-franchit-un-cap-climatique-alarmant-ce-jeudi-28-mai-2026.html",
+          "category": "ia",
+          "published_at": "2026-05-28T15:03:39+00:00",
+          "summary": "Paris et sa petite couronne entrent dans l'histoire de la vigilance météorologique pour une raison regrettable, ce jeudi 28 mai 2026. Ce sont les premiers départements à avoir connu une vigilance orange ou rouge canicule aux mois de mai, juin, juillet, août et septembre depuis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c98294cf8f53",
+          "title": "Vidéosurveillance algorithmique : la loi Ripost étend encore la prolongation jusqu’en 2030",
+          "source": "Next INpact",
+          "url": "https://next.ink/239545/videosurveillance-algorithmique-la-loi-ripost-etend-encore-la-prolongation-jusquen-2030/",
+          "category": "ia",
+          "published_at": "2026-05-28T14:34:21+00:00",
+          "summary": "Votée ce mardi 26 mai au Sénat, la loi Ripost déposée par Laurent Nuñez entend pousser l&#8217;expérimentation de la vidéosurveillance algorithmique aux Jeux olympiques jusqu&#8217;à la fin de l&#8217;année 2030 mais aussi en l&#8217;étendant à tous les bâtiments ou lieux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2dd949dbfd5b",
+          "title": "☕️ Produits dangereux ou illicites : Temu condamné à 200 millions d’euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/produits-dangereux-ou-illicites-temu-condamne-a-200-millions-deuros/",
+          "category": "ia",
+          "published_at": "2026-05-28T13:50:00+00:00",
+          "summary": "Temu a enfreint le règlement européen sur les services numériques : en conséquence, la plateforme chinoise écope d&#8217;une amende de 200 millions d&#8217;euros. Et la douloureuse pourrait être encore plus salée. Bruxelles inflige une amende de 200 millions d&#8217;euros à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fba14a122280",
+          "title": "Huawei mise sur la loi de Tau (τ) pour développer ses puces… c’est une question de survie",
+          "source": "Next INpact",
+          "url": "https://next.ink/239455/huawei-mise-sur-la-loi-de-tau-%cf%84-pour-developper-ses-puces-cest-une-question-de-survie/",
+          "category": "ia",
+          "published_at": "2026-05-28T13:28:23+00:00",
+          "summary": "Pour augmenter les performances et la densité de ses puces, Huawei change d’approche. Au lieu de jouer sur la taille des transistors (les fameux nm), le fabricant prend de la hauteur et sépare son die en deux parties superposées avec sa technologie LogicFolding. Une première…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b0d2890569b",
+          "title": "‘The future of the industry belongs to executives who can bridge the creative, commercial, and technological divides.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-future-of-the-industry-belongs-to-executives-who-can-bridge-the-creative-commercial-and-technological-divides/",
+          "category": "musique",
+          "published_at": "2026-05-28T12:57:49+00:00",
+          "summary": "EMIC founder Daniel Findikian talks music industry education, emerging markets, and more\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bfc760f1b02",
+          "title": "K-Pop’s new ‘Global K-Chart’ to include ‘fan activity’ data",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/28/k-pops-new-global-k-chart-to-include-fan-activity-data/",
+          "category": "musique",
+          "published_at": "2026-05-28T12:34:00+00:00",
+          "summary": "Yesterday we reported on plans for a new ‘Global K-Chart’ for K-Pop music using data from Tencent Music in China, Line in Japan and Melon in South Korea. That’s a lot of collective streams, but it turns out they won’t be the only metric filtering into the new chart. Star News…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54251ec16fac",
+          "title": "Taylor Swift moves to dismiss ‘Showgirl’ trademark lawsuit, calling it a bid to ‘generate publicity’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swift-moves-to-dismiss-showgirl-trademark-lawsuit-calling-it-a-bid-to-generate-publicity/",
+          "category": "ia",
+          "published_at": "2026-05-28T12:31:08+00:00",
+          "summary": "The artist's legal team argued that the complaint should be thrown out for failing to state a viable claim.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d39d5be43714",
+          "title": "Cookie chain Crumbl to settle its socials lawsuit with WMG",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/28/cookie-chain-crumbl-to-settle-its-socials-lawsuit-with-wmg/",
+          "category": "musique",
+          "published_at": "2026-05-28T12:30:00+00:00",
+          "summary": "US cookies chain Crumbl is one of the brands that has found itself on the wrong end of a major-label lawsuit over its use of their music in social posts. The plaintiff in this case was WMG, which sued Crumbl in April 2025. Now the two companies are on the verge of burying the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4abad3d399c5",
+          "title": "Sond is a sleep-tech startup using its own library of music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/28/sond-is-a-sleep-tech-startup-using-its-own-library-of-music/",
+          "category": "musique",
+          "published_at": "2026-05-28T12:30:00+00:00",
+          "summary": "Music that puts you to sleep isn’t always an insult: sometimes it’s a business worth $7m of funding from investors when it emerges from stealth mode. That’s Sond, a Boston-based sleep-technology startup that has unveiled its first product – ‘Dreambuds’ – this week with a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b26647aae51",
+          "title": "AudioShake rolls out its new ‘Copyright Compliance System’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/28/audioshake-rolls-out-its-new-copyright-compliance-system/",
+          "category": "ia",
+          "published_at": "2026-05-28T12:30:00+00:00",
+          "summary": "AudioShake’s origin story is a startup using AI for stem-separation purposes, but over time it is branching out into something bigger. Its latest product shows how. It’s called the ‘Copyright Compliance System’ and it is aimed at TV/film studios, broadcasters, sports…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c33a8f8f39dc",
+          "title": "Instagram, Facebook and WhatsApp to get ‘Plus’ subscriptions",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/28/instagram-facebook-and-whatsapp-to-get-plus-subscriptions/",
+          "category": "ia",
+          "published_at": "2026-05-28T12:30:00+00:00",
+          "summary": "Meta has been dabbling in the idea of paid tiers for its key services for a while now, albeit sometimes as a response to regulation rather than a wholehearted push into the subscriptions economy. That may be changing now though. Meta’s head of product, Naomi Gleit,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b1c3df3bd15",
+          "title": "Mumbai’s Jio World Garden to run indoor venue during monsoon months",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/28/mumbais-jio-world-garden-to-run-indoor-venue-during-monsoon-months/",
+          "category": "musique",
+          "published_at": "2026-05-28T12:25:46+00:00",
+          "summary": "Among the constraints faced by India’s live music industry is that the concert calendar for outdoor events is restricted to seven months of the year. May is too hot and [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "b02c7fc8b2a4",
           "title": "Données de santé : sanction de 5 millions d’euros à l’encontre de la société IQVIA",
@@ -12,6 +597,26 @@
           "category": "ia",
           "published_at": "2026-05-28T12:00:00+00:00",
           "summary": "Le 26 mai 2026, la société IQVIA OPERATIONS FRANCE a été sanctionnée d’une amende de 5&amp;nbsp;millions d’euros, notamment pour non-respect des garanties visant à limiter les risques pour les personnes dans le cadre de la gestion d’entrepôts de données de santé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d66734779e30",
+          "title": "Ordre du jour de la séance plénière du 28 mai 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-28-mai-2026",
+          "category": "institutionnel",
+          "published_at": "2026-05-28T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 28 mai 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f13faeb9be0f",
+          "title": "Quelles qualifications pour les acteurs de l’informatique en nuage (cloud) ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/quelles-qualifications-pour-les-acteurs-de-linformatique-en-nuage-cloud",
+          "category": "cnil",
+          "published_at": "2026-05-28T12:00:00+00:00",
+          "summary": "Avant de traiter des données personnelles, il est essentiel que les acteurs identifient leurs rôles. La CNIL fournit des orientations pour aider ceux du secteur de l’informatique en nuage (cloud) à identifier leurs responsabilités avec des exemples concrets.",
           "summary_type": "extrait source"
         },
         {
