@@ -1,9 +1,354 @@
 {
-  "generated_at": "2026-05-29T11:40:48.350458+00:00",
+  "generated_at": "2026-05-30T10:17:18.509033+00:00",
   "days": [
+    {
+      "date": "2026-05-30",
+      "articles": [
+        {
+          "id": "889fba6da6cf",
+          "title": "Revolut a trouvé une parade toute simple pour protéger les cartes bancaires physiques de la fraude",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2263449-revolut-a-trouve-une-parade-toute-simple-pour-proteger-les-cartes-bancaires-physiques-de-la-fraude.html",
+          "category": "ia",
+          "published_at": "2026-05-30T09:05:59+00:00",
+          "summary": "Revolut a récemment montré de nouvelles cartes sur lesquelles il manque quelque chose d'essentiel : les numéros. C'est justement cette absence qui est censée tenir les fraudeurs à distance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b15bbf5cbb61",
+          "title": "Ce ventilateur de plafond connecté est bradé juste avant l’été",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2263065-ce-ventilateur-de-plafond-silencieux-baisse-son-prix-de-presque-60-avant-lete.html",
+          "category": "ia",
+          "published_at": "2026-05-30T08:02:00+00:00",
+          "summary": "[Deal du jour] Si vous souhaitez investir dans un ventilateur de plafond, les prix peuvent vous faire revoir vos ambitions. Heureusement, certains modèles discrets et connectés profitent de promotions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8e5edcd0b6d",
+          "title": "Dans les coulisses de la nouvelle Renault Twingo, une usine slovène loin des clichés low cost",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2263355-dans-les-coulisses-de-la-nouvelle-renault-twingo-une-usine-slovene-loin-des-cliches-low-cost.html",
+          "category": "ia",
+          "published_at": "2026-05-30T07:33:16+00:00",
+          "summary": "Produire la nouvelle citadine électrique de Renault en Slovénie plutôt qu’en France&nbsp;: est-ce le signe d’une fabrication au rabais pour tenir la promesse d’un prix sous les 20 000 € ? Numerama vous invite dans les coulisses de l’usine de Novo mesto pour y voir plus clair.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "824cd28042dd",
+          "title": "Killswitch Engage Expand 2026 Australian Tour With New Melbourne Date",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/killswitch-engage-expand-2026-australian-tour-melbourne-1236260785/",
+          "category": "ia",
+          "published_at": "2026-05-30T07:13:18+00:00",
+          "summary": "The run marks Killswitch Engage's first headline tour of Australia and New Zealand since 2018.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9b1a728f575",
+          "title": "« 25.0528, 121.5990 » : pourquoi Nvidia, Microsoft et Arm ont tous publié ces mêmes coordonnées GPS en même temps",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2263419-25-0528-121-5990-pourquoi-nvidia-microsoft-et-arm-ont-tous-publie-ces-memes-coordonnees-gps-en-meme-temps.html",
+          "category": "ia",
+          "published_at": "2026-05-30T07:07:20+00:00",
+          "summary": "Trois comptes officiels Nvidia, le compte Windows et celui d'Arm ont publié au même moment un message énigmatique accompagné de deux nombres. Ce sont des coordonnées GPS, et elles désignent l'endroit exact où Jensen Huang doit lever le voile, ce dimanche, sur la première puce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd5912d8e149",
+          "title": "Anthropic vaut 5 fois ce que valaient Uber et Facebook réunis avant leur cotation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262343-anthropic-vaut-pres-de-5-fois-ce-que-valaient-uber-et-facebook-reunis-avant-leur-cotation.html",
+          "category": "ia",
+          "published_at": "2026-05-30T06:01:00+00:00",
+          "summary": "104 milliards pour Facebook, 82 pour Uber : à eux deux, les géants du Web valaient 186 milliards en arrivant en Bourse. Anthropic, elle, en pèse 965 après sa nouvelle levée de fonds -- plus de cinq fois ce duo réuni, et toujours sans cotation. Un cas sans précédent dans la tech.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9283e25a8c7e",
+          "title": "PSG-Arsenal en direct : attention à l’horaire inhabituel de la finale de la Ligue des champions",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2260771-psg-arsenal-attention-a-lhoraire-de-diffusion.html",
+          "category": "ia",
+          "published_at": "2026-05-30T06:00:00+00:00",
+          "summary": "On prend les mêmes, et on recommence ? Pour la deuxième saison d'affilée, le PSG est en finale de la Ligue des champions. Après avoir étrillé l'Inter Milan la saison dernière, le club de la capitale devra cette fois en découdre avec Arsenal. Attention, le match sera diffusé ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00aa89884de4",
+          "title": "Shaboozey Teases That ‘Summer House’ Star Ciara Miller Is in His ‘Cowgirl’ Music Video: ‘Behind Every Outlaw Is a Cowgirl Twice as Dangerous’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/shaboozey-cowgirl-video-summer-house-ciara-miller-teaser-1236260689/",
+          "category": "musique",
+          "published_at": "2026-05-30T00:59:57+00:00",
+          "summary": "He shared a short preview on social media, offering a glimpse of the video's Western-inspired aesthetic.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-29",
       "articles": [
+        {
+          "id": "e7b2bfbd38c4",
+          "title": "In Canada: Drake Breaks Records for Most No. 1s Ever on the Billboard Canadian Hot 100 & Album Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/drake-breaks-records-billboard-canadian-charts-canada-news/",
+          "category": "musique",
+          "published_at": "2026-05-29T23:54:46+00:00",
+          "summary": "Also up north this week: an update on the music \"streaming tax\" is \"forthcoming\" and the National Music Centre names a new board chair.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "429f2840af4c",
+          "title": "Every Song That Topped the U.K. Chart for 8 or More Weeks, But Didn’t Make the Top 10 on the Hot 100",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/songs-that-were-big-uk-hits-but-not-in-the-u-s/",
+          "category": "ia",
+          "published_at": "2026-05-29T23:30:00+00:00",
+          "summary": "\"Rein Me In” by Sam Fender and Olivia Dean is now one of just two singles to log 13 or more weeks at No. 1 in the U.K. without making the top 10 on the Hot 100.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a1537969858",
+          "title": "2h20 d’humains qui crient en collants gris : l’incroyable bonus caché de La Planète des Singes sur Disney+",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2263195-2h20-dhumains-qui-crient-en-collants-gris-lincroyable-bonus-cache-de-la-planete-des-singes-sur-disney.html",
+          "category": "ia",
+          "published_at": "2026-05-29T18:45:00+00:00",
+          "summary": "C’est la friandise ultime pour tous les amoureux de cinéma et de coulisses.&nbsp;Sans crier gare, Disney+ vient d'ajouter à son catalogue une version totalement inédite et fascinante du film&nbsp;La Planète des Singes : Le Nouveau Royaume. Les abonnés peuvent désormais visionner…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "006b9369b88f",
+          "title": "Official: UMG rejects Bill Ackman’s $64B takeover bid",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-rejects-bill-ackmans-64b-takeover-bid/",
+          "category": "musique",
+          "published_at": "2026-05-29T17:56:34+00:00",
+          "summary": "Universal Music Group has rejected Bill Ackman's takeover offer.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0616f899cce0",
+          "title": "En Chine, les robots humanoïdes ont désormais leur propre passeport",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2263159-en-chine-les-robots-humanoides-ont-desormais-leur-propre-passeport.html",
+          "category": "ia",
+          "published_at": "2026-05-29T16:30:00+00:00",
+          "summary": "La Chine vient de lancer un passeport numérique obligatoire pour les robots humanoïdes. Chaque machine se voit attribuer un identifiant unique permettant de suivre son cycle de vie, de sa fabrication à sa mise au rebut. Une nouvelle étape dans la volonté chinoise de structurer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f0973cead33",
+          "title": "☕️ La licence perpétuelle d’Office 2019 pour Mac a du plomb dans l’aile",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-licence-perpetuelle-doffice-2019-pour-mac-a-du-plomb-dans-laile/",
+          "category": "justice",
+          "published_at": "2026-05-29T15:59:42+00:00",
+          "summary": "Gros soupçon d&#8217;obsolescence programmée chez Microsoft. Les logiciels de la suite Office 2019 pour Mac seront bientôt limités à la lecture et à l&#8217;impression de documents. Par conséquent, il sera impossible de les modifier, de les sauvegarder ou de créer de nouveaux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae28f9443df4",
+          "title": "Intel dans la course aux consoles portables avec la nouvelle gamme Arc G3",
+          "source": "Next INpact",
+          "url": "https://next.ink/239773/intel-dans-la-course-aux-consoles-portables-avec-la-nouvelle-gamme-arc-g3/",
+          "category": "ia",
+          "published_at": "2026-05-29T14:50:13+00:00",
+          "summary": "Intel se lance sérieusement à l&#8217;assaut du marché des consoles portables qui n&#8217;a d&#8217;yeux que pour AMD. La nouvelle famille de puces Arc G3 va équiper plusieurs nouveautés signées MSI, Acer et OneXPlayer. Intel avait trempé un doigt de pied dans le marché des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f46166d3b1f",
+          "title": "Downtown Music Publishing strikes deal to represent Biz Markie catalog and name, image & likeness rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/downtown-music-publishing-strikes-deal-to-represent-biz-markie-catalog-and-name-image-likeness-rights/",
+          "category": "musique",
+          "published_at": "2026-05-29T14:33:58+00:00",
+          "summary": "Deal covers publishing administration and sync licensing, alongside representation of the late artist's NIL rights.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7959eba7272a",
+          "title": "Sync’s new frontiers: clearance, creators, boutiques and brand intelligence",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/syncs-new-frontiers-clearance-creators-boutiques-and-brand-intelligence/",
+          "category": "musique",
+          "published_at": "2026-05-29T14:17:51+00:00",
+          "summary": "Sync continues to be an important source of income for rightsholders and musicians alike, and there are new startups trying to help.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91323da92f69",
+          "title": "Explosion de la fusée New Glenn : des débris risquent de retomber sur les plages tout autour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2262983-explosion-de-la-fusee-new-glenn-des-debris-risquent-de-retomber-sur-les-plages-tout-autour.html",
+          "category": "ia",
+          "published_at": "2026-05-29T14:16:39+00:00",
+          "summary": "L'explosion de la fusée New Glenn de Blue Origin risque d'avoir des conséquences à court et long terme. Des débris risquent de retomber rapidement à proximité de la zone du pas de tir, là où des personnes pourraient se retrouver à leur contact.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b13301a33fea",
+          "title": "Lutte contre le piratage : le but contre son camp paradoxal de Canal+ devant la justice",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2262869-lutte-contre-le-piratage-le-but-contre-son-camp-paradoxal-de-canal-devant-la-justice.html",
+          "category": "justice",
+          "published_at": "2026-05-29T14:09:03+00:00",
+          "summary": "En voulant forcer Google et Cisco à bloquer des sites de streaming illégal, Canal+ a utilisé un argument technique redoutable devant la Cour d'appel de Paris. Problème : cette déclaration vient saborder ses propres négociations anti-piratage en cours.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f221b3c94b3f",
+          "title": "Deezer : les chansons générées par IA, « un problème pour toute la filière musicale »",
+          "source": "Next INpact",
+          "url": "https://next.ink/238000/deezer-les-chansons-generees-par-ia-un-probleme-pour-toute-la-filiere-musicale/",
+          "category": "musique",
+          "published_at": "2026-05-29T13:37:51+00:00",
+          "summary": "Les serveurs des services de streaming musicaux sont pris d&#8217;assaut par les morceaux générés par IA. Et ce n&#8217;est pas une exagération : Deezer a révélé que 44 % des chansons provenant de ses fournisseurs sont générées par IA. Des volumes ahurissants que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ee5711aff65",
+          "title": "Le monteur légendaire de The Office défend l’IA pour sauver des blagues",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262855-le-monteur-legendaire-de-the-office-defend-lia-pour-sauver-des-blagues.html",
+          "category": "ia",
+          "published_at": "2026-05-29T13:19:21+00:00",
+          "summary": "Et si l'intelligence artificielle devenait le spectateur idéal du montage ?&nbsp;Nigel Williams, le monteur légendaire derrière des monuments de la comédie britannique comme&nbsp;The Office&nbsp;et&nbsp;Derry Girls, jette un pavé dans la mare. Alors que l'industrie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "846a855a132a",
+          "title": "☕️ Brave attaquée par des éditeurs de presse français",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/brave-attaquee-par-des-editeurs-de-presse-francais/",
+          "category": "ia",
+          "published_at": "2026-05-29T13:15:04+00:00",
+          "summary": "L&#8217;entreprise californienne qui édite le navigateur du même nom se voit attaquée devant le tribunal judiciaire de Paris par l&#8217;Alliance de la presse d&#8217;information générale (Apig) et 53 groupes de presse français dont l&#8217;Équipe, Libération, Les Échos, Bayard…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fced312b83df",
+          "title": "YouTube reveals latest changes to its AI-content labels system",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/youtube-reveals-latest-changes-to-its-ai-content-labels-system/",
+          "category": "musique",
+          "published_at": "2026-05-29T12:30:00+00:00",
+          "summary": "YouTube has been labelling AI-generated videos since 2024&#8230; IF the creators disclosed their use of AI tools when uploading it. Now the company has made some changes to its labelling system. First, the labels will now be simpler and more prominent, shown directly below the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "482273f70362",
+          "title": "LabelWorx launches $10m fund for indie electronic-music labels",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/labelworx-launches-10m-fund-for-indie-electronic-music-labels/",
+          "category": "musique",
+          "published_at": "2026-05-29T12:30:00+00:00",
+          "summary": "LabelWorx has been building its distribution and label-services business for 15 years, focusing on clients in the electronic-music world. Now it wants to provide some of them with funding too. The company’s new ‘Elevate’ scheme will choose a select group of labels to receive…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e763bc4034f0",
+          "title": "LyricFind files updated complaint in battle with Musixmatch",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/lyricfind-files-updated-complaint-in-battle-with-musixmatch/",
+          "category": "ia",
+          "published_at": "2026-05-29T12:30:00+00:00",
+          "summary": "LyricFind sued rival Musixmatch – and TPG Global, one of the latter’s key investors – in March 2025, accusing them of anti-competitive behaviour, zeroing in on a licensing deal with Warner Chappell. Since then, Musixmatch filed to dismiss the lawsuit, calling it…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8059bd59c53f",
+          "title": "Bloomberg questions whether TikTok is leaving labels behind",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/bloomberg-questions-whether-tiktok-is-leaving-labels-behind/",
+          "category": "musique",
+          "published_at": "2026-05-29T12:30:00+00:00",
+          "summary": "TikTok’s recent renewal of its licensing deal with Universal Music Group came with no public drama, suggesting that relations with that major label have improved since their fallout two years ago. However, Bloomberg has taken another angle in its latest coverage of TikTok,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bb5bdbe3da5",
+          "title": "Epidemic Sound study examines creator attitudes towards AI",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/epidemic-sound-study-examines-creator-attitudes-towards-ai/",
+          "category": "musique",
+          "published_at": "2026-05-29T12:30:00+00:00",
+          "summary": "As one of the key music providers for online-video creators, Epidemic Sound has a big community of customers to draw on when studying how they feel about music and new technologies. Its new ‘Future of the Creator Economy Report 2026’ puts a focus on AI, with some interesting…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c10eb4c636b0",
+          "title": "L’éditeur de Subnautica 2 va finalement payer les 250 millions de dollars promis aux développeurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262359-lediteur-de-subnautica-2-va-finalement-payer-les-250-millions-de-dollars-promis-aux-developpeurs.html",
+          "category": "ia",
+          "published_at": "2026-05-29T12:24:00+00:00",
+          "summary": "Maintenant que Subnautica 2 est enfin sorti en accès anticipé, il est temps pour Krafton, l’éditeur, de faire les comptes. Et malheureusement pour lui, il semblerait bien qu’il doive verser la coquette somme promise lors du rachat d’Unknown Worlds, le développeur du jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8bb8ee268a50",
+          "title": "Toyota/Lexus : l’hécatombe des voitures électriques se poursuit chez les constructeurs japonais",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2262819-toyota-lexus-lhecatombe-des-voitures-electriques-se-poursuit-chez-les-constructeurs-japonais.html",
+          "category": "ia",
+          "published_at": "2026-05-29T12:23:22+00:00",
+          "summary": "Après Honda, c’est au tour de la marque premium de Toyota d’annoncer l’abandon d’une berline électrique qui devait intégrer une nouvelle génération de technologies. Voilà encore une étrange dérobade de la part d'un constructeur japonais.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b0defcb0ebb",
+          "title": "La Maison-Blanche lance un site dédié aux aliens pour appeler à dénoncer les immigrants",
+          "source": "Next INpact",
+          "url": "https://next.ink/239729/la-maison-blanche-lance-un-site-dedie-aux-aliens-pour-appeler-a-denoncer-les-immigrants/",
+          "category": "justice",
+          "published_at": "2026-05-29T12:04:44+00:00",
+          "summary": "La Maison-Blanche exploite le nom de domaine «&#160;aliens.gov&#160;» pour renvoyer vers une page qui comptabilise le nombre d&#8217;arrestations réalisées par sa police de l&#8217;immigration. Sur fond de codes visuels inspirés de la pop culture SF, elle compare les immigrants…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "289a888bdc11",
+          "title": "Le futur look de Sauron va bien changer dans la saison 3 des Anneaux de pouvoir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262705-le-futur-look-de-sauron-va-profondement-changer-dans-la-saison-3-des-anneaux-de-pouvoir.html",
+          "category": "ia",
+          "published_at": "2026-05-29T12:01:00+00:00",
+          "summary": "Charlie Vickers, l'acteur qui incarne Sauron dans la série Les Anneaux de pouvoir, a esquissé le nouveau look du grand méchant dans la série TV.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82a88fd2cd22",
+          "title": "How to content batch social media posts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/how-to-content-batch-social-media-posts/",
+          "category": "ia",
+          "published_at": "2026-05-29T12:00:00+00:00",
+          "summary": "While content creation can be time consuming, it remains to be a key element in any sort of artist campaign in 2026. To this end, social media content batching – a strategy to help with creating better workflows and creative output – can be a useful tool.  Content batching, or…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0adc3bf65cdf",
+          "title": "TikTok ‘In The Mix’ podcast starts second season",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/tiktok-in-the-mix-podcast-starts-second-season/",
+          "category": "musique",
+          "published_at": "2026-05-29T12:00:00+00:00",
+          "summary": "TikTok has launched season two of their live interview series with T-Mobile. Hosted by the returning Jack Coyne of Trackstar. This year features a short and sweet four episodes with artists Lykke Li, Bebe Rexha, Malcolm Todd and Josh Groban. Luminate says US TikTok users are 74%…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d408eb9639d0",
+          "title": "2 Chainz and OussiFooty launch World Cup series",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/05/29/2-chainz-and-oussifooty-launch-world-cup-series/",
+          "category": "ia",
+          "published_at": "2026-05-29T12:00:00+00:00",
+          "summary": "Rapper 2 Chainz and global soccer YouTuber OussiFooty have announced their ‘Boots Across America’ series, based around the first FIFA World Cup to be hosted in North America in the past 30 years. Each episode will be filmed, produced and released on the fly, as Oussi travels to…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "2eafbd3277ca",
           "title": "CMAT Shares ‘Deep Sadness’ Over Body-Shaming Comments Following BBC Radio 1 Big Weekend Performance: ‘I Simply Have to Sit Here and Take It’",
