@@ -1,9 +1,204 @@
 {
-  "generated_at": "2026-05-30T10:17:18.509033+00:00",
+  "generated_at": "2026-05-31T10:24:40.257602+00:00",
   "days": [
+    {
+      "date": "2026-05-31",
+      "articles": [
+        {
+          "id": "670761014e20",
+          "title": "Il devient maître tofu certifié afin de créer le meilleur jeu vidéo sur le thème du tofu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262093-il-devient-maitre-tofu-certifie-afin-de-creer-le-meilleur-jeu-video-sur-le-theme-du-tofu.html",
+          "category": "ia",
+          "published_at": "2026-05-31T10:01:00+00:00",
+          "summary": "Un développeur indépendant japonais raconte comment, afin de développer le jeu vidéo parfait, il a appris à faire du tofu auprès des meilleurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14bc0f611296",
+          "title": "J’ai failli perdre mon coach sportif à cause d’un bug de Google Gemini",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262383-jai-failli-perdre-mon-coach-sportif-a-cause-dun-bug-de-google-gemini.html",
+          "category": "ia",
+          "published_at": "2026-05-31T07:36:12+00:00",
+          "summary": "Dans la newsletter ToujoursPlus de cette semaine, j'ai exposé une mésaventure qui m'est arrivée à cause d'un bug dans Gemini, l'IA de Google. Les leçons de cet épisode sont à la fin de l'article. Et pour recevoir toutes les newsletters, inscrivez-vous ici !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e0a9ae5fea24",
+          "title": "Quand le lancement de la première Ferrari électrique se transforme en cas d’école",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2262101-quand-le-lancement-de-la-premiere-ferrari-electrique-se-transforme-en-cas-decole.html",
+          "category": "ia",
+          "published_at": "2026-05-31T06:44:00+00:00",
+          "summary": "Depuis le Cybertruck, on n'avait jamais vu un tel rejet épidermique pour une nouveauté automobile. Personne n'aurait pu imaginer cela de la part de Ferrari. Ce qui devrait devenir un cas d'école ne pouvait pas échapper à l'édito Watt Else du 28 mai.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7808dcb30fcd",
+          "title": "Nouveautés iOS 27 et vidéo inédite du Starship — le récap’ de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2263269-nouveautes-ios-27-et-video-inedite-du-starship-le-recap-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-05-31T05:22:00+00:00",
+          "summary": "Nouvelle semaine, nouveau récap' !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1b20e6ee03e",
+          "title": "Macy Gray Returns to Australia for Most Expansive Tour of Region to Date",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/macy-gray-australia-tour-2026-1236260902/",
+          "category": "ia",
+          "published_at": "2026-05-31T04:52:55+00:00",
+          "summary": "The tour follows a sold-out Australian run in 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca98fe3d0edc",
+          "title": "Bad Bunny Kicks Off Historic Residency in Madrid with Myke Towers as Surprise Guest",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/bad-bunny-madrid-concert-night-one-myke-towers-1236260880/",
+          "category": "ia",
+          "published_at": "2026-05-31T01:07:00+00:00",
+          "summary": "The 10-show series is expected to bring more than 550,000 attendees at the Riyadh Air Metropolitano.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ed06d12d0bf",
+          "title": "Frankie Valli Cancels Remaining 2026 Tour Dates to ‘Focus on My Health’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/frankie-valli-cancels-2026-tour-dates-1236260867/",
+          "category": "musique",
+          "published_at": "2026-05-31T00:59:39+00:00",
+          "summary": "Frankie Valli &#38; The Four Seasons have called off their Last Encores concert dates that were scheduled from June through November.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-30",
       "articles": [
+        {
+          "id": "a135607d87bd",
+          "title": "Art Garfunkel, Jimmy Fallon & Busta Rhymes Among Charlie Puth’s Surprise Guests at Madison Square Garden",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/charlie-puth-jimmy-fallon-art-garfunkel-nyc-concert-video-1236260848/",
+          "category": "musique",
+          "published_at": "2026-05-30T23:50:36+00:00",
+          "summary": "Kirk Franklin rounded out the concert's special appearances, performing a trio of songs with Puth.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90994510a4d4",
+          "title": "Trump Lashes Out at ‘Hater’ Federal Judge Who Blocked Adding His Name to Kennedy Center",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kennedy-center-name-change-blocked-trump-reaction-1236260840/",
+          "category": "ia",
+          "published_at": "2026-05-30T21:39:44+00:00",
+          "summary": "He fumed about the Friday decision from U.S. District Judge Christopher Cooper, claiming it was “impossible for me to be treated fairly.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18c778c8bb63",
+          "title": "Trump Takes Over as Freedom 250’s Great American State Fair Headliner After Several Artists Drop Out",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/politics/trump-freedom-250-great-american-state-fair-headliner-1236260831/",
+          "category": "ia",
+          "published_at": "2026-05-30T21:12:08+00:00",
+          "summary": "Event organizers at Freedom 250 confirmed the lineup update after Trump said he'd \"take the place of these highly paid, Third Rate ‘Artists.'\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f31a5d65d1c",
+          "title": "Morgan Wallen Flips Piano After Technical Glitch During ‘Sand In My Boots’ at Denver Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/morgan-wallen-flips-piano-sand-in-my-boots-glitch-denver-1236260822/",
+          "category": "musique",
+          "published_at": "2026-05-30T20:40:41+00:00",
+          "summary": "The country star performed at Empower Field at Mile High on May 29.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be24440669f4",
+          "title": "Où regarder les trois films de Spielberg à voir absolument avant Disclosure Day ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2262971-ou-regarder-les-trois-films-de-spielberg-a-voir-absolument-avant-disclosure-day.html",
+          "category": "ia",
+          "published_at": "2026-05-30T19:05:00+00:00",
+          "summary": "Le 12 juin 2026, Steven Spielberg boucle sa grande saga extraterrestre avec Disclosure Day. Pour arriver armés en salles, c’est le moment idéal pour se refaire un marathon de ses trois chefs-d’œuvre absolus autour de cette thématique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "966c357a9a3a",
+          "title": "Is Taylor Swift Involved in ‘Toy Story 5’? Fans Decode Cryptic ‘TS’ Billboard Campaign & Lyric Clue",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-toy-story-5-speculation-ts-billboard-campaign-1236260811/",
+          "category": "musique",
+          "published_at": "2026-05-30T18:47:24+00:00",
+          "summary": "\"She’s making those moves up as she goes!\" Pixar captioned a post.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03c13f9d60e6",
+          "title": "How Access Opera’s John Burton Kickstarted Ye’s Touring Comeback: ‘He’s Like the Michael Jordan of This Thing’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/touring/kanye-west-comeback-tour-john-burton-access-opera-1236258800/",
+          "category": "musique",
+          "published_at": "2026-05-30T17:22:29+00:00",
+          "summary": "Yeezy will hit the Atatürk Olympic Stadium stage in Istanbul on May 30, which is expected to be the largest concert of his career with over 100,000 fans in attendance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8eccc83831b5",
+          "title": "Architecture 800 V : tout savoir sur la technologie qui permet de recharger sa voiture électrique en 10 minutes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2261303-architecture-800-v-tout-savoir-sur-la-technologie-qui-permet-de-recharger-sa-voiture-electrique-en-10-minutes.html",
+          "category": "ia",
+          "published_at": "2026-05-30T14:50:00+00:00",
+          "summary": "L'architecture 800 V désigne un système de propulsion électrique fonctionnant à une tension deux fois supérieure à la norme courante de 400 V. Elle permet des recharges bien plus rapides sur les bornes à courant continu haute puissance, mais ses bénéfices réels dépendent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e22c89a82cf5",
+          "title": "La Fnac rend 70 € sur l’achat d’une Nintendo Switch 2 avant la hausse de septembre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1953135-la-fnac-rend-70-e-sur-lachat-dune-nintendo-switch-2-avant-la-hausse-de-septembre.html",
+          "category": "ia",
+          "published_at": "2026-05-30T12:18:11+00:00",
+          "summary": "[Deal du jour] Nintendo a officialisé une hausse du prix de la Switch 2 pour le 1ᵉʳ septembre. En attendant, la Fnac prend le contre-pied et fait baisser la facture grâce à 70 € reversés sur le compte fidélité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "999d131dc4e8",
+          "title": "Comment fonctionnent les climatiseurs et les pompes à chaleur ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2263213-comment-fonctionnent-les-climatiseurs-et-les-pompes-a-chaleur.html",
+          "category": "ia",
+          "published_at": "2026-05-30T12:02:00+00:00",
+          "summary": "Face à des étés toujours plus chauds, la climatisation est de plus en plus incontournable dans les commerces et les logis. Dans le même temps, les pompes à chaleur s’imposent pour chauffer de façon plus performante pendant la saison froide. Comment fonctionnent ces appareils ?…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4d0a95ec674",
+          "title": "Voici ce qu’il reste du pas de tir de Blue Origin après l’explosion de New Glenn",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2263497-voici-ce-quil-reste-du-pas-de-tir-de-blue-origin-apres-lexplosion-de-new-glenn.html",
+          "category": "ia",
+          "published_at": "2026-05-30T10:35:45+00:00",
+          "summary": "Au lendemain de l'explosion spectaculaire de la fusée New Glenn, des photos aériennes de la base de lancement circulent déjà et l'ampleur des dégâts sur le pas de tir LC-36 de Cap Canaveral est déjà bien visible.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "707d9472a218",
+          "title": "PSG-Arsenal en direct : ne vous faites pas avoir par l’horaire de la finale de la Ligue des champions",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2260771-psg-arsenal-attention-a-lhoraire-de-diffusion.html",
+          "category": "ia",
+          "published_at": "2026-05-30T10:00:44+00:00",
+          "summary": "Un an après son sacre face à l’Inter Milan, le PSG dispute sa deuxième finale de Ligue des champions consécutive, cette fois contre Arsenal. Un choc au sommet à ne pas manquer, mais attention au piège de l’agenda. Le coup d’envoi sera donné à un horaire très inhabituel pour…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "889fba6da6cf",
           "title": "Revolut a trouvé une parade toute simple pour protéger les cartes bancaires physiques de la fraude",
