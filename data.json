@@ -1,9 +1,544 @@
 {
-  "generated_at": "2026-05-31T10:24:40.257602+00:00",
+  "generated_at": "2026-06-01T13:47:29.737669+00:00",
   "days": [
+    {
+      "date": "2026-06-01",
+      "articles": [
+        {
+          "id": "37705f0d1078",
+          "title": "Plus d’un million de vues pour des Citroën Ami qui tournent en rond : l’idée improbable du week-end",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2264089-plus-dun-million-de-vues-pour-des-citroen-ami-qui-tournent-en-rond-lidee-improbable-du-week-end.html",
+          "category": "justice",
+          "published_at": "2026-06-01T13:43:30+00:00",
+          "summary": "9 Citroën Ami, 9 personnalités du streaming et de YouTube, 100 tours de vélodrome. Jamais une course de 30 minutes n’aura été aussi improbable.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d86b5dda54b",
+          "title": "Asus corrige le plus gros défaut de la ROG Xbox Ally X avec sa nouvelle « console portable »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2264095-asus-corrige-le-plus-gros-defaut-de-la-rog-xbox-ally-x-avec-sa-nouvelle-console-portable.html",
+          "category": "ia",
+          "published_at": "2026-06-01T13:41:16+00:00",
+          "summary": "À l'occasion de ses 20 ans, Asus ROG vient d'officialiser la ROG Xbox Ally X20, une édition anniversaire qui répond enfin à la principale critique adressée à la gamme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76e8f5e9a342",
+          "title": "Cet outil open source compresse vos tokens avant qu’ils atteignent le LLM, et ça change tout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2264051-cet-outil-open-source-compresse-vos-tokens-avant-quils-atteignent-le-llm-et-ca-change-tout.html",
+          "category": "ia",
+          "published_at": "2026-06-01T13:37:41+00:00",
+          "summary": "Un ingénieur de Netflix a créé un outil open source qui compresse les tokens envoyés aux LLM avant qu'ils n'atteignent le modèle, sans perte d'information. Résultat : 700 000 dollars économisés en quelques mois, et un questionnement profond sur la façon dont on alimente les IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13928a20d45c",
+          "title": "Le plus adorable des Lego Pokémon tombe en promotion",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2264025-le-plus-adorables-des-lego-pokemon-tombe-en-promotion.html",
+          "category": "ia",
+          "published_at": "2026-06-01T13:32:37+00:00",
+          "summary": "[Deal du jour] Vous attendiez une petite baisse de prix pour craquer pour Évoli en Lego ? Bonne nouvelle, Cdiscount baisse enfin son prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2229ab41556",
+          "title": "Nelly awarded over $67K to be paid by lawyer who filed ex-bandmate’s Country Grammar copyright suit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/nelly-awarded-over-67k-to-be-paid-by-lawyer-who-filed-ex-bandmates-country-grammar-copyright-suit/",
+          "category": "ia",
+          "published_at": "2026-06-01T13:21:29+00:00",
+          "summary": "The ruling ordered the fees to be paid not by the plaintiff – but by the plaintiff's attorney, Precious Felder.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6832013f3a29",
+          "title": "Chrysalis co-founder Chris Wright launches new label and publishing company Right Tracks",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/chrysalis-co-founder-chris-wright-launches-new-label-and-publishing-company-right-tracks/",
+          "category": "musique",
+          "published_at": "2026-06-01T13:20:13+00:00",
+          "summary": "The new company marks a return to the recorded music business for Wright\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1518f56b7b51",
+          "title": "RTX Spark : NVIDIA se lance dans les PC Windows avec un Superchip tout-en-un",
+          "source": "Next INpact",
+          "url": "https://next.ink/239954/rtx-spark-nvidia-se-lance-dans-les-pc-windows-avec-un-superchip-tout-en-un/",
+          "category": "ia",
+          "published_at": "2026-06-01T13:01:05+00:00",
+          "summary": "NVIDIA, une marque réputée chez les joueurs et les amateurs d’IA pour ses GPU, se lance avec force dans un nouveau marché : une puce tout-en-un (CPU, GPU et mémoire) pour des PC sous Windows on Arm. RTX Spark Superchip est ainsi un équivalent maison des puces Mx d’Apple, mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb35b816e8ec",
+          "title": "Musixmatch responds to latest legal filing in LyricFind battle",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/01/musixmatch-responds-to-latest-legal-filing-in-lyricfind-battle/",
+          "category": "ia",
+          "published_at": "2026-06-01T12:35:00+00:00",
+          "summary": "Last week we reported on LyricFind filing an updated complaint in its lawsuit against rival Musixmatch. Now the latter company has responded. LyricFind published its new filing in a ‘redlined’ version to highlight some of the new accusations of anticompetitive behaviour that it…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "495fdd85d61f",
+          "title": "MTUK report warns of big decline in UK music-tech funding",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/01/mtuk-report-warns-of-big-decline-in-uk-music-tech-funding/",
+          "category": "ia",
+          "published_at": "2026-06-01T12:35:00+00:00",
+          "summary": "It’s SXSW London this week, with all manner of talks and events focusing on music and tech in the UK’s capital. But a report released as it kicks off has some warnings about funding for the UK’s music-tech scene. Trade association Music Technology UK (MTUK) claims that this…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e71ddc7f5a6",
+          "title": "Brenda Lee’s full catalogue is finally coming to streaming services",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/01/brenda-lees-full-catalogue-is-finally-coming-to-streaming-services/",
+          "category": "musique",
+          "published_at": "2026-06-01T12:35:00+00:00",
+          "summary": "Veteran singer Brenda Lee has 1.6 million monthly listeners on Spotify, although that figure spikes enormously in December – to more than 60m according to Chartmetric – thanks to a certain Christmas-tree classic. Something we didn’t know is that much of Lee’s back catalogue…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f15ce5618573",
+          "title": "Boards of Canada hit out at White House over use of their music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/01/boards-of-canada-hit-out-at-white-house-over-use-of-their-music/",
+          "category": "musique",
+          "published_at": "2026-06-01T12:33:00+00:00",
+          "summary": "If you had ‘The actual White House publishes a mysterious but firmly military-themed Instagram reel soundtracked by Boards of Canada, with added side-eye emoji’ on your 2026 bingo card&#8230; well, you’re a winner. We’re just not sure if you’ll feel celebratory about it. Yes,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6bd4af78ca4",
+          "title": "Suno is riding the wave of TikTok’s new ‘text to song’ trend",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/01/suno-is-riding-the-wave-of-tiktoks-new-text-to-song-trend/",
+          "category": "musique",
+          "published_at": "2026-06-01T12:30:00+00:00",
+          "summary": "“Is AI music the next Snapchat filter?” wonders the latest thinkpiece from Rolling Stone, focusing on a burgeoning ‘text to song’ trend on TikTok. What’s that? It’s when people use AI-music apps (well, one in particular: Suno) to turn messaging threads with friends into songs,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe59ac13e09d",
+          "title": "Des fonds critiquent la valorisation et la gestion de SpaceX avant son entrée en bourse",
+          "source": "Next INpact",
+          "url": "https://next.ink/240006/des-fonds-critiquent-la-valorisation-et-la-gestion-de-spacex-avant-son-entree-en-bourse/",
+          "category": "ia",
+          "published_at": "2026-06-01T12:15:54+00:00",
+          "summary": "Alors que l’entrée en bourse de SpaceX se précise, plusieurs fonds d’investissement nord-européens envisagent de refuser de participer à l’opération, critiquant notamment la structure actionnariale et la gestion de l’entreprise. Le pouvoir supplémentaire qu’Elon Musk consolidera…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed2ca3406917",
+          "title": "Live Nation Acquires Majority Stake in Argentine Promoter Dale Play Live",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/live-nation-partners-dale-play-live-argentina/",
+          "category": "musique",
+          "published_at": "2026-06-01T12:00:00+00:00",
+          "summary": "Founder/CEO Federico Lauria will continue to lead the company",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "243d1b793257",
+          "title": "M.I.A. sues Kid Cudi for $2.8M after being fired from Rebel Ragers Tour",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/m-i-a-sues-kid-cudi-for-2-8m-after-being-fired-from-rebel-ragers-tour/",
+          "category": "musique",
+          "published_at": "2026-06-01T11:46:28+00:00",
+          "summary": "The lawsuit alleges that Kid Cudi \"instructed Live Nation to breach the Agreement to generate publicity and ticket sales for the Tour.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11dfbdfca592",
+          "title": "UMG joins Bolloré Group in rejecting Pershing Square offer",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/01/umg-joins-bollore-group-in-rejecting-pershing-square-offer/",
+          "category": "musique",
+          "published_at": "2026-06-01T11:24:00+00:00",
+          "summary": "Well, that didn’t take long then. A couple of days after UMG shareholder the Bolloré Group firmly rejected hedge-fund Pershing Square’s acquisition bid for the major label, now UMG itself has followed suit. In its announcement, UMG said that its board of directors had…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "159da815b838",
+          "title": "L’autre booster « semble en bon état » : malgré le chaos général, tout n’est pas perdu après le désastre de la fusée New Glenn",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2263855-lautre-booster-semble-en-bon-etat-malgre-le-chaos-general-tout-nest-pas-perdu-apres-le-desastre-de-la-fusee-new-glenn.html",
+          "category": "ia",
+          "published_at": "2026-06-01T11:02:00+00:00",
+          "summary": "Si l'explosion de la fusée géante New Glenn a laissé le pas de tir LC-36 en ruines, le scénario du pire semble s'éloigner pour Blue Origin. Entre la sauvegarde d'équipements de vol cruciaux et le soutien indéfectible de la NASA sur place, l'entreprise s'organise pour rebondir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "019a8d9a9324",
+          "title": "Chappell Roan Talks LGBTQ Issues With Elton John: ‘Every Single Person Deserves to Have Freedom & To Be Themselves’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/chappell-roan-lgbtq-issues-elton-john-impact-awards-podcast/",
+          "category": "ia",
+          "published_at": "2026-06-01T11:00:00+00:00",
+          "summary": "Orville Peck, Melissa Etheridge, Jonathan Bailey, Laverne Cox and Billie Jean King also participated in the podcast series.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c91081c3a39d",
+          "title": "Tesla va enfin pouvoir déployer son Cybercab grâce à une loi qui débloque tout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2263891-tesla-va-enfin-pouvoir-deployer-son-cybercab-grace-a-une-loi-qui-debloque-tout.html",
+          "category": "ia",
+          "published_at": "2026-06-01T10:41:50+00:00",
+          "summary": "En profitant de l'entrée en vigueur d'une nouvelle législation texane, Tesla a officiellement auto-certifié son système de conduite autonome au niveau SAE 4 pour son service de robotaxis. Cette étape réglementaire majeure permet au constructeur de faire rouler des véhicules sans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89d3a0720856",
+          "title": "Melvin Koh named General Manager, Ticketing Asia at TEG’s Ticketek",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/melvin-koh-named-general-manager-ticketing-asia-at-tegs-ticketek/",
+          "category": "ia",
+          "published_at": "2026-06-01T10:32:35+00:00",
+          "summary": "Koh brings more than 18 years of experience across sports, entertainment, venue management, commercial strategy and ticketing.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32636ea4a574",
+          "title": "Vous attendiez des orages après la vague de chaleur ? Voici pourquoi les prévisions météo se sont « trompées »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2263665-vous-attendiez-des-orages-apres-la-vague-de-chaleur-voici-pourquoi-les-previsions-meteo-se-sont-trompees.html",
+          "category": "ia",
+          "published_at": "2026-06-01T10:12:33+00:00",
+          "summary": "La vague de chaleur de fin mai 2026 s'est enfin terminée en France. Les prévisions météorologiques annonçaient des orages le week-end des 30 et 31 mai, mais le ciel est pourtant resté calme à certains endroits, notamment Paris. Comment l'expliquer ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8411b458af24",
+          "title": "Ce lot de 4 balises Bluetooth coûte moins cher qu’un seul AirTag",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2263823-ce-lot-de-4-balises-bluetooth-coute-moins-cher-quun-seul-airtag.html",
+          "category": "ia",
+          "published_at": "2026-06-01T10:05:10+00:00",
+          "summary": "[Deal du jour] Le Ugreen FineTrack Mini 2 est un traceur Bluetooth utile pour retrouver les objets auxquels il est accroché, et il est surtout bien moins cher que son équivalent chez Apple, surtout en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba4a35d8c185",
+          "title": "Après Band of Brothers, Tom Hanks revient avec LA série ultime sur la Seconde Guerre mondiale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2263751-apres-band-of-brothers-tom-hanks-revient-avec-la-serie-ultime-sur-la-seconde-guerre-mondiale.html",
+          "category": "ia",
+          "published_at": "2026-06-01T09:55:31+00:00",
+          "summary": "Le parrain des récits de guerre frappe un coup monumental.&nbsp;Près de trente ans après le choc&nbsp;Il faut sauver le soldat Ryan, Tom Hanks revient à son sujet de prédilection avec&nbsp;World War II With Tom Hanks, une série documentaire pharaonique en 20 épisodes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d842bd3b7c9c",
+          "title": "Baisse du budget : les universités, la recherche et France 2030 sacrifiées",
+          "source": "Next INpact",
+          "url": "https://next.ink/239946/baisse-du-budget-les-universites-la-recherche-et-france-2030-sacrifiees/",
+          "category": "ia",
+          "published_at": "2026-06-01T09:53:25+00:00",
+          "summary": "En parallèle du sommet « Choose France », le gouvernement français revoit le budget du pays quelques mois après le déclenchement de la guerre en Iran par Donald Trump. La recherche, l&#8217;enseignement supérieur et les investissements d&#8217;avenir sont les secteurs les plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da7627636830",
+          "title": "The Angels Release 50th Anniversary Video for ‘Am I Ever Gonna See Your Face Again’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/the-angels-50th-anniversary-video-am-i-ever-gonna-see-your-face-again-1236261216/",
+          "category": "ia",
+          "published_at": "2026-06-01T09:53:23+00:00",
+          "summary": "The clip, assembled by founding guitarist Rick Brewster, features all of the vocalists who have fronted the band across its five-decade career",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08277505f7b9",
+          "title": "Andrew Jenkins to depart Universal Music Publishing Group after nearly two decades",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/andrew-jenkins-to-depart-universal-music-publishing-group-after-nearly-two-decades/",
+          "category": "musique",
+          "published_at": "2026-06-01T09:44:43+00:00",
+          "summary": "Jenkins announced his exit on Monday (June 1)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "642a31397d27",
+          "title": "500 000 euros réclamés : Tesla trainé en justice par des clients pour publicité mensongère sur le FSD",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2263667-500-000-euros-reclames-tesla-traine-en-justice-par-des-clients-pour-publicite-mensongere-sur-le-fsd.html",
+          "category": "ia",
+          "published_at": "2026-06-01T09:20:52+00:00",
+          "summary": "Un groupe de dix propriétaires de Tesla en Chine intente une action en justice collective contre le constructeur américain, réclamant plus de 3,95 millions de yuans (environ 500 000 euros) de dommages et intérêts pour publicité mensongère sur le FSD. Les plaignants accusent la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db9192a0816f",
+          "title": "Microsoft dévoile le Surface Laptop Ultra avec une puce Nvidia : le MacBook Pro a un vrai rival",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2263659-microsoft-devoile-le-surface-laptop-ultra-avec-une-puce-nvidia-le-macbook-pro-a-un-vrai-rival.html",
+          "category": "ia",
+          "published_at": "2026-06-01T09:19:28+00:00",
+          "summary": "Microsoft vient d'annoncer la machine la plus ambitieuse de l'histoire de sa gamme Surface : le Surface Laptop Ultra. Un PC portable haut de gamme avec un objectif clair : détrôner le MacBook Pro d'Apple et offrir à Windows une vraie alternative puissante et endurante. Cet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2de0294f0570",
+          "title": "SoftBank s’engage à investir jusqu’à 75 milliards d’euros pour 5 GW d’infrastructures IA en France",
+          "source": "Next INpact",
+          "url": "https://next.ink/239958/softbank-sengage-a-investir-jusqua-75-milliards-deuros-pour-5-gw-dinfrastructures-ia-en-france/",
+          "category": "ia",
+          "published_at": "2026-06-01T09:17:31+00:00",
+          "summary": "Masayoshi Son, CEO de SoftBank, et Emmanuel Macron ont confirmé lundi l&#8217;engagement pris par le groupe japonais de déployer, en France, 45 milliards d&#8217;euros fléchés vers la création de trois datacenters dans le Nord de la France. L&#8217;enveloppe, annoncée dans le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af95d62088b2",
+          "title": "Même les ponts de mai n’ont pas ralenti la voiture électrique : la bataille est relancée entre Renault et Tesla",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2263763-meme-les-ponts-de-mai-nont-pas-ralenti-la-voiture-electrique-la-bataille-est-relancee-entre-renault-et-tesla.html",
+          "category": "ia",
+          "published_at": "2026-06-01T09:07:32+00:00",
+          "summary": "Les immatriculations de voitures électriques continuent de progresser en France au mois de mai. La bataille entre Tesla et Renault se resserre également, relançant la lutte pour la première place. Malgré les nombreux ponts du mois de mai 2026, les immatriculations de voitures…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7b07f9593eb",
+          "title": "Un météore traversant le ciel à 120 000 km/h a causé une grosse frayeur au sol",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2263709-une-meteorite-traversant-le-ciel-a-120-000-km-h-a-cause-une-grosse-frayeur-au-sol.html",
+          "category": "ia",
+          "published_at": "2026-06-01T09:02:00+00:00",
+          "summary": "Une boule de feu repérée par des habitants du nord-est des États-Unis s'est avérée être un météore qui a traversé le ciel. Elle n'a pas fait de dégâts, mais a provoqué de nombreux signalements dans plusieurs États américains.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a96367a66240",
+          "title": "Le futur grand projet d’Apple se dévoile : la marque veut faire aux lunettes ce qu’elle a fait aux montres",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2263681-le-futur-grand-projet-dapple-se-devoile-la-marque-veut-faire-aux-lunettes-ce-quelle-a-fait-aux-montres.html",
+          "category": "ia",
+          "published_at": "2026-06-01T08:52:22+00:00",
+          "summary": "En 2027, Apple pourrait s'attaquer aux lunettes connectées et viser beaucoup plus haut que les Meta Ray-Ban ou les lunettes Samsung. La marque californienne, sous la direction de son nouveau patron John Ternus, souhaiterait devenir le plus grand vendeur de lunettes de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ecf16ffaebc",
+          "title": "CIFSwitch, la nouvelle faille Linux qui donne silencieusement les clés de votre système depuis 2007",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2263683-cifswitch-la-nouvelle-faille-linux-qui-donne-silencieusement-les-cles-de-votre-systeme-depuis-2007.html",
+          "category": "ia",
+          "published_at": "2026-06-01T08:47:24+00:00",
+          "summary": "Un bug vieux de 19 ans vient d'être découvert dans le noyau Linux. Baptisé CIFSwitch, il permet à n'importe quel utilisateur sans privilèges d'obtenir un accès root complet — et l'exploit est déjà public.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "daf4b9974648",
+          "title": "Pourquoi The Witcher 4 n’aura pas d’extension",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2263649-pourquoi-the-witcher-4-naura-pas-dextension.html",
+          "category": "ia",
+          "published_at": "2026-06-01T08:43:43+00:00",
+          "summary": "CD Projekt Red a rappelé son ambition de développer une nouvelle trilogie The Witcher en un temps record, dans le but de la commercialiser sur une fenêtre de six ans. Par conséquent, The Witcher 4 ne devrait pas avoir d'extension.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d076f5bda9f2",
+          "title": "800 000 euros d’amende : le coup terrible de Netflix et Disney contre Spliiit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2263629-800-000-euros-damende-le-coup-terrible-de-netflix-et-disney-contre-spliiit.html",
+          "category": "ia",
+          "published_at": "2026-06-01T08:40:29+00:00",
+          "summary": "Saisi par Netflix, Disney et Apple, le Tribunal judiciaire de Paris a lourdement condamné la plateforme française de co-abonnement Spliiit à près de 800 000 euros d'amendes. Alors que l'industrie de la SVOD verrouille le partage de comptes, ce verdict sonne-t-il le glas du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7feaed721ed",
+          "title": "Meilleur smartphone 2026 : notre comparatif des meilleurs téléphones du moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
+          "category": "ia",
+          "published_at": "2026-06-01T08:30:00+00:00",
+          "summary": "Trouver le bon smartphone en 2026 reste un choix qui ne se prend pas à la légère. Et autant dire qu'avec le nombre de modèles et de fiches techniques, le choix n'a rien d'évident. Numerama a fait le tri ici des meilleurs smartphones du moment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d74ff21c5c3",
+          "title": "Blizzard relance l’espoir d’une série animée Overwatch",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2263635-blizzard-relance-lespoir-dune-serie-animee-overwatch.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-01T08:28:12+00:00",
+          "summary": "Overwatch a un tout nouveau directeur créatif au CV particulièrement intéressant pour celles et ceux qui espèrent encore voir une série animée basée sur le jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "492547b9334a",
+          "title": "The Mandalorian and Grogu : le nouveau Star Wars est un flop monumental",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2263651-the-mandalorian-and-grogu-le-nouveau-star-wars-est-un-flop-monumental.html",
+          "category": "ia",
+          "published_at": "2026-06-01T08:21:14+00:00",
+          "summary": "L'Empire Disney vacille, et cette fois, la Force n'a rien pu faire.&nbsp;Pour son deuxième week-end d'exploitation aux États-Unis, le grand retour de Star Wars au cinéma avec&nbsp;The Mandalorian and Grogu&nbsp;vient de subir un crash industriel sans précédent. Avec seulement 25…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02ad210592ba",
+          "title": "☕️ Canonical s’occupe désormais de Flutter Desktop",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/canonical-soccupe-desormais-de-flutter-desktop/",
+          "category": "ia",
+          "published_at": "2026-06-01T08:07:51+00:00",
+          "summary": "Le kit de développement multiplateforme Flutter, open source et créé par Google, a d’abord été conçu pour simplifier la création d’applications mobiles. Il a rapidement pris du galon et a notamment débordé sur les ordinateurs (desktop), avec des débouchés vers toutes les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e41bde1309a4",
+          "title": "Windows 11 : la barre des tâches redevient enfin libre",
+          "source": "Next INpact",
+          "url": "https://next.ink/239905/windows-11-la-barre-des-taches-redevient-enfin-libre/",
+          "category": "ia",
+          "published_at": "2026-06-01T07:37:36+00:00",
+          "summary": "Microsoft poursuit son travail de fond pour apporter plus de personnalisation, de stabilité et de fiabilité à Windows 11. Le chantier ouvert en début d&#8217;année multiplie les nouveautés, grandes et petites. Nouveau point d&#8217;étape. En mars, Microsoft annonçait un retour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "024907c08f72",
+          "title": "☕️ Microsoft voudrait ranger tous ses Copilot dans une app unique",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/microsoft-voudrait-ranger-tous-ses-copilot-dans-une-app-unique/",
+          "category": "ia",
+          "published_at": "2026-06-01T06:53:00+00:00",
+          "summary": "Même si Microsoft s&#8217;est décidé à rationaliser la présence (parfois envahissante) de l&#8217;IA dans Windows, l&#8217;éditeur ne compte pas lâcher l&#8217;affaire. Pour remettre de l&#8217;ordre dans sa galaxie de Copilot, l&#8217;entreprise préparerait une « superapp »…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5d05b57a21d",
+          "title": "La fin de la saison 3 d’Euphoria rime avec mauvaise nouvelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2263619-la-fin-de-la-saison-3-deuphoria-rime-avec-mauvaise-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-06-01T06:49:23+00:00",
+          "summary": "Sam Levinson a annoncé qu'il n'y aurait pas de saison 4 pour Euphoria, dont le dernier épisode vient donc tout juste d'être diffusé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fbbe5eed0c4",
+          "title": "☕️ Paint.NET dispose enfin du domaine paint.net",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/paint-net-dispose-enfin-du-domaine-paint-net/",
+          "category": "ia",
+          "published_at": "2026-06-01T06:30:46+00:00",
+          "summary": "Après 22 ans passés à développer Paint.NET, on imagine la satisfaction de Rick Brewster, son principal artisan. Celui-ci vient en effet de mettre la main sur le nom de domaine paint.net, lequel pointera bientôt vers le site dédié à ce célèbre logiciel de retouche photo gratuit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d6bb7adeb54",
+          "title": "UMPG Australia and Pacific President Andrew Jenkins to Depart After Nearly Two Decades",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/umpg-australia-pacific-president-andrew-jenkins-depart/",
+          "category": "musique",
+          "published_at": "2026-06-01T06:16:31+00:00",
+          "summary": "Jenkins joined BMG Music Publishing International in 1993 as Vice President.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a19e5532097",
+          "title": "Censés « vivre ensemble », 50 % des agents IA s’entretuent ou se laissent mourir",
+          "source": "Next INpact",
+          "url": "https://next.ink/239791/censes-vivre-ensemble-50-des-agents-ia-sentretuent-ou-se-laissent-mourir/",
+          "category": "ia",
+          "published_at": "2026-06-01T06:07:00+00:00",
+          "summary": "Censés s&#8217;auto-réguler dans un monde virtuel, 10 agents IA de Grok se sont entretués en seulement 3 jours, ceux d&#8217;OpenAI se sont laissés mourir en 7 jours, et ceux de Google Gemini ont commis 683&#160;crimes en 15 jours. Ceux de Claude, isolés entre eux, n&#8217;en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84e0184d409a",
+          "title": "Call of Duty: Modern Warfare 4 ne sera pas un cirque (promet Activision)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2263611-call-of-duty-modern-warfare-4-naura-pas-de-tenues-clownesques.html",
+          "category": "ia",
+          "published_at": "2026-06-01T05:52:35+00:00",
+          "summary": "Activision et Infinity Ward ont fait une promesse concernant les éléments cosmétiques de Call of Duty: Modern Warfare 4. Enfin fini le temps des collaborations improbables ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11a73a5e8acd",
+          "title": "Mick Jagger Says He ‘Can’t Wait’ to Tour Again With The Rolling Stones: ‘Hopefully as Soon as Possible’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/mick-jagger-tour-the-rolling-stones-1236261206/",
+          "category": "musique",
+          "published_at": "2026-06-01T05:50:17+00:00",
+          "summary": "The interview arrives ahead of the band's 25th studio album Foreign Tongues, due July 10 via Polydor/Universal Music",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c647b05640c",
+          "title": "« Le PC est en train d’être réinventé » : Nvidia dévoile les puces RTX Spark, l’équivalent Windows de Apple M1",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2263591-une-nouvelle-ere-pour-les-pc-nvidia-veut-offrir-a-windows-son-moment-apple-silicon-avec-les-puces-rtx-spark.html",
+          "category": "ia",
+          "published_at": "2026-06-01T05:45:00+00:00",
+          "summary": "Intel, AMD, Qualcomm et Apple Silicon ont un nouveau concurrent : Nvidia. Le maître incontesté du GPU a dévoilé au Computex qu'il allait s’attaquer sérieusement au marché des PC portables Windows avec des SoC pour ordinateurs portables (CPU, GPU et mémoire vive). Sa puce RTX…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eeffc961a362",
+          "title": "☕️ Brûler des tokens n’est pas travailler : Amazon ferme son classement IA interne",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/bruler-des-tokens-nest-pas-travailler-amazon-ferme-son-classement-ia-interne/",
+          "category": "ia",
+          "published_at": "2026-06-01T05:31:54+00:00",
+          "summary": "Brûler des tokens pour se faire bien voir de ses patrons ne sert à rien, mieux vaut se concentrer sur la qualité des produits développés avec l&#8217;IA. C&#8217;est en substance le message en interne chez Amazon, qui a mis fin à un classement mesurant la quantité de tokens…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad48be54769a",
+          "title": "FISHER Joins Australian Voice Cast of Disney and Pixar’s ‘Toy Story 5’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/fisher-voice-cast-toy-story-5-1236261201/",
+          "category": "ia",
+          "published_at": "2026-06-01T04:49:25+00:00",
+          "summary": "The film is set to open in Australia and New Zealand on June 18.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d6842286a34",
+          "title": "Massive Attack Announce First Australian Shows in 16 Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/massive-attack-2026-australia-tour-1236261177/",
+          "category": "ia",
+          "published_at": "2026-06-01T03:13:53+00:00",
+          "summary": "The announcement arrives alongside a newly released collaboration with Tom Waits, \"Boots on the Ground.\"",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-05-31",
       "articles": [
+        {
+          "id": "b7e04b7ec45b",
+          "title": "Fans Choose Ariana Grande’s ‘Hate That I Made You Love Me’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-hate-that-i-made-you-love-me-best-new-music-1236261121/",
+          "category": "musique",
+          "published_at": "2026-05-31T21:26:48+00:00",
+          "summary": "Ari's new single brought in more than 50% of the vote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd803251cff2",
+          "title": "Riches, mais pas que : pourquoi les fans de F1 sont-ils des cibles parfaites pour les hackers ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2260327-riches-mais-pas-que-pourquoi-les-fans-de-f1-sont-ils-des-cibles-parfaites-pour-les-hackers.html",
+          "category": "institutionnel",
+          "published_at": "2026-05-31T18:15:00+00:00",
+          "summary": "La popularité de la Formule 1 ne profite pas qu'aux écuries et aux diffuseurs. Dans l'ombre, une autre industrie tourne à plein régime : la cybercriminalité. Rencontre avec Bogdan Botezatu, directeur de la recherche sur les menaces chez Bitdefender, qui a cartographié les…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "670761014e20",
           "title": "Il devient maître tofu certifié afin de créer le meilleur jeu vidéo sur le thème du tofu",
