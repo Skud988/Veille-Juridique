@@ -1,9 +1,634 @@
 {
-  "generated_at": "2026-06-02T12:15:13.145563+00:00",
+  "generated_at": "2026-06-03T12:50:30.592983+00:00",
   "days": [
+    {
+      "date": "2026-06-03",
+      "articles": [
+        {
+          "id": "c8d582ad2214",
+          "title": "The music industry doesn’t have a streaming problem. It has a customer ownership problem.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-music-industry-doesnt-have-a-streaming-problem-it-has-a-customer-ownership-problem/",
+          "category": "musique",
+          "published_at": "2026-06-03T12:37:15+00:00",
+          "summary": "The following MBW op/ed comes from Deviate Digital founder Sammy Andrews...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5016ca8858eb",
+          "title": "Federal appeals court reverses 2 Live Crew catalogue ruling",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/03/federal-appeals-court-reverses-2-live-crew-catalogue-ruling/",
+          "category": "musique",
+          "published_at": "2026-06-03T12:30:00+00:00",
+          "summary": "Back in October 2024, veteran rap group 2 Live Crew won a legal battle over the termination rights for their recordings catalogue. They had faced off in court against label Lil Joe Records, which had acquired the catalogue in the mid-1990s. As we noted in our reporting at the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08dbad396599",
+          "title": "Ellie Goulding Announces New Album ‘I Know Too Much’: Here’s When It Arrives",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ellie-goulding-new-album-i-know-too-much-release-date-1236262999/",
+          "category": "musique",
+          "published_at": "2026-06-03T12:24:44+00:00",
+          "summary": "The forthcoming record marks the British singer's sixth full-length effort.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0cd746bd6b7c",
+          "title": "Une étoile en train d’en manger une autre : une énigme vieille de 20 ans enfin résolue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2266201-une-etoile-en-train-den-manger-une-autre-une-enigme-vieille-de-20-ans-enfin-resolue.html",
+          "category": "ia",
+          "published_at": "2026-06-03T12:04:50+00:00",
+          "summary": "Un signal radio découvert il y a une vingtaine d'années dans l'univers a enfin pu être identifié. Il s'agissait d'un couple d'étoiles proches l'une de l'autre, avec la plus massive qui « dévorait » sa voisine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ef5ed79cca4",
+          "title": "Music Technology Australia VMDO panel report: ‘No one’s made metadata fun!’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/03/music-technology-australia-vmdo-panel-report-no-ones-made-metadata-fun/",
+          "category": "musique",
+          "published_at": "2026-06-03T12:03:36+00:00",
+          "summary": "Recently, Music Ally attended the Victorian Music Development Office (VMDO) Music Data and Insights Summit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2639c88b821c",
+          "title": "P!nk On ‘Living Out My Childhood Dreams’ as Tony Awards Host",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/pnk-tony-awards-host-interview-1236262917/",
+          "category": "musique",
+          "published_at": "2026-06-03T12:00:00+00:00",
+          "summary": "The singer also reveals the Broadway cast albums she and daughter Willow are constantly playing at home — and whether she'd ever consider a jukebox musical of her own catalog.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f697b029163",
+          "title": "SoundExchange and IFPI introduce automatic ISRC assignment for individual recordings",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/soundexchange-and-ifpi-introduce-automatic-isrc-assignment-for-individual-recordings/",
+          "category": "musique",
+          "published_at": "2026-06-03T11:48:24+00:00",
+          "summary": "The new system is designed to reduce administrative steps for small labels and self-releasing artists that do not own and manage large catalogs.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e8a00e6cc6a",
+          "title": "ARIA boss blasts latest call for pro-AI copyright reforms",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/03/aria-boss-blasts-latest-call-for-pro-ai-copyright-reforms/",
+          "category": "ia",
+          "published_at": "2026-06-03T11:45:45+00:00",
+          "summary": "Scott Farquhar became one of Australia’s first tech billionaires in 2015 when his company Atlassian went public, although he stepped down in 2024 to focus on his family, philanthropy and to “help further the technology industry globally”. He may not be a name that trips off the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd4b93bbe80a",
+          "title": "International Entrepreneur of the Year 2026 nominees: Leo Ballesteros (Atonemo)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/03/international-entrepreneur-of-the-year-2026-nominees-leo-ballesteros-atonemo/",
+          "category": "justice",
+          "published_at": "2026-06-03T11:44:38+00:00",
+          "summary": "Atonemo is a Swedish startup whose Streamplayer device turns any speaker into a fit-for-streaming wireless speaker.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af3b2c365f3a",
+          "title": "GoDigital Music launches Nashville country imprint Orinda under General Manager Cooper Lycan",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/godigital-music-launches-nashville-country-imprint-orinda-under-general-manager-cooper-lycan/",
+          "category": "musique",
+          "published_at": "2026-06-03T11:33:59+00:00",
+          "summary": "Orinda signs Nic D as its first artist\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "906f07a2d85b",
+          "title": "Backrooms 2 : la décision radicale d’A24 pour capitaliser sur le film d’horreur de l’année",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2266245-backrooms-2-la-decision-radicale-da24-pour-capitaliser-sur-le-film-dhorreur-de-lannee.html",
+          "category": "justice",
+          "published_at": "2026-06-03T11:25:00+00:00",
+          "summary": "Alors que le public international attend de découvrir le phénomène horrifique de l'année, Hollywood s'affole déjà. Porté par un démarrage historique à 118 millions de dollars sur le seul sol américain, Backrooms va officiellement avoir droit à une suite chez A24.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3c6600c3801",
+          "title": "Suno raises over $400 million, pushing valuation to $5.4 billion",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-raises-over-400-million-pushing-valuation-to-5-4-billion/",
+          "category": "ia",
+          "published_at": "2026-06-03T10:54:12+00:00",
+          "summary": "The round was led by Bond Capital, alongside IVP, Forerunner, Union Square Ventures, Alkeon, and Quiet\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f6bf57994fb",
+          "title": "Un data center consomme autant d’eau qu’un restaurant ? L’audacieuse promesse de Microsoft pour calmer la soif de l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2266343-un-data-center-consomme-autant-deau-quun-restaurant-laudacieuse-promesse-de-microsoft-pour-calmer-la-soif-de-lia.html",
+          "category": "ia",
+          "published_at": "2026-06-03T10:38:35+00:00",
+          "summary": "À la conférence Build 2026, Satya Nadella a frappé fort en affirmant que ses futurs data centers IA ne consommeraient pas plus d'eau à l'année qu'un simple restaurant de quartier. Une promesse de circuit fermé qui cherche à rassurer face à la « soif » de l'IA générative.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4117892e85ec",
+          "title": "La voiture la plus dangereuse pour un piéton devient une voiture de secours : la reconversion inattendue du Cybertruck",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2266329-la-voiture-la-plus-dangereuse-pour-un-pieton-devient-une-voiture-de-secours-la-reconversion-inattendue-du-cybertruck.html",
+          "category": "ia",
+          "published_at": "2026-06-03T10:16:44+00:00",
+          "summary": "Au Kazakhstan, le Tesla Cybertruck va devenir une voiture officielle pour les premiers secours. Le pays prévoit d'en acheter plusieurs exemplaires, sauvant un peu les meubles chez Tesla.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ffc2717e841",
+          "title": "Qwant remplace Google au Parlement européen : le vrai début de la souveraineté numérique ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2266357-qwant-remplace-google-au-parlement-europeen-le-vrai-debut-de-la-souverainete-numerique.html",
+          "category": "ia",
+          "published_at": "2026-06-03T10:15:03+00:00",
+          "summary": "Le 4 juin, le Parlement européen remplacera Google par Qwant comme moteur de recherche par défaut sur ses ordinateurs. Une bascule qui intervient au moment où les institutions européennes multiplient les initiatives pour réduire leur dépendance aux logiciels américains… et où…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3d85df46006",
+          "title": "Lunettes éclipse solaire 2026 : où trouver des modèles certifiés ISO ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2237131-eclipse-solaire-2026-ou-trouver-des-lunettes-vraiment-aux-normes-pour-le-12-aout.html",
+          "category": "ia",
+          "published_at": "2026-06-03T10:14:39+00:00",
+          "summary": "L’éclipse solaire du 12 août 2026 sera l’un des grands rendez-vous astronomiques visibles en France depuis celle de 1999. Pour observer le phénomène sans danger, il est indispensable d’utiliser des lunettes certifiées. Face à la forte demande attendue à l’approche de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb1a4a92e597",
+          "title": "Marvel’s Wolverine : la prochaine exclusivité de la PS5 vient juste de tomber en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2266333-le-prochain-blockbuster-explosif-de-la-ps5-vient-juste-de-tomber-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-06-03T10:09:42+00:00",
+          "summary": "[Précommande] Elle est bientôt là, la future grosse exclusivité de Sony sur PS5. Après s’être occupé de l’homme-araignée avec les excellents Spider-Man, Insomniac Games s’attaque désormais à Wolverine dans un jeu qui s’annonce particulièrement explosif.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d1df62dd671",
+          "title": "« Toute résistance est inutile » : Qualcomm promet un avenir où les agents IA seront invisibles et partout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2266271-toute-resistance-est-inutile-qualcomm-promet-un-avenir-ou-les-agents-ia-seront-invisibles-et-partout.html",
+          "category": "ia",
+          "published_at": "2026-06-03T10:02:12+00:00",
+          "summary": "Au Computex 2026, le PDG de Qualcomm a déroulé une vision radicale de l'informatique agentique : des agents IA omniprésents, embarqués sur chaque appareil, qui vous suivront partout.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b744704debf",
+          "title": "Pourquoi le premier vol supersonique du X-59 de la Nasa ne sera pas du tout silencieux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2266169-le-premier-vol-supersonique-du-x-59-de-la-nasa-est-imminent-mais-il-ne-sera-pas-si-silencieux-que-ca.html",
+          "category": "ia",
+          "published_at": "2026-06-03T10:01:10+00:00",
+          "summary": "Le grand moment est imminent : l'avion X-59 va s'envoler à une vitesse supérieure à celle du son pour la première fois. Le vol est prévu début juin 2026, selon l'annonce de la Nasa. Mais son premier « bang » très discret ne pourra pas être entendu pour une raison particulière :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2150927c3f85",
+          "title": "God of War Laufey est déjà critiqué pour des raisons abjectes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2266139-god-of-war-laufey-est-deja-critique-pour-des-raisons-abjectes.html",
+          "category": "ia",
+          "published_at": "2026-06-03T09:32:38+00:00",
+          "summary": "Sony a officialisé God of War Laufey, nouvel épisode qui ose remplacer Kratos par une femme dans le rôle-titre. Développeurs, qu'avez-vous fait ?!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3eefd692e49f",
+          "title": "Le Vertige : le nouveau Dupieux est le miroir vraiment flippant de notre époque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2265263-le-vertige-le-nouveau-dupieux-est-le-miroir-flippant-et-dejante-de-notre-epoque.html",
+          "category": "ia",
+          "published_at": "2026-06-03T09:30:00+00:00",
+          "summary": "Avec&nbsp;Le Vertige, présenté en clôture de la Quinzaine des cinéastes à Cannes, et que j'ai pu voir pour Numerama ce mardi 2 juin 2026, Quentin Dupieux délaisse les caméras traditionnelles pour signer son premier film d’animation.&nbsp;En s'appropriant les graphismes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd730413b8ec",
+          "title": "Cet immense TV OLED de Philips avec Ambilight perd 500 € avant la Coupe du Monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2265167-cet-immense-tv-oled-de-philips-avec-ambilight-perd-500-e-avant-la-coupe-du-monde.html",
+          "category": "ia",
+          "published_at": "2026-06-03T09:06:31+00:00",
+          "summary": "[Deal du jour] Ce téléviseur connecté 4K de 77 pouces est un modèle conçu pour répondre à tous les usages, mais il se distingue particulièrement lorsqu’il s’agit de vivre les matchs de la Coupe du monde comme si vous étiez au stade.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "341c80efe569",
+          "title": "Dashlane : la fuite des coffres-forts rappelle l’importance du mot de passe maître",
+          "source": "Next INpact",
+          "url": "https://next.ink/240434/dashlane-la-fuite-des-coffres-forts-rappelle-limportance-du-mot-de-passe-maitre/",
+          "category": "ia",
+          "published_at": "2026-06-03T09:03:05+00:00",
+          "summary": "Les gestionnaires de mots de passe permettent d’utiliser des mots de passe différents et complexes pour tous les services. Ils doivent eux aussi être protégés par un mot de passe maître, qui est parfois le dernier rempart contre les pirates. Une fuite de données chez Dashlane…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aad9032832df",
+          "title": "Bientôt un quatrième modèle XPeng produit en Europe et il pourrait faire un carton",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2266089-bientot-deja-un-quatrieme-modele-xpeng-produit-en-europe-et-il-pourrait-faire-un-carton.html",
+          "category": "ia",
+          "published_at": "2026-06-03T08:51:21+00:00",
+          "summary": "XPeng va étendre son catalogue d'ici le mois de juillet avec une quatrième voiture électrique en Europe. Il s'agira d'un SUV plus petit que le G6, connu sous le nom de Mona en Chine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66e5f85fe75b",
+          "title": "Comment un conflit financier a tué des centaines de milliers de stations Star Météo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2266071-comment-un-conflit-financier-a-tue-des-centaines-de-milliers-de-stations-star-meteo.html",
+          "category": "justice",
+          "published_at": "2026-06-03T08:50:06+00:00",
+          "summary": "Victimes d’un imbroglio financier entre le fabricant La Crosse Technology et le repreneur de son réseau radio, les célèbres stations « Star Météo » ne recevront plus jamais les prévisions de Météo-France. Un arrêt brutal et définitif qui laisse des centaines de milliers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "199de131afe1",
+          "title": "Foxconn, Thales et Radiall vont créer une usine de semiconducteurs près de Bordeaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/240415/foxconn-thales-et-radiall-vont-creer-une-usine-de-semiconducteurs-pres-de-bordeaux/",
+          "category": "ia",
+          "published_at": "2026-06-03T08:46:48+00:00",
+          "summary": "Le Taïwanais Foxconn va s&#8217;associer aux Français Thales et Radiall au travers d&#8217;une coentreprise baptisée Tessalia, qui ambitionne de construire une usine dédiée aux semiconducteurs sur la commune du Barp, à 30 km de Bordeaux. Le projet, soutenu par des fonds publics,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c33a983a2e4",
+          "title": "Saint Etienne Sets Farewell Tour of Australia and New Zealand",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/saint-etienne-2026-farewell-tour-australia-new-zealand-1236258863/",
+          "category": "ia",
+          "published_at": "2026-06-03T08:33:51+00:00",
+          "summary": "The beloved British indie electronic-pop act will make one last visit Down Under in November and December.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bdfb954b7c33",
+          "title": "Stargate : pourquoi Amazon vient de jeter à la poubelle la nouvelle série tant espérée ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2266093-stargate-pourquoi-amazon-vient-de-jeter-a-la-poubelle-la-nouvelle-serie-tant-esperee.html",
+          "category": "musique",
+          "published_at": "2026-06-03T08:27:58+00:00",
+          "summary": "Le géant du streaming Amazon a décidé de mettre un terme au développement de la nouvelle série télévisée Stargate. Initié à la fin de l'année 2025 sous la direction du scénariste et producteur Martin Gero, ce projet devait marquer le grand retour de la franchise de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "482b6e373571",
+          "title": "Windows 11 récupère les coreutils, findutils et grep",
+          "source": "Next INpact",
+          "url": "https://next.ink/240421/windows-11-recupere-les-coreutils-findutils-et-grep/",
+          "category": "ia",
+          "published_at": "2026-06-03T07:45:29+00:00",
+          "summary": "Mardi soir avait lieu la conférence d’ouverture de la BUILD, la grand-messe annuelle de Microsoft pour les développeurs. Entre autres annonces liées inévitablement à l’IA et aux agents, l’entreprise a mis à disposition des outils que personne n’attendait vraiment : les coreutils…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81365079970d",
+          "title": "Melvin Koh to Lead Ticketek’s Asia Activities as TEG Pursues ‘Growth Ambitions’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/melvin-koh-ticketek-asia-growth-ambitions/",
+          "category": "ia",
+          "published_at": "2026-06-03T07:28:15+00:00",
+          "summary": "The appointment \"reflects our ongoing commitment to Asia, a region we have operated in for many decades,” comments group CEO Cameron Hoy.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "438be3ed440f",
+          "title": "Anthropic étend son « Projet Glasswing » : Claude Mythos fait son entrée en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2266029-anthropic-etend-son-projet-glasswing-claude-mythos-fait-son-entree-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-06-03T07:18:25+00:00",
+          "summary": "Après plusieurs semaines de tractations entre Anthropic et les institutions européennes, l'agence de cybersécurité de l'UE devrait obtenir un accès à Claude Mythos, le modèle d'IA le plus puissant, et le plus restreint, jamais développé par la startup américaine. Une première…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4bdba216586",
+          "title": "Le décret présidentiel sur l’IA de Donald Trump a été édulcoré",
+          "source": "Next INpact",
+          "url": "https://next.ink/240369/le-decret-presidentiel-sur-lia-de-donald-trump-a-ete-edulcore/",
+          "category": "ia",
+          "published_at": "2026-06-03T07:09:00+00:00",
+          "summary": "Donald Trump a finalement signé l&#8217;executive order sur l&#8217;intelligence artificielle. Le président américain devait apposer son paraphe sur une précédente version du texte, plus contraignante, il y a deux semaines. Mais au dernier moment, l&#8217;industrie a réclamé et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ee7e881297f",
+          "title": "« C’est la catégorie qui pousse le plus sur Leboncoin » : la voiture électrique d’occasion accélère",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2266031-cest-la-categorie-qui-pousse-le-plus-sur-leboncoin-la-voiture-electrique-doccasion-accelere.html",
+          "category": "ia",
+          "published_at": "2026-06-03T07:03:35+00:00",
+          "summary": "Alors que le marché de l'occasion automobile a connu des jours meilleurs, les voitures électriques de seconde main viennent de doubler leurs ventes en mai. Boostés par l'essence chère, les Français zappent la case hybride et osent enfin l’électrique. Mais quels véhicules se…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "311725a282db",
+          "title": "Snapdragon C : premier coup d’œil sous le capot de la puce pour PC Windows à 300 dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/240229/snapdragon-c-premier-coup-doeil-sous-le-capot-de-la-puce-pour-pc-windows-a-300-dollars/",
+          "category": "ia",
+          "published_at": "2026-06-03T06:26:21+00:00",
+          "summary": "Qualcomm a fait résonner les tambours et les trompettes pour annoncer la Snapdragon C, nouvelle puce qui va équiper des PC portables à partir de 300 dollars. L&#8217;entreprise n&#8217;est pas entrée dans les détails, mais Acer a quelques réponses. Crise de la mémoire aidant,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "419cd9391772",
+          "title": "Pour contrer le scraping des IA, Strava verrouille les accès à son API",
+          "source": "Next INpact",
+          "url": "https://next.ink/240392/pour-contrer-le-scraping-des-ia-strava-verrouille-les-acces-a-son-api/",
+          "category": "ia",
+          "published_at": "2026-06-03T05:55:00+00:00",
+          "summary": "Strava fait la police au sein de son écosystème. La plateforme de suivi de sports d&#8217;endurance, qui fait aussi office de réseau social pour sportifs, serre la vis de l&#8217;accès à ses API pour reprendre le contrôle de ses données et de son infrastructure. Les robots…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e4a6d9fca66",
+          "title": "☕️ Qwant sera le moteur de recherche par défaut des députés européens",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/qwant-sera-le-moteur-de-recherche-par-defaut-des-deputes-europeens/",
+          "category": "ia",
+          "published_at": "2026-06-03T05:20:56+00:00",
+          "summary": "Les députés européens accrocs à la recherche Google vont devoir se faire une raison. Le Parlement européen change de moteur par défaut : à partir de ce jeudi, les résultats d&#8217;une recherche en ligne proviendront de Qwant, le moteur de recherche français «&#160;axé sur la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c3115fefb8b",
+          "title": "International Entrepreneur of the Year 2026 nominees: Dr. Moti Margalit (SonicEdge)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/03/international-entrepreneur-of-the-year-2026-nominees-dr-moti-margalit-sonicedge/",
+          "category": "ia",
+          "published_at": "2026-06-03T05:00:00+00:00",
+          "summary": "Startup SonicEdge focuses on &#8216;micro-sized speakers&#8217; for headphones, earbuds and hearing aids – small speakers with big audio quality.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56767db12546",
+          "title": "International Entrepreneur of the Year 2026 nominees: Vishruti Bindal and Bharavi (Linear Festivals)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/03/international-entrepreneur-of-the-year-2026-nominees-vishruti-bindal-and-bharavi-linear-festivals/",
+          "category": "musique",
+          "published_at": "2026-06-03T04:00:00+00:00",
+          "summary": "Linear Festivals has been rethinking music festivals in India by booking artists to play concerts along public-transportation lines.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9647138375a1",
+          "title": "Barry Can’t Swim, Richie Hawtin, Lead Bizarro’s 2026 Australian Festival Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/barry-cant-swim-richie-hawtin-bizarro-2026-australian-fest-1236262928/",
+          "category": "musique",
+          "published_at": "2026-06-03T03:30:15+00:00",
+          "summary": "The electric music heavyweights lead the Labour Day weekend action at Overtone, Freeform, and Mode festivals this October.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8034ac47beba",
+          "title": "Hyunrock Han of HYBE JAPAN Looks Back on Company’s Growth, Talks Strategies to Launch &TEAM and More: Billboard Global Power Players Interview",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/hyunrock-han-hybe-japan-global-power-players-interview/",
+          "category": "musique",
+          "published_at": "2026-06-03T03:00:00+00:00",
+          "summary": "Billboard Japan sat down with Han to hear how he helped grow the company from around 20 employees at the time of his appointment to roughly 300.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e27bb7a6ebac",
+          "title": "Universal Music Publishing Group Appoints Sunita Kaur as President, Asia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/universal-music-publishing-group-sunita-kaur-president-asia/",
+          "category": "musique",
+          "published_at": "2026-06-03T02:38:38+00:00",
+          "summary": "Based in Singapore, Kaur will lead UMPG’s activities across the Asian continent.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef9b2aec8ddd",
+          "title": "Taylor Swift Says She’s ‘Never Not Inspired’ by Paul McCartney, In High Praise of His New Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/taylor-swift-paul-mccartney-album-review-boys-dungeon-lane-1236262910/",
+          "category": "musique",
+          "published_at": "2026-06-03T02:02:40+00:00",
+          "summary": "In an Instagram Story, Swift highlights the Beatles legend's The Boys of Dungeon Lane album, which arrived last week.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-02",
       "articles": [
+        {
+          "id": "ac6a73d81bd5",
+          "title": "State of Play : trailer énigmatique et date de sortie pour le prochain Silent Hill",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2265883-une-date-de-sortie-pour-silent-hill-townfall-la-nouvelle-vision-horrifique-de-la-licence-culte.html",
+          "category": "ia",
+          "published_at": "2026-06-02T21:46:38+00:00",
+          "summary": "Konami a profité du State of Play pour redonner des nouvelles de Silent Hill: Townfall, un projet singulier de la franchise culte du survival horror. Développé par le studio Screen Burn Interactive et supervisé par Konami, ce nouvel opus s’annonce comme une réinterprétation plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a2d23e50b72",
+          "title": "Rayman Legends: Retold est un remake qui donne déjà sacrément envie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2265795-rayman-legends-retold-est-un-remake-qui-donne-sacrement-envie.html",
+          "category": "ia",
+          "published_at": "2026-06-02T21:19:07+00:00",
+          "summary": "Rayman fera enfin son grand retour non pas avec un nouvel épisode, mais avec un remake qui promet d'être aussi fun que l'original. Présenté lors du State of Play de ce 2 juin 2026, Rayman Legends: Retold donne déjà sacrément envie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7af4c5872a5",
+          "title": "Microsoft vient de dévoiler une IA capable de gérer vos mails et réunions toute seule en arrière-plan",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2265725-scout-le-nouvel-agent-autonome-de-microsoft-qui-veut-gerer-votre-quotidien-de-bureau.html",
+          "category": "ia",
+          "published_at": "2026-06-02T20:48:25+00:00",
+          "summary": "Microsoft a présenté Scout, un agent d’IA autonome et toujours actif intégré à l'écosystème Windows. Capable de gérer de manière proactive vos réunions et vos tâches sur Teams et Outlook sans aucune commande manuelle, cet assistant propulsé par OpenClaw et Work IQ est disponible…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3de84494e7b",
+          "title": "Le pari de Microsoft : une IA partout, tout le temps, mais sans écran. C’est le projet Solara",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2265643-microsoft-devoile-solara-une-puce-pour-connecter-votre-porte-cle-ou-votre-cravate-a-un-agent-ia.html",
+          "category": "ia",
+          "published_at": "2026-06-02T20:46:44+00:00",
+          "summary": "Connecter votre cravate ou votre porte-clé à une IA, le tout sans Windows ? C'est la promesse du Projet Solara, une plateforme « chip-to-cloud » sous Android dévoilée par Microsoft pour infuser intelligemment nos objets du quotidien, même sans écran.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a116aa4476d",
+          "title": "Wolverine, God of War, Tomb Raider… le résumé de toutes les annonces PS5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2264147-state-of-play-2026-comment-suivre-la-presentation-des-futurs-jeux-ps5.html",
+          "category": "ia",
+          "published_at": "2026-06-02T20:46:40+00:00",
+          "summary": "Sony a donné le coup d'envoi des conférences de l'été 2026 avec une nouvelle édition du State of Play. Le programme s'est avéré particulièrement copieux, avec plus d'une heure d'annonces et un one more thing incroyable.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "764f51a82bc9",
+          "title": "2 Live Crew can’t take back their recorded music copyrights after all, appeals court rules",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/2-live-crew-cant-take-back-their-recorded-music-copyrights-after-all-appeals-court-rules/",
+          "category": "musique",
+          "published_at": "2026-06-02T20:36:33+00:00",
+          "summary": "A US federal appeals court has overturned 2 Live Crew's high-profile victory in their long-running copyright fight\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5764b7903f9",
+          "title": "‘Blurred Lines’ copyright lawyer Richard Busch joins law firm Adams & Reese as Special Counsel",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/blurred-lines-copyright-lawyer-richard-busch-joins-law-firm-adams-reese-as-special-counsel/",
+          "category": "ia",
+          "published_at": "2026-06-02T18:47:19+00:00",
+          "summary": "Drew Davis and David Niemierzycki will also join Busch in the firm's Nashville office, serving on the Global Intellectual Property team.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c4e74a39562",
+          "title": "Concord Music Publishing ANZ acquires interest in catalog of The Presets co-founder Julian Hamilton",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/concord-music-publishing-anz-acquires-interest-in-catalog-of-the-presets-co-founder-julian-hamilton/",
+          "category": "musique",
+          "published_at": "2026-06-02T18:02:30+00:00",
+          "summary": "Concord has also signed Hamilton to a new publishing deal covering future works.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59775e9baf87",
+          "title": "CIFSwitch, nouvelle faille d’élévation de privilèges dans Linux",
+          "source": "Next INpact",
+          "url": "https://next.ink/240221/cifswitch-nouvelle-faille-delevation-de-privileges-dans-linux/",
+          "category": "ia",
+          "published_at": "2026-06-02T15:37:41+00:00",
+          "summary": "Une importante faille de sécurité a été découverte dans Linux par un ingénieur en sécurité de chez SpaceX. Exploitée, elle permet d’obtenir les droits root sur un compte local. Elle résidait dans le noyau depuis 2007. La faille CIFSwitch fait parler d’elle depuis quelques jours.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75acd7136e7d",
+          "title": "☕️ Anthropic élargit l’accès à Mythos à une quinzaine de pays",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/anthropic-elargit-lacces-a-mythos-a-une-quinzaine-de-pays/",
+          "category": "ia",
+          "published_at": "2026-06-02T15:30:41+00:00",
+          "summary": "Mythos est certes le modèle le plus ambitieux d&#8217;Anthropic, c&#8217;est aussi un excellent moyen pour le labo IA de faire sa promotion à moindre frais, à quelques encablures de son introduction en Bourse. Nouvelle illustration aujourd&#8217;hui, avec le déploiement du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7fae11b0365",
+          "title": "Havas, led by Yannick Bolloré, launches label via UMG’s Virgin Music Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/havas-led-by-yannick-bollore-launches-label-via-umgs-virgin-music-group/",
+          "category": "musique",
+          "published_at": "2026-06-02T15:27:13+00:00",
+          "summary": "Virgin Music Group will handle VOLYUM's global distribution.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4fa774373ef",
+          "title": "☕️ Booba condamné pour injures racistes et cyberharcèlement",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/booba-condamne-pour-injures-racistes-et-cyberharcelement/",
+          "category": "ia",
+          "published_at": "2026-06-02T15:05:41+00:00",
+          "summary": "Le tribunal correctionnel de Paris a condamné ce 2 juin le rappeur Booba, Ellie Yaffa de son vrai nom, à trois mois de prison avec sursis et 30 000 euros d’amende pour des faits de cyberharcèlement et d’injure raciale envers la journaliste de France Télévision Linh-Lan Dao.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0692965e1f8b",
+          "title": "[MàJ] Utiq, l’identifiant publicitaire des telcos que vous allez adorer détester",
+          "source": "Next INpact",
+          "url": "https://next.ink/239468/utiq-lidentifiant-publicitaire-unifie-des-telcos-que-vous-allez-adorer-detester/",
+          "category": "ia",
+          "published_at": "2026-06-02T14:33:41+00:00",
+          "summary": "Conçue comme un identifiant publicitaire alternatif aux cookies tiers, la technologie Utiq apparait aujourd&#8217;hui au niveau des bandeaux de consentement de nombreux médias et sites de marque. Bien qu&#8217;elle soit présentée comme un «&#160;simple&#160;» identifiant, son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b454e3aa3800",
+          "title": "Choose France 2026 : un montant record de 93 milliards d’euros à relativiser",
+          "source": "Next INpact",
+          "url": "https://next.ink/240215/choose-france-2026-un-montant-record-de-93-milliards-deuros-a-relativiser/",
+          "category": "ia",
+          "published_at": "2026-06-02T14:20:20+00:00",
+          "summary": "Dans son édition 2026, le sommet Choose France semble être le lieu de réunion de tous les superlatifs. Dans son bilan publié ce 1ᵉʳ juin, on peut ainsi lire qu’un total de 93 milliards d’euros d’investissements a été annoncé. Le succès de cette édition reste cependant à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c824a5387b01",
+          "title": "Amnesty appelle à interdire les IA génératives entraînées sur du pillage de données",
+          "source": "Next INpact",
+          "url": "https://next.ink/240154/amnesty-appelle-a-interdire-les-ia-generatives-entrainees-sur-du-pillage-de-donnees/",
+          "category": "ia",
+          "published_at": "2026-06-02T14:10:24+00:00",
+          "summary": "Dans un rapport dédié aux effets concrets des systèmes d’IA générative pour les droits humains, Amnesty International estime que les modèles construits à partir de la récolte non consentie de données disponibles en ligne violent le droit à la vie privée, à la non-discrimination,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10175fda9711",
+          "title": "AI music-videos startup Neural Frames hits $5m annual run rate",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/02/ai-music-videos-startup-neural-frames-hits-5m-annual-run-rate/",
+          "category": "musique",
+          "published_at": "2026-06-02T12:30:00+00:00",
+          "summary": "Berlin-based startup Neural Frames has built a platform for creating music videos using AI, and its annual run rate (ARR – a projection of annual earnings from its current performance) has just crossed $5m. The milestone comes as Neural Frames adds a significant name to its…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dfe5b8eb3683",
+          "title": "Roli’s latest music-education move is a partnership with Casio",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/02/rolis-latest-music-education-move-is-a-partnership-with-casio/",
+          "category": "musique",
+          "published_at": "2026-06-02T12:30:00+00:00",
+          "summary": "Earlier this year, we reported on music-education firm Roli’s launch of an ‘AI Music Coach’ to help people learn to play the company’s Airwave instrument. Now it’s branching out to more-traditional keyboards. The company has launched a partnership with Casio, debuting a ‘Roli…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62ce2f08364d",
+          "title": "Bank of America is ‘Side by Side’ with Tomorrow’s Warriors",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/02/bank-of-america-is-side-by-side-with-tomorrows-warriors/",
+          "category": "ia",
+          "published_at": "2026-06-02T12:30:00+00:00",
+          "summary": "The 35th-birthday-year festivities continue for UK talent-development organisation Tomorrow’s Warriors – and now it has some big financial muscle joining the party: Bank of America. The latter is the partner for a new program called ‘Side by Side’ that will provide performance…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83f191a640bf",
+          "title": "TikTok hails 11bn views (and streaming success) for ‘Self Aware’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/02/tiktok-hails-11bn-views-and-streaming-success-for-self-aware/",
+          "category": "musique",
+          "published_at": "2026-06-02T12:30:00+00:00",
+          "summary": "With labels grumbling off-record to Bloomberg about TikTok caring more about its SoundOn distribution arm and direct relationships with artists, what better time to, ahem, celebrate the latest SoundOn success story? There’s nuance here though. ‘Self Aware’ by rock band Temper…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d928662219f9",
+          "title": "Serato kicks off Pride Month with ‘Paradise’ on Apple Music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/02/serato-kicks-off-pride-month-with-paradise-on-apple-music/",
+          "category": "musique",
+          "published_at": "2026-06-02T12:30:00+00:00",
+          "summary": "Pride Month got underway yesterday, and as ever we expect to see plenty of musical activations and brand partnerships celebrating LGBTQ+ culture and communities. Starting with electronic-music brand Serato and Apple Music. Serato’s ‘Paradise 2026’ campaign will be hosted on…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c8c3d548b593",
           "title": "Sur Switch 2, Final Fantasy VII Rebirth est quand même fortement sacrifié",
