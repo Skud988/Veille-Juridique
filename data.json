@@ -1,9 +1,654 @@
 {
-  "generated_at": "2026-06-04T11:25:42.124365+00:00",
+  "generated_at": "2026-06-05T11:36:13.602689+00:00",
   "days": [
+    {
+      "date": "2026-06-05",
+      "articles": [
+        {
+          "id": "2aadff1d3ef4",
+          "title": "Instagram details the features in its new ‘Plus’ subscription",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/instagram-details-the-features-in-its-new-plus-subscription/",
+          "category": "ia",
+          "published_at": "2026-06-05T11:30:00+00:00",
+          "summary": "Instagram has confirmed the details of what people will be getting in the $3.99-a-month Instagram Plus tier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65023797aeaf",
+          "title": "Tidal aims to help DIY artists sell music directly to fans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/tidal-aims-to-help-diy-artists-sell-music-directly-to-fans/",
+          "category": "musique",
+          "published_at": "2026-06-05T11:00:00+00:00",
+          "summary": "Tidal’s latest D2C move is a feature enabling artists to sell albums or individual tracks to their fans via its Tidal Upload offering.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b42edd07c41c",
+          "title": "Un avion de guerre Rafale a exécuté un tir inédit en vol supersonique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2268229-un-avion-de-guerre-rafale-a-execute-un-tir-inedit-en-vol-supersonique.html",
+          "category": "ia",
+          "published_at": "2026-06-05T10:31:28+00:00",
+          "summary": "Une première historique à plus de Mach 1. Le 1er juin 2026, un chasseur Rafale a réussi le tout premier tir du missile MICA Nouvelle Génération (NG) en plein vol supersonique. Un défi technique majeur qui vient muscler la future défense aérienne française face aux nouvelles…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5136f469fef",
+          "title": "Chordal reveals 21 new partners for its sync-licensing network",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/chordal-reveals-21-new-partners-for-its-sync-licensing-network/",
+          "category": "musique",
+          "published_at": "2026-06-05T10:19:06+00:00",
+          "summary": "Music-rights tech firm Chordal continues to build momentum for its ‘InstantClear’ pre-clearance licensing system.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dad814a76642",
+          "title": "New tools for touring artists: Bandsintown Boost and Laylo’s AI ticket-sales agent",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/new-tools-for-touring-artists-bandsintown-boost-and-laylos-ai-ticket-sales-agent/",
+          "category": "ia",
+          "published_at": "2026-06-05T10:09:58+00:00",
+          "summary": "It can be tough out there touring in 2026, but two new tools from Bandsintown and Laylo are aiming to help artists fill venues.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd1c5b7f4a68",
+          "title": "Kanya King, MOBOs Founder and Black Music Champion, Dies at 57 Following Cancer Diagnosis",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kanya-king-mobos-obituary-dead-1236264987/",
+          "category": "musique",
+          "published_at": "2026-06-05T10:07:30+00:00",
+          "summary": "King was diagnosed with stage four colon cancer in 2018.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a8043a0d86f",
+          "title": "Shaboozey Rides Out With His ‘Cowgirl’ Music Video Starring Ciara Miller: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/shaboozey-cowgirl-music-video-ciara-miller-watch-1236264989/",
+          "category": "musique",
+          "published_at": "2026-06-05T10:01:57+00:00",
+          "summary": "Shaboozey's outlaw era gathers pace with the release of “Cowgirl,” and its music video featuring Miller, the star of Bravo’s \"Summer House.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e206f3cea010",
+          "title": "Anthropic joue encore sur les peurs de l’IA toute-puissante pour se mettre en valeur",
+          "source": "Next INpact",
+          "url": "https://next.ink/240983/anthropic-joue-encore-sur-les-peurs-de-lia-toute-puissante-pour-se-mettre-en-valeur/",
+          "category": "ia",
+          "published_at": "2026-06-05T10:00:25+00:00",
+          "summary": "Alors qu&#8217;elle prépare une entrée en bourse, l&#8217;entreprise de Dario Amodei regonfle les discours catastrophistes sur l&#8217;IA générative pour sa communication juste après avoir gonflé ses muscles grâce à Mythos. « Perte de contrôle », évocation du traité sur les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "937a1c976a0c",
+          "title": "Quelle est cette série Netflix qui fait un véritable carton après la sortie de Michael ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2267983-quelle-est-cette-serie-netflix-qui-fait-un-veritable-carton-apres-la-sortie-de-michael.html",
+          "category": "ia",
+          "published_at": "2026-06-05T10:00:00+00:00",
+          "summary": "Alors que le biopic événement&nbsp;Michael&nbsp;écrase actuellement le box-office mondial pour s'imposer comme l'un des plus grands succès cinématographiques de l'année 2026, Netflix a choisi précisément ce moment pour rouvrir le dossier le plus brûlant de la pop culture. Sortie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8d5fbf58773",
+          "title": "Cisac launches Paris Commitment while Human Artistry Campaign takes to skies with Suno protest",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/cisac-launches-paris-commitment-while-human-artistry-campaign-takes-to-skies-with-suno-protest/",
+          "category": "ia",
+          "published_at": "2026-06-05T09:59:01+00:00",
+          "summary": "Collecting-societies body Cisac has been taking a prominent role in the AI policy debates. Its latest contribution is a declaration.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7051d44a1d1d",
+          "title": "L’Odyssée : ce site propose une expérience inédite pour comparer les différents formats d’image (IMAX, 35 mm, etc)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2267889-lodyssee-ce-site-propose-une-experience-inedite-pour-comparer-les-differents-formats-dimage-imax-35-mm-etc.html",
+          "category": "ia",
+          "published_at": "2026-06-05T09:59:00+00:00",
+          "summary": "À l’approche de la sortie de son nouveau blockbuster, Christopher Nolan offre aux cinéphiles une expérience interactive inédite. Le site officiel de L'Odyssée intègre désormais un lecteur de bande-annonce d’un nouveau genre, permettant de basculer en temps réel d'un format…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98ab56a0cf8a",
+          "title": "F1 en streaming : où voir le GP de Monaco de la saison 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/704990-comment-regarder-le-gp-de-monaco-de-f1-en-direct.html",
+          "category": "justice",
+          "published_at": "2026-06-05T09:48:21+00:00",
+          "summary": "Après des mois et des mois d'attente, la Formule 1 a repris ses droits. Et cette saison 2026 s'annonce particulièrement indécise en raison d'une nouvelle réglementation. Pour le moment, c'est l'écurie Mercedes qui domine, avec quatre victoires de suite pour Kimi Antonelli.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e56905fedf6",
+          "title": "Pour patienter avant Wolverine, la trilogie Marvel’s Spider-man est à prix cassé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2268023-pour-patienter-avant-wolverine-la-trilogie-marvels-spider-man-est-a-prix-casse.html",
+          "category": "ia",
+          "published_at": "2026-06-05T09:46:39+00:00",
+          "summary": "[Deal du jour] La présentation de Marvel’s Wolverine lors du State of Play du 2 juin 2026 vous a mis l’eau à la bouche ? Il faudra attendre le 15 septembre 2026 pour pouvoir y jouer. En attendant, pourquoi ne pas découvrir l’autre grand titre d’Insomniac Games ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8ecc66d2828",
+          "title": "« C’était moins une ! » SpaceX n’est pas passé loin d’un raté lors d’un atterrissage avec une Falcon 9",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2267945-cetait-moins-une-spacex-nest-pas-passe-loin-dun-rate-lors-dun-atterrissage-avec-une-falcon-9.html",
+          "category": "ia",
+          "published_at": "2026-06-05T09:45:00+00:00",
+          "summary": "La routine a bien failli mal tourner. Lors d'un lancement de satellites Starlink le 4 juin 2026, le premier étage d'une Falcon 9 a été victime d'une panne mécanique en pleine descente.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7eab9df1c37",
+          "title": "Amazon shopping génère en temps réel par IA des images de produits qui… n’existent pas",
+          "source": "Next INpact",
+          "url": "https://next.ink/240875/amazon-shopping-genere-en-temps-reel-par-ia-des-images-de-produits-qui-nexistent-pas/",
+          "category": "ia",
+          "published_at": "2026-06-05T09:41:59+00:00",
+          "summary": "L&#8217;application shopping d&#8217;Amazon propose à ses utilisateurs, non pas des images de produits existants correspondant aux mots-clefs recherchés, mais des images générées par IA, évoluant et s&#8217;affinant à chaque mot ajouté. Amazon vient d&#8217;annoncer 8 nouvelles…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51e3aa24fcdd",
+          "title": "Blue Origin pris au piège ? La Nasa exige un plan B pour la Lune après l’explosion de la fusée New Glenn",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2267903-blue-origin-pris-au-piege-la-nasa-exige-un-plan-b-pour-la-lune-apres-lexplosion-de-la-fusee-new-glenn.html",
+          "category": "ia",
+          "published_at": "2026-06-05T09:23:18+00:00",
+          "summary": "L'explosion de la fusée New Glenn représente un risque trop grand de chambouler le calendrier du programme Artémis. La Nasa presse Blue Origin de chercher une alternative à cette fusée, afin de lancer les atterrisseurs lunaires Blue Moon à temps.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a9cfba425e1",
+          "title": "Face à Edge, six éditeurs appellent Microsoft à changer les règles du jeu",
+          "source": "Next INpact",
+          "url": "https://next.ink/240979/face-a-edge-six-editeurs-appellent-microsoft-a-changer-les-regles-du-jeu/",
+          "category": "ia",
+          "published_at": "2026-06-05T08:57:59+00:00",
+          "summary": "Réunis au sein de la Browser Choice Alliance, six éditeurs de navigateurs dont Chrome, Opera ou Vivaldi, appellent dans une lettre ouverte Microsoft à mettre fin aux pratiques visant à avantager son propre client, Edge, sur Windows. «&#160;Assez, c&#8217;est assez », titrent les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7f7d820bab4",
+          "title": "« Quand l’IA qui se construit elle-même » : Anthropic publie ses données internes et dessine trois futurs, dont un qu’elle redoute",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2267897-quand-lia-qui-se-construit-elle-meme-anthropic-publie-ses-donnees-internes-et-dessine-trois-futurs-dont-un-quelle-redoute.html",
+          "category": "ia",
+          "published_at": "2026-06-05T08:55:35+00:00",
+          "summary": "Anthropic a publié un article de blog détaillant, chiffres internes à l'appui, les progrès de Claude dans le développement de ses propres modèles, et les implications que l'entreprise en tire pour l'avenir de l'IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ac5b32bae53",
+          "title": "☕️ QNAP : QuTS hero h6.0 passe en version finale, haute disponibilité et snapshots immuables",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/qnap-quts-hero-h6-0-passe-en-version-finale-haute-disponibilite-et-snapshots-immuables/",
+          "category": "ia",
+          "published_at": "2026-06-05T08:36:26+00:00",
+          "summary": "La haute disponibilité est arrivée début mai 2025 chez QNAP, en bêta avec QuTS hero h5.3. Le fabricant de NAS passe son système d’exploitation basé sur ZFS en version h6.0 et renforce la haute disponibilité. La bêta de cette mouture avait été mise en ligne fin 2025. Désormais,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d89c4deaed89",
+          "title": "Surprise ! Le Tesla Model Y gagne une nouvelle couleur, mais sur une version bien spécifique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2267885-surprise-le-tesla-model-y-gagne-une-nouvelle-couleur-mais-sur-une-version-bien-specifique.html",
+          "category": "ia",
+          "published_at": "2026-06-05T08:16:22+00:00",
+          "summary": "Tesla lance une nouvelle teinte pour son Model Y : le bleu Côtier. Celle-ci est uniquement disponible sur la version d'entrée de gamme Propulsion. De quoi se distinguer des couleurs basiques blanc, noir et gris.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eef67e084e89",
+          "title": "La Steam Machine sortira cet été, mais on ne connait toujours pas le prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2267855-la-steam-machine-sortira-cet-ete-mais-on-ne-connait-toujours-pas-le-prix.html",
+          "category": "ia",
+          "published_at": "2026-06-05T08:15:11+00:00",
+          "summary": "Valve a enfin donné quelques précisions sur le lancement de la Steam Machine. Elle est donc attendue pour cet été, à un prix encore inconnu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3adffa29429",
+          "title": "La fusée lourde Falcon Heavy va revoler bien plus tôt qu’on ne le pense",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2267873-la-fusee-lourde-falcon-heavy-va-revoler-bien-plus-tot-quon-ne-le-pense.html",
+          "category": "ia",
+          "published_at": "2026-06-05T08:01:48+00:00",
+          "summary": "La rapidité avec laquelle la Nasa a achevé la conception du télescope Nancy Grace Roman bouscule un peu le calendrier à venir de SpaceX. La fusée lourde Falcon Heavy, qui vole rarement, retrouvera ainsi très rapidement le pas de tir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b5078771083",
+          "title": "Boards of Canada Fires Up ARIA Chart With ‘Inferno’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/boards-of-canada-aria-chart-debut-inferno-1236264972/",
+          "category": "musique",
+          "published_at": "2026-06-05T07:58:10+00:00",
+          "summary": "BoC enjoys a career best appearance on Australia's albums chart as \"Inferno\" starts at No. 3.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31dbedb83330",
+          "title": "Un musicien s’amuse à remixer des morceaux de rock en musiques de Doom",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2267857-un-musicien-samuse-a-remixer-des-morceaux-de-rock-en-musiques-de-doom.html",
+          "category": "musique",
+          "published_at": "2026-06-05T07:35:29+00:00",
+          "summary": "Quand on a une passion, on s’y consacre pleinement. Que ce soit le jardinage, la peinture de figurines Warhammer ou les reprises de chansons en version Doom.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2805c415160a",
+          "title": "Trois pilotes tentent de traverser l’Atlantique en ballon à hydrogène, et on peut suivre ça en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2267851-trois-pilotes-tentent-de-traverser-latlantique-en-ballon-a-hydrogene-et-on-peut-suivre-ca-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-06-05T06:57:17+00:00",
+          "summary": "Trois pilotes ont décollé du Maine pour tenter la première traversée de l'Atlantique en ballon gonflé à l'hydrogène. Une expédition que l'on peut suivre quasiment en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf20c9ade9d6",
+          "title": "L’Europe veut numériser son réseau électrique pour « gagner en indépendance »",
+          "source": "Next INpact",
+          "url": "https://next.ink/240971/leurope-veut-numeriser-son-reseau-electrique-pour-gagner-en-independance/",
+          "category": "ia",
+          "published_at": "2026-06-05T06:55:37+00:00",
+          "summary": "La feuille de route européenne sur la numérisation de l&#8217;énergie ne se limite pas à l&#8217;IA et aux réseaux intelligents. Bruxelles veut accélérer le déploiement des compteurs communicants, et prépare l&#8217;arrivée d&#8217;une nouvelle génération de centres de données…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54c86d07b058",
+          "title": "Everything that happened at Spotify India’s first Equal Day",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/everything-that-happened-at-spotify-indias-first-equal-day/",
+          "category": "musique",
+          "published_at": "2026-06-05T06:55:08+00:00",
+          "summary": "On 14 May, Mumbai joined nine cities across the world in hosting Spotify’s Equal Day. The event—named after Spotify’s global initiative to fuel equality in the music industry—was held in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1888c9c2e47",
+          "title": "Indian artists did win at the 2026 Grammys Awards after all",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/indian-artists-did-win-at-the-2026-grammys-awards-after-all/",
+          "category": "musique",
+          "published_at": "2026-06-05T06:35:53+00:00",
+          "summary": "When the nominations for this year’s Grammy Awards were announced in November 2025, releases by Indian acts made up half of the six nods in the Best Global Music Album [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c5a346e052c",
+          "title": "PaRa Music is a new Indian “AI-powered” label — that says it won’t be using AI to create songs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/para-music-is-a-new-indian-ai-powered-label-that-says-it-wont-be-using-ai-to-create-songs/",
+          "category": "musique",
+          "published_at": "2026-06-05T06:30:12+00:00",
+          "summary": "Indian music industry professional and former executive VP at Saregama, Rashna Pochkhanawala, has founded PaRa Music, an “AI-powered” company. But the venture won’t involve AI artists or music. Instead, the [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a8450a559de",
+          "title": "The Red Clay Strays and Carly Pearce Lead an Exhilarating First Night of Billboard’s Country Live Series",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/red-clay-strays-first-night-billboard-country-live-recap/",
+          "category": "musique",
+          "published_at": "2026-06-05T06:28:45+00:00",
+          "summary": "The Alabama band headlined an evening packed with a slate of country stars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20a2d5df0ead",
+          "title": "Quand sort Elden Ring sur Nintendo Switch 2 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2267849-quand-sort-elden-ring-sur-nintendo-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-06-05T06:28:38+00:00",
+          "summary": "Bandai Namco a enfin partagé la date de sortie de la version Switch 2 du chef-d'œuvre Elden Ring, sous-titré Tarnished Edition. Rendez-vous le 28 août 2026, soit avant les grandes manœuvres de la rentrée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4895f4b004de",
+          "title": "Meta revient (plus ou moins) sur son projet de surveillance de ses employés",
+          "source": "Next INpact",
+          "url": "https://next.ink/240943/meta-revient-plus-ou-moins-sur-son-projet-de-surveillance-de-ses-employes/",
+          "category": "ia",
+          "published_at": "2026-06-05T06:21:00+00:00",
+          "summary": "Devant les critiques internes, Meta allège un peu son projet de déploiement d’un outil de surveillance des salariés destiné à entraîner ses moteurs d’IA. En avril, Meta avait informé ses employés que leurs moindres faits et gestes seraient surveillés par un nouvel outil nommé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e95454722f6",
+          "title": "How ‘PRODUCE 101 JAPAN SHINSEKAI’ Is Driving Streams of JO1, INI & ZEROBASEONE Tracks",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/produce-101-japan-shinsekai-jo1-ini-amp-zerobaseone-streams-1236264536/",
+          "category": "justice",
+          "published_at": "2026-06-05T06:00:00+00:00",
+          "summary": "JO1’s “Love seeker” saw its streaming numbers rise by 197% in Japan in the week after PRODUCE 101 JAPAN SHINSEKAI aired.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17672d728ef2",
+          "title": "‘To Infinity And Beyond’: How Taylor Swift Turned a Lifelong Love of ‘Toy Story’ Into Her Latest Project",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-lifelong-love-toy-story-new-project-1236264906/",
+          "category": "musique",
+          "published_at": "2026-06-05T05:51:25+00:00",
+          "summary": "“Writing this song felt like a musical departure and coming home at the same time,” Swift writes in a social post.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11252f88ace4",
+          "title": "Phoebe Bridgers Slams ‘ICE Idiots’ & Debuts Songs From Her Existential New Album at MSG: 5 Best Moments From Her Top-Secret Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/phoebe-bridgers-msg-secret-show-in-new-york-best-moments/",
+          "category": "musique",
+          "published_at": "2026-06-05T05:28:00+00:00",
+          "summary": "The star also revealed that she's going on a proper tour this fall.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fea88ca0415a",
+          "title": "Taylor Swift, Niall Horan, Tinashe & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-niall-horan-tinashe-new-music-friday-guide-1236261656/",
+          "category": "musique",
+          "published_at": "2026-06-05T05:12:59+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15297da803c1",
+          "title": "Lizzo Is Still 100% That ‘Bitch’ on Long-Awaited New Album: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/lizzo-bitch-album-stream-it-now-1236264551/",
+          "category": "musique",
+          "published_at": "2026-06-05T04:05:58+00:00",
+          "summary": "The Grammy winner's fifth studio album is now here.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-04",
       "articles": [
+        {
+          "id": "c299ac2e4287",
+          "title": "Conjonction de planètes, pleine Lune, étoiles filantes : que voir dans le ciel en juin 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2264921-conjonction-de-planetes-pleine-lune-etoiles-filantes-que-voir-dans-le-ciel-en-juin-2026.html",
+          "category": "ia",
+          "published_at": "2026-06-04T19:30:00+00:00",
+          "summary": "L'été astronomique commence officiellement en juin 2026 dans l'hémisphère nord. Les nuits sont plus courtes à l'approche du solstice, mais les spectacles astronomiques à voir même à l'œil nu sont bien au programme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "960d843a3872",
+          "title": "Remember ‘Say No To Suno’? Someone just hired a plane to fly it over an AI investor summit… featuring Mikey Shulman.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/remember-say-no-to-suno-plane-mikey-shulman/",
+          "category": "ia",
+          "published_at": "2026-06-04T18:54:25+00:00",
+          "summary": "Its location in the skies was significant – directly over the UBS AI in Entertainment Summit at the Shutters on the Beach hotel, where Suno CEO Mikey Shulman was among the speakers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32f3136ec82a",
+          "title": "The Witcher 3 : le lieu qu’explorera Geralt dans Songs of the Past a peut-être été percé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2267461-the-witcher-3-le-lieu-quexplorera-geralt-dans-songs-of-the-past-a-peut-etre-ete-perce.html",
+          "category": "ia",
+          "published_at": "2026-06-04T17:48:21+00:00",
+          "summary": "C'est le nom d'une ville et d'une région : Cidaris. Et les investigations des fans de The Witcher 3 laissent à penser que le lieu de l'aventure pour la prochaine extension, Songs of the Past, a peut-être été trouvé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0513463f2713",
+          "title": "Concord invests in and strikes strategic partnership with Lito Music, the company founded by Latin hip-hop & reggaeton artist Lito MC Cassidy",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/concord-invests-in-and-strikes-strategic-partnership-with-lito-music-the-company-founded-by-latin-hip-hop-reggaeton-artist-lito-mc-cassidy/",
+          "category": "musique",
+          "published_at": "2026-06-04T17:21:47+00:00",
+          "summary": "The deal expands Concord’s presence in Latin music\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf74549630cd",
+          "title": "Gemini piégé par de simples notifications : une attaque par injection de prompt a détourné l’assistant de Google",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2267683-gemini-piege-par-de-simples-notifications-une-attaque-par-injection-de-prompt-a-detourne-lassistant-de-google.html",
+          "category": "ia",
+          "published_at": "2026-06-04T17:05:00+00:00",
+          "summary": "Dans un article publié le 3 juin 2026, des chercheurs de SafeBreach ont prouvé comment de simples notifications pouvaient suffire à manipuler Google Gemini. En exploitant le résumé vocal des messages, ils sont notamment parvenus à injecter des instructions invisibles, capables…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e75617e812a2",
+          "title": "A bill moving through Congress could change who controls the US Copyright Office. Here’s why it matters for the music business.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/a-bill-moving-through-congress-could-change-who-controls-the-us-copyright-office-heres-why-it-matters-for-the-music-business/",
+          "category": "musique",
+          "published_at": "2026-06-04T16:11:16+00:00",
+          "summary": "Who controls the machinery of copyright in the United States, and what happens to music if that control shifts?\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "028a5cc1320a",
+          "title": "139 millions de vues plus tard : Netflix valide en urgence la suite de War Machine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2267417-139-millions-de-vues-plus-tard-netflix-valide-en-urgence-la-suite-de-war-machine.html",
+          "category": "ia",
+          "published_at": "2026-06-04T15:40:00+00:00",
+          "summary": "Insubmersible Netflix. À peine trois mois après sa mise en ligne, le thriller d'action militaire War Machine entre officiellement dans le panthéon de la plateforme. Avec un score titanesque de 139 millions de vues, le long métrage s'est hissé dans le Top 10 des films originaux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bee327392654",
+          "title": "Comment l’humanité a fini sous terre : la  saison 3 de Silo promet d’énormes révélations",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2267657-comment-lhumanite-a-fini-sous-terre-la-saison-3-de-silo-promet-denormes-revelations.html",
+          "category": "ia",
+          "published_at": "2026-06-04T15:36:54+00:00",
+          "summary": "L'attente touche à sa fin pour les captifs du monde souterrain d'Apple TV+.&nbsp;La plateforme vient de lever le voile sur la bande-annonce officielle de la saison 3 de&nbsp;Silo,&nbsp;sa série de science-fiction dystopique phare.&nbsp;Entre révélations sur les origines de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a11f9221ab71",
+          "title": "Voitures électriques neuves : la baisse des prix s’amorce enfin en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2267473-voitures-electriques-neuves-la-baisse-des-prix-samorce-enfin-en-france.html",
+          "category": "ia",
+          "published_at": "2026-06-04T15:22:08+00:00",
+          "summary": "Porté par la baisse du coût des batteries, l'arrivée de nouveaux modèles accessibles et un cadre fiscal reconfiguré, le prix moyen d'une voiture électrique a baissé en 2025. Cette tendance rapproche concrètement les voitures électriques de leurs équivalents thermiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34e9ad0912c1",
+          "title": "Doctolib réfute livrer « les infos de ses utilisateurs » aux grands acteurs de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/240830/doctolib-refute-livrer-les-infos-de-ses-utilisateurs-aux-grands-acteurs-de-lia/",
+          "category": "ia",
+          "published_at": "2026-06-04T15:20:00+00:00",
+          "summary": "Le Canard enchaîné a révélé dans son édition du 2 juin 2026 que Doctolib livrait «&#160;les infos de ses utilisateurs à des géants américains de l&#8217;IA&#160;» et que ces données servaient l&#8217;entraînement des grands modèles de langage d&#8217;acteurs tels que Microsoft,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abeb6bf56426",
+          "title": "Canada walks back plan to make US audiovisual streaming services pay a bigger Canadian-content levy",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/canada-walks-back-plan-to-make-us-audiovisual-streaming-companies-pay-a-bigger-canadian-content-levy/",
+          "category": "justice",
+          "published_at": "2026-06-04T14:58:50+00:00",
+          "summary": "The measures were announced by Marc Miller, Canada's Minister of Canadian Identity and Culture and Minister responsible for Official Languages.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51ea759119e3",
+          "title": "Le portail d’actualités MSN de Microsoft rémunère une quarantaine de médias générés par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/240208/le-portail-dactualites-msn-de-microsoft-remunere-une-quarantaine-de-medias-generes-par-ia/",
+          "category": "ia",
+          "published_at": "2026-06-04T14:56:17+00:00",
+          "summary": "Promettant d’afficher « le meilleur des informations en ligne », jusque dans son widget Actualités présent sur tous les PC Windows, MSN a une curieuse ligne éditoriale. Le portail de Microsoft recommande en effet des vidéos complotistes, survalorise CNews, et rémunère de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29f3a30fe614",
+          "title": "Julian Franzoni appointed General Manager for Argentina and Uruguay at Warner Chappell Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/julian-franzoni-appointed-general-manager-for-argentina-and-uruguay-at-warner-chappell-music/",
+          "category": "musique",
+          "published_at": "2026-06-04T14:32:32+00:00",
+          "summary": "Franzoni joined WCM in 2016 and rose through the ranks in the A&#038;R team\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a9211b9ad5e",
+          "title": "Epson vs HOP : un premier procès pour obsolescence programmée",
+          "source": "Next INpact",
+          "url": "https://next.ink/240817/epson-vs-hop-un-premier-proces-pour-obsolescence-programmee/",
+          "category": "ia",
+          "published_at": "2026-06-04T14:29:28+00:00",
+          "summary": "Plus de 10 ans après le vote de la loi contre l&#8217;obsolescence programmée, un premier procès va s&#8217;ouvrir cet été suite à la plainte de l&#8217;association Halte à l&#8217;Obsolescence Programmée (HOP) déposée en 2017. Une première audience doit avoir lieu le 2 juillet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1d014201ee5",
+          "title": "☕️ Apple règle un contentieux fiscal de 212 millions d’euros avec Bercy",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-regle-un-contentieux-fiscal-de-212-millions-deuros-avec-bercy/",
+          "category": "ia",
+          "published_at": "2026-06-04T13:41:47+00:00",
+          "summary": "Apple trouve un terrain d&#8217;entente avec Bercy. La branche française du constructeur californien, Apple France SARL, a signé un chèque de 212 millions d&#8217;euros au fisc au titre de ses exercices 2024 et antérieurs, selon une indiscrétion de L&#8217;Informé. La somme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d5e78d555cf",
+          "title": "☕️ Nintendo prépare bien une Switch 2 avec batterie remplaçable en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/nintendo-prepare-bien-une-switch-2-avec-batterie-remplacable-en-europe/",
+          "category": "loi",
+          "published_at": "2026-06-04T13:20:38+00:00",
+          "summary": "Comme le rapporte NintendoLife, une discrète mise à jour vient d’avoir lieu sur le site de Nintendo. Dans la page consacrée à la conformité avec les directives et règlements de l’Union européenne, on trouve une nouvelle entrée. Elle concerne le règlement 2023/1542 dédié aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34d673591999",
+          "title": "Fast-growing producer royalty company mprs is now buying producer catalogs – in partnership with Milk & Honey",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/mprs-producer-catalogs-milk-honey/",
+          "category": "musique",
+          "published_at": "2026-06-04T13:00:57+00:00",
+          "summary": "Founded in 2021, mprs – pronounced 'Empress' – was spun out of artist management and services company mtheory when Universal Music Group acquired mtheory's label division\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1abfa289d86",
+          "title": "Pershing Square set to sell its UMG stake for up to €1.5bn",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/04/pershing-square-set-to-sell-its-umg-stake-for-up-to-e1-5bn/",
+          "category": "musique",
+          "published_at": "2026-06-04T12:40:00+00:00",
+          "summary": "Universal Music Group rejected hedge-fund Pershing Square’s €55bn acquisition offer last week. But with the latter owning a 4.7% stake in the major label, what happens next? Well, what appears to be happening next is that Pershing Square is selling that stake.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e2343ad6791",
+          "title": "Canadian government rows back on ‘streaming tax’ for DSPs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/04/canadian-government-rows-back-on-streaming-tax-for-dsps/",
+          "category": "ia",
+          "published_at": "2026-06-04T12:40:00+00:00",
+          "summary": "Global streaming services are cheering after Canada’s government announced a u-turn for the country’s levy on the DSPs’ revenues in the country. The levy was part of Canada’s Online Streaming Act, and was swiftly dubbed ‘the streaming tax’ by the services as they fought against…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff2b374acc1a",
+          "title": "Meta’s Supernatural VR music-fitness app isn’t dead after all",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/04/metas-supernatural-vr-music-fitness-app-isnt-dead-after-all/",
+          "category": "musique",
+          "published_at": "2026-06-04T12:40:00+00:00",
+          "summary": "In January this year, Meta announced that its virtual-reality music fitness service Supernatural – which it had once battled regulator the FTC to acquire – would not be receiving any new updates or content. That seemed to be the death knell for the app, which offered a catalogue…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea27494e8b1a",
+          "title": "Universal Music New Zealand launches nextWAV development program",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/04/universal-music-new-zealand-launches-nextwav-development-program/",
+          "category": "musique",
+          "published_at": "2026-06-04T12:40:00+00:00",
+          "summary": "Emerging artists in Aotearoa (the Māori-language name for New Zealand) are facing “increasing challenges&#8230; cutting through both locally and internationally” according to Universal Music New Zealand. Now it’s doing something about that: an initiative called nextWAV. It’s a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5db87e56c53",
+          "title": "YouTube reveals the 24 artists in its ‘Foundry’ class of 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/04/youtube-reveals-the-24-artists-in-its-foundry-class-of-2026/",
+          "category": "ia",
+          "published_at": "2026-06-04T12:40:00+00:00",
+          "summary": "Artists including Dua Lipa, Rosalía, Arlo Parks, Dave and Beabadoobee have benefited from YouTube’s ‘Foundry’ emerging-artists program over the years. Now its 2026 cohort has been announced. 24 artists are part of this year’s main program, drawn from 11 countries. Amanda…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9620c1a7f8b1",
+          "title": "YouTube Music’s Foundry program – which counts Dua Lipa and Rosalía among its alumni – names 2026 class including Drake collaborator Julia Wolf",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/youtube-musics-foundry-program-which-counts-dua-lipa-and-rosalia-among-its-alumni-names-2026-class-including-drake-collaborator-julia-wolf/",
+          "category": "musique",
+          "published_at": "2026-06-04T12:20:22+00:00",
+          "summary": "YouTube credited the program with helping launch the careers of artists including Dua Lipa, Rosalía and Tems.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2373693ccc9e",
+          "title": "‘People don’t just want hits. They want honesty.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/people-dont-just-want-hits-they-want-honesty/",
+          "category": "ia",
+          "published_at": "2026-06-04T12:19:13+00:00",
+          "summary": "Tunde Balogun, CEO of LVRN (Love Renaissance), maps out how the company he cofounded in Atlanta with Sean Famoso McNichol, Justice Baiden, Junia Abaidoo, and Carlon Ramong went from college parties to over 30B streams and a $100m+ valuation.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7baa70f5cbb",
+          "title": "Copyright lawsuit against Travis Scott, SZA, and Future over ‘Telekinesis’ dropped",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/copyright-lawsuit-against-travis-scott-sza-and-future-over-telekinesis-dropped/",
+          "category": "ia",
+          "published_at": "2026-06-04T12:00:41+00:00",
+          "summary": "The move comes less than three months after a federal judge in Manhattan declined to throw the case out of court, rejecting the defendants' bid for dismissal.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5316ba8609de",
+          "title": "Ordre du jour de la séance plénière du 4 juin 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-4-juin-2026",
+          "category": "institutionnel",
+          "published_at": "2026-06-04T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 4 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3e446200a53",
+          "title": "Label The Slop.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/label-the-slop/",
+          "category": "musique",
+          "published_at": "2026-06-04T11:48:07+00:00",
+          "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "cdaee54533e5",
           "title": "Universal Music makes minority investment in Thai distribution and publishing company Solution One",
