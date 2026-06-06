@@ -1,9 +1,444 @@
 {
-  "generated_at": "2026-06-05T11:36:13.602689+00:00",
+  "generated_at": "2026-06-06T10:21:55.873825+00:00",
   "days": [
+    {
+      "date": "2026-06-06",
+      "articles": [
+        {
+          "id": "ad2919be245b",
+          "title": "Fuite d’air dans l’ISS, astronautes prêts à évacuer : ce qui s’est vraiment passé en orbite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2269397-fuite-dair-dans-liss-astronautes-prets-a-evacuer-ce-qui-sest-vraiment-passe-en-orbite.html",
+          "category": "ia",
+          "published_at": "2026-06-06T09:20:25+00:00",
+          "summary": "Frayeur en orbite. Le vendredi 5 juin 2026, des astronautes — dont la Française Sophie Adenot — ont dû se confiner en urgence dans leur capsule SpaceX Dragon. Entre outil inadapté et tensions russo-américaines, voici ce qui s'est réellement passé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7963dc893841",
+          "title": "The Offspring’s Dexter Holland Joins Electric Callboy on New Single ‘Let the Good Times Roll’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-offspring-dexter-holland-electric-callboy-let-the-good-times-roll-1236266009/",
+          "category": "ia",
+          "published_at": "2026-06-06T07:53:04+00:00",
+          "summary": "\"When Electric Callboy sent us the track, it immediately put a grin on our faces,\" the Offspring frontman said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4027c0566cf",
+          "title": "Rachat de SFR : les négociations se prolongent, 48 heures de sursis avant le big bang des télécoms français",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2269337-rachat-de-sfr-les-negociations-se-prolongent-48-heures-de-sursis-avant-le-big-bang-des-telecoms-francais.html",
+          "category": "ia",
+          "published_at": "2026-06-06T07:45:13+00:00",
+          "summary": "Orange, Bouygues Telecom et Free-Groupe Iliad se donnent 48 heures de sursis pour boucler le rachat historique de SFR. Le compte à rebours est lancé, avant le potentiel basculement définitif des télécoms français.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0639e53666bc",
+          "title": "Tucker Wetmore Brings an Effervescent Energy to Billboard Country Live’s Night Two",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/tucker-wetmore-stella-lefty-billboard-country-live-night-2/",
+          "category": "musique",
+          "published_at": "2026-06-06T05:46:49+00:00",
+          "summary": "Newcomer Stella Lefty also won over the overflowing crowd.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3114735a6c6",
+          "title": "The Black Crowes’ Chris Robinson Addresses Backlash Over Onstage Comments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-black-crowes-chris-robinson-addresses-backlash-1236265977/",
+          "category": "ia",
+          "published_at": "2026-06-06T05:42:49+00:00",
+          "summary": "\"No matter what I ever would say or do or feel about things, there's no way I would disrespect our veterans,\" Robinson said.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-05",
       "articles": [
+        {
+          "id": "71c567c3eec6",
+          "title": "Lizzo Seemingly Takes Aim at Nicki Minaj on Alternate Edition of ‘BITCH’ & Says She ‘Used to Be the Biggest Fan’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/lizzo-nicki-minaj-dis-bitch-remix-1236265514/",
+          "category": "ia",
+          "published_at": "2026-06-05T23:30:40+00:00",
+          "summary": "The singer/rapper posted a snippet of her new song over a mean X post Minaj posted back in February.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9de8c25fac33",
+          "title": "Final Fantasy 7 Revelation, nouveau Resident Evil… le résumé complet du Summer Game Fest 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2267837-summer-game-fest-2026-comment-voir-la-grande-conference-de-jeux-video.html",
+          "category": "ia",
+          "published_at": "2026-06-05T23:15:59+00:00",
+          "summary": "Intercalée entre le State of Play de Sony et le Xbox Games Showcase de Microsoft, la conférence d'ouverture du Summer Game Fest 2026 promettait du lourd. Il y en a eu avec Resident Evil Veronica et Final Fantasy 7 Revelation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d958c08e0b9a",
+          "title": "In Canada: bbno$ Found Sanctuary Online. Now, He Wants to Pay It Forward to Others",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/bbnos-billboard-canada-cover-story-canadian-music-news/",
+          "category": "musique",
+          "published_at": "2026-06-05T22:26:50+00:00",
+          "summary": "Also up north this week: Billboard Canada reveals its music managers to watch, and Diljit Dosanjh meets students enrolled in a university course dedicated to him.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d176f52bf284",
+          "title": "Le prochain Resident Evil sera bien un remake du mal aimé Code Veronica",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2269129-le-prochain-resident-evil-sera-bien-un-remake-du-mal-aime-code-veronica.html",
+          "category": "ia",
+          "published_at": "2026-06-05T22:25:50+00:00",
+          "summary": "C’était l’une des rumeurs persistantes de ces dernières années : Resident Evil Code: Veronica, l’épisode d'abord sorti sur Dreamcast en 2000, va bien passer par la case remake chez Capcom.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6700db59ea8a",
+          "title": "Star Wars Zero Company pourra compter sur un personnage culte de la saga",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2268867-star-wars-zero-company-le-nouveau-jeu-tactique-se-devoile-au-summer-game-fest.html",
+          "category": "ia",
+          "published_at": "2026-06-05T22:12:37+00:00",
+          "summary": "Le Summer Game Fest est riche en présentations, et ce n'est pas peu dire que le prochain jeu Star Wars était attendu. Star Wars Zero Company propose un gameplay proche de XCOM 2 dans son univers bien à lui, créé par George Lucas en 1977. Les quelques images montrées mettent déjà…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8bc114c97073",
+          "title": "With 2026 Edition, Italy’s Nameless Festival Scaled Up Without Losing Its Soul",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/billboard-italy-nameless-festival-calvin-harris-john-summit-1236265838/",
+          "category": "musique",
+          "published_at": "2026-06-05T22:08:02+00:00",
+          "summary": "Billboard Italy got an up-close look at the event that brought tens of thousands of people to the shores of Lake Como to see headliners Calvin Harris, John Summit and Fisher.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0664c3fe163",
+          "title": "Florida Georgia Line Signs With The Core Entertainment Following CMA Fest Reunion",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/florida-georgia-line-signs-the-core-entertainment/",
+          "category": "ia",
+          "published_at": "2026-06-05T22:01:50+00:00",
+          "summary": "The \"Cruise\" duo is eyeing 2027 live dates.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1366cd03993f",
+          "title": "gen Atlas : le nouveau jeu du créateur de Shadow of the Colossus se montre au Summer Game Fest",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2269083-le-prochain-jeu-du-createur-de-shadow-of-the-colossus-se-monte-au-summer-game-fest.html",
+          "category": "ia",
+          "published_at": "2026-06-05T21:33:57+00:00",
+          "summary": "C’était l’un des premiers moments silencieux, mais aussi l'un des plus chargés en frissons de ce Summer Game Fest 2026. Le créateur de Shadow of the Colossus était présent au Summer Game Fest avec son nouveau jeu, baptisé gen Atlas.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b62dec236f0",
+          "title": "☕️ Rachat de SFR : les opérateurs se donnent « 48 heures pour finaliser les accords »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/rachat-de-sfr-les-operateurs-se-donnent-48-heures-pour-finaliser-les-accords/",
+          "category": "ia",
+          "published_at": "2026-06-05T20:31:05+00:00",
+          "summary": "En octobre dernier, Bouygues Telecom, Free et Orange déposaient officiellement une offre pour racheter SFR, plus de 11 ans après son rachat par Numéricable, au nez et à la barbe de Bouygues Telecom. Une vente qui était alors aux alentours de 17 milliards d’euros, avant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7227635c18f7",
+          "title": "Cape Fear sur Apple TV+ : on a vu le remake stressant des Nerfs à Vif avec Javier Bardem et Amy Adams",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2267917-cape-fear-sur-apple-tv-on-a-vu-le-remake-stressant-des-nerfs-a-vif-avec-javier-bardem-et-amy-adams.html",
+          "category": "ia",
+          "published_at": "2026-06-05T18:00:00+00:00",
+          "summary": "Attendue sur Apple TV+ le 5 juin, la série Cape Fear met en scène Javier Bardem dans le rôle de Max Cady, un détenu libéré de prison et bien décidé à se venger de son avocate. Ce remake du film Les Nerfs à Vif de Martin Scorsese était-il bien nécessaire ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2eaf040d161",
+          "title": "From Suno’s $5.4B valuation to Bill Ackman’s exit from Universal Music… it’s MBW’s weekly round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-sunos-5-4b-valuation-to-bill-ackmans-exit-from-universal-music-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-06-05T16:25:05+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06f53600b8c0",
+          "title": "Soraib el Jelali appointed Head of A&R at Warner Chappell Music Benelux",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/soraib-el-jelali-appointed-head-of-ar-at-warner-chappell-music-benelux/",
+          "category": "ia",
+          "published_at": "2026-06-05T16:20:27+00:00",
+          "summary": "El Jelali first joined WMG in 2023 as Head of A&#38;R at Atlantic Records Benelux, where he worked with artists including Diamond-certified Roxy Dekker.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0392f6b40b3d",
+          "title": "Pornhub « de retour » en France",
+          "source": "Next INpact",
+          "url": "https://next.ink/241119/pornhub-de-retour-en-france/",
+          "category": "justice",
+          "published_at": "2026-06-05T15:39:00+00:00",
+          "summary": "Après des mois de fermeture, Pornhub rouvre en France… mais sans contenus pornographiques (pour le moment ?). Son éditeur Aylo se bat depuis longtemps contre la législation française qui impose des contrôles renforcés à l’entrée des sites X. Hasard (ou pas) du calendrier, le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc6cd706166a",
+          "title": "Comment des hackers ont détourné Stripe pour masquer un vol de données bancaires",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2268595-comment-des-hackers-ont-detourne-stripe-pour-masquer-un-vol-de-donnees-bancaires.html",
+          "category": "ia",
+          "published_at": "2026-06-05T15:37:19+00:00",
+          "summary": "Dans un billet de blog publié le 4 juin 2026, les chercheurs en sécurité de Sansec racontent comment des pirates informatiques sont parvenus à détourner Stripe pour en faire leur propre infrastructure de vol de données bancaires.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e5ecf591175",
+          "title": "Vers des applications natives et un menu contextuel personnalisable pour Windows 11",
+          "source": "Next INpact",
+          "url": "https://next.ink/241226/vers-des-applications-natives-et-un-menu-contextuel-personnalisable-pour-windows-11/",
+          "category": "ia",
+          "published_at": "2026-06-05T15:23:00+00:00",
+          "summary": "Depuis plusieurs mois, Microsoft travaille sur son projet «&#160;K2&#160;»&#160;: une reconstruction de Windows 11 sur des bases plus saines. Entre autres améliorations sur la fiabilité et les performances, des confirmations tombent depuis la conférence Build. En ligne de mire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7b6b0d1820b",
+          "title": "Fin d’alerte sur l’ISS : la NASA lève l’ordre de confinement, la Russie suspend ses réparations à haut risque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2268739-fin-dalerte-sur-liss-la-nasa-leve-lordre-de-confinement-la-russie-suspend-ses-reparations-a-haut-risque.html",
+          "category": "ia",
+          "published_at": "2026-06-05T15:15:43+00:00",
+          "summary": "La Russie ayant suspendu ses réparations de la dernière chance ce vendredi 5 juin, la NASA a levé l’ordre de confinement de ses cinq astronautes, dont la Française Sophie Adenot. L’équipage a pu quitter sa capsule de secours SpaceX Dragon pour reprendre ses activités normales,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bc58c20b4c4",
+          "title": "À 7 ans, il signe pro sur Counter-Strike et se fait bannir pour 6 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2268393-a-7-ans-il-signe-pro-sur-counter-strike-et-se-fait-bannir-pour-6-ans.html",
+          "category": "ia",
+          "published_at": "2026-06-05T15:13:37+00:00",
+          "summary": "Une équipe esport a signé un joueur de 7 ans sur Counter-Strike 2. Sauf qu'il ne peut légalement ni posséder son compte, ni jouer au jeu, ni concourir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a5c4c58d7f8",
+          "title": "☕️ [Màj] La NASA demande aux astronautes de l’ISS de reprendre une activité normale",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-nasa-prepare-une-eventuelle-evacuation-de-liss-apres-detection-dune-fuite-dair/",
+          "category": "ia",
+          "published_at": "2026-06-05T15:04:12+00:00",
+          "summary": "L&#8217;équipage d&#8217;astronautes de la mission Crew-12 (dont la Française Sophie Adenot) qui occupe actuellement la station spatiale internationale a reçu l&#8217;ordre par la NASA de se mettre à l&#8217;abri dans sa capsule habitable Crew Dragon et d&#8217;enfiler ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "341eeb988112",
+          "title": "« Réjouissons-nous de la dernière évolution » : la bonne nouvelle inattendue pour les conducteurs de voitures de fonction",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2268647-rejouissons-nous-de-la-derniere-evolution-la-bonne-nouvelle-inattendue-pour-les-conducteurs-de-voitures-de-fonction.html",
+          "category": "ia",
+          "published_at": "2026-06-05T14:56:13+00:00",
+          "summary": "La fiscalité automobile française est un casse-tête qui va rarement en s’améliorant, mais pour une fois, ce n’est pas le cas. Une mise à jour discrète de l'administration pourrait bien soulager les salariés roulant en voiture de société électrique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a60e8a25754",
+          "title": "Lunettes Meta : l’intégration de la reconnaissance faciale est discrètement en cours",
+          "source": "Next INpact",
+          "url": "https://next.ink/240980/lunettes-meta-lintegration-de-la-reconnaissance-faciale-est-discretement-en-cours/",
+          "category": "ia",
+          "published_at": "2026-06-05T14:33:11+00:00",
+          "summary": "L&#8217;intégration de la fonction Name Tag est déjà en cours dans l&#8217;application Meta AI. Celle-ci doit permettre la reconnaissance faciale via les lunettes connectées de l&#8217;entreprise. La communication de l&#8217;entreprise vis-à-vis de la fonctionnalité intrusive…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53547e275973",
+          "title": "Ce pack Nothing Phone (3) avec une montre connectée baisse son prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2268569-ce-pack-nothing-phone-3-avec-une-montre-connectee-baisse-son-prix.html",
+          "category": "ia",
+          "published_at": "2026-06-05T14:31:29+00:00",
+          "summary": "[Deal du jour] Envie d'un smartphone qui sort des sentiers battus ? Nothing possède quelques modèles qui devraient vous intéresser, surtout lorsqu'ils sont en promotion avec plusieurs accessoires, dont une montre connectée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "153904e28a02",
+          "title": "Quelle liseuse choisir en 2026 ? Comparatif des meilleurs modèles",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1945231-les-meilleures-liseuses-electroniques.html",
+          "category": "ia",
+          "published_at": "2026-06-05T14:30:00+00:00",
+          "summary": "Si vous cherchez la meilleure liseuse en 2026, c'est ici que l'on vous a regroupé les meilleures liseuses du marché dans un comparatif complet -- pour vous aider à choisir la liseuse qui correspond à votre usage et votre budget.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b755c25fad7",
+          "title": "Le BMW iX3 fait encore mieux que la théorie dans ce super test d’autonomie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2268255-le-bmw-ix3-fait-encore-mieux-que-la-theorie-dans-ce-super-test-dautonomie.html",
+          "category": "ia",
+          "published_at": "2026-06-05T14:27:59+00:00",
+          "summary": "Nos confrères norvégiens ont organisé l'édition 2026 de leur fameux test d'autonomie géant « El Prix », en collaboration avec la fédération automobile locale. Les deux grands gagnants sont les BMW iX3 et XPeng X9 : le premier pour l'endurance, le second pour le moindre écart…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10cb3b97a76f",
+          "title": "L’IA a un sérieux problème de facturation, et son sauveur pourrait être la fondation Linux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2268261-lia-a-un-serieux-probleme-de-facturation-et-son-sauveur-pourrait-etre-la-fondation-linux.html",
+          "category": "ia",
+          "published_at": "2026-06-05T13:50:10+00:00",
+          "summary": "La Linux Foundation a annoncé son intention de lancer la Tokenomics Foundation, une nouvelle fondation dédiée à l'établissement de normes ouvertes pour l'économie de l'infrastructure IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af3935634838",
+          "title": "Datacenters sous (haute) tension",
+          "source": "Next INpact",
+          "url": "https://next.ink/238209/datacenters-sous-haute-tension/",
+          "category": "institutionnel",
+          "published_at": "2026-06-05T13:48:01+00:00",
+          "summary": "Les chiffres de consommation des datacenters ont de quoi donner le tournis puisqu’on parle de millions de MWh ou de TWh. Et dans les géants, il y a deux catégories : les Américains et les Européens. Google consomme 60 fois plus qu’OVHcloud par exemple. Next analyse les rapports…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b5e81a59879",
+          "title": "Pourquoi l’avion américain de l’apocalypse nucléaire vient-il de se poser à Paris ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2268397-pourquoi-lavion-americain-de-lapocalypse-nucleaire-vient-il-de-se-poser-a-paris.html",
+          "category": "justice",
+          "published_at": "2026-06-05T13:46:02+00:00",
+          "summary": "L’avion américain du « Jugement dernier » s’est posé ce vendredi 5 juin à l’aéroport d’Orly. L’appareil stratégique transporte le secrétaire à la Défense Pete Hegseth, venu assister au 82e anniversaire du Débarquement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e386f8b4529a",
+          "title": "SpaceX va relancer sa fusée lourde plus rapidement que prévu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2267873-spacex-va-relancer-sa-fusee-lourde-plus-rapidement-que-prevu.html",
+          "category": "ia",
+          "published_at": "2026-06-05T13:43:50+00:00",
+          "summary": "La rapidité avec laquelle la Nasa a achevé la conception du télescope Nancy Grace Roman bouscule un peu le calendrier à venir de SpaceX. La fusée lourde Falcon Heavy, qui vole rarement, retrouvera ainsi très rapidement le pas de tir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08a7cec75986",
+          "title": "Nintendo a dévoilé sa collaboration la plus improbable de ces dernières années",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2268379-nintendo-a-devoile-sa-collaboration-la-plus-improbable-de-ces-dernieres-annees.html",
+          "category": "ia",
+          "published_at": "2026-06-05T13:40:00+00:00",
+          "summary": "Nintendo a dévoilé une nouvelle collaboration, et pas des moindres. Disponibles à l'achat cet été, les paires de Crocs à l'effigie de Super Mario devraient faire de vous la star des vacances.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "776649016602",
+          "title": "Disney répond enfin à une vieille énigme chez les fans de Toy Story",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2268213-disney-repond-enfin-a-une-vieille-enigme-chez-les-fans-de-toy-story.html",
+          "category": "ia",
+          "published_at": "2026-06-05T13:05:00+00:00",
+          "summary": "Pixar s'apprête une nouvelle fois à briser le cœur de millions de spectateurs. À quelques semaines de sa sortie mondiale en salles, Toy Story 5 fait grimper la nostalgie d'un cran. Un nouvel extrait officiel partagé par Disney ce 4 juin 2026 vient de révéler un secret préservé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31a5acb09198",
+          "title": "MOBO Awards founder Kanya King dies at 57",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/mobo-awards-founder-kanya-king-dies-at-57/",
+          "category": "musique",
+          "published_at": "2026-06-05T13:00:54+00:00",
+          "summary": "'The music world has lost one of its most fearless champions.' \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce72041c15a9",
+          "title": "UMG’s south-east Asia moves continue with S1 partnership",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/umgs-south-east-asia-moves-continue-with-s1-partnership/",
+          "category": "musique",
+          "published_at": "2026-06-05T13:00:00+00:00",
+          "summary": "Universal Music Group has been making a number of moves in south-east Asia recently. The latest is a partnership with S1 in Thailand.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97c7c47a3ade",
+          "title": "BMW iX3, Renault Twingo, MG4 EV Urban… les voitures électriques qui ont séduit les experts automobiles",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2268305-bmw-ix3-renault-twingo-mg4-ev-urban-les-voitures-electriques-qui-ont-seduit-les-experts-automobiles.html",
+          "category": "ia",
+          "published_at": "2026-06-05T12:51:07+00:00",
+          "summary": "Depuis cinq ans, les eTrophées de l’Association des Médias Auto et Moto (AMAM) récompensent les meilleurs véhicules électrifiés. Voilà le palmarès de l’édition 2026, auquel Numerama a contribué. &nbsp;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93fa589488c4",
+          "title": "Datacenters : l’école des fans du « 100 % renouvelable »",
+          "source": "Next INpact",
+          "url": "https://next.ink/241034/datacenters-lecole-des-fans-du-100-renouvelable/",
+          "category": "ia",
+          "published_at": "2026-06-05T12:04:48+00:00",
+          "summary": "Si les datacenters formaient un pays, sa consommation électrique serait celle de la France, mais avec de fortes disparités locales. OVHcloud consomme 60 fois moins que Google ou Microsoft, par exemple. Les datacenters se retrouvent toutefois tous sur le côté « 100 %…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c0d633ac0abb",
+          "title": "How T-pop is blowing up the global charts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/how-t-pop-is-blowing-up-the-global-charts/",
+          "category": "ia",
+          "published_at": "2026-06-05T12:00:00+00:00",
+          "summary": "Thai pop has been quickly gaining worldwide momentum, thanks to fandom culture as a growth driver. With an expected T-pop label collective revenue of Bt11 bil (£250 mil) for 2026 and 13Bt (£295 mil) projected for 2029, the genre has been upsurging, recovering from pandemic…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ac1d2bc5049",
+          "title": "Threads launches music stickers to all users",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/threads-launches-music-stickers-to-all-users/",
+          "category": "musique",
+          "published_at": "2026-06-05T12:00:00+00:00",
+          "summary": "After a round of testing with selected users, Threads has launched a music stickers feature which allows creators to include 30-second song clips in both posts and replies through streaming services.  Similar to music for Instagram Stories, users can choose between featuring…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a287ca6ce1e6",
+          "title": "Embracing the youth social media bans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/embracing-the-youth-social-media-bans/",
+          "category": "ia",
+          "published_at": "2026-06-05T12:00:00+00:00",
+          "summary": "Our latest Sandbox explores the under-16 youth social media bans, first introduced by Australia this past December. A growing number of countries have followed suit, with Indonesia, Brazil, and, as of June 1, Malaysia all now requiring social media platforms to implement similar…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1d5fef82831",
+          "title": "Taco Bell adds 100 more artists to its ‘Feed The Beat’ initiative",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/05/taco-bell-adds-100-more-artists-to-its-feed-the-beat-scheme/",
+          "category": "ia",
+          "published_at": "2026-06-05T12:00:00+00:00",
+          "summary": "Taco Bell has been supporting hungry artists on tour for 20 years now via its ‘Feed The Beat’ initiative, which began in 2006.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6857942ecc02",
+          "title": "2 400 € pour « démissionner devant la caméra » : ce site paie n’importe qui pour faire n’importe quoi",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2267997-2-400-e-pour-demissionner-devant-la-camera-ce-site-paie-nimporte-qui-pour-faire-nimporte-quoi.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-05T11:50:31+00:00",
+          "summary": "Démissionner face caméra, incendier une voiture, sauter en parachute dans un match de foot… Sur « Go », le nouveau service du site de cryptomonnaies Pump.fun, on peut payer un parfait inconnu pour accomplir à peu près « n'importe quoi ».",
+          "summary_type": "extrait source"
+        },
         {
           "id": "2aadff1d3ef4",
           "title": "Instagram details the features in its new ‘Plus’ subscription",
@@ -12,6 +447,16 @@
           "category": "ia",
           "published_at": "2026-06-05T11:30:00+00:00",
           "summary": "Instagram has confirmed the details of what people will be getting in the $3.99-a-month Instagram Plus tier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7aa14c9e99ad",
+          "title": "Les batteries bonnes à jeter ? Waymo a trouvé la solution pour les réutiliser",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2267973-les-batteries-bonnes-a-jeter-waymo-a-trouve-la-solution-pour-les-reutiliser.html",
+          "category": "ia",
+          "published_at": "2026-06-05T11:27:00+00:00",
+          "summary": "Dans une logique d'économie circulaire, Waymo a signé un partenariat avec une entreprise de stockage d'énergie pour donner une seconde vie à ses vieilles batteries. De quoi alimenter en électricité une partie de la population locale.",
           "summary_type": "extrait source"
         },
         {
@@ -682,6 +1127,16 @@
         {
           "id": "873fd13dcd0c",
           "title": "Municipales 2025 : retour sur l’opération d’ingérence numérique contre LFI",
+          "source": "Next INpact",
+          "url": "https://next.ink/240823/municipales-2025-retour-sur-loperation-dingerence-numerique-contre-lfi/",
+          "category": "ia",
+          "published_at": "2026-06-04T10:37:45+00:00",
+          "summary": "Alors que trois candidats LFI ont été visés par des opérations d’ingérence numérique étrangère, la publication du rapport de Viginum crée des tensions politiques. Le 26 mai, le parquet de Paris ouvrait une enquête sur des soupçons d’ingérence contre plusieurs candidats La France…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4699402efdf2",
+          "title": "Municipales 2026 : retour sur l’opération d’ingérence numérique contre LFI",
           "source": "Next INpact",
           "url": "https://next.ink/240823/municipales-2025-retour-sur-loperation-dingerence-numerique-contre-lfi/",
           "category": "ia",
