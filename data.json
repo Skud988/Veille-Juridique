@@ -1,9 +1,204 @@
 {
-  "generated_at": "2026-06-06T10:21:55.873825+00:00",
+  "generated_at": "2026-06-07T10:38:37.569745+00:00",
   "days": [
+    {
+      "date": "2026-06-07",
+      "articles": [
+        {
+          "id": "2498f5be7b33",
+          "title": "Ariana Grande Embraces Every Version of Herself on Eternal Sunshine Tour: 5 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/ariana-grande-eternal-sunshine-tour-best-moments-recap/",
+          "category": "ia",
+          "published_at": "2026-06-07T10:18:08+00:00",
+          "summary": "At long last, Ari returns to the stage -- and the ponytail and stilettos came too.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eff891053a00",
+          "title": "Rachat de SFR par Orange, Free et Bouygues : à quoi s’attendre pour le réseau et les infrastructures télécoms ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2094619-rachat-de-sfr-par-orange-free-et-bouygues-a-quoi-sattendre-pour-le-reseau-et-les-infrastructures-telecoms.html",
+          "category": "ia",
+          "published_at": "2026-06-07T08:47:06+00:00",
+          "summary": "L'ère d'un marché français des télécoms à quatre opérateurs va s'achever : SFR sera dépecé entre Orange, Bouygues Telecom et Free. Du côté des infrastructures et du réseau, on peut tracer les grandes lignes de ce qu'il va se passer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd9ff669f632",
+          "title": "Ariana Grande’s Eternal Sunshine Tour 2026 Setlist: Every Song Played at the First Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/ariana-grande-eternal-sunshine-tour-opening-night-setlist/",
+          "category": "ia",
+          "published_at": "2026-06-07T08:36:37+00:00",
+          "summary": "The pop star launched her long-awaited tour at Oakland Arena on Saturday, June 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35ac5a4fc6b8",
+          "title": "Deux jours de speed dating de voitures électriques pour une question existentielle sans réponse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2268957-deux-jours-de-speed-dating-automobile-pour-une-question-existentielle-quest-ce-quun-bon-ve.html",
+          "category": "ia",
+          "published_at": "2026-06-07T06:23:00+00:00",
+          "summary": "Autonomie, recharge, consommation, performances… et si aucun de ces critères ne suffisait réellement à définir une bonne voiture électrique ? Dans l'édito de la newsletter Watt Else du 4 juin, c'est l'heure des questions métaphysiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47c51d43b3fc",
+          "title": "Bruce Springsteen, Bon Jovi and Public Enemy Deliver Star-Studded Music America Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bruce-springsteen-bon-jovi-public-enemy-music-america-concert-1236266302/",
+          "category": "musique",
+          "published_at": "2026-06-07T05:38:07+00:00",
+          "summary": "The concert marked Bon Jovi's first public performance in New Jersey since 2018.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3da44a8e2969",
+          "title": "Olivia Rodrigo Rocks Primavera Sound 2026 With Surprise Set: Recap, Best Moments & Setlist",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/olivia-rodrigo-primavera-sound-2026-surprise-recap-setlist/",
+          "category": "musique",
+          "published_at": "2026-06-07T05:23:54+00:00",
+          "summary": "The pop superstar delivered one of the tightest sets of her career in a (mostly) unexpected appearance at the Barcelona festival — including the debut of a starry new duet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe07fff168ed",
+          "title": "Duffy Announces Surprise Return With First Live Concert in 15 Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/duffy-first-live-concert-15-years-1236266280/",
+          "category": "musique",
+          "published_at": "2026-06-07T05:06:42+00:00",
+          "summary": "“I would love nothing more than for some of you to attend,” the Welsh singer said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e6e1ac53842",
+          "title": "Critique des Maîtres de l’univers, nouvelle gamme de forfaits chez Orange et toutes les annonces PS5 – le récap’ de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2268935-critique-des-maitres-de-lunivers-nouvelle-gamme-de-forfaits-chez-orange-et-toutes-les-annonces-ps5-le-recap-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-06-07T04:30:00+00:00",
+          "summary": "Beaucoup de pop culture cette semaine sur Numerama et pour cause, c'était une suite de conférences des grands du jeu vidéo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fb31a5105eb",
+          "title": "Retour à trois opérateurs : protocole d’accord entre Orange, Free, Bouygues et SFR",
+          "source": "Next INpact",
+          "url": "https://next.ink/241283/retour-a-trois-operateurs-protocole-daccord-entre-orange-free-bouygues-et-sfr/",
+          "category": "ia",
+          "published_at": "2026-06-07T03:07:50+00:00",
+          "summary": "Le sursis de 48 heures annoncé vendredi soir aura été payant. Le consortium d&#8217;opérateurs composé d&#8217;Orange, de Bouygues Telecom et Iliad a signé un protocole d&#8217;accord avec Altice en vue de l&#8217;acquisition de SFR. La découpage du gâteau de l&#8217;opérateur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1db4ecb64f8e",
+          "title": "Charlie Puth Cancels Orlando Concert Due to Illness: ‘So Devastated’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/charlie-puth-cancels-orlando-concert-statement-1236266242/",
+          "category": "musique",
+          "published_at": "2026-06-07T00:20:09+00:00",
+          "summary": "He called off Saturday night's (June 6) stop on the Whatever's Clever! World Tour just hours before showtime.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-06",
       "articles": [
+        {
+          "id": "39b46eba01f3",
+          "title": "Peso Pluma & Kenia Os Break Up, Say Split Ends ‘With Love, Respect and On the Best Terms’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/peso-pluma-kenia-os-breakup-split-statement-1236266207/",
+          "category": "ia",
+          "published_at": "2026-06-06T23:10:48+00:00",
+          "summary": "The former couple were first linked through Peso's 2024 “Tommy &#38; Pamela,” which peaked at No. 20 on Hot Latin Songs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28d554e5d10c",
+          "title": "C’est signé : SFR accepte d’être racheté et dévoile le sort de ses abonnés chez Bouygues, Free et Orange",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2269551-cest-signe-sfr-accepte-detre-rachete-et-devoile-le-sort-de-ses-abonnes-chez-bouygues-free-et-orange.html",
+          "category": "ia",
+          "published_at": "2026-06-06T23:05:30+00:00",
+          "summary": "Dans un communiqué nocturne envoyé le 6 juin 2026, Bouygues Telecom, Free et Orange annoncent avoir signé un protocole d'accord avec Altice France pour racheter SFR, désormais valorisé 20,35 milliards d'euros. Pour la première fois, le consortium détaille la répartition des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9901bf9bdfb6",
+          "title": "Olivia Rodrigo Debuts ‘What’s Wrong With Me’ With The Cure’s Robert Smith at Primavera Sound 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-whats-wrong-with-me-robert-smith-primavera-1236266185/",
+          "category": "musique",
+          "published_at": "2026-06-06T21:58:19+00:00",
+          "summary": "Track 10 from You Seem Pretty Sad for a Girl So in Love had its world premiere Saturday (June 6) live in Barcelona, where Rodrigo and Smith performed the duet together.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "655d02fb2b35",
+          "title": "Morgan Wallen Cancels Pittsburgh Concert Due to Severe Weather Threats",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/morgan-wallen-cancels-pittsburgh-show-weather-threats-1236266166/",
+          "category": "musique",
+          "published_at": "2026-06-06T19:24:55+00:00",
+          "summary": "The country singer was set to take the stage at Acrisure Stadium on June 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e155c50fb4b",
+          "title": "Spider-Noir : 5 films à découvrir absolument pour rester dans l’ambiance sombre de la série Prime Video",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2268461-spider-noir-5-films-a-decouvrir-absolument-pour-rester-dans-lambiance-sombre-de-la-serie-prime-video.html",
+          "category": "ia",
+          "published_at": "2026-06-06T18:15:00+00:00",
+          "summary": "Avec son trench-coat flottant, son chapeau de feutre et son New York des années 1930 figé dans une Grande Dépression monochrome, le variant Spider-Noir a remis les codes du polar rétro au goût du jour. Mais avant d'être un tisseur de toile torturé, le « Film Noir » est un genre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc1ce6bb0bd9",
+          "title": "Cet oiseau brille dans l’ultraviolet, et on ne sait pas pourquoi",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2268011-cet-oiseau-brille-dans-lultraviolet-et-on-ne-sait-pas-pourquoi.html",
+          "category": "ia",
+          "published_at": "2026-06-06T15:02:00+00:00",
+          "summary": "Le casoar est un oiseau qui impressionne avec son allure de dinosaure. Mais il y a encore plus étrange : sa crête qui ressemble à un casque brille dans l'ultraviolet. Une particularité qui n'est pas encore complètement comprise par les scientifiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d46db83495c6",
+          "title": "On peut rêver en étant éveillé : la frontière entre les deux états n’existe pas vraiment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2267671-on-peut-rever-en-etant-eveille-la-frontiere-entre-les-deux-etats-nexiste-pas-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-06-06T12:02:00+00:00",
+          "summary": "Ce soir, en fermant les yeux dans votre lit, il vous arrivera quelque chose d’étrange. Vous passerez d’une pensée ordinaire à un rêve. Vous ne sauriez dire quand exactement. On imagine que la frontière est nette&nbsp;: éveillé, on pense&nbsp;; endormi, on rêve. Pourtant, dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d52ccc89ed53",
+          "title": "#Flock : Advertising War",
+          "source": "Next INpact",
+          "url": "https://next.ink/241265/flock-advertising-war/",
+          "category": "ia",
+          "published_at": "2026-06-06T11:37:00+00:00",
+          "summary": "Les malheureuses troupes américaines sont ciblées par les drones, les missiles, les balles et pire encore, par le tracking publicitaire, ce dernier n’hésitant pas à les mettre dans une mouise noire. Mais c’est une belle affaire, car dans le buffet en promo, la balle est offerte.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0308d592c9a8",
+          "title": "13 ans après, Rayman Legends revient et il est déjà moins cher en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2268651-13-ans-apres-rayman-legends-revient-et-il-est-deja-moins-cher-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-06-06T11:28:00+00:00",
+          "summary": "[Précommande] Rayman revient dans un remake qui sent bon la plateforme à l'ancienne. Rayman Legends Retold est déjà en précommande.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "ad2919be245b",
           "title": "Fuite d’air dans l’ISS, astronautes prêts à évacuer : ce qui s’est vraiment passé en orbite",
