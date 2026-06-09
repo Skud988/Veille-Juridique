@@ -1,9 +1,604 @@
 {
-  "generated_at": "2026-06-08T12:42:04.640157+00:00",
+  "generated_at": "2026-06-09T11:31:07.512523+00:00",
   "days": [
+    {
+      "date": "2026-06-09",
+      "articles": [
+        {
+          "id": "a5cd9449720d",
+          "title": "Average US music-streamer spends $434 a year on recorded music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/09/average-us-music-streamer-spends-434-a-year-on-recorded-music/",
+          "category": "musique",
+          "published_at": "2026-06-09T11:30:00+00:00",
+          "summary": "94% of US music-streamers say they like or love their streaming service, and 90% describe it as good, very good or excellent value for money, according a report published by the trade association for, ahem, Spotify, Apple Music, Amazon Music, YouTube and other streaming…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2ded17f70a1",
+          "title": "Indie music-focused streaming app Cantilever closes pre-seed round backed by labels including Domino, Ninja Tune and Sub Pop",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indie-music-focused-streaming-app-cantilever-closes-pre-seed-round-backed-by-labels-including-domino-ninja-tune-and-sub-pop/",
+          "category": "musique",
+          "published_at": "2026-06-09T11:20:54+00:00",
+          "summary": "All backers support the Organization for Recorded Culture and Arts (ORCA), forming the round during an ORCA discussion on the future of independent music.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83f8d9c20e4f",
+          "title": "La Nasa a déjà réussi Artémis III, mais ça s’appelait Apollo 9",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2271659-la-nasa-a-deja-reussi-artemis-iii-mais-ca-sappelait-apollo-9.html",
+          "category": "ia",
+          "published_at": "2026-06-09T11:15:00+00:00",
+          "summary": "La mission Artémis III doit avoir lieu en 2027, comme une grande répétition générale en orbite terrestre avant de vraiment se poser sur la Lune. Un scénario qui ressemble beaucoup à celui d'une mission parfois considérée comme secondaire, mais pourtant majeure dans l'histoire de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7f06baad36f",
+          "title": "Sir Lucian Grainge likens ‘responsible AI’ to the arrival of sampling as he accepts Northeastern University’s inaugural Global Entrepreneur Award",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-likens-responsible-ai-to-the-arrival-of-sampling-as-he-accepts-northeastern-universitys-inaugural-global-entrepreneur-award/",
+          "category": "ia",
+          "published_at": "2026-06-09T11:03:40+00:00",
+          "summary": "The award was presented at Northeastern's seventh annual Global Leadership Summit on June 4\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22d49489d038",
+          "title": "Lupin Partie 4 sur Netflix : on sait enfin quand revient Omar Sy",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2271633-lupin-partie-4-sur-netflix-on-sait-enfin-quand-revient-omar-sy.html",
+          "category": "ia",
+          "published_at": "2026-06-09T10:45:00+00:00",
+          "summary": "Sortez vos agendas, Assane Diop s'apprête à signer son grand retour. Netflix vient de révéler officiellement la date de diffusion de la quatrième partie de sa série phénomène portée par Omar Sy.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bba17c7b3eeb",
+          "title": "Vous allez pouvoir suivre les futurs vols supersoniques de l’avion X-59 de la Nasa en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2271541-vous-allez-pouvoir-suivre-les-futurs-vols-supersoniques-de-lavion-x-59-de-la-nasa-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-06-09T10:35:11+00:00",
+          "summary": "L'avion expérimental X-59 de la Nasa a déjà volé à plusieurs reprises, et même passé le mur du son une première fois. Mais la Nasa ne permettait pas encore de suivre en direct ses vols. Le prochain vol pourra être suivi en temps réel, à l'aide d'une carte.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd5f828115d9",
+          "title": "OpenAI confidentially files for IPO, a week after rival Anthropic did the same",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/openai-confidentially-files-for-ipo-a-week-after-rival-anthropic-did-the-same/",
+          "category": "ia",
+          "published_at": "2026-06-09T10:33:03+00:00",
+          "summary": "The ChatGPT maker said it has not decided on the timing yet, adding that \"there are things we want to do that are likely easier as a private company.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "215eb32a6159",
+          "title": "iOS 27 confirme à demi-mot l’arrivée de l’iPhone Fold",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271589-ios-27-confirme-a-demi-mot-larrivee-de-liphone-fold.html",
+          "category": "ia",
+          "published_at": "2026-06-09T10:00:00+00:00",
+          "summary": "Apple n’a pas présenté d’iPhone pliable à la WWDC 2026. Mais entre les nouveautés d’iOS 27, les interfaces adaptatives et les indices repérés dans le code, tout laisse penser que l’iPhone Fold se prépare déjà en coulisses.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bc85f98c905",
+          "title": "Le film Helldivers vient de subir un gros coup dur pour sa tête d’affiche",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2271531-le-film-helldivers-vient-de-subir-un-gros-coup-dur-pour-sa-tete-daffiche.html",
+          "category": "ia",
+          "published_at": "2026-06-09T09:59:00+00:00",
+          "summary": "L’adaptation sur grand écran du carton d’Arrowhead Game Studios perd sa tête d'affiche. Jason Momoa ne prêtera pas ses muscles à la défense de la Super-Terre, mais le projet de Justin Lin reste sur les rails.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10d92a8a391d",
+          "title": "AI1 : voilà la toute première génération de satellite IA de SpaceX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271539-ai1-voila-la-toute-premiere-generation-de-satellite-ia-de-spacex.html",
+          "category": "ia",
+          "published_at": "2026-06-09T09:45:13+00:00",
+          "summary": "À l'aube d'une introduction en Bourse historique, SpaceX a dévoilé AI1 , sa première génération de satellites d'intelligence artificielle. Une solution radicale pour déporter la puissance de calcul dans l'espace et contourner la crise énergétique qui menace les data centers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37c463b36ab4",
+          "title": "La saison 3 de House of the Dragon ne sera pas pour les enfants de choeur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2271665-la-saison-3-de-house-of-the-dragon-ne-sera-pas-pour-les-enfants-de-choeur.html",
+          "category": "ia",
+          "published_at": "2026-06-09T09:43:30+00:00",
+          "summary": "Le showrunner de l'adaptation House of the Dragon, dont la saison 3 débutera bientôt, a fait savoir que les futurs épisodes seront ultra-sombres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6394ffce2c7e",
+          "title": "Amazon fait chuter la Switch 2 à quelques heures du Nintendo direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1953135-amazon-fait-chuter-la-switch-2-a-quelques-heures-du-nintendo-direct.html",
+          "category": "ia",
+          "published_at": "2026-06-09T09:37:31+00:00",
+          "summary": "[Deal du jour] À quelques heures du Nintendo Direct du 9 juin 2026, Amazon allège la facture de la Switch 2 de 70 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d26d8494aff",
+          "title": "Messagerie Tchap piratée : l’État rassure et le hacker jubile, pourquoi est-ce si difficile de dénicher la vérité ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2271479-messagerie-tchap-piratee-letat-rassure-et-le-hacker-jubile-pourquoi-est-ce-si-difficile-de-denicher-la-verite.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-09T09:06:33+00:00",
+          "summary": "Le 8 juin 2026,&nbsp;la Direction interministérielle du numérique (DINUM) a confirmé la compromission de Tchap, la messagerie des agents publics. Depuis, la réalité de l'incident est coincée entre deux narratifs : celui d'une institution qui veut rassurer, et celui d'un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c77bc0f6bb08",
+          "title": "Le repreneur d’AOL et Vimeo vise la bourse pour acheter de nouvelles gloires passées",
+          "source": "Next INpact",
+          "url": "https://next.ink/241475/le-repreneur-daol-et-vimeo-vise-la-bourse-pour-acheter-de-nouvelles-gloires-passees/",
+          "category": "ia",
+          "published_at": "2026-06-09T09:00:00+00:00",
+          "summary": "L&#8217;italien Bending Spoons a déposé lundi 8 juin le document préalable à son introduction à la bourse de New York. L&#8217;opération valoriserait le groupe, spécialisé dans la reprise et la restructuration de services numériques, à plus de 20 milliards de dollars. Elle vise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "adbd4cecd783",
+          "title": "iOS 27 a enfin une vraie gomme magique comme sur Android",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271519-ios-27-a-enfin-une-vraie-gomme-magique-comme-sur-android.html",
+          "category": "ia",
+          "published_at": "2026-06-09T08:44:32+00:00",
+          "summary": "Avec iOS 27, une fonction largement en retard vient finalement de passer un nouveau cap : il s'agit de la fameuse gomme (Clean Up) introduite sur iOS 18.1.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "368bd879063f",
+          "title": "Pas de Siri AI en Europe : Apple accuse la Commission d’interprétation « extrême » du DMA",
+          "source": "Next INpact",
+          "url": "https://next.ink/241487/pas-de-siri-ai-en-europe-apple-accuse-la-commission-dinterpretation-extreme-du-dma/",
+          "category": "ia",
+          "published_at": "2026-06-09T08:37:00+00:00",
+          "summary": "Durant la conférence d’ouverture de la WWDC hier soir, Apple a confirmé que la nouvelle version de Siri et ses fonctions IA plus avancées ne seront pas disponibles sur iOS et iPadOS jusqu’à nouvel ordre. Dans un communiqué, Apple se justifie&#160;: l’entreprise dit avoir tout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af50b82ceb69",
+          "title": "iOS 27 va enfin vous éviter de rater votre réveil",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271485-ios-27-va-enfin-vous-eviter-de-rater-votre-reveil.html",
+          "category": "ia",
+          "published_at": "2026-06-09T08:27:53+00:00",
+          "summary": "Annoncée lors de la WWDC 2026, une nouveauté d’iOS 27 va enfin permettre de séparer le volume des réveils de celui des sonneries et notifications. Une petite option qui pourrait éviter bien des matins compliqués aux utilisateurs d’iPhone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52b74c65befe",
+          "title": "☕️ Visitez le musée virtuel des systèmes d’exploitation",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/visitez-le-musee-virtuel-des-systemes-dexploitation/",
+          "category": "ia",
+          "published_at": "2026-06-09T08:22:43+00:00",
+          "summary": "Nostalgiques d&#8217;OS 2 d&#8217;IBM, de Mac OS 1.0 ou encore de Windows Me (si, ça doit bien exister) ? Voilà un site qui devrait vous intéresser : The Virtual OS Museum, un musée virtuel consacré aux systèmes d&#8217;exploitation. Andrew Warkentin, qui se présente comme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20820df8cf2b",
+          "title": "Le nouveau Siri expliqué : cinq modèles maison, le vrai rôle de Google Gemini et des GPU Nvidia",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271475-le-nouveau-siri-explique-cinq-modeles-maison-le-vrai-role-de-google-gemini-et-des-gpu-nvidia.html",
+          "category": "ia",
+          "published_at": "2026-06-09T07:55:24+00:00",
+          "summary": "AFM Core, AFM Core Advanced, AFM Cloud, ADM Cloud et AFM Cloud Pro : Apple ne lance pas un, mais cinq modèles d'IA. Contrairement à ce que beaucoup écrivent, la marque californienne ne se contente pas d'utiliser les modèles Gemini de Google pour son nouvel assistant Siri AI : la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c83c89855d44",
+          "title": "Voiture thermique en 2035 : la France mène la fronde contre l’Allemagne et l’Italie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2271073-voiture-thermique-en-2035-la-france-mene-la-fronde-contre-lallemagne-et-litalie.html",
+          "category": "ia",
+          "published_at": "2026-06-09T07:41:07+00:00",
+          "summary": "La bataille autour de la fin du moteur thermique en 2035 n’est toujours pas terminée. Alors que l’Allemagne et l’Italie veulent pousser vers un assouplissement plus important, 7 autres pays dont la France font front pour bloquer l’initiative.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "635d4f4576d4",
+          "title": "Artémis III : suivez en direct la présentation des astronautes de la Nasa",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2270107-artemis-3-comment-suivre-lannonce-de-lequipage-de-la-nasa-en-direct.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-09T07:25:13+00:00",
+          "summary": "La Nasa s'apprête à dévoiler le nom des quatre astronautes qui s'envoleront pour la mission Artémis III. Ils n'iront pas sur la Lune, mais testeront les futurs atterrisseurs géants en orbite terrestre. Voici comment suivre cette annonce historique en direct le mardi 9 juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b2d5a6bd2aa",
+          "title": "[Màj] Meta a retiré le système de reconnaissance faciale de ses lunettes connectées",
+          "source": "Next INpact",
+          "url": "https://next.ink/240980/lunettes-meta-lintegration-de-la-reconnaissance-faciale-est-discretement-en-cours/",
+          "category": "ia",
+          "published_at": "2026-06-09T07:02:00+00:00",
+          "summary": "L&#8217;intégration de la fonction Name Tag est déjà en cours dans l&#8217;application Meta AI. Celle-ci doit permettre la reconnaissance faciale via les lunettes connectées de l&#8217;entreprise. La communication de l&#8217;entreprise vis-à-vis de la fonctionnalité intrusive…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6aee98dd36f4",
+          "title": "WhatsApp identifie (encore) trois nouvelles attaques émanant d’un logiciel espion de NSO",
+          "source": "Next INpact",
+          "url": "https://next.ink/241423/whatsapp-identifie-encore-trois-nouvelles-attaques-emanant-dun-logiciel-espion-de-nso/",
+          "category": "ia",
+          "published_at": "2026-06-09T06:45:00+00:00",
+          "summary": "Placée sur liste noire par l&#8217;administration Biden depuis 2021, l&#8217;ex-entreprise israélienne NSO avait été condamnée l&#8217;an passé à ne plus tenter de pirater la messagerie de Meta. Depuis rachetée par un ancien avocat de Donald Trump, elle viendrait pourtant de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3960e4366ac6",
+          "title": "Avec iOS 27, les AirPods vont enfin gagner cette fonction très attendue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271429-avec-ios-27-les-airpods-vont-enfin-gagner-cette-fonction-tres-attendue.html",
+          "category": "ia",
+          "published_at": "2026-06-09T06:37:46+00:00",
+          "summary": "Parmi les nouveautés d'iOS 27 sur lesquelles Apple est passée rapidement, on notera l'arrivée d'un égaliseur pour les AirPods. Les produits audio de la firme de Cupertino vont tendre vers une personnalisation plus poussée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6beb9eadc5ea",
+          "title": "« Ils ont complètement ignoré nos préoccupations » : Apple explique pourquoi Siri AI n’arrivera pas en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271421-ils-ont-completement-ignore-nos-preoccupations-apple-explique-pourquoi-siri-ai-narrivera-pas-en-europe.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-09T06:19:19+00:00",
+          "summary": "À Cupertino pour la WWDC 2026, Numerama a pu discuter avec Greg Joswiak, vice-président d'Apple, de la réglementation européenne et de son impact toujours plus fort sur la disponibilité des nouveautés en France et en Europe. Le ton est encore plus dur que les années précédentes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53ec0b103595",
+          "title": "Apple veut de nouveau sauver le soldat Siri, cette fois avec l’aide de Google",
+          "source": "Next INpact",
+          "url": "https://next.ink/241446/apple-veut-de-nouveau-sauver-le-soldat-siri-cette-fois-avec-laide-de-google/",
+          "category": "ia",
+          "published_at": "2026-06-09T06:08:04+00:00",
+          "summary": "Pour présenter les nouveautés Apple Intelligence et Siri, Apple a rejoué la partition de la WWDC 2024. Deux ans après des débuts laborieux, le constructeur promet enfin de livrer l&#8217;assistant intelligent qu&#8217;il avait alors promis. On efface tout, et on recommence. Il y…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c25b6861d329",
+          "title": "Music prediction is a $400m market in 2026 so far – on one platform",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/09/music-prediction-is-a-400m-market-in-2026-so-far-on-one-platform/",
+          "category": "musique",
+          "published_at": "2026-06-09T06:00:00+00:00",
+          "summary": "What if you could use your knowledge of upcoming release schedules, quiet insider chats with artist teams, your skill at reading Chartmetric data – or anything else in the music business that you were pretty certain about – to place bets? For instance, if you were very sure that…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd0d5d258bcb",
+          "title": "Blink-182 Appear to Be Planning Something for the 25th Anniversary of ‘Take Off Your Pants and Jacket’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/blink-182-take-off-your-pants-and-jacket-teaser-1236267844/",
+          "category": "musique",
+          "published_at": "2026-06-09T05:57:55+00:00",
+          "summary": "The pop-punk trio sparked speculation among fans this week after sharing the album's iconic artwork on social media.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04c1b4589d0f",
+          "title": "☕️ Londres veut empêcher les mineurs d’échanger des photos intimes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/londres-veut-empecher-les-mineurs-dechanger-des-photos-intimes/",
+          "category": "ia",
+          "published_at": "2026-06-09T05:45:07+00:00",
+          "summary": "Apple et Google sont sommés par le gouvernement britannique de renforcer les mesures de protection pour les enfants. Les utilisateurs de moins de 18 ans de smartphones et d&#8217;autres appareils des constructeurs et éditeurs de systèmes d&#8217;exploitation ne devraient pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f28bc6347050",
+          "title": "L’un des meilleurs jeux de l’ère Xbox revient, et il est déjà en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2270949-lun-des-meilleurs-jeux-de-lere-xbox-revient-et-il-est-deja-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-06-09T05:30:00+00:00",
+          "summary": "[Précommande] Fable, un nom qui résonne avec beaucoup de nostalgie pour celles et ceux qui ont déjà eu une Xbox entre les mains. La saga fait son grand retour et elle est déjà disponible en précommande.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04d259f5968c",
+          "title": "☕️ OpenAI veut officiellement entrer en Bourse",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openai-veut-officiellement-entrer-en-bourse/",
+          "category": "ia",
+          "published_at": "2026-06-09T05:11:36+00:00",
+          "summary": "Après Anthropic, OpenAI. Le créateur de ChatGPT a déposé auprès du gendarme américain de la Bourse, la SEC, un formulaire S-1, première étape officielle avant une introduction en Bourse (IPO). Et comme pour Anthropic, il faut se contenter d&#8217;un message sibyllin (mais un peu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "64c757e1b772",
+          "title": "Niall Horan’s ‘Dinner Party’ Gets Manhattan Pop-Up at UMusic Shop NY for Release Day",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/niall-horan-umusic-shop-ny-dinner-party-1236267840/",
+          "category": "musique",
+          "published_at": "2026-06-09T05:03:27+00:00",
+          "summary": "The pop-up arrives the same day as Dinner Party's official global release via Capitol Records.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1dadf344a4a6",
+          "title": "Dans la panique, Hideo Kojima s’emmêle les pinceaux sur l’utilisation de l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2270783-dans-la-panique-hideo-kojima-semmele-les-pinceaux-sur-lutilisation-de-lia.html",
+          "category": "ia",
+          "published_at": "2026-06-09T05:00:00+00:00",
+          "summary": "Hideo Kojima ne sait plus vraiment sur quel pied danser avec l’usage de l’intelligence artificielle : parfois oui, parfois non. En réalité, Hideo Kojima semble surtout suivre le sens du vent, un peu comme Sam Porter Bridges, le héros de Death Stranding, qui avance selon le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6db4e2f03446",
+          "title": "Jet Expand ‘Rumblin’ Regional Revue’ With Second Australian Tour Leg",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/jet-expand-rumblin-regional-revue-second-australian-tour-leg-1236267824/",
+          "category": "ia",
+          "published_at": "2026-06-09T04:15:31+00:00",
+          "summary": "The newly announced run kicks off in Canberra on Oct. 22.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb2fe4802965",
+          "title": "Willie Nelson’s Farm Aid 2026 Headed to Virginia Beach for First Time: Here’s the Date & Lineup",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/willie-nelson-farm-aid-2026-date-location-lineup-1236267165/",
+          "category": "ia",
+          "published_at": "2026-06-09T04:01:00+00:00",
+          "summary": "Board members Nelson, Neil Young, John Mellencamp, Dave Matthews and more will headline the event.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "171d7d0d8502",
+          "title": "Nova’s Red Room Unveils ‘Dinner Party’ Listening Experience Celebrating Niall Horan’s New Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/niall-horan-nova-red-room-dinner-party-experience-sydney-1236267817/",
+          "category": "musique",
+          "published_at": "2026-06-09T03:16:58+00:00",
+          "summary": "The event announcement comes following Horan's revelation that he'll be returning to Australia in early 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91d1dd8086c4",
+          "title": "Banda El Recodo to Light Up FIFA Fan Fest at Mexico City’s Zócalo After Opening of 2026 World Cup",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/banda-el-recodo-mexico-zocalo-2026-world-cup-fan-fest-1236267790/",
+          "category": "ia",
+          "published_at": "2026-06-09T01:48:30+00:00",
+          "summary": "The iconic group will perform in the country's main public square as part of the FIFA Fan Fest on Thursday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9c9527430e4",
+          "title": "Andrea Bocelli Joins Los Ángeles Azules & Major Lazer for World Cup Countdown Concerts in Mexico City, Toronto & LA",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/fifa-world-cup-2026-countdown-concert-lineup-major-lazer-1236263338/",
+          "category": "musique",
+          "published_at": "2026-06-09T01:30:00+00:00",
+          "summary": "The event will bring together the three cities hosting the first match for each host country on June 10.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-08",
       "articles": [
+        {
+          "id": "6f364ccd1bb4",
+          "title": "Apple annonce Siri AI avec ses propres modèles et un entraînement Google : le vrai début de l’IA sur iPhone ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271171-apple-annonce-siri-ai-propulse-par-google-gemini-le-vrai-debut-de-lia-sur-iphone.html",
+          "category": "ia",
+          "published_at": "2026-06-08T21:11:58+00:00",
+          "summary": "Comme prévu, Siri va être totalement transformé. Rebaptisé Siri AI et propulsé par les modèles maison d'Apple conçus avec l'aide de Google, l'assistant vocal d'Apple devient un véritable chatbot intégré à iOS et macOS, capable de comprendre l'écran, d'agir dans les apps et de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7335e9e7a55",
+          "title": "Alerte autour de Miasma : le ver informatique qui se glisse dans Claude Code pour voler les secrets des développeurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2270899-alerte-autour-de-miasma-le-ver-informatique-qui-se-glisse-dans-claude-code-pour-voler-les-secrets-des-developpeurs.html",
+          "category": "ia",
+          "published_at": "2026-06-08T20:41:52+00:00",
+          "summary": "Un groupe de cybercriminels a mené une série d'attaques coordonnées contre la chaîne d'approvisionnement logicielle, compromettant des dizaines de paquets et de dépôts de développement. Au coeur de leur campagne ? Un malware nommé Miasma qui injecte sa charge utile dans les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19d1dbbcf830",
+          "title": "iOS 27 est officiel : toutes les nouveautés sur iPhone et la date de sortie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262023-ios-27-siriai-nouveautes-date-de-sortie-iphone-compatibles.html",
+          "category": "ia",
+          "published_at": "2026-06-08T20:39:42+00:00",
+          "summary": "iOS 27 est officiel. La mise à jour des iPhone, dévoilée le 8 juin à la WWDC pour la dernière keynote de Tim Cook, marque le vrai virage d'Apple dans l'IA générative avec Siri AI, un assistant entièrement repensé conçu avec l'aide de Google. Au programme aussi : de l'édition…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6eae28f2e9a9",
+          "title": "Apple « abandonne » d’un coup cinq générations d’Apple Watch",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271299-apple-abandonne-dun-coup-cinq-generations-dapple-watch.html",
+          "category": "ia",
+          "published_at": "2026-06-08T19:52:31+00:00",
+          "summary": "Avec watchOS 27, Apple coupe le support de cinq générations d'Apple Watch d'un coup, dont la Series 9 sortie fin 2023 et la Ultra 1. Du jamais-vu chez la marque, et de quoi laisser des millions de montres récentes sur le bord de la route.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58a4fe306bfc",
+          "title": "Apple dévoile macOS Golden Gate et promet qu’il va améliorer la stabilité des Mac",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2271047-apple-devoile-macos-golden-gate-et-promet-quil-va-ameliorer-la-stabilite-des-mac.html",
+          "category": "ia",
+          "published_at": "2026-06-08T19:17:20+00:00",
+          "summary": "Présenté à la WWDC le 8 juin 2026, macOS Golden Gate succède à Tahoe avec un Liquid Glass retravaillé, des gains de stabilité et l'IA Siri AI. De quoi séduire — sauf que l'Europe ne verra ce nouveau Siri ni sur iPhone, ni sur iPad ni sur Mac, DMA oblige.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35de0c0dc683",
+          "title": "iOS 27, macOS 27 : Apple met le paquet sur l’optimisation et la lisibilité de Liquid Glass",
+          "source": "Next INpact",
+          "url": "https://next.ink/241436/ios-27-macos-27-apple-met-le-paquet-sur-loptimisation-et-la-lisibilite-de-liquid-glass/",
+          "category": "ia",
+          "published_at": "2026-06-08T19:06:35+00:00",
+          "summary": "Les rumeurs l&#8217;avaient promis, les utilisateurs Apple ont été servis : iOS 27 et les autres systèmes d&#8217;exploitation en « 27 » misent d&#8217;abord et avant tout sur l&#8217;optimisation de l&#8217;existant, au détriment des nouveautés. Difficile toutefois de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c08c2d2eb995",
+          "title": "Siri AI, iOS 27, blocage UE… Le résumé de la WWDC 2026 d’Apple",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2269641-wwdc-2026-toutes-les-annonces-apple-ios27-macos27-siri.html",
+          "category": "ia",
+          "published_at": "2026-06-08T18:31:10+00:00",
+          "summary": "Apple bascule dans l'ère de l'IA générative avec Siri AI, un assistant entièrement repensé conçu avec l'aide de Google. iOS 27, macOS Golden Gate et les autres mises à jour misent sur la stabilité, pendant que l'Europe se retrouve privée du nouveau Siri au lancement. On résume…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d27dfa1b37f8",
+          "title": "Universal Music Greater China acquires Carrier Creative catalog, home to ‘golden-era’ Mandopop recordings by Little Tigers and Johnny Chiang",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-greater-china-acquires-carrier-creative-catalog-home-to-golden-era-mandopop-recordings-by-little-tigers-and-johnny-chiang/",
+          "category": "musique",
+          "published_at": "2026-06-08T17:19:43+00:00",
+          "summary": "The deal was announced on Monday (June 8) at UMGC's inaugural China Summit in Beijing.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "547668d6819d",
+          "title": "☕️ Tchap, la messagerie sécurisée de la fonction publique, victime d’un incident de sécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/tchap-la-messagerie-securisee-de-la-fonction-publique-victime-dun-incident-de-securite/",
+          "category": "ia",
+          "published_at": "2026-06-08T17:03:47+00:00",
+          "summary": "La direction interministérielle du numérique (Dinum) a signalé lundi 8 juin après-midi un incident de sécurité constaté au niveau de Tchap, l’application de messagerie sécurisée consacrée à l&#8217;été 2025 comme l&#8217;outil de référence à utiliser pour toute la fonction…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2717ec54502c",
+          "title": "Judge vacates order that sealed Udio’s ‘confidential’ data in Sony Music’s copyright lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-vacates-order-that-sealed-udios-confidential-data-in-sony-musics-copyright-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-06-08T16:37:41+00:00",
+          "summary": "The decision reopens the question of how much of the material that Udio has designated confidential will stay off the public docket.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e91ec2b2cd8a",
+          "title": "220+ rights orgs worldwide urge France’s National Assembly to adopt bill that would force AI firms to prove copyrighted content wasn’t used to train their tech",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/220-rights-orgs-worldwide-urge-frances-national-assembly-to-adopt-bill-that-would-force-ai-firms-to-prove-copyrighted-content-wasnt-used-to-train-their-tech/",
+          "category": "ia",
+          "published_at": "2026-06-08T16:09:04+00:00",
+          "summary": "The Darcos bill would reverse the burden of proof in AI copyright disputes in France\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e3f4e56f9c9",
+          "title": "Universal Music signs Mandopop star Jason Zhang to develop his international career",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-signs-mandopop-star-jason-zhang-to-develop-his-international-career/",
+          "category": "musique",
+          "published_at": "2026-06-08T16:02:13+00:00",
+          "summary": "New agreement with Zhang and his Planet Culture label extends across music, live business and strategic development.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0a12fd4f170",
+          "title": "What does an attribution engine actually do?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/what-does-an-attribution-engine-actually-do/",
+          "category": "musique",
+          "published_at": "2026-06-08T15:22:58+00:00",
+          "summary": "Monica Corton, a music publishing veteran and the founder of Go To Eleven Entertainment, talks about AI — and to the industry’s one great hope for deciding who actually gets paid when machines make music…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c080f849fc7",
+          "title": "Datacenters, eau, électricité, carbone : explorez notre carte mondiale interactive !",
+          "source": "Next INpact",
+          "url": "https://next.ink/239556/datacenters-eau-electricite-carbone-explorez-notre-carte-mondiale-interactive/",
+          "category": "ia",
+          "published_at": "2026-06-08T15:14:04+00:00",
+          "summary": "Au sein d’une même carte, nous avons regroupé un maximum d’informations autour des datacenters : installation électrique, niveau de stress hydrique, intensité carbone, mais également d’autres données comme des photos satellites avec un mode « voyage dans le temps » qui remonte…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4be49cc4c3ea",
+          "title": "Content Editor – Warp Records – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/08/content-editor-warp-records-london/",
+          "category": "musique",
+          "published_at": "2026-06-08T15:09:59+00:00",
+          "summary": "Warp is looking for a social-first creative to join our team in London, helping bring our Artists’ stories to life across digital platforms. You’ll be a creative all rounder and [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b188e3738047",
+          "title": "Accessibilité : le numérique public exclut encore des millions de Français",
+          "source": "Next INpact",
+          "url": "https://next.ink/241132/accessibilite-le-numerique-public-exclut-encore-des-millions-de-francais/",
+          "category": "ia",
+          "published_at": "2026-06-08T14:14:32+00:00",
+          "summary": "L&#8217;accessibilité reste un problème pour les sites web de l&#8217;administration. Après de belles promesses non tenues, le Collectif Français du Handicap Visuel a décidé de passer à l&#8217;action, en portant plainte contre la Direction générale des Finances publiques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00c53c92ef25",
+          "title": "Curated music-streaming service Cantilever raises £250k from independent labels",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/08/curated-music-streaming-service-cantilever-raises-250k-from-independent-labels/",
+          "category": "musique",
+          "published_at": "2026-06-08T13:55:22+00:00",
+          "summary": "UK-based startup Cantilever has raised £250k of pre-seed funding from a group of 20 independent labels and individuals from those companies.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "237f4fdd3135",
+          "title": "US musicians union sues UMG and Warner Music, alleging member recordings were licensed to Suno and Udio ‘without compensation or credit’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/musicians-union-sues-umg-and-warner-music-alleging-member-recordings-were-licensed-to-suno-and-udio-without-compensation-or-credit/",
+          "category": "musique",
+          "published_at": "2026-06-08T13:49:16+00:00",
+          "summary": "The American Federation of Musicians claim the two companies licensed recordings made by its members to Suno and Udio without crediting the musicians.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4efc321f2cc",
+          "title": "‘Landmark’ declaration signed at CISAC General Assembly calling for ‘protection of human creativity’ in the AI era",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/landmark-declaration-signed-at-cisac-general-assembly-calling-for-protection-of-human-creativity-in-the-ai-era/",
+          "category": "ia",
+          "published_at": "2026-06-08T13:38:03+00:00",
+          "summary": "The Paris Commitment urges governments, tech firms and cultural industries to ensure human creators remain protected and fairly remunerated in the AI era.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba42ebff5eae",
+          "title": "American Federation of Musicians sues majors over AI deals",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/08/american-federation-of-musicians-sues-majors-over-ai-deals/",
+          "category": "ia",
+          "published_at": "2026-06-08T13:30:00+00:00",
+          "summary": "US-based musicians’ union the American Federation of Musicians (AFM) has launched a lawsuit against UMG and WMG over their AI deals.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ee1d9a2bde8",
+          "title": "☕️ Drift de la Switch : 35 millions d’euros d’amende contre Nintendo en France",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/drift-de-la-switch-35-millions-deuros-damende-contre-nintendo-en-france/",
+          "category": "ia",
+          "published_at": "2026-06-08T12:42:56+00:00",
+          "summary": "Faire la sourde oreille a fini par coûter cher à Nintendo. Le constructeur japonais a accepté de payer une amende transactionnelle de 35 millions d&#8217;euros, après une enquête de la DGCCRF portant sur le fameux «&#160;drift » (un problème mécanique) qui affecte les manettes…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "58b5ddb37818",
           "title": "Off Campus : c’est quoi cette série qui dépasse tout sur Prime Video ?",
