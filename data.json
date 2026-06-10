@@ -1,9 +1,594 @@
 {
-  "generated_at": "2026-06-09T11:31:07.512523+00:00",
+  "generated_at": "2026-06-10T11:47:47.152603+00:00",
   "days": [
+    {
+      "date": "2026-06-10",
+      "articles": [
+        {
+          "id": "f63ec3e818eb",
+          "title": "Artémis III revue à la baisse : La Nasa prévoit une mission encore plus « simple » que prévu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2272621-artemis-iii-revue-a-la-baisse-la-nasa-prevoit-une-mission-encore-plus-simple-que-prevu.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-10T11:25:00+00:00",
+          "summary": "La Nasa a donné des détails sur le déroulé de la mission Artémis III. Finalement, la version du Starship qui sera mobilisée n'est pas si différente de ce qui est testé actuellement, ce qui rend la mission plus simple, et surtout moins ambitieuse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1785d1a47afb",
+          "title": "Sony Music urges court to reject Udio’s bid to seal the size of its AI training data",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-urges-court-to-reject-udios-bid-to-seal-the-size-of-its-ai-training-data/",
+          "category": "musique",
+          "published_at": "2026-06-10T11:04:48+00:00",
+          "summary": "Sony Music argued that the number \"is necessary to understand the full extent of Udio's copying.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c205f7dfd46",
+          "title": "Scooby-Doo : surprise, le chien du film live Netflix fait polémique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2272713-scooby-doo-surprise-le-chien-du-film-live-netflix-fait-polemique.html",
+          "category": "ia",
+          "published_at": "2026-06-10T10:45:00+00:00",
+          "summary": "Décidément, rien ne sera épargné à la future série live-action de Netflix.&nbsp;Alors que le virage dramatique et criminel de&nbsp;Scooby-Doo: Origins&nbsp;faisait déjà grincer des dents, la diffusion des premières images ce mercredi 10 juin 2026 a déclenché une seconde tempête…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "164ea6cc0bb1",
+          "title": "‘You’ll Feel Like You Can Fly’: Any Young Mechanic Drop ‘Modern Shoe,’ Talk Touring Europe and New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/any-young-mechanic-interview-1236269133/",
+          "category": "musique",
+          "published_at": "2026-06-10T10:24:07+00:00",
+          "summary": "Any Young Mechanic has just released their critically acclaimed new album, The Modern Shoe Is Ruining The Foot. More music is on the way, Billboard has learned.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78407402f363",
+          "title": "« Nvidia vaut désormais plus que l’Inde » : vraiment ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2272527-nvidia-vaut-desormais-plus-que-linde-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-06-10T09:54:17+00:00",
+          "summary": "Une seule entreprise américaine peut-elle vraiment valoir plus qu’un pays de 1,4 milliard d’habitants ? C’est la comparaison vertigineuse qui circule autour de Nvidia. Si celle-ci est à prendre avec prudence, elle en dit beaucoup sur la fièvre qui entoure l’IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2b753dbed07",
+          "title": "Artémis : SpaceX vient-il de donner le coup de grâce à la méga-fusée de la NASA ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2272507-artemis-spacex-vient-il-de-donner-le-coup-de-grace-a-la-mega-fusee-de-la-nasa.html",
+          "category": "ia",
+          "published_at": "2026-06-10T09:45:00+00:00",
+          "summary": "C'est une petite phrase de SpaceX qui peut changer fortement les plans du programme Artémis. Le 9 juin, SpaceX a déclaré que sa fusée géante Starship pourrait tout à fait assurer la propulsion de la capsule Orion jusqu'à la Lune à l'avenir. Une capacité qui apparaît déjà comme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aebe0c224768",
+          "title": "Voici tous les pays où est disponible le Tesla FSD (toujours pas en France)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2272643-voici-tous-les-pays-ou-est-disponible-le-tesla-fsd-toujours-pas-en-france.html",
+          "category": "ia",
+          "published_at": "2026-06-10T09:43:31+00:00",
+          "summary": "Déployé officiellement aux États-Unis en 2022, le FSD de Tesla commence à peine son expansion à d'autres pays depuis ces deux dernières années. Longuement attendu en Europe, le logiciel de conduite autonome a seulement été autorisé dans certaines régions depuis le printemps…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff2d7740a48f",
+          "title": "Le MacBook Neo 512 Go avec Touch ID connaît sa première baisse de prix sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2272657-le-macbook-neo-512-go-avec-touch-id-connait-sa-premiere-baisse-de-prix-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-06-10T09:38:11+00:00",
+          "summary": "[Deal du jour] Vous attendiez une baisse de prix pour vous procurer le dernier-né de la gamme MacBook ? La version 512 Go et Touch ID baisse de 20 €. C'est toujours ça de pris.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a382e2601656",
+          "title": "Le jour où Luca Parmitano, l’astronaute européen d’Artémis III, a failli se noyer dans l’espace",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2272511-le-jour-ou-luca-parmitano-lastronaute-europeen-dartemis-iii-a-failli-se-noyer-dans-lespace.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-10T09:36:30+00:00",
+          "summary": "Luca Parmitano a été choisi pour la mission Artémis III, prévue en orbite terrestre en 2027. Il est le premier astronaute européen à participer à ce programme lunaire de la Nasa. Cet Italien, très expérimenté, a même déjà frôlé la mort dans l'espace.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d2e0886ef3b",
+          "title": "Quels sont les meilleurs jeux à lancer au moins une fois sur Nintendo Switch (1 et 2) ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/344888-nintendo-switch-jeux-accessoires-bien-demarrer.html",
+          "category": "ia",
+          "published_at": "2026-06-10T09:30:00+00:00",
+          "summary": "Entre une Switch 2 qui entame sa deuxième année et une Switch 1 qui approche la décennie, le catalogue Nintendo n'a jamais été aussi vaste. Pour vous aider à trier, Numerama a testé une bonne centaine de jeux au fil des années (et des modèles) et vous livre son top ultime des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8bd44b3342f0",
+          "title": "Facturation électronique : que faut-il savoir ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/241371/facturation-electronique-que-faut-il-savoir/",
+          "category": "ia",
+          "published_at": "2026-06-10T09:01:00+00:00",
+          "summary": "Alors que la première vague d’entrée en application de la réforme de la facturation électronique approche, Next détaille les enjeux. Ce 1er septembre 2026, la réforme de la facturation électronique commencera à entrer en vigueur en France. En jeu : une adaptation technique et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01d551d5b275",
+          "title": "The Furious semble bien être le meilleur film d’action de l’année 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2272535-the-furious-semble-bien-etre-le-meilleur-film-daction-de-lannee-2026.html",
+          "category": "ia",
+          "published_at": "2026-06-10T08:53:31+00:00",
+          "summary": "Le cinéma d'action mondial vient de prendre une immense claque.&nbsp;Fort d’un score parfait et rarissime de&nbsp;100 % d’opinions positives sur Rotten Tomatoes, le thriller d'action&nbsp;The Furious&nbsp;s’impose déjà comme la nouvelle référence absolue du cinéma de combat.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61b59d1c6d43",
+          "title": "TSMC avertit que le prix de ses puces pourrait augmenter : un impact sur votre prochain smartphone ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2272589-tsmc-avertit-que-le-prix-de-ses-puces-pourrait-augmenter-un-impact-sur-votre-prochain-smartphone.html",
+          "category": "ia",
+          "published_at": "2026-06-10T08:47:58+00:00",
+          "summary": "TSMC fabrique les puces de presque tous vos appareils, et l'entreprise prévient : ses coûts montent et ses tarifs pourraient monter. Une hausse qui finira, en partie, dans le prix de votre prochain téléphone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53b9d98b92aa",
+          "title": "Comme le film, le prochain jeu Blade est porté disparu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2272503-comme-le-film-le-prochain-jeu-blade-est-porte-disparu.html",
+          "category": "ia",
+          "published_at": "2026-06-10T08:46:58+00:00",
+          "summary": "Il y a eu un absent de taille lors de la conférence Xbox Games Showcase 2026 : l'adaptation de la saga Blade, par Arkane. Il n'en fallait pas moins pour que certains lancent des rumeurs d'annulation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "633c5124d52a",
+          "title": "BYD donne des nouvelles de son usine en Hongrie : le lancement de la production repoussé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2272521-byd-donne-des-nouvelles-de-son-usine-en-hongrie-le-lancement-de-la-production-repousse.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-10T08:38:41+00:00",
+          "summary": "La vice-présidente de BYD, Stella Li, a annoncé une nouvelle fenêtre de lancement pour la production de son usine en Hongrie. Celle-ci est prévue pour le quatrième trimestre 2026, à nouveau en retard sur le calendrier prévisionnel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c3d98268171",
+          "title": "Empreinte écologique des datacenters : ce que les géants annoncent, ce que nos calculs révèlent",
+          "source": "Next INpact",
+          "url": "https://next.ink/238211/empreinte-ecologique-des-datacenters-ce-que-les-geants-annoncent-ce-que-nos-calculs-revelent/",
+          "category": "ia",
+          "published_at": "2026-06-10T08:28:55+00:00",
+          "summary": "Les géants du Net utilisent les PUE et WUE des datacenters comme argument marketing, mais derrière les belles promesses se cachent parfois des calculs surprenants. Next a épluché des centaines de pages de rapport afin de vérifier leur fiabilité, mais aussi de comprendre pourquoi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f478f0d90675",
+          "title": "Donald a un doigt en trop dans la nouvelle illustration de Kingdom Hearts, et vous savez ce que ça veut dire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2272493-donald-a-un-doigt-en-trop-dans-la-nouvelle-illustration-de-kingdom-hearts-et-vous-savez-ce-que-ca-veut-dire.html",
+          "category": "ia",
+          "published_at": "2026-06-10T08:21:21+00:00",
+          "summary": "L’IA est sur toutes les lèvres, à mesure que l’industrie du jeu vidéo y voit une aubaine pour le développement et que les langues se délient. Parmi les studios ayant recours à l’intelligence artificielle, Square Enix vient tout juste de mettre un pied dans la danse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e26f6b615a58",
+          "title": "José Carreras to Host All-Star Stadium Concert In Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/jose-carreras-all-star-stadium-concert-australia-1236269125/",
+          "category": "musique",
+          "published_at": "2026-06-10T08:09:51+00:00",
+          "summary": "Robbie Williams, The Corrs, Katherine Jenkins and Ronan Keating are among the first wave of artists confirmed for the one-off concert in Brisbane, the future Olympic city.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63fb9d13c124",
+          "title": "« test cedric » : le Crédit Agricole a transformé une boulette en coup marketing… avec ses limites",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2272483-test-cedric-le-credit-agricole-a-transforme-une-boulette-en-coup-marketing-avec-ses-limites.html",
+          "category": "ia",
+          "published_at": "2026-06-10T08:07:50+00:00",
+          "summary": "Depuis l'envoi malencontreux d'une notification push à l'ensemble des utilisateurs de « Ma Banque », le Crédit Agricole surfe sur ce qui aurait pu tourner au bad buzz. À coups d'autodérision et de publications sur les réseaux sociaux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c68a9b9a7f8",
+          "title": "Simplification, sécurisation, souveraineté : la DINUM affirme son rôle de chef d’orchestre",
+          "source": "Next INpact",
+          "url": "https://next.ink/241596/simplification-securisation-souverainete-la-dinum-affirme-son-role-de-chef-dorchestre/",
+          "category": "ia",
+          "published_at": "2026-06-10T07:52:33+00:00",
+          "summary": "Avec la montée en puissance des services d&#8217;authentification FranceConnect et ProConnect et de la Suite numérique, la DINUM revendique, de nouveau en 2025, son rôle de « chef d’orchestre » de numérique de l&#8217;État. Si en 2024 la Cour des comptes avait critiqué la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30a97e2d91ee",
+          "title": "Inside ‘Toy Story 5’ World Premiere: Taylor Swift & Randy Newman’s Friendly Duet & More Magical Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/toy-story-5-premiere-recap-taylor-swift-randy-newman-concert/",
+          "category": "musique",
+          "published_at": "2026-06-10T07:40:23+00:00",
+          "summary": "Billboard takes you inside Tuesday night's Hollywood premiere, where Swift's \"I Knew It, I Knew You\" live debut was just part of the story.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4876f289dcf9",
+          "title": "Square Enix annonce Final Fantasy Resonance, le retour aux sources pour la saga",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2272457-square-enix-annonce-final-fantasy-resonance-le-retour-aux-sources-pour-la-saga.html",
+          "category": "justice",
+          "published_at": "2026-06-10T07:15:16+00:00",
+          "summary": "La HD-2D, c’est l’utilisation de sprites 2D dans des environnements en 3D. C’est aussi la nouvelle marotte de Square Enix, qui a inventé et déposé cette esthétique, créée pour le premier épisode d’Octopath Traveler en 2018. Et s’il y a bien une licence dans le catalogue de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "825d410c3b2d",
+          "title": "☕️ Encore une faille dans le noyau Linux menant aux droits root",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/encore-une-faille-dans-le-noyau-linux-menant-aux-droits-root/",
+          "category": "ia",
+          "published_at": "2026-06-10T07:15:11+00:00",
+          "summary": "Des chercheurs ont publié les détails d’une nouvelle faille de sécurité dans le noyau Linux. De type use-after-free (utilisation de mémoire après libération) et estampillée CVE-2026-23111, elle réside dans le code de filtrage de paquets nf_tables : une simple erreur de syntaxe,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "237439eb065b",
+          "title": "Cette enquête pourrait enterrer la batterie solide révolutionnaire de Donut Lab",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2272181-cette-enquete-pourrait-enterre-la-batterie-solide-revolutionnaire-de-donut-lab.html",
+          "category": "ia",
+          "published_at": "2026-06-10T07:07:19+00:00",
+          "summary": "Et si la batterie solide révolutionnaire présentée en grande pompe au CES Las Vegas n’était finalement qu’une cellule lithium-ion comme une autre&nbsp;?&nbsp; C’est ce que tend à prouver une enquête indépendante.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30150c9c4a02",
+          "title": "☕️ Google baisse le prix de son offre AI Plus d’entrée de gamme",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-baisse-le-prix-de-son-offre-ai-plus-dentree-de-gamme/",
+          "category": "ia",
+          "published_at": "2026-06-10T06:42:22+00:00",
+          "summary": "Google revoit le prix de sa formule AI Plus et surprise, au lieu de monter comme c&#8217;est devenu l&#8217;habitude pour les services en ligne, le tarif baisse. Il passe de 7,99 à 4,99 euros par mois soit une baisse de quasiment 38 %. Le moteur de recherche double aussi le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "980735250263",
+          "title": "Et si le remake de The Legend of Zelda: Ocarina of Time sortait en même temps que GTA 6 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2272459-et-si-le-remake-de-the-legend-of-zelda-ocarina-of-time-sortait-en-meme-temps-que-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-06-10T06:40:21+00:00",
+          "summary": "Nintendo a officialisé un remake de The Legend of Zelda: Ocarina of Time pour cette année 2026, en exclusivité sur Switch 2. Et si la firme nippone veut respecter l'histoire, il serait disponible en novembre, soit plus ou moins en même temps que GTA 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33adf82be015",
+          "title": "Sofia Vergara Beats Howie Mandel to ‘AGT’ Golden Buzzer Following ‘Special’ Audition: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/sofia-vergara-howie-mandel-agt-golden-buzzer-lara-d-watch-1236269086/",
+          "category": "ia",
+          "published_at": "2026-06-10T06:29:10+00:00",
+          "summary": "\"There’s something about you that is very special,\" Sofia Vergara said of Aussie hopeful Lara D.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d88bbd7401b",
+          "title": "Claude Fable 5 : un petit goût de Mythos pour le grand public",
+          "source": "Next INpact",
+          "url": "https://next.ink/241640/claude-fable-5-un-petit-gout-de-mythos-pour-le-grand-public/",
+          "category": "ia",
+          "published_at": "2026-06-10T06:10:46+00:00",
+          "summary": "Comment faire mousser une introduction en Bourse quand on est un labo IA ? Lancer son modèle de langage le plus ambitieux, pardi ! Anthropic, qui s&#8217;y connait en buzz et en marketing de la peur, a dévoilé son premier LLM « de classe Mythos&#160;» à destination du grand…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e421b3b322f6",
+          "title": "☕️ Mesure exceptionnelle de Bruxelles, qui impose à Meta de rouvrir WhatsApp aux IA concurrentes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/mesure-exceptionnelle-de-bruxelles-qui-impose-a-meta-de-rouvrir-whatsapp-aux-ia-concurrentes/",
+          "category": "ia",
+          "published_at": "2026-06-10T06:06:29+00:00",
+          "summary": "Ça chauffe entre la Commission européenne et Meta sur le dossier de la présence des assistants IA rivaux de Meta AI dans WhatsApp. Bruxelles a ordonné au géant des réseaux sociaux de restaurer les assistants tiers dans le versant business de la messagerie. Une mesure…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e2d7dc19445",
+          "title": "Destiny 2 explose ses chiffres après son ultime mise à jour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2272445-destiny-2-explose-ses-chiffres-apres-son-ultime-mise-a-jour.html",
+          "category": "justice",
+          "published_at": "2026-06-10T05:54:45+00:00",
+          "summary": "Sans surprise, les fans de Destiny 2 se sont rués en masse sur les serveurs après le déploiement de l'ultime mise à jour du jeu. Une manière de montrer à Bungie et à Sony que tout arrêter n'est pas le meilleur choix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba4836180807",
+          "title": "Bill Cody, Longtime WSM Radio Host and Grand Ole Opry Announcer, Dies at 67",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/bill-cody-obituary/",
+          "category": "musique",
+          "published_at": "2026-06-10T04:12:10+00:00",
+          "summary": "\"Country music has lost one of its pillars,” remarks Dierks Bentley.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9b14d0739dd",
+          "title": "Niall Horan Sets the Table for ‘Dinner Party’ Tour of Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/niall-horan-dinner-party-tour-australia-1236262986/",
+          "category": "ia",
+          "published_at": "2026-06-10T03:15:10+00:00",
+          "summary": "The Irish pop star will play arenas in four Australian cities in early 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a30de5609b35",
+          "title": "Rubén Blades Accepts the Lifetime Award From Leila Cobo | Indie Power Players 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/ruben-blades-accepts-the-lifetime-award-from-leila-cobo/",
+          "category": "musique",
+          "published_at": "2026-06-10T01:30:16+00:00",
+          "summary": "Rubén Blades accepts the Icon Artist Award from Leila Cobo at Billboard’s Indie Power Players 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8144c05db027",
+          "title": "Zena White Accepts Executive of the Year From Femi Koleoso | Indie Power Players 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/zena-white-accepts-executive-of-the-year-from-femi-koleoso/",
+          "category": "musique",
+          "published_at": "2026-06-10T00:56:41+00:00",
+          "summary": "Zena White accepts the Executive of the Year Award from Femi Koleoso at Billboard’s Indie Power Players 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3e4cbc0e8dd",
+          "title": "Richard Gottehrer Accepts the Lifetime Award From Brad Navin | Indie Power Players 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/richard-gottehrer-accepts-lifetime-award-from-brad-navin/",
+          "category": "musique",
+          "published_at": "2026-06-10T00:43:04+00:00",
+          "summary": "Richard Gottehrer accepts the Lifetime Award from Brad Navin at Billboard’s Indie Power Players 2026.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-09",
       "articles": [
+        {
+          "id": "323f7306c80a",
+          "title": "Pedro Winter appointed Global Head of Creation and Co-Managing Director of Because Music France",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/pedro-winter-appointed-global-head-of-creation-and-co-managing-director-of-because-music-france/",
+          "category": "musique",
+          "published_at": "2026-06-09T20:17:34+00:00",
+          "summary": "The founder of Ed Banger Records, launched in 2003, and former manager of Daft Punk is joining Because Music in Paris.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d569c13dea62",
+          "title": "ASCAP sues four radio groups for ‘prolonged unauthorized use of its members’ music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ascap-sues-four-radio-groups-for-prolonged-unauthorized-use-of-its-members-music/",
+          "category": "musique",
+          "published_at": "2026-06-09T18:25:40+00:00",
+          "summary": "The four groups operate a total of 15 radio stations\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d94a17500ba",
+          "title": "Claude Fable 5 : Anthropic libère sa première IA de niveau Mythos, et évoque un modèle mystérieux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2272305-claude-fable-5-anthropic-libere-sa-premiere-ia-de-niveau-mythos-et-evoque-un-modele-mysterieux.html",
+          "category": "ia",
+          "published_at": "2026-06-09T17:55:55+00:00",
+          "summary": "Anthropic franchit un cap en ouvrant au grand public la classe Mythos, sa gamme d'intelligence artificielle la plus avancée. Mais pour dompter ce moteur jugé jusqu'ici trop dangereux pour être libéré dans la nature, Anthropic a dû déployer des garde-fous de taille… tout en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe8a488e1c2b",
+          "title": "Scott Cutler & Josh Abraham: How Pulse Music Group Started…",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/scott-cutler-josh-abraham-how-pulse-music-group-started/",
+          "category": "musique",
+          "published_at": "2026-06-09T17:39:24+00:00",
+          "summary": "Pulse Music Group's Co-CEOs take us back through a series of near-misses across the streets, studios, and open houses of Los Angeles –  before their paths finally collided over a half-shared chicken parmigiana... \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b11541d51390",
+          "title": "Global Music Rights sues Music Choice, alleging ‘willful’ copyright infringement of 95 songs after its license expired",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/global-music-rights-sues-music-choice-alleging-willful-copyright-infringement-of-95-songs-after-its-license-expired/",
+          "category": "musique",
+          "published_at": "2026-06-09T17:38:57+00:00",
+          "summary": "Founded in 2013 by Irving Azoff, GMR represents just over 175 songwriters and their publishers\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92be07ae051e",
+          "title": "Artémis III : qui est Luca Parmitano, le premier Européen à participer au programme lunaire ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2272255-artemis-iii-qui-est-luca-parmitano-le-premier-europeen-a-participer-au-programme-lunaire.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-09T17:00:13+00:00",
+          "summary": "Le premier astronaute européen participant au programme Artémis de la Nasa est un Italien. Luca Parmitano a été sélectionné pour faire partie de l'équipage de la mission Artémis III, qui restera en orbite terrestre. Cet astronaute avait été recruté par l'ESA en 2009, en même…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b393d75f2c0",
+          "title": "Universal Music confirms €1 billion bond sale",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-confirms-e1-billion-bond-sale/",
+          "category": "musique",
+          "published_at": "2026-06-09T16:32:21+00:00",
+          "summary": "The bond sale is split into two tranches of €500 million each, UMG said on Tuesday (June 9).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c064506f741f",
+          "title": "Un Européen est à bord : voici les 4 astronautes d’Artémis III qui vont tester les futurs atterrisseurs lunaires",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2272045-un-europeen-est-a-bord-voici-les-4-astronautes-dartemis-iii-qui-vont-tester-les-futurs-atterrisseurs-lunaires.html",
+          "category": "ia",
+          "published_at": "2026-06-09T16:23:15+00:00",
+          "summary": "L'attente est terminée. L'agence spatiale américaine a enfin annoncé les quatre astronautes qui s’envoleront en 2027 avec la mission Artémis III. Un Européen a été sélectionné.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9058d406d6bf",
+          "title": "Proton dans la tourmente après avoir financé une publicité chez un vidéaste d’extrême-droite",
+          "source": "Next INpact",
+          "url": "https://next.ink/241625/proton-dans-la-tourmente-apres-avoir-finance-une-publicite-chez-un-videaste-dextreme-droite/",
+          "category": "ia",
+          "published_at": "2026-06-09T15:26:00+00:00",
+          "summary": "Pris à parti pour avoir financé un clip publicitaire dans la vidéo d’un influenceur d’extrême-droite, Proton s’excuse et indique chercher la neutralité. Proton qui diffuse ses publicités sur la chaîne d’un youtubeur d’extrême-droite ? C’est le scénario qui a surpris plus d’un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98f9fc69ff9b",
+          "title": "Nintendo l’a fait : le remake de Zelda Ocarina of Time arrive sur Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2271811-nintendo-la-fait-le-remake-de-zelda-ocarina-of-time-arrive-sur-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-06-09T15:15:51+00:00",
+          "summary": "Nintendo a profité de son Direct du 9 juin 2026 pour annoncer le remake de The Legend of Zelda: Ocarina of Time sur Switch 2. Un retour très attendu pour l’un des épisodes les plus cultes de la saga, qui fête ses 40 ans cette année.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91c12881d88e",
+          "title": "☕️ NIS2 : l’Europe s’apprêterait à déposer plainte contre la France pour son retard",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/nis2-leurope-sappreterait-a-deposer-plainte-contre-la-france-pour-son-retard/",
+          "category": "loi",
+          "published_at": "2026-06-09T15:02:02+00:00",
+          "summary": "Selon Politico, la Commission européenne préparerait un dépôt de plainte contre la France, l’Espagne et plusieurs autres pays. La raison&#160;? Le retard pris sur la transposition de la directive NIS2, qui doit entrainer une hausse massive du niveau de cybersécurité sur le Vieux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18c5ac147827",
+          "title": "Nintendo Sport Ressorts : la bombe de l’automne sur Switch 2, c’est elle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2272055-nintendo-sport-ressorts-la-bombe-de-lautomne-cest-elle.html",
+          "category": "ia",
+          "published_at": "2026-06-09T14:58:29+00:00",
+          "summary": "C’est l’annonce phare qui vient de secouer le Nintendo Direct de ce mardi 9 juin 2026.&nbsp;Nintendo a officialisé le grand retour de sa franchise phare du&nbsp;party game&nbsp;avec&nbsp;Nintendo Switch Sports Resort. Taillé sur mesure pour exploiter la puissance et les toutes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e50c831b389",
+          "title": "☕️ Compatibilité matérielle : le grand écart des nouveaux OS 27 d’Apple",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/compatibilite-materielle-le-grand-ecart-des-nouveaux-os-27-dapple/",
+          "category": "ia",
+          "published_at": "2026-06-09T14:35:47+00:00",
+          "summary": "Apple a dévoilé hier son nouvel arsenal de systèmes d&#8217;exploitation, ainsi que les appareils sur lesquels on pourra les installer. Il y a des surprises, bonnes et moins bonnes. À tout seigneur tout honneur, la compatibilité d’iOS 27 est aussi la plus simple à résumer : tous…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4892e3486ebb",
+          "title": "[FAQ] Rachat de SFR : toutes les réponses à vos questions et inquiétudes",
+          "source": "Next INpact",
+          "url": "https://next.ink/241434/faq-rachat-de-sfr-toutes-les-reponses-a-vos-questions-et-inquietudes/",
+          "category": "ia",
+          "published_at": "2026-06-09T14:12:01+00:00",
+          "summary": "SFR devrait, sauf revirement de situation, être vendu à la découpe à Bouygues Telecom, Free et Orange. Cette opération soulève de nombreuses questions, aussi bien réglementaires que pratiques. Les clients SFR vont-ils par exemple devoir changer de forfait&#160;? Les tarifs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9826973e49ca",
+          "title": "Seeker Music inks global distribution deal with UMG’s Virgin Music Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/seeker-music-inks-global-distribution-deal-with-umgs-virgin-music-group/",
+          "category": "musique",
+          "published_at": "2026-06-09T14:00:26+00:00",
+          "summary": "Virgin Music Group will serve as Seeker's global distribution partner for its catalog of recordings and new project releases.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba678aed8cdb",
+          "title": "UMG and Sony urge court to reject Suno’s bid to seal the size of its AI training data, arguing the public has a right to see the scale of its copying",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-and-sony-urge-court-to-reject-sunos-bid-to-seal-the-size-of-its-ai-training-data-arguing-the-public-has-a-right-to-see-the-scale-of-its-copying/",
+          "category": "musique",
+          "published_at": "2026-06-09T13:53:22+00:00",
+          "summary": "None of those justifications 'withstand scrutiny,' the labels told the court\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f66a0154da9",
+          "title": "Universal Music Publishing Group unveils new brand identity",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-publishing-group-unveils-new-brand-identity/",
+          "category": "musique",
+          "published_at": "2026-06-09T13:27:07+00:00",
+          "summary": "'Our new brand is about celebrating the enduring power of songwriting and giving it a clear voice, a lasting home, and a stronger future,' said UMPG Chairman and CEO Jody Gerson\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a42ec013a90",
+          "title": "Des outils Microsoft piratés pour voler des identifiants d’outils IA comme Claude Code",
+          "source": "Next INpact",
+          "url": "https://next.ink/241517/des-outils-microsoft-pirates-pour-voler-des-identifiants-doutils-ia-comme-claude-code/",
+          "category": "ia",
+          "published_at": "2026-06-09T12:52:48+00:00",
+          "summary": "Microsoft a dû bloquer l&#8217;accès aux dépôts GitHub de plus de 70 de ses propres projets. Certains d&#8217;entre eux ont été piratés au cours d&#8217;une campagne de vols d&#8217;identifiants d&#8217;outils d&#8217;IA générative nommée Miasma. L&#8217;éditeur de GitHub…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d16a6f63b826",
+          "title": "Video exclusives: Spotify x Le Sserafim and YouTube x Madonna",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/09/video-exclusives-spotify-x-le-sserafim-and-youtube-x-madonna/",
+          "category": "musique",
+          "published_at": "2026-06-09T12:38:00+00:00",
+          "summary": "Video is the new (old) battleground for streaming services in 2026: a space, unlike audio, where they can safely negotiate exclusives with big artists. Spotify’s latest partnership is with K-Pop group Le Sserafim, following the recent concert it hosted for them in Seoul. Video…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d1f5ec9bb05",
+          "title": "Live roundup: NIVA launches, MVT x Audoo, Charli XCX ‘Angel Tickets’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/09/live-roundup-niva-launches-mvt-x-audoo-charli-xcx-angel-tickets/",
+          "category": "ia",
+          "published_at": "2026-06-09T12:35:00+00:00",
+          "summary": "There is plenty of news coming out of US live association NIVA’s annual conference this week. Starting with the launch of  the ‘Fix the Tix Fan Action Center’. It’s an online service to help fans request refunds and dob in “deceptive ticket resale practices in real-time”,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38fa903cc141",
+          "title": "Berklee study explores music, video and use of AI technologies",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/09/berklee-study-explores-music-video-and-use-of-ai-technologies/",
+          "category": "ia",
+          "published_at": "2026-06-09T12:30:00+00:00",
+          "summary": "Berklee College of Music has published a new report exploring “how music is discovered, licensed, created, and used across today’s social media video ecosystem”, as well as the role of video in musicians’ careers, and AI. An important note: this isn’t just a survey of musicians.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6df253e30ac",
+          "title": "Apple Music is getting new features in iOS 27 software update",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/09/apple-music-is-getting-new-features-in-ios-27-software-update/",
+          "category": "musique",
+          "published_at": "2026-06-09T12:30:00+00:00",
+          "summary": "Apple kicked off its WWDC event yesterday – its annual conference for developers – with the traditional keynote debuting its next raft of software updates and services. Want to know what’s new in Apple Music when the iOS 27 update drops later this year? You’ll need some sharp…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1341ead9f48",
+          "title": "Deezer says there are hundreds of AI-generated World Cup songs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/09/deezer-says-there-are-hundreds-of-ai-generated-world-cup-songs/",
+          "category": "musique",
+          "published_at": "2026-06-09T12:28:00+00:00",
+          "summary": "Once upon a time, making a World Cup song was easy. Herd the squad into a studio, make sure they can’t sway in time with each other OR the music, and job done. Nowadays it’s a different world. Deezer is hoping to seize some World Cup headlines this week with its latest…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "a5cd9449720d",
           "title": "Average US music-streamer spends $434 a year on recorded music",
@@ -165,6 +750,16 @@
           "summary_type": "extrait source"
         },
         {
+          "id": "b89bd004fb39",
+          "title": "[Màj] Pas de Siri AI en Europe : Apple et la Commission s’accusent mutuellement",
+          "source": "Next INpact",
+          "url": "https://next.ink/241487/pas-de-siri-ai-en-europe-apple-accuse-la-commission-dinterpretation-extreme-du-dma/",
+          "category": "ia",
+          "published_at": "2026-06-09T08:37:00+00:00",
+          "summary": "Durant la conférence d’ouverture de la WWDC hier soir, Apple a confirmé que la nouvelle version de Siri et ses fonctions IA plus avancées ne seront pas disponibles sur iOS et iPadOS jusqu’à nouvel ordre. Dans un communiqué, Apple se justifie : l’entreprise dit avoir tout tenté,…",
+          "summary_type": "extrait source"
+        },
+        {
           "id": "af50b82ceb69",
           "title": "iOS 27 va enfin vous éviter de rater votre réveil",
           "source": "Numerama",
@@ -287,6 +882,16 @@
         {
           "id": "04c1b4589d0f",
           "title": "☕️ Londres veut empêcher les mineurs d’échanger des photos intimes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/londres-veut-empecher-les-mineurs-dechanger-des-photos-intimes/",
+          "category": "ia",
+          "published_at": "2026-06-09T05:45:07+00:00",
+          "summary": "Apple et Google sont sommés par le gouvernement britannique de renforcer les mesures de protection pour les enfants. Les utilisateurs de moins de 18 ans de smartphones et d&#8217;autres appareils des constructeurs et éditeurs de systèmes d&#8217;exploitation ne devraient pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47b09a61635a",
+          "title": "☕️ [màj] Londres veut empêcher les mineurs d’échanger des photos intimes",
           "source": "Next INpact",
           "url": "https://next.ink/brief-article/londres-veut-empecher-les-mineurs-dechanger-des-photos-intimes/",
           "category": "ia",
@@ -537,6 +1142,16 @@
           "category": "musique",
           "published_at": "2026-06-08T15:09:59+00:00",
           "summary": "Warp is looking for a social-first creative to join our team in London, helping bring our Artists’ stories to life across digital platforms. You’ll be a creative all rounder and [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1391d4832e57",
+          "title": "Proposition de loi IA et Culture : quand le groupe du Président de la République et du candidat Gabriel Attal fait de l’obstruction pour ne pas appliquer la loi",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/proposition-de-loi-ia-et-culture-quand-le-groupe-du-president-de-la-republique-et-du-candidat-gabriel-attal-fait-de-lobstruction-pour-ne-pas-appliquer-la-loi/",
+          "category": "ia",
+          "published_at": "2026-06-08T14:24:45+00:00",
+          "summary": "8 juin 2026             COMMUNIQUÉ DE PRESSE Proposition de loi IA et Culture : quand le groupe du Président de la République et du candidat Gabriel Attal fait de l’obstruction pour ne pas appliquer la loi Plus d’une centaine d’amendements déposés sur un texte qui ne comporte…",
           "summary_type": "extrait source"
         },
         {
