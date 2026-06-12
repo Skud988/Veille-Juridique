@@ -1,9 +1,604 @@
 {
-  "generated_at": "2026-06-11T12:17:48.356046+00:00",
+  "generated_at": "2026-06-12T11:52:59.103107+00:00",
   "days": [
+    {
+      "date": "2026-06-12",
+      "articles": [
+        {
+          "id": "ee6108fd8e92",
+          "title": "How ‘Superfandom’ is Reshaping Music Streaming’s Next Chapter",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/how-superfandom-is-reshaping-music-streamings-next-chapter/",
+          "category": "musique",
+          "published_at": "2026-06-12T11:41:53+00:00",
+          "summary": "By Con Raso, CEO and founder of music cloud platform Tuned Global.Streaming executives from SoundCloud, Audiomack, and Tuned Global say the future of music platforms lies in community, local scenes – and [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b97dbd0050f",
+          "title": "Microsoft veut se racheter une image sur le terrain des performances",
+          "source": "Next INpact",
+          "url": "https://next.ink/242071/microsoft-veut-se-racheter-une-image-sur-le-terrain-des-performances/",
+          "category": "ia",
+          "published_at": "2026-06-12T11:37:00+00:00",
+          "summary": "En quelques mois, Microsoft semble avoir compris que les performances et la réactivité étaient des critères importants pour ses utilisateurs. Divers produits, dont Windows 11, ont reçu des améliorations plus ou moins significatives et d’autres sont encore à venir. Windows 11 ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2fc684c82a26",
+          "title": "Vous ne voulez pas manger d’insectes ? C’est peut-être à cause de vos lointains ancêtres",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2274639-vous-ne-voulez-pas-manger-dinsectes-cest-peut-etre-a-cause-de-vos-lointains-ancetres.html",
+          "category": "ia",
+          "published_at": "2026-06-12T11:31:00+00:00",
+          "summary": "Si la consommation d'insectes est répandue chez les humains à travers la planète, ce n'est pas le cas en Europe ou même sur l'essentiel de l'hémisphère nord. Une spécificité qui serait déjà en place durant la Préhistoire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0915b1c043e",
+          "title": "Suno’s chief product officer defends ‘platform integrity’ policies",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/sunos-chief-product-officer-defends-platform-integrity-policies/",
+          "category": "musique",
+          "published_at": "2026-06-12T11:31:00+00:00",
+          "summary": "Suno is preparing to launch its first model based on music licensed from rightsholders: something its CEO Mikey Shulman trailed in his recent announcement of the company’s $400m funding round.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "656adfe01fd0",
+          "title": "En jouant à Pokémon Go, vous avez peut-être aidé à entraîner des drones militaires",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274489-en-jouant-a-pokemon-go-vous-avez-peut-etre-aide-a-entrainer-des-drones-militaires.html",
+          "category": "ia",
+          "published_at": "2026-06-12T11:02:00+00:00",
+          "summary": "Selon une enquête publiée le 5 juin 2026 par le média néerlandais Trouw, les scans réalisés dans Pokémon Go auraient contribué à entraîner une technologie de navigation sans GPS, susceptible d’être utilisée par des drones militaires.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a80349869a3",
+          "title": "La NASA a identifié la zone idéale pour faire voler la mission Artémis III, sans exposer l’équipage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2273573-la-nasa-a-identifie-la-zone-ideale-pour-faire-voler-la-mission-artemis-iii-sans-exposer-lequipage.html",
+          "category": "ia",
+          "published_at": "2026-06-12T10:19:54+00:00",
+          "summary": "Coincée en orbite terrestre pour sa future mission en 2027, la capsule Artémis III va devoir évoluer avec prudence. Pour protéger son équipage, la NASA a calculé une trajectoire très précise afin de slalomer entre les débris des méga-constellations et les radiations spatiales.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2af5cbd94b29",
+          "title": "« Nous avons fait le mauvais choix » : Anthropic avoue avoir secrètement bridé les capacités de Fable 5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2273861-nous-avons-fait-le-mauvais-choix-anthropic-avoue-avoir-secretement-bride-les-capacites-de-fable-5.html",
+          "category": "ia",
+          "published_at": "2026-06-12T10:15:00+00:00",
+          "summary": "Anthropic a discrètement bridé les capacités de son nouveau modèle Fable 5 lorsqu’il était sollicité pour le développement d’IA de pointe. Cette restriction, totalement invisible pour les utilisateurs, a été vivement critiquée par la communauté des chercheurs, poussant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "183e343b83b4",
+          "title": "Post Malone’s Guwahati concert had an economic impact of Rs43 crore",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/post-malones-guwahati-concert-had-an-economic-impact-of-rs43-crore/",
+          "category": "musique",
+          "published_at": "2026-06-12T10:10:14+00:00",
+          "summary": "When BookMyShow announced that Guns N’ Roses would be returning to India to play two cities in November, that Bengaluru was one of them was no surprise given that it’s [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f0606bfd4c3",
+          "title": "ASN4G : le missile nucléaire hypersonique de la France pour le Rafale F5 est lancé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274619-asn4g-le-missile-nucleaire-hypersonique-de-la-france-pour-le-rafale-f5-est-lance.html",
+          "category": "ia",
+          "published_at": "2026-06-12T10:02:00+00:00",
+          "summary": "Un an après avoir été esquissé par Emmanuel Macron, le programme de missile nucléaire hypersonique ASN4G entre dans sa phase industrielle. La DGA a officiellement confié son développement à MBDA pour équiper le futur Rafale F5 d’ici à 2035, garantissant la crédibilité de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d10df0efa5b",
+          "title": "Coup de tonnerre à Hollywood : Warner Bros. lâche Mad Max mais son créateur a une solution",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274715-coup-de-tonnerre-a-hollywood-warner-bros-lache-mad-max-mais-son-createur-a-une-solution.html",
+          "category": "justice",
+          "published_at": "2026-06-12T09:50:44+00:00",
+          "summary": "Le futur de la franchise la plus explosive du septième art ne s'écrira plus chez Warner Bros.&nbsp;Après quarante ans de collaboration, le studio historique jette l'éponge et refuse de produire&nbsp;Mad Max 6. Une décision radicale qui profite déjà à la concurrence…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8eae7b5eb0f",
+          "title": "Tori Kelly Explores Peace and Parenthood on ‘God Must Really Love Me’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/tori-kelly-god-must-really-love-me-stream-it-now-1236271262/",
+          "category": "ia",
+          "published_at": "2026-06-12T09:46:08+00:00",
+          "summary": "“I really challenged myself to peel back the layers and go much deeper with my lyrics,\" she explains.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6b252e086d6",
+          "title": "Nissan n’a plus le choix : il faut copier la rapidité chinoise pour survivre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2274349-nissan-na-plus-le-choix-il-faut-copier-la-rapidite-chinoise-pour-survivre.html",
+          "category": "ia",
+          "published_at": "2026-06-12T09:20:47+00:00",
+          "summary": "Petite révolution chez Nissan : le constructeur japonais se réveille pour accélérer la conception de ses futurs modèles en deux ans seulement, loin des lenteurs traditionnelles de l’Archipel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "785cb18f943c",
+          "title": "Tupac et Snoop Dogg dans un jeu vidéo, c’est de la « valeur ajoutée » pour les développeurs de Yakuza",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274457-tupac-et-snoop-dogg-dans-un-jeu-video-cest-de-la-valeur-ajoutee-pour-les-developpeurs-de-yakuza.html",
+          "category": "musique",
+          "published_at": "2026-06-12T09:14:15+00:00",
+          "summary": "Tupac n'a jamais vraiment quitté le cœur de tous les amateurs de rap US des années 90. Le rappeur a même fait quelques apparitions remarquées après sa mort, sur scène lors d'un concert à Coachella en 2012 par exemple. L'artiste revient maintenant dans le prochain jeu des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56cc016ac4a3",
+          "title": "F1 en streaming : où voir le GP de Barcelone de la saison 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/704990-comment-regarder-le-gp-de-barcelone-de-f1-en-direct.html",
+          "category": "justice",
+          "published_at": "2026-06-12T09:05:24+00:00",
+          "summary": "Après des mois et des mois d'attente, la Formule 1 a repris ses droits. Et cette saison 2026 s'annonce particulièrement indécise en raison d'une nouvelle réglementation. Pour le moment, c'est l'écurie Mercedes qui domine, avec cinq victoires de suite pour Kimi Antonelli.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "508ae5e2b9a6",
+          "title": "Vous trouvez l’héroïne de Stellar Blade: Blood Rain problématique ? Le jeu sera pire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274299-vous-trouvez-lheroine-de-stellar-blade-blood-rain-problematique-le-jeu-sera-pire.html",
+          "category": "ia",
+          "published_at": "2026-06-12T08:56:13+00:00",
+          "summary": "En dépit d'une polémique naissante liée au physique de l'héroïne de Stellar Blade: Blood Rain, le studio n'entend pas changer son fusil d'épaule. Le studio Shift Up prévient même qu'elle sera encore plus sexy dans le jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d4f3d20472d",
+          "title": "Olivia Rodrigo Visits ‘Kimmel’ For World TV Premiere of ‘Stupid Song’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-kimmel-world-tv-premiere-stupid-song-watch-1236271245/",
+          "category": "ia",
+          "published_at": "2026-06-12T08:35:05+00:00",
+          "summary": "Rodrigo dropped by Kimmel's studios for her second performance in as many nights.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4585a5cf00f2",
+          "title": "Le film Jurassic Park aurait en fait pu avoir un visage radicalement différent, révèle Spielberg",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274377-le-film-jurassic-park-aurait-en-fait-pu-avoir-un-visage-radicalement-different-revele-spielberg.html",
+          "category": "ia",
+          "published_at": "2026-06-12T08:30:10+00:00",
+          "summary": "Harrison Ford a failli troquer son lasso contre un fossile de raptor.&nbsp;Invité du podcast&nbsp;Happy Sad Confused&nbsp;pour la sortie mondiale de son nouveau blockbuster de science-fiction&nbsp;Disclosure Day, Steven Spielberg a révélé qu'Harrison Ford était son premier choix…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6c59e4b0484",
+          "title": "En Chine, des robots humanoïdes mendient dans la rue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274343-en-chine-des-robots-humanoides-mendient-dans-la-rue.html",
+          "category": "ia",
+          "published_at": "2026-06-12T08:26:32+00:00",
+          "summary": "Dans une vidéo publiée le 11 juin 2026 sur X, un robot humanoïde vraisemblablement conçu par le constructeur chinois Unitree apparaît à genoux dans la rue, les mains jointes devant une coupelle et un QR code.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4d581ad2fcf",
+          "title": "Pour le réalisateur de Final Fantasy VII Revelation, le genre RPG traverse une crise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274341-pour-le-realisateur-de-final-fantasy-vii-revelation-le-genre-rpg-traverse-une-crise.html",
+          "category": "ia",
+          "published_at": "2026-06-12T08:21:09+00:00",
+          "summary": "Les temps sont durs pour les JRPG. Malgré les nombreux titres qui sortent régulièrement et les ventes plutôt satisfaisantes, le réalisateur de Final Fantasy VII Revelation estime que le RPG en général traverse une petite crise.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e36a3744bd5b",
+          "title": "L’Iran place l’empire d’Elon Musk sur sa liste de cibles militaires",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2274297-liran-place-lempire-delon-musk-sur-sa-liste-de-cibles-militaires.html",
+          "category": "ia",
+          "published_at": "2026-06-12T08:20:26+00:00",
+          "summary": "Face aux frappes américaines, Téhéran réplique sur le terrain de la cyber-guerre asymétrique. Accusé de complicité tactique avec le Pentagone et de briser la censure locale, le réseau satellitaire Starlink de SpaceX est désormais dans le viseur des Gardiens de la révolution.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "041ce1c0fe0f",
+          "title": "MG prépare une citadine électrique pour s’attaquer à la R5 et à l’ID. Polo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2274317-mg-prepare-une-citadine-electrique-pour-sattaquer-a-la-r5-et-a-lid-polo.html",
+          "category": "ia",
+          "published_at": "2026-06-12T08:19:19+00:00",
+          "summary": "MG s'apprête à dévoiler deux surprises au rassemblement de Goodwood, en Angleterre. Il s'agit de deux concept-cars, dont l'un préfigure une citadine électrique qui devrait chasser sur les terres de la Renault 5 et de la Volkswagen ID. Polo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e62ed5f155b",
+          "title": "OpenAI change les règles de Codex (et c’est à votre avantage)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274359-openai-change-les-regles-de-codex-et-cest-a-votre-avantage.html",
+          "category": "ia",
+          "published_at": "2026-06-12T08:07:28+00:00",
+          "summary": "OpenAI laisse désormais les utilisateurs de Codex mettre de côté leurs réinitialisations de quota pour les utiliser quand ça les arrange. Une petite fonction qui en dit long sur la guerre que se livrent OpenAI et Anthropic à quelques mois (semaines ?) de leurs entrées en Bourse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa2aa7025ba0",
+          "title": "Si vous attendiez une vraie promotion pour acheter les AirPods Pro 3 d’Apple, c’est le moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274323-si-vous-attendiez-une-vraie-promotion-pour-acheter-les-airpods-pro-3-dapple-cest-le-moment.html",
+          "category": "ia",
+          "published_at": "2026-06-12T08:03:49+00:00",
+          "summary": "[Deal du jour] Lancée au tarif de 249 €, la troisième génération des écouteurs sans fil d'Apple profite d'une réduction inédite sur Amazon. Les AirPods Pro 3 passent sous la barre de 200 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5771bb01465f",
+          "title": "Taylor Swift’s ‘I Knew It, I Knew You’ Debuts at No. 1 on ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/taylor-swift-i-knew-it-i-knew-you-no-1-aria-chart-1236271234/",
+          "category": "ia",
+          "published_at": "2026-06-12T07:59:38+00:00",
+          "summary": "Taylor Swift draws level with Elvis Presley for the second-most No. 1 singles in Australia.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "753e54226c79",
+          "title": "#Nextquick Pourquoi tout le monde se jette encore sur les GPU NVIDIA pour l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/242005/nextquick-pourquoi-tout-le-monde-se-jette-encore-sur-les-gpu-nvidia-pour-lia/",
+          "category": "ia",
+          "published_at": "2026-06-12T07:39:39+00:00",
+          "summary": "NVIDIA est toujours le maître incontesté quand on parle d&#8217;entraînement et d’inférence de l’intelligence artificielle (générative). Ses GPU sont encore et toujours incontournables alors qu’il existe des alternatives, parfois plus économes, avec des puces spécialisées (ASIC)…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73e084dbc667",
+          "title": "☕️ Edge bascule sur un rythme de publication de deux semaines",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/edge-bascule-sur-un-rythme-de-publication-de-deux-semaines/",
+          "category": "ia",
+          "published_at": "2026-06-12T07:11:43+00:00",
+          "summary": "Dans un billet de blog publié ce 11 juin, Microsoft a annoncé un changement majeur dans le cycle de publication de son navigateur Edge : une version toutes les deux semaines, contre toutes les quatre semaines actuellement. Cette bascule s&#8217;opérera à compter du 27 aout avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "251b22741d76",
+          "title": "Olivia Rodrigo, BTS, Jack White & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-bts-jack-white-new-music-friday-guide-1236269845/",
+          "category": "musique",
+          "published_at": "2026-06-12T06:44:13+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb6dc69639ed",
+          "title": "‘Getting This Right Means Everyone Wins’: Annabelle Herd Addresses AI Fight In 2026 ARIA Hall of Fame Speech",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/annabelle-herd-speech-2026-aria-hall-of-fame/",
+          "category": "ia",
+          "published_at": "2026-06-12T06:43:28+00:00",
+          "summary": "“Our opportunity to shape how AI influences music and what Australian music looks like for generations to come relies on us all getting it right in this regulatory and political moment,” Herd remarked.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e9f7929beec",
+          "title": "☕️ OpenAI et Anthropic envisageraient de casser les prix des tokens",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openai-et-anthropic-envisageraient-de-casser-les-prix-des-tokens/",
+          "category": "ia",
+          "published_at": "2026-06-12T06:32:21+00:00",
+          "summary": "Le secteur de l&#8217;IA se dirige-t-il vers une guerre des prix du token ? Les deux principaux labos IA dans le paysage, OpenAI et Anthropic, envisageraient en effet une baisse du tarif du jeton, au grand bénéfice des consommateurs – mais probablement moins de la marge de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "576bc1fc8c91",
+          "title": "Pour la version finale de Palworld, le studio recommande de tout recommencer à zéro",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274279-pour-la-version-finale-de-palworld-le-studio-recommande-de-tout-recommencer-a-zero.html",
+          "category": "ia",
+          "published_at": "2026-06-12T06:25:26+00:00",
+          "summary": "Le studio PocketPair a indiqué une recommandation majeure avant l'arrivée de la version finale de Palworld. À ses yeux, il est préférable de tout recommencer à zéro pour profiter de tout le contenu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "869d46fc66df",
+          "title": "Apple part en croisade contre l’AICOA, le DMA version américaine",
+          "source": "Next INpact",
+          "url": "https://next.ink/242028/apple-part-en-croisade-contre-laicoa-le-dma-version-americaine/",
+          "category": "ia",
+          "published_at": "2026-06-12T06:10:49+00:00",
+          "summary": "C&#8217;est désormais un fait bien établi : Apple n&#8217;aime pas le DMA européen. Par conséquent, elle n&#8217;aime pas non plus son équivalent américain, l&#8217;AICOA, que des sénateurs des deux rives ont remis en selle après une première tentative avortée en 2021. Sans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c10fe9a74e9",
+          "title": "La nouvelle classe préférée des fans de Diablo 4 est évidente",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274271-la-nouvelle-classe-preferee-des-fans-de-diablo-4-est-evidente.html",
+          "category": "ia",
+          "published_at": "2026-06-12T05:40:05+00:00",
+          "summary": "Blizzard Entertainment a révélé quelques statistiques sur la deuxième extension de Diablo 4, intitulée Lord of Hatred. Comme on pouvait s'y attendre, les joueuses et les joueurs préfèrent le démoniste au paladin, les deux nouvelles classes introduites.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aefa3ad01cdb",
+          "title": "2026 ARIA Hall of Fame: Gurrumul, Jenny Morris and More Inducted",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/2026-aria-hall-of-fame-recap/",
+          "category": "musique",
+          "published_at": "2026-06-12T05:32:35+00:00",
+          "summary": "Guests included movie stars, federal politicians and, of course, giants of the music community as six acts were inducted into the 2026 ARIA Hall of Fame.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8d0568eed8d",
+          "title": "Des chansons IA se cachent-elles dans vos playlists Spotify ou Apple Music ? Cet outil vous le dit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2273757-des-chansons-ia-se-cachent-elles-dans-vos-playlists-spotify-ou-apple-music-cet-outil-vous-le-dit.html",
+          "category": "musique",
+          "published_at": "2026-06-12T05:02:38+00:00",
+          "summary": "Alors que la musique générée par IA s’infiltre partout, Deezer lance un outil gratuit pour scanner vos playlists et y débusquer les morceaux synthétiques... même chez ses concurrents directs comme Spotify ou Apple Music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "312a466e8e4b",
+          "title": "Olivia Rodrigo Searches for the Cure on ‘You Seem Pretty Sad for a Girl So in Love’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love-1236270573/",
+          "category": "musique",
+          "published_at": "2026-06-12T04:01:10+00:00",
+          "summary": "The project features Billboard Hot 100 No. 1 \"Drop Dead\" as well as a collaboration with Robert Smith.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10705977bd25",
+          "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad for a Girl So in Love’: All 13 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/olivia-rodrigo-new-album-you-seem-pretty-sad-tracks-ranked/",
+          "category": "ia",
+          "published_at": "2026-06-12T04:01:03+00:00",
+          "summary": "The star takes the long way down as she falls in and out of love on her third studio LP.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-11",
       "articles": [
+        {
+          "id": "ddab06bb0cb4",
+          "title": "REPUBLIC Collective strikes joint venture with ZIZA Inc. focused on breaking South Asian artists globally",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/republic-collective-partners-with-ziza-inc-on-new-jv-focused-on-breaking-south-asian-artists-globally/",
+          "category": "ia",
+          "published_at": "2026-06-11T20:07:46+00:00",
+          "summary": "The joint venture will prioritize signing and developing artists from the South Asian diaspora\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e80bb3aadc14",
+          "title": "Aucune femme à bord de la mission Artémis III : la Nasa tente d’éteindre l’incendie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2273627-aucune-femme-a-bord-de-la-mission-artemis-iii-la-nasa-tente-deteindre-lincendie.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-11T19:30:00+00:00",
+          "summary": "Après l'annonce de l'équipage de la mission Artémis III, de nombreuses personnes se sont indignées en ligne de l'absence de femmes parmi les astronautes choisis. L'administrateur de la Nasa a tenté de se défendre de toute forme de sexisme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e653e1a968d4",
+          "title": "US music publishing revenues hit $7.3B in 2025, NMPA reveals at Annual Meeting honoring P!nk, Julian Bunetta and Harvey Mason jr.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-music-publishing-revenues-hit-7-3b-in-2025-nmpa-reveals-at-annual-meeting-honoring-pnk-julian-bunetta-and-harvey-mason-jr/",
+          "category": "ia",
+          "published_at": "2026-06-11T18:43:11+00:00",
+          "summary": "NMPA Chief Legal Officer and Chief Operating Officer Danielle Aguirre said publishing outpaced the growth of recorded music for the fourth year in a row.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3744a1440d3e",
+          "title": "Vast-1 : l’équipage du commandant Thomas Pesquet prend forme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2274125-lequipage-du-commandant-thomas-pesquet-prend-forme.html",
+          "category": "ia",
+          "published_at": "2026-06-11T18:30:00+00:00",
+          "summary": "Après avoir dévoilé le commandant de bord, Vast et l'Agence spatiale européenne ont annoncé un autre membre d'équipage, qui officiera en tant que pilote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8675cb22512",
+          "title": "‘There’s nothing wrong with success and chasing your dreams, but don’t forget to bring your true self with you.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/theres-nothing-wrong-with-success-and-chasing-your-dreams-but-dont-forget-to-bring-your-true-self-with-you/",
+          "category": "musique",
+          "published_at": "2026-06-11T18:01:33+00:00",
+          "summary": "Philip Lawrence has been Bruno Mars’ key creative partner for over 15 years, co-writing smash-hit singles and landmark albums along the way. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3bf4718dee6",
+          "title": "Coupe du monde 2026 : à quelle heure et sur quelle chaîne suivre la cérémonie d’ouverture ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2270237-coupe-du-monde-2026-a-quelle-heure-et-sur-quelle-chaine-suivre-la-ceremonie-douverture.html",
+          "category": "ia",
+          "published_at": "2026-06-11T16:18:45+00:00",
+          "summary": "Ça y est, la Coupe du monde 2026 lance les festivités ce jeudi à 21h avec sa cérémonie d'ouverture. De la cérémonie au match d'ouverture, en passant par la phase de poules, les matchs des Bleus et la finale : voici les horaires et les chaînes pour regarder en clair les matchs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12223aa40f3e",
+          "title": "Bonne nouvelle pour la Belgique, le Tesla FSD est officiellement approuvé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2274109-bonne-nouvelle-pour-la-belgique-le-tesla-fsd-est-officiellement-approuve.html",
+          "category": "ia",
+          "published_at": "2026-06-11T16:12:50+00:00",
+          "summary": "La Belgique a-t-elle vraiment approuvé le FSD de Tesla sur son territoire ? Alors que le constructeur n'a pas officialisé l'homologation, la ministre des Transports de Flandre a fait savoir à tout le monde qu'elle avait donné son accord.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e737ad6ca5a",
+          "title": "Fable va être un jeu très bavard avec un bon millier de personnes à qui parler",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2273997-fable-va-etre-un-jeu-tres-bavard-avec-un-bon-millier-de-personnes-a-qui-parler.html",
+          "category": "ia",
+          "published_at": "2026-06-11T16:10:50+00:00",
+          "summary": "Le reboot de Fable est bien parti pour relancer la série de la plus belle des manières. Playground Games a dévoilé un peu plus de gameplay ainsi que quelques informations sur le contenu du jeu, dont la quantité astronomique de lignes de dialogue enregistrées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc1e55755d6a",
+          "title": "☕️ Quasar, une mise à jour majeure pour GLF OS, Linux spécialisé dans le jeu vidéo",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/quasar-une-mise-a-jour-majeure-pour-glf-os-linux-specialise-dans-le-jeu-video/",
+          "category": "ia",
+          "published_at": "2026-06-11T15:52:00+00:00",
+          "summary": "GLF OS, la distribution Linux française spécialisée dans les jeux vidéo vient de recevoir une mise à jour majeure. Nommée Quasar, elle apporte des améliorations significatives sur bon nombre de points et se présente comme la version de la maturité. La nouvelle mouture est basée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a6dd330abf8",
+          "title": "Lexic launches legal mentorship programme for Indian independent acts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/11/lexic-launches-legal-mentorship-programme-for-indian-independent-acts/",
+          "category": "musique",
+          "published_at": "2026-06-11T15:35:14+00:00",
+          "summary": "Music lawyer Sandhya Surendran, who runs Lexic, is marking the tenth anniversary of her Bengaluru-based law firm with the launch of Lighthouse, an initiative through which four Indian or Indian-origin [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb11dae59280",
+          "title": "Les réseaux sociaux mis en cause dans la violence qui déferle en Irlande du Nord",
+          "source": "Next INpact",
+          "url": "https://next.ink/241933/les-reseaux-sociaux-mis-en-cause-dans-la-violence-qui-deferle-en-irlande-du-nord/",
+          "category": "ia",
+          "published_at": "2026-06-11T15:24:08+00:00",
+          "summary": "Alors que l’Irlande du Nord est secouée par des manifestations violentes, le gouvernement local, britannique, et le Commissaire de l’ONU aux droits de l’homme appellent les responsables de réseaux sociaux à lutter plus efficacement contre les discours de haine. Au Royaume-Uni,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9da683de0b0",
+          "title": "La fin de la 2G est déjà une réalité, mais il reste 2 millions de terminaux en circulation",
+          "source": "Next INpact",
+          "url": "https://next.ink/241634/la-fin-de-la-2g-est-deja-une-realite-mais-il-reste-2-millions-de-terminaux-en-circulation/",
+          "category": "ia",
+          "published_at": "2026-06-11T14:51:00+00:00",
+          "summary": "Alors que la 2G est déjà éteinte par Orange dans une dizaine de départements, il reste encore 2 millions de terminaux encore en service qui ne prennent en charge que la 2G. L’Arcep appelle à une accélération de la migration. En mars, Orange commençait les grands travaux de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2efa58dd2c1d",
+          "title": "Condamnation pour atteinte au droit à l’image d’un influenceur",
+          "source": "Légalis",
+          "url": "https://www.legalis.net/actualite/condamnation-pour-atteinte-au-droit-a-limage-dun-influenceur/",
+          "category": "justice",
+          "published_at": "2026-06-11T14:30:45+00:00",
+          "summary": "La société qui a rediffusé les vidéos de micro-trottoir d’un influenceur qui figurait sur ces images a été condamnée à lui verser 5 000 € de dommages-intérêts en réparation de l’atteinte à son droit à l’image et 2 000 € en application de l’article 700 du code de procédure…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2cca620b47f",
+          "title": "Après le Summer Game Fest, les licenciements reprennent dans l’industrie du jeu vidéo",
+          "source": "Next INpact",
+          "url": "https://next.ink/241914/apres-le-summer-game-fest-les-licenciements-reprennent-dans-lindustrie-du-jeu-video/",
+          "category": "ia",
+          "published_at": "2026-06-11T14:28:36+00:00",
+          "summary": "Le Summer Game Fest n&#8217;aura été qu&#8217;une parenthèse enchantée pour une industrie du jeu vidéo en crise permanente. Après avoir présenté leurs futurs titres durant des événements à forte teneur en paillettes ces derniers jours, les éditeurs s&#8217;apprêtent à vivre de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ff299611b6b",
+          "title": "LyricFind integrates video-creation tool into Indian distro service SwaLay",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/11/lyricfind-integrates-video-creation-tool-into-indian-distro-service-swalay/",
+          "category": "musique",
+          "published_at": "2026-06-11T13:30:09+00:00",
+          "summary": "In April, Canadian lyric licensing and data company LyricFind announced the launch of Artist Unlimited, a new subscription tier that allows users to create videos using Rotor. That’s the UK-based [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e5f0b0830cb",
+          "title": "Les menaces contre les politiques ont explosé après la limitation de la modération de Meta",
+          "source": "Next INpact",
+          "url": "https://next.ink/241901/les-menaces-contre-les-politiques-ont-explose-apres-la-limitation-de-la-moderation-de-meta/",
+          "category": "ia",
+          "published_at": "2026-06-11T13:25:04+00:00",
+          "summary": "Menaces violentes, discours de haine et harcèlement des représentants politiques états-uniens ont explosé à la suite du changement de politique de modération de Meta, démontre le Center for Countering Digital Hate. Le 7 janvier 2025, alors que Donald Trump revenait au pouvoir,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20a3cb6c9df5",
+          "title": "Judge gives Muvox 14 days to serve BMG with patent lawsuit – or the case gets dismissed",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-gives-muvox-14-days-to-serve-bmg-with-patent-lawsuit-or-the-case-gets-dismissed/",
+          "category": "musique",
+          "published_at": "2026-06-11T12:39:45+00:00",
+          "summary": "The lawsuit filed in 2024 centers on a patent titled 'Music streaming, playlist creation and streaming architecture.'\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6256edd18262",
+          "title": "Deezer debuts ‘AI music detector’ for playlists… on all DSPs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/11/deezer-debuts-ai-music-detector-for-playlists-on-all-dsps/",
+          "category": "musique",
+          "published_at": "2026-06-11T12:30:00+00:00",
+          "summary": "Deezer continues to lean in hard to its technology for detecting AI-generated music – and then generating headlines about its scale. The latest example being an ‘AI music detector’ for people’s playlists, even if they use rival streaming services. Pitched with the question “how…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "132b3a48027a",
+          "title": "Anthropic’s Claude FM is a 24-7 music stream on YouTube",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/11/anthropics-claude-fm-is-a-24-7-music-stream-on-youtube/",
+          "category": "musique",
+          "published_at": "2026-06-11T12:30:00+00:00",
+          "summary": "Thus far, AI giant Anthropic’s main interaction with the music industry has been a legal battle with publishers, who are suing it for copyright infringement of their lyrics. More positively, Anthropic has worked with streaming services Spotify and Melon to integrate them into…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17f857b8715f",
+          "title": "Francisco Partners exits its investment in Muse Group",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/11/francisco-partners-exits-its-investment-in-muse-group/",
+          "category": "musique",
+          "published_at": "2026-06-11T12:30:00+00:00",
+          "summary": "Muse Group is the parent firm of brands and companies including Ultimate Guitar, Hal Leonard, MuseScore and Audacity among others: a key company in the music-education and tech space. Its acquisition of Hal Leonard in December 2023 was backed by funding from private-equity firm…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e8104aabf07",
+          "title": "Played By Humans is verifying ‘human artistry in an AI age’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/11/played-by-humans-is-verifying-human-artistry-in-an-ai-age/",
+          "category": "musique",
+          "published_at": "2026-06-11T12:30:00+00:00",
+          "summary": "Label and live music company Jazz Is Dead is up to something interesting: and it’s all about trying to protect the human musicians who make jazz (and other genres) in the face of AI. It has launched an initiative called ‘Played By Humans’ that “verifies human artistry in an AI…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a063181a5652",
+          "title": "Vermillio launches SDK and pitches ‘AI-Guardrails-as-a-Service’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/11/vermillio-launches-sdk-and-pitches-ai-guardrails-as-a-service/",
+          "category": "musique",
+          "published_at": "2026-06-11T12:30:00+00:00",
+          "summary": "Vermillio is one of the startups focusing on likeness and IP protection for rightsholders, including those in the music industry.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8deba7bc563",
+          "title": "Google study explores how UK teens are using AI technologies",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/11/google-study-explores-how-uk-teens-are-using-ai-technologies/",
+          "category": "musique",
+          "published_at": "2026-06-11T12:30:00+00:00",
+          "summary": "Google’s latest piece of research involved asking teenagers in the UK how they’re using AI for learning and “creative pursuits” – including music. The topline stat: 67% of teens said they are using AI creatively daily or almost daily, while 65% are using it that often for…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "26a3c8e93543",
           "title": "Débris, radiations, Starlink : le parcours du combattant de la mission Artémis III",
