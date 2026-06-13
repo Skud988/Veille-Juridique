@@ -1,9 +1,414 @@
 {
-  "generated_at": "2026-06-12T11:52:59.103107+00:00",
+  "generated_at": "2026-06-13T10:38:54.988240+00:00",
   "days": [
+    {
+      "date": "2026-06-13",
+      "articles": [
+        {
+          "id": "76a4ff843a2b",
+          "title": "The Penguin n’aura pas de saison 2 et ce n’est pas la seule mauvaise nouvelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2275651-the-penguin-naura-pas-de-saison-2-et-ce-nest-pas-la-seule-mauvaise-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-06-13T10:14:47+00:00",
+          "summary": "HBO ne donnera pas suite à sa série sur le Pingouin. Selon un insider, la limited series restera ce qu'elle a toujours été officiellement : une œuvre unique. Colin Farrell a lui-même confirmé qu'il n'apparaîtra que dans deux scènes du prochain film de Matt Reeves.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b50fcc3ddd4",
+          "title": "[MàJ] Moteur de recherches de données personnelles : « Le recel de data volées est un crime »",
+          "source": "Next INpact",
+          "url": "https://next.ink/242195/le-business-douteux-et-dangereux-dun-moteur-de-recherche-de-donnees-personnelles-volees/",
+          "category": "ia",
+          "published_at": "2026-06-13T09:55:04+00:00",
+          "summary": "Trouver des informations personnelles, bancaires d’une personne aussi facilement que la recette de la tarte aux pommes ? C’est la « promesse » d’un site qui commercialise désormais vos données privées et bancaires, dont l’histoire mérite qu&#8217;on s’y attarde. Le gouvernement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17e5c0dc61d5",
+          "title": "Katy Perry, LISA, Anitta & More at 2026 World Cup USA Opening Ceremony: Best Moments From Inside L.A. Stadium",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/2026-world-cup-usa-opening-ceremony-best-moments-katy-perry/",
+          "category": "ia",
+          "published_at": "2026-06-13T09:29:17+00:00",
+          "summary": "Rema, Tyla, Future and Dan + Shay also performed ahead of the U.S. Men's National Team's opening win against Paraguay.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "411cc38121f5",
+          "title": "Ce concept Twingo veut œuvrer à améliorer votre ville, mais c’est autre chose qui m’a plu dedans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2275607-ce-concept-twingo-veut-oeuvrer-a-ameliorer-votre-ville-mais-cest-autre-chose-qui-ma-plu-dedans.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-13T09:11:49+00:00",
+          "summary": "Cette Twingo est l’outil rêvé de toutes les collectivités. Rien n’échappe aux capteurs installés sur ce véhicule&nbsp;: pollution, dégradations, problèmes de voirie… Mais au-delà de la mission, il y a des détails stylistiques qui nous plaisent dans ce démonstrateur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bac99c9c84a",
+          "title": "Les investisseurs n’ont pas eu froid aux yeux : quelle suite pour SpaceX après l’IPO du siècle ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/business/2275605-les-investisseurs-nont-pas-eu-froid-aux-yeux-quelle-suite-pour-spacex-apres-lipo-du-siecle.html",
+          "category": "ia",
+          "published_at": "2026-06-13T08:51:13+00:00",
+          "summary": "Vendredi 12 juin, SpaceX a réalisé la plus grande introduction en Bourse de l'histoire, 75 milliards de dollars levés, un bond de 19 % dès la première séance. Les marchés ont validé sans hésiter une entreprise qui perd des milliards et dont les actionnaires n'auront quasiment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f283a68403e",
+          "title": "« La ligne la plus regardée du monde n’est pas monétisée » : un développeur transforme le spinner de Claude Code en régie publicitaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275597-la-ligne-la-plus-regardee-du-monde-nest-pas-monetisee-un-developpeur-transforme-le-spinner-de-claude-code-en-regie-publicitaire.html",
+          "category": "ia",
+          "published_at": "2026-06-13T07:05:06+00:00",
+          "summary": "Un développeur a eu l'idée de vendre des espaces publicitaires dans le temps d'attente de Claude Code. En quelques heures, le projet est devenu viral, et les annonceurs ont suivi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da40cbc2ec02",
+          "title": "Coup de tonnerre : Anthropic désactive Claude Fable 5 et Mythos sur ordre de Washington",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2275575-coup-de-tonnerre-anthropic-desactive-fable-5-et-mythos-5-sur-ordre-de-washington.html",
+          "category": "ia",
+          "published_at": "2026-06-13T06:11:13+00:00",
+          "summary": "Le gouvernement américain a ordonné le 12 juin la désactivation immédiate de Fable 5 et Mythos 5, invoquant la sécurité nationale après la découverte d'un possible jailbreak. Anthropic se conforme à la directive tout en contestant publiquement sa légitimité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84d64662fb02",
+          "title": "Blink-182 Release 25th Anniversary Edition of ‘Take Off Your Pants and Jacket’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/blink-182-25th-anniversary-edition-take-off-your-pants-and-jacket-1236272321/",
+          "category": "musique",
+          "published_at": "2026-06-13T05:42:09+00:00",
+          "summary": "Take Off Your Pants and Jacket debuted at No. 1 on the Billboard 200 with more than 350,000 copies sold in its first week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b025281d5f0",
+          "title": "Amazon fait chuter l’alternative ultra-fine à l’AirTag Ugreen à moins de 20 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275021-amazon-fait-chuter-lalternative-ultra-fine-a-lairtag-dugreen-a-moins-de-20-e.html",
+          "category": "ia",
+          "published_at": "2026-06-13T04:31:00+00:00",
+          "summary": "[Deal du jour] Pour protéger votre portefeuille sans l'encombrer, ce traceur d'Ugreen se pose en alternative idéale à l'AirTag grâce à son format carte de crédit. Pratique et compatible avec le réseau Apple Find My, il profite actuellement d'une bonne réduction sur Amazon.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-12",
       "articles": [
+        {
+          "id": "268af357af73",
+          "title": "25 Songs That Inspired ‘The Vampire Lestat’ Soundtrack: Chappell Roan, David Bowie & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/vampire-lestat-soundtrack-playlist-daniel-hart/",
+          "category": "musique",
+          "published_at": "2026-06-12T23:23:22+00:00",
+          "summary": "Composer Daniel Hart shares a few musical inspirations behind the rollicking new season of AMC's cult horror show.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5b45b23c007",
+          "title": "Peso Pluma Reacts to Mexico’s World Cup Match Victory: ‘We Debuted On the Right Foot’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/peso-pluma-reacts-mexico-victory-world-cup-match-mexicans-1236272133/",
+          "category": "musique",
+          "published_at": "2026-06-12T23:05:51+00:00",
+          "summary": "The Mexican singer sat down with Billboard and shared his enthusiasm about the team's win.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa3259b2f08f",
+          "title": "In Canada: The Biggest Moments From Billboard Canada Power Players 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/billboard-canada-power-players-2026-recap-canada-music-news/",
+          "category": "musique",
+          "published_at": "2026-06-12T22:49:56+00:00",
+          "summary": "Also up north this week, a recap of Billboard Canada's Managers to Watch gala.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "897f73c5c648",
+          "title": "Going to Ariana Grande’s Eternal Sunshine Tour? Dress the Part With These Urban Outfitters Pieces",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/ariana-grande-concert-tour-merch-apparel-shop-online-1236270421/",
+          "category": "ia",
+          "published_at": "2026-06-12T21:35:32+00:00",
+          "summary": "Every T-shirt in this collection is $40 — here's how to shop online.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37a72ba56801",
+          "title": "Lil Baby’s Hemp Company Countersued Over Claims of Elevated THC Levels & E. Coli Contamination",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/lil-baby-hemp-countersued-thc-e-coli-contamination-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-06-12T21:25:27+00:00",
+          "summary": "After the breakdown of their joint venture, cannabis company Bay Smokes is claiming the rapper’s business breached a non-disparagement agreement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e406999ebae4",
+          "title": "SpaceX dévoile l’avenir proche du Starship, et va lancer sa fusée géante depuis un autre lieu très bientôt",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2274955-spacex-devoile-lavenir-proche-du-starship-et-va-lancer-sa-fusee-geante-depuis-un-autre-lieu-tres-bientot.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-12T16:53:08+00:00",
+          "summary": "La présidente de SpaceX, Gwynne Shotwell, vient de dessiner l'avenir à court terme du Starship. Au menu des trois prochains lancements : une session de rattrapage technique, un assaut orbital imminent et un exode surprise vers la Floride.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28ed28739678",
+          "title": "From UMG’s €1B bond sale to Warner Music’s Sureel AI acquisition… it’s MBW’s Weekly Round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-umgs-e1b-bond-sale-to-warner-musics-sureel-ai-acquisition-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-06-12T16:08:03+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5567fe772bcc",
+          "title": "Des drones ont tué des soldats sans validation humaine en Ukraine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275349-ca-y-est-des-drones-ont-tue-des-soldats-sans-validation-humaine-en-ukraine.html",
+          "category": "ia",
+          "published_at": "2026-06-12T15:59:42+00:00",
+          "summary": "Après les robots humanoïdes et les assauts automatisés, le front ukrainien franchit la ligne rouge de l’autonomie létale. Selon une enquête de New Scientist, des drones dopés à l'IA ont, pour la première fois, éliminé des soldats sans aucune validation humaine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb029aed5190",
+          "title": "Plus de 6 100 km/h : la France officialise le missile nucléaire hypersonique qui équipera le Rafale F5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274619-plus-de-6-100-km-h-la-france-officialise-le-missile-nucleaire-hypersonique-qui-equipera-le-rafale-f5.html",
+          "category": "ia",
+          "published_at": "2026-06-12T15:58:15+00:00",
+          "summary": "Un an après avoir été esquissé par Emmanuel Macron, le programme de missile nucléaire hypersonique ASN4G entre dans sa phase industrielle. La DGA a officiellement confié son développement à MBDA pour équiper le futur Rafale F5 d’ici à 2035, garantissant la crédibilité de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f9619536850",
+          "title": "L’Arcom déploie son arme anti-IPTV en temps réel pour la coupe du monde de football",
+          "source": "Next INpact",
+          "url": "https://next.ink/242110/larcom-deploie-son-arme-anti-iptv-en-temps-reel-pour-la-coupe-du-monde-de-football/",
+          "category": "institutionnel",
+          "published_at": "2026-06-12T15:11:42+00:00",
+          "summary": "La Coupe du monde est lancée, mais tous les supporters ne la regarderont peut-être pas dans les mêmes conditions. Pour les utilisateurs d’IPTV illégale, l’Arcom annonce une compétition rythmée par les coupures de flux, grâce à un dispositif inédit de blocage des adresses IP en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17ce22269f26",
+          "title": "Warped Tour founder Kevin Lyman on rewarding superfans, breaking artists, and the business of festivals",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warped-tour-founder-kevin-lyman-on-rewarding-superfans-breaking-artists-and-the-business-of-festivals/",
+          "category": "musique",
+          "published_at": "2026-06-12T15:00:40+00:00",
+          "summary": "Warped Tour founder Kevin Lyman on the festival's past and present, the state of live music, and the one thing he'd change about the music business.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4001c4aa09b0",
+          "title": "Les joueurs de Pokémon GO ont-ils entraîné une IA utilisée par l’armée américaine ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/242099/les-joueurs-de-pokemon-go-ont-ils-entraine-une-ia-utilisee-par-larmee-americaine/",
+          "category": "ia",
+          "published_at": "2026-06-12T14:18:12+00:00",
+          "summary": "Les joueurs de Pokémon Go ont-ils contribué à l&#8217;effort de guerre américain ? Les données collectées via l&#8217;application auraient en effet servi à entraîner un système de navigation désormais proposé à des acteurs du secteur militaire états-uniens. Niantic Spatial…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8f770ec2801",
+          "title": "Voici pourquoi vous ne devriez pas choisir une clinique esthétique avec une IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274105-voici-pourquoi-vous-ne-devriez-pas-choisir-une-clinique-esthetique-avec-une-ia.html",
+          "category": "ia",
+          "published_at": "2026-06-12T14:16:25+00:00",
+          "summary": "Une étude de l'Observatoire de la visibilité IA publiée en juin 2026 a passé au crible 6 438 sources citées par ChatGPT, Gemini, Claude et Perplexity pour recommander des cliniques esthétiques en France. Résultat : 97 % de ces sources ne sont pas indépendantes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3dbfa4311772",
+          "title": "South Korean prosecutors decline to charge HYBE executives over Min Hee-jin’s criminal complaints (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/south-korean-prosecutors-decline-to-charge-hybe-executives-over-min-hee-jins-criminal-complaints-report/",
+          "category": "ia",
+          "published_at": "2026-06-12T13:28:27+00:00",
+          "summary": "The complaints stemmed from a statement that HYBE issued in 2024, which alleged that Min had consulted a shaman on matters related to running ADOR.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6eba5d5f4af1",
+          "title": "L’Empire d’Elon Musk ciblé : l’Iran menace de frapper directement le réseau Starlink",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2274297-lempire-delon-musk-cible-liran-menace-de-frapper-directement-le-reseau-starlink.html",
+          "category": "ia",
+          "published_at": "2026-06-12T13:02:00+00:00",
+          "summary": "Face aux frappes américaines, Téhéran réplique sur le terrain de la cyber-guerre asymétrique. Accusé de complicité tactique avec le Pentagone et de briser la censure locale, le réseau satellitaire Starlink de SpaceX est désormais dans le viseur des Gardiens de la révolution.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd9b4b1ff164",
+          "title": "☕️ Le groupe de pirates Dumpsec a été démantelé, selon l’Office anti-cybercriminalité",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-groupe-de-pirates-dumpsec-a-ete-demantele-selon-loffice-anti-cybercriminalite/",
+          "category": "ia",
+          "published_at": "2026-06-12T13:00:58+00:00",
+          "summary": "L’Office anti-cybercriminalité (OFAC) a annoncé à l’AFP avoir procédé à l’interpellation de sept personnes dans le cadre d’une opération ayant mené au démantèlement du groupe Dumpsec, relaye Le Monde. Dumpsec s’est largement fait connaitre depuis l’année dernière pour son nombre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b8ee5aff925",
+          "title": "Disney vient concurrencer Netflix sur le terrain des animes avec un partenariat avec ADN",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274897-disney-vient-concurrencer-netflix-sur-le-terrain-des-animes-avec-un-partenariat-avec-adn.html",
+          "category": "ia",
+          "published_at": "2026-06-12T12:55:45+00:00",
+          "summary": "Les plateformes le savent : les animes sont la nouvelle mine d'or du streaming. Les unes après les autres, elles tentent de trouver les nouvelles séries à succès qui feront d'elles le nouvel eldorado du genre. C'est aujourd'hui Disney qui annonce se lancer dans la bataille.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b7823dfa8e0",
+          "title": "Apple TV fait entièrement confiance au phénomène Widow’s Bay et nous aussi",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2274969-apple-tv-fait-entierement-confiance-au-phenomene-widows-bay-et-nous-aussi.html",
+          "category": "ia",
+          "published_at": "2026-06-12T12:52:13+00:00",
+          "summary": "C’est le coup de cœur frisson de ce printemps 2026.&nbsp;Alors que le grand final de la première saison est attendu pour la semaine prochaine, Apple TV+ vient de court-circuiter tout le monde en officialisant le renouvellement précoce de&nbsp;Widow’s Bay&nbsp;pour une saison 2.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ba47f8ce527",
+          "title": "Coupe du monde 2026 : quel est ce drôle de dispositif sur la tête de l’arbitre ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274781-coupe-du-monde-2026-quel-est-ce-drole-de-dispositif-sur-la-tete-de-larbitre.html",
+          "category": "ia",
+          "published_at": "2026-06-12T12:45:20+00:00",
+          "summary": "L'étonnant boîtier accroché au-dessus de l'oreille de l'arbitre Wilton Sampaio, lors du match d'ouverture de la Coupe du monde 2026 ce jeudi 11 juin, n'était pas là par hasard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d81e8bfee4e",
+          "title": "L’un des meilleurs jeux du moment est offert avec la MSI Nvidia RTX 5060 Ti en promotion",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274757-amazon-fait-chuter-le-prix-de-la-msi-nvidia-rtx-5060-ti-et-offre-007-first-light-avec.html",
+          "category": "ia",
+          "published_at": "2026-06-12T12:41:41+00:00",
+          "summary": "[Deal du jour] Envie de mettre à jour votre configuration pour profiter des derniers jeux sans concession ? Actuellement, la carte graphique MSI Nvidia GeForce RTX 5060 Ti 8G Gaming Trio OC s'affiche à seulement 349 € au lieu de 505 € chez Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aaf97f8d6f43",
+          "title": "Napster parent firm’s $3bn investor is now facing fraud charges",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/napster-parent-firms-3bn-investor-is-now-facing-fraud-charges/",
+          "category": "ia",
+          "published_at": "2026-06-12T12:30:00+00:00",
+          "summary": "Last time we checked in on Napster, in November 2025, its parent company Infinite Reality was claiming to be a “victim of misconduct” relating to a $3bn funding round that had vanished. Now it has the authorities in its corner over that claim. A man named Charles Cole has been…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21d99f21da23",
+          "title": "Here’s looking at you, Def Jam… Label expands in Casablanca",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/heres-looking-at-you-def-jam-label-expands-in-casablanca/",
+          "category": "musique",
+          "published_at": "2026-06-12T12:30:00+00:00",
+          "summary": "Universal Music Group’s global expansion of its Def Jam label continues, following previous launches in South-East Asia, sub-Saharan Africa, India, Sweden and China. Where to next? Of all the markets, in all the towns, in all the world, it’s launched in Casablanca with Def Jam…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96bb8d693cc5",
+          "title": "Study claims Liverpool’s music economy is worth £780m a year",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/study-claims-liverpools-music-economy-is-worth-780m-a-year/",
+          "category": "musique",
+          "published_at": "2026-06-12T12:30:00+00:00",
+          "summary": "The UK city of Liverpool’s music heritage did not start with the Beatles. Its thriving port made it a gateway for American jazz, blues and R&amp;B as well as Irish folk music well before the Fab Four emerged. Now a report has been published that puts a number on the Liverpool…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e35cc366c1a",
+          "title": "Irish government may help festivals after ticket firm collapse",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/irish-government-may-help-festivals-after-ticket-firm-collapse/",
+          "category": "musique",
+          "published_at": "2026-06-12T12:30:00+00:00",
+          "summary": "Various music festivals in Ireland are hoping for the country’s government to step in after their ticketing partner ceased trading abruptly earlier this month. Tickets·ie’s website has been replaced by a short message explaining that the directors of its parent company, Oshi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c5dabddf790",
+          "title": "Indigo is the latest startup connecting artists and superfans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/indigo-is-the-latest-startup-connecting-artists-and-superfans/",
+          "category": "ia",
+          "published_at": "2026-06-12T12:30:00+00:00",
+          "summary": "There is no shortage of startups hoping to help artists connect with their keenest fans. The latest to join the throng is Indigo, whose co-founders include Demi Weitz, whose Quarantunes initiative raised nearly $40m during the pandemic. What is Indigo? A service to help artists…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "788cf72f79c8",
+          "title": "Francisco Partners exits its minority investment in Muse Group, owner of Audacity, Hal Leonard and Ultimate Guitar",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/francisco-partners-exits-its-minority-investment-in-muse-group-owner-of-audacity-hal-leonard-and-ultimate-guitar/",
+          "category": "ia",
+          "published_at": "2026-06-12T12:16:32+00:00",
+          "summary": "Muse Group remains majority owned and controlled by founder and CEO Eugeny Naidenov, alongside Mo Chahdi as Executive Chairman and COO.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "670d55523413",
+          "title": "Waymo se rapproche encore plus d’Uber en obligeant ses clients à payer pour avoir une course plus vite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2274605-waymo-se-rapproche-encore-plus-duber-en-obligeant-ses-clients-a-payer-pour-avoir-une-course-plus-vite.html",
+          "category": "ia",
+          "published_at": "2026-06-12T12:02:00+00:00",
+          "summary": "Waymo lance une offre de fidélité par abonnement à 30 dollars par mois. Destiné aux clients réguliers de San Francisco, Los Angeles et Phoenix, ce programme baptisé « Waymo Premier » propose des trajets prioritaires et du cashback sur les courses. Une stratégie qui vise à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a091540b148",
+          "title": "Key Production Group releases exclusive fan pack for physical music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/key-production-group-releases-exclusive-fan-pack-for-physical-music/",
+          "category": "musique",
+          "published_at": "2026-06-12T12:00:00+00:00",
+          "summary": "Physical music and packaging agency Key Productions has announced a new product they have dubbed ‘The Fancentric Pack ®’ – a storage solution for vinyl, CD and other physical formats for enthusiasts and collectors.  “A huge amount of thought and craftsmanship has gone into…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f3b0e39b98d",
+          "title": "Spotify releases latest Gen Z trend report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/spotify-releases-latest-gen-z-trend-report/",
+          "category": "musique",
+          "published_at": "2026-06-12T12:00:00+00:00",
+          "summary": "Spotify has just unveiled its new “Culture Next” report, highlighting Gen Z consumer behavior trends around music, culture and brand loyalty. Based on an analysis of first-party data, over 4.2m songs and 680k podcast episodes, the streaming platform found Gen Z is the most…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5d3cedb911d",
+          "title": "UK to proceed with under-16 social media bans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/12/uk-to-proceed-with-under-16-social-media-bans/",
+          "category": "ia",
+          "published_at": "2026-06-12T12:00:00+00:00",
+          "summary": "British PM Keir Starmer is set to announce a ban on social platforms for UK children under 16. This follows calls for action from grieving parents, who have sued TikTok in the US over their children’s social media-related deaths. A source at Downing Street reports the ban is…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "42e6d00fbaeb",
+          "title": "Le phénomène climatique El Niño a officiellement commencé : à quoi faut-il s’attendre ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2274347-le-phenomene-climatique-el-nino-a-officiellement-commence-a-quoi-faut-il-sattendre.html",
+          "category": "ia",
+          "published_at": "2026-06-12T11:57:40+00:00",
+          "summary": "L'Agence américaine d'observation océanique et atmosphérique (NOAA) l'a confirmé, El Niño est de retour. Le phénomène devrait même s'intensifier, selon les prévisions. Un épisode « très fort » est attendu.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "ee6108fd8e92",
           "title": "How ‘Superfandom’ is Reshaping Music Streaming’s Next Chapter",
