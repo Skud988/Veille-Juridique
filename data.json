@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-06-14T11:08:55.712644+00:00",
+  "generated_at": "2026-06-15T14:35:05.198953+00:00",
   "days": [
+    {
+      "date": "2026-06-15",
+      "articles": [
+        {
+          "id": "0d5aa3385da7",
+          "title": "Ce pack avec un iPhone 17, des AirPods Pro 3 et 4 AirTags tombe à 699 € dans quelques heures",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276373-ce-pack-avec-un-iphone-17-des-airpods-pro-3-et-4-airtags-tombe-a-699-e-dans-quelques-heures.html",
+          "category": "ia",
+          "published_at": "2026-06-15T14:33:54+00:00",
+          "summary": "[Deal du jour] Joybuy s'apprête à frapper un grand coup en proposant un pack Apple d'été inédit dès ce soir. Le lot regroupant l'iPhone 17 (256 Go Sage), les AirPods Pro 3 et quatre AirTags s'affiche à 699 € au lieu de 1 337 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b31d9053d31",
+          "title": "Colony : c’est quoi ce film de zombies qui fait un carton et qui détrône Spielberg ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2276255-colony-cest-quoi-ce-film-de-zombies-qui-fait-un-carton-et-qui-detrone-spielberg.html",
+          "category": "justice",
+          "published_at": "2026-06-15T14:23:05+00:00",
+          "summary": "Rien ne semble pouvoir arrêter la contagion au box-office sud-coréen.&nbsp;Le thriller d'action-horreur&nbsp;Colony, réalisé par le maître du genre Yeon Sang-ho, continue de dominer outrageusement les salles obscures. Lors du week-end du 12 au 14 juin 2026, le film a franchi le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12e582beb06e",
+          "title": "Comment un hacker a dérobé plus de 2 millions de dollars à un contrat zombie fermé depuis 3 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2276335-comment-un-hacker-a-derobe-plus-de-2-millions-de-dollars-a-un-contrat-zombie-ferme-depuis-3-ans.html",
+          "category": "ia",
+          "published_at": "2026-06-15T14:17:48+00:00",
+          "summary": "Aztec Connect, une plateforme de confidentialité sur Ethereum mise hors service en 2023, vient d'être vidée de ses fonds par un attaquant qui a exploité une faille dans sa logique de vérification cryptographique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7617d2c3c281",
+          "title": "French Tech 2026 : 93 % des start-ups passent par Google ou Microsoft pour leur emails",
+          "source": "Next INpact",
+          "url": "https://next.ink/242404/french-tech-2026-93-des-start-ups-passent-par-google-ou-microsoft-pour-leur-emails/",
+          "category": "ia",
+          "published_at": "2026-06-15T14:00:00+00:00",
+          "summary": "La fournée 2026 des lauréats de la French Tech Next40/120 est arrivée et elles sont encore plus de 9 start-ups sur 10 à passer par des emails de géants américains, selon un décompte de Next. Google est le maître incontesté des emails de la FrenchTech avec 68 % de parts de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "244829867865",
+          "title": "Olivia Rodrigo Crashes No Doubt’s Final Sphere Show in Las Vegas: ‘I Love You So Much!’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-crashes-stage-no-doubt-final-sphere-show-vegas-1236272794/",
+          "category": "musique",
+          "published_at": "2026-06-15T13:12:42+00:00",
+          "summary": "The singer held up a sign in the audience asking for a hug from singer Gwen Stefani just one day after releasing her third album, You Seem Pretty Sad for a Girl So in Love.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "340dc8a5225d",
+          "title": "Londres multiplie les interdictions pour les moins de 16 ans : réseaux sociaux, jeux vidéo…",
+          "source": "Next INpact",
+          "url": "https://next.ink/242430/londres-multiplie-les-interdictions-pour-les-moins-de-16-ans-reseaux-sociaux-jeux-video/",
+          "category": "ia",
+          "published_at": "2026-06-15T13:06:22+00:00",
+          "summary": "«&#160;Redonner leur enfance aux enfants », c&#8217;est le nouveau credo de Keir Starmer, le Premier ministre britannique. Ce dernier a annoncé ce lundi 15 juin la mise en place d&#8217;une interdiction des réseaux sociaux aux moins de 16 ans, en y ajoutant des restrictions sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca64eb556913",
+          "title": "Spotify’s editors to make video cameos in ‘New Music Friday’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/15/spotifys-editors-to-make-video-cameos-in-new-music-friday/",
+          "category": "musique",
+          "published_at": "2026-06-15T13:00:00+00:00",
+          "summary": "Spotify’s flagship playlist is getting more of a human touch, albeit only in the US for now. Its team of editors will now be appearing in videos within ‘New Music Friday’ to talk about some of each week’s tracks. This isn’t a new idea for Spotify – these video cameos began last…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a463aa08674",
+          "title": "YouTube launches ‘Music Nights’ series of exclusive concerts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/15/youtube-launches-music-nights-series-of-exclusive-concerts/",
+          "category": "musique",
+          "published_at": "2026-06-15T13:00:00+00:00",
+          "summary": "Spotify and YouTube Music have been competing increasingly fiercely in the podcasts space. Now exclusive live-music concerts are emerging as another key facet of their rivalry. We reported recently on Spotify’s Le Sserafim concert film and rumours that it is approaching music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1c42a92ade2",
+          "title": "Prime Day : les offres en avant-première sont déjà là, on fait le tri en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275849-prime-day-les-offres-en-avant-premiere-sont-deja-nombreuses-on-fait-le-tri-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-06-15T12:56:23+00:00",
+          "summary": "Les Prime Day ont lieu officiellement la semaine prochaine, mais Amazon n’a pas attendu le coup d’envoi pour dégainer ses premières offres. On fouille en direct dans son grand catalogue pour vous recommander les meilleures promotions en avant-première.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06a9b32598a5",
+          "title": "C’est quoi Le Chaton Fat, le « modèle » de Mistral AI qui affole les réseaux sociaux ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276253-cest-quoi-le-chaton-fat-le-modele-de-mistral-ai-qui-affole-les-reseaux-sociaux.html",
+          "category": "ia",
+          "published_at": "2026-06-15T12:48:10+00:00",
+          "summary": "Sur X (anciennement Twitter), « Le Chaton Fat » est un des sujets les plus discutés du week-end, en France et à l'international. Ce prétendu nouveau modèle surpuissant de Mistral AI, meilleur que Claude Mythos dans les premiers benchmarks, est en réalité une blague. Certains…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33ebf1e3f851",
+          "title": "Ariana Grande foundation supports LGBTQ+ rights and mental health",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/15/ariana-grande-foundation-supports-lgbtq-rights-and-mental-health/",
+          "category": "ia",
+          "published_at": "2026-06-15T12:45:00+00:00",
+          "summary": "Ariana Grande has launched a new charitable endeavour. The Brighter Days Ahead Foundation will include four separate funds focused on organisations “that provide the safe space and care that is desperately needed by so many right now”. The emphasis is on trans and LGBTQ+ rights…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbe31416f590",
+          "title": "Warner Music China gets into virtual artists with Dream Maker",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/15/warner-music-china-gets-into-virtual-artists-with-dream-maker/",
+          "category": "musique",
+          "published_at": "2026-06-15T12:45:00+00:00",
+          "summary": "We’ve covered various announcements by major labels about new imprints and partnerships in China focused on traditional artists. However, Warner Music China’s latest deal has a twist. It’s a strategic partnership with a company called Dream Maker whose focus is on virtual…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "caaacac04dff",
+          "title": "The Weeknd has sold 3m tickets and grossed $440m in 2026 so far",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/15/the-weeknd-has-sold-3m-tickets-and-grossed-440m-in-2026-so-far/",
+          "category": "musique",
+          "published_at": "2026-06-15T12:30:00+00:00",
+          "summary": "Y’know someone who’s not suffering from ‘blue dot fever’ this year? The Weeknd. That’s according to Live Nation, which published some stats to celebrate the start of the latest leg of his ‘After Hours Til Dawn Stadium Tour’. According to the company, the tour has sold more than…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab244e9977ee",
+          "title": "‘Michael’ becomes highest-grossing music biopic in history – overtaking ‘Bohemian Rhapsody’ with $911M+ at global box office",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/michael-jackson-biopic-becomes-highest-grossing-music-biopic-in-history-overtaking-bohemian-rhapsody-with-911m-at-global-box-office/",
+          "category": "musique",
+          "published_at": "2026-06-15T12:21:58+00:00",
+          "summary": "Total comprises $358.6M domestically and $553.3M from international markets\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f0b916cd76d",
+          "title": "Jaecoo sort une version électrique de son nouveau SUV pas cher, mais ne vous faites pas avoir par le prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2276041-jaecoo-sort-une-version-electrique-de-son-nouveau-suv-pas-cher-mais-ne-vous-faites-pas-avoir-par-le-prix.html",
+          "category": "ia",
+          "published_at": "2026-06-15T12:01:00+00:00",
+          "summary": "Le Jaecoo 5 100 % électrique arrive en France à partir de 32 490 €, dans une seule finition généreusement équipée. Mais entre l'absence probable de bonus écologique et une fiche technique loin d'être fabuleuse, le tarif affiché ne dit pas tout.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f263aef99f62",
+          "title": "Revoir le webinaire - Pixels de suivi dans les courriels : présentation des recommandations de la CNIL",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-recommandations-cnil",
+          "category": "ia",
+          "published_at": "2026-06-15T12:00:00+00:00",
+          "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ffe6e8dd08d",
+          "title": "Baccalauréat : ce que l’IA chamboule… ou pas",
+          "source": "Next INpact",
+          "url": "https://next.ink/242372/baccalaureat-ce-que-lia-chamboule-ou-pas/",
+          "category": "ia",
+          "published_at": "2026-06-15T11:37:00+00:00",
+          "summary": "Alors que les épreuves de baccalauréat des filières générales commencent ce lundi, Next explore les enjeux que soulève le déploiement de l’intelligence artificielle autour des examens. «&#160;La technique peut-elle être mauvaise ?&#160;» Tel est l’un des sujets de dissertation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9283fda889c5",
+          "title": "Jamais il n’avait volé aussi vite : le X-59 casse ses records de vitesse supersonique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2276083-jamais-il-navait-vole-aussi-vite-le-x-59-casse-ses-records-de-vitesse-supersonique.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-15T11:31:00+00:00",
+          "summary": "Quelques jours seulement après avoir passé le mur du son, l’avion expérimental X-59 de la Nasa passe à la vitesse supérieure. En atteignant Mach 1,4 le 12 juin 2026, l’appareil vient de valider les conditions de vol réelles de sa future mission : prouver qu’un vol supersonique…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bcb6471d1ba",
+          "title": "Hello, is it Lionel Richie’s vocal trademarks you’re looking for?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/15/hello-is-it-lionel-richies-vocal-trademarks-youre-looking-for/",
+          "category": "ia",
+          "published_at": "2026-06-15T11:30:00+00:00",
+          "summary": "Richie has become the latest artist to file trademark applications focused on his voice, in an effort to protect himself from unauthorised exploitation by AI cloning.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8565e8271e94",
+          "title": "Lionel Richie files to trademark the sound of his voice, following Taylor Swift amid AI deepfake crackdown",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/lionel-richie-files-to-trademark-the-sound-of-his-voice-following-taylor-swift-amid-ai-deepfake-crackdown/",
+          "category": "ia",
+          "published_at": "2026-06-15T11:26:13+00:00",
+          "summary": "The four-time Grammy winner filed four applications, each covering audio of him saying a phrase drawn from his songs.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a82a124ecdb4",
+          "title": "UK government confirms plans to ban social media for under-16s",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/15/uk-government-confirms-plans-to-ban-social-media-for-under-16s/",
+          "category": "ia",
+          "published_at": "2026-06-15T11:24:40+00:00",
+          "summary": "The social-media bans for children are catching. The UK government has this morning confirmed its widely-leaked plans to follow Australia’s lead in banning social media for under-16s. Which social media? “User-to-user platforms, whose purpose is to enable social interaction and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f64890581fe",
+          "title": "Il y a une guerre qui fait rage entre les Miis de Nintendo et leurs ennemis jurés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2275893-il-y-a-une-guerre-qui-fait-rage-entre-les-miis-de-nintendo-et-leurs-ennemis-jures.html",
+          "category": "ia",
+          "published_at": "2026-06-15T11:02:00+00:00",
+          "summary": "C'est lors du Nintendo Direct du 9 juin 2026 2026 que l'éditeur a annoncé Wii Sports Resort, qui signe le retour de la franchise culte du party game. Problème, les Sportsmates sont de retour&nbsp;et volent la vedette aux Miis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d13e382b8ea",
+          "title": "Amy Mackie appointed Managing Director, Ticketing at TEG",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/amy-mackie-appointed-managing-director-ticketing-at-teg/",
+          "category": "ia",
+          "published_at": "2026-06-15T10:50:51+00:00",
+          "summary": "Amy Mackie will oversee ticketing strategy and operations across Australia, New Zealand, Asia and the UK.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "443304cc4e99",
+          "title": "The Weeknd’s After Hours Til Dawn tour has grossed more than $440M in 2026 alone – on over 3M tickets sold",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-weeknds-after-hours-til-dawn-tour-has-grossed-more-than-440m-in-2026-alone-on-over-3m-tickets-sold/",
+          "category": "musique",
+          "published_at": "2026-06-15T10:40:38+00:00",
+          "summary": "The stadium tour has sold over 3 million tickets this year alone, making it the highest-grossing tour by a male solo artist, according to Live Nation\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca8c8b075d7b",
+          "title": "Aqara : dix vulnérabilités CVE exposaient serrures, caméras et capteurs connectés",
+          "source": "Next INpact",
+          "url": "https://next.ink/242356/aqara-dix-vulnerabilites-cve-exposaient-serrures-cameras-et-capteurs-connectes/",
+          "category": "ia",
+          "published_at": "2026-06-15T10:32:43+00:00",
+          "summary": "Aqara, fabricant d&#8217;appareils connectés populaires dans l&#8217;univers HomeKit, a récemment corrigé la bagatelle de 26 défaillances de sécurité détectées principalement au niveau de la plateforme cloud qui sous-tend ses services. Dix des failles découvertes ont donné lieu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76d2ff7eee31",
+          "title": "Ce faux chatbot « anti-IA slop » envoie vos prompts à d’autres humains",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276163-ce-faux-chatbot-anti-ia-slop-envoie-vos-prompts-a-dautres-humains.html",
+          "category": "ia",
+          "published_at": "2026-06-15T10:32:32+00:00",
+          "summary": "Un site parodique fait croire qu’on parle à une IA. En réalité, c’est un inconnu qui tape la réponse à toute vitesse. On l'a essayé, c'est très drôle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8433a451ade4",
+          "title": "Gladiator 2 : Maximus en personne atomise complètement la suite du film culte",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2275921-gladiator-2-maximus-en-personne-atomise-completement-la-suite-du-film-culte.html",
+          "category": "ia",
+          "published_at": "2026-06-15T10:30:00+00:00",
+          "summary": "L'interprète légendaire de Maximus ne mâche pas ses mots.&nbsp;Invité d'honneur du Festival du Film de Taormine, Russell Crowe est revenu sur la sortie de&nbsp;Gladiator 2. Sans langue de bois, l'acteur oscarisé a qualifié la suite de Ridley Scott de « fiasco », affirmant que le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2778d75afb42",
+          "title": "Le patron de Microsoft livre sa vision de l’entreprise et de la société à l’ère de l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275943-le-patron-de-microsoft-livre-sa-vision-de-lentreprise-et-de-la-societe-a-lere-de-lia.html",
+          "category": "ia",
+          "published_at": "2026-06-15T09:50:03+00:00",
+          "summary": "Le patron de Microsoft a publié un long texte sur l’avenir des entreprises à l’ère de l’IA. Son idée principale : les sociétés qui se contentent de louer un modèle vont se faire dévorer par celles qui savent créer une boucle entre le modèle et l'humain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58dbd1088f30",
+          "title": "100 000 000 fois plus brillant que le Soleil : ce laser booste les microscopes pour voir le cœur des cellules",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2275981-100-000-000-fois-plus-brillant-que-le-soleil-ce-laser-booste-les-microscopes-pour-voir-le-coeur-des-cellules.html",
+          "category": "ia",
+          "published_at": "2026-06-15T09:45:35+00:00",
+          "summary": "Une technologie utilisant un laser extrêmement puissant a fait de grandes avancées pour enfin voir les constituants d'une cellule, quasiment jusqu'au niveau atomique. Une forme de microscopie qui pourrait être décisive pour le domaine médical.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86b936fdc7b3",
+          "title": "KEY SONGS IN THE LIFE OF… Carletta Higginson",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/key-songs-in-the-life-of-carletta-higginson/",
+          "category": "musique",
+          "published_at": "2026-06-15T09:35:52+00:00",
+          "summary": "Warner Music’s Chief Digital Officer rifles through the record collection of her life to pick the songs that have soundtracked her journey so far…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f8ccfa30434",
+          "title": "Comment regarder la Coupe du monde 2026 en 4K (et pourquoi c’est compliqué en France) ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275891-comment-regarder-la-coupe-du-monde-2026-en-4k-et-pourquoi-cest-complique-en-france.html",
+          "category": "ia",
+          "published_at": "2026-06-15T09:20:03+00:00",
+          "summary": "Après un Mondial 2018 et un Mondial 2022 entièrement diffusés en 4K HDR, les diffuseurs français font le choix controversé de revenir au Full HD SDR (beIN Sports) et à la 4K SDR (M6) pour la Coupe du monde 2026. Accéder à la chaîne n'a jamais été aussi facile (en dehors de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "26ed514a9646",
+          "title": "Rivian va lancer son propre FSD à la fin de l’année et promet de rattraper Tesla",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2275873-rivian-va-lancer-son-propre-fsd-a-la-fin-de-lannee-et-promet-de-rattraper-tesla.html",
+          "category": "ia",
+          "published_at": "2026-06-15T09:15:00+00:00",
+          "summary": "Le PDG de Rivian, RJ Scaringe, a annoncé le déploiement imminent d'un système de conduite autonome supervisée point à point d'ici la fin de l'année 2026. Ce système comparable au Full Self-Driving (FSD) de Tesla équipera les modèles de deuxième génération ainsi que le nouveau…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98959b0a6c16",
+          "title": "Vous pouvez désormais piloter un avion directement dans Google Earth",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275875-vous-pouvez-desormais-piloter-un-avion-directement-dans-google-earth.html",
+          "category": "ia",
+          "published_at": "2026-06-15T09:10:56+00:00",
+          "summary": "Le 12 juin 2026, Google Earth a rendu accessible sur le web son simulateur de vol, longtemps réservé aux utilisateurs de la version desktop. Si l’outil ne transforme pas le navigateur en cockpit réaliste, il offre une façon amusante de survoler la planète depuis les images 3D du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a40240d21753",
+          "title": "Ce jeu d’horreur  phénomène arrive enfin au cinéma avec une bonne nouvelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2275857-le-jeu-dhorreur-phenomene-dead-by-daylight-arrive-enfin-au-cinema-avec-une-bonne-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-06-15T09:10:00+00:00",
+          "summary": "Dix ans après sa sortie, le jeu d'horreur phénomène s'apprête enfin à envahir les salles obscures. À l'occasion du dixième anniversaire de la franchise, Blumhouse, Atomic Monster et Behaviour Interactive ont officialisé le lancement de l'adaptation cinématographique de Dead by…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e2247b5909f",
+          "title": "La fusée Ariane 6 pour transporter des astronautes ? « Il y a de bonnes chances que cela puisse se concrétiser »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2275885-la-fusee-ariane-6-pour-transporter-des-astronautes-il-y-a-de-bonnes-chances-que-cela-puisse-se-concretiser.html",
+          "category": "ia",
+          "published_at": "2026-06-15T08:55:54+00:00",
+          "summary": "Face aux revirements brutaux des Américains et à la rupture avec les Russes, le patron de l'ESA confirme que l'agence étudie très sérieusement l'adaptation d'Ariane 6 pour le vol habité. Un sursaut d’indépendance crucial, qu'il faudra confirmer avec les choix politiques et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40dfbde104f3",
+          "title": "Élections municipales 2026 : des ingérences numériques pro-russes, anti-LFI et putaclics",
+          "source": "Next INpact",
+          "url": "https://next.ink/242089/elections-municipales-2026-des-ingerences-numeriques-pro-russes-anti-lfi-et-putaclics/",
+          "category": "ia",
+          "published_at": "2026-06-15T07:45:00+00:00",
+          "summary": "Les dernières élections municipales ont fait l&#8217;objet de quatre ingérences numériques étrangères. Si leurs portées sont restées « très limitées », elles révèlent de nouveaux modus operandi. VIGINUM offre par ailleurs un satisfecit à Google, Meta et Microsoft, qui ont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60aba4755f28",
+          "title": "Arrêt de Claude Fable 5 et Mythos : l’ombre de la Chine derrière le coup de pression de Washington",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275811-arret-de-claude-fable-5-et-mythos-lombre-de-la-chine-derriere-le-coup-de-pression-de-washington.html",
+          "category": "justice",
+          "published_at": "2026-06-15T07:30:29+00:00",
+          "summary": "Derrière le blocage soudain de Claude Fable 5 par Washington se cachent des révélations explosives. Entre soupçons d’espionnage chinois, alerte secrète lancée par le PDG d'Amazon et failles de sécurité à répétition, les coulisses de l'affaire ébranlent la crédibilité d'Anthropic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52789d0c0e8c",
+          "title": "Le créateur d’Elden Ring pourrait bien perdre son indépendance créative",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2275809-le-createur-delden-ring-desire-conserver-son-independance-creative-malgre-les-pressions.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-15T07:08:12+00:00",
+          "summary": "Alors que Kadokawa, la maison mère de FromSoftware, fait face à la pression du fonds d'investissement activiste Oasis Management, le président du studio, Hidetaka Miyazaki, a tenu à rappeler ce qui compte le plus à ses yeux : préserver la liberté créative de son studio.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d52ebd423f8f",
+          "title": "La Fable, le Mythos et la raison d’État",
+          "source": "Next INpact",
+          "url": "https://next.ink/235941/la-fable-le-mythos-et-la-raison-detat/",
+          "category": "ia",
+          "published_at": "2026-06-15T06:50:26+00:00",
+          "summary": "Au-delà du remous interne, la dernière action du gouvernement de Donald Trump – bloquer Fable 5 et Mythos&#160;5 d&#8217;Anthropic – a de larges répercussions internationales. En Europe et en France, les réactions vont toutes dans le même sens : les enjeux de souveraineté, face…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "657459e26827",
+          "title": "☕️ KPMG retire un rapport chantant les louanges de l’IA après la découverte d’hallucinations",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/kpmg-retire-un-rapport-chantant-les-louanges-de-lia-apres-la-decouverte-dhallucinations/",
+          "category": "institutionnel",
+          "published_at": "2026-06-15T06:33:23+00:00",
+          "summary": "Quoi de mieux pour chanter les louanges de l&#8217;IA qu&#8217;un rapport truffé d&#8217;hallucinations rédigé par une IA ? KPMG a dû retirer une étude sur l&#8217;IA agentique après la découverte de plusieurs cas d&#8217;usage apparemment inventés. Oups. Tout ce que raconte…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3169df7f53a3",
+          "title": "Fans Choose BTS’ ‘Come Over’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bts-come-over-best-new-music-poll-results-1236272754/",
+          "category": "musique",
+          "published_at": "2026-06-15T02:08:09+00:00",
+          "summary": "The new-to-streamers tune from BTS brought in more than 86% of the vote in Friday's poll.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-14",
       "articles": [
+        {
+          "id": "ae51639ad070",
+          "title": "New Madonna Song ‘Bizarre’ Debuts at Martin Garrix Show in Brooklyn",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madonna-bizarre-martin-garrix-premiere-brooklyn-concert-1236272708/",
+          "category": "musique",
+          "published_at": "2026-06-14T23:38:59+00:00",
+          "summary": "\"Bizarre\" will be featured on the pop icon's Confessions II album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22f6168b884e",
+          "title": "Taylor Swift, Travis Kelce Make an Appearance at Broadway Comedy ‘Oh, Mary!’ Starring Maya Rudolph",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/events/taylor-swift-travis-kelce-oh-mary-broadway-photos-1236272666/",
+          "category": "ia",
+          "published_at": "2026-06-14T22:07:23+00:00",
+          "summary": "The pair posed for photos with the show's cast while taking in a matinee performance at New York City's Lyceum Theatre on Saturday (June 13).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b317b64957d",
+          "title": "From Jalen Brunson to Hello Kitty, Score These Official New York Knicks Championship Bobbleheads Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/find-new-york-knicks-brunson-bobblehead-doll-merch-buy-online-1236272643/",
+          "category": "ia",
+          "published_at": "2026-06-14T21:55:15+00:00",
+          "summary": "The limited-edition collectibles are selling out quickly on the heels of the Knicks' historic NBA title win",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18d0ba38bf9b",
+          "title": "‘Michael’ Tops ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+          "category": "musique",
+          "published_at": "2026-06-14T20:58:12+00:00",
+          "summary": "The films on this list cover a wide range of genres, including rap, classical, country, Latin and contemporary Christian.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89b9514a3a1c",
+          "title": "Cardi B, Fat Joe, J.Lo & More Musicians React to New York Knicks’ NBA Championship Win",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/knicks-nba-championship-musicians-react-cardi-b-fat-joe-1236272663/",
+          "category": "musique",
+          "published_at": "2026-06-14T20:25:05+00:00",
+          "summary": "Music stars flooded social media with celebrations after the Knicks captured their first NBA title since 1973.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52ec0224ea27",
+          "title": "Ne loupez pas la fin de l’éclipse solaire du 12 août 2026 en France, ou vous pourriez le regretter",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2275173-ne-loupez-pas-la-fin-de-leclipse-solaire-du-12-aout-2026-en-france-ou-vous-pourriez-le-regretter.html",
+          "category": "ia",
+          "published_at": "2026-06-14T19:20:00+00:00",
+          "summary": "Les Français se préparent à admirer l'éclipse solaire du 12 août 2026. Le jour J, il ne faudra pas commettre une erreur qui pourrait vous empêcher d'apprécier pleinement le spectacle. Surtout, regardez bien l'éclipse de Soleil jusqu'au bout (et n'oubliez pas vos lunettes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2fc286f60aa2",
+          "title": "Ariane 6 : un tir historique et un record de puissance en ligne de mire pour l’Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2275539-ariane-6-un-tir-historique-et-un-record-de-puissance-en-ligne-de-mire-pour-leurope.html",
+          "category": "ia",
+          "published_at": "2026-06-14T13:32:00+00:00",
+          "summary": "Moins de deux mois après sa dernière réussite, Ariane 6 s’apprête à reprendre les airs le mercredi 17 juin 2026 pour la mission VA269. Boostée par ses nouveaux propulseurs P160C, la version lourde du lanceur européen tentera de déployer une grappe record de 36 satellites pour la…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "968f0c017909",
           "title": "Coupe du monde 2026 : le programme TV des matchs des Bleus et de la phase de groupes",
