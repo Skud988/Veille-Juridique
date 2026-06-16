@@ -1,9 +1,484 @@
 {
-  "generated_at": "2026-06-15T14:35:05.198953+00:00",
+  "generated_at": "2026-06-16T13:03:54.545979+00:00",
   "days": [
+    {
+      "date": "2026-06-16",
+      "articles": [
+        {
+          "id": "b84e985d4327",
+          "title": "Shane Tarleton Named Co-Head of Leo33",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/shane-tarleton-co-head-leo33-label-zach-top/",
+          "category": "musique",
+          "published_at": "2026-06-16T13:00:00+00:00",
+          "summary": "The industry vet will run the Nashville label with Katie Dean.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d854dbad86fe",
+          "title": "The darkest side of OnlyFans turns out to be its ‘OFMs’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/16/the-darkest-side-of-onlyfans-turns-out-to-be-its-ofms/",
+          "category": "musique",
+          "published_at": "2026-06-16T12:40:00+00:00",
+          "summary": "Kate Nash and Lily Allen’s feet aside, there haven’t been that many musicians turning to OnlyFans for an extra source of revenues in recent times. A BBC investigation published this week may well strengthen that trend. It focuses on the ‘agents’ (or OnlyFans Managers – OFMs)…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9315ed0db2dc",
+          "title": "Molotov lance son mode Multi View, mais tout le monde n’y aura pas droit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2276813-molotov-lance-son-mode-multi-view-mais-tout-le-monde-ny-aura-pas-droit.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-16T12:35:35+00:00",
+          "summary": "Molotov permet désormais d’afficher jusqu’à quatre chaînes en simultané sur un même écran, a annoncé son directeur général Grégory Samak sur X le 16 juin 2026. La fonction est uniquement disponible sur Apple TV.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a6211963eca",
+          "title": "Cash Money and No Limit Records Announce Joint U.S. Arena Tour Featuring Birdman, Juvenile, Mannie Fresh, Master P & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/cash-money-no-limit-records-joint-us-fall-arena-tour-dates-1236273911/",
+          "category": "musique",
+          "published_at": "2026-06-16T12:35:18+00:00",
+          "summary": "The 17-date tour uniting the New Orleans hip-hop labels is slated to kick off on Sept. 11 in Houston.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f3662ee03e0",
+          "title": "Sua Música hails 5m first-week streams for Ronaldinho’s Tu Música label",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/16/sua-musica-hails-5m-first-week-streams-for-ronaldinhos-tu-musica-label/",
+          "category": "musique",
+          "published_at": "2026-06-16T12:35:00+00:00",
+          "summary": "Here’s a pop-quiz question to store in your memory banks: how many listeners does retired Brazilian football star Ronaldinho have on Spotify? The answer, right now, is 2.4 million. This is thanks to the recent launch of his Tu Música label, a partnership with Brazilian streaming…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "713c0348e972",
+          "title": "Qobuz revenues grew 45.7% in 2025 as it reached 1.2m users",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/16/qobuz-revenues-grew-45-7-in-2025-as-it-reached-1-2m-users/",
+          "category": "justice",
+          "published_at": "2026-06-16T12:32:00+00:00",
+          "summary": "Streaming service Qobuz has regularly been in the press noting its growth, but this morning it has actually published some figures to quantify that. The French company says that its revenues grew by 45.7% in 2025; that it now has 1.2 million monthly active users; and that its…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea2fdcfb2068",
+          "title": "Obligation de contrôle d’âge et sites porno : la CJUE valide les mises en demeure, mais pas plus",
+          "source": "Next INpact",
+          "url": "https://next.ink/242548/obligation-de-controle-dage-et-sites-porno-la-cjue-valide-les-mises-en-demeure-mais-pas-plus/",
+          "category": "justice",
+          "published_at": "2026-06-16T12:30:27+00:00",
+          "summary": "Dans un arrêt le mardi 16 juin, la Cour de justice de l&#8217;Union européenne a estimé que la France pouvait bien, au regard du droit communautaire, obliger des sociétés basées dans un État membre à mettre en place une vérification d&#8217;âge. Elle considère cependant que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2bdbfa851f7",
+          "title": "The Atlantic uncovers ‘millions’ of songs used for AI training",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/16/the-atlantic-uncovers-millions-of-songs-used-for-ai-training/",
+          "category": "ia",
+          "published_at": "2026-06-16T12:30:00+00:00",
+          "summary": "It’s very clear that some AI-music services have trained their models on huge datasets of commercial music. But which songs exactly? That’s the question at the heart of lawsuits against Suno and Udio, and it’s also the subject of a fascinating investigation by The Atlantic’s ‘AI…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5efa5a751ff",
+          "title": "UK report highlights post-Brexit problems touring in the EU",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/16/uk-report-highlights-post-brexit-problems-touring-in-the-eu/",
+          "category": "ia",
+          "published_at": "2026-06-16T12:30:00+00:00",
+          "summary": "The UK Parliament’s Culture, Media and Sport (CMS) committee certainly has its dander up when it comes to urging changes in the music industry. Its latest report focuses on the barriers British artists face when touring Europe. Yes, this is a post-Brexit thing. The report runs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3be6b1c417f9",
+          "title": "« L’épisode le plus fou jamais produit » : on a vu le début de House of the Dragon saison 3",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2276263-lepisode-le-plus-fou-jamais-produit-on-a-vu-le-debut-de-house-of-the-dragon-saison-3.html",
+          "category": "ia",
+          "published_at": "2026-06-16T12:02:52+00:00",
+          "summary": "Nous avons pu voir en avant-première les 4 premiers épisodes de la saison 3 de House of the Dragon. Après une saison 2 de préparation, la Danse des Dragons s'ouvre sur un chaos spectaculaire, avant de laisser place à une tension psychologique étouffante. Notre avis sur ce début,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a55f8e31ace",
+          "title": "Hugh Jackman va incarner le pirate le plus célèbre pour Ridley Scott",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2277039-ile-tresor-ridlet-scott-hugh-jackman.html",
+          "category": "ia",
+          "published_at": "2026-06-16T11:40:00+00:00",
+          "summary": "Le réalisateur de&nbsp;Gladiator&nbsp;s'attaque aux pirates.&nbsp;Ridley Scott s'associe à Hugh Jackman pour offrir une toute nouvelle relecture du chef-d'œuvre littéraire de Robert Louis Stevenson,&nbsp;L'Île au trésor. L'ancien interprète de Wolverine prêtera ses traits au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "114cbec5e95e",
+          "title": "Startup Artist Included uses AI to rework Culture Club classic",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/16/startup-artist-included-uses-ai-to-rework-culture-club-classic/",
+          "category": "musique",
+          "published_at": "2026-06-16T11:30:00+00:00",
+          "summary": "Boy George, it turns out, IS a man with conviction&#8230; that AI can help artists rather than pose an existential threat to their livelihoods. He’s working with a new startup called Artist Included to prove it. In this case, the AI is being put to use to enable musicians to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6323cac6c72e",
+          "title": "« Ils s’en moquaient » : l’incroyable bras de fer entre la NASA et la Russie dans l’ISS, sur fond d’évacuation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2277001-ils-sen-moquaient-lincroyable-bras-de-fer-entre-la-nasa-et-la-russie-dans-liss-sur-fond-de-possible-evacuation.html",
+          "category": "ia",
+          "published_at": "2026-06-16T11:02:00+00:00",
+          "summary": "Le 5 juin dernier, les astronautes de l’ISS — dont la Française Sophie Adenot — s’enfermaient en urgence dans leur capsule de secours. Si l'on pensait à un simple incident technique, de nouvelles révélations montrent de vives tensions entre la NASA et Roscosmos.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a52c2c9b22da",
+          "title": "IA dans l’administration publique : la France lance les grandes manœuvres",
+          "source": "Next INpact",
+          "url": "https://next.ink/242559/ia-dans-ladministration-publique-la-france-lance-les-grandes-manoeuvres/",
+          "category": "ia",
+          "published_at": "2026-06-16T10:51:31+00:00",
+          "summary": "Le Premier ministre, Sébastien Lecornu, a fait mardi matin une série d’annonces sur l’intelligence artificielle. En ligne de mire, mise à disposition dans les administrations, stratégie nationale et, bien sûr, souveraineté numérique, alimentée par des moyens supplémentaires. La…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e3006d8a9a0",
+          "title": "SearchLeak : la faille silencieuse qui a transformé Microsoft 365 Copilot en mouchard",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2276725-searchleak-la-faille-silencieuse-qui-a-transforme-microsoft-365-copilot-en-mouchard.html",
+          "category": "ia",
+          "published_at": "2026-06-16T10:45:00+00:00",
+          "summary": "Les équipes de chercheurs en sécurité de Varonis Threat Labs ont trouvé comment transformer l'assistant IA de Microsoft en complice silencieux d'un vol de données, sans plugin, en un seul clic, et sans que la victime ne s'en aperçoive.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6a870d4d246",
+          "title": "Une fusée chinoise se désintègre en orbite et met en danger les satellites de SpaceX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2276871-une-fusee-chinoise-se-desintegre-en-orbite-et-met-en-danger-les-satellites-de-spacex.html",
+          "category": "ia",
+          "published_at": "2026-06-16T10:31:00+00:00",
+          "summary": "L'étage supérieur d'une fusée chinoise a explosé dans l'espace, libérant plus d'une centaine de débris. Cela crée une menace directe pour les satellites de la constellation Starlink qui pourraient se retrouver sur leurs trajectoires.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f25c296a6fd",
+          "title": "Le redouté phénomène El Niño est de retour : l’anomalie est confirmée depuis l’espace",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2276857-le-redoute-phenomene-el-nino-est-de-retour-lanomalie-est-confirmee-depuis-lespace.html",
+          "category": "ia",
+          "published_at": "2026-06-16T10:20:00+00:00",
+          "summary": "Le phénomène El Niño a débuté dans l'océan Pacifique. Depuis le ciel, des satellites de l'ESA détectent d'ailleurs cette hausse des températures de la surface de l'océan.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "143f5ab274b5",
+          "title": "Bateau intrus, fuites, valves… la fusée européenne Spectrum est poursuivie par la malchance",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2276699-bateau-intrus-fuites-valves-la-fusee-europeenne-spectrum-est-poursuivie-par-la-malchance.html",
+          "category": "ia",
+          "published_at": "2026-06-16T10:13:16+00:00",
+          "summary": "La patience est la vertu principale des passionnés d'espace, mais la start-up allemande Isar Aerospace commence à la mettre à rude épreuve.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "983b58ec137b",
+          "title": "Tech startup Artist Included launches with plan to re-record classic songs using AI. First up: Karma Chameleon with Boy George",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/boy-george-uses-ai-to-re-record-karma-chameleon-as-first-release-from-tech-startup-artist-included/",
+          "category": "ia",
+          "published_at": "2026-06-16T09:52:55+00:00",
+          "summary": "Artist Included was founded by entrepreneur Paul \"PK\" Kemsley and entertainment attorney and film producer Jeremy Rosen.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04b2a3dfd7c7",
+          "title": "Un jeu Dragon Ball Z perdu vient d’être retrouvé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2276949-un-rpg-amateur-dragon-ball-z-refait-surface-depuis-les-profondeurs-dinternet.html",
+          "category": "ia",
+          "published_at": "2026-06-16T09:45:00+00:00",
+          "summary": "L’archéologie sur Internet est vraiment une passion, qui peut parfois déboucher sur la découverte de trésors inestimables. La preuve en est avec ce RPG Dragon Ball, sorti tout droit des limbes de la toile.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88fd513d4518",
+          "title": "C’est officiel, la carte bancaire débarque dans le métro et le RER à Paris : toutes les infos",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2277025-cest-officiel-la-carte-bancaire-debarque-dans-le-metro-et-le-rer-a-paris-toutes-les-infos.html",
+          "category": "ia",
+          "published_at": "2026-06-16T09:35:32+00:00",
+          "summary": "Après des années de résistance, Île-de-France Mobilités va déployer l'open payment dans le métro, le tram et le RER, après avoir déjà commencé dans les bus. Le service, à destination des touristes et seulement des touristes, permettra de prendre les transports avec sa carte…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56371e3dd071",
+          "title": "Live Nation acquires majority stake in Argentina’s Movistar Arena Buenos Aires",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-acquires-majority-stake-in-argentinas-movistar-arena-buenos-aires/",
+          "category": "musique",
+          "published_at": "2026-06-16T09:28:14+00:00",
+          "summary": "The Buenos Aires arena opened in 2019 and hosts more than 250 events a year, drawing more than 2.5 million fans annually.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2719ff65b29b",
+          "title": "Republic Collective, Shivam Malhotra launch South Asian music label Ziza Records",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/16/republic-collective-shivam-malhotra-team-up-to-launch-ziza-records/",
+          "category": "musique",
+          "published_at": "2026-06-16T09:25:07+00:00",
+          "summary": "Universal Music Group division Republic Collective has partnered with Indian music entrepreneur Shivam Malhotra’s US-based enterprise Ziza Inc. to launch Ziza Records. The multi-year joint venture will focus on developing [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d3864575f7f",
+          "title": "YouTube launches Music Nights concert series, turning album releases into live fan events",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/youtube-launches-music-nights-concert-series-turning-album-releases-into-live-fan-events-with-kacey-musgraves-isaiah-rashad-and-bleachers/",
+          "category": "musique",
+          "published_at": "2026-06-16T09:16:21+00:00",
+          "summary": "The series turns artists' album releases into filmed live shows at intimate venues, which stream on YouTube for fans worldwide.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90bb1968c7ed",
+          "title": "L’industrie du jeu vidéo regarde du côté de la publicité face à l’explosion des coûts",
+          "source": "Next INpact",
+          "url": "https://next.ink/242533/lindustrie-du-jeu-video-regarde-du-cote-de-la-publicite-face-a-lexplosion-des-couts/",
+          "category": "ia",
+          "published_at": "2026-06-16T09:01:43+00:00",
+          "summary": "Des budgets toujours plus énormes, des temps de développement toujours plus longs, mais un nombre de joueurs qui augmente peu sans que ces derniers ne dépensent plus : pour les éditeurs de jeux, notamment les AAA, c&#8217;est la quadrature du cercle. Augmenter les prix des jeux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76968a7cdfea",
+          "title": "SpaceX pourrait déjà dépasser Amazon en gagnant 38 fois moins de revenus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276719-spacex-pourrait-deja-depasser-amazon-en-gagnant-38-fois-moins-de-revenus.html",
+          "category": "ia",
+          "published_at": "2026-06-16T08:59:43+00:00",
+          "summary": "En deux séances de Bourse, SpaceX est devenue la 6e entreprise la plus valorisée au monde et talonne déjà Amazon. La première pourrait même dépasser le géant de l'e-commerce dans la journée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e75ef7f7e00",
+          "title": "La date de sortie du Navigo Annuel et du Imagine R sur smartphone est désormais connue (et il y a une mauvaise nouvelle)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2276881-la-date-de-sortie-du-navigo-annuel-et-du-imaginr-sur-smartphone-est-desormais-connue-et-il-y-a-une-mauvaise-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-06-16T08:46:27+00:00",
+          "summary": "Le 16 juin 2026, Valérie Pécresse a une nouvelle fois douché les espoirs des usagers franciliens : la dématérialisation du Navigo Annuel (et Senior) et du passe Imagine’R sur smartphone est repoussée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4dd6cd0eddc",
+          "title": "Le dernier film Star Wars est sur le point de décrocher le pire record de la franchise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2276781-le-dernier-film-star-wars-est-sur-le-point-de-decrocher-le-pire-record-de-la-franchise.html",
+          "category": "ia",
+          "published_at": "2026-06-16T08:35:10+00:00",
+          "summary": "Le retour de Star Wars au cinéma a un sérieux coup de mou.&nbsp;Alors qu’elle devait relancer la saga sur grand écran après des années d'absence, la première aventure cinématographique de Mando et Grogu vire au crash industriel. Selon les dernières projections,&nbsp;The…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9846f1e09668",
+          "title": "La France coupe les ponts avec Palantir : la DGSI bascule vers ChapsVision",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2276849-la-france-coupe-les-ponts-avec-palantir-la-dgsi-bascule-vers-chapsvision.html",
+          "category": "ia",
+          "published_at": "2026-06-16T08:28:05+00:00",
+          "summary": "Six mois après avoir reconduit son contrat avec le géant américain Palantir, le renseignement intérieur français change de cap. Sébastien Lecornu en a fait l'annonce ce mardi 16 juin 2026, en parallèle d'un investissement massif dans l'IA souveraine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bbe6965e9d00",
+          "title": "☕️ VM gratuites : Oracle divise par deux les capacités d’OCI Ampere A1",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/vm-gratuites-oracle-divise-par-deux-les-capacites-doci-ampere-a1/",
+          "category": "ia",
+          "published_at": "2026-06-16T07:47:57+00:00",
+          "summary": "Oracle et Google proposent des VM gratuites, sans limite de durée. Attention, cela ne veut pas dire qu’elles seront toujours gratuites (ce brief en est le parfait exemple), juste qu’il n’y a pas de date de fin de validité pour le moment, ni de limite de crédits. Nous avons…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffee06a3923d",
+          "title": "Particulièrement endurant, le récent iPhone 17e bénéficie d’une baisse de prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276303-particulierement-endurant-le-recent-iphone-17e-beneficie-dune-baisse-de-prix.html",
+          "category": "ia",
+          "published_at": "2026-06-16T07:33:01+00:00",
+          "summary": "[Deal du jour] L'iPhone 17e voit son tarif baisser de 50 € chez Joybuy, passant ainsi de 719 € à seulement 669,99 €. C'est l'occasion idéale de s'équiper d'un smartphone iOS particulièrement endurant et doté d'un stockage généreux à un tarif plus doux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a23ea2c07c01",
+          "title": "Comment Super Mario Bros. est devenu le jeu le plus cher de l’histoire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2276671-un-exemplaire-tres-rare-de-super-mario-bros-devient-le-jeu-le-plus-cher-de-lhistoire.html",
+          "category": "ia",
+          "published_at": "2026-06-16T07:27:34+00:00",
+          "summary": "Vous trouvez que payer vos jeux 89 € est trop cher ? Imaginez devoir débourser 3 millions de dollars. C’est la somme qu’un fan a dépensée pour acquérir un exemplaire original de Super Mario Bros., encore sous blister.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92faf753ca00",
+          "title": "« La meilleure défense, c’est l’attaque » : le gouvernement dévoile son plan pour une IA souveraine dans l’État",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2276159-la-meilleure-defense-cest-lattaque-le-gouvernement-devoile-son-plan-pour-une-ia-souveraine-dans-letat.html",
+          "category": "ia",
+          "published_at": "2026-06-16T07:15:56+00:00",
+          "summary": "ENTRETIEN - Le ministre de l’Action et des Comptes publics David Amiel détaille à Numerama sa stratégie systémique pour déployer une IA souveraine au cœur de l'administration française. Plusieurs outils seront généralisés à l'ensemble des agents à partir de ce mardi 16 juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10deb5b5078a",
+          "title": "L’Ukraine rejoint la réserve de cybersécurité de l’UE : ce que cela implique vraiment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2276421-lukraine-rejoint-la-reserve-de-cybersecurite-de-lue-ce-que-cela-implique-vraiment.html",
+          "category": "justice",
+          "published_at": "2026-06-16T07:15:55+00:00",
+          "summary": "Kyiv peut désormais activer l'assistance d'urgence européenne face aux cyberattaques de grande ampleur. Une décision symbolique autant que stratégique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df3ef8e7a164",
+          "title": "☕️ Le noyau Linux 7.1 se dote d’un nouveau pilote NTFS plus performant",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-noyau-linux-7-1-se-dote-dun-nouveau-pilote-ntfs-plus-performant/",
+          "category": "ia",
+          "published_at": "2026-06-16T07:01:00+00:00",
+          "summary": "Nouvelle version pour le noyau Linux, qui présente comme d’habitude une série d’améliorations dans le support matériel. Côté AMD par exemple, le pilote amd-pstate prend maintenant en compte Dynamic EPP (Energy Performance Preference), qui permet de basculer automatiquement entre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cbea7e8818c",
+          "title": "Aperçu de Siri AI sur iOS 27 : Apple a-t-elle sauvé le soldat Siri ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/241937/apercu-de-siri-ai-sur-ios-27-apple-a-t-elle-sauve-le-soldat-siri/",
+          "category": "ia",
+          "published_at": "2026-06-16T06:37:00+00:00",
+          "summary": "Pendant des années, Siri a été le vilain petit canard des assistants vocaux. Peu fiable et franchement limité, le service d&#8217;Apple faisait déjà pâle figure face à une concurrence bien plus affûtée, notamment chez Amazon et Google. L&#8217;avènement de l&#8217;IA générative…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "470608bcb64a",
+          "title": "Meta devra répondre aux accusations d’entraînement d’IA avec du porno piraté",
+          "source": "Next INpact",
+          "url": "https://next.ink/242516/meta-devra-repondre-aux-accusations-dentrainement-dia-avec-du-porno-pirate/",
+          "category": "ia",
+          "published_at": "2026-06-16T06:08:00+00:00",
+          "summary": "L&#8217;IA de Meta a-t-elle en partie été entraînée sur du contenu pornographique téléchargé illégalement ? C&#8217;est l&#8217;objet d&#8217;une plainte déposée l&#8217;an dernier par deux sociétés de production et de distribution de films porno. La procédure suit son cours, et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bed9fe68944",
+          "title": "J’ai essayé la nouvelle Renault 4 électrique et son toit ouvrant : elle aurait dû sortir comme ça",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2273221-jai-essaye-la-nouvelle-renault-4-electrique-et-son-toit-ouvrant-elle-aurait-du-sortir-comme-ca.html",
+          "category": "ia",
+          "published_at": "2026-06-16T04:52:00+00:00",
+          "summary": "Présentée dès l'officialisation du modèle standard, la Renault 4 électrique Plein Sud et son grand toit en toile ouvrant était longuement attendue. La voilà enfin au catalogue et Numerama a déjà pu en prendre le volant. Spoiler : on a été plutôt séduit par cette variante.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f004a745f013",
+          "title": "Jelly Roll Files for Divorce From Bunnie XO After Nearly 10 Years of Marriage",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jelly-roll-divorce-bunnie-xo-1236273835/",
+          "category": "ia",
+          "published_at": "2026-06-16T03:20:41+00:00",
+          "summary": "Jelly Roll and Bunnie XO met in 2015 and married in a secret Las Vegas courthouse ceremony in August 2016.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61c1666114a4",
+          "title": "All of Bad Bunny’s Surprise Guests at His Madrid Residency",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/bad-bunnys-madrid-residency-surprise-guests/",
+          "category": "ia",
+          "published_at": "2026-06-16T00:00:00+00:00",
+          "summary": "From Myke Towers to Young Miko and more, these are the artists who performed alongside Benito at the Riyadh Air Metropolitano.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "articles": [
+        {
+          "id": "629f55191713",
+          "title": "Shakira Dances With Tigers & Debuts ‘Dai Dai’ at 2026 U.S. Tour Kick-Off: Best Photos",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/shakira-dances-with-tigers-debuts-dai-dai-at-u-s-tour-kick-off-best-photos-1236273294/",
+          "category": "ia",
+          "published_at": "2026-06-15T23:26:40+00:00",
+          "summary": "Welcome back, Shak!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "652aaa31ffdb",
+          "title": "Ce laser de l’extrême s’attaque aux secrets les plus profonds de nos cellules",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2275981-ce-laser-de-lextreme-sattaque-aux-secrets-les-plus-profonds-de-nos-cellules.html",
+          "category": "ia",
+          "published_at": "2026-06-15T19:33:16+00:00",
+          "summary": "Une technologie utilisant un laser extrêmement puissant a fait de grandes avancées pour enfin voir les constituants d'une cellule, quasiment jusqu'au niveau atomique. Une forme de microscopie qui pourrait être décisive pour le domaine médical.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73efd8f40746",
+          "title": "Sir Lucian Grainge highlights global opportunity for Japanese artists ahead of Music Awards in Tokyo, where UMG artists Fujii Kaze and Mrs. GREEN APPLE win top prizes",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-highlights-global-opportunity-for-japanese-artists-ahead-of-awards-event-in-tokyo-where-umg-artists-fujii-kaze-and-mrs-green-apple-win-top-prizes/",
+          "category": "musique",
+          "published_at": "2026-06-15T17:47:33+00:00",
+          "summary": "Grainge delivered remarks at an official gala for Music Awards Japan, according to UMG.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfb45ffff926",
+          "title": "☕️ Fox met la main sur Roku pour 22 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/fox-met-la-main-sur-roku-pour-22-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-06-15T15:40:28+00:00",
+          "summary": "Petit acteur sur le marché français et européen des appareils de streaming, Roku est en revanche un poids lourd en Amérique du Nord. Et c&#8217;est ce qui explique la grosseur du chèque signé par le groupe Fox pour s&#8217;offrir le constructeur : 22 milliards de dollars. Grosse…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b996a3e610e",
+          "title": "Marre des manettes Switch 2 hors de prix ? Cette alternative de Hori tombe à 20 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276517-marre-des-manettes-switch-2-hors-de-prix-cette-alternative-de-hori-tombe-a-20-e.html",
+          "category": "ia",
+          "published_at": "2026-06-15T15:31:37+00:00",
+          "summary": "[Deal du jour] Envie de partager des sessions de jeu endiablées sur Nintendo Switch 2 sans dépasser votre budget ? La manette filaire Horipad Turbo, sous licence officielle Nintendo, chute sous les 20 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6ccfbfd97b2",
+          "title": "Ponytail, l’agent IA qui cherche à optimiser votre code en limitant ses efforts au maximum",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276469-ponytail-lagent-ia-qui-cherche-a-optimiser-votre-code-en-en-faisant-le-moins-possible.html",
+          "category": "ia",
+          "published_at": "2026-06-15T15:27:59+00:00",
+          "summary": "Et si le secret d’une bonne IA de programmation était de devenir moins productive ? C’est le pari insolite de Ponytail, un projet open source qui force les assistants de code à imiter les développeurs seniors les plus pragmatiques pour éviter la sur-ingénierie et réduire la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1e136637917",
+          "title": "Atomic Arch : 1 600 paquets vérolés dans le dépôt AUR d’Arch Linux",
+          "source": "Next INpact",
+          "url": "https://next.ink/242446/atomic-arch-1-600-paquets-veroles-dans-le-depot-aur-darch-linux/",
+          "category": "ia",
+          "published_at": "2026-06-15T15:13:04+00:00",
+          "summary": "Une attaque non revendiquée a permis à des pirates d’infecter des centaines de paquets dans le dépôt AUR d’Arch Linux. La distribution n’est pas directement touchée, le dépôt étant consacré aux paquets gérés par la communauté. L’ampleur de l’attaque montre une nouvelle fois les…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "0d5aa3385da7",
           "title": "Ce pack avec un iPhone 17, des AirPods Pro 3 et 4 AirTags tombe à 699 € dans quelques heures",
@@ -22,6 +497,16 @@
           "category": "justice",
           "published_at": "2026-06-15T14:23:05+00:00",
           "summary": "Rien ne semble pouvoir arrêter la contagion au box-office sud-coréen.&nbsp;Le thriller d'action-horreur&nbsp;Colony, réalisé par le maître du genre Yeon Sang-ho, continue de dominer outrageusement les salles obscures. Lors du week-end du 12 au 14 juin 2026, le film a franchi le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc73851958ab",
+          "title": "‘I didn’t want to jump from the majors onto a hamster wheel for investors and have them in my business every day.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/joie-manda-i-didnt-want-to-jump-from-the-majors-onto-a-hamster-wheel-for-investors-and-have-them-in-my-business-every-day/",
+          "category": "musique",
+          "published_at": "2026-06-15T14:17:51+00:00",
+          "summary": "Having built his reputation at Interscope, Joie Manda now runs his own label (Encore Recordings) and publishing company (Platinum Grammar) – and is once again making waves and breaking artists…\nSource",
           "summary_type": "extrait source"
         },
         {
