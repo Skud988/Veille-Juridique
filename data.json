@@ -1,9 +1,634 @@
 {
-  "generated_at": "2026-06-16T13:03:54.545979+00:00",
+  "generated_at": "2026-06-17T12:32:51.863549+00:00",
   "days": [
+    {
+      "date": "2026-06-17",
+      "articles": [
+        {
+          "id": "a1f5d6ee6618",
+          "title": "Little Mix’s Perrie Edwards Posts Stunning Photos of Wedding To Soccer Star Alex Oxlade-Chamberlain in Portugal",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/little-mix-perrie-edwards-wedding-alex-oxlade-chamberlain-pics-1236272788/",
+          "category": "ia",
+          "published_at": "2026-06-17T12:30:37+00:00",
+          "summary": "The couple got engaged in 2022 and share two children, son Axel, 4 and daughter Alanis, who was born in January.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a11dc91a153",
+          "title": "Jeux vidéo en ligne qui ferment : l’Europe refuse de créer une loi, mais vous pouvez toujours demander un remboursement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2277485-jeux-video-en-ligne-qui-ferment-leurope-refuse-de-creer-une-loi-mais-vous-pouvez-toujours-demander-un-remboursement.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-17T12:16:08+00:00",
+          "summary": "Il n’y aura pas de loi miracle pour sauver les jeux vidéo condamnés par la fermeture de leurs serveurs. Saisie par la mobilisation Stop Killing Games, la Commission européenne rejette la perspective de contraindre légalement les éditeurs, mais elle ouvre grand la voie à des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32623cafc8c7",
+          "title": "Report: Meta’s ‘monopoly’ of music-ad budgets is ending",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/17/report-metas-monopoly-of-music-ad-budgets-is-ending/",
+          "category": "musique",
+          "published_at": "2026-06-17T12:15:00+00:00",
+          "summary": "Music marketing-tech company Ctrl+Reach has published a report analysing wider trends in the music industry&#8217;s advertising spending.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cc9be6a37e7",
+          "title": "L’Inde bloque temporairement Telegram par crainte de fraudes aux examens",
+          "source": "Next INpact",
+          "url": "https://next.ink/242884/linde-bloque-temporairement-telegram-par-crainte-de-fraudes-aux-examens/",
+          "category": "ia",
+          "published_at": "2026-06-17T12:10:13+00:00",
+          "summary": "L&#8217;Inde a ordonné un blocage temporaire de Telegram jusqu&#8217;au 22 juin. Le pays craint que des fraudeurs utilisent la plateforme de messagerie pour cibler des candidats avant une session du plus grand examen d&#8217;entrée du pays. La mesure a été annoncée le 16 juin…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03bda9e47916",
+          "title": "Live-focused superfans startup Swsh raises $4m funding round",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/17/live-focused-superfans-startup-swsh-raises-4m-funding-round/",
+          "category": "musique",
+          "published_at": "2026-06-17T12:00:00+00:00",
+          "summary": "Swsh is the latest superfan-focused music startup, but its focus is on a specific aspect of fandom: live experiences.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fe4d020cedb",
+          "title": "WMG’s latest moves: Bengali-music deal and APAC accelerator",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/17/wmgs-latest-moves-bengali-music-deal-and-apac-accelerator/",
+          "category": "musique",
+          "published_at": "2026-06-17T11:55:30+00:00",
+          "summary": "There is news of two expansions for Warner Music Group this morning, starting with a partnership in India with SVF Entertainment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd3e34e629ce",
+          "title": "Obama Presidential Center Grand Opening to Feature Stevie Wonder, Bono, Bruce Springsteen, Eddie Vedder, Tems, The Roots & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/obama-presidential-center-opening-lineup-bono-springsteen-1236274918/",
+          "category": "musique",
+          "published_at": "2026-06-17T11:51:38+00:00",
+          "summary": "Thursday's (June 18) all-star livestream event will also feature Jennifer Hudson, John Legend and Marc Anthony.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a70e16a50b5b",
+          "title": "Record Store UK launches campaign to create a vinyl emoji",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/17/record-store-uk-launches-campaign-to-create-a-vinyl-emoji/",
+          "category": "ia",
+          "published_at": "2026-06-17T11:44:56+00:00",
+          "summary": "There isn’t an official emoji for vinyl, despite the format being nearly two decades into its sales revival. But that could change&#8230;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68cf846185fd",
+          "title": "Competition to ChatGPT in AI-assistants market is heating up",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/17/competition-to-chatgpt-in-ai-assistants-market-is-heating-up/",
+          "category": "ia",
+          "published_at": "2026-06-17T11:32:45+00:00",
+          "summary": "OpenAI’s ChatGPT became the fastest mobile app ever to reach one billion monthly active users in May this year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "500ed762c2d2",
+          "title": "Music business ended 2025 with 921.6m paid streaming subscribers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/17/music-business-ended-2025-with-921-6m-paid-streaming-subscribers/",
+          "category": "musique",
+          "published_at": "2026-06-17T11:31:09+00:00",
+          "summary": "By the end of this year, it’s quite possible that there will be more than one billion music subscribers globally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27f1d13ca415",
+          "title": "Peanuts music catalog owner lands CBS licensing deal after ‘Linus and Lucy’ plays in Stephen Colbert’s Late Show finale",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/peanuts-music-catalog-owner-lands-cbs-licensing-deal-after-linus-and-lucy-plays-in-stephen-colberts-late-show-finale/",
+          "category": "musique",
+          "published_at": "2026-06-17T11:05:20+00:00",
+          "summary": "The proceeds from the CBS deal will be donated to World Central Kitchen, which provides meals to communities affected by natural disasters and civil unrest.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c982013868a5",
+          "title": "Steam Next Fest : le volume de démos publiées explose sur fond d’IA générative",
+          "source": "Next INpact",
+          "url": "https://next.ink/242808/steam-next-fest-le-volume-de-demos-publiees-explose-sur-fond-dia-generative/",
+          "category": "ia",
+          "published_at": "2026-06-17T10:59:00+00:00",
+          "summary": "Valve a donné lundi le coup d&#8217;envoi de l&#8217;édition Juin 2026 de son Next Fest, un événement d&#8217;une semaine pendant lequel des milliers de démos de jeux à venir sont proposées au téléchargement gratuit. Ce Next Fest affiche 4 390 démos disponibles, contre seulement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1153d42d5af",
+          "title": "Warner Music strikes partnership with India’s SVF Entertainment, expanding into Bengali music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-strikes-partnership-with-indias-svf-entertainment-expanding-into-bengali-music/",
+          "category": "musique",
+          "published_at": "2026-06-17T10:51:26+00:00",
+          "summary": "The partnership is designed to accelerate the growth of Bengali music and to open routes for artists, soundtracks and repertoire to reach audiences across India.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af70b7f4e789",
+          "title": "Live Nation’s Academy Music Group to invest nearly $13M to restore UK’s Brighton Hippodrome, which has been empty since 2006",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nations-academy-music-group-to-invest-nearly-13m-to-restore-uks-brighton-hippodrome-which-has-been-empty-since-2006/",
+          "category": "musique",
+          "published_at": "2026-06-17T10:47:56+00:00",
+          "summary": "The investment forms part of a wider redevelopment representing a total of £25 million (approx. $33.5 million) to restore and modernize the building.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38c2745cf4c2",
+          "title": "Warner Music launches ‘Listen Up’ artist accelerator to scale talent from APAC",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-launches-listen-up-artist-accelerator-to-scale-talent-from-apac/",
+          "category": "musique",
+          "published_at": "2026-06-17T10:34:55+00:00",
+          "summary": "Warner is positioning Hong Kong artist Gareth.T as a proof point, with his single 'Glass' generating more than 250 million streams in its first month.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07a03046c9cd",
+          "title": "☕️ Intelligence artificielle et taxation numérique au cœur du G7",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/intelligence-artificielle-et-taxation-numerique-au-coeur-du-g7/",
+          "category": "ia",
+          "published_at": "2026-06-17T10:22:00+00:00",
+          "summary": "La taxation et la régulation du numérique avanceront-elles à Évian ? Ce 17 juin, le président de la République Emmanuel Macron accueille ses homologues du G7 pour une session de travail sur la question de la sécurisation de l’intelligence artificielle et divers autres enjeux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14192ca42bcb",
+          "title": "Sir Lucian Grainge and Bang Si-hyuk talk UMG’s partnership with HYBE, AI and the future of music at town hall event in Seoul",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sir-lucian-grainge-and-bang-si-hyuk-talk-umgs-partnership-with-hybe-ai-and-the-future-of-music-at-town-hall-event-in-seoul/",
+          "category": "ia",
+          "published_at": "2026-06-17T10:21:53+00:00",
+          "summary": "Grainge said that while AI would unlock new opportunities, great music and great people would remain at the center of every successful music company.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29894bc6a9d1",
+          "title": "Decathlon fait fondre de 1 000 € le prix de ce vélo de route électrique haut de gamme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2278089-decathlon-fait-fondre-de-1-000-e-le-prix-de-ce-velo-de-route-electrique-haut-de-gamme.html",
+          "category": "ia",
+          "published_at": "2026-06-17T10:18:44+00:00",
+          "summary": "[Deal du jour] Pour accumuler les kilomètres et franchir les cols sans s'épuiser, un vélo de route électrique est un allié précieux. Decathlon propose le VAE Van Rysel E-EDR AF avec une réduction de 1 000 €, le faisant passer de 2 999,99 € à 1 999,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "445acdf586a8",
+          "title": "Amazon dégaine ses promos Prime Day avant l’heure : suivez les meilleures offres en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275849-amazon-degaine-ses-promos-prime-day-avant-lheure-suivez-les-meilleures-offres-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-06-17T10:15:28+00:00",
+          "summary": "À quelques jours du coup d'envoi officiel du Prime Day, Amazon dégaine déjà ses premières offres depuis le lundi 15 juin. On a passé les promos au crible pour ne garder que les offres avant-premières réellement intéressantes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99c1a2033fdf",
+          "title": "« Facteur aggravant » : pourquoi la chaleur intense de fin mai 2026 nous impacte encore aujourd’hui",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2277977-vague-de-chaleur-pourquoi-le-pic-de-fin-mai-2026-aggrave-la-situation-actuelle.html",
+          "category": "ia",
+          "published_at": "2026-06-17T10:10:11+00:00",
+          "summary": "La première vague de chaleur de l'année 2026 commence. Alors que la France va subir des températures très élevées, le souvenir du pic de chaleur de la fin mai ressurgit. Un événement récent, qui pourrait contribuer à aggraver l'actuel épisode caniculaire de cette mi-juin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19b83e2c6b2f",
+          "title": "Les internautes s’informent plus via les plateformes que sur les sites et applications",
+          "source": "Next INpact",
+          "url": "https://next.ink/242801/les-internautes-sinforment-plus-via-les-plateformes-que-sur-les-sites-et-applications/",
+          "category": "ia",
+          "published_at": "2026-06-17T10:02:00+00:00",
+          "summary": "La consommation d’information passe désormais plus fréquemment par les plateformes sociales et vidéo que par les sites web et applications des médias traditionnels, constate le Digital News Report&#160;2026 du Reuters Institute. Un sondage, effectué en janvier et février 2026,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d61c586be52",
+          "title": "« La veille, vous êtes SFR, le lendemain, vous êtes Bouygues Telecom » : le patron de Bouygues dévoile le sort des abonnés SFR",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2278177-la-veille-vous-etes-sfr-le-lendemain-vous-etes-bouygues-telecom-le-patron-de-bouygues-devoile-le-sort-des-abonnes-sfr.html",
+          "category": "ia",
+          "published_at": "2026-06-17T10:00:00+00:00",
+          "summary": "SFR va être démantelé au profit d’Orange, Free et Bouygues Telecom. Alors que le rachat à 20 milliards d’euros agite le secteur, le patron de Bouygues, Benoît Torloting, promet une transition « fluide et transparente » pour les abonnés, assurant que les tarifs resteront…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9924e779a60",
+          "title": "Ariane 6 : suivez en direct le tir de la fusée européenne, avec un record de puissance à la clé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2275539-ariane-6-suivez-en-direct-le-tir-de-la-fusee-europeenne-avec-un-record-de-puissance-a-la-cle.html",
+          "category": "ia",
+          "published_at": "2026-06-17T09:59:10+00:00",
+          "summary": "Moins de deux mois après sa dernière réussite, Ariane 6 s’apprête à reprendre les airs le mercredi 17 juin 2026 pour la mission VA269. Boostée par ses nouveaux propulseurs P160C, la version lourde du lanceur européen tentera de déployer une grappe record de 36 satellites pour la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd01d2be3668",
+          "title": "Les fonds spéculatifs parient sur la défaite de l’automobile européenne face à la Chine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2278105-les-fonds-speculatifs-parient-sur-la-defaite-de-lautomobile-europeenne-face-a-la-chine.html",
+          "category": "ia",
+          "published_at": "2026-06-17T09:50:00+00:00",
+          "summary": "Les constructeurs automobiles européens ne doivent pas seulement se battre pour vendre des véhicules face à une concurrence accrue. Ils doivent aussi lutter contre les fonds spéculatifs qui les considèrent déjà perdants face à la Chine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48d1aa163cd4",
+          "title": "Microsoft Teams est en panne : les signalements explosent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2278211-microsoft-teams-est-en-panne-les-signalements-explosent.html",
+          "category": "ia",
+          "published_at": "2026-06-17T09:44:00+00:00",
+          "summary": "Microsoft Teams est touché par des dysfonctionnements depuis le milieu de la matinée. Les remontées s'accumulent sur Down Detector, sans qu'aucune confirmation officielle n'ait encore été apportée par Microsoft.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9559da60bef0",
+          "title": "Austin Power, le héros le plus fou d’Hollywood, enfin de retour ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2278115-austin-power-le-heros-le-plus-fou-dhollywood-enfin-de-retour.html",
+          "category": "ia",
+          "published_at": "2026-06-17T09:39:47+00:00",
+          "summary": "Le retour de l’espion le plus branché d’Hollywood se précise.&nbsp;Alors que la planète entière vibre actuellement au rythme de la Coupe du monde de football et du choc récent entre la France et le Sénégal, c'est sur le terrain des podcasts qu'un énorme séisme pop-culturel vient…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a990666abbbe",
+          "title": "Snap dévoile enfin les lunettes AR qu’il promet depuis 5 ans… et fait un méga flop sur les réseaux sociaux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2277909-snap-devoile-enfin-les-lunettes-ar-quil-promet-depuis-5-ans-et-fait-un-mega-flop-sur-les-reseaux-sociaux.html",
+          "category": "ia",
+          "published_at": "2026-06-17T09:36:32+00:00",
+          "summary": "Snap a enfin dévoilé les lunettes de réalité augmentée qu’il promet depuis des années. Les Specs arriveront à l’automne aux États-Unis, au Royaume-Uni et en France (le pays de cœur d'Evan Spiegel) pour 2 295 euros. Un prix très élevé pour un produit censé ouvrir l’ère…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e27cc733a982",
+          "title": "1 000 drones kamikazes par mois dès 2027 : le sursaut industriel de Renault et Thales face à la guerre de haute intensité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2277957-1-000-drones-kamikazes-par-mois-des-2027-le-sursaut-industriel-de-renault-et-thales-face-a-la-guerre-de-haute-intensite.html",
+          "category": "ia",
+          "published_at": "2026-06-17T09:24:56+00:00",
+          "summary": "Renault Group et Thales ont officialisé un partenariat stratégique d’envergure pour industrialiser la munition téléopérée Toutatis. Les deux géants industriels visent une cadence inédite de 1 000 unités par mois dès 2027, pour répondre aux nécessités de la guerre de haute…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f1e0d19f95a",
+          "title": "☕️ Mozilla plus transparente sur les fonctions en développement pour Firefox",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/mozilla-plus-transparente-sur-les-fonctions-en-developpement-pour-firefox/",
+          "category": "institutionnel",
+          "published_at": "2026-06-17T09:19:33+00:00",
+          "summary": "Dans un billet paru ce 16 juin, la fondation Mozilla annonce le lancement d’une nouvelle page baptisée simplement Firefox Roadmap. Elle a pour mission de montrer les principales nouveautés en développement pour le navigateur, en fonction de la plateforme visée (ordinateur,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd17d3da4a2f",
+          "title": "Disponible, e/OS/ 4.0 s’attaque à la migration de Gmail",
+          "source": "Next INpact",
+          "url": "https://next.ink/242791/disponible-e-os-4-0-sattaque-a-la-migration-de-gmail/",
+          "category": "ia",
+          "published_at": "2026-06-17T08:45:00+00:00",
+          "summary": "La nouvelle mouture d’e/OS/ vient consolider la stratégie de Murena sur son écosystème. Plutôt qu’un bouleversement technique, l’offre propose une vision étoffée et clairement axée sur la simplicité de transition depuis Android. La migration prend même désormais Gmail en charge.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5dfe52e20af6",
+          "title": "L’un des meilleurs films de Ghibli va devenir une série en live action",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2277869-lun-des-meilleurs-films-de-ghibli-va-devenir-une-serie-en-live-action.html",
+          "category": "musique",
+          "published_at": "2026-06-17T08:29:17+00:00",
+          "summary": "Kiki la petite sorcière va s'aventurer sur le petit écran. Déjà adapté par Hayao Miyazaki en 1989, le roman va avoir droit à une nouvelle adaptation en série télévisée pour le compte de la BBC.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0190bf3b7cfa",
+          "title": "Disney valide un film X-Men « pas prudent du tout » et décide enfin de prendre des risques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2277941-disney-valide-un-film-x-men-pas-prudent-du-tout-et-decide-enfin-de-prendre-des-risques.html",
+          "category": "ia",
+          "published_at": "2026-06-17T08:27:55+00:00",
+          "summary": "Marvel s'apprête à faire table rase du passé pour ses mutants.&nbsp;Alors que l'intégration des X-Men au sein du MCU est l'un des chantiers les plus surveillés d'Hollywood, Lee Sung Jin, le créateur de la série à succès&nbsp;Acharnés&nbsp;(Beef), vient de faire des révélations…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3adad29b17f8",
+          "title": "« On s’est retrouvés sous les projecteurs » : Mistral profite du Chaton Fat pour dévoiler son nouveau modèle prévu cet été",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2277867-on-sest-retrouves-sous-les-projecteurs-mistral-ai-profite-de-lattention-pour-devoiler-ses-cartes-et-un-nouveau-modele-des-cet-ete.html",
+          "category": "ia",
+          "published_at": "2026-06-17T08:23:58+00:00",
+          "summary": "Dans une série de messages publiés sur les réseaux sociaux, Arthur Mensch, PDG de Mistral AI, a profité de l’attention accrue portée à l’entreprise ces jours-ci pour esquisser la suite de sa stratégie et renforcer son positionnement dans l'intelligence artificielle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7315d9489b1",
+          "title": "Robbie Williams Signs With WME for Worldwide Representation",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/robbie-williams-wme-worldwide-representation/",
+          "category": "ia",
+          "published_at": "2026-06-17T08:20:53+00:00",
+          "summary": "The former Take That singer joins WME after his move to the ATC Management roster.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40c0d5ee2648",
+          "title": "Arrêtez d’utiliser ChatGPT : OpenAI mise tout sur Codex",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2277913-arretez-dutiliser-chatgpt-openai-mise-tout-sur-codex.html",
+          "category": "ia",
+          "published_at": "2026-06-17T08:00:18+00:00",
+          "summary": "En déplacement en France à l'occasion d'une conférence sur ses ambitions européennes, OpenAI a dévoilé plusieurs nouveautés pour Codex, son application initialement pensée pour les développeurs. L'outil se débride dans l'Union européenne et, à terme, devrait intégrer toutes les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11f46654a185",
+          "title": "La promesse d’une « IA pour tous » au service du bien commun a du plomb dans l’aile",
+          "source": "Next INpact",
+          "url": "https://next.ink/242605/la-promesse-dune-ia-pour-tous-au-service-du-bien-commun-a-du-plomb-dans-laile/",
+          "category": "ia",
+          "published_at": "2026-06-17T08:00:00+00:00",
+          "summary": "En plus de faire réagir toute la classe politique, la coupure des derniers modèles d’Anthropic remet en avant des questions de souveraineté et d’autonomie. Pour le Conseil de l’IA, « la menace sur l’autonomie numérique européenne n’est plus une hypothèse, elle est devenue une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16b89d18e442",
+          "title": "Pic de chaleur en France : comment le solstice d’été risque d’augmenter l’inconfort",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2277239-pic-de-chaleur-en-france-comment-le-solstice-dete-risque-daugmenter-linconfort.html",
+          "category": "ia",
+          "published_at": "2026-06-17T07:30:52+00:00",
+          "summary": "La France s'apprête à vivre sa première vague de chaleur de l'année 2026, en cette mi-juin. Des pointes à 40 °C sont attendues le dimanche 21 juin, soit le jour même du solstice d'été. Un calendrier qui pourrait empirer encore plus notre inconfort durant cet événement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2cf13b336e6",
+          "title": "Toy Story 5 : j’ai vu le film en avant-première, et j’ai encore eu les larmes aux yeux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2276361-toy-story-5-jai-vu-le-film-en-avant-premiere-et-jai-encore-eu-les-larmes-aux-yeux.html",
+          "category": "ia",
+          "published_at": "2026-06-17T07:15:00+00:00",
+          "summary": "On pensait la saga définitivement bouclée, on redoutait la suite de trop, et pourtant... Invité à l'avant-première française de Toy Story 5 le vendredi 12 juin 2026, je suis entré dans la salle un peu comme un enfant, mais avec la nostalgie en plus. Après des adieux que je…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66e7a2adf2e0",
+          "title": "Fin de vie des jeux vidéo : pas de loi européenne, mais un code de conduite",
+          "source": "Next INpact",
+          "url": "https://next.ink/242713/fin-de-vie-des-jeux-video-pas-de-loi-europeenne-mais-un-code-de-conduite/",
+          "category": "ia",
+          "published_at": "2026-06-17T07:15:00+00:00",
+          "summary": "Il n&#8217;y aura pas pour l&#8217;instant de législation européenne obligeant les éditeurs à garantir l&#8217;accès à leurs jeux une fois leurs serveurs fermés, comme le demandait une initiative citoyenne, incarnée par la campagne Stop Killing Games. En revanche, la Commission…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e38607bfed96",
+          "title": "Pourquoi ne pas fêter le remake de Zelda: Ocarina of Time avec ce Lego en promotion",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2277575-pourquoi-ne-pas-feter-le-remake-de-zelda-ocarina-of-time-avec-ce-lego-en-promotion.html",
+          "category": "ia",
+          "published_at": "2026-06-17T07:07:52+00:00",
+          "summary": "[Deal du jour] Ce n'est pas tous les jours que les Lego Zelda baissent de prix. Après l'annonce du remake de l'épisode culte de la Nintendo 64, voilà que le Lego inspiré du même jeu baisse enfin son prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1915851cf62",
+          "title": "« C’est un mal pour un bien » : pourquoi le retard de Polestar en France pourrait être sa force",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2277845-cest-un-mal-pour-un-bien-pourquoi-le-retard-de-polestar-en-france-pourrait-etre-sa-force.html",
+          "category": "ia",
+          "published_at": "2026-06-17T07:05:57+00:00",
+          "summary": "Loin de regretter son lancement tardif dans l'Hexagone, la marque sino-suédoise profite de l'arrivée de son impressionnante Polestar 5 sur le marché français pour afficher ses ambitions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d2df823be43",
+          "title": "Shrek 5 dévoile sa première bande-annonce, et ça divise beaucoup",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2277749-shrek-5-devoile-sa-premiere-bande-annonce-et-ca-divise-beaucoup.html",
+          "category": "ia",
+          "published_at": "2026-06-17T06:55:00+00:00",
+          "summary": "Alerte générale à Fort Fort Lointain.&nbsp;DreamWorks vient de frapper un immense coup en publiant les toutes premières images de&nbsp;Shrek 5. Plus d'une décennie après ses dernières aventures, le mythique ogre vert s'apprête à faire son grand retour dans les salles obscures.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cef04728f5a9",
+          "title": "Snap lance ses premières lunettes de réalité augmentée pour le grand public",
+          "source": "Next INpact",
+          "url": "https://next.ink/242769/snap-lance-ses-premieres-lunettes-de-realite-augmentee-pour-le-grand-public/",
+          "category": "ia",
+          "published_at": "2026-06-17T06:30:35+00:00",
+          "summary": "Snap n&#8217;est pas que l&#8217;éditeur du réseau social Snapchat. C&#8217;est également un constructeur matériel, engagé de longue date dans la réalité augmentée. Après avoir fait ses dents sur les lunettes Spectacles équipées d&#8217;une caméra, l&#8217;entreprise lance…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04eea6c708f7",
+          "title": "Android 17, une version finale discrète en attendant Gemini Intelligence",
+          "source": "Next INpact",
+          "url": "https://next.ink/242780/android-17-une-version-finale-discrete-en-attendant-gemini-intelligence/",
+          "category": "ia",
+          "published_at": "2026-06-17T05:46:56+00:00",
+          "summary": "Au vu de la modestie des nouveautés, la version finale d&#8217;Android 17 livrée cette nuit par Google est presque un non-événement. En phase de déploiement pour les appareils Pixel, cette mise à jour va se diffuser dans les prochains mois auprès de tous les smartphones Android…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e0b7c56265b0",
+          "title": "Carl Cox Awarded OBE In King’s Birthday List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/carl-cox-awarded-obe-kings-birthday-list/",
+          "category": "musique",
+          "published_at": "2026-06-17T03:36:23+00:00",
+          "summary": "The pioneering British DJ and record producer is one of several music figures saluted by King Charles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f4811b66f9a",
+          "title": "Warner Music India expands into Bengali music market with SVF Entertainment deal",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/17/warner-music-india-expands-into-bengali-music-market-leader-with-svf-entertainment-deal/",
+          "category": "musique",
+          "published_at": "2026-06-17T03:30:00+00:00",
+          "summary": "Warner Music India has entered into a partnership with Kolkata-headquartered media conglomerate SVF Entertainment to gain a foothold in the Bengali music market. SVF Entertainment, which has produced over 180 [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f77c04c1430",
+          "title": "BMG Buys Publishing Catalog of The Living End’s Chris Cheney",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/bmg-buys-publishing-catalog-the-living-end-chris-cheney/",
+          "category": "ia",
+          "published_at": "2026-06-17T02:39:04+00:00",
+          "summary": "The new deal is announced just days after the Australian rock trio was inducted into the ARIA Hall of Fame.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-16",
       "articles": [
+        {
+          "id": "39fd7b390424",
+          "title": "De 1 à 14 milliards de commits par an : comment GitHub et l’IA ont poussé Microsoft dans les bras de son plus grand rival",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2277519-de-1-a-14-milliards-de-commits-par-an-comment-github-et-lia-ont-pousse-microsoft-dans-les-bras-de-son-plus-grand-rival.html",
+          "category": "ia",
+          "published_at": "2026-06-16T19:25:00+00:00",
+          "summary": "Selon le média américain Business Insider, GitHub croule sous les commits générés par l'IA, au point que Microsoft doit faire appel à AWS, son concurrent direct dans le cloud, pour tenir la cadence.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43e08a2393ff",
+          "title": "The music industry is closing in on a billion global subscribers – with Spotify out in front",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-closing-in-on-a-billion-global-subscribers-with-spotify-out-in-front/",
+          "category": "musique",
+          "published_at": "2026-06-16T18:34:32+00:00",
+          "summary": "MIDiA Research estimates that the global subscriber count grew 10.1% YoY in 2025\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94f4d088edec",
+          "title": "Blocage des sites porno : la justice européenne valide la méthode française contre les plateformes étrangères",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2277561-blocage-des-sites-porno-la-justice-europeenne-valide-la-methode-francaise-contre-les-plateformes-etrangeres.html",
+          "category": "ia",
+          "published_at": "2026-06-16T17:02:00+00:00",
+          "summary": "Saisie par le Conseil d’État, la Cour de justice de l’Union européenne (CJUE) a validé ce mardi 16 juin 2026 le droit pour la France d’imposer son contrôle de l'âge aux sites pornographiques basés à l’étranger. Une victoire majeure pour Paris qui fait vaciller le totem européen…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b77efb7d59e",
+          "title": "Le nouveau patron du BHV Marais veut se débarrasser de l’espace Shein",
+          "source": "Next INpact",
+          "url": "https://next.ink/242652/le-nouveau-patron-du-bhv-marais-veut-se-debarrasser-de-lespace-shein/",
+          "category": "institutionnel",
+          "published_at": "2026-06-16T16:37:54+00:00",
+          "summary": "L&#8217;épisode aura été de courte durée, mais il laissera des traces. L&#8217;espace Shein va disparaitre du BHV Marais, suite à la vente du grand magasin parisien par la Société des grands magasins (SGM) à l&#8217;ex-directeur général de la maison, Karl-Stéphane Cottendin.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7c8409b1d73",
+          "title": "Superfan platform EVEN partners with Cinq Music to bring D2C tools to indie company’s global artist roster",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/superfan-platform-even-partners-with-cinq-music-to-bring-d2c-tools-to-indie-companys-global-artist-roster/",
+          "category": "musique",
+          "published_at": "2026-06-16T16:09:57+00:00",
+          "summary": "The Cinq deal follows a run of distributor and label partnerships for EVEN over the past year.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9aa66dcf4d9c",
+          "title": "Netflix dégaine l’adaptation de ce best-seller mondial pour terrasser HBO et Prime Video",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2277505-netflix-degaine-ladaptation-de-ce-best-seller-mondial-pour-terrasser-hbo-et-prime-video.html",
+          "category": "ia",
+          "published_at": "2026-06-16T15:42:48+00:00",
+          "summary": "Le géant du streaming vient de sortir l’artillerie lourde.&nbsp;En annonçant l’adaptation en série d’Icebreaker, le phénomène littéraire mondial d’Hannah Grace, Netflix ne fait pas qu’aligner un nouveau projet sur sa grille. La plateforme lance une véritable déclaration de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7beb3b756867",
+          "title": "Dans la foulée de son IPO, SpaceX rachète Cursor et ses modèles dédiés aux développeurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/242609/dans-la-foulee-de-son-ipo-spacex-rachete-cursor-et-ses-modeles-dedies-aux-developpeurs/",
+          "category": "ia",
+          "published_at": "2026-06-16T15:06:35+00:00",
+          "summary": "Dans la foulée de son introduction en bourse sur le Nasdaq qui lui a permis de lever plus de 80 milliards de dollars d&#8217;argent frais, SpaceX a annoncé mardi son intention d&#8217;exercer l&#8217;option d&#8217;achat posée sur Cursor, ses outils d&#8217;orchestration et ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a49f12cc6277",
+          "title": "☕️ Firefox 152 affiche ses nouveaux paramètres et de petites améliorations bienvenues",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/firefox-152-affiche-ses-nouveaux-parametres-et-de-petites-ameliorations-bienvenues/",
+          "category": "ia",
+          "published_at": "2026-06-16T15:05:15+00:00",
+          "summary": "La nouvelle mouture du navigateur de Mozilla est désormais disponible. La mise à jour attend déjà sagement que vous redémarriez le navigateur pour s’installer. Firefox 152 commence par rénover la page des paramètres. L’organisation générale reste à peu près la même, mais le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4194b9178d3",
+          "title": "US appeals court revives copyright case against Ricky Martin over 2014 FIFA World Cup album track ‘Vida’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/fifa-world-cup-2014-song-copyright-case-over-vida-by-ricky-martin-revived-by-us-appeals-court/",
+          "category": "musique",
+          "published_at": "2026-06-16T14:59:06+00:00",
+          "summary": "An appeals court vacated a lower court order that had granted Martin summary judgment against songwriter Luis Adrián Cortés-Ramos.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0785e868ca44",
+          "title": "Mais pourquoi l’indexation est-elle si longue dans iOS 27 ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/242621/mais-pourquoi-lindexation-est-elle-si-longue-dans-ios-27/",
+          "category": "ia",
+          "published_at": "2026-06-16T14:41:11+00:00",
+          "summary": "De nombreux utilisateurs s’étant aventurés sur les terres (pas si arides) de la première bêta d’iOS 27 ont peut-être remarqué que le système semble constamment en cours d’indexation. C’est «&#160;normal&#160;», mais on peut obtenir des informations plus précises. D’abord,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ad0bf318d58",
+          "title": "Scooter Braun and Guy Oseary among backers of Swsh, which has raised $4M to turn fan-captured live content into data",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/scooter-braun-and-guy-oseary-among-backers-of-swsh-which-has-raised-4m-to-turn-fan-captured-live-content-into-data/",
+          "category": "musique",
+          "published_at": "2026-06-16T14:23:25+00:00",
+          "summary": "The funding will support swsh's expansion across music, sports, and brand experiential marketing.\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2eceb8e3b61",
+          "title": "☕️ Apple visée par une enquête sur l’interopérabilité d’iCloud en Italie",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-visee-par-une-enquete-sur-linteroperabilite-dicloud-en-italie/",
+          "category": "ia",
+          "published_at": "2026-06-16T14:15:00+00:00",
+          "summary": "Entre Apple et le DMA, les relations sont glaciales et cela ne va pas aller en s&#8217;arrangeant. L&#8217;autorité italienne de la concurrence a lancé une enquête concernant l&#8217;accès à iOS et iPadOS des services infonuagiques concurrents d&#8217;iCloud. En vertu du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59c7c156dac5",
+          "title": "Ashley Gorley talks country music’s global appeal and mentoring Nashville’s next generation of hitmakers at indie pubco Tape Room",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ashley-gorley-talks-country-musics-global-appeal-and-mentoring-nashvilles-next-generation-of-hitmakers-at-indie-pubco-tape-room/",
+          "category": "musique",
+          "published_at": "2026-06-16T13:57:30+00:00",
+          "summary": "MBW's Trailblazers series meets Ashley Gorley – hit songwriter and founder of Tape Room Music.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd6315d5cd0d",
+          "title": "Cybersécurité : la transposition de NIS2 continue de traîner des pieds",
+          "source": "Next INpact",
+          "url": "https://next.ink/242574/cybersecurite-la-transposition-de-nis2-continue-de-trainer-des-pieds/",
+          "category": "loi",
+          "published_at": "2026-06-16T13:45:00+00:00",
+          "summary": "Alors que la transposition de NIS2 était prévue avant la fin de l’été, ce ne sera finalement pas le cas. Les députés sont certes convoqués pour une session extraordinaire, mais NIS2 n’est pas au programme de la trentaine de projets de loi qui va être examinée. Date limite :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce1ff7462068",
+          "title": "13 mots suffisent pour manipuler un résultat de recherche par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/242562/13-mots-suffisent-pour-manipuler-un-resultat-de-recherche-par-ia/",
+          "category": "ia",
+          "published_at": "2026-06-16T13:13:00+00:00",
+          "summary": "Il suffit d’une dizaine de mots publiés au bon endroit sur un site participatif pour manipuler les résultats de recherche de modèles génératifs appuyés sur des systèmes agentiques, constatent trois chercheurs de l’université de Cornell. Mise à jour du 17 juin 11h : précisions…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "b84e985d4327",
           "title": "Shane Tarleton Named Co-Head of Leo33",
@@ -102,6 +727,16 @@
           "category": "ia",
           "published_at": "2026-06-16T12:02:52+00:00",
           "summary": "Nous avons pu voir en avant-première les 4 premiers épisodes de la saison 3 de House of the Dragon. Après une saison 2 de préparation, la Danse des Dragons s'ouvre sur un chaos spectaculaire, avant de laisser place à une tension psychologique étouffante. Notre avis sur ce début,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24a5f5705977",
+          "title": "Nomination de Jean-Michel FIETIER au poste de directeur administratif et financier de la CNIL",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/nomination-jean-michel-fietier",
+          "category": "institutionnel",
+          "published_at": "2026-06-16T12:00:00+00:00",
+          "summary": "À compter du 15 juin 2026, Jean-Michel FIETIER est nommé directeur administratif et financier de la CNIL. Il succède à Jean-Marc SALMON, qui occupait ces fonctions depuis 2020.",
           "summary_type": "extrait source"
         },
         {
