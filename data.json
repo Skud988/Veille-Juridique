@@ -1,9 +1,674 @@
 {
-  "generated_at": "2026-06-18T12:00:04.689203+00:00",
+  "generated_at": "2026-06-19T12:20:37.335645+00:00",
   "days": [
+    {
+      "date": "2026-06-19",
+      "articles": [
+        {
+          "id": "8dfb9ef2af07",
+          "title": "L’arrivée de TF1 sur Netflix enterre un peu plus les box télé et la TNT",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280183-larrivee-de-tf1-sur-netflix-enterre-un-peu-plus-les-box-tele-et-la-tnt.html",
+          "category": "ia",
+          "published_at": "2026-06-19T12:01:30+00:00",
+          "summary": "L'application TF1+ ne suffit plus au groupe TF1 qui part à la conquête des plateformes de streaming. Depuis le 19 juin, ses chaînes en direct et l'intégralité de son catalogue sont intégrées à Netflix : une première mondiale. Les diffuseurs historiques de la télévision se muent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f6009c6a182",
+          "title": "Sécurité des données : les règles essentielles pour protéger les données et votre activité",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/securite-des-donnees-les-regles-essentielles",
+          "category": "ia",
+          "published_at": "2026-06-19T12:00:00+00:00",
+          "summary": "Le numérique offre des opportunités pour développer votre entreprise, mais il s’accompagne aussi de risques concernant la sécurité des données que vous détenez, qu’elles soient personnelles (fichiers clients, employés…) ou non (informations financières, industrielles…). Il est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c14ca97a1b94",
+          "title": "Micro-dramas are having a moment",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/micro-dramas-are-having-a-moment/",
+          "category": "justice",
+          "published_at": "2026-06-19T12:00:00+00:00",
+          "summary": "We’ve written about the continued rise of micro-dramas and the growing investment of major digital platforms before. While the micro-drama trend originated in China, it has fast become a global phenomenon driving a US$14bn+ global content economy and frequently surpassing…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af6bb16c7b12",
+          "title": "Google launches creator search profiles",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/google-launches-creator-search-profiles/",
+          "category": "ia",
+          "published_at": "2026-06-19T12:00:00+00:00",
+          "summary": "Google recently launched Search Profiles for Creators, a new feature that allows creators to build a public presence directly within Google Search. The feature gives audiences another way to learn more about you outside of traditional social platforms. Search behavior is…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a35cff4a0235",
+          "title": "Building artist campaigns to mitigate burnout",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/building-artist-campaigns-to-mitigate-burnout/",
+          "category": "ia",
+          "published_at": "2026-06-19T12:00:00+00:00",
+          "summary": "A 2025 study of 1,000 UK and US creators found that 52% have experienced burnout as a result of career stress, with financial instability as a primary driver. A further two in five have thought about leaving the industry entirely.  This has become an increasingly dominant topic…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a567aa608179",
+          "title": "Italy on the rise",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/italy-on-the-rise/",
+          "category": "justice",
+          "published_at": "2026-06-19T12:00:00+00:00",
+          "summary": "Italy has, alongside its European neighbours Germany and France, emerged as a real beneficiary of the streaming age, with the country experiencing a boom in domestic listening alongside steady, streaming-driven growth. According to the full-year figures from industry body FIMI,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2febf7256988",
+          "title": "La Suède pourrait bloquer le FSD de Tesla en Europe car il peut dépasser les limitations de vitesse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2280353-la-suede-pourrait-bloquer-le-fsd-de-tesla-en-europe-car-il-peut-depasser-les-limitations-de-vitesse.html",
+          "category": "ia",
+          "published_at": "2026-06-19T11:55:00+00:00",
+          "summary": "La Suède pourrait ne pas voter en faveur d'une approbation générale du Tesla FSD en Europe. En cause, le logiciel de conduite autonome supervisé, qui peut être réglé pour dépasser les limitations de vitesse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b1127fd2984",
+          "title": "Major labels in Canada win site-blocking order targeting stream-ripping platforms – a first for the country’s music industry",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/major-labels-in-canada-win-site-blocking-order-targeting-stream-ripping-platforms-a-first-for-the-countrys-music-industry/",
+          "category": "musique",
+          "published_at": "2026-06-19T11:52:01+00:00",
+          "summary": "ISPs are ordered to block stream-ripping domains including Y2mate.ws, YTmp3.lat, Savefrom.space, and Spowload.cc.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74be582762fd",
+          "title": "C’est très sérieux : des gens paient pour WinRAR (et leurs justifications sont très drôles)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2280267-cest-tres-serieux-des-gens-paient-pour-winrar-et-leurs-justifications-sont-tres-droles.html",
+          "category": "justice",
+          "published_at": "2026-06-19T11:31:00+00:00",
+          "summary": "En tombant sur un tweet célébrant l'achat d'une licence WinRAR, j'ai cru tenir le scoop du siècle. La réalité est très différente mais assez drôle : j'ai découvert une communauté de repentis désireux de régler leur dette morale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05465fc7ae26",
+          "title": "‘No Fakes Act’ takes its next step towards becoming US law",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/no-fakes-act-takes-its-next-step-towards-becoming-us-law/",
+          "category": "ia",
+          "published_at": "2026-06-19T11:30:00+00:00",
+          "summary": "The ‘No Fakes Act’ is the proposed US legislation tackling unauthorised AI deepfakes, which was recently reintroduced for a third time in the Senate.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22442ef309f8",
+          "title": "Vingt-six ans après, Jim Carrey s’apprête à reprendre son rôle le plus givré (et le plus douloureux)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280333-vingt-six-ans-apres-jim-carrey-sapprete-a-reprendre-son-role-le-plus-givre-et-le-plus-douloureux.html",
+          "category": "ia",
+          "published_at": "2026-06-19T11:05:00+00:00",
+          "summary": "C'est le retour que personne n'avait vu venir. Vingt-six ans après avoir marqué l'histoire du box-office et des fêtes de fin d'année, l'un des personnages les plus grognons et cultes de la pop-culture s'apprête à faire son grand retour sur grand écran : le Grinch.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "406e6c8af65f",
+          "title": "Japan passes copyright reform giving performers and record companies royalties when recordings play in public, including overseas",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/japan-passes-copyright-reform-giving-performers-and-record-companies-royalties-when-recordings-play-in-public-including-overseas/",
+          "category": "musique",
+          "published_at": "2026-06-19T10:57:35+00:00",
+          "summary": "Until now, only songwriters, composers and music publishers were paid when their music was played as background music in Japanese venues.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9352e962976b",
+          "title": "Motion Agency launches pan-European commercial radio promotion service, appoints Nick Bray as Head of Radio",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/motion-agency-launches-pan-european-commercial-radio-promotion-service-appoints-nick-bray-as-head-of-radio/",
+          "category": "ia",
+          "published_at": "2026-06-19T10:52:05+00:00",
+          "summary": "Motion's first campaign under Bray's direction is the radio promotion of Jorja Smith's single, 'What's Done Is Done'\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "454ce0c8a8d4",
+          "title": "OpenAI recrute l’ex-conseiller IA de Donald Trump comme conseiller stratégique",
+          "source": "Next INpact",
+          "url": "https://next.ink/243374/openai-recrute-lex-conseiller-ia-de-donald-trump-comme-conseiller-strategique/",
+          "category": "ia",
+          "published_at": "2026-06-19T10:35:19+00:00",
+          "summary": "Après avoir supervisé le plan d&#8217;action de la Maison-Blanche consacré à l&#8217;IA, Dean Ball avait rejoint un think tank très conservateur connu pour ses positions climatosceptiques et favorables aux énergies fossiles. Il sera chargé, chez OpenAI, des questions liées aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9dd76f31d30f",
+          "title": "Anthropic n’a pas coupé Claude Mythos chez tout le monde : des heureux élus en profitent encore",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2280377-anthropic-na-pas-coupe-claude-mythos-chez-tout-le-monde-des-heureux-elus-en-profitent-encore.html",
+          "category": "ia",
+          "published_at": "2026-06-19T10:25:00+00:00",
+          "summary": "Selon un article publié par Bloomberg le 19 juin 2026, quelques partenaires triés sur le volet continuent d’utiliser Mythos Preview, une ancienne version du modèle cyber d’Anthropic, malgré la suspension de Mythos 5 et Fable 5 ordonnée par Washington pour des raisons de sécurité…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "756c798ee690",
+          "title": "Adam Tiran named General Manager of Warner Music’s Africori as founder Yoel Kenan steps down as CEO",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/adam-tiran-named-general-manager-of-warner-musics-africori-as-founder-yoel-kenan-steps-down-as-ceo/",
+          "category": "musique",
+          "published_at": "2026-06-19T10:21:50+00:00",
+          "summary": "WMG was fully acquired Africori in 2025\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d125f2242c0c",
+          "title": "Linear Festivals founders win International Entrepreneur of the Year",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/linear-festivals-founders-win-international-entrepreneur-of-the-year/",
+          "category": "musique",
+          "published_at": "2026-06-19T10:15:00+00:00",
+          "summary": "Congratulations to Vishruti Bindal and Bharavi, the co-founders of Linear Festivals in India. They have won the 2026 Music Ally International Entrepreneur of the Year award, in association with Universal Music Group Digital Innovation, which saw four finalists pitch at Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef588cfa71b5",
+          "title": "Le Prime Day tombe bien : robots piscine et arroseur connecté Aiper sont en promotion [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2278111-le-prime-day-tombe-bien-robots-piscine-et-arroseur-connecte-aiper-sont-en-promotion.html",
+          "category": "ia",
+          "published_at": "2026-06-19T09:45:58+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Aiper\n\nPouvoir profiter de sa piscine et s'éviter l'entretien : voici la promesse des robots piscine Aiper en promo pour le Prime Day Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56c7db23ecbb",
+          "title": "Comment dormir quand il fait trop chaud ? 7 astuces à appliquer pendant la canicule",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1440762-comment-dormir-quand-il-fait-trop-chaud-7-astuces-a-appliquer-pendant-la-canicule.html",
+          "category": "ia",
+          "published_at": "2026-06-19T09:40:40+00:00",
+          "summary": "Il est souvent plus difficile de trouver le sommeil lors des épisodes de forte chaleur. Voilà des conseils concrets pour parvenir à s'endormir, même pendant une canicule. Et la réponse à la grande question : faut-il dormir nu ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f2aff9b1821",
+          "title": "À quelques jours des Prime Day, Amazon continue d’ajouter de nouvelles offres en avant-première",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2275849-a-quelques-jours-des-prime-day-amazon-continue-dajouter-de-nouvelles-offres-en-avant-premiere.html",
+          "category": "ia",
+          "published_at": "2026-06-19T09:22:29+00:00",
+          "summary": "Amazon a pris de l’avance sur ses propres Prime Day. Depuis le 15 juin, les offres en avant-première s’enchaînent, alors que le lancement officiel n’est prévu que le 23 juin. De nouvelles promotions continuent d’apparaître, on continue à faire le tri en direct pour ne garder que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9367a5683bc3",
+          "title": "Honda recule maintenant sur la voiture électrique pour mieux doubler tout le monde après",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2280139-honda-recule-maintenant-sur-la-voiture-electrique-pour-mieux-doubler-tout-le-monde-apres.html",
+          "category": "ia",
+          "published_at": "2026-06-19T09:20:00+00:00",
+          "summary": "Alors que la marque rétropédale sur l'électrique, Honda vient de signer un partenariat avec la startup américaine QuantumScape pour développer la batterie solide. Gros sursaut à venir ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3b3f49dd314",
+          "title": "« Votre période de test est terminée » : on a reçu la fausse facture de 69,90 € d’Amazon Prime Video, voici comment la déceler",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2280115-votre-periode-de-test-est-terminee-on-a-recu-la-fausse-facture-de-6990-e-damazon-prime-video-voici-comment-la-deceler.html",
+          "category": "ia",
+          "published_at": "2026-06-19T09:10:00+00:00",
+          "summary": "Une campagne d'hameçonnage active depuis au moins 48 heures usurpe l'identité d'Amazon Prime Video, pour soutirer des données personnelles et bancaires aux victimes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a36cf23465f",
+          "title": "ASML aiderait secrètement la Chine à concevoir des puces",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2280121-asml-aiderait-secretement-la-chine-a-concevoir-des-puces.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-19T09:08:51+00:00",
+          "summary": "Les États-Unis soupçonnent qu’une machine ultra-stratégique d’ASML, indispensable à la fabrication des puces les plus avancées, ait pu finir en Chine malgré les restrictions à l’exportation, rapporte Bloomberg le 19 juin 2026. Le groupe néerlandais dément fermement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f60d52bd1a3",
+          "title": "usbliter8 : les iPhone XS et 11 vulnérables à un bug matériel dans leur puce",
+          "source": "Next INpact",
+          "url": "https://next.ink/243337/usbliter8-les-iphone-xs-et-11-vulnerables-a-un-bug-materiel-dans-leur-puce/",
+          "category": "ia",
+          "published_at": "2026-06-19T08:57:00+00:00",
+          "summary": "Une faille de sécurité a été détectée dans les anciennes puces A12 et A13. Liée à l’architecture matérielle, elle ne peut pas être corrigée par une simple mise à jour logicielle, car elle s’appuie sur un bug dans le contrôleur USB. La société européenne de cybersécurité Paradigm…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6bda2bfbb8e0",
+          "title": "Indian AI background music startup Tringbox raises seed funding",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/indian-ai-background-music-startup-tringbox-raises-seed-funding/",
+          "category": "ia",
+          "published_at": "2026-06-19T08:48:26+00:00",
+          "summary": "Tringbox is an Indian AI startup that’s making background music more generic and specific at the same time. The Mumbai-headquartered company has built what it describes as an “environment-aware” platform [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11c0d8c1b9d5",
+          "title": "Report highlights big-tech platforms’ role in spreading Indian ‘hate music’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/report-highlights-big-tech-platforms-role-in-spreading-indian-hate-music/",
+          "category": "musique",
+          "published_at": "2026-06-19T08:40:36+00:00",
+          "summary": "US-based non-profit The Center for the Study of Organized Hate (CSOH) has published a report titled ‘Profiting from Hate Music: The Role of YouTube, Meta, Spotify and Apple Music in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3006adeabcaa",
+          "title": "Le patron de la NASA a-t-il profité de l’entrée en bourse de SpaceX ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2280079-le-patron-de-la-nasa-a-t-il-profite-de-lentree-en-bourse-de-spacex.html",
+          "category": "ia",
+          "published_at": "2026-06-19T08:35:33+00:00",
+          "summary": "L'introduction en bourse historique de SpaceX met en lumière les liaisons dangereuses entre Elon Musk et le nouveau patron de la NASA, Jared Isaacman. Ce dernier s'en défend, mais le soupçon de conflit d'intérêts indirect agite Washington.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "72919f516d0e",
+          "title": "Prime Video prend une décision radicale pour l’adaptation en série de God of War",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280155-prime-video-prend-une-decision-radicale-pour-ladaptation-en-serie-de-god-of-war.html",
+          "category": "ia",
+          "published_at": "2026-06-19T08:35:00+00:00",
+          "summary": "Le rouleau compresseur d'Amazon Prime Video est en marche.&nbsp;Confiante après le triomphe planétaire de l'adaptation de&nbsp;Fallout, la plateforme de streaming vient de poser ses pions sur sa prochaine superproduction très attendue, la série en prises de vues réelles&nbsp;God…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d443497942e2",
+          "title": "Comment désactiver les programmes TF1+ sur Netflix ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280195-comment-desactiver-les-programmes-tf1-sur-netflix.html",
+          "category": "ia",
+          "published_at": "2026-06-19T08:34:21+00:00",
+          "summary": "Depuis le 19 juin, Netflix diffuse l'intégralité des programmes de TF1+, dont les chaînes TF1, TMC, TFX, TF1 Séries Films et LCI, sur sa plateforme. Vous n'avez pas envie que l'on vous suggère Joséphine Ange-Gardien ou Automoto sur votre page d'accueil ? Bonne nouvelle : Netflix…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79e3ff383aaf",
+          "title": "☕️ Rufus 4.15 améliore l’installation silencieuse de Windows",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/rufus-4-15-ameliore-linstallation-silencieuse-de-windows/",
+          "category": "ia",
+          "published_at": "2026-06-19T08:32:00+00:00",
+          "summary": "Rufus est une petite application très pratique qui permet de préparer des clés USB pour l’installation de systèmes d’exploitation. Elle s’est fait un nom avec Windows 11 en particulier, en incluant des options permettant de faire «&#160;sauter&#160;» les prérequis techniques,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7be9b8b45762",
+          "title": "Warner Music Group’s Africori Taps Adam Tiran as GM",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/warner-music-group-africori-adam-tiran-general-manager/",
+          "category": "musique",
+          "published_at": "2026-06-19T08:28:08+00:00",
+          "summary": "Tiran rises to general manager following the departure of long-standing CEO Yoel Kenan.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bcc931c932ad",
+          "title": "Artist deals round-up: Yugm, Prateeksha Srivastava, Sunanda Sharma",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/artist-deals-round-up-yugm-prateeksha-srivastava-sunanda-sharma/",
+          "category": "musique",
+          "published_at": "2026-06-19T08:15:54+00:00",
+          "summary": "Folk-fusion band&#160;Yugm and Indian classical-fusion duo Harshad and Duhita Golesar are the first acts to sign with TSC Artists, a new platform launched by Indian record label The Shakti Collective [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c422ce08ab0",
+          "title": "Le fonds IA de Bernie Sanders ? Une idée plus courante qu’on le croit",
+          "source": "Next INpact",
+          "url": "https://next.ink/243225/le-fonds-ia-de-bernie-sanders-une-idee-plus-courante-quon-le-croit/",
+          "category": "ia",
+          "published_at": "2026-06-19T08:04:00+00:00",
+          "summary": "Bernie Sanders propose de créer un fonds souverain qui permettrait à la population des États-Unis de participer aux profits générés par l’intelligence artificielle. Une proposition qui ouvre le débat : vaut-il mieux lier l’action gouvernementale à la réussite économique de ces…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36f3ff9748ad",
+          "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad’ Debuts at No. 1 In Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-debuts-no-1-australia-1236276748/",
+          "category": "ia",
+          "published_at": "2026-06-19T07:38:09+00:00",
+          "summary": "Rodrigo bags a chart double as \"You Seem Pretty Sad For A Girl So In Love\" opens at No. 1 on the ARIA Chart, and “Stupid Song” starts atop the national singles tally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "434cadbbb16b",
+          "title": "La vérification obligatoire des développeurs Android arrive en 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/243324/la-verification-obligatoire-des-developpeurs-android-arrive-en-2027/",
+          "category": "ia",
+          "published_at": "2026-06-19T07:30:00+00:00",
+          "summary": "Google va bel et bien lancer l&#8217;année prochaine son système de vérification pour les développeurs d&#8217;applications Android, qu&#8217;elles soient distribuées sur le Play Store ou dans des boutiques alternatives. Pour le géant du web, c&#8217;est un pas de plus vers une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a7735109d06",
+          "title": "La jaquette de GTA 6 continue une tradition vieille de 25 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280033-la-jaquette-de-gta-6-continue-une-tradition-vieille-de-25-ans.html",
+          "category": "ia",
+          "published_at": "2026-06-19T07:16:16+00:00",
+          "summary": "Les fans de GTA peuvent désormais respirer : la date d’ouverture des précommandes du jeu GTA 6 vient tout juste d’être annoncée. Pour l’occasion, Rockstar a également dévoilé sa jaquette officielle. Avec cette illustration, le studio perpétue l’une des traditions les plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bac9f0013040",
+          "title": "Secure Boot sous Windows et Linux : les certificats expirent le 27 juin, prudence",
+          "source": "Next INpact",
+          "url": "https://next.ink/243013/secure-boot-sous-windows-et-linux-les-certificats-expirent-le-27-juin-prudence/",
+          "category": "ia",
+          "published_at": "2026-06-19T07:09:00+00:00",
+          "summary": "Plusieurs certificats de sécurité utilisés par Microsoft et Linux pour Secure Boot arriveront à échéance cette année, dont une première vague le 27 juin. Nous faisons le point sur la situation, plus simple qu’il n’y paraît. Du moins si tout se passe bien. Pour comprendre la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd72c98c4b51",
+          "title": "‘We Are So Proud of You:’ Oliver Tree’s Mom Shares Heartbreaking Post",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/oliver-tree-mom-heartbreaking-post-1236276698/",
+          "category": "musique",
+          "published_at": "2026-06-19T06:27:27+00:00",
+          "summary": "\"Our dear son Oliver, you made this world a better place,” writes Tree’s mother, Christine Begin Nickell.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ebd252b6958",
+          "title": "☕️ Comme dans l’UE, Apple forcée d’ouvrir l’iPhone aux boutiques alternatives au Brésil",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/comme-dans-lue-apple-forcee-douvrir-liphone-aux-boutiques-alternatives-au-bresil/",
+          "category": "ia",
+          "published_at": "2026-06-19T06:22:00+00:00",
+          "summary": "Il n&#8217;y a pas que dans l&#8217;Union européenne où Apple est obligée d&#8217;ouvrir le jardin fermé d&#8217;iOS à la concurrence. Plusieurs autres pays ont embrayé, comme le Japon en fin d&#8217;année dernière, et désormais le Brésil. iOS 26.5, disponible depuis début mai,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6452cd23988e",
+          "title": "FKA twigs & Lil Yachty, Myles Smith, Kashus Culpepper & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/fka-twigs-lil-yachty-myles-smith-new-music-friday-guide-1236276078/",
+          "category": "musique",
+          "published_at": "2026-06-19T05:53:23+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aba21f04f519",
+          "title": "☕️ Bercy crée une direction dédiée à l’intelligence artificielle",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/bercy-cree-une-direction-dediee-a-lintelligence-artificielle/",
+          "category": "ia",
+          "published_at": "2026-06-19T05:49:44+00:00",
+          "summary": "Bercy intègre une nouvelle direction chargée de l&#8217;intelligence artificielle et du numérique (DIAN). Œuvrant pour les ministères économiques et financiers, la DIAN va avoir du pain sur la planche. Grosse semaine sur le front de l&#8217;IA dans l&#8217;administration…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "011a8744a0cc",
+          "title": "Midjourney promet de réduire la mortalité mondiale de 30 % grâce à un immense scanner corporel à ultrasons",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2278697-midjourney-promet-de-reduire-la-mortalite-mondiale-de-30-grace-a-un-immense-scanner-corporel-a-ultrasons.html",
+          "category": "ia",
+          "published_at": "2026-06-19T05:45:32+00:00",
+          "summary": "Midjourney a crée la surprise en annonçant le lancement de sa division médicale et d'un imposant scanner corporel par ultrasons niché au cœur d'un spa de luxe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9b78905cf91",
+          "title": "La hiérarchie des films les plus chers de l’histoire vient d’être bouleversée, et Star Wars a perdu son trône",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2278911-la-hierarchie-des-films-les-plus-chers-de-lhistoire-vient-detre-bouleversee-et-star-wars-a-perdu-son-trone.html",
+          "category": "musique",
+          "published_at": "2026-06-19T05:30:00+00:00",
+          "summary": "Historique.&nbsp;Mickey vient de perdre sa couronne au jeu du blockbuster le plus dispendieux de tous les temps. Selon une analyse approfondie de documents financiers officiels récemment déposés, Universal Pictures a battu le record absolu détenu par Disney depuis près de dix…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e211c088caba",
+          "title": "UMG UK’s Rebecca Allen: ‘We’ve got to pivot, we’ve got to adapt’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/umg-uks-rebecca-allen-weve-got-to-pivot-weve-got-to-adapt/",
+          "category": "musique",
+          "published_at": "2026-06-19T05:30:00+00:00",
+          "summary": "If you’re looking at how major labels are reshaping themselves for the next era, Rebecca Allen is one of the best primary sources.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "42945ae0f189",
+          "title": "How do you stay current in the modern music industry? ‘Stay on TikTok four hours a day’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/how-do-you-stay-current-in-the-modern-music-industry-stay-on-tiktok-four-hours-a-day/",
+          "category": "musique",
+          "published_at": "2026-06-19T05:00:00+00:00",
+          "summary": "Having built one of YouTube’s largest music-channel network, Andre Benz sold it to Create Music Group in 2022 then launched Broke Records.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53ec894cc097",
+          "title": "Universal Music Korea Signs 1300",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/universal-music-korea-sign-1300/",
+          "category": "musique",
+          "published_at": "2026-06-19T04:46:41+00:00",
+          "summary": "The Korean-Australian hip-hop act that has been making waves in the land down under, where they’ve completed two sold-out national tours and performed live for the 2025 ABC New Year's Eve broadcast.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0424be3da8f",
+          "title": "Music-Related Legislation Before Congress Right Now: Full List of Bills (UPDATING)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/music-related-bills-congress-now-list-legislation/",
+          "category": "musique",
+          "published_at": "2026-06-19T01:26:26+00:00",
+          "summary": "Billboard is keeping track of all the bills that could impact the music industry during the 119th Congress.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "articles": [
+        {
+          "id": "c31b8747e444",
+          "title": "Project 91 launches Playgrounds, a live experiences platform backed by Justin Kalifowitz’s Klaf Companies",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/project-91-launches-playgrounds-a-live-experiences-platform-backed-by-justin-kalifowitzs-klaf-companies/",
+          "category": "musique",
+          "published_at": "2026-06-18T19:35:57+00:00",
+          "summary": "The New York-based events company confirmed that Playgrounds will serve as an umbrella platform for concerts, branded experiences, and destination events\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48a6411e740b",
+          "title": "Pourquoi les orages violents en France ne mettent-ils pas un terme à la canicule ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2279789-pourquoi-les-orages-violents-en-france-ne-mettent-ils-pas-un-terme-a-la-canicule.html",
+          "category": "ia",
+          "published_at": "2026-06-18T18:50:25+00:00",
+          "summary": "De violents orages se sont produits en France métropolitaine, dans la soirée du jeudi 18 juin 2026. Mais ces épisodes orageux ne contribuent pas à atténuer durablement la chaleur, comme on l'observe généralement à la fin des canicules. Comment l'expliquer ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29977ca670b9",
+          "title": "TF1 débarque dans Netflix : le replay et les chaînes en direct s’invitent au milieu de vos séries (avec de la pub)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2279449-tf1-debarque-dans-netflix-le-replay-et-les-chaines-en-direct-sinvitent-au-milieu-de-vos-series-avec-de-la-pub.html",
+          "category": "justice",
+          "published_at": "2026-06-18T18:30:00+00:00",
+          "summary": "Un an après avoir annoncé un partenariat (une première mondiale pour le géant du streaming), l'intégralité des programmes de TF1+ sont enfin disponibles sur Netflix. Dès le 19 juin, le service de SVOD proposera TF1 sur sa page d'accueil avec un accès à cinq chaînes en direct et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3eb008bfb50d",
+          "title": "Elon Musk’s X moves to dismiss music publishers’ $250M+ copyright lawsuit, arguing Supreme Court’s Cox ruling ‘forecloses’ the case",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elon-musks-x-moves-to-dismiss-music-publishers-250m-copyright-lawsuit-arguing-supreme-courts-cox-ruling-forecloses-the-case/",
+          "category": "musique",
+          "published_at": "2026-06-18T18:00:06+00:00",
+          "summary": "The motion is the latest development in a copyright battle that dates back to June 2023\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e119105b51b0",
+          "title": "J’ai vu Disclosure Day à la dernière séance du soir, et j’en suis ressorti les yeux rivés vers les étoiles",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2278983-jai-vu-disclosure-day-a-la-derniere-seance-du-soir-et-jen-suis-ressorti-les-yeux-rives-vers-les-etoiles.html",
+          "category": "ia",
+          "published_at": "2026-06-18T17:45:00+00:00",
+          "summary": "Le cinéma de Steven Spielberg a retrouvé son âme et sa magie.&nbsp;Quatre ans après&nbsp;The Fabelmans, le roi du divertissement signe son grand retour à la science-fiction avec&nbsp;Disclosure Day. Mais loin du simple thriller paranoïaque ou du blockbuster d'action décérébré,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02ee6894a479",
+          "title": "Canal+ relance son offre Rat+ à 20€/mois avec du cinéma et les matchs de la Coupe du Monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2279535-vous-pouvez-suivre-la-coupe-du-monde-de-foot-pour-20e-mois-avec-labonnement-rat-de-canal.html",
+          "category": "justice",
+          "published_at": "2026-06-18T17:00:00+00:00",
+          "summary": "[Deal du jour] Bonne nouvelle pour les moins de 26 ans qui cherchent à suivre tous les matchs de la Coupe du Monde ainsi que le meilleur du streaming sans se ruiner. L'offre Rat+ de Canal+ fait son grand retour au tarif de 19,99 € par mois au lieu de 34,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb9426b6a929",
+          "title": "La SNCF annule des trains à cause de la chaleur : comment savoir si mon train circule ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/1629410-la-sncf-annule-des-trains-a-cause-de-la-chaleur-comment-savoir-si-mon-train-circule.html",
+          "category": "ia",
+          "published_at": "2026-06-18T16:03:50+00:00",
+          "summary": "L'épisode caniculaire en France risque de perturber plusieurs lignes de la SNCF. Des suppressions de trains sont annoncées ce week-end du 18 au 21 juin 2026. Comment savoir si mon train est annulé ? Voilà comment vérifier si votre train est maintenu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dba71a8e87b0",
+          "title": "Polestar bouscule l’ordre de lancement de ses modèles pour une plus grande cohérence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2279567-polestar-bouscule-lordre-de-lancement-de-ses-modeles-pour-une-plus-grande-coherence.html",
+          "category": "ia",
+          "published_at": "2026-06-18T15:57:00+00:00",
+          "summary": "La marque scandinave va chambouler l'ordre de ses appellations numériques en priorisant la sortie de son SUV compact Polestar 7 avant celle de son spectaculaire roadster Polestar 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "655c8b2d8dae",
+          "title": "Avec sa puce Napier, Tensordyne veut faire 13x à 17x mieux que les GPU NVIDIA",
+          "source": "Next INpact",
+          "url": "https://next.ink/243065/avec-sa-puce-napier-tensordyne-veut-faire-13x-a-17x-mieux-que-les-gpu-nvidia/",
+          "category": "ia",
+          "published_at": "2026-06-18T15:27:45+00:00",
+          "summary": "Remplacer les multiplications par des additions, telle est l’approche de Tensordyne pour augmenter de manière importante les performances des processeurs pour l’intelligence artificielle. Le fabricant utilise une « sauce secrète » et promet jusqu’à 13 fois plus de tokens par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2208867d9778",
+          "title": "NO FAKES: Senate panel backs bill that could cost platforms $750k per AI deepfake",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/no-fakes-senate-panel-backs-bill-that-could-cost-platforms-750k-per-ai-deepfake/",
+          "category": "ia",
+          "published_at": "2026-06-18T15:20:53+00:00",
+          "summary": "The US Senate Judiciary Committee has advanced the NO FAKES Act\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef588e5ffb31",
+          "title": "La Steam Machine en approche, entre SteamOS 3.8 et de nouveaux benchmarks",
+          "source": "Next INpact",
+          "url": "https://next.ink/243169/la-steam-machine-en-approche-entre-steamos-3-8-et-de-nouveaux-benchmarks/",
+          "category": "ia",
+          "published_at": "2026-06-18T14:33:51+00:00",
+          "summary": "Valve a livré la version finale de SteamOS 3.8 qui apporte le support de la Steam Machine, la future console de salon du constructeur. Est-ce à dire que l&#8217;appareil va finalement sortir, huit mois après sa présentation ? Des indices laissent en tout cas penser qu&#8217;on…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d88d154ebd8f",
+          "title": "Spotify’s ‘Reserved’ ticketing feature launches in the US today under a multi-year Live Nation deal, starting with indie-pop artist Role Model",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotifys-reserved-ticketing-feature-launches-in-the-us-today-under-a-multi-year-live-nation-deal-starting-with-indie-pop-artist-role-model/",
+          "category": "musique",
+          "published_at": "2026-06-18T14:00:31+00:00",
+          "summary": "Eligible Spotify subscribers will begin receiving notifications that two tour tickets have been set aside for them, with a purchasing window opening on June 23.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed769731ffc4",
+          "title": "☕️ L’impact de l’IA sur les effectifs de la fonction publique ? Matignon ne veut pas le donner",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/limpact-de-lia-sur-les-effectifs-de-la-fonction-publique-matignon-ne-veut-pas-le-donner/",
+          "category": "ia",
+          "published_at": "2026-06-18T13:16:56+00:00",
+          "summary": "Ce 18 juin s’ouvre un groupe de travail entre l’État et les organismes sociaux pour évoquer l’intelligence artificielle dans la fonction publique. Mais l&#8217;évènement laisse aux syndicats un goût amer, car l&#8217;État présente un projet sur lequel ils n&#8217;auront plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "effbdb109617",
+          "title": "Spotify opens direct uploads for music videos and live performances in beta",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-opens-direct-uploads-for-music-videos-and-live-performances-in-beta/",
+          "category": "musique",
+          "published_at": "2026-06-18T12:56:29+00:00",
+          "summary": "The move steps up Spotify's challenge to YouTube, which dominates music video streaming globally.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c7b69967e83",
+          "title": "SoundCloud hails RepostExchange as a ‘bot-free’ promo tool",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/18/soundcloud-hails-repostexchange-as-a-bot-free-promo-tool/",
+          "category": "musique",
+          "published_at": "2026-06-18T12:34:00+00:00",
+          "summary": "Despite the best efforts of industry bodies like the IFPI – and its efforts have been strenuous – there are still many dodgy companies and websites offering ways to buy likes, followers and streams for artists. They’re all best avoided. SoundCloud wants to help its community of…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9eef10868d53",
+          "title": "Genius is expanding into data licensing and consumer products",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/18/genius-is-expanding-into-data-licensing-and-consumer-products/",
+          "category": "ia",
+          "published_at": "2026-06-18T12:30:00+00:00",
+          "summary": "The company once known as Rap Genius (a very long time ago) continues its evolution since being acquired in 2021 for $80m by a company called MediaLab. Genius now has more than 100 million monthly visitors and 25m annotations of lyrics on its service. Now it has signalled its…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "377665077bd1",
+          "title": "Apple Music continues its dance expansion with two mix series",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/18/apple-music-continues-its-dance-expansion-with-two-mix-series/",
+          "category": "musique",
+          "published_at": "2026-06-18T12:30:00+00:00",
+          "summary": "Like an in-the-zone best-friend at the tail-end of a wedding reception, Apple Music simply can’t be dragged off the dancefloor in 2026. We recently reported on its new ‘Club Live’ series of mixes, including a partnership with Manchester institution The Warehouse Project. Now it…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "720eb4df9b49",
+          "title": "Cisac’s new AVR+ format aims to boost audiovisual payouts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/18/cisacs-new-avr-format-aims-to-boost-audiovisual-payouts/",
+          "category": "musique",
+          "published_at": "2026-06-18T12:30:00+00:00",
+          "summary": "Happy “the first fully documented and machine-readable technical format designed to transform how music data is shared and processed across the global audiovisual industry” day to those who celebrate. Which should be all of us, because this is good news. It’s an announcement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a22040d0dfa",
+          "title": "Ordre du jour de la séance plénière du 18 juin 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-18-juin-2026",
+          "category": "institutionnel",
+          "published_at": "2026-06-18T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 18 juin 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
         {
           "id": "fbcb5089f006",
           "title": "Meta moves to dismiss Wixen’s $102M lawsuit, says publisher is ‘seeking to transform a routine licensing dispute’ into a ‘sweeping’ legal battle",
