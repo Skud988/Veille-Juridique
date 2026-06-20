@@ -1,9 +1,394 @@
 {
-  "generated_at": "2026-06-19T12:20:37.335645+00:00",
+  "generated_at": "2026-06-20T10:43:32.955237+00:00",
   "days": [
+    {
+      "date": "2026-06-20",
+      "articles": [
+        {
+          "id": "3ec47834b0eb",
+          "title": "Emmanuel Macron appelle à un sursaut européen pour ne pas être « consommateurs d’une technologie faite par d’autres »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2281193-on-sera-des-consommateurs-dune-technologie-faite-par-dautres-emmanuel-macron-appelle-a-un-sursaut-europeen.html",
+          "category": "ia",
+          "published_at": "2026-06-20T09:41:39+00:00",
+          "summary": "Emmanuel Macron a clôturé une semaine très dense pour la tech française par un discours dédié aux 10 ans de VivaTech. Coupure de Claude Fable en Europe, déploiement de l'Assistant IA dans la fonction publique, nouvel investissement français et appel à développer des alternatives…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dc40b8de86d",
+          "title": "Éclipse du 12 août : 618 000 lunettes gratuites sont distribuées dans cette enseigne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2280977-eclipse-du-12-aout-618-000-lunettes-gratuites-sont-distribuees-dans-cette-enseigne.html",
+          "category": "ia",
+          "published_at": "2026-06-20T08:10:00+00:00",
+          "summary": "À un peu moins de deux mois de la prochaine éclipse solaire en France, la course aux lunettes pour observer en sécurité l'évènement a commencé. Si vous voulez vous équiper déjà gratuitement, une grande enseigne lance une distribution gratuite de lunettes aux normes, le tout sans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19c45cb0a349",
+          "title": "Avez-vous remarqué ce petit détail sur les vidéos YouTube qui parlent de la Coupe du monde ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2281155-avez-vous-remarque-ce-petit-detail-sur-les-videos-youtube-qui-parlent-de-la-coupe-du-monde.html",
+          "category": "ia",
+          "published_at": "2026-06-20T07:41:51+00:00",
+          "summary": "Dans certaines vidéos, Google remplace le curseur rouge qui permet d'avancer dans une vidéo par un ballon de football. Un hommage à la Coupe du monde avec laquelle il a passé un partenariat sur certains marchés. Mais cette petite blague semble extrêmement limitée dans son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8123ef27e124",
+          "title": "The Whitlams Announce Return to Rock Island Australian Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-whitlams-australia-tour-2026-1236277087/",
+          "category": "ia",
+          "published_at": "2026-06-20T07:29:44+00:00",
+          "summary": "The Whitlams are heading back to their favourite Australian pubs this October.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2ec870ecea4",
+          "title": "Écran AMOLED 120 Hz et Galaxy AI : le Samsung S25 FE est à prix cassé chez Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2279711-ecran-amoled-120-hz-et-galaxy-ai-le-samsung-s25-fe-est-a-prix-casse-chez-amazon.html",
+          "category": "ia",
+          "published_at": "2026-06-20T07:29:00+00:00",
+          "summary": "[Deal du jour] La quête du smartphone performant au juste prix peut être compliquée. Sauf quand les Prime Day d'Amazon rejoignent l'aventure. Le Samsung Galaxy S25 FE s'offre une belle baisse de prix pendant l'événement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fecfa8c6875b",
+          "title": "Ariane 6 en « mode barbecue », bras de fer entre la Nasa et la Russie dans l’ISS — le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2280197-ariane-6-en-mode-barbecue-bras-de-fer-entre-la-nasa-et-la-russie-dans-liss-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-06-20T05:39:00+00:00",
+          "summary": "L'actualité scientifique de la semaine a été rythmée par le vol de la fusée Ariane 6 dans sa version la plus puissante, avec l'annonce inattendue d'un « mode barbecue ». Le confinement en urgence des astronautes de l'ISS a aussi révélé une crise entre la Nasa et Rocosmos.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5209640df46f",
+          "title": "GTA 6 ouvre ses précos, le nouveau Spielberg est un chef d’oeuvre et Shrek 5 déçoit – le récap’ pop culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280771-gta-6-ouvre-ses-precos-le-nouveau-spielberg-est-un-chef-doeuvre-et-shrek-5-decoit-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-06-20T05:02:00+00:00",
+          "summary": "C'est le rendez-vous incontournable de votre fin de semaine.&nbsp;Entre excitation maximale et déception visuelle, la pop culture a vibré au rythme de grosses annonces ces derniers jours. Alors que Rockstar lâche enfin la date d'ouverture des précommandes pour le très…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2fa0ef466a4",
+          "title": "Comment mettre un accent à une lettre majuscule À, É, È, Ç, Î, Ô, Û pour Windows en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/846833-comment-mettre-des-accents-sur-les-lettres-majuscules-a-e-e-c-i-o-u.html",
+          "category": "ia",
+          "published_at": "2026-06-20T05:01:00+00:00",
+          "summary": "Vous cherchez comment faire un É majuscule, un À ou un Ç sur votre PC ? Plus besoin de copier-coller depuis Google. Que vous ayez un pavé numérique ou non, voici les 5 méthodes incontournables en 2026 pour accentuer vos majuscules sous Windows. Du raccourci rapide (Alt + 144)…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0bceac39b74",
+          "title": "Ken Carson Sets July Release Date for New Album ‘xperiment’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/ken-carson-new-album-xperiment-1236277078/",
+          "category": "musique",
+          "published_at": "2026-06-20T04:59:12+00:00",
+          "summary": "xperiment follows Carson's 2025 Billboard 200 No. 1 album, More Chaos.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-19",
       "articles": [
+        {
+          "id": "6ffc68281c99",
+          "title": "Tay Keith’s Family Pays Tribute to Late Producer: A ‘Cultural Force’ & ‘Source of Love, Strength, Laughter, Guidance’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/tay-keith-death-producer-family-statement-1236277062/",
+          "category": "cnil",
+          "published_at": "2026-06-19T23:31:49+00:00",
+          "summary": "\"We respectfully ask for privacy and continued prayers for his family and loved ones during this difficult time,\" Keith's family wrote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3edac2970b6c",
+          "title": "Bootsy Collins Signs Davie as First Artist to Bootzilla Records",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/record-labels/bootsy-collins-signs-davie-first-artist-bootzilla-records-1236277059/",
+          "category": "musique",
+          "published_at": "2026-06-19T19:27:10+00:00",
+          "summary": "The roots-soul singer made his label debut with \"Soul,\" released on Juneteenth.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1dd543ce9dc",
+          "title": "La dernière trouvaille du télescope James Webb : une planète rose salée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2280383-la-derniere-trouvaille-du-telescope-james-webb-une-planete-rose-salee.html",
+          "category": "ia",
+          "published_at": "2026-06-19T18:31:00+00:00",
+          "summary": "Le télescope spatial James Webb a observé un astre surprenant. Surnommé la Planète Rose, cet astre ne serait pas forcément une planète à proprement parler, mais en plus, du sel a été détecté dans son atmosphère.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94a7efab8173",
+          "title": "Le jeu Attack on Titan 3 a un argument de taille pour séduire les fans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280999-le-jeu-attack-on-titan-3-a-un-argument-de-taille-pour-seduire-les-fans.html",
+          "category": "musique",
+          "published_at": "2026-06-19T17:30:00+00:00",
+          "summary": "Lors d’un live organisé le 19 juin 2026, MAPPA a annoncé son implication dans Attack on Titan 3 en signant la séquence d’ouverture du jeu. De quoi faire monter encore un peu plus l’attente avant sa présentation prévue le 2 juillet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f79611928a48",
+          "title": "Avant le rachat par Disney, George Lucas préparait une série sur la trajectoire de l’Empereur Palpatine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2279273-avant-le-rachat-par-disney-george-lucas-preparait-une-serie-sur-la-trajectoire-de-lempereur-palpatine.html",
+          "category": "ia",
+          "published_at": "2026-06-19T17:15:57+00:00",
+          "summary": "Alors que la figure maléfique de l'empereur Palpatine a déjà hanté Star Wars à de multiples reprises, de récentes révélations confirment qu'un thriller politique en prise de vues réelles centré sur Dark Sidious avait été imaginé par George Lucas lui-même.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e02f2a75218",
+          "title": "Zara Larsson’s ‘Midnight Sun’ Shines at No. 1 on Billboard’s Pop Airplay Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/zara-larsson-midnight-sun-number-one-pop-airplay-chart-1236276941/",
+          "category": "musique",
+          "published_at": "2026-06-19T17:05:43+00:00",
+          "summary": "She’s the first artist ever to notch two new No. 1s on the chart in back-to-back weeks, following “Stateside” with PinkPantheress.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc5ec613a4d0",
+          "title": "Reggaeton Beach Festival Cancels Its 2026 Edition Citing ‘Economic & Operational Circumstances’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/reggaeton-beach-festival-2026-canceled-1236276937/",
+          "category": "ia",
+          "published_at": "2026-06-19T17:03:52+00:00",
+          "summary": "The events scheduled in Spain for Barcelona, ​​Madrid, Tenerife, Mallorca, Santander, Nigrán and Alicante will not take place, following the decision announced by the organizers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "efdbf6c8f5b7",
+          "title": "Olivia Rodrigo Scores Career-Best Opening Week as ‘You Seem Pretty Sad for a Girl So in Love’ Hits U.K. No. 1",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-uk-number-one-you-seem-pretty-sad-1236276891/",
+          "category": "ia",
+          "published_at": "2026-06-19T17:00:43+00:00",
+          "summary": "Rodrigo now has her third U.K. chart-topper following Sour and Guts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce3c6bd0af28",
+          "title": "Les drones ukrainiens pilonnent les systèmes russes conçus pour brouiller Starlink",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2280937-les-drones-ukrainiens-pilonnent-les-systemes-russes-concus-pour-brouiller-starlink.html",
+          "category": "ia",
+          "published_at": "2026-06-19T16:50:00+00:00",
+          "summary": "Pour neutraliser le réseau Starlink, l'armée russe a déployé un mastodonte technologique coûteux. Une cible idéale pour les drones ukrainiens, qui l'ont pulvérisé ces jours-ci.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d15f0b6cdd67",
+          "title": "Après le succès du film Reze, Chainsaw Man dévoile enfin les secrets de sa suite tant attendue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280947-apres-le-succes-du-film-reze-chainsaw-man-devoile-enfin-les-secrets-de-sa-suite-tant-attendue.html",
+          "category": "ia",
+          "published_at": "2026-06-19T16:18:00+00:00",
+          "summary": "À l'occasion de sa grande conférence anniversaire, le studio MAPPA a  dévoilé la nouvelle bande-annonce de Chainsaw Man : Assassins Arc. Cette suite du long-métrage consacré à Reze s'annonce comme le segment le plus chaotique, brutal et attendu de l'œuvre de Tatsuki Fujimoto.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f539d0cd0a67",
+          "title": "Le patron de la NASA a-t-il profité de l’entrée en bourse de SpaceX pour s’enrichir ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2280079-le-patron-de-la-nasa-a-t-il-profite-de-lentree-en-bourse-de-spacex-pour-senrichir.html",
+          "category": "ia",
+          "published_at": "2026-06-19T16:09:42+00:00",
+          "summary": "L'introduction en bourse historique de SpaceX met en lumière les liaisons dangereuses entre Elon Musk et le nouveau patron de la NASA, Jared Isaacman. Ce dernier s'en défend, mais le soupçon de conflit d'intérêts indirect agite Washington.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "effb0fd5ddfb",
+          "title": "Facturation électronique obligatoire : comment choisir la bonne plateforme et éviter les arnaques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/business/2280927-facturation-electronique-obligatoire-comment-choisir-la-bonne-plateforme-et-eviter-les-arnaques.html",
+          "category": "ia",
+          "published_at": "2026-06-19T16:00:00+00:00",
+          "summary": "Le 1er septembre 2026, la facturation électronique devient obligatoire pour toutes les entreprises françaises. Des millions d'indépendants et de PME ont reçu ces derniers jours un mail de la DGFiP les invitant à choisir leur plateforme de réception, et beaucoup ne savent pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d17e6b258556",
+          "title": "☕️ Apple explique pourquoi l’Apple Watch Ultra de 2022 n’est pas compatible avec watchOS 27",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-explique-pourquoi-lapple-watch-ultra-de-2022-nest-pas-compatible-avec-watchos-27/",
+          "category": "ia",
+          "published_at": "2026-06-19T15:42:48+00:00",
+          "summary": "La nouvelle version du système d&#8217;exploitation pour l&#8217;Apple Watch, watchOS 27, ne s&#8217;installera que sur les versions les plus récentes des montres connectées. Une nécessité pour Siri AI, a expliqué Apple. Les utilisateurs de la première génération d&#8217;Apple…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "047afdb6977c",
+          "title": "Bruxelles pourrait changer d’avis et surtaxer les voitures hybrides chinoises",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2280897-bruxelles-pourrait-changer-davis-et-surtaxer-les-voitures-hybrides-chinoises.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-19T15:11:00+00:00",
+          "summary": "En ciblant uniquement les voitures électriques produites en Chine avec la surtaxe douanière, la Commission européenne a créé un effet d’aubaine sur les hybrides. Malgré un démenti en janvier, l’idée de surtaxer les hybrides ferait finalement son chemin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dad837c9c27e",
+          "title": "Sur iOS, Blink est plus rapide que WebKit, mais cela ne change rien",
+          "source": "Next INpact",
+          "url": "https://next.ink/243416/sur-ios-blink-est-plus-rapide-que-webkit-mais-cela-ne-change-rien/",
+          "category": "ia",
+          "published_at": "2026-06-19T14:40:07+00:00",
+          "summary": "Un responsable de l’équipe Edge chez Microsoft s’est amusé à porter sur iOS un prototype du navigateur avec le moteur Blink, plutôt qu’en passant par le traditionnel (et obligatoire) WebKit. Résultat, une hausse significative des performances. Il ne s’agit toutefois pas d’un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55c0a92d0744",
+          "title": "1 million d’abonnés en 7 jours : ce retraité comptable a tout explosé grâce à la « méthode Kumar »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2280607-1-million-dabonnes-en-7-jours-ce-retraite-comptable-a-tout-explose-grace-a-la-methode-kumar.html",
+          "category": "ia",
+          "published_at": "2026-06-19T14:28:00+00:00",
+          "summary": "Il a l’allure d’un papy comptable, le charisme d’un boss de film de mafia et une obsession : humilier les finance bros sur leur propre terrain. En quelques reels, Kumar est devenu un phénomène Instagram et peut-être le début d’une nouvelle recette virale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1be5b57c5ee",
+          "title": "☕️ Amazon, partenaire d’OpenAI, ne veut plus du film Artificial sur Sam Altman",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/amazon-partenaire-dopenai-ne-veut-plus-du-film-artificial-sur-sam-altman/",
+          "category": "ia",
+          "published_at": "2026-06-19T14:15:03+00:00",
+          "summary": "Pas touche aux icônes de l&#8217;IA. Amazon, en sa qualité de studio de production (MGM), a décidé de ne pas distribuer le film Artificial, centré autour de Sam Altman. Il se trouve qu&#8217;Amazon, en sa qualité de géant du web (AWS), est un partenaire important d&#8217;OpenAI.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1777eb9416d9",
+          "title": "Interdite, mais pas pour tout le monde : l’IA Claude Mythos tourne encore pour quelques heureux élus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2280377-interdite-mais-pas-pour-tout-le-monde-lia-claude-mythos-tourne-encore-pour-quelques-heureux-elus.html",
+          "category": "ia",
+          "published_at": "2026-06-19T14:05:00+00:00",
+          "summary": "Alors que l'administration américaine a ordonné la suspension de l'IA d'Anthropic, le blocage n'est finalement pas total. Selon des informations de Bloomberg, Claude Mythos reste accessible en coulisses pour une poignée de partenaires.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0fafe7fc9b61",
+          "title": "Quand serez-vous débités si vous précommandez GTA 6 jeudi ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280431-quand-serez-vous-debites-si-vous-precommandez-gta-6-jeudi.html",
+          "category": "ia",
+          "published_at": "2026-06-19T13:32:00+00:00",
+          "summary": "Les précommandes de GTA 6 ouvrent le 25 juin sur PS5 et Xbox Series. La vraie question pratique avant de dégainer la carte&nbsp;: à quel moment serez-vous débité pour un jeu qui ne sort que le 19 novembre&nbsp;?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6b3d8943949",
+          "title": "170 € d’économie sur l’iPhone 17 Pro Max pour l’avant-première Prime Day d’Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2280281-170-e-deconomie-sur-liphone-17-pro-max-pour-lavant-premiere-prime-day-damazon.html",
+          "category": "ia",
+          "published_at": "2026-06-19T13:14:31+00:00",
+          "summary": "[Deal du jour] Habituellement vendu au tarif de 1 479 €, l'iPhone 17 Pro Max 256 Go voit temporairement sa facture s'alléger. L'excellent smartphone d'Apple passe en effet à 1 309 € chez Amazon, pile avant les Prime Day.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "403b9f6986de",
+          "title": "TrophyLab : l’Ukraine ouvre ses trophées de guerre aux ingénieurs alliés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2280613-trophylab-lukraine-ouvre-ses-trophees-de-guerre-aux-ingenieurs-allies.html",
+          "category": "ia",
+          "published_at": "2026-06-19T13:00:00+00:00",
+          "summary": "Le ministère de la Défense ukrainien vient de lancer une plateforme sécurisée permettant à des partenaires internationaux d'accéder à des équipements militaires russes capturés sur le champ de bataille, pour mieux les contrer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ac34d82d96c",
+          "title": "Spotify est en panne : impossible d’écouter un morceau en entier, il y a un bug",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2280683-spotify-est-en-panne-impossible-decouter-un-morceau-en-entier.html",
+          "category": "musique",
+          "published_at": "2026-06-19T12:54:00+00:00",
+          "summary": "À en croire la plateforme DownDetector, le service de streaming Spotify rencontre des problèmes techniques. Des centaines d'utilisateurs signalent qu'ils n'arrivent plus à écouter de la muqiue.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d04469d4254",
+          "title": "☕️ Netflix ajoute les programmes et le direct de TF1+",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/netflix-ajoute-les-programmes-et-le-direct-de-tf1/",
+          "category": "ia",
+          "published_at": "2026-06-19T12:51:58+00:00",
+          "summary": "Depuis ce vendredi 19 juin, les abonnés Netflix peuvent accéder aux programmes et aux chaines en direct du groupe TF1. Une première mondiale qui pourrait transformer la plateforme de streaming américaine en véritable agrégateur de contenus. D&#8217;un coup d&#8217;un seul,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65b86822c14e",
+          "title": "Music Ally Insight Report :: International Focus 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/music-ally-insight-report-international-focus-2026/",
+          "category": "musique",
+          "published_at": "2026-06-19T12:30:00+00:00",
+          "summary": "Welcome to our sixth annual Music Ally International Focus report – where we bring all of Music Ally’s Country Profiles published in the last 12 months into one place.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d7bd377f28d",
+          "title": "Role Model is first artist to use Spotify ‘Reserved’ ticketing",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/role-model-is-first-artist-to-use-spotify-reserved-ticketing/",
+          "category": "musique",
+          "published_at": "2026-06-19T12:30:00+00:00",
+          "summary": "Spotify’s next big step into ticketing is rolling out. ‘Reserved’ was announced last month at Spotify’s investor day in New York, and is now live for its premium subscribers in the US. As we explained then, it will see Spotify reserving two tickets for partner artists’ “most…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e89847d5fdd",
+          "title": "BandLab launches major update for its education-focused version",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/bandlab-launches-major-update-for-its-education-focused-version/",
+          "category": "musique",
+          "published_at": "2026-06-19T12:30:00+00:00",
+          "summary": "Music-creation firm BandLab’s business isn’t just about its mobile app for consumers. It also has BandLab for Education, a version designed to be used in classrooms. Now it’s getting a major upgrade. BandLab for Education 2.0 costs $2.50 per student per year although it has…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4242c8f8f9d",
+          "title": "Penske Media Corporation acquires digital publisher Vox Media",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/19/penske-media-corporation-acquires-digital-publisher-vox-media/",
+          "category": "musique",
+          "published_at": "2026-06-19T12:30:00+00:00",
+          "summary": "Having already snaffled Billboard, Variety, Rolling Stone and The Hollywood Reporter as part of its corporate expansion, Penske Media Corporation (PMC) has now made its next acquisitive move. The company is buying Vox Media, the digital publisher whose brands include The Verge,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f9174633a3c",
+          "title": "Avec l’Unreal Engine 6, Epic veut connecter tous les jeux",
+          "source": "Next INpact",
+          "url": "https://next.ink/243279/avec-lunreal-engine-6-epic-veut-connecter-tous-les-jeux/",
+          "category": "ia",
+          "published_at": "2026-06-19T12:26:00+00:00",
+          "summary": "Avec Unreal Engine 6, Epic ne prépare pas seulement le successeur d&#8217;UE5. L&#8217;éditeur veut réunir Fortnite et son moteur dans une plateforme unique pour faire circuler des objets entre les jeux, simplifier la création de mondes persistants et, bien sûr, intégrer les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9108648d708e",
+          "title": "Xiaomi lance une bataille juridique contre un importateur allemand",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2280589-xiaomi-lance-une-bataille-juridique-contre-un-importateur-allemand.html",
+          "category": "ia",
+          "published_at": "2026-06-19T12:21:00+00:00",
+          "summary": "Alors que la marque chinoise prévoit son arrivée sur le marché européen en 2027, un importateur allemand pourrait lui couper l’herbe sous le pied avec des volumes qui agacent le constructeur. Xiaomi a décidé de réagir.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "8dfb9ef2af07",
           "title": "L’arrivée de TF1 sur Netflix enterre un peu plus les box télé et la TNT",
