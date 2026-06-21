@@ -1,9 +1,184 @@
 {
-  "generated_at": "2026-06-20T10:43:32.955237+00:00",
+  "generated_at": "2026-06-21T11:26:58.711679+00:00",
   "days": [
+    {
+      "date": "2026-06-21",
+      "articles": [
+        {
+          "id": "8200cd955b5b",
+          "title": "Amazon fait chuter le prix du ventilateur de plafond Create Windcalm avant les Prime Day",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2280283-amazon-fait-chuter-le-prix-du-ventilateur-de-plafond-create-windcalm-avant-les-prime-day.html",
+          "category": "ia",
+          "published_at": "2026-06-21T08:35:00+00:00",
+          "summary": "[Deal du jour] L'été s'installe et avec lui son lot de journées étouffantes. Heureusement, Amazon propose une belle réduction sur le ventilateur de plafond Create Windcalm, qui passe de 109,95 € à seulement 84,95 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e191dd932d0e",
+          "title": "LA MUSIQUE EST UNE FÊTE NE LAISSEZ PAS L’IA LUI VOLER LA VEDETTE",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/non-classe/la-musique-est-une-fete-ne-laissez-pas-lia-lui-voler-la-vedette/",
+          "category": "ia",
+          "published_at": "2026-06-21T07:56:37+00:00",
+          "summary": "MONSIEUR LE PRÉSIDENT DE LA RÉPUBLIQUE, MONSIEUR LE PREMIER MINISTRE, MADAME LA MINISTRE DE LA CULTURE, LA MUSIQUE EST UNE FÊTE NE LAISSEZ PAS L’IA LUI VOLER LA VEDETTE Chaque 21 juin depuis 44 ans, nous sommes des millions à chanter, jouer, danser et écouter de la musique…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6308ce013a86",
+          "title": "Chaton Fat, carte bancaire dans le métro et IA souveraine : le récap tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2281181-chaton-fat-carte-bancaire-dans-le-metro-et-ia-souveraine-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-06-21T07:30:00+00:00",
+          "summary": "À la une de la rubrique tech de Numerama cette semaine : on a beaucoup parlé d'IA. Le salon Vivatech a ravivé les annonces gouvernementales : l'État lance sa propre IA souveraine pour l'administration et réduire notre dépendance à ChatGPT. Une annonce qui intervient au moment où…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76fcbd4ee312",
+          "title": "Bebe Rexha Shuts Down Olivia Rodrigo Comparison: ‘I’m Actually Happy for Her’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bebe-rexha-olivia-rodrigo-comment-1236277202/",
+          "category": "musique",
+          "published_at": "2026-06-21T07:20:10+00:00",
+          "summary": "Rexha has long been outspoken about the pressures facing women in the music industry.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56e0bafa6dfc",
+          "title": "Deux ans après la ruée vers VivaTech, les constructeurs auto ont presque tous déserté le salon tech",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2280939-deux-ans-apres-la-ruee-vers-vivatech-les-constructeurs-auto-ont-presque-tous-deserte-le-salon-tech.html",
+          "category": "ia",
+          "published_at": "2026-06-21T06:32:00+00:00",
+          "summary": "Où est passée l'automobile à VivaTech ? En deux ans, les constructeurs ont disparu du plus grand salon tech français. Les constructeurs auto sont apparus aussi vite qu'ils ont disparu sur les salons tech, de quoi alimenter l'édito de la newsletter Watt Else du 18 juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "737389c949b2",
+          "title": "Iron Maiden Enforce Phone-Free Standing Area at Paris La Défense Arena Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/iron-maiden-phone-free-paris-1236277198/",
+          "category": "musique",
+          "published_at": "2026-06-21T05:50:24+00:00",
+          "summary": "The rockers confirmed the La Défense Arena performance will be filmed for their forthcoming Run For Your Lives Tour concert film.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d4e533e2006",
+          "title": "C’est parti pour GTA 6, un record de puissance pour Ariane 6 et des offres Prime Day en avant-première — le récap’ de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2281119-record-pour-ariane-6-offres-prime-day-en-avant-premiere-et-gta-6-qui-ouvre-les-preachats-le-recap-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-06-21T05:32:00+00:00",
+          "summary": "Une semaine marquée par une belle prouesse de la fusée européenne Ariane 6, par l'engouement du public pour l'ouverture prochaine des précommandes de GTA 6 et des promotions pour celles et ceux qui guettent les Prime Day d'Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91011f7de735",
+          "title": "Palantir évincé de la DGSI, l’Ukraine intègre la cyber-réserve de l’UE et Microsoft 365 Copilot transformé en mouchard : on vous raconte la semaine Cyberguerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2279489-palantir-evince-de-la-dgsi-lukraine-integre-la-cyber-reserve-de-lue-et-microsoft-365-copilot-transforme-en-mouchard-on-vous-raconte-la-semaine-cyberguerre-qui-vient-de-secouler.html",
+          "category": "ia",
+          "published_at": "2026-06-21T05:02:00+00:00",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : un revirement stratégique français sur le renseignement intérieur, une extension du filet de sécurité européen vers l'Ukraine, et une faille critique chez Microsoft qui a longtemps dormi sous le radar.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-20",
       "articles": [
+        {
+          "id": "fe488ed065cd",
+          "title": "Ariana Grande Announces Full ‘Petal’ Tracklist",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-tracklist-songs-1236277122/",
+          "category": "musique",
+          "published_at": "2026-06-20T22:25:24+00:00",
+          "summary": "All 12 song titles have been revealed for the album, which arrives July 31.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20ebc3d53d76",
+          "title": "Ella Langley Says God, Not Men or Drugs, Is Her ‘One North Star’ in Powerful Onstage Speech",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/ella-langley-god-north-star-oklahoma-concert-speech-1236277119/",
+          "category": "musique",
+          "published_at": "2026-06-20T20:25:40+00:00",
+          "summary": "The country star's heartfelt message came during her June 18 concert in Oklahoma City.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c6955833056",
+          "title": "Ye Drops ‘Bully’ Deluxe Edition Featuring New Don Toliver Song, Shares Surreal ‘Kings’ Video",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-bully-deluxe-edition-don-toliver-kings-video-1236277110/",
+          "category": "musique",
+          "published_at": "2026-06-20T18:18:43+00:00",
+          "summary": "The expanded edition of the rapper’s 12th album includes two new tracks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fea484aba1b7",
+          "title": "Capcom recrée un lieu de Kyoto interdit et considéré comme un passage vers les morts dans Onimusha: Way of the Sword",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2279419-pour-son-prochain-jeu-capcom-recree-un-lieu-de-kyoto-interdit-et-considere-comme-un-passage-vers-les-morts.html",
+          "category": "ia",
+          "published_at": "2026-06-20T16:32:00+00:00",
+          "summary": "Les développeurs d’Onimusha: Way of the Sword ont obtenu l’aide de la ville de Kyoto pour intégrer un lieu légendaire au jeu, considéré comme une porte vers le monde des morts et fermé au public.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1df27c694851",
+          "title": "Fête de la musique 2026 : voici la carte des évènements partout en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2279609-fete-de-la-musique-2026-voici-la-carte-des-evenements.html",
+          "category": "musique",
+          "published_at": "2026-06-20T15:02:00+00:00",
+          "summary": "Vous cherchez où aller pour la Fête de la musique 2026 ? Une carte interactive mise en ligne par le ministère de la Culture permet de trouver les concerts prévus près de chez vous, de filtrer les événements et de préparer votre soirée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2084bf68dc95",
+          "title": "L’Apple AirTag de 2e génération voit son prix fondre à l’approche du Prime Day",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2279707-lapple-airtag-de-2e-generation-voit-son-prix-fondre-a-lapproche-du-prime-day.html",
+          "category": "ia",
+          "published_at": "2026-06-20T14:19:00+00:00",
+          "summary": "[Deal du jour] Lancé plus tôt cette année, l'Apple AirTag de 2e génération bénéficie déjà d'une réduction à l'approche des Prime Day d'Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c84e4ff1dd9",
+          "title": "« L’Europe est nue » : à Eurosatory, la rude leçon de l’Ukraine sur les drones et les robots terrestres",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2279909-comme-faire-un-marathon-avant-meme-de-savoir-marcher-a-eurosatory-la-lecon-ukrainienne-en-matiere-de-drones-et-de-robots-terrestres.html",
+          "category": "ia",
+          "published_at": "2026-06-20T13:30:00+00:00",
+          "summary": "Les entreprises ukrainiennes sont venues en nombre cette année pour la grand-messe parisienne de l'armement, avec des produits phares autour du drone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2730cc22c49",
+          "title": "#Flock : God save the kids",
+          "source": "Next INpact",
+          "url": "https://next.ink/243093/flock-god-save-the-kids/",
+          "category": "ia",
+          "published_at": "2026-06-20T11:37:00+00:00",
+          "summary": "Le premier ministre britannique prend des mesures pour protéger les mineurs face au numérique. Il va de soi que l’objectif est louable, notamment pour les protéger de certains adultes peu recommandables. Mais la tâche risque d’être ardue, surtout auprès des premiers concernés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de16edf3da62",
+          "title": "Est-il possible de tester Siri AI en France malgré le blocage en Europe ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276231-est-il-possible-de-tester-siri-ai-en-france-malgre-le-blocage-en-europe.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-20T10:44:24+00:00",
+          "summary": "Au lancement, Siri AI ne sera pas disponible sur iPhone, iPad et Apple Watch dans les pays de l'Union européenne, sur fond de désaccord entre Apple et la Commission européenne. Comme avec Apple Intelligence il y a deux ans, il est possible de contourner le blocage avec un compte…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3ec47834b0eb",
           "title": "Emmanuel Macron appelle à un sursaut européen pour ne pas être « consommateurs d’une technologie faite par d’autres »",
