@@ -1,9 +1,504 @@
 {
-  "generated_at": "2026-06-21T11:26:58.711679+00:00",
+  "generated_at": "2026-06-22T13:44:34.583874+00:00",
   "days": [
+    {
+      "date": "2026-06-22",
+      "articles": [
+        {
+          "id": "abccb060c443",
+          "title": "Une attaque supply chain expose des données Salesforce de plusieurs entreprises de cybersécurité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2281657-une-attaque-supply-chain-expose-des-donnees-salesforce-de-plusieurs-entreprises-de-cybersecurite.html",
+          "category": "ia",
+          "published_at": "2026-06-22T13:38:12+00:00",
+          "summary": "Une attaque contre la plateforme d'intelligence compétitive Klue a permis à un groupe criminel d'exfiltrer des données CRM chez des dizaines d'entreprises, dont plusieurs noms majeurs du secteur de la cybersécurité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "727f6b124aa1",
+          "title": "Design intérieur, batterie : on en sait un peu plus sur la future petite Smart électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2281611-design-interieur-batterie-on-en-sait-un-peu-plus-sur-la-future-petite-smart-electrique.html",
+          "category": "ia",
+          "published_at": "2026-06-22T13:30:00+00:00",
+          "summary": "Smart en dévoile un peu plus sur sa prochaine citadine 100 % électrique. Baptisée #2, elle reprendra exactement la même philosophie que son aïeule et proposera un intérieur particulier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da7d3ab53795",
+          "title": "That’s Quite a Mouthful: Billboard 200-Topping Albums With the Wordiest Titles",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/number-one-albums-billboard-200-longest-titles/",
+          "category": "musique",
+          "published_at": "2026-06-22T13:29:22+00:00",
+          "summary": "Olivia Rodrigo’s new album has a 10-word title. That’s not the record for a Billboard 200-topping album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd5842f6b52f",
+          "title": "☕️ Claude Guillemot, cofondateur d’Ubisoft, meurt dans un accident d’avion",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/claude-guillemot-cofondateur-dubisoft-meurt-dans-un-accident-davion/",
+          "category": "ia",
+          "published_at": "2026-06-22T13:05:51+00:00",
+          "summary": "Ubisoft a perdu un de ses cofondateurs. Claude Guillemot, 69 ans, a trouvé la mort dans un accident d&#8217;avion de tourisme vendredi 19 juin, non loin de La Baule (Loire-Atlantique). Avec ses quatre autres frères, il a cofondé l&#8217;éditeur français de jeux vidéo (à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "062c44e2306d",
+          "title": "MF Doom estate and Temu reach settlement in lawsuit over alleged knock-off merch",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/mf-doom-estate-and-temu-reach-settlement-in-lawsuit-over-alleged-knock-off-merch/",
+          "category": "musique",
+          "published_at": "2026-06-22T12:52:23+00:00",
+          "summary": "The plaintiff, Gas Drawls, LLC, owns the rights to MF Doom's music and intellectual property\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a17d28da0909",
+          "title": "Tech startup RTM Audio launches AI music detector UAI, which issues a signed certificate with every verdict",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tech-startup-rtm-audio-launches-ai-music-detector-uai-which-issues-a-signed-certificate-with-every-verdict/",
+          "category": "musique",
+          "published_at": "2026-06-22T12:47:26+00:00",
+          "summary": "RTM Audio was founded by mixing and mastering engineers Ohad Nissim, Teezio, and Calin Enache, alongside music attorney Matt Buser\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51513870c1f6",
+          "title": "Accessibilité du numérique public : une « non-conformité généralisée »",
+          "source": "Next INpact",
+          "url": "https://next.ink/243475/accessibilite-du-numerique-public-une-non-conformite-generalisee/",
+          "category": "ia",
+          "published_at": "2026-06-22T12:44:41+00:00",
+          "summary": "Dans un rapport sur l&#8217;accessibilité&#160;du numérique public, la Cour des comptes explique que « seulement seize des 244 démarches jugées essentielles pour les usagers (soit 6,6 %) sont conformes » au règlement en vigueur sur l&#8217;accessibilité. Elle souligne que cette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d07b92e77a7",
+          "title": "Mon avis après avoir vu la nouvelle Renault Mégane électrique : plus de caractère, mais un manque d’évolution ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2280649-mon-avis-apres-avoir-vu-la-nouvelle-renault-megane-electrique-plus-de-caractere-mais-un-manque-devolution.html",
+          "category": "ia",
+          "published_at": "2026-06-22T12:32:00+00:00",
+          "summary": "J'ai pu monter à bord de la version restylée de la Renault Megane E-Tech en avant-première. La compacte électrique au losange opte pour un look plus affirmé et change surtout de batterie. Mais avec seulement 30 km d'autonomie gagnés, est-ce bien suffisant ? Verdict.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03ddfc19994d",
+          "title": "Japan creates public performance right for recorded music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/22/japan-creates-public-performance-right-for-recorded-music/",
+          "category": "musique",
+          "published_at": "2026-06-22T12:30:00+00:00",
+          "summary": "The Japanese government has approved an amendment to the Japanese Copyright Act regarding music playback in public spaces. Performing artists and record companies will now be paid when their recorded music is played publicly. Previously, only songwriters and composers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1adfdef326e",
+          "title": "Spotify celebrates new Istanbul office with updated Turkish language music data",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/22/spotify-celebrates-new-istanbul-office-with-updated-turkish-language-music-data/",
+          "category": "musique",
+          "published_at": "2026-06-22T12:30:00+00:00",
+          "summary": "We have reported before on Spotify’s complex recent history with the government in Türkiye (TL;DR: censorship ruckus, mooted competition inquiry, threats from Spotify to pull out of the country) but time, and – we presume, some long conversations behind the scenes – heals all…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76ce99d50fe9",
+          "title": "Atonemo and NTS Radio team up to create dedicated radio player device",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/22/atonemo-and-nts-radio-team-up-to-create-dedicated-radio-player-device/",
+          "category": "musique",
+          "published_at": "2026-06-22T12:30:00+00:00",
+          "summary": "If you were at Music Ally NEXT last week, you’ll have seen Leo Ballesteros, founder of Swedish audio company Atonemo and one of the finalists in our International Entrepreneur of the Year contest, talk about the launch of a neat little product based on the company’s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58334f5be5a7",
+          "title": "Serenade launches new “smart formats” for events and digital wallets",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/22/serenade-launches-new-smart-formats-for-events-and-digital-wallets/",
+          "category": "musique",
+          "published_at": "2026-06-22T12:30:00+00:00",
+          "summary": "Serenade has had quite a journey since it launched as a digital-album-collectable platform in the heady NFT-frenzy days. It then pivoted to offer chart-eligible merch products where items like button badges, lanyards, and tour posters can be purchased and activated via NFC chips…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82be25f91b29",
+          "title": "Voici Ernest, le rover tout-terrain pour explorer la Lune ou Mars sans risquer d’accident",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2281523-voici-ernest-le-rover-tout-terrain-pour-explorer-la-lune-ou-mars-sans-risquer-daccident.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-22T12:01:00+00:00",
+          "summary": "La Nasa travaille sur un prototype de véhicule conçu pour pouvoir circuler même sur les terrains les plus accidentés. Surnommé Ernest, il a pour l'instant été testé dans le désert du Colorado, avant un futur vol peut-être vers la Lune ou Mars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a30a13db68cd",
+          "title": "Alerte pollution : même les voitures électriques doivent réduire leur vitesse de 20 km/h",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2023899-alerte-pollution-meme-les-voitures-electriques-doivent-ralentir-de-20-km-h.html",
+          "category": "ia",
+          "published_at": "2026-06-22T11:53:50+00:00",
+          "summary": "La question revient à chaque épisode de pollution aux particules&nbsp;: oui, les voitures électriques doivent aussi respecter la baisse des limitations de vitesse imposées au trafic routier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdcb9880dec1",
+          "title": "Vers une ère de « post-réalité », instrumentalisée par des médias de « réinformation » (1/3)",
+          "source": "Next INpact",
+          "url": "https://next.ink/241605/vers-une-ere-de-post-realite-instrumentalisee-par-des-medias-de-reinformation-1-3/",
+          "category": "ia",
+          "published_at": "2026-06-22T11:37:56+00:00",
+          "summary": "La délégation à la prospective du Sénat consacre une étude au « futur de notre rapport à l’autorité et à la vérité à l’horizon 2050 ». Elle anticipe une ère de «&#160;post-réalité », fictionnalisée et instrumentalisée par les « médias d&#8217;opinion » et de « réinformation »…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d40137b583c1",
+          "title": "House of the Dragon : qui est ce « Stark » dur à cuire qui vole la vedette à Daemon ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281595-house-of-the-dragon-qui-est-ce-stark-badass-qui-vole-la-vedette-a-daemon.html",
+          "category": "ia",
+          "published_at": "2026-06-22T11:31:00+00:00",
+          "summary": "Un visage fermé, une attitude de dur à cuire et des bannières bien connues... L'épisode 1 de la saison 3 de House of the Dragon introduit un nouveau personnage nordien ultra-badass. On vous explique qui se cache derrière ce guerrier qui va bousculer la Danse des Dragons.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "930768247aec",
+          "title": "Netflix brise les plans d’Universal et s’empare des droits d’un monument de notre enfance",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281575-netflix-brise-les-plans-duniversal-et-sempare-des-droits-dun-monument-de-notre-enfance.html",
+          "category": "musique",
+          "published_at": "2026-06-22T11:16:00+00:00",
+          "summary": "Le géant du streaming a faim, très faim. Au terme d'une bataille de polichinelles acharnée qui aura duré près d'un an, Netflix vient officiellement de remporter les droits d'adaptation cinématographique de Sesame Street (1, rue Sésame).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1621d05f6c2e",
+          "title": "Après Pokémon Go, voici le jeu où il faut attraper… des chats",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281383-apres-pokemon-go-voici-le-jeu-ou-il-faut-attraper-des-chats.html",
+          "category": "ia",
+          "published_at": "2026-06-22T11:00:00+00:00",
+          "summary": "Disponible depuis le 21 juin 2026, CatchCat invite les joueurs à photographier de vrais chats pour les ajouter à leur collection virtuelle. Un concept inspiré de Pokémon Go qui suscite déjà la curiosité sur les réseaux sociaux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af8e8cf7f434",
+          "title": "Canicule en France : qu’est-ce qu’un « orage sec » qui amplifie la chaleur ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2281359-canicule-en-france-quest-ce-quun-orage-sec-qui-amplifie-la-chaleur.html",
+          "category": "ia",
+          "published_at": "2026-06-22T10:45:00+00:00",
+          "summary": "La canicule se poursuit en France, alors que l'été a officiellement commencé. Des orages secs pourraient également se produire. Ces phénomènes peuvent rendre l'atmosphère encore plus lourde, et sont dangereux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9434a51836f6",
+          "title": "Spotify opens Istanbul office as Turkish music tops 294 billion all-time streams on the platform",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-opens-istanbul-office-as-turkish-music-tops-294-billion-all-time-streams-on-the-platform/",
+          "category": "musique",
+          "published_at": "2026-06-22T10:42:08+00:00",
+          "summary": "Spotify says streams of Turkish music on its platform have grown over 190% in five years\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "619adf08f553",
+          "title": "SpaceX lance Starfall, un nouveau véhicule cargo en forme de soucoupe pour le fret spatial",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2281345-spacex-lance-starfall-un-nouveau-vehicule-cargo-en-forme-de-soucoupe-pour-le-fret-spatial.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-22T10:31:00+00:00",
+          "summary": "SpaceX s’apprête à lancer la mystérieuse mission de démonstration « Starfall ». Les documents de la FAA révèlent la nature de ce projet hautement stratégique : un véhicule inédit en forme de disque plat dédié uniquement au fret spatial, conçu pour jeter les bases d'une véritable…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0b2a85e63a2",
+          "title": "Les meilleurs climatiseurs en promo pour l’avant première des Prime Day d’Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2281525-les-meilleurs-climatiseurs-en-promo-pour-lavant-premiere-des-prime-day-damazon.html",
+          "category": "ia",
+          "published_at": "2026-06-22T10:26:02+00:00",
+          "summary": "[Deal du jour] Les Prime Day débutent ce mardi 23 juin 2026, mais Amazon n'a pas attendu la date officielle pour commencer à brader de nombreux produits. Les climatiseurs ne font pas exception : de nombreux modèles sont déjà proposés à des prix avantageux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c81d751e45a",
+          "title": "On a vu 4 épisodes de la saison 3 de House of the Dragon : : notre avis sans spoilers sur la série HBO",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2276263-on-a-vu-4-episodes-de-la-saison-3-de-house-of-the-dragon-notre-avis-sans-spoilers-sur-la-serie-hbo.html",
+          "category": "ia",
+          "published_at": "2026-06-22T10:19:49+00:00",
+          "summary": "Nous avons pu voir en avant-première les 4 premiers épisodes de la saison 3 de House of the Dragon. Après une saison 2 de préparation, la Danse des Dragons s'ouvre sur un chaos spectaculaire, avant de laisser place à une tension psychologique étouffante. Notre avis sur ce début,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5e401736e9f7",
+          "title": "iPhone Fold et iPhone 18 Pro : nouveautés, design, date de sortie, prix en hausse… Toutes les infos sur les smartphones Apple",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2220091-iphone-18-pro-et-iphone-fold-nouveautes-date-prix-toutes-les-infos-sur-les-smartphones-apple.html",
+          "category": "ia",
+          "published_at": "2026-06-22T09:53:36+00:00",
+          "summary": "Neuf ans après l'iPhone X, Apple devrait annoncer son smartphone le plus ambitieux de la décennie en 2026 : l'iPhone Fold (qui pourrait s'appeler iPhone Ultra). Un smartphone pliant qui devrait être accompagné de l'iPhone 18 Pro et de l'iPhone 18 Pro Max, deux smartphones…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "615b0d73c2db",
+          "title": "☕️ Projet Myna : Canonical confirme la reconnaissance vocale en local dans Ubuntu 26.10",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/projet-myna-canonical-confirme-la-reconnaissance-vocale-en-local-dans-ubuntu-26-10/",
+          "category": "ia",
+          "published_at": "2026-06-22T09:52:45+00:00",
+          "summary": "Pour Canonical, l’intelligence artificielle se répartit en deux grandes catégories : l’IA implicite, qui améliore discrètement des fonctions existantes, et l’IA explicite, qui correspond à des fonctions que l’on appelle en toute connaissance de cause. Dans notre article du 8…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2eb578a998c6",
+          "title": "Lewis Capaldi Says New Album Is in the Works During TRNSMT Set",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/lewis-capaldi-new-album-trnsmt-2-1236277432/",
+          "category": "musique",
+          "published_at": "2026-06-22T09:29:24+00:00",
+          "summary": "Capaldi also spoke candidly about the difficult period that followed his last TRNSMT appearance in 2022.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8785a0117042",
+          "title": "C’est quoi Megapod, le nouveau projet de Tesla pour les datacenters IA ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2281405-cest-quoi-megapod-le-nouveau-projet-de-tesla-pour-les-datacenters-ia.html",
+          "category": "ia",
+          "published_at": "2026-06-22T09:20:55+00:00",
+          "summary": "Tesla a déposé la marque « Megapod » auprès du bureau américain des brevets. L'entreprise prévoirait un système modulaire de datacenter pour l'intelligence artificielle qui pourrait lui permettre d'entraîner et de faire tourner des modèles partout.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba8e441b4961",
+          "title": "Irving Azoff’s Music Artists Coalition among 31 groups warning against ‘misuse’ of artist and songwriter rights in AI deals",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/irving-azoffs-music-artists-coalition-among-31-groups-warning-against-misuse-of-artist-and-songwriter-rights-in-ai-deals/",
+          "category": "musique",
+          "published_at": "2026-06-22T09:14:42+00:00",
+          "summary": "Orgs representing artists, songwriters and music managers issue open letter over AI deals\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85d9b7f375f1",
+          "title": "Quel est le meilleur climatiseur mobile et connecté pour passer l’été 2026 au frais ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1402090-meilleur-climatiseur-mobile-notre-comparatif.html",
+          "category": "ia",
+          "published_at": "2026-06-22T09:02:39+00:00",
+          "summary": "Avec la canicule qui s'installe, le climatiseur mobile devient la solution la plus rapide pour rafraîchir son logement sans travaux. Voici notre sélection des meilleurs modèles du moment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7435092f830e",
+          "title": "Les premiers Superchargeurs Tesla à haute puissance arrivent en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2281365-les-premiers-superchargeurs-tesla-a-haute-puissance-arrivent-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-06-22T08:55:00+00:00",
+          "summary": "En Norvège, Tesla a installé le premier Superchargeur V4 à haute puissance. Les bornes peuvent désormais délivrer jusqu'à 500 kW, mais les propriétaires de modèles de la marque sont toujours sur la touche.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cec0d4b4580e",
+          "title": "80 000 pare-feux Fortinet compromis à cause d’une mauvaise gestion des mots de passe",
+          "source": "Next INpact",
+          "url": "https://next.ink/243476/80-000-pare-feux-fortinet-compromis-a-cause-dune-mauvaise-gestion-des-mots-de-passe/",
+          "category": "ia",
+          "published_at": "2026-06-22T08:49:15+00:00",
+          "summary": "Il y a une semaine, une importante campagne d’attaque a été détectée contre les pare-feux Fortinet. 80&#160;000 mots de passe ont été récupérés par des pirates, ce qui représenterait la moitié environ des pare-feux Fortinet exposés à Internet. L’attaque a été découverte par le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d69d56775a5",
+          "title": "Toy Story 5 explose le box-office mondial et s’offre un record historique jamais vu en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281399-toy-story-5-explose-le-box-office-mondial-et-soffre-un-record-historique-jamais-vu-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-06-22T08:44:52+00:00",
+          "summary": "Woody et Buzz l’Éclair n'ont pas pris une ride.&nbsp;Pour son premier week-end d'exploitation,&nbsp;Toy Story 5&nbsp;a réalisé un véritable hold-up en engrangeant pas moins de 312 millions de dollars au box-office mondial. En signant le meilleur démarrage cinématographique de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4a136faa5cc",
+          "title": "Il va vous falloir un compte Microsoft pour jouer à Halo: Campaign Evolved sur PS5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281353-vous-naurez-pas-besoin-du-playstation-plus-pour-jouer-a-halo-mais-vous-aurez-besoin-dun-compte-microsoft.html",
+          "category": "ia",
+          "published_at": "2026-06-22T08:33:54+00:00",
+          "summary": "L'équipe de développement du remake de Halo a rectifié une information selon laquelle un abonnement au PlayStation Plus serait requis pour jouer en coopération locale sur PS5. En revanche, un compte Microsoft ainsi qu'un Gamertag Xbox seront bel et bien nécessaires.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a264310a58a0",
+          "title": "Coupe du monde 2026 : attention à l’horaire du match France-Irak",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281339-coupe-du-monde-2026-attention-a-lhoraire-du-match-france-irak.html",
+          "category": "ia",
+          "published_at": "2026-06-22T08:27:02+00:00",
+          "summary": "Après sa victoire face au Sénégal lors de la première journée, la France affronte l'Irak. Un deuxième succès de suite validerait sa qualification pour les seizièmes de finale. Coup d'envoi à 23h, ce lundi 22 juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18ce420fdb2c",
+          "title": "Xiaomi YU7 GT : la machine ne bat pas encore l’humain sur le record du Nürburgring",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2281361-xiaomi-yu7-gt-la-machine-ne-bat-pas-encore-lhumain-sur-le-record-du-nurburgring.html",
+          "category": "ia",
+          "published_at": "2026-06-22T08:09:52+00:00",
+          "summary": "Des images avaient fuité concernant une nouvelle tentative de record de Xiaomi sur le circuit du Nürburgring. On en sait plus sur cette performance de conduite autonome.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12791d5238e0",
+          "title": "Mais que se passe-t-il avec l’application WhatsApp boursoufflée sur Windows ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/243442/mais-que-se-passe-t-il-avec-lapplication-whatsapp-boursoufflee-sur-windows/",
+          "category": "ia",
+          "published_at": "2026-06-22T07:37:00+00:00",
+          "summary": "WhatsApp est la messagerie instantanée la plus utilisée au monde après Messenger, les deux appartenant à Meta. Le service possède plusieurs applications, dont deux «&#160;desktop&#160;» pour Windows et macOS. La différence de traitement est pourtant énorme. L’histoire de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c9256c7a898",
+          "title": "Le remake de The Legend of Zelda: Ocarina of Time pourrait bien revoir cet élément clé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281325-le-remake-de-the-legend-of-zelda-ocarina-of-time-pourrait-bien-revoir-cet-element-cle.html",
+          "category": "ia",
+          "published_at": "2026-06-22T07:32:38+00:00",
+          "summary": "Alors que les spéculations vont bon train concernant le remake de The Legend of Zelda: Ocarina of Time, fraîchement annoncé, un vieil entretien de Shigeru Miyamoto au sujet du jeu original sur Nintendo 64 refait surface, avec peut-être un indice caché dedans.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43d5b841b08f",
+          "title": "☕️ Retour en 2023 : lourde peine pour un vendeur de CD de musique piratée",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/retour-en-2023-lourde-peine-pour-un-vendeur-de-cd-de-musique-piratee/",
+          "category": "musique",
+          "published_at": "2026-06-22T06:53:00+00:00",
+          "summary": "À l&#8217;heure du streaming tous azimuts et du pillage généralisé des œuvres de l&#8217;esprit par les labos IA, il est presque réconfortant de voir que certains gravent toujours de la musique piratée sur des CD pour les commercialiser, comme au bon vieux temps des années 2000.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0bc3b90ccd81",
+          "title": "CD Projekt Red ne s’est pas encore totalement remis du fiasco Cyberpunk 2077",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281319-cd-projekt-red-ne-sest-pas-encore-totalement-remis-du-fiasco-cyberpunk-2077.html",
+          "category": "ia",
+          "published_at": "2026-06-22T06:39:04+00:00",
+          "summary": "CD Projekt Red est revenu pour la énième fois sur le lancement chaotique de Cyberpunk 2077. Aux yeux du studio, l'arc de rédemption n'est pas encore totalement terminé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d366dbff5739",
+          "title": "La Norvège va interdire les chatbots IA aux écoliers",
+          "source": "Next INpact",
+          "url": "https://next.ink/243458/la-norvege-va-interdire-les-chatbots-ia-aux-ecoliers/",
+          "category": "ia",
+          "published_at": "2026-06-22T06:26:50+00:00",
+          "summary": "Après les smartphones, les chatbots. La Norvège va limiter fortement l&#8217;accès à ces outils d&#8217;IA générative à l&#8217;école. Pour le gouvernement, les enfants doivent d&#8217;abord apprendre à lire, écrire et compter, avant de déléguer leurs devoirs à ChatGPT. Les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7bd478a62723",
+          "title": "Goose Pays Tribute to Fan Who Died at MSG Concert: ‘Life Is Fragile’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/fan-dies-after-fall-goose-concert-madison-square-garden-1236277419/",
+          "category": "musique",
+          "published_at": "2026-06-22T06:26:12+00:00",
+          "summary": "Before the show, the band explained their decision to proceed with Sunday's concert, acknowledging the tragedy.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2cea341abe65",
+          "title": "Musicians Pen Letter, Warning About AI Music Deals: ‘Innovation Cannot Be Used to Override Artists’ Rights’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ai-music-deals-musicians-letter-artists-rights/",
+          "category": "musique",
+          "published_at": "2026-06-22T06:00:00+00:00",
+          "summary": "\"Labels and publishers rightly argue that AI companies need permission to train on their music catalog, but will not grant artists and songwriters the same rights,\" a press release reads.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a61fc247d926",
+          "title": "Open letter: Musicians ‘must not be pressured into AI deals’ by rightsholders",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/22/open-letter-musicians-must-not-be-pressured-into-ai-deals-by-rightsholders/",
+          "category": "ia",
+          "published_at": "2026-06-22T06:00:00+00:00",
+          "summary": "Stop us if you&#8217;ve heard this one before: the music industry wants permission, payment and transparency from AI companies.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "166af9f23dfc",
+          "title": "GTA 6 à 90 € ? Pourquoi il ne faut pas croire les prix de précommande qui circulent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281313-mefiez-vous-de-ces-prix-de-gta-6-qui-circulent-sur-le-web.html",
+          "category": "ia",
+          "published_at": "2026-06-22T05:45:44+00:00",
+          "summary": "La branche portugaise de la Fnac a listé plusieurs prix pour GTA 6, dont les précommandes ouvriront officiellement le 25 juin prochain. Comme attendu, le blockbuster démarrerait à 90 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7e2eebcad9f",
+          "title": "James Bond : pourquoi Callum Turner est, selon nous, le successeur idéal de Daniel Craig",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2275037-james-bond-pourquoi-callum-turner-est-selon-nous-le-successeur-ideal-de-daniel-craig.html",
+          "category": "ia",
+          "published_at": "2026-06-22T05:30:00+00:00",
+          "summary": "La course pour 007 est lancée, et notre favori est tout trouvé.&nbsp;Alors que les rumeurs s'affolent autour d'Aaron Taylor-Johnson ou d'Henry Cavill pour succéder à Daniel Craig, Callum Turner possède l'équilibre parfait pour incarner le futur du MI6. Avec sa nonchalance…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-21",
       "articles": [
+        {
+          "id": "0d68e9a24bba",
+          "title": "Ye’s July 4 Concert Should Be Canceled, San Antonio Mayor Says",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kanye-west-july-4-concert-san-antonio-mayor-cancel-1236277359/",
+          "category": "musique",
+          "published_at": "2026-06-21T22:30:54+00:00",
+          "summary": "West's Fourth of July stadium show is scheduled to go on at the Alamodome downtown.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19fa4b5f95a4",
+          "title": "‘Michael’ Pulls Further Ahead of ‘Bohemian Rhapsody’ as Top-Grossing Music Biopic Worldwide: See the Top 25",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/top-grossing-music-biopics-movies/",
+          "category": "musique",
+          "published_at": "2026-06-21T19:46:09+00:00",
+          "summary": "It's closing in on Oppenheimer as the top-grossing biopic, period.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e6f04239bc0",
+          "title": "Rod Stewart Uses Oxygen Tank During Concert After Nearly Fainting Onstage",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/rod-stewart-uses-oxygen-tank-after-nearly-fainting-onstage-1236277350/",
+          "category": "musique",
+          "published_at": "2026-06-21T19:43:24+00:00",
+          "summary": "\"The show must go on,\" the 81-year-old rocker told the Utah crowd.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0415b4e6a475",
+          "title": "Olivia Rodrigo Scores Third No. 1 Album on Billboard 200 With ‘You Seem Pretty Sad for a Girl So in Love’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-number-one-billboard-200-1236277283/",
+          "category": "musique",
+          "published_at": "2026-06-21T19:00:04+00:00",
+          "summary": "The set launches with year’s biggest week by units for a soloist.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "8200cd955b5b",
           "title": "Amazon fait chuter le prix du ventilateur de plafond Create Windcalm avant les Prime Day",
