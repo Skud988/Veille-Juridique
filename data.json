@@ -1,9 +1,544 @@
 {
-  "generated_at": "2026-06-22T13:44:34.583874+00:00",
+  "generated_at": "2026-06-23T11:33:47.843940+00:00",
   "days": [
+    {
+      "date": "2026-06-23",
+      "articles": [
+        {
+          "id": "95ef8a70de30",
+          "title": "Sauvetage de Swift : pourquoi le plan de la dernière chance s’élance-t-il depuis un atoll paumé dans le Pacifique ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2282675-sauvetage-de-swift-pourquoi-le-plan-de-la-derniere-chance-selance-t-il-depuis-un-atoll-paume-dans-le-pacifique.html",
+          "category": "ia",
+          "published_at": "2026-06-23T11:31:00+00:00",
+          "summary": "Pour sauver le télescope spatial Swift d'une destruction certaine, une mission de remorquage privée s'apprête à décoller fin juin 2026. Mais au lieu de partir de la mythique base de Cap Canaveral, la fusée s'élancera au-dessus d'un atoll perdu au milieu du Pacifique. Et ce n'est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96d49ad131ce",
+          "title": "Spotify wins dismissal of lawsuit claiming it allowed ‘billions’ of fraudulent Drake streams",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-wins-dismissal-of-lawsuit-claiming-it-allowed-billions-of-fraudulent-drake-streams/",
+          "category": "musique",
+          "published_at": "2026-06-23T11:16:40+00:00",
+          "summary": "In November 2025, rapper RBX claimed Spotify failed to curb \"mass-scale fraudulent streaming,\" stripping royalties from other rights holders.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a73f668da84",
+          "title": "Pour réduire ses coûts, Nissan abandonne discrètement son projet de Qashqai 100 % électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2282405-pour-reduire-ses-couts-nissan-abandonne-discretement-son-projet-de-qashqai-100-electrique.html",
+          "category": "ia",
+          "published_at": "2026-06-23T10:41:00+00:00",
+          "summary": "Le Nissan Qashqai n'aura pas droit à une déclinaison 100 % électrique, du moins pour le moment. La marque souhaite réduire ses coûts et le nombre de ses modèles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f071b4da413c",
+          "title": "Sécurité : OpenAI veut « patcher la planète »",
+          "source": "Next INpact",
+          "url": "https://next.ink/243650/securite-openai-veut-patcher-la-planete/",
+          "category": "ia",
+          "published_at": "2026-06-23T10:32:00+00:00",
+          "summary": "OpenAI étend le front de guerre sur la cybersécurité avec une extension de son programme Daybreak. L’entreprise a fait plusieurs annonces, dont le lancement d’une version finale pour son modèle dédié GPT-5.5-Cyber et l’initiative Patch the Planet destinée au monde de l’open…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a2212d1eced",
+          "title": "Guerre du quantique : Donald Trump signe deux décrets pour préparer les États-Unis au grand choc",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282535-guerre-du-quantique-donald-trump-signe-deux-decrets-pour-preparer-les-etats-unis-au-grand-choc.html",
+          "category": "ia",
+          "published_at": "2026-06-23T10:29:40+00:00",
+          "summary": "Le 22 juin 2026, Donald Trump a signé deux décrets destinés à accélérer le développement des technologies quantiques aux États-Unis. L'un vise à faire émerger une véritable industrie quantique américaine, tandis que l'autre prépare l'administration fédérale à l'arrivée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a29bc9548d6f",
+          "title": "Suivez en direct le départ de Starfall, mission inédite de SpaceX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2282093-suivez-en-direct-le-depart-de-starfall-mission-inedite-de-spacex.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T10:25:14+00:00",
+          "summary": "Un design plat, zéro astronaute à bord et une ambition industrielle assumée : SpaceX s'apprête à tester Starfall, son tout nouveau cargo orbital, dont la forme évoque une soucoupe volante. Décollage prévu ce mardi 23 juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c80b59639bb",
+          "title": "Jenna Ortega (Mercredi) change radicalement de style pour incarner une IA au cinéma",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2282609-jenna-ortega-mercredi-change-radicalement-de-style-pour-incarner-une-ia-au-cinema.html",
+          "category": "ia",
+          "published_at": "2026-06-23T10:18:00+00:00",
+          "summary": "Adieu le look gothique, bonjour la mélancolie artificielle.&nbsp;Jenna Ortega, devenue une icône mondiale grâce à son rôle de Mercredi Addams sur Netflix, change radicalement de registre. La première bande-annonce de&nbsp;Klara and the Sun (Klara et le Soleil), le prochain drame…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a98ec00a23d8",
+          "title": "Amazon lance enfin ses Prime Day : voici toutes les meilleures offres en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282373-amazon-lance-ses-prime-day-voici-tous-les-meilleurs-deals-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-06-23T10:00:59+00:00",
+          "summary": "Les Prime Day sont officiellement lancés depuis ce mardi 23 juin à minuit, et pour quatre jours, jusqu'au 26 juin. Amazon n'avait pas vraiment attendu le coup d'envoi pour dégainer ses premières promotions réservées à ses abonnés, mais le gros des offres arrive maintenant. Voici…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dbb1ab9efe9",
+          "title": "Le réalisateur du prochain Spider-Man s’attaque au monument de pirates Sea of Thieves",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2282383-le-realisateur-du-prochain-spider-man-sattaque-au-monument-de-pirates-sea-of-thieves.html",
+          "category": "ia",
+          "published_at": "2026-06-23T10:00:00+00:00",
+          "summary": "Après les blocs de&nbsp;Minecraft&nbsp;et les terres désolées de&nbsp;Fallout, Xbox s'apprête à lever l'ancre.&nbsp;Le géant du jeu vidéo vient de confirmer officiellement le développement d'un film en prises de vues réelles adapté de son succès coopératif&nbsp;Sea of Thieves.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1c531566871",
+          "title": "La jaquette de Kingdom Hearts a discrètement été modifiée après la polémique sur l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2282355-la-jaquette-de-kingdom-hearts-a-discretement-ete-modifiee-apres-la-polemique-sur-lia.html",
+          "category": "ia",
+          "published_at": "2026-06-23T10:00:00+00:00",
+          "summary": "À la suite des accusations selon lesquelles Square Enix aurait utilisé des visuels générés par IA pour la jaquette de la compilation Kingdom Hearts Collection, une version différente est apparue chez certains revendeurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a3ea94b54cc",
+          "title": "Prime Day : 4 bonnes raisons de changer de chaise de bureau pour la Sihoo Doro C300 Pro V2 [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2279211-prime-day-4-bonnes-raisons-de-changer-de-chaise-de-bureau-pour-la-sihoo-doro-c300-pro-v2.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T09:47:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Sihoo\n\nQui a dit qu’une chaise ergonomique de qualité devait forcément coûter un bras ? Pas Sihoo. Avec la Doro C300 Pro V2, le constructeur propose une chaise au rapport performances-prix (presque) imbattable. Surtout avec les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8dc4f55fa2f",
+          "title": "La Chine déclare la guerre à l’obésité des voitures électriques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2282723-la-chine-declare-la-guerre-a-lobesite-des-voitures-electriques.html",
+          "category": "ia",
+          "published_at": "2026-06-23T09:45:29+00:00",
+          "summary": "Face à l’explosion du poids des véhicules électrifiés, le gouvernement chinois pourrait siffler la fin de la récréation, voire introduire une nouvelle taxe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "555fca4ce1d6",
+          "title": "Amazon fait chuter le prix de ce climatiseur mobile de près de 180 € pour les Prime Day",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282655-amazon-fait-chuter-le-prix-de-ce-climatiseur-mobile-de-pres-de-180-e-pour-les-prime-day.html",
+          "category": "ia",
+          "published_at": "2026-06-23T09:44:39+00:00",
+          "summary": "[Deal du jour] Alors que les températures estivales s'installent durablement, s'équiper d'un climatiseur devient une priorité pour beaucoup. Amazon propose aujourd'hui le climatiseur mobile Voltman 9000 BTU à 219 € au lieu de 399,90 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dd0afade65b",
+          "title": "Éducation au numérique : le CLEMI et l’UNESCO publient un guide pour les familles",
+          "source": "Next INpact",
+          "url": "https://next.ink/243729/education-au-numerique-le-clemi-et-lunesco-publient-un-guide-pour-les-familles/",
+          "category": "ia",
+          "published_at": "2026-06-23T09:28:54+00:00",
+          "summary": "Temps d&#8217;écran, usages scolaires et loisirs du numérique, recours aux réseaux sociaux comme aux jeux vidéo pour sociabiliser, voire s&#8217;informer&#8230; pour accompagner les familles, le CLEMI et l&#8217;UNESCO publient le guide «&#160;Grandir dans un monde…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4c3dd83ed2c",
+          "title": "La Steam Machine est morte avant même son lancement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282329-la-steam-machine-est-morte-avant-meme-son-lancement.html",
+          "category": "ia",
+          "published_at": "2026-06-23T09:15:00+00:00",
+          "summary": "On connaît désormais le prix de départ de la Steam Machine. Positionné à plus de 1 000 € pour des performances plus ou moins équivalentes à une PS5, le « PC de salon » de Valve sort au pire moment. La crise de RAM a tué la carrière du produit, avant même sa sortie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53548b7ec1d6",
+          "title": "L’Union européenne va imposer des « étiquettes » sur les contenus générés par IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2282367-lunion-europeenne-va-imposer-des-etiquettes-sur-les-contenus-generes-par-ia.html",
+          "category": "ia",
+          "published_at": "2026-06-23T09:02:00+00:00",
+          "summary": "La Commission européenne veut que tout deepfake et tout texte produit par l’IA soient clairement signalés par un label « AI », « AI Generated » ou « AI Modified ». La présence de l'étiquette sera obligatoire à partir du 2 août 2026… mais les changements pourraient avoir du mal à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e505654554d",
+          "title": "Meta : les données du projet de surveillance des employés étaient accessibles en interne",
+          "source": "Next INpact",
+          "url": "https://next.ink/243649/meta-les-donnees-du-projet-de-surveillance-des-employes-etaient-accessibles-en-interne/",
+          "category": "ia",
+          "published_at": "2026-06-23T08:47:00+00:00",
+          "summary": "Meta met sur pause son projet de surveillance de ses employés destiné à entraîner ses moteurs d’IA. En cause : les données sensibles récoltées étaient accessibles par toutes les personnes travaillant dans l&#8217;entreprise de Mark Zuckerberg. Ce ne sont pas des considérations…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a93c5de5315d",
+          "title": "Anthropic sur la touche, OpenAI en profite pour enrichir son projet Daybreak",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2282433-anthropic-sur-la-touche-openai-en-profite-pour-enrichir-son-projet-daybreak.html",
+          "category": "ia",
+          "published_at": "2026-06-23T08:45:00+00:00",
+          "summary": "Depuis le gel de Claude Mythos par Washington, OpenAI occupe le terrain de l'IA cyber offensive-défensive. Le 22 juin, l'entreprise a annoncé une série de mises à jour substantielles de sa plateforme Daybreak.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f530b3a26e2e",
+          "title": "Moins d’eau, plus de chaleur : le plan de Nvidia pour les futurs data centers, canicule ou pas",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282377-moins-deau-plus-de-chaleur-le-plan-de-nvidia-pour-les-futurs-data-centers-canicule-ou-pas.html",
+          "category": "ia",
+          "published_at": "2026-06-23T08:37:18+00:00",
+          "summary": "Nvidia propose un nouveau design pour les data centers qui repose sur un refroidissement 100 % liquide, dont la particularité est d'être assez chaud — plus qu'un jacuzzi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55e9e4c86fe7",
+          "title": "UK artist D3lta says the “fundamentals don’t change” regarding fan outreach post-social media bans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/23/uk-artist-d3lta-says-the-fundamentals-dont-change-regarding-fan-outreach-post-social-media-bans/",
+          "category": "ia",
+          "published_at": "2026-06-23T08:35:34+00:00",
+          "summary": "Earlier in June, the UK became the latest country to propose a ban on social media for under 16s — in an announcement by the Labour Party&#8217;s Keir Starmer which has since been somewhat eclipsed by the news of his resignation. While the UK&#8217;s revolving door PM spot…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "333b58f27a7a",
+          "title": "« Tôt ou tard », les 700 000 livreurs de JD.com seront remplacés par des robots",
+          "source": "Next INpact",
+          "url": "https://next.ink/243625/tot-ou-tard-les-700-000-livreurs-de-jd-com-seront-remplaces-par-des-robots/",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T08:25:25+00:00",
+          "summary": "Le géant chinois du commerce en ligne JD.com veut remplacer ses centaines de milliers de livreurs par des robots. Richard Liu, fondateur et président du groupe, ne veut cependant laisser personne «&#160;sans manger ni travail ». « Tôt ou tard », les livreurs de JD.com seront…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9e31755577f",
+          "title": "Pour le lancement de GTA 6, des fans privatisent un cinéma entier en Suisse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2282353-pour-le-lancement-de-gta-6-des-fans-privatisent-un-cinema-entier-en-suisse.html",
+          "category": "ia",
+          "published_at": "2026-06-23T08:03:58+00:00",
+          "summary": "Alors que GTA 6 sortira le 19 novembre 2026, des fans suisses préparent déjà les festivités. À Genève, un cinéma entier a été privatisé pour recréer l'ambiance des grands lancements de jeux vidéo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98ee2cace67e",
+          "title": "Spotify’s Andy Sloan-Vincent on Scaling Artist Discovery in the U.K.: ‘We’ve Always Been a Musical Nation’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/spotify-loud-and-clear-andy-sloan-vincent-interview/",
+          "category": "musique",
+          "published_at": "2026-06-23T08:00:00+00:00",
+          "summary": "Having stepped into a new role, the London-based executive unpacks the streaming platform's vision for support acts emerging from across the region.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d5036a67700",
+          "title": "[PIAS] acquires Signum Records, the independent classical label home to The King’s Singers",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/pias-acquires-signum-records-the-independent-classical-label-home-to-the-kings-singers/",
+          "category": "ia",
+          "published_at": "2026-06-23T07:46:01+00:00",
+          "summary": "Co-Founder Steve Long will remain as Managing Director, the company announced on Tuesday (June 23).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0da9ca4f157b",
+          "title": "Pénurie de climatiseurs et ventilateurs : la canicule a déjà vidé les rayons en quelques jours",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282295-penurie-de-climatiseurs-et-ventilateurs-la-canicule-a-deja-vide-les-rayons-en-quelques-jours.html",
+          "category": "ia",
+          "published_at": "2026-06-23T07:24:45+00:00",
+          "summary": "La première vague de chaleur de l'été a vidé les rayons de climatiseurs et de ventilateurs. Sur les sites marchands, les bons modèles sont annoncés avec des dates de livraison en juillet, et le reste vire au piège à acheteurs pressés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b3b6e88496b",
+          "title": "GTA 6 : l’ex-illustrateur de Rockstar nous explique la présence de l’hélicoptère sur la jaquette",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2282293-un-ex-illustrateur-de-rockstar-nous-explique-la-presence-de-lhelicoptere-sur-la-jaquette-de-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-06-23T07:20:32+00:00",
+          "summary": "Maintenant que l'illustration officielle de GTA 6 a été dévoilée, les fans ont enfin de nouveaux éléments à se mettre sous la dent en attendant la sortie du jeu. Le retour du fameux hélicoptère sur la jaquette fait notamment beaucoup parler, et on a demandé à Stephen Bliss,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f6d6e6e78e5",
+          "title": "Keith Richards Says The Rolling Stones May Be Done With Traditional Touring",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/keith-richards-rolling-stones-touring-1236278521/",
+          "category": "musique",
+          "published_at": "2026-06-23T07:03:55+00:00",
+          "summary": "The Stones are preparing to release their 25th studio album Foreign Tongues on July 10 via Polydor/Universal Music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a723df30e17",
+          "title": "Suite au tollé, AMD réintroduit le chiffrement mémoire sur des Ryzen grand public",
+          "source": "Next INpact",
+          "url": "https://next.ink/243601/suite-au-tolle-amd-reintroduit-le-chiffrement-memoire-sur-des-ryzen-grand-public/",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T07:02:00+00:00",
+          "summary": "Des tests ont révélé qu’AMD avait supprimé une fonction auparavant supportée dans ses processeurs grand public. Nommée TSME, pour Transparent Secure Memory Encryption, elle chiffre et déchiffre à la volée les données placées en mémoire vive. Devant la levée de boucliers, AMD a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b487fc05bd01",
+          "title": "Nicolas Cage débarque dans Call of Duty, et c’est effrayant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2282291-nicolas-cage-debarque-dans-call-of-duty-et-cest-effrayant.html",
+          "category": "loi",
+          "published_at": "2026-06-23T06:36:30+00:00",
+          "summary": "Nicolas Cage, vieille gloire de Hollywood, arrive dans la future grosse mise à jour de Call of Duty. Les images sont autant cocasses qu'effrayantes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "caaf34d0fb43",
+          "title": "☕️ Le patron de la fintech Cred prend les commandes de WhatsApp",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-patron-de-la-fintech-cred-prend-les-commandes-de-whatsapp/",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T06:31:00+00:00",
+          "summary": "Meta s&#8217;est offert le nouveau patron de WhatsApp, assez littéralement. En signant un chèque de 900 millions de dollars, le géant des réseaux a non seulement acheté un gros morceau de la fintech Cred, mais aussi Kunal Shah, fondateur de cette entreprise indienne. Il va donc…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d5ba0d33277",
+          "title": "Pearltrees : cette entreprise française révolutionne discrètement l’école grâce à l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2281857-pearltrees-cette-entreprise-francaise-revolutionne-discretement-lecole-grace-a-lia.html",
+          "category": "ia",
+          "published_at": "2026-06-23T06:10:36+00:00",
+          "summary": "Longtemps connu comme un outil de curation pour les enseignants, Pearltrees est devenu l'un des acteurs les plus implantés de l'EdTech française. L'entreprise revendique aujourd'hui 1,5 million d'utilisateurs dans les collèges et lycées et affiche de nouvelles ambitions pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a75c202cda3",
+          "title": "La Steam Machine démarre à plus de 1 000 euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/243629/la-steam-machine-demarre-a-plus-de-1-000-euros/",
+          "category": "ia",
+          "published_at": "2026-06-23T06:04:02+00:00",
+          "summary": "On attendait le coup de bambou, et comme redouté, il est arrivé ! Valve a finalement dévoilé les prix de la Steam Machine, sa nouvelle console de salon. Ils sont salés, crise de la mémoire oblige. La Steam Machine est (presque) là ! Enfin, si vous avez le budget pour. Et si vous…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f25498d60469",
+          "title": "Même le plus grand rival de Destiny 2 pleure sa mort",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2282283-meme-le-plus-grand-rival-de-destiny-2-pleure-sa-mort.html",
+          "category": "ia",
+          "published_at": "2026-06-23T05:48:10+00:00",
+          "summary": "Le studio derrière Warframe, pourtant concurrent de la saga Destiny, pleure la mort à petit feu de Destiny 2, qui a reçu son ultime mise à jour il y a quelques semaines.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b07afd2dd4d8",
+          "title": "Bill Maher to Receive 2026 Mark Twain Prize for American Humor at Kennedy Center: UPDATE",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/bill-maher-2026-mark-twain-prize-for-american-humor-trump-1236216257/",
+          "category": "ia",
+          "published_at": "2026-06-23T05:37:28+00:00",
+          "summary": "John Mellencamp is slated to appear at the gala, which will premiere on Netflix next month.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec6f6a918110",
+          "title": "House of the Dragon change encore le destin d’un personnage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2281889-house-of-the-dragon-change-encore-le-destin-dun-personnage.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T05:31:00+00:00",
+          "summary": "Un personnage de House of the Dragon voit sa destinée complètement modifiée dans la série TV, par rapport aux livres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5208ec94242f",
+          "title": "Jusqu’à -44 % pour le Prime Day : Tineco baisse le prix de ses meilleurs aspirateurs laveurs [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2276077-jusqua-44-pour-le-prime-day-tineco-baisse-le-prix-de-ses-meilleurs-aspirateurs-laveurs.html",
+          "category": "ia",
+          "published_at": "2026-06-23T05:30:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Tineco\n\nLe Prime Day d'Amazon commence ce 23 juin, l'heure pour Tineco de dévoiler les offres promotionnelles qui baissent le prix de ses appareils pour vous faciliter le ménage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a30ce641762",
+          "title": "Kylie Minogue to Star Alongside Quentin Tarantino in Jamie Adams Film ‘Tangled Up In Blue’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/kylie-minogue-film-tangled-up-in-blue-1236278506/",
+          "category": "ia",
+          "published_at": "2026-06-23T04:09:39+00:00",
+          "summary": "The film also stars Jason Isaacs, Allison Williams, Sofia Boutella and Wu-Tang Clan's RZA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1217485bfd1a",
+          "title": "Clive Davis Dead at 94: Music Executives Remember the Influential Label Mogul (UPDATING)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/clive-davis-death-music-industry-reactions/",
+          "category": "musique",
+          "published_at": "2026-06-23T02:01:00+00:00",
+          "summary": "Following the music legend's passing at age 94, industry execs are sharing their reactions and condolences.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f82a9ccf40e",
+          "title": "Drake’s Apparel Company OVO in Legal Battle With Investor Over $4 Million Loan",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/drake-company-ovo-lawsuits-investor-4m-loan/",
+          "category": "ia",
+          "published_at": "2026-06-23T00:36:40+00:00",
+          "summary": "The rapper's Toronto lifestyle brand and a Florida-based lender have filed dueling lawsuits against each other in Canada.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0c912009497",
+          "title": "Nesty Signs Worldwide Publishing Deal With Peermusic: ‘Happy to Have Found A Home’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/nesty-signs-global-publishing-deal-peermusic/",
+          "category": "musique",
+          "published_at": "2026-06-23T00:16:49+00:00",
+          "summary": "The Cuban artist and songwriter signed a deal encompassing select catalog and future works.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-22",
       "articles": [
+        {
+          "id": "311dfd7efd29",
+          "title": "Clive Davis: All His No. 1 Hits on the Billboard Hot 100, From Whitney Houston to Simon & Garfunkel",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/clive-davis-no-1-hits-billboard-hot-100-full-list/",
+          "category": "musique",
+          "published_at": "2026-06-22T23:59:29+00:00",
+          "summary": "Davis enjoyed 11 No. 1 hits by Houston on his label Arista, more than any other artist.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8dc0745614d7",
+          "title": "Sony’s BRAVIA 4K TVs Get $300 Discount on Heels of Best Buy’s ‘Tech Fest’ Event",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/sony-bravia-7-ii-4k-tv-deals-sale-shop-best-buy-online-1236275417/",
+          "category": "ia",
+          "published_at": "2026-06-22T23:39:26+00:00",
+          "summary": "The latest Sony 4K TVs are fine-tuned for pristine audio and picture quality, making for a more immersive and vibrant viewing experience.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "859a7fa96d64",
+          "title": "Clive Davis Career Timeline: A Journey Through the Music Industry Icon’s Greatest Accomplishments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/clive-davis-career-timeline-columbia-arista-sony-music/",
+          "category": "musique",
+          "published_at": "2026-06-22T22:42:25+00:00",
+          "summary": "From his beginnings as an assistant general counsel at Columbia Records to being named chief creative officer at Sony Music, Billboard explores Davis’ career in full.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0bee13ef08de",
+          "title": "Music industry leaders, megastars pay tribute to Clive Davis",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/music-industry-leaders-megastars-pay-tribute-to-clive-davis/",
+          "category": "musique",
+          "published_at": "2026-06-22T20:10:59+00:00",
+          "summary": "Rob Stringer, Patti Smith, Alicia Keys, the Lipmans, Merck Mercuriadis, and more pay tribute to legendary record exec\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e43a224b082",
+          "title": "SpaceX prépare le vol inaugural de Starfall, un disque volant dédié au fret spatial",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2281345-spacex-prepare-le-vol-inaugural-de-starfall-un-disque-volant-dedie-au-fret-spatial.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-22T19:08:31+00:00",
+          "summary": "SpaceX s’apprête à lancer la mystérieuse mission de démonstration « Starfall ». Les documents de la FAA révèlent la nature de ce projet hautement stratégique : un véhicule inédit en forme de disque plat dédié uniquement au fret spatial, conçu pour jeter les bases d'une véritable…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d676a71cb804",
+          "title": "Clive Davis, legendary record executive, dies at 94",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/clive-davis-legendary-record-executive-dies-at-94/",
+          "category": "musique",
+          "published_at": "2026-06-22T16:15:34+00:00",
+          "summary": "'We will miss him greatly, cherish him always, and carry his love with us for the rest of our lives,' the Davis Family said in a statement on June 22\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0f14dec3d9e",
+          "title": "Objectifs climatiques ou IA ? Pour le lobby des data centers, l’Europe doit choisir",
+          "source": "Next INpact",
+          "url": "https://next.ink/243573/objectifs-climatiques-ou-ia-pour-le-lobby-des-data-centers-leurope-doit-choisir/",
+          "category": "ia",
+          "published_at": "2026-06-22T16:00:00+00:00",
+          "summary": "D’après le président du principal lobby européen des centres de données, qui représente aussi des acteurs numériques venus des États-Unis, l’Union européenne doit renoncer à ses objectifs climatiques si elle veut rester dans la course à l’IA. À quelques jours de la vague de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a5dc65157ea",
+          "title": "Majors and BMG ask US Supreme Court to overturn copyright termination ruling they say will cause ‘chaos’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/majors-and-bmg-ask-us-supreme-court-to-overturn-copyright-termination-ruling-they-say-will-cause-chaos/",
+          "category": "musique",
+          "published_at": "2026-06-22T15:55:34+00:00",
+          "summary": "The rightsholders said the decision will cause \"chaos\" across the music business if it is allowed to stand.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e352fadd178",
+          "title": "☕️ Cybersécurité : les Five Eyes sonnent l’alerte sur les modèles IA les plus avancés",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/cybersecurite-les-five-eyes-sonnent-lalerte-sur-les-modeles-ia-les-plus-avances/",
+          "category": "ia",
+          "published_at": "2026-06-22T15:37:08+00:00",
+          "summary": "Les agences de cybersécurité des Five Eyes n&#8217;ont pas l&#8217;habitude de communiquer publiquement, mais elles ont fait une exception. Nous ne serions qu&#8217;à quelques mois d&#8217;un modèle IA de frontière capable de démultiplier les capacités des attaquants comme des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db1ba4e9eafa",
+          "title": "Le Sénat appelle l’Europe à « ne pas trembler » sur l’encadrement de l’IA et du numérique",
+          "source": "Next INpact",
+          "url": "https://next.ink/243545/le-senat-appelle-leurope-a-ne-pas-trembler-sur-lencadrement-de-lia-et-du-numerique/",
+          "category": "ia",
+          "published_at": "2026-06-22T15:10:37+00:00",
+          "summary": "Alors que l&#8217;Europe est sur le point d&#8217;adopter formellement l&#8217;omnibus numérique, le Sénat français vient d&#8217;adopter une résolution critiquant fortement le sens des « simplifications » prévues par la Commission et le Parlement européens. Le digital omnibus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c286f8db9d19",
+          "title": "How DJ duo MadStarBase’s Bollywood bootlegs got an official release",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/22/how-dj-duo-madstarbases-bollywood-bootlegs-got-an-official-release/",
+          "category": "ia",
+          "published_at": "2026-06-22T14:00:09+00:00",
+          "summary": "Delhi-based DJ-producer duo MadStarBase aka Neal Sekhri and Anant Ahuja have signed a deal with Saregama to officially release four remixes of classic Hindi film songs that the pair first [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35fa55f6257b",
+          "title": "Indian performance rights organisation PPL reinstated as a copyright society",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/22/indian-performance-rights-organisation-ppl-reinstated-as-a-copyright-society/",
+          "category": "musique",
+          "published_at": "2026-06-22T13:50:53+00:00",
+          "summary": "In 2021, the government of India’s decision to register Recorded Music Performance Limited (RMPL), and not Phonographic Performance Limited (PPL), as the country’s sole copyright society with respect to sound [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e99d72772b52",
+          "title": "☕️ ChatGPT va illustrer ses réponses avec les photos de Getty Images",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/chatgpt-va-illustrer-ses-reponses-avec-les-photos-de-getty-images/",
+          "category": "ia",
+          "published_at": "2026-06-22T13:47:21+00:00",
+          "summary": "Les résultats d&#8217;une recherche web sur ChatGPT pourront désormais s&#8217;enrichir d&#8217;images provenant du catalogue Getty. L&#8217;agence photo états-unienne a annoncé un accord avec OpenAI qui permet au chatbot d&#8217;utiliser des contenus de la banque d&#8217;images…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "abccb060c443",
           "title": "Une attaque supply chain expose des données Salesforce de plusieurs entreprises de cybersécurité",
@@ -147,6 +682,16 @@
         {
           "id": "fdcb9880dec1",
           "title": "Vers une ère de « post-réalité », instrumentalisée par des médias de « réinformation » (1/3)",
+          "source": "Next INpact",
+          "url": "https://next.ink/241605/vers-une-ere-de-post-realite-instrumentalisee-par-des-medias-de-reinformation-1-3/",
+          "category": "ia",
+          "published_at": "2026-06-22T11:37:56+00:00",
+          "summary": "La délégation à la prospective du Sénat consacre une étude au « futur de notre rapport à l’autorité et à la vérité à l’horizon 2050 ». Elle anticipe une ère de «&#160;post-réalité », fictionnalisée et instrumentalisée par les « médias d&#8217;opinion » et de « réinformation »…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f942df821a83",
+          "title": "Vers une ère de « post-réalité », instrumentalisée par des médias de « réinformation »",
           "source": "Next INpact",
           "url": "https://next.ink/241605/vers-une-ere-de-post-realite-instrumentalisee-par-des-medias-de-reinformation-1-3/",
           "category": "ia",
