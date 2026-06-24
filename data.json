@@ -1,9 +1,584 @@
 {
-  "generated_at": "2026-06-23T11:33:47.843940+00:00",
+  "generated_at": "2026-06-24T11:17:20.737466+00:00",
   "days": [
+    {
+      "date": "2026-06-24",
+      "articles": [
+        {
+          "id": "27646fad66c5",
+          "title": "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/vigilance-accompagnement-violation-de-donnees",
+          "category": "cnil",
+          "published_at": "2026-06-24T12:00:00+00:00",
+          "summary": "Des victimes de violations de données personnelles reçoivent des courriels proposant une aide pour faire supprimer leurs informations en ligne. La CNIL invite à la prudence face à ces démarches dont elle n’est pas à l’origine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e856b80a3936",
+          "title": "Tout ce que dévoile l’Édition Ultime de GTA 6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283979-tout-ce-que-devoile-ledition-ultime-de-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-06-24T11:13:31+00:00",
+          "summary": "Rockstar vient tout juste de lever le voile sur l’Édition Ultimate de GTA 6, ainsi que sur les bonus associés aux précommandes du jeu. Une annonce qui ne révèle pas seulement le contenu supplémentaire, mais qui offre aussi de nouveaux indices sur ce que l'on pourra trouver dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7cbb4ae000fd",
+          "title": "As Michael Jackson movie nears $1B, Madonna says her biopic has been scrapped",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/as-michael-jackson-movie-nears-1b-madonna-says-her-biopic-has-been-scrapped/",
+          "category": "musique",
+          "published_at": "2026-06-24T11:02:15+00:00",
+          "summary": "The Queen of Pop told Interview magazine that the project collapsed after a falling-out with Universal Pictures over its budget.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9d56a44dbdd",
+          "title": "« Le film n’a même pas dépeint 10 % de la folie réelle » : le vrai Loup de Wall Street arrive en série",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283781-le-film-na-meme-pas-depeint-10-de-la-folie-reelle-le-vrai-loup-de-wall-street-arrive-en-serie.html",
+          "category": "ia",
+          "published_at": "2026-06-24T10:45:00+00:00",
+          "summary": "Derrière le mythe hollywoodien, la sordide réalité.&nbsp;Le film culte Le Loup de Wall Street de Martin Scorsese n'aurait en fait égratigné que la surface du vice. Paramount+ vient de dévoiler la bande-annonce explosive de&nbsp;The Real Wolf of Wall Street, une série…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c92b2df8402c",
+          "title": "☕️ Dans le noyau Linux 7.2, la suppression du vieux strncpy a réclamé un audit gigantesque",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/dans-le-noyau-linux-7-2-la-suppression-du-vieux-strncpy-a-reclame-un-audit-gigantesque/",
+          "category": "institutionnel",
+          "published_at": "2026-06-24T10:32:00+00:00",
+          "summary": "Depuis des décennies, les développeurs Linux utilisent une fonction nommée strncpy pour copier du texte. Développée en C, elle est étiquetée comme dangereuse par la propre documentation du noyau. Problème, elle est omniprésente. Pour comprendre le problème, on peut utiliser une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c6f50dfad4f",
+          "title": "Le filtre anti-arnaques du gouvernement français se crashe sur le mur du droit européen",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2283685-le-filtre-anti-arnaques-du-gouvernement-francais-se-crashe-sur-le-mur-du-droit-europeen.html",
+          "category": "institutionnel",
+          "published_at": "2026-06-24T10:30:00+00:00",
+          "summary": "La Commission européenne vient de rejeter le projet de décret du gouvernement français encadrant le filtre national de cybersécurité. En pointant de graves manquements au droit de l'Union, Bruxelles gèle le dispositif et compromet sa sortie à brève échéance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4bc5416d855",
+          "title": "StubHub fined $1.2M by UK market watchdog over hidden fees, ordered to refund more than 50,000 customers",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/stubhub-fined-1-2m-by-uk-market-watchdog-over-hidden-fees-ordered-to-refund-more-than-50000-customers/",
+          "category": "ia",
+          "published_at": "2026-06-24T10:28:12+00:00",
+          "summary": "The CMA said StubHub UK broke consumer law by adding mandatory charges only at the final stage of checkout, a practice known as drip pricing.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7104468fda4c",
+          "title": "La Finlande envisage d’autoriser le Tesla FSD dès cet été, avant le vote européen",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2283891-la-finlande-envisage-dautoriser-le-tesla-fsd-des-cet-ete-avant-le-vote-europeen.html",
+          "category": "ia",
+          "published_at": "2026-06-24T10:24:23+00:00",
+          "summary": "Alors que l’Union européenne ne doit se prononcer qu’en octobre 2026 sur l’autorisation globale du Tesla FSD, l’autorité finlandaise des transports envisage d'accorder son feu vert national dès la fin de l’été.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2558fb6404fe",
+          "title": "Rockstar dévoile l’Édition Ultime de GTA 6 et confirme enfin les prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283953-rockstar-devoile-gta-6-edition-ultimate-et-les-bonus-de-precommande-du-jeu-le-plus-attendu-de-la-decennie.html",
+          "category": "ia",
+          "published_at": "2026-06-24T10:18:05+00:00",
+          "summary": "À la veille de l’ouverture des précommandes, Rockstar a mis en ligne le contenu de l’Édition Ultime de GTA 6. Si les tarifs en euros restent encore à confirmer, Take-Two annonce déjà des prix américains.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ddd02d90d7b",
+          "title": "Sony Music Publishing Scandinavia acquires Sound Pollution Songs catalog of around 5,000 works",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-scandinavia-acquires-sound-pollution-songs-catalog-of-around-5000-works/",
+          "category": "musique",
+          "published_at": "2026-06-24T10:10:35+00:00",
+          "summary": "The acquired catalog includes works performed by acts including Sabaton, Twilight Force, Wormwood, Bonafide, Elaine, Foredoom and Rexoria.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d29f5c62a40",
+          "title": "Ahead of World Tour, Anthony Pappa Talks Collaborations, an Artist Album and ‘Flying The Flag’ For Australian DJs",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/anthony-pappa-flying-the-flag-australian-dj-interview-1236279974/",
+          "category": "musique",
+          "published_at": "2026-06-24T10:04:39+00:00",
+          "summary": "\"I'm coming up to 40 years of DJing,\" Pappa tells Billboard. \"I’m very happy, very grateful.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10f60741d982",
+          "title": "Soldes d’été : les premières offres vraiment intéressantes sont là (En direct)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283185-soldes-dete-2026-les-premieres-offres-vraiment-interessantes-sont-la-en-direct.html",
+          "category": "musique",
+          "published_at": "2026-06-24T09:49:09+00:00",
+          "summary": "Depuis ce mercredi 24 juin, les marchands ressortent les étiquettes barrées, les stocks à écouler et quelques vraies bonnes surprises. On suit justement ses offres de près dans ce live des meilleures offres des soldes d'été.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "267b56e4271c",
+          "title": "Anthropic lance Claude Tag  et souhaite devenir votre collègue dans Slack : voici comment le tester",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283531-anthropic-lance-claude-tag-et-souhaite-devenir-votre-collegue-dans-slack-voici-comment-le-tester.html",
+          "category": "ia",
+          "published_at": "2026-06-24T09:47:50+00:00",
+          "summary": "Anthropic vient de déployer Claude Tag, une nouvelle intégration de son chatbot dans Slack. L’outil permet d’assigner des tâches à Claude directement dans les conversations et de suivre leur exécution de manière collaborative.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55b9bcdc6e23",
+          "title": "Mistral lance OCR 4, une IA capable de déchiffrer les manuscrits et 170 langues",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283529-mistral-lance-ocr-4-une-ia-capable-de-dechiffrer-les-manuscrits-et-170-langues.html",
+          "category": "ia",
+          "published_at": "2026-06-24T09:41:00+00:00",
+          "summary": "Mistral met à jour son IA de lecture de documents (OCR) et la pousse vers les manuscrits et les langues rares. Derrière l'outil pour développeurs, l'enjeu est très concret : numériser des montagnes d'archives, jusque dans nos administrations.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cabe6e360a55",
+          "title": "Bouygues Telecom augmente (encore) le prix de son offre Pure fibre avec juste la fibre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283723-bouygues-telecom-augmente-encore-le-prix-de-son-offre-pure-fibre-avec-juste-la-fibre.html",
+          "category": "ia",
+          "published_at": "2026-06-24T09:35:24+00:00",
+          "summary": "Commercialisée en 2025 au tarif de 23,99 euros par mois, l'offre B&amp;You Pure fibre Plus avec 8 Gb/s de débit descendant et du Wi-Fi 7 vient de passer de 26,99 à 27,99 euros par mois. Depuis plusieurs mois, Bouygues augmente progressivement le prix de son forfait vedette qui a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48ed5b15d292",
+          "title": "Mark Zuckerberg aime tellement Polymarket qu’il veut créer un clone de Polymarket (mais sans l’argent)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283541-mark-zuckerberg-aime-tellement-polymarket-quil-veut-creer-un-clone-de-polymarket-mais-sans-largent.html",
+          "category": "ia",
+          "published_at": "2026-06-24T09:16:00+00:00",
+          "summary": "Meta pourrait prochainement lancer Arena, une application pour faire des paris gratuits. L'idée serait de récompenser les utilisateurs qui ont raison avec des points, plutôt qu'avec de l'argent. Une copie de Polymarket qui pourrait être beaucoup moins précise pour prédire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45e0a98b27be",
+          "title": "Les vidéos de gains faramineux sur Polymarket ? Des faux, payés par la plateforme.",
+          "source": "Next INpact",
+          "url": "https://next.ink/243896/les-videos-de-gains-faramineux-sur-polymarket-des-faux-payes-par-la-plateforme/",
+          "category": "ia",
+          "published_at": "2026-06-24T09:01:00+00:00",
+          "summary": "Aux États-Unis, pour promouvoir ses activités, la plateforme de paris en ligne Polymarket aurait payé des influenceurs pour produire du contenu manipulé. En janvier, George Makihara, un étudiant, a publié une vidéo dans laquelle il gagnait 100 000 dollars. Le pari qui lui a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb4e6278fbc0",
+          "title": "Stuart Fails To Save The Universe, le spin-off de The Big Bang Theory montre son trailer complètement déjanté",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283575-stuart-fails-to-save-the-universe-le-spin-off-de-the-big-bang-theory-montre-son-trailer-completement-dejante.html",
+          "category": "ia",
+          "published_at": "2026-06-24T08:48:39+00:00",
+          "summary": "Stuart Bloom face à la fin du monde. La boutique de bandes dessinées de Pasadena est désormais le centre névralgique de l'apocalypse. HBO Max vient de publier la bande-annonce officielle de Stuart Fails To Save The Universe, la nouvelle série dérivée de la sitcom légendaire The…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41001afa810c",
+          "title": "Pris en flagrant délit, l’avion spatial secret de la Chine vient de larguer un mystérieux objet en orbite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2283525-pris-en-flagrant-delit-lavion-spatial-secret-de-la-chine-vient-de-larguer-un-mysterieux-objet-en-orbite.html",
+          "category": "ia",
+          "published_at": "2026-06-24T08:35:00+00:00",
+          "summary": "Lancée en février 2026 pour une mission ultra-confidentielle, la navette spatiale chinoise Shenlong a été surprise par des radars civils en train de larguer un mystérieux objet motorisé en orbite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5aef2684bdb3",
+          "title": "La Renault 5 s’impose parmi les stars de la voiture électrique en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2283601-la-renault-5-simpose-parmi-les-stars-de-la-voiture-electrique-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-06-24T08:32:52+00:00",
+          "summary": "Les ventes de voitures électriques continuent de bondir. Et si Tesla reprend la tête du classement des nouvelles immatriculations en mai 2026 avec le Model Y, sans laisser aucune chance aux concurrents, la bataille est vive pour les autres modèles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c806ebfdb7f",
+          "title": "PJ Harvey Returns With Cosmic New Track ‘Voyager’ Inspired by NASA Missions",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/pj-harvey-voyager-brian-cox-1236279359/",
+          "category": "ia",
+          "published_at": "2026-06-24T08:30:00+00:00",
+          "summary": "\"I have long been fascinated by the spacecraft and its journey,\" said the Dorset musician.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fcd336a80a4d",
+          "title": "☕️ MesVaccins.net touché par un vol de données, tous les utilisateurs potentiellement concernés",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/mesvaccins-net-touche-par-un-vol-de-donnees-tous-les-utilisateurs-potentiellement-concernes/",
+          "category": "ia",
+          "published_at": "2026-06-24T08:21:00+00:00",
+          "summary": "Le site MesVaccins.net est la dernière victime en date d&#8217;un vol de données. La plateforme, qui centralise les données de vaccination et propose un carnet de vaccination numérique, a prévenu ses utilisateurs et donné quelques détails. Un tiers non autorisé a accédé à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fee9ca1a9e2e",
+          "title": "Prime Day en direct : Amazon continue sur sa lancée avec de nouvelles offres",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282373-prime-day-en-direct-amazon-continue-sur-sa-lancee-avec-de-nouvelles-offres.html",
+          "category": "ia",
+          "published_at": "2026-06-24T08:01:25+00:00",
+          "summary": "Les Prime Day continuent pour cette deuxième journée qui commence fort. Du 23 au 26 juin, Amazon enchaîne les promotions réservées aux abonnés Prime. On continue de faire le tri en direct pour ne garder que les offres qui valent vraiment le coup.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ebc6151abd3",
+          "title": "2 000 vieux smartphones Pixel vont devenir un mini datacenter",
+          "source": "Next INpact",
+          "url": "https://next.ink/243861/2-000-vieux-smartphones-pixel-vont-devenir-un-mini-datacenter/",
+          "category": "ia",
+          "published_at": "2026-06-24T07:54:04+00:00",
+          "summary": "En cette période de disette de composants informatiques, pourquoi ne pas recycler d&#8217;anciens appareils pour construire des serveurs ? L&#8217;idée n&#8217;est pas neuve, mais le projet de l&#8217;université de Californie entend passer à la vitesse supérieure avec un centre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1f405126225",
+          "title": "Dragon Ball Xenoverse 3 montre son gameplay et s’annonce très prometteur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283479-dragon-ball-xenoverse-3-montre-son-gameplay-et-sannonce-tres-prometteur.html",
+          "category": "ia",
+          "published_at": "2026-06-24T07:35:41+00:00",
+          "summary": "Après s'être dévoilé en avril 2026, Dragon Ball Xenoverse 3 se montre enfin davantage. Et le moins que l'on puisse dire, c'est que ce nouveau trailer donne sacrément envie. De quoi espérer un véritable retour en grâce pour la série Xenoverse ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d836417b4272",
+          "title": "Sauvetage de Swift : pourquoi la mission de la dernière chance impose de partir d’un atoll perdu au milieu de nulle part",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2282675-sauvetage-de-swift-pourquoi-la-mission-de-la-derniere-chance-impose-de-partir-dun-atoll-perdu-au-milieu-de-nulle-part.html",
+          "category": "ia",
+          "published_at": "2026-06-24T07:33:45+00:00",
+          "summary": "Pour sauver le télescope spatial Swift d'une destruction certaine, une mission de remorquage privée s'apprête à décoller fin juin 2026. Mais au lieu de partir de la mythique base de Cap Canaveral, la fusée s'élancera au-dessus d'un atoll perdu au milieu du Pacifique. Et ce n'est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c70c7f6373e",
+          "title": "‘A Total Dream Come True’: Olivia Rodrigo Discusses Warm Welcome for ‘You Seem Pretty Sad’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-discusses-warm-welcome-new-album-1236279820/",
+          "category": "ia",
+          "published_at": "2026-06-24T07:17:39+00:00",
+          "summary": "“I've had the happiest week ever. It feels so amazing to have this record out in the world,” she tells Nova 96.9's Ricki-Lee &#38; Tim.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a15cc49995d7",
+          "title": "Google licencie un ingénieur à cause d’un outil IA pour Workspace devenu viral",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283493-google-licencie-un-ingenieur-a-cause-dun-outil-ia-pour-workspace-devenu-viral.html",
+          "category": "ia",
+          "published_at": "2026-06-24T07:12:13+00:00",
+          "summary": "Un ingénieur de Google a sorti un outil en ligne de commande pour Workspace, l'espace de travail dédié aux entreprises. L'outil a cartonné et... l'ingénieur a été licencié deux mois plus tard. Ce timing en dit long sur la peur des agents IA dans les grandes entreprises, même si…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb8920bf2b12",
+          "title": "Fin d’Apple Pay en France : le Crédit Agricole fait une erreur en lançant sa propre app",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283219-fin-dapple-pay-en-france-le-credit-agricole-fait-une-erreur-en-lancant-sa-propre-app.html",
+          "category": "ia",
+          "published_at": "2026-06-24T06:56:12+00:00",
+          "summary": "Après des années de rumeurs, le Crédit Agricole devient la première banque avec sa propre application de paiement mobile sur iPhone. Le service permet d'utiliser la puce NFC de son iPhone pour payer dans les magasins sans solliciter Apple Pay. Il est rendu possible par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af6ffe97d549",
+          "title": "Vous allez pouvoir essayer la meilleure classe de Diablo 4 gratuitement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283439-vous-allez-pouvoir-essayer-la-meilleure-classe-de-diablo-4-gratuitement.html",
+          "category": "ia",
+          "published_at": "2026-06-24T06:40:57+00:00",
+          "summary": "Blizzard Entertainment a donné les détails de la future saison de Diablo 4, intitulée « Season of Death Awakening ». Elle permettra notamment d'essayer gratuitement la classe démoniste, réservée aux propriétaires de l'extension Lord of Hatred.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7417dd5ef5b0",
+          "title": "Peut-on accéder aux chats secrets entre Von der Leyen et les dirigeants européens ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/243815/peut-on-acceder-aux-chats-secrets-entre-von-der-leyen-et-les-dirigeants-europeens/",
+          "category": "ia",
+          "published_at": "2026-06-24T06:32:00+00:00",
+          "summary": "Les chats entre Ursula von der Leyen et les dirigeants des pays européens sont-ils des documents administratifs auxquels on peut accéder en évoquant le règlement européen sur l&#8217;accès du public aux documents ? La question est en suspens mais est prise au sérieux par la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54aa0524dcdd",
+          "title": "☕️ Apple et Tesla rattrapées par une fuite de données chez leur fournisseur Tata Electronics",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-et-tesla-rattrapees-par-une-fuite-de-donnees-chez-leur-fournisseur-tata-electronics/",
+          "category": "ia",
+          "published_at": "2026-06-24T06:16:13+00:00",
+          "summary": "Tata Electronics, un important fournisseur indien d&#8217;Apple et de Tesla, a été ciblé par une cyberattaque. Le groupe de pirates à l&#8217;origine de l&#8217;effraction a posté sur le dark web des centaines de milliers de documents confidentiels sur les produits des deux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "753766f2e75b",
+          "title": "GTA 6 pourrait proposer plusieurs modes graphiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283431-gta-6-pourrait-proposer-plusieurs-modes-graphiques.html",
+          "category": "ia",
+          "published_at": "2026-06-24T05:39:40+00:00",
+          "summary": "Une nouvelle fuite en provenance d'une enseigne touche GTA 6. Cette fois, on découvre de possibles détails sur les différents modes graphiques que pourrait proposer le blockbuster de Rockstar Games.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0709e7e87bae",
+          "title": "Daryl Braithwaite Confirms Retirement From Performing Live Shows",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/daryl-braithwaite-retirement-performing-live-shows-1236279690/",
+          "category": "musique",
+          "published_at": "2026-06-24T03:26:38+00:00",
+          "summary": "“After much thought and consideration, I have made the difficult and sad decision to step back from performing live gigs,\" he explains.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fb98697c7eb",
+          "title": "Watch TikToker Mackenzie Sol Turn sombr’s ‘Back to Friends’ Into a Sensual Ballad for ‘America’s Got Talent’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/mackenzie-sol-agt-sombr-back-to-friends-cover-golden-buzzer-1236279650/",
+          "category": "ia",
+          "published_at": "2026-06-24T01:50:26+00:00",
+          "summary": "The 25-year-old immediately scored Mel B's Golden Buzzer with the impressive performance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fbf47717f9e",
+          "title": "Brandon Flowers Announces ‘Thrasher,’ Country-Inspired Album Marking His Solo Comeback After 11 Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/brandon-flowers-thrasher-solo-album-release-date-1236279531/",
+          "category": "musique",
+          "published_at": "2026-06-24T00:16:21+00:00",
+          "summary": "The 10-track project will arrive on Aug. 21.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-23",
       "articles": [
+        {
+          "id": "003acade7c5f",
+          "title": "Jack White’s Wife Olivia Jean Files for Divorce After 4 Years of Marriage",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/legal/jack-white-divorce-olivia-jean-1236279512/",
+          "category": "ia",
+          "published_at": "2026-06-23T23:27:32+00:00",
+          "summary": "The divorce papers cite “irreconcilable differences and inappropriate marital conduct.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f09aac933df1",
+          "title": "Futur de World of Warcraft : un prétendu « leak » massif de Blizzard gagne soudainement en crédibilité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283205-futur-de-world-of-warcraft-un-pretendu-leak-massif-de-blizzard-gagne-soudainement-en-credibilite.html",
+          "category": "ia",
+          "published_at": "2026-06-23T21:17:36+00:00",
+          "summary": "Une découverte effectuée par des dataminers dans les fichiers de World of Warcraft vient de donner une crédibilité inattendue à une prétendue feuille de route secrète partagée il y a dix mois. Au programme : un WoW Classic complètement réinventé, un Action-RPG sur Arthas et de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5edde47b8a37",
+          "title": "« La saison 3, c’est honnêtement de la folie » l’acteur principal d’Avatar annonce une suite dantesque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283147-la-saison-3-cest-honnetement-de-la-folie-lacteur-principal-davatar-annonce-une-suite-dantesque.html",
+          "category": "ia",
+          "published_at": "2026-06-23T18:32:00+00:00",
+          "summary": "Le compte à rebours est lancé, et la pression monte d’un cran.&nbsp;Alors que la saison 2 d’Avatar : Le dernier maître de l'air&nbsp;s'apprête à débarquer sur Netflix ce 25 juin 2026, la jeune star de la série, Gordon Cormier (Aang), voit déjà beaucoup plus loin. Dans une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d49125f3162d",
+          "title": "James Webb a trouvé quelque chose d’étrange sur Pluton et Titan, et on ne sait toujours pas ce que c’est",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2282569-james-webb-a-trouve-quelque-chose-detrange-sur-pluton-et-titan-et-on-ne-sait-toujours-pas-ce-que-cest.html",
+          "category": "ia",
+          "published_at": "2026-06-23T17:45:00+00:00",
+          "summary": "Une substance inconnue a été détectée à la surface de Pluton et de Titan. Mais après plusieurs analyses, elle reste impossible à identifier avec certitude, ce qui rend les scientifiques perplexes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f49b9e0f733a",
+          "title": "Nvidia dévoile un refroidissement 100 % liquide à 45 °C pour ses futurs data centers",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282377-nvidia-devoile-un-refroidissement-100-liquide-a-45-c-pour-ses-futurs-data-centers.html",
+          "category": "ia",
+          "published_at": "2026-06-23T17:10:46+00:00",
+          "summary": "Nvidia propose un nouveau design pour les data centers qui repose sur un refroidissement 100 % liquide, dont la particularité est d'être assez chaud — plus qu'un jacuzzi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84142f539ca8",
+          "title": "UMG’s Bravado targets A$AP Rocky merch bootleggers on ‘Don’t Be Dumb’ tour with trademark suit, seizure order",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umgs-bravado-targets-aap-rocky-merch-bootleggers-on-dont-be-dumb-tour-with-trademark-suit-seizure-order/",
+          "category": "ia",
+          "published_at": "2026-06-23T16:50:30+00:00",
+          "summary": "A trademark infringement complaint was filed on Thursday June 11\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "857ce0626bbc",
+          "title": "Cortez Bryant invests in AI-powered artist management platform MNGRS.AI, joins company as Strategic Advisor",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/cortez-bryant-invests-in-ai-powered-artist-management-platform-mngrs-ai-joins-company-as-strategic-advisor/",
+          "category": "musique",
+          "published_at": "2026-06-23T16:49:12+00:00",
+          "summary": "Manager known for his work with Lil Wayne, Drake and Nicki Minaj becomes the startup's first US-based music industry investor.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff1c52badc43",
+          "title": "Des informations clients de LastPass compromises après un incident chez Klue",
+          "source": "Next INpact",
+          "url": "https://next.ink/243857/des-informations-clients-de-lastpass-compromises-apres-un-incident-chez-klue/",
+          "category": "ia",
+          "published_at": "2026-06-23T16:42:09+00:00",
+          "summary": "LastPass est de nouveau touché par une fuite de données. Le gestionnaire de mots de passe a prévenu ses utilisateurs que des informations personnelles ont été volées non pas sur ses serveurs, mais chez un partenaire. Le résultat est le même : des données clients se sont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c87478026f83",
+          "title": "☕️ Sync-in 2.4 fiabilise ses transferts de fichiers et améliore sa sécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sync-in-2-4-fiabilise-ses-transferts-de-fichiers-et-ameliore-sa-securite/",
+          "category": "ia",
+          "published_at": "2026-06-23T14:38:00+00:00",
+          "summary": "Sync-in est une solution d’hébergement et de synchronisation de fichiers libre et open source (licence AGPL 3), dont le code est disponible depuis un dépôt GitHub. Nous nous étions entretenus avec le créateur du projet, Johan Legrand, qui nous avait alors expliqué ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6888ab1ea3dd",
+          "title": "Suno’s latest legal opponent fought the tobacco industry – and won a quarter of a trillion dollars",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sunos-latest-legal-opponent-fought-the-tobacco-industry-and-won-a-quarter-of-a-trillion-dollars/",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T14:31:46+00:00",
+          "summary": "Hagens Berman has joined forces with Delgado Entertainment Law to represent indie artists whose recordings were allegedly copied without permission.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae1f186f9784",
+          "title": "La fondation Rust se paye un ingénieur sécurité à plein temps",
+          "source": "Next INpact",
+          "url": "https://next.ink/243772/la-fondation-rust-se-paye-un-ingenieur-securite-a-plein-temps/",
+          "category": "ia",
+          "published_at": "2026-06-23T13:58:23+00:00",
+          "summary": "Le langage Rust et son écosystème ont désormais un ingénieur sécurité résident. Le contrat prévoit pour l&#8217;instant qu&#8217;il reste six mois, et davantage en fonction du financement. Cette embauche doit permettre la coordination et l&#8217;évolution de la sécurité au sein…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c71bce9f6ff6",
+          "title": "AI background music startup Tringbox is also working with live venues",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/23/ai-background-music-startup-tringbox-is-also-working-with-live-venues/",
+          "category": "musique",
+          "published_at": "2026-06-23T13:55:26+00:00",
+          "summary": "Among the venues that Indian AI background music startup Tringbox has been working with are cafés, restaurants, bars, nightclubs and hotels—places that are likely to also host live performances. The [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f06e101e25c",
+          "title": "The majors and BMG asked the US Supreme Court to overturn a ruling that lets songwriters reclaim copyrights worldwide. Five things to know about Vetter v. Resnik",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-majors-and-bmg-asked-the-us-supreme-court-to-overturn-a-ruling-that-lets-songwriters-reclaim-copyrights-worldwide-five-things-to-know-about-vetter-v-resnik/",
+          "category": "ia",
+          "published_at": "2026-06-23T13:21:55+00:00",
+          "summary": "For about 50 years, the industry believed termination only affected US rights. This ruling would make those rights worldwide for the first time.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e86e6cea60bc",
+          "title": "Affaire Lyhanna : Gérald Darmanin promet un « choc numérique » à la Justice, et de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/243809/affaire-lyhanna-gerald-darmanin-promet-un-choc-numerique-a-la-justice-et-de-lia/",
+          "category": "ia",
+          "published_at": "2026-06-23T13:17:28+00:00",
+          "summary": "Les esprits s&#8217;échauffent à la Chancellerie, et ce n&#8217;est pas uniquement à cause de la canicule. Au lendemain de la publication du pré-rapport de la mission d&#8217;inspection chargée de faire la lumière sur l&#8217;affaire Lyhanna, Gérald Darmanin a annoncé « un choc…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ba2cc7435af",
+          "title": "Era-defining executive, label chief, and producer Clive Davis dies aged 94",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/23/era-defining-executive-label-chief-and-producer-clive-davis-dies-aged-94/",
+          "category": "musique",
+          "published_at": "2026-06-23T12:33:00+00:00",
+          "summary": "Music industry giant Clive Davis has died, at the age of 94. Davis helped shaped the modern music industry though a series of adroit signings that showcased his skill for identifying future talent: Aretha Franklin, Janis Joplin, Whitney Houston, Billy Joel and Bruce Springsteen,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74963bfb959b",
+          "title": "Olivia Rodrigo announces festival with all-women line-up; net proceeds go to non-profits",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/23/olivia-rodrigo-announces-festival-with-all-women-line-up-net-proceeds-go-to-non-profits/",
+          "category": "musique",
+          "published_at": "2026-06-23T12:30:00+00:00",
+          "summary": "There’s an increasing pattern of music superstars – often, we have noticed, women – who are using their leverage not merely to talk about causes they believe in, but to roll up their sleeves and do something about it. Shakira has been running her Fundación Pies Descalzos, which…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8408be7497f5",
+          "title": "AI Round Up: platform news, new marketing tools, and SZA, Jack Conte and Fenix Flexin",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/23/ai-round-up-platform-news-new-marketing-tools-and-sza-jack-conte-and-fenix-flexin/",
+          "category": "ia",
+          "published_at": "2026-06-23T12:06:45+00:00",
+          "summary": "AI is in an unusual position where it sparks polarised public opinions, yet is simultaneously being used by everyone and their dog to do things that they couldn’t do before: make efficiency gains, access information and analysis, or take new creative steps. And once again,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cfe00935cd7",
+          "title": "Élections professionnelles dans la fonction publique et vote électronique : comment transmettre les rapports d’expertise à la CNIL ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/elections-professionnelles-fonction-publique-vote-electronique",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T12:00:00+00:00",
+          "summary": "Lorsque le recours au vote électronique est prévu pour les élections professionnelles dans la fonction publique, le système de vote doit faire l’objet d’une expertise indépendante. Dans ce cadre, les rapports d’expertise doivent désormais être transmis à la CNIL.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4fb1ea0753a5",
+          "title": "Nvidia hit with US copyright suit claiming it trained AI models on Winamp subsidiary Jamendo’s music without permission",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/nvidia-hit-with-us-copyright-suit-claiming-it-trained-ai-models-on-winamp-subsidiary-jamendos-music-without-permission/",
+          "category": "ia",
+          "published_at": "2026-06-23T11:49:27+00:00",
+          "summary": "Jamendo is seeking an injunction, plus actual damages and Nvidia's profits of \"no less than\" EUR €17.8 million (approx. USD $20.3 million).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a472a0c8324d",
+          "title": "Ex-Blackstone exec Vlado Spasov launches $1.5B alternative asset manager Trimontium – music rights among target assets",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ex-blackstone-exec-vlado-spasov-launches-1-5b-alternative-asset-manager-trimontium-music-rights-among-target-assets/",
+          "category": "musique",
+          "published_at": "2026-06-23T11:48:45+00:00",
+          "summary": "Trimontium says its target areas also include \"uncorrelated\" asset classes such as IP rights and royalties.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1345000de99d",
+          "title": "En 2050, un « ministère de la post-vérité » où la réalité « n’a plus d’intérêt » ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/243076/en-2050-un-ministere-de-la-post-verite-ou-la-realite-na-plus-dinteret-2-3/",
+          "category": "institutionnel",
+          "published_at": "2026-06-23T11:37:00+00:00",
+          "summary": "Cherchant à imaginer où en sera notre rapport à l’autorité et à la vérité à l’horizon 2050, la délégation à la prospective du Sénat hésite : modèle trumpien des « faits alternatifs » ? Un monde dominé par les fantasmes d&#8217;humanité « augmentée » des prophètes des Big…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "95ef8a70de30",
           "title": "Sauvetage de Swift : pourquoi le plan de la dernière chance s’élance-t-il depuis un atoll paumé dans le Pacifique ?",
