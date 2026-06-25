@@ -1,9 +1,614 @@
 {
-  "generated_at": "2026-06-24T11:17:20.737466+00:00",
+  "generated_at": "2026-06-25T11:08:31.319658+00:00",
   "days": [
+    {
+      "date": "2026-06-25",
+      "articles": [
+        {
+          "id": "acab6364c172",
+          "title": "Supergirl : je suis allé au cinéma pour fuir la canicule et j’ai pris une (grosse) douche froide",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284991-supergirl-je-suis-alle-au-cinema-pour-fuir-la-canicule-et-jai-pris-une-grosse-douche-froide.html",
+          "category": "ia",
+          "published_at": "2026-06-25T10:45:00+00:00",
+          "summary": "Entre baffe cosmique et rendez-vous manqué. Deuxième étape du tout nouveau DCU de James Gunn après le succès de Superman, Supergirl débarque en salles ce 24 juin 2026. Adapté du run acclamé de Tom King, Supergirl: Woman of Tomorrow, le film de Craig Gillespie avait la lourde…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc15da291e4e",
+          "title": "Le Crédit Agricole lance sa propre application de paiement sur iPhone, quid d’Apple Pay ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/244182/le-credit-agricole-lance-sa-propre-application-de-paiement-sur-iphone-quid-dapple-pay/",
+          "category": "ia",
+          "published_at": "2026-06-25T10:45:00+00:00",
+          "summary": "Le Crédit Agricole a décidé de venir concurrencer directement Apple Pay sur les iPhone. La banque vient de lancer une application dédiée aux paiements par carte bancaire. Elle se pose en alternative à l’application Cartes, posant des questions d’intégration. L’application…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a57e3954b0f",
+          "title": "9,3 milliards de km, 9 survols planétaires, 8 ans d’odyssée… et la sonde BepiColombo arrive enfin aux portes de Mercure",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2284981-93-milliards-de-km-9-survols-planetaires-8-ans-dodyssee-et-la-sonde-bepicolombo-arrive-enfin-aux-portes-de-mercure.html",
+          "category": "ia",
+          "published_at": "2026-06-25T10:30:00+00:00",
+          "summary": "Après une odyssée de 8 ans et 9,3 milliards de kilomètres, la sonde BepiColombo vient de couper ses moteurs aux portes de Mercure. Désormais en chute libre vers sa cible, la mission entame le sprint final de l’un des voyages spatiaux les plus complexes de l’histoire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e7aede0d308",
+          "title": "Lionel Richie Cuts Short Tour Opener After ‘Dizzy’ Spell",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/lionel-richie-cuts-short-tour-opener-dizzy-spell-1236280908/",
+          "category": "institutionnel",
+          "published_at": "2026-06-25T10:10:39+00:00",
+          "summary": "The Rock Hall-inducted singer announced an unexpected intermission almost an hour into the show Wednesday night, and didn't reappear.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1c1a25236d1",
+          "title": "Précommandes de GTA 6 : les prix baissent déjà, où trouver le jeu au meilleur tarif ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239695-precommandes-de-gta-6-toutes-les-offres-du-jeu-sont-la-voici-ou-trouver-le-meilleur-prix.html",
+          "category": "ia",
+          "published_at": "2026-06-25T10:06:19+00:00",
+          "summary": "[Précommande] Les précommandes de GTA 6 sont ouvertes depuis minuit, et les prix annoncés par Rockstar n’ont pas tenu bien longtemps. Voici les meilleures offres disponibles pour réserver son exemplaire de GTA 6 au meilleur prix sur PS5 et Xbox Series X|S.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94f96330d9db",
+          "title": "Suno Launches Artist Incubator, Offering Grants and Marketing for Indie Talents",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/suno-launches-artist-incubator/",
+          "category": "musique",
+          "published_at": "2026-06-25T10:00:00+00:00",
+          "summary": "News of the incubator comes just weeks after the AI music company announced a $400 million series D funding round.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a7f3b1f3c03",
+          "title": "85 % des ados australiens utilisent les réseaux sociaux 3 mois après l’interdiction",
+          "source": "Next INpact",
+          "url": "https://next.ink/244024/85-des-ados-australiens-utilisent-les-reseaux-sociaux-3-mois-apres-linterdiction/",
+          "category": "ia",
+          "published_at": "2026-06-25T09:58:00+00:00",
+          "summary": "Trois mois après la mise en place de la nouvelle loi australienne interdisant les réseaux sociaux aux moins de 16 ans, il n&#8217;y a pas eu de réduction significative des usages chez les adolescents australiens, constatent des chercheurs. En décembre dernier est entrée en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2c6ca402961",
+          "title": "Prime Day en direct : les offres de la troisième journée continuent de pleuvoir sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2282373-prime-day-en-direct-amazon-continue-sur-sa-lancee-avec-de-nouvelles-offres.html",
+          "category": "ia",
+          "published_at": "2026-06-25T09:47:44+00:00",
+          "summary": "Les Prime Day vont bon train pour cette troisième journée. Depuis le mardi 23 juin, et jusqu'au 26 juin, Amazon enchaîne les promotions réservées aux abonnés Prime. Numerama vous propose en direct les meilleures offres sur les produits tech qui valent le coup.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66ef36716e9a",
+          "title": "Le pick-up électrique le plus cool est aussi le moins cher, mais va-t-il vraiment se vendre ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2284829-le-pick-up-electrique-le-plus-cool-est-aussi-le-moins-cher-mais-va-t-il-vraiment-se-vendre.html",
+          "category": "ia",
+          "published_at": "2026-06-25T09:31:00+00:00",
+          "summary": "Slate vient de dévoiler le prix officiel de son pick-up électrique entièrement personnalisable : 24 950 dollars, soit à peine 22 000 €. Mais derrière l'effet waouh, le succès pourra-t-il être au rendez-vous ? Il faut dire que la voiture est vraiment basique, il n'y a même pas de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09c3d772b5fd",
+          "title": "LDLC fait un pied de nez à Valve en lançant une Stim Machine destinée à SteamOS [MàJ]",
+          "source": "Next INpact",
+          "url": "https://next.ink/244047/ldlc-fait-un-pied-de-nez-a-valve-en-lancant-une-stim-machine-destinee-a-steamos/",
+          "category": "ia",
+          "published_at": "2026-06-25T09:25:18+00:00",
+          "summary": "Alors que Valve vient de lancer les précommandes de sa très attendue Steam Machine, le distributeur lyonnais LDLC lui répond avec un mini-PC de son cru, la Stim Machine. La configuration se veut légèrement supérieure à celle adoptée par Valve, pour un prix équivalent et,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e120a94dcd4",
+          "title": "Tour d’horizon des forfaits fibre jusqu’à 8 Gb/s à moins de 30 €, sans engagement",
+          "source": "Next INpact",
+          "url": "https://next.ink/244033/tour-dhorizon-des-forfaits-fibre-jusqua-8-gb-s-a-moins-de-30-e-sans-engagement/",
+          "category": "ia",
+          "published_at": "2026-06-25T09:21:00+00:00",
+          "summary": "Et de quatre augmentations… Lancée à 23,99 euros par mois, B&#38;You Pure fibre Plus est désormais à 27,99 euros par mois. Nous avons décidé de refaire un tour des offres sans TV ni engagement à moins de 30 euros par mois avec RED by SFR, Sosh (Orange) et Free aux côtés de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7747fd942df4",
+          "title": "« Nous n’avons atteint que l’étape 4 sur 9 », même CATL patine encore sur la batterie solide",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2284957-nous-navons-atteint-que-letape-4-sur-9-meme-catl-patine-encore-sur-la-batterie-solide.html",
+          "category": "ia",
+          "published_at": "2026-06-25T09:15:00+00:00",
+          "summary": "Alors que la batterie solide suscite d'immenses attentes, CATL précise que plusieurs étapes sont encore à passer avant une commercialisation en masse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3b77d7a5afe",
+          "title": "Avant même la saison 5, Invincible s’offre une nouvelle suite par surprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284837-prime-video-cree-la-surprise-avec-une-suite-pour-invincible.html",
+          "category": "ia",
+          "published_at": "2026-06-25T09:10:00+00:00",
+          "summary": "Rien ne semble pouvoir arrêter le phénomène de Prime Video.&nbsp;Alors que la production vient de boucler une quatrième saison record, la plateforme de streaming vient d'accorder un vote de confiance massif à Robert Kirkman en renouvelant officiellement la série…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b66a2218ac2",
+          "title": "GTA 6 moins cher que Mario Kart World : Rockstar met une claque à Nintendo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284855-gta-6-moins-cher-que-mario-kart-world-rockstar-met-une-claque-a-nintendo.html",
+          "category": "ia",
+          "published_at": "2026-06-25T09:06:02+00:00",
+          "summary": "GTA 6 sera vendu 79,99 euros en France pour son édition Standard (99,99 euros pour l'Ultime), quand Mario Kart World a été lancé à 89,99 euros en version physique sur Switch 2. Une différence de prix qui n'est pas passée inaperçue sur les réseaux sociaux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52dd86632619",
+          "title": "On a trouvé l’offre la moins chère pour précommander GTA 6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284937-on-a-trouve-loffre-la-moins-chere-pour-precommander-gta-6.html",
+          "category": "justice",
+          "published_at": "2026-06-25T09:04:47+00:00",
+          "summary": "[Deal du jour] Les précommandes de GTA 6 sont ouvertes depuis ce 25 juin 2026, et vous êtes nombreuses et nombreux à écumer le web à la recherche de la meilleure offre. Vous pouvez arrêter de chercher : on vient juste de la trouver.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e51bc469fd4",
+          "title": "UK-based Virtuoso Music expands into India",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/uk-based-virtuoso-music-expands-into-india/",
+          "category": "musique",
+          "published_at": "2026-06-25T08:55:45+00:00",
+          "summary": "UK-based music company Virtuoso Music, which is “dedicated to empowering artists, amplifying creativity and creating experiences”, has announced its expansion into India. Like in the UK, the firm will work [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f6c94198d44",
+          "title": "Supprimé par Trump, le portail états-unien de la recherche sur le climat ressuscité",
+          "source": "Next INpact",
+          "url": "https://next.ink/244084/supprime-par-trump-le-portail-etats-unien-de-la-recherche-sur-le-climat-ressuscite/",
+          "category": "ia",
+          "published_at": "2026-06-25T08:52:00+00:00",
+          "summary": "Utilisé par le monde de la recherche comme par le public, le site climate.gov a été supprimé l’an dernier au beau milieu des attaques du gouvernement de Trump contre les sciences climatiques. Des bénévoles viennent de lui donner une nouvelle vie à l’adresse climate.us. Printemps…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "217b3dc41a2b",
+          "title": "Diljit Dosanjh breaks own record with North American leg of ‘Aura’ tour",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/diljit-dosanjh-breaks-own-record-with-north-american-leg-of-aura-tour/",
+          "category": "musique",
+          "published_at": "2026-06-25T08:45:48+00:00",
+          "summary": "Attendance and revenue figures for tours by Indian acts are hard to come by. Among the exceptions are the record-breaking runs by Diljit Dosanjh. The 15-date, 13-city North American leg [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37e840549e7c",
+          "title": "La mystérieuse capsule spatiale Starfall de SpaceX transportait des… levures pour brasser de la bière",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2284777-la-mysterieuse-capsule-spatiale-starfall-de-spacex-transportait-des-levures-pour-brasser-de-la-biere.html",
+          "category": "ia",
+          "published_at": "2026-06-25T08:25:00+00:00",
+          "summary": "Lancée dans le plus grand secret par SpaceX, la mystérieuse capsule Starfall cachait une cargaison insolite : des levures et des graines embarquées par Starbase Brewing pour préparer les boissons du futur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc8521356f49",
+          "title": "Des indices dans le code de Claude font miroiter un retour de Fable 5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2284783-des-indices-dans-le-code-de-claude-font-miroiter-un-retour-de-fable-5.html",
+          "category": "ia",
+          "published_at": "2026-06-25T08:11:00+00:00",
+          "summary": "Près de deux semaines après la suspension forcée du modèle grand public le plus puissant d'Anthropic, une mise à jour discrète de Claude Code suggère que l'entreprise américaine prépare activement son retour, avec un modèle de distribution revu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b235d983a42",
+          "title": "Logement, démarches, forfait fibre internet et mobile : comment bien s’installer au Luxembourg [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2268907-logement-demarches-forfait-fibre-internet-et-mobile-comment-bien-sinstaller-au-luxembourg.html",
+          "category": "ia",
+          "published_at": "2026-06-25T07:55:17+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Tango Luxembourg\n\nDémarches, recherche de logement et choix de votre opérateur Internet : s'installer au Luxembourg s'anticipe. Voici le guide essentiel pour réussir sereinement son expatriation au Grand-Duché.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abbd6fb3d752",
+          "title": "☕️ Quand une vidéo YouTube permet de prouver l’existence du chat des sables libyen",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/quand-une-video-youtube-permet-de-prouver-lexistence-du-chat-des-sables-libyen/",
+          "category": "ia",
+          "published_at": "2026-06-25T07:30:49+00:00",
+          "summary": "Tout est parti d’une vidéo YouTube de 18 secondes : le photographe animalier Mohammed Almuntasir l’a publiée en 2017, sans plus y penser. Dessus : un petit chat pâle, creusant un trou dans le sable du désert du sud-ouest de la Libye. «&#160;Personne ne voulait croire que ç’avait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7bda1f4f8f0",
+          "title": "Netflix sort un jeu d’horreur jouable au smartphone avec un casting impressionant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284767-netflix-va-sortir-un-nouveau-jeu-video-dhorreur-avec-un-casting-impressionnant.html",
+          "category": "ia",
+          "published_at": "2026-06-25T07:19:01+00:00",
+          "summary": "Netflix a annoncé le lancement d'un nouveau jeu d'horreur, Détraqué, qui sera disponible sans frais supplémentaires sur la plateforme, dès ce 30 juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c81c1e2cff1b",
+          "title": "La canicule perturbe le trafic ferroviaire français : pourquoi ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2283617-la-canicule-perturbe-le-trafic-ferroviaire-francais-pourquoi.html",
+          "category": "ia",
+          "published_at": "2026-06-25T07:05:54+00:00",
+          "summary": "La canicule extrême de cette mi-juin 2026 déclenche une cascade de problèmes. Les trajets en train sont très impactés, avec des retards conséquents et même des annulations de la part de la SNCF. Mais pourquoi la chaleur empêche-t-elle les trains de rouler normalement ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "923f9de0d7e5",
+          "title": "Dis Next, c’est quoi le « live patching » sans redémarrage dans les OS ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/244008/dis-next-cest-quoi-le-live-patching-sans-redemarrage-dans-les-os/",
+          "category": "ia",
+          "published_at": "2026-06-25T07:02:20+00:00",
+          "summary": "Canonical a annoncé ce 23 juin la compatibilité de sa fonction Livepatch avec la variante Arm64 d’Ubuntu. Au-delà de cette extension, quels systèmes d’exploitation disposent aujourd’hui de ce type de mise à jour sans redémarrage ? Comment fonctionne un tel processus ? Canonical…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc2c305dc993",
+          "title": "Avatar, le dernier maître de l’air : une saison 2 qui prend de la hauteur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2283191-avatar-le-dernier-maitre-de-lair-une-saison-2-qui-prend-de-la-hauteur.html",
+          "category": "ia",
+          "published_at": "2026-06-25T07:01:00+00:00",
+          "summary": "Deux ans après ses débuts, la série Avatar, le dernier maître de l’air est de retour avec une deuxième saison, mise en ligne ce 25 juin sur Netflix. Il est temps de retrouver Aang et ses amis pour de nouvelles aventures toujours aussi épiques ! Cette saison 2 est-elle à la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aae6e511f5a8",
+          "title": "‘Wish Me Luck’: Alison Wonderland Gets Selected For FIFA World Cup Honor",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/alison-wonderland-selected-for-fifa-world-cup-honor-1236280898/",
+          "category": "ia",
+          "published_at": "2026-06-25T06:27:54+00:00",
+          "summary": "“OH MY GDDD I just got asked by ADIDAS to BRING OUT THE MATCH BALL TO THE FIELD FOR THE AUSTRALIA VS PARAGUAY MATCH TOMORROW,” the Aussie DJ and producer writes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ddd9a9b9e7b",
+          "title": "☕️ Oracle a licencié 21 000 personnes en un an après avoir recentré ses activités sur l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/oracle-a-licencie-21-000-personnes-en-un-an-apres-avoir-recentre-ses-activites-sur-lia/",
+          "category": "ia",
+          "published_at": "2026-06-25T06:02:39+00:00",
+          "summary": "En un an, Oracle a mis fin à 21 000 postes à travers le monde. En mai 2026, l’entreprise indiquait compter 141 000 employés à temps plein, contre 162 000 l’année précédente, soit une baisse de 13 % de ses effectifs. Très investie dans le déploiement de l’intelligence…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5dea17bed8cb",
+          "title": "Digital replicas, avatars, and NIL rights: is this the future of music?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/digital-replicas-avatars-and-nil-rights-is-this-the-future-of-music/",
+          "category": "ia",
+          "published_at": "2026-06-25T06:00:00+00:00",
+          "summary": "Guest column: Music Ally publishes guest columns voicing the opinions of notable authors, or advancing specific perspectives on important issues. These are chosen at the Editorial team’s discretion, are not paid-for, and do not necessarily reflect Music Ally&#8217;s own opinion.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e5d60fd38c3",
+          "title": "La campagne d’essais du Starship pour le vol 13 s’intensifie, avec un tir espéré dans quelques semaines",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2284487-la-campagne-dessais-du-starship-pour-le-vol-13-sintensifie-avec-un-tir-espere-dans-quelques-semaines.html",
+          "category": "ia",
+          "published_at": "2026-06-25T05:10:55+00:00",
+          "summary": "Cap sur le treizième essai du Starship. La campagne d'essais intensifs pour le vol 13 s'accélère au Texas avec un objectif limpide : corriger les imperfections techniques du précédent tir pour tenter un nouveau décollage au plus vite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "569f798db834",
+          "title": "Country Thunder Alberta Cancels Festival Citing  Infrastructure Issues with the City of Calgary",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/country-thunder-alberta-cancels-red-clay-strays-1236280875/",
+          "category": "ia",
+          "published_at": "2026-06-25T04:54:08+00:00",
+          "summary": "The festival was slated to start in two days with Red Clay Strays, Lainey Wilson and Kane Brown.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "23a249a08c32",
+          "title": "Bailey Zimmerman Won’t Face Charges For Allegedly Damaging New Mexico Hotel Room: Reports",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/bailey-zimmerman-no-charges-new-mexico-hotel-damage-reports-1236280870/",
+          "category": "ia",
+          "published_at": "2026-06-25T03:40:59+00:00",
+          "summary": "Charges have been dropped, and the case dismissed because full restitution was made,",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d5b1d27e995",
+          "title": "RÜFÜS DU SOL Creates EDM History With Madison Square Garden Run",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/rufus-du-sol-edm-history-madison-square-garden-msg-1236280855/",
+          "category": "ia",
+          "published_at": "2026-06-25T02:58:15+00:00",
+          "summary": "The Australian trio will set a new MSG benchmark on Thursday, June 25 with the first of four consecutive sold-out shows.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c8da0e9248c",
+          "title": "Leonard Cohen Estate Decries Use of ‘Hallelujah’ at Donald Trump’s ‘Great American State Fair’ Rally — But It Happened Anyway",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/leonard-cohen-estate-objects-hallelujah-donald-trump-rally-1236280811/",
+          "category": "ia",
+          "published_at": "2026-06-25T01:16:43+00:00",
+          "summary": "Long Island opera singer Christopher Macchio joined forces with the Marine Band's Master Gunnery Sgt. Kevin Bennear to perform the oft-covered 1984 song.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4e5ad3145b3",
+          "title": "Bizarrap & Myke Towers Drop ‘BZRP Music Session #42/66’ — And Take Shots at Germany",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/bizarrap-myke-towers-bzrp-music-session-42-66-video-1236280246/",
+          "category": "musique",
+          "published_at": "2026-06-25T00:42:49+00:00",
+          "summary": "The Argentine hitmaker’s first session of 2026 arrives with the Puerto Rican star, plus a video packed with soccer jabs aimed at Mario Götze.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-24",
       "articles": [
+        {
+          "id": "a10516658fc2",
+          "title": "GTA 6 : les prix en euros sont officiels (et c’est une bonne surprise)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284497-les-prix-en-euros-de-gta-6-sont-officiels-et-cest-une-bonne-surprise.html",
+          "category": "ia",
+          "published_at": "2026-06-24T22:09:49+00:00",
+          "summary": "Alors que les prix de GTA 6 sont plus chers que ceux des autres jeux PlayStation et Xbox dans la plupart des pays, Rockstar Games fait le choix de tarifs normaux en France. GTA VI sera disponible le 19 novembre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea0a1e9ee2f1",
+          "title": "Senior Manager, Paid Media & Growth Strategy – The Orchard – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/senior-manager-paid-media-growth-strategy-the-orchard-london/",
+          "category": "ia",
+          "published_at": "2026-06-24T21:52:10+00:00",
+          "summary": "The Senior Manager, Paid Media &#38; Growth Strategy will serve as the dedicated strategic lead for the UK market, bridging local marketing priorities with The Orchard’s global Paid Media framework. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67e1b009a238",
+          "title": "Deezer’s new in-app remix feature lets users speed up and modify tracks by Céline Dion and other artists ‘with full rights compliance’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/deezers-new-in-app-remix-feature-lets-users-speed-up-and-modify-tracks-by-celine-dion-and-other-artists-with-full-rights-compliance/",
+          "category": "musique",
+          "published_at": "2026-06-24T20:01:15+00:00",
+          "summary": "Deezer says every remix is created with the explicit agreement of the artist, and that streams of remixed versions are attributed to the original work\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2f7dde150cb",
+          "title": "Les fans ne seront pas surpris : le remake de l’animé One Piece révèle ses premières images dans un trailer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284361-les-fans-ne-seront-pas-surpris-le-remake-de-lanime-one-piece-revele-ses-premieres-images-dans-un-trailer.html",
+          "category": "ia",
+          "published_at": "2026-06-24T19:26:49+00:00",
+          "summary": "Prévu depuis 2023, le remake de l'anime One Piece se livre dans une toute première bande-annonce.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3740f00592d9",
+          "title": "PPL India reinstated as a copyright society after a 12-year absence",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ppl-india-reinstated-as-a-copyright-society-after-a-12-year-absence/",
+          "category": "ia",
+          "published_at": "2026-06-24T17:47:32+00:00",
+          "summary": "The registration was granted by the Government of India, through the office of the Registrar of Copyrights, on June 11\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e44474dd3869",
+          "title": "Batman Caped Crusader introduit enfin ce personnage attendu dans la saison 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284413-batman-caped-crusader-introduit-enfin-ce-personnage-attendu-dans-la-saison-2.html",
+          "category": "ia",
+          "published_at": "2026-06-24T17:45:00+00:00",
+          "summary": "Le Chevalier Noir reprend du service plus tôt que prévu. Prime Video a profité du prestigieux Festival d’Annecy pour dévoiler la première bande-annonce officielle de la saison 2 de Batman: Caped Crusader, la série animée événement. Cerise sur le gâteau pour les fans de Gotham :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0ab78a5bbab",
+          "title": "HarbourView acquires publisher’s share of select songs from Max Martin and Shellback’s Wolf Cousins collective",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/harbourview-acquires-publishers-share-of-select-songs-from-max-martin-and-shellbacks-wolf-cousins-collective/",
+          "category": "ia",
+          "published_at": "2026-06-24T17:29:19+00:00",
+          "summary": "The compositions include songs recorded by Taylor Swift, Ariana Grande, The Weeknd, Imagine Dragons, Ellie Goulding, Tove Lo, DNCE and Demi Lovato.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c095c57dc362",
+          "title": "KGV Kiran Kumar promoted to Managing Director, India & Middle East at The Orchard",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/kgv-kiran-kumar-promoted-to-managing-director-india-middle-east-at-the-orchard/",
+          "category": "ia",
+          "published_at": "2026-06-24T16:46:14+00:00",
+          "summary": "Kumar was previously Managing Director, India at the company, a remit that also covered its operations in Nepal, Sri Lanka, and Bangladesh.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03edbf80cabf",
+          "title": "Taylor Swift is fighting a trademark lawsuit over The Life of a Showgirl. Here’s what a new amended complaint argues, and what’s at stake.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swift-fights-trademark-lawsuit-over-the-life-of-a-showgirl-heres-what-a-new-amended-complaint-argues-and-whats-at-stake/",
+          "category": "ia",
+          "published_at": "2026-06-24T16:42:05+00:00",
+          "summary": "Swift's lawyers moved to dismiss the lawsuit in May\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62ccdfebb8f6",
+          "title": "Douche chaude ou froide pendant la canicule ? Voilà la température idéale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1475176-douche-chaude-ou-froide-pendant-la-canicule-la-temperature-ideale.html",
+          "category": "ia",
+          "published_at": "2026-06-24T16:35:08+00:00",
+          "summary": "Avec le retour de la canicule en France, il est tentant de prendre une douche froide, voire glacée, pour espérer se rafraichir. Cependant, ce n'est pas l'idéal en période de pic de chaleur. Alors, douche chaude ou douche froide quand il fait chaud ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39a1525343c6",
+          "title": "Fin d’Apple Pay en France ? Le Crédit Agricole tente de rassurer après le lancement de sa propre app",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283219-fin-dapple-pay-en-france-le-credit-agricole-fait-une-erreur-en-lancant-sa-propre-app.html",
+          "category": "ia",
+          "published_at": "2026-06-24T16:31:51+00:00",
+          "summary": "Après des années de rumeurs, le Crédit Agricole devient la première banque avec sa propre application de paiement mobile sur iPhone. Le service permet d'utiliser la puce NFC de son iPhone pour payer dans les magasins sans solliciter Apple Pay. Il est rendu possible par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "823b86ec9d11",
+          "title": "Building a More Trusted Platform for Artists and Listeners",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/building-a-more-trusted-platform-for-artists-and-listeners/",
+          "category": "musique",
+          "published_at": "2026-06-24T15:47:27+00:00",
+          "summary": "In today&#8217;s music landscape, it’s more important than ever for artists to build real connections with their listeners. Artists want to represent themselves authentically, deepen their relationships with fans, and [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca63fee3ae5b",
+          "title": "Larry Sanger, l’un des cofondateurs de Wikipédia, est banni du site",
+          "source": "Next INpact",
+          "url": "https://next.ink/243940/larry-sanger-lun-des-cofondateurs-de-wikipedia-est-banni-du-site/",
+          "category": "ia",
+          "published_at": "2026-06-24T15:11:41+00:00",
+          "summary": "Contempteur de l’encyclopédie participative depuis déjà plusieurs années après avoir participé à sa fondation, Larry Sanger vient d&#8217;en être banni pour avoir demandé de l&#8217;aide en dehors du site pour influencer son contenu. Larry Sanger est l&#8217;un des cofondateurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16e150c58b0f",
+          "title": "Tesla, Decathlon, Outwell : les meilleurs matelas conçus pour passer la nuit dans sa voiture",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2284133-tesla-decathlon-outwell-les-meilleurs-matelas-concus-pour-passer-la-nuit-dans-sa-voiture.html",
+          "category": "ia",
+          "published_at": "2026-06-24T15:11:09+00:00",
+          "summary": "Vous avez envie de faire du camping dans votre voiture ? Il existe des matelas spéciaux adaptés aux habitacles pour passer des nuits confortables sans se prendre la tête. Voici les produits incontournables de ce marché de niche.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0b581daf749",
+          "title": "Pourquoi la meilleure version de GTA 6 est sur PS5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2284159-pourquoi-la-meilleure-version-de-gta-6-est-sur-ps5.html",
+          "category": "ia",
+          "published_at": "2026-06-24T15:05:00+00:00",
+          "summary": "C'est le coup de grâce de Sony dans la guerre des consoles.&nbsp;Par le biais d'un communiqué officiel signé Mary Yee (Vice-Présidente du Marketing chez SIE), PlayStation vient d'annoncer un partenariat historique avec Rockstar Games. L'objectif est clair : faire de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "832d2a8d4b53",
+          "title": "Impact environnemental de l’IA : le secrétaire général de l’ONU réclame la transparence",
+          "source": "Next INpact",
+          "url": "https://next.ink/243951/antonio-guterres-demande-plus-de-transparence-sur-limpact-environnemental-de-lia/",
+          "category": "ia",
+          "published_at": "2026-06-24T14:04:17+00:00",
+          "summary": "Le secrétaire général de l&#8217;ONU inaugure une initiative sur la transparence environnementale de l&#8217;IA et appelle globalement les secteurs polluants et les États à accélérer leurs actions pour faire face au changement climatique. Alors que l’Europe est frappée d’une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11e0e469c695",
+          "title": "Country Profile – Poland 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/country-profile-poland-2026/",
+          "category": "musique",
+          "published_at": "2026-06-24T13:55:00+00:00",
+          "summary": "Poland’s music industry is in rude health &#8211; although exports remain problematic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ad99b948aa7",
+          "title": "Reactional scores $2.8m European Innovation Council grant to scale personalized music as a monetization layer in gaming",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reactional-scores-2-8m-european-innovation-council-grant-to-scale-personalized-music-as-a-monetisation-layer-in-gaming/",
+          "category": "musique",
+          "published_at": "2026-06-24T13:47:59+00:00",
+          "summary": "Firm's patented Reactional Music Engine lets players personalize in-game music and lets developers build soundtracks that react to gameplay in real time\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98a33fe544b7",
+          "title": "More Prediction Markets: Meta aiming to create prediction market platform – report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/more-prediction-markets-meta-aiming-to-create-prediction-market-platform-report/",
+          "category": "ia",
+          "published_at": "2026-06-24T12:57:13+00:00",
+          "summary": "Meta’s internal R&amp;D team has long been trying to build new stuff that allows the company to expand outside of its  titanic trios of Instagram and Facebook – with varying success. While Threads is still gaining traction, and the Ray-Ban smart glasses collab is a work in…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40f37be82509",
+          "title": "TuneCore will take an Indian act to this year’s Axean Festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/tunecore-will-take-an-indian-act-to-this-years-axean-festival/",
+          "category": "musique",
+          "published_at": "2026-06-24T12:50:34+00:00",
+          "summary": "TuneCore has been among the sponsors of the Axean Festival since the South-East Asian music conference and showcase’s inaugural edition in 2021. As part of its association with the event, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bd924e89a03",
+          "title": "Spotify seeking to grow ad business via AI ad voice-overs and automation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/spotify-seeking-to-grow-ad-business-via-ai-ad-voice-overs-and-automation/",
+          "category": "ia",
+          "published_at": "2026-06-24T12:45:01+00:00",
+          "summary": "Yesterday, we reported that Snap was looking to juice up its ad offer by adding AI-powered tools, and lo! here’s another ad platform doing a similar thing. Spotify’s VP of advertising partnerships Brian Berner took to the Digiday Podcast to explain Spotify’s new ad tools – which…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cab0cf645426",
+          "title": "Influence Media emerges as winning bidder for Anthem’s music assets with $650M+ offer (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/influence-media-emerges-as-winning-bidder-for-anthems-music-assets-with-650m-offer-report/",
+          "category": "ia",
+          "published_at": "2026-06-24T12:43:06+00:00",
+          "summary": "It's the third time in a decade that Anthem has been put up for sale after earlier auctions in 2017 and 2022 failed to draw a high enough bid.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c497c8e9b392",
+          "title": "Deezer lets fans remix songs in-app, with original artists compensated accordingly",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/deezer-lets-fans-remix-songs-in-app-with-original-artists-compensated-accordingly/",
+          "category": "musique",
+          "published_at": "2026-06-24T12:30:00+00:00",
+          "summary": "It’s been clear for a while now that music has moved from being a thing that a small number of people make, and the rest of us listen to, to a thing that we all do stuff with in different ways. In that latter vein, Deezer has launched a “Remix Lab” feature today in France,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abf35338257c",
+          "title": "Luminate data: US market diversifying away from domestic and Anglophone music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/luminate-data-us-market-diversifying-away-from-domestic-and-anglophone-music/",
+          "category": "musique",
+          "published_at": "2026-06-24T12:30:00+00:00",
+          "summary": "The US has always, understandably, been a domestic-centric market – but it’s now at a “vibrant international crossroads”, a new Luminate report says. While two thirds of on-demand audio streams are still of US artists, and by American artists, that dominance is steadily eroding…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a196e08284f",
+          "title": "Anukari is a virtual 3D Lego-like build-your-own synth platform",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/24/anukari-is-a-virtual-3d-lego-like-build-your-own-synth-platform/",
+          "category": "musique",
+          "published_at": "2026-06-24T12:30:00+00:00",
+          "summary": "We in Music Ally’s Editorial team are always looking for ways to distract ourselves from work (Hey, get back to your writing &#8211; ed.) and this year the World Cup, being many time zones away, isn’t providing its usual second-screen role. Enter Anukari, which might do the…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "27646fad66c5",
           "title": "Victimes de violations de données : restez vigilants face aux offres d’accompagnement",
@@ -12,6 +617,56 @@
           "category": "cnil",
           "published_at": "2026-06-24T12:00:00+00:00",
           "summary": "Des victimes de violations de données personnelles reçoivent des courriels proposant une aide pour faire supprimer leurs informations en ligne. La CNIL invite à la prudence face à ces démarches dont elle n’est pas à l’origine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fa6a2961e35",
+          "title": "Quatre auteurs reçoivent le deuxième prix CNIL/EHESS pour leur recherche sur la réception du règlement IA par les citoyens européens",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/prix-ehess-cnil-2026",
+          "category": "ia",
+          "published_at": "2026-06-24T12:00:00+00:00",
+          "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026, Gabriel Lima, Gustavo Gil Gasiola, Frederike Zufall et Yixin Zou ont reçu le 2ème prix CNIL/EHESS pour leur article sur la régulation de l’intelligence artificielle et son alignement avec les attentes citoyennes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbdec1f721a7",
+          "title": "Informations publiques",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/informations-publiques",
+          "category": "cnil",
+          "published_at": "2026-06-24T12:00:00+00:00",
+          "summary": "Cette page recense les informations publiques de la CNIL (documents, vidéos, open data).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "edbe66cf68d2",
+          "title": "Remise du prix « Protection de la vie privée » 2026 par la CNIL et l’Inria",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/prix-inria-cnil-2026",
+          "category": "cnil",
+          "published_at": "2026-06-24T12:00:00+00:00",
+          "summary": "Lors de la Journée de recherche sur la vie privée, le 24 juin 2026,&amp;nbsp;la CNIL et l’Inria ont remis le prix 2026 de la protection de la vie privée à une équipe de chercheurs internationaux pour leur article portant sur l’articulation entre la réglementation et la recherche…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55d95ff6f546",
+          "title": "Meta va se lancer sur le marché des plateformes de paris en ligne avec « Arena »",
+          "source": "Next INpact",
+          "url": "https://next.ink/243880/meta-va-se-lancer-sur-le-marche-des-plateformes-de-paris-en-ligne-avec-arena/",
+          "category": "ia",
+          "published_at": "2026-06-24T12:00:00+00:00",
+          "summary": "Meta a dans les cartons une application, nommée Arena, qui pourrait, à terme, concurrencer Polymarket et Kalshi sur le marché des plateformes de paris en ligne. Celui-ci est cependant assez instable légalement aux États-Unis et se voit critiqué par une partie de la classe…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83470fa9304e",
+          "title": "Le Sénat appelle à la création d’un règlement « DSA 2 » ambitieux",
+          "source": "Next INpact",
+          "url": "https://next.ink/243184/le-senat-appelle-a-la-creation-dun-reglement-dsa-2-ambitieux/",
+          "category": "ia",
+          "published_at": "2026-06-24T11:37:00+00:00",
+          "summary": "La délégation à la prospective du Sénat propose de clarifier les notions d&#8217;éditeur et d&#8217;hébergeur, afin de pouvoir sanctionner les plateformes ayant amplifié de fausses informations. Elle invite les responsables politiques à cesser de dénigrer les figures…",
           "summary_type": "extrait source"
         },
         {
@@ -547,6 +1202,16 @@
           "category": "institutionnel",
           "published_at": "2026-06-23T12:00:00+00:00",
           "summary": "Lorsque le recours au vote électronique est prévu pour les élections professionnelles dans la fonction publique, le système de vote doit faire l’objet d’une expertise indépendante. Dans ce cadre, les rapports d’expertise doivent désormais être transmis à la CNIL.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55457c7dd0bb",
+          "title": "Chez Meta, la bascule vers l’IA entraîne une « merdification » des conditions de travail",
+          "source": "Next INpact",
+          "url": "https://next.ink/243453/chez-meta-la-bascule-vers-lia-entraine-une-merdification-des-conditions-de-travail/",
+          "category": "ia",
+          "published_at": "2026-06-23T11:59:00+00:00",
+          "summary": "Meta a coup sur coup annoncé la surveillance généralisée des interactions de ses 78 000 employés avec leurs ordinateurs, afin d&#8217;entraîner ses IA, le licenciement de 8 000 d&#8217;entre eux, la réassignation forcée de 7 000 autres dans son service d&#8217;étiquetage de…",
           "summary_type": "extrait source"
         },
         {
