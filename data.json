@@ -1,9 +1,614 @@
 {
-  "generated_at": "2026-06-25T11:08:31.319658+00:00",
+  "generated_at": "2026-06-26T11:16:51.520420+00:00",
   "days": [
+    {
+      "date": "2026-06-26",
+      "articles": [
+        {
+          "id": "ed429ee84ce6",
+          "title": "Suno launches grants, mentorship and support for indie artists who use the platform",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/26/suno-launches-grants-mentorship-and-support-for-indie-artists-who-use-the-platform/",
+          "category": "ia",
+          "published_at": "2026-06-26T11:14:44+00:00",
+          "summary": "Earlier this week, we reported on SZA’s fury with AI platforms like Suno, and the artists that collaborate with them. Her warning to other artists  – all-caps tirade warning – was blunt: “DO NOT TRAIN AI [WITH] YOUR GENIUS,” as was her opinion on artists that support generative…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db8c01b6f208",
+          "title": "iHeartMedia cuts radio jobs across US as it targets $50m in annual cost savings (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/iheartmedia-cuts-radio-jobs-across-us-markets-as-it-targets-50m-in-annual-cost-savings-report/",
+          "category": "ia",
+          "published_at": "2026-06-26T11:08:17+00:00",
+          "summary": "According to RadioInsight, nationwide station budget cuts began Tuesday and rolled out through the week.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a39e02f9eca3",
+          "title": "Leon Thomas Reminds Fellow Songwriters to Never ‘Let Any of These Companies Put You in a Box’ While Accepting 2026 ASCAP Vanguard Award",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/leon-thomas-kendrick-lamar-2026-ascap-rhythm-soul-awards-1236281481/",
+          "category": "ia",
+          "published_at": "2026-06-26T11:05:07+00:00",
+          "summary": "The Grammy-winning R&#38;B powerhouse earned top honors at the 2026 ASCAP Rhythm &#38; Soul Awards, which also honored Kendrick Lamar &#38; SZA's \"Luther.\" Get all the details.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a96f32269cff",
+          "title": "Fin de la canicule : des éclairs intra-nuageux ont été observés au Havre la nuit dernière",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2286015-fin-de-la-canicule-des-eclairs-intra-nuageux-ont-ete-observes-au-havre-la-nuit-derniere.html",
+          "category": "ia",
+          "published_at": "2026-06-26T11:05:00+00:00",
+          "summary": "Alors que la majorité de la France suffoque encore sous la canicule, les orages sont attendus. Ils sont souvent synonymes de rafraichissement. Mais ils restent des phénomènes dangereux et imprévisibles, comme le rappelle une vidéo spectaculaire d'éclairs intra-nuageux observés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc3ae2f0864e",
+          "title": "Désormais banni des États-Unis, que reste-t-il comme avenir à Polestar ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2285957-desormais-banni-des-etats-unis-que-reste-t-il-comme-avenir-a-polestar.html",
+          "category": "justice",
+          "published_at": "2026-06-26T10:50:00+00:00",
+          "summary": "C'est officiel, Polestar est contraint d'arrêter ses activités aux États-Unis en raison de la réglementation interdisant les composants chinois dans les voitures. Un énorme coup dur pour une marque dont le destin se jouera en Europe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f55bf7333dec",
+          "title": "IA générative : Anthropic accuse Allibaba de distiller ses modèles",
+          "source": "Next INpact",
+          "url": "https://next.ink/244350/ia-generative-anthropic-accuse-allibaba-de-distiller-ses-modeles/",
+          "category": "ia",
+          "published_at": "2026-06-26T10:38:00+00:00",
+          "summary": "Anthropic a récemment alerté les élus états-uniens au sujet de la récupération massive de données sur ses outils par Alibaba, accusant son concurrent chinois de distiller ses modèles de façon illégitime. En parallèle, l&#8217;administration Trump interdit l&#8217;accès au marché…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8b1e79ff65f",
+          "title": "« Trop de Starshit ! » : Elon Musk l’admet, l’overdose de projets spatiaux en « Star- » devient débile",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2286083-trop-de-starshit-elon-musk-ladmet-loverdose-de-projets-spatiaux-en-star-devient-debile.html",
+          "category": "ia",
+          "published_at": "2026-06-26T10:11:00+00:00",
+          "summary": "Après sa célèbre obsession pour la lettre X, Elon Musk décline aussi ses projets spatiaux à toutes les sauces sous le préfixe « Star ». Une uniformisation marketing poussée jusqu'à l'excès, qui commence à lasser le public… et peut-être le milliardaire lui-même. Et ça pourrait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45ac34877153",
+          "title": "Précommande GTA 6 : voici toutes les offres pour réserver le jeu de la décennie au meilleur prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239695-precommandes-de-gta-6-toutes-les-offres-du-jeu-sont-la-voici-ou-trouver-le-meilleur-prix.html",
+          "category": "ia",
+          "published_at": "2026-06-26T09:55:40+00:00",
+          "summary": "[Précommande] Alors que le jeu de Rockstar Games ne sortira que le 19 novembre 2026, les enseignes se livrent déjà bataille sur les précommandes, avec des prix compris entre 50 € et 79,99 €. Voici notre tour d’horizon complet des offres actuellement disponibles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7167bfa1ebd9",
+          "title": "« Des grands trajets sans se prendre la tête » : Electra révolutionne son app pour offrir l’expérience Tesla à tous",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2286065-des-grands-trajets-sans-se-prendre-la-tete-electra-revolutionne-son-app-pour-offrir-lexperience-tesla-a-tous.html",
+          "category": "ia",
+          "published_at": "2026-06-26T09:53:29+00:00",
+          "summary": "À l’approche des grands départs en vacances, l’opérateur français Electra dégaine une mise à jour majeure de son application. Baptisée en interne « Copilote », cette nouvelle fonctionnalité veut offrir la fluidité de l’expérience Tesla pour la gestion de la recharge à tous les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97cd6276f6c6",
+          "title": "☕️ Un an à peine après son lancement, Notion annonce déjà la fin de son client Mail",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/un-an-a-peine-apres-son-lancement-notion-annonce-deja-la-fin-de-son-client-mail/",
+          "category": "ia",
+          "published_at": "2026-06-26T09:47:00+00:00",
+          "summary": "En avril 2025, Notion lançait la première version de sa nouvelle application&#160;: Notion Mail. Initialement compatible avec Gmail, sa valeur ajoutée devait résider dans l’utilisation de l’IA et l’organisation automatique, grâce à son expérience acquise dans son application de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e37a927e3035",
+          "title": "La Maison-Blanche demande à OpenAI de retarder GPT-5.6 pour examen",
+          "source": "Next INpact",
+          "url": "https://next.ink/244386/la-maison-blanche-demande-a-openai-de-retarder-gpt-5-6-pour-examen/",
+          "category": "ia",
+          "published_at": "2026-06-26T09:22:12+00:00",
+          "summary": "Le gouvernement américain aurait exigé d’OpenAI une période d’examen similaire pour son futur modèle GPT-5.6. Les performances atteindraient le niveau de Mythos et Fable d’Anthropic et ferait donc l’objet d’une analyse des risques. Seuls des acteurs triés sur le volet y auraient…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b177076ad446",
+          "title": "Valve admet à demi-mot avoir survendu les performances de sa Steam Machine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2285927-valve-admet-a-demi-mot-avoir-survendu-les-performances-de-sa-steam-machine.html",
+          "category": "ia",
+          "published_at": "2026-06-26T09:10:00+00:00",
+          "summary": "Valve avait promis une Steam Machine capable de jeu en 4K à 60 images par seconde. Mais face aux premiers tests et aux critiques sur ses performances (et son prix), la firme a discrètement révisé sa fiche technique, comme l’a relevé un utilisateur le 25 juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf5a69b0dbc8",
+          "title": "Avant même Shrek 5, Universal annonce déjà un spin-off assez inattendu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2285911-avant-meme-la-sortie-de-shrek-5-universal-annonce-deja-un-spin-off-dedie-au-personnage-de-lane.html",
+          "category": "ia",
+          "published_at": "2026-06-26T09:03:00+00:00",
+          "summary": "L'écurie DreamWorks continue de traire ses vaches à lait, ou plutôt ses ânes.&nbsp;Vingt-six ans après avoir conquis le monde avec son humour irrévérencieux, la saga&nbsp;Shrek&nbsp;s'apprête à propulser son acolyte le plus bavard et collant sous le feu des projecteurs.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e3c9c026e7e",
+          "title": "☕️ SpaceX envisagerait de se lancer comme opérateur mobile aux États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/spacex-envisagerait-de-se-lancer-comme-operateur-mobile-aux-etats-unis/",
+          "category": "ia",
+          "published_at": "2026-06-26T08:53:41+00:00",
+          "summary": "SpaceX aurait dans ses cartons le projet de lancer une offre de téléphonie mobile grand public aux États-Unis. Cette dernière s&#8217;appuierait en partie sur les constellations de satellites déjà déployées pour les services de connectivité Starlink, mais elle devrait aussi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c38757ef06e1",
+          "title": "C’est la fin de Géoportail : avec cartes.gouv.fr, la France vient défier Google Maps et Street View",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2285919-cest-la-fin-de-geoportail-avec-cartes-gouv-fr-la-france-vient-defier-google-maps-et-street-view.html",
+          "category": "ia",
+          "published_at": "2026-06-26T08:29:02+00:00",
+          "summary": "Le célèbre Géoportail s’apprête à tirer sa révérence. L’IGN regroupe désormais ses services sur cartes.gouv.fr, une plateforme unique, modernisée et pensée pour le mobile, qui se positionne comme une alternative souveraine et collaborative à Google Maps et Street View.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4749c2e55389",
+          "title": "Mistral veut bousculer la gestion des documents avec son modèle OCR 4",
+          "source": "Next INpact",
+          "url": "https://next.ink/244274/mistral-veut-bousculer-la-gestion-des-documents-avec-son-modele-ocr-4/",
+          "category": "ia",
+          "published_at": "2026-06-26T07:31:00+00:00",
+          "summary": "Mistral a lancé la quatrième version de son modèle dédié à l’OCR, la reconnaissance de texte. Mais de simple extracteur de texte, le modèle spécialisé devient un parseur documentaire sémantique, que Mistral présente comme particulièrement adapté aux pipelines de recherche ou au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "942058180793",
+          "title": "Olivia Rodrigo’s ‘You Seem Pretty Sad’ Retains Top Spot on ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-aria-australia-chart-1236281723/",
+          "category": "ia",
+          "published_at": "2026-06-26T07:28:45+00:00",
+          "summary": "Taylor Swift returns to the singles chart summit with “I Knew It, I Knew You,” thanks to the arrival of Top Story 5 in cinemas across the country.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97236bd383c2",
+          "title": "Washington voudrait embarquer l’UE dans une alliance IA face à la Chine",
+          "source": "Next INpact",
+          "url": "https://next.ink/244297/washington-voudrait-embarquer-lue-dans-une-alliance-ia-face-a-la-chine/",
+          "category": "ia",
+          "published_at": "2026-06-26T07:02:00+00:00",
+          "summary": "Branche d&#8217;olivier ou coup fourré ? L&#8217;administration Trump aurait proposé à l&#8217;Union européenne un partenariat sur l&#8217;IA, dans le but de créer une alliance pour sécuriser l&#8217;approvisionnement en composants indispensables aux datacenters IA. Washington…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bd49da0ae81",
+          "title": "Alors que Bungie licencie massivement, Donald Trump s’imagine dans Destiny 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2285887-bungie-licencie-massivement-le-studio-de-destiny-et-marathon-joue-son-avenir.html",
+          "category": "ia",
+          "published_at": "2026-06-26T06:43:54+00:00",
+          "summary": "Nouveau coup dur pour Bungie : une vague de licenciements est en cours au sein du studio, dans le cadre d'une réorganisation. Après l'annonce de la fin de Destiny 2 et le succès très relatif de Marathon, l'avenir du studio semble plus sombre que jamais, ce qui n'empêche pas le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "872450f28267",
+          "title": "☕️ Google Finance se dote enfin d’une app mobile, nourrie à l’IA générative",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-finance-se-dote-enfin-dune-app-mobile-nourrie-a-lia-generative/",
+          "category": "ia",
+          "published_at": "2026-06-26T06:32:00+00:00",
+          "summary": "Vingt ans après l&#8217;ouverture du service Google Finance, le moteur de recherche annonce coup sur coup le déploiement d&#8217;une nouvelle interface de gestion des portefeuilles boursiers et l&#8217;arrivée d&#8217;une application mobile dédiée. Celle-ci n&#8217;est pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e6ab878c0a1",
+          "title": "Meta remplace ses modérateurs par de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/244303/meta-remplace-ses-moderateurs-par-de-lia/",
+          "category": "ia",
+          "published_at": "2026-06-26T06:15:00+00:00",
+          "summary": "Meta veut laisser à l&#8217;IA les clés de la modération sur ses réseaux sociaux. Ou tout du moins, d&#8217;une très grande partie. Les LLM sont appelés à trancher toujours plus de contenus, de publicités et de recours d’utilisateurs, au moment même où le groupe cherche à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5efe83c86086",
+          "title": "DMA : les nuages d’Amazon et de Microsoft bientôt sous surveillance renforcée en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/244287/dma-les-nuages-damazon-et-de-microsoft-bientot-sous-surveillance-renforcee-en-europe/",
+          "category": "ia",
+          "published_at": "2026-06-26T05:32:00+00:00",
+          "summary": "Le club du DMA pourrait bientôt s&#8217;ouvrir à deux nouveaux venus : Amazon Web Services (AWS) et Azure de Microsoft. La Commission européenne penche en effet pour une inscription de ces deux infrastructures cloud au tableau du règlement sur les marchés numériques. Depuis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ae85a5668b1",
+          "title": "Justin Bieber Adds to ‘Swag’ Collection With Live Coachella Album: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/justin-bieber-swag-coachella-live-album-stream-it-now-1236281692/",
+          "category": "musique",
+          "published_at": "2026-06-26T05:19:26+00:00",
+          "summary": "Swag Live From Coachella (Weekend I) features guest spots from The Kid LAROI, Tems, Wizkid, Dijon, and Mk.gee, and stretches across 22 tracks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a879719c2782",
+          "title": "Grâce à une vidéo YouTube très vieille, un chat des sables a été repéré là où il n’était pas censé vivre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2285261-grace-a-une-video-youtube-tres-vieille-un-chat-des-sables-a-ete-repere-la-ou-il-netait-pas-cense-vivre.html",
+          "category": "ia",
+          "published_at": "2026-06-26T05:04:45+00:00",
+          "summary": "Une simple vidéo YouTube de 19 secondes combinée à une une collaboration à distance ont permis de prouver que le discret chat des sables se trouvait bien en Libye, contrairement à ce que les spécialistes du monde animalier pensaient.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac411ffeeb44",
+          "title": "IBM revendique être descendu sous le nanomètre avec une puce dotée de 100 milliards de transistors",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2285629-ibm-revendique-etre-descendu-sous-le-nanometre-avec-une-puce-dotee-de-100-milliards-de-transistors.html",
+          "category": "ia",
+          "published_at": "2026-06-26T05:02:34+00:00",
+          "summary": "IBM affirme avoir brisé le plafond de verre du sous-nanomètre avec une technologie à 0,7 nm. Une annonce spectaculaire qui promet de doper le secteur de l'IA générative, et qui s'inscrit dans la course permanente de la miniaturisation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54809df5a3cd",
+          "title": "Microsoft augmente encore les prix des consoles Xbox",
+          "source": "Next INpact",
+          "url": "https://next.ink/244292/microsoft-augmente-encore-les-prix-des-consoles-xbox/",
+          "category": "ia",
+          "published_at": "2026-06-26T04:47:05+00:00",
+          "summary": "En l&#8217;absence de chiffres officiels, on se gardera bien d&#8217;affirmer que personne n&#8217;achète plus de Xbox depuis longtemps… Mais il semble assez clair que la PS5 écrase le marché des consoles de salon. Et cela risque d&#8217;être encore plus le cas à compter du 1er…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0359de465ae",
+          "title": "Sombr, Phoebe Bridgers, Steve Lacy with SZA & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sombr-phoebe-bridgers-steve-lacy-sza-new-music-friday-guide-1236280261/",
+          "category": "musique",
+          "published_at": "2026-06-26T04:09:17+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afcfcbb314c7",
+          "title": "Goal! Madonna and Feid Score FIFA World Cup Release With ‘Read My Lips’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madonna-feid-read-my-lips-fifa-world-cup-release-1236281625/",
+          "category": "musique",
+          "published_at": "2026-06-26T02:32:14+00:00",
+          "summary": "“Read My Lips” is a late addition to the \"Official FIFA World Cup 26\" album, which expands to 20 tracks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "658f27eda96d",
+          "title": "Nguyen Nhat Minh, the Quiet Bass of Vietnam’s U23 Defense, Talks Music & Soccer",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/features/world-cup-2026-vietnam-nguyen-nhat-minh-1236280740/",
+          "category": "musique",
+          "published_at": "2026-06-26T01:00:00+00:00",
+          "summary": "\"Every ounce of effort becomes worthwhile when you look at your own passion, fight for the national colors, strive for the team's collective success.\"",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-25",
       "articles": [
+        {
+          "id": "0b61c453dc4a",
+          "title": "Sur tes traces : pourquoi tout le monde regarde la nouvelle série numéro 1 de Netflix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2285595-sur-tes-traces-pourquoi-tout-le-monde-regarde-la-nouvelle-serie-numero-1-de-netflix.html",
+          "category": "ia",
+          "published_at": "2026-06-25T19:05:00+00:00",
+          "summary": "C’est le premier gros carton de l’été. Disponible depuis le 18 juin 2026 sur Netflix, la nouvelle mini-série thriller Sur tes traces s’est emparée de la première place du classement mondial en seulement 24 heures. Portée par un casting cinq étoiles et la plume d'Harlan Coben, la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6858c8d5e91d",
+          "title": "Après 9,3 milliards de kilomètres, la mission BepiColombo arrive aux portes de Mercure",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2284981-apres-93-milliards-de-kilometres-la-mission-bepicolombo-arrive-aux-portes-de-mercure.html",
+          "category": "ia",
+          "published_at": "2026-06-25T18:57:13+00:00",
+          "summary": "Après une odyssée de 8 ans et 9,3 milliards de kilomètres, la sonde BepiColombo vient de couper ses moteurs aux portes de Mercure. Désormais en chute libre vers sa cible, la mission entame le sprint final de l’un des voyages spatiaux les plus complexes de l’histoire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06c719611b50",
+          "title": "La mission Starfall de SpaceX cachait des levures pour fabriquer de la bière spatiale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2284777-la-mission-starfall-de-spacex-cachait-des-levures-pour-fabriquer-de-la-biere-spatiale.html",
+          "category": "ia",
+          "published_at": "2026-06-25T18:55:48+00:00",
+          "summary": "Lancée dans le plus grand secret par SpaceX, la mystérieuse capsule Starfall cachait une cargaison insolite : des levures et des graines embarquées par Starbase Brewing pour préparer les boissons du futur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ce212e978ad",
+          "title": "Diljit Dosanjh breaks his own record for biggest North American tour by a Punjabi artist with $32M Aura run",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/diljit-dosanjh-breaks-his-own-record-for-biggest-north-american-tour-by-a-punjabi-artist-with-32m-aura-run/",
+          "category": "musique",
+          "published_at": "2026-06-25T17:51:03+00:00",
+          "summary": "Live Nation-promoted run sold more than 225,000 tickets, according to the concert giant.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e500b2cab2b",
+          "title": "Sonu Nigam’s I Believe Your Music will bring other artists under his label",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/sonu-nigams-i-believe-your-music-will-bring-other-artists-under-his-label/",
+          "category": "musique",
+          "published_at": "2026-06-25T17:45:23+00:00",
+          "summary": "On his birthday—which falls on 30 July—in 2020, Sonu Nigam launched his own label I Believe Music. This year, the veteran Indian film playback and pop singer used another special [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2f40c02b80a",
+          "title": "C’est le pire moment possible : Xbox annonce une nouvelle hausse de prix mondiale de ses consoles",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2285831-cest-le-pire-moment-possible-xbox-annonce-une-hausse-de-prix-mondiale-de-ses-consoles.html",
+          "category": "ia",
+          "published_at": "2026-06-25T17:40:17+00:00",
+          "summary": "Microsoft va augmenter le prix de ses consoles Xbox dès le 1er août 2026, invoquant l’explosion du coût de la mémoire et du stockage. Les prix exacts en France ne sont pas encore connus mais la hausse est bel et bien mondiale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7824dba4aa29",
+          "title": "David McIninch appointed General Manager of Soundmouse, the music cue sheet platform acquired by BMI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/david-mcininch-appointed-general-manager-of-soundmouse-the-music-cue-sheet-platform-acquired-by-bmi/",
+          "category": "musique",
+          "published_at": "2026-06-25T16:36:38+00:00",
+          "summary": "McIninch will oversee Soundmouse's global operations\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9941dd30696f",
+          "title": "English-language share of US audio streams fell in Q1, says Luminate, as Latin music gained ground driven by megastars like Bad Bunny",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/english-language-share-of-us-audio-streams-fell-in-q1-says-luminate-as-spanish-language-music-gained-ground-driven-by-megastars-like-bad-bunny/",
+          "category": "musique",
+          "published_at": "2026-06-25T16:26:10+00:00",
+          "summary": "Luminate said Latin music has \"fully shattered\" its 'niche' status\" in the US\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0763d0a6e793",
+          "title": "The Ghost in the Machine Wants a Cut",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-ghost-in-the-machine-wants-a-cut/",
+          "category": "ia",
+          "published_at": "2026-06-25T15:38:02+00:00",
+          "summary": "The following MBW op/ed comes from Walter De Brouwer, a generative linguist by training and the co-founder, with Michael Ovitz, of SoundPatrol\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5991ba5a4391",
+          "title": "GTA 6 pourrait finalement avoir droit à un vrai disque (mais il faudra patienter)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2285315-gta-6-pourrait-finalement-avoir-droit-a-un-vrai-disque-mais-il-faudra-patienter.html",
+          "category": "ia",
+          "published_at": "2026-06-25T15:30:00+00:00",
+          "summary": "La frustration autour de la boîte vide de GTA 6 pourrait bien n'être que temporaire. Selon une rumeur relayée par le site PPE.pl, Rockstar prévoirait de lancer une véritable édition physique avec disque sur PS5 et Xbox Series X en décembre 2026, soit quelques semaines après la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a999111cf6e0",
+          "title": "Soldes d’été : les promotions continuent chez La Fnac, Darty, Boulanger, Amazon…",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283185-soldes-dete-2026-les-premieres-offres-vraiment-interessantes-sont-la-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-06-25T15:29:50+00:00",
+          "summary": "Depuis ce mercredi 24 juin, les marchands jouent le jeu des réductions, avec des promotions sur des milliers de produits. La tech ne fait pas exception, et vous pouvez trouver de très bons produits à des prix très attractifs. On vous aide à y voir plus clair parmi les meilleures…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "137f52eaa307",
+          "title": "Le nom de votre père, d’une tante ou d’un cousin : une campagne de phishing exploite les liens familiaux pour piéger les Français",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2285481-le-nom-de-votre-pere-dune-tante-ou-dun-cousin-une-campagne-de-phishing-exploite-les-liens-familiaux-pour-pieger-les-francais.html",
+          "category": "ia",
+          "published_at": "2026-06-25T15:16:00+00:00",
+          "summary": "Une vague de mails malveillants frappe actuellement la France avec une caractéristique inédite : les messages usurpent l'identité de membres de la famille des victimes en usurpant leurs noms exacts. Numerama a pu recueillir plusieurs échantillons de cette campagne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a9cd0435c3d",
+          "title": "☕️ La Russie a accédé aux données de l’iPhone d’un opposant grâce aux outils de Cellebrite",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-russie-a-accede-aux-donnees-de-liphone-dun-opposant-grace-aux-outils-de-cellebrite/",
+          "category": "ia",
+          "published_at": "2026-06-25T15:15:00+00:00",
+          "summary": "En mai 2021, suite à l&#8217;incarcération de l’opposant au régime russe Andreï Pivovarov, plusieurs autres personnalités politiques avaient été soumises à des perquisitions policières. Il n&#8217;avait pas donné ses mots de passe, mais les autorités russes ont pu accéder aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad1c0c2aa554",
+          "title": "GTA 6 : Scarface, Miami Vice… les fans s’extasient devant les clins d’œil dans le pack vintage du jeu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2285309-gta-6-scarface-miami-vice-les-fans-sextasient-devant-les-clins-doeil-dans-le-pack-vintage-du-jeu.html",
+          "category": "ia",
+          "published_at": "2026-06-25T15:01:00+00:00",
+          "summary": "Alors que Rockstar Games vient d'ouvrir les précommandes de&nbsp;GTA 6 et de dévoiler une galerie d'images inédites,&nbsp;la communauté de fans s'enflamme. Derrière la claque graphique,&nbsp;c'est un vibrant hommage à la culture pop des années 80 qui se dessine à travers le duo…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2d723aae486",
+          "title": "Fin du Far West de la conduite autonome, l’ONU valide un cadre mondial pour les robotaxis (et Tesla va devoir s’y conformer)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2285583-fin-du-far-west-de-la-conduite-autonome-lonu-valide-un-cadre-mondial-pour-les-robotaxis-et-tesla-va-devoir-sy-conformer.html",
+          "category": "ia",
+          "published_at": "2026-06-25T14:56:27+00:00",
+          "summary": "L'ONU ouvre la voie aux robotaxis sans volant dans les principaux marchés du monde. Une victoire historique pour le Cybercab de Tesla, mais un piège réglementaire pour son logiciel FSD actuel. On vous explique pourquoi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5e02a0f06a91",
+          "title": "GTA VI plante un clou dans le cercueil du jeu physique",
+          "source": "Next INpact",
+          "url": "https://next.ink/244263/gta-vi-plante-un-clou-dans-le-cercueil-du-jeu-physique/",
+          "category": "ia",
+          "published_at": "2026-06-25T14:54:21+00:00",
+          "summary": "Les joueurs savent maintenant à quelle sauce ils vont être mangés. Le studio Rockstar et son éditeur Take-Two ont dévoilé les prix de GTA VI, et lancé les précommandes de ce qui s&#8217;annonce comme l&#8217;événement jeu vidéo – et culturel – de l&#8217;année. Mais à Vice City,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a27eaca23a6a",
+          "title": "Reactional Music wins €2.5 million EIC grant to scale gaming “music monetisation layer”",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/reactional-music-wins-e2-5-million-eic-grant-to-scale-gaming-music-monetisation-layer/",
+          "category": "ia",
+          "published_at": "2026-06-25T14:45:00+00:00",
+          "summary": "We&#8217;ve written about Stockholm-based Reactional Music a lot before, including a series of partnerships with industry rightsholders, and a $2m fundraising round. Their premise is a tantalising one: a platform that helps game developers not only add music to their games in a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef5a1cabda3e",
+          "title": "La famille de la personne tuée dans un crash de Tesla en Autopilot réclame 1 million de dollars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2285165-la-famille-de-la-personne-tuee-dans-un-crash-de-tesla-en-autopilot-reclame-1-million-de-dollars.html",
+          "category": "ia",
+          "published_at": "2026-06-25T14:40:00+00:00",
+          "summary": "Alors que la sécurité routière américaine lance son enquête, la famille de la personne tuée après qu'une Tesla en Autopilot se soit encastrée dans un mur réclame 1 million de dollars de dédommagement. Qui aura raison ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e29d670f799e",
+          "title": "Le support de Windows 10 recule d’un an, au 12 octobre 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/244245/le-support-de-windows-10-recule-dun-an-au-12-octobre-2027/",
+          "category": "ia",
+          "published_at": "2026-06-25T14:31:15+00:00",
+          "summary": "Microsoft vient de procéder, ce jeudi 25 juin, à un changement important dans le support de Windows 10&#160;: tous les appareils ayant souscrit au programme ESU (Extended Support Updates) recevront des mises à jour de sécurité pendant une année supplémentaire, portant la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4154b3abb214",
+          "title": "La Carte Avantage Jeune de la SNCF revient en promotion très bientôt",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2285387-la-carte-avantage-jeune-de-la-sncf-revient-en-promotion-tres-bientot.html",
+          "category": "ia",
+          "published_at": "2026-06-25T14:20:10+00:00",
+          "summary": "Cela faisait bien longtemps que l'on n'avait pas aperçu une réduction sur la fameuse carte Avantage de la SNCF. Mais à partir du 29 juin 2026, l'entreprise ferroviaire va proposer une remise de 10 € pour les moins de 28 ans.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9921941b46dd",
+          "title": "Viberate now connects data to AI assistants for analysis",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/viberate-now-connects-data-to-ai-assistants-for-analysis/",
+          "category": "ia",
+          "published_at": "2026-06-25T14:13:00+00:00",
+          "summary": "Analytics firm Viberate has launched a new tool that allows users to connect their Vibrate data into their preferred AI assistant in order to use the data-sifting power of AI models to do advanced analysis of its database using natural language – like analysing artists, A&amp;R,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4ba44a0a5d2",
+          "title": "Opération Endgame : comment les autorités ont démantelé trois piliers du cybercrime-as-a-service",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2285137-operation-endgame-comment-les-autorites-ont-demantele-trois-piliers-du-cybercrime-as-a-service.html",
+          "category": "ia",
+          "published_at": "2026-06-25T14:10:00+00:00",
+          "summary": "Des centaines de serveurs mis hors ligne, 27 millions d'identifiants récupérés, 41 millions d'euros en crypto gelés : l'opération Endgame vient de frapper deux des outils les plus répandus dans l'écosystème cybercriminel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c079c1d2f2c",
+          "title": "Apple applique des hausses vertigineuses de prix sur les Mac et iPad",
+          "source": "Next INpact",
+          "url": "https://next.ink/244236/apple-applique-des-hausses-vertigineuses-de-prix-sur-les-mac-et-ipad/",
+          "category": "ia",
+          "published_at": "2026-06-25T13:56:00+00:00",
+          "summary": "Apple n&#8217;a pas attendu pour augmenter les prix de ses appareils, comme annoncé par Tim Cook la semaine dernière. Les Mac et les iPad sont les premiers touchés, avec des hausses très importantes sur certains modèles. Les prix de la majorité des produits Apple ont flambé,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16fe20857af1",
+          "title": "Music Technology UK relaunches FemTUK and aims to increase number of female founders",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/music-technology-uk-relaunches-femtuk-and-aims-to-increase-number-of-female-founders/",
+          "category": "ia",
+          "published_at": "2026-06-25T13:45:00+00:00",
+          "summary": "Music Technology UK (MTUK), the trade association for the UK’s Music Tech sector, recently relaunched FemTUK, its community supporting female founders and aspiring founders in Music Tech. It’s now appointed Sarah Jones, who has previously worked at Songkick and the BBC, as…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74da20eaf1a9",
+          "title": "À la découverte de Jalapeño, la première puce d’OpenAI pour l’IA générative",
+          "source": "Next INpact",
+          "url": "https://next.ink/244189/a-la-decouverte-de-jalapeno-la-premiere-puce-dopenai-pour-lia-generative/",
+          "category": "ia",
+          "published_at": "2026-06-25T13:31:00+00:00",
+          "summary": "OpenAI présente sa première puce dédiée à l’inférence, développée avec Broadcom. L’entreprise affirme que les premiers tests se passent bien, mais ne donne aucun chiffre précis sur les performances, la consommation, etc. La photo d’un wafer permet de se lancer dans quelques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3514a4b676b2",
+          "title": "Anthropic, fighting lawsuits over alleged copying of song lyrics, accuses Alibaba of copying Claude to train a rival AI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/anthropic-fighting-lawsuits-over-alleged-copying-of-song-lyrics-accuses-alibaba-of-copying-claude-to-train-a-rival-ai/",
+          "category": "ia",
+          "published_at": "2026-06-25T13:30:31+00:00",
+          "summary": "Anthropic says Alibaba-affiliated operators used nearly 25,000 fraudulent accounts to generate over 28.8 million exchanges with its Claude AI model.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e290c01e8613",
+          "title": "Brian Eno, Coldplay, Massive Attack and others join over 200 artists calling for Fossil Fuel Treaty",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/brian-eno-coldplay-massive-attack-and-others-join-over-200-artists-calling-for-fossil-fuel-treaty/",
+          "category": "musique",
+          "published_at": "2026-06-25T13:10:08+00:00",
+          "summary": "More than 200 artists, including musicians, actors, filmmakers, photographers and performers, have added their names to an open letter calling on world leaders to support a Fossil Fuel Treaty that would result in a global transition away from fossil fuels. Music artists who have…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92778467c2af",
+          "title": "UAE’s MusicNation joins the Human Artistry Campaign as its first Middle East signatory",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/uaes-musicnation-joins-the-human-artistry-campaign-as-its-first-middle-east-signatory/",
+          "category": "musique",
+          "published_at": "2026-06-25T13:01:09+00:00",
+          "summary": "MusicNation said its participation reflects its role in implementing the UAE's vision for the protection and enforcement of musical copyrights.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27e80cb474cb",
+          "title": "En 10 ans, +50% de techniques de renseignement, +25 % de personnes surveillées",
+          "source": "Next INpact",
+          "url": "https://next.ink/244022/en-10-ans-50-de-techniques-de-renseignement-25-de-personnes-surveillees/",
+          "category": "institutionnel",
+          "published_at": "2026-06-25T13:00:00+00:00",
+          "summary": "La Commission nationale de contrôle des techniques de renseignement relève qu&#8217;en 10 ans, le nombre de personnes surveillées est passé de 20 000 à 25 000 (+25 %), mais celui des demandes de techniques de renseignement a explosé de +51 %, passant de 66 000 en 2015 à 100 000…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "849cc901d122",
+          "title": "(Another) AI Roundup: indie artists react to YouTube AI claims; Facebook; ErosMusic Worlds; and Modulate",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/25/another-ai-roundup-indie-artists-react-to-youtube-ai-claims-facebook-erosmusic-worlds-and-modulate/",
+          "category": "ia",
+          "published_at": "2026-06-25T12:26:06+00:00",
+          "summary": "We’re being flooded with AI news this week, so for the sake of our sanity, we’ve once again rounded it all up for you to digest in one crispy AI nugget: Earlier this month, Google and YouTube’s parent company Alphabet claimed that it has the right to use songs uploaded to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "448f7c849355",
+          "title": "Reservoir strikes joint venture with Latin music company TU Publishing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reservoir-media-strikes-joint-venture-with-latin-music-company-tu-publishing/",
+          "category": "musique",
+          "published_at": "2026-06-25T12:08:24+00:00",
+          "summary": "Reservoir will serve as the publisher for all current and future writers signed to TU Publishing\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "acab6364c172",
           "title": "Supergirl : je suis allé au cinéma pour fuir la canicule et j’ai pris une (grosse) douche froide",
