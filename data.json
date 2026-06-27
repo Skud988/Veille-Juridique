@@ -1,9 +1,404 @@
 {
-  "generated_at": "2026-06-26T11:16:51.520420+00:00",
+  "generated_at": "2026-06-27T10:26:01.201587+00:00",
   "days": [
+    {
+      "date": "2026-06-27",
+      "articles": [
+        {
+          "id": "9322f7372e24",
+          "title": "Soldes d’été : les meilleures offres du week-end chez Fnac, Darty, Boulanger, Amazon…",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283185-soldes-dete-les-meilleures-offres-du-week-end-chez-fnac-darty-boulanger-amazon.html",
+          "category": "ia",
+          "published_at": "2026-06-27T09:54:52+00:00",
+          "summary": "Premier week-end des soldes d’été 2026. Avec l’affluence attendue en magasin, autant commencer par regarder ce que proposent les e-commerçants. Depuis le 24 juin, les promotions se multiplient en ligne, y compris dans la tech. On fait le tri pour repérer les meilleures offres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c10b8686d6ef",
+          "title": "GTA 6 : les quotas de précommande semblent déjà atteints chez certains marchands",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2286833-gta-6-les-quotas-de-precommande-semblent-deja-atteints-chez-certains-marchands.html",
+          "category": "ia",
+          "published_at": "2026-06-27T09:01:00+00:00",
+          "summary": "Les précommandes physiques de GTA 6 n’auront pas tardé à montrer leurs limites. Chez Amazon comme chez Cdiscount, certaines versions sont déjà indisponibles, alors même que ces boîtes ne contiennent qu’un code de téléchargement et aucun disque.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e2443efe8a7",
+          "title": "OpenAI dévoile GPT-5.6 Sol, Terra et Luna : trois versions pour répondre à Anthropic",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2286787-openai-devoile-gpt-5-6-sol-terra-et-luna-trois-versions-pour-repondre-a-anthropic.html",
+          "category": "ia",
+          "published_at": "2026-06-27T07:22:31+00:00",
+          "summary": "Hier soir, OpenAI a annoncé le lancement en accès limité de GPT-5.6, sa nouvelle génération de modèles. Au programme, trois nouvelles versions avec une stratégie totalement différente.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f36a11c425b7",
+          "title": "TikTok Calls This Amazon Device a Mini ‘Frame TV’ Dupe: Get It on Sale for Prime Day",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/amazon-echo-show-15-buy-online-1235627179/",
+          "category": "ia",
+          "published_at": "2026-06-27T06:50:00+00:00",
+          "summary": "Amazon's Echo Show 15 has gone viral on social media -- here's why.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6cf4e274726",
+          "title": "Remake de The Legend of Zelda et critique de Supergirl, le Recap Pop Culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2286533-remake-de-the-legend-of-zelda-et-critique-de-supergirl-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-06-27T06:00:00+00:00",
+          "summary": "Entre l'ouverture historique des précommandes de&nbsp;GTA 6&nbsp;en version 100 % numérique et les révélations de Shigeru Miyamoto sur la refonte des donjons du très attendu remake d'Ocarina of Time&nbsp;sur Switch 2, le monde du jeu vidéo est en pleine ébullition. Tour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "293ea784d174",
+          "title": "L’ONU encadre les taxis autonomes, Ionity augmente ses prix et Renault restyle sa Megane électrique : le récap’ Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2286577-lonu-encadre-les-taxis-autonomes-ionity-augmente-ses-prix-et-renault-restyle-sa-megane-electrique-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-06-27T04:42:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : l'ONU cadre les taxis autonomes, les prix aux bornes Ionity augmentent et notre avis sur la nouvelle Renault Megane électrique.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-26",
       "articles": [
+        {
+          "id": "25f05c84b545",
+          "title": "Matt Damon’s Recent Rap Debut Was for Charity, Not a Career Pivot: ‘Kendrick Has Nothing to Worry About’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/matt-damon-get-blue-rap-song-water-org-campaign-products-1236270436/",
+          "category": "ia",
+          "published_at": "2026-06-26T22:43:52+00:00",
+          "summary": "The actor debuted a rap alter ego dubbed 'Nomad' to promote the charitable 'Get Blue' campaign with Water.org",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc1896005371",
+          "title": "Alan Jackson’s Final Concert: His Past Label Heads ‘Remember When’ They Worked With the Country Superstar",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/alan-jackson-final-concert-label-heads-principles-1236282143/",
+          "category": "musique",
+          "published_at": "2026-06-26T22:15:05+00:00",
+          "summary": "The star's final live show is set for Nashville's Nissan Stadium on June 27. In this week's Country Update lead story, four execs look back on his career.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "600b8fe63541",
+          "title": "Vice President JD Vance Jokes Diddy Is a ‘Great Christian Theologian’ While Promoting New Book",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/politics/jd-vance-jokes-diddy-great-christian-theologian-new-book-1236282171/",
+          "category": "ia",
+          "published_at": "2026-06-26T21:53:05+00:00",
+          "summary": "The vice president has a chapter in his book entitled \"More Money, More Problems.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "526e72fc93a1",
+          "title": "Bizarrap & Myke Towers’ ‘BZRP Music Session #42/66,’ More: Vote for the Best New Latin Music Release This Week",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/bizarrap-myke-towers-bzrp-music-session-best-new-latin-poll-1236282138/",
+          "category": "musique",
+          "published_at": "2026-06-26T21:50:09+00:00",
+          "summary": "Which new Latin music release is your favorite? Vote below!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36c7e249d818",
+          "title": "‘The Apothecary Diaries’ Tops Billboard Japan Book Hot 100",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/apothecary-diaries-billboard-japan-book-hot-100-1236282374/",
+          "category": "musique",
+          "published_at": "2026-06-26T21:40:37+00:00",
+          "summary": "Blue Lock Vol. 39 follows at No. 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6f8d00ed175",
+          "title": "How The Hives Conquered Latin America in Spanish & Portuguese: ‘We Really Like It Here’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/the-hives-in-latin-america-documentary-interview-1236282306/",
+          "category": "musique",
+          "published_at": "2026-06-26T21:21:07+00:00",
+          "summary": "Howlin' Pelle Almqvist, lead singer of the Swedish band, speaks with Billboard about his connection with Latin audiences.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02ab76919826",
+          "title": "Eslabón Armado Breaks Down 5 Essential Songs From New Album ‘Nocturno’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/eslabon-armado-essential-songs-new-album-nocturno-interview/",
+          "category": "ia",
+          "published_at": "2026-06-26T21:02:55+00:00",
+          "summary": "The regional Mexican group reunites with Peso Pluma following their 2023 smash “Ella Baila Sola.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e0b08db92a50",
+          "title": "Josh Ross Earns First Country Airplay No. 1 With ‘Hate How You Look’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/josh-ross-first-country-airplay-no-1-hate-how-you-look-1236282244/",
+          "category": "ia",
+          "published_at": "2026-06-26T20:38:34+00:00",
+          "summary": "Plus, Bailey Zimmerman rolls to the top 10.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8cd60ff4565",
+          "title": "OpenAI lance GPT-5.6 Sol, Terra et Luna, mais en accès limité",
+          "source": "Next INpact",
+          "url": "https://next.ink/244490/openai-lance-gpt-5-6-sol-terra-et-luna-mais-en-acces-limite/",
+          "category": "ia",
+          "published_at": "2026-06-26T19:14:53+00:00",
+          "summary": "OpenAI a lancé son nouveau modèle de langage, GPT-5.6, mais personne ou presque ne peut encore s&#8217;en servir. Et pour cause : sur ordre du gouvernement américain, il n&#8217;est distribué qu&#8217;à une poignée d&#8217;organisations dûment autorisées. Ça n&#8217;empêche pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2ac20a8ab88",
+          "title": "Horreur médiévale, pellicule « détruite » et casting fou : pourquoi Werwulf est déjà le film d’horreur le plus attendu de l’hiver",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2286595-horreur-medievale-pellicule-detruite-et-casting-fou-pourquoi-werwulf-est-deja-le-film-dhorreur-le-plus-attendu-de-lhiver.html",
+          "category": "ia",
+          "published_at": "2026-06-26T18:00:00+00:00",
+          "summary": "Le retour du roi du gothique.&nbsp;Alors que son&nbsp;Nosferatu&nbsp;a marqué les esprits, le réalisateur prodige Robert Eggers ne perd pas de temps et s'attaque désormais au mythe du loup-garou avec&nbsp;Werwulf, attendu sur les écrans pour décembre 2026. En s'éloignant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "752d2c77e122",
+          "title": "Sony Music Publishing wins Publisher of the Year at 2026 ASCAP Rhythm & Soul Awards",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-wins-publisher-of-the-year-at-2026-ascap-rhythm-soul-awards/",
+          "category": "musique",
+          "published_at": "2026-06-26T16:44:10+00:00",
+          "summary": "SMP songwriters were recognized across 27 of ASCAP's top-performing R&#38;B, hip-hop and gospel songs of the past year.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c52e2361cb05",
+          "title": "The MLC rejects Pandora’s bid to use a horse racing ruling against the mechanical royalties lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-mlc-rejects-pandoras-bid-to-use-a-horse-racing-ruling-against-the-mechanical-royalties-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-06-26T16:34:24+00:00",
+          "summary": "Pandora bets on a major horseracing constitutional precedent to strip the MLC of its constitutional authority to sue.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b8a155a45c1",
+          "title": "From Suno’s latest legal opponent to Influence Media’s $650M+ Anthem bid… it’s MBW’s Weekly Round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-sunos-quarter-of-a-trillion-dollar-legal-opponent-to-influence-medias-650m-anthem-swoop-its-mbws-weekly-round-up/",
+          "category": "ia",
+          "published_at": "2026-06-26T16:06:28+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21b9c1626404",
+          "title": "Dans la fonction publique, l’expérimentation de « L’Assistant » laisse sceptique",
+          "source": "Next INpact",
+          "url": "https://next.ink/244427/dans-la-fonction-publique-lexperimentation-de-lassistant-laisse-sceptique/",
+          "category": "ia",
+          "published_at": "2026-06-26T15:46:32+00:00",
+          "summary": "La généralisation du déploiement de l&#8217;agent IA « L’Assistant » de la DINUM pour tous les agents publics a été annoncée par Sébastien Lecornu. Mais les résultats de l&#8217;expérimentation, sans être négatifs, montrent qu’il sera difficile de généraliser son utilisation à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08ecf55c3eee",
+          "title": "MideaSplit : la meilleure clim mobile du moment revient en stock, mais avec une mauvaise surprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2286563-mideasplit-la-meilleure-clim-mobile-du-moment-revient-en-stock-mais-avec-une-mauvaise-surprise.html",
+          "category": "ia",
+          "published_at": "2026-06-26T15:26:28+00:00",
+          "summary": "Le climatiseur mobile split de Midea, l’un des rares modèles capables de rivaliser avec une véritable clim fixe, est de nouveau disponible chez Darty ce 26 juin 2026. Mais cette remise en stock ne profite pas à tout le monde : à Paris, aucune livraison n’est pour l’instant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16f8ce7e12c8",
+          "title": "Un premier moteur allumé à pleine puissance : le Starship se prépare pour le jour J",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2286405-un-premier-moteur-allume-a-pleine-puissance-le-starship-se-prepare-pour-le-jour-j.html",
+          "category": "ia",
+          "published_at": "2026-06-26T14:44:00+00:00",
+          "summary": "Les essais actifs du Starship en prévision du treizième vol ont débuté au Texas, avec un premier allumage d'un moteur de l'étage supérieur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "148d45eb08c0",
+          "title": "Tout savoir sur la batterie solide, la technologie qui doit révolutionner la voiture électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/1907027-tout-savoir-sur-la-batterie-solide-la-technologie-qui-doit-revolutionner-la-voiture-electrique.html",
+          "category": "ia",
+          "published_at": "2026-06-26T14:34:31+00:00",
+          "summary": "La batterie solide promet de révolutionner le monde des véhicules électriques. Cette technologie augmenterait considérablement l'autonomie, réduirait les temps de recharge et éliminerait les risques d'incendie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7742d07f8901",
+          "title": "Elon Musk défend Apple et la hausse historique de ses prix : que se passe-t-il vraiment ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2286093-elon-musk-defend-apple-et-la-hausse-historique-de-ses-prix-que-se-passe-t-il-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-06-26T14:19:44+00:00",
+          "summary": "Mac, iPad, consoles : la tech voit rouge. Face à l'explosion du coût des composants générée par la frénésie autour de l'IA, Apple n'a d'autre choix que d'augmenter ses prix. Et même Elon Musk, qui a soutenu Tim Cook, s'alarme publiquement de cette crise sans précédent.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32d9789d0ddd",
+          "title": "Binance perd son passeport pour l’Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/244424/binance-perd-son-passeport-pour-leurope/",
+          "category": "ia",
+          "published_at": "2026-06-26T14:17:34+00:00",
+          "summary": "Les services de Binance ne seront plus disponibles dans l&#8217;Union européenne à compter du 1er juillet. La plateforme crypto a décidé d&#8217;annuler sa demande de licence MiCA déposée en Grèce, et de tenter sa chance auprès d&#8217;un autre régulateur du vieux continent. Un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0333c28225f",
+          "title": "Voici pourquoi le futur Range Rover électrique coûtera plus cher que son jumeau thermique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2286219-voici-pourquoi-le-futur-range-rover-electrique-coutera-plus-cher-que-son-jumeau-thermique.html",
+          "category": "ia",
+          "published_at": "2026-06-26T13:35:00+00:00",
+          "summary": "Alors qu'il se fait toujours désirer, le Range Rover électrique fait de nouveau parler de lui. Le directeur commercial de la marque a suggéré que le prix serait encore plus élevé que celui du modèle thermique actuel, en raison du confort supérieur apporté par la motorisation.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "728fa2c568ec",
+          "title": "GigLogic is a “gig intelligence platform” to help artists evaluate live gig income",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/26/giglogic-is-a-gig-intelligence-platform-to-help-artists-evaluate-live-gig-income/",
+          "category": "musique",
+          "published_at": "2026-06-26T13:15:00+00:00",
+          "summary": "Touring, as every artist knows, is a tough game. Uncertainty is high, margins are razor thin, and once an artist deducts piffling luxuries like, erm, accommodation and food from their income, tours often end in losses. It’s no wonder some bands are asking the 6 Music Dads…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43a36bada0db",
+          "title": "Nouveaux prix Apple : quels sont les produits qui ne valent plus le coup ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2285947-nouveaux-prix-apple-quels-sont-les-produits-qui-ne-valent-plus-le-coup.html",
+          "category": "ia",
+          "published_at": "2026-06-26T13:11:30+00:00",
+          "summary": "Sous la pression de la pénurie de composants, Apple augmente ses prix. L'ensemble des Mac, iPad, Apple TV et HomePod sont concernés par des hausses qui se comptent parfois en centaines d'euros. Certains produits deviennent plus difficiles à recommander.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d17b86857c78",
+          "title": "La rue Montgallet, 30 ans plus tard",
+          "source": "Next INpact",
+          "url": "https://next.ink/242968/la-rue-montgallet-30-ans-plus-tard/",
+          "category": "ia",
+          "published_at": "2026-06-26T12:54:56+00:00",
+          "summary": "Excusez-moi l’expression, mais «&#160;Putain, 30&#160;ans&#160;» ! Il y a trois décennies, je trainais dans cette rue du 12ᵉ&#160;arrondissement de Paris, avec d’autres passionnés (certains diront fous furieux) à la recherche du bon prix pour un disque dur, du rab de mémoire, un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76bfe07a97b0",
+          "title": "Tuned Global partners with music prediction app FanLabel",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/26/tuned-global-partners-with-music-prediction-app-fanlabel/",
+          "category": "musique",
+          "published_at": "2026-06-26T12:15:00+00:00",
+          "summary": "It’s prediction market news week here on Music Ally, apparently – to catch up, try listening to The Price of Music from a couple of days ago – and in that episode, we wondered how the music business might best engage with prediction markets – which, remember, is a market that’s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52e50750f274",
+          "title": "Voici une des galaxies les plus massives de l’Univers, née d’une fusion cosmique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2286145-voici-une-des-plus-galaxies-les-plus-massives-de-lunivers-nee-dune-fusion-cosmique.html",
+          "category": "ia",
+          "published_at": "2026-06-26T12:01:00+00:00",
+          "summary": "Une galaxie découverte par le télescope spatial James Webb est une fusion gigantesque née de six plus petits ensembles. En pleine croissance, ce mastodonte pourrait également nourrir un trou noir supermassif.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ccdf2cd0a48",
+          "title": "Technologies émergentes et protection des mineurs : les autorités de protection des données du G7 s’accordent sur des principes clés",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/g7-technologies-protection-mineurs",
+          "category": "cnil",
+          "published_at": "2026-06-26T12:00:00+00:00",
+          "summary": "Les autorités de protection des données des pays du G7 se sont réunies à Paris les 25 et 26 juin à l’invitation de la CNIL dans le cadre de la présidence française du G7. Elles ont adopté une déclaration sur les mécanismes de vérification de l’âge respectueux de la vie privée,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f97fa5d019e",
+          "title": "Tools :: Highnote FM",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/26/tools-highnote-fm/",
+          "category": "musique",
+          "published_at": "2026-06-26T12:00:00+00:00",
+          "summary": "As legacy platform algorithms become less creator-friendly, many artists have faced the dilemma of their fans not seeing tour dates, release announcements and other updates on their feeds. We think that Highnote FM could be one solution to this. Through private spaces on the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a1b22d85e8b",
+          "title": "Threads, Instagram and TikTok update customisable algorithm features",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/26/threads-instagram-and-tiktok-update-customisable-algorithm-features/",
+          "category": "ia",
+          "published_at": "2026-06-26T12:00:00+00:00",
+          "summary": "It appears that social media might be moving away from opaque systems that predict user interests, and instead are handing over the reins for users to decide. Platforms like Threads, Instagram and TikTok are starting to introduce user-led algorithms, allowing people to customise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66023f967482",
+          "title": "The Ting Tings share TikTok CML experiment",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/26/the-ting-tings-share-tiktok-cml-experiment/",
+          "category": "ia",
+          "published_at": "2026-06-26T12:00:00+00:00",
+          "summary": "In a time where it feels like it’s getting harder and harder to cut through the noise on TikTok, due to an ever-increasing volume of music and posts being uploaded to the platform, The Ting Tings have shared an interesting experiment of their TikTok promotion.  The newly…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c83f5dc319f",
+          "title": "Jay-Z album anniversary campaign launches yearlong program",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/26/jay-z-album-anniversary-campaign-launches-yearlong-program/",
+          "category": "musique",
+          "published_at": "2026-06-26T12:00:00+00:00",
+          "summary": "Jay-Z’s debut album &#8216;Reasonable Doubt&#8217; turns 30 today, and Roc Nation is pulling out all the stops to throw a memorable anniversary celebration. The company is organising various pop-ups, activations and experiences across Jay-Z’s birthplace in New York City. But…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7986e5b25610",
+          "title": "Music Climate Pact partners with Deezer to publish sustainable music streaming tips",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/26/music-climate-pact-partners-with-deezer-to-publish-sustainable-music-streaming-tips/",
+          "category": "musique",
+          "published_at": "2026-06-26T11:45:00+00:00",
+          "summary": "Hey, have you noticed that it’s been a bit hot here in Europe recently? That, as exasperated climate scientists wearily remind us, is because of the climate emergency. As ever the general advice is: get everyone to make small positive changes, and progress will (slowly) happen.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84b5edaf9392",
+          "title": "Warner Music launches pilot with indie record stores to test whether fans’ unwanted vinyl can be recycled",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-launches-pilot-with-indie-record-stores-to-test-whether-fans-unwanted-vinyl-can-be-recycled/",
+          "category": "musique",
+          "published_at": "2026-06-26T11:41:13+00:00",
+          "summary": "Participating stores will collect the records for recovery partner Virterras Materials to assess for potential material recycling.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbf7d6abffe3",
+          "title": "Du jeu vidéo au thriller psychologique : la série TV Far Cry change totalement de dimension",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2286153-du-jeu-video-au-thriller-psychologique-la-serie-tv-far-cry-change-totalement-de-dimension.html",
+          "category": "ia",
+          "published_at": "2026-06-26T11:25:00+00:00",
+          "summary": "De la jungle de l'open-world à la paranoïa moderne.&nbsp;Alors que l'adaptation en série de la franchise culte d'Ubisoft&nbsp;Far Cry&nbsp;se concrétise chez Hulu sous la houlette du showrunner Noah Hawley, la production vient de frapper un grand coup. La talentueuse Lizzy…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "ed429ee84ce6",
           "title": "Suno launches grants, mentorship and support for indie artists who use the platform",
@@ -55,8 +450,28 @@
           "summary_type": "extrait source"
         },
         {
+          "id": "4e1e0e833d79",
+          "title": "Désormais banni des États-Unis, Polestar mise tout sur l’Europe pour survivre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2285957-desormais-banni-des-etats-unis-que-reste-t-il-comme-avenir-a-polestar.html",
+          "category": "justice",
+          "published_at": "2026-06-26T10:50:00+00:00",
+          "summary": "C'est officiel, Polestar est contraint d'arrêter ses activités aux États-Unis en raison de la réglementation interdisant les composants chinois dans les voitures. Un énorme coup dur pour une marque dont le destin se jouera en Europe.",
+          "summary_type": "extrait source"
+        },
+        {
           "id": "f55bf7333dec",
           "title": "IA générative : Anthropic accuse Allibaba de distiller ses modèles",
+          "source": "Next INpact",
+          "url": "https://next.ink/244350/ia-generative-anthropic-accuse-allibaba-de-distiller-ses-modeles/",
+          "category": "ia",
+          "published_at": "2026-06-26T10:38:00+00:00",
+          "summary": "Anthropic a récemment alerté les élus états-uniens au sujet de la récupération massive de données sur ses outils par Alibaba, accusant son concurrent chinois de distiller ses modèles de façon illégitime. En parallèle, l&#8217;administration Trump interdit l&#8217;accès au marché…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c51b49f084cb",
+          "title": "IA générative : Anthropic accuse Alibaba de distiller ses modèles",
           "source": "Next INpact",
           "url": "https://next.ink/244350/ia-generative-anthropic-accuse-allibaba-de-distiller-ses-modeles/",
           "category": "ia",
@@ -112,6 +527,16 @@
           "category": "ia",
           "published_at": "2026-06-26T09:22:12+00:00",
           "summary": "Le gouvernement américain aurait exigé d’OpenAI une période d’examen similaire pour son futur modèle GPT-5.6. Les performances atteindraient le niveau de Mythos et Fable d’Anthropic et ferait donc l’objet d’une analyse des risques. Seuls des acteurs triés sur le volet y auraient…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "611340358ad5",
+          "title": "(màj) La Maison-Blanche demande à OpenAI de retarder GPT-5.6 pour examen",
+          "source": "Next INpact",
+          "url": "https://next.ink/244386/la-maison-blanche-demande-a-openai-de-retarder-gpt-5-6-pour-examen/",
+          "category": "ia",
+          "published_at": "2026-06-26T09:22:12+00:00",
+          "summary": "Le gouvernement américain aurait exigé d’OpenAI une période d’examen similaire pour son futur modèle GPT-5.6. Les performances atteindraient le niveau de Mythos et Fable d’Anthropic et feraient donc l’objet d’une analyse des risques. Seuls des acteurs triés sur le volet y…",
           "summary_type": "extrait source"
         },
         {
