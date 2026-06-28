@@ -1,9 +1,144 @@
 {
-  "generated_at": "2026-06-27T10:26:01.201587+00:00",
+  "generated_at": "2026-06-28T10:34:51.139666+00:00",
   "days": [
+    {
+      "date": "2026-06-28",
+      "articles": [
+        {
+          "id": "87a4e910076a",
+          "title": "Câbles brûlants,  écrans illisibles et humains en surchauffe : les limites des stations de recharge face aux fortes températures",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2285751-cables-brulants-ecrans-illisibles-et-humains-en-surchauffe-les-limites-des-stations-de-recharge-face-aux-fortes-temperatures.html",
+          "category": "ia",
+          "published_at": "2026-06-28T06:26:00+00:00",
+          "summary": "La canicule transforme chaque recharge en petite épreuve. Et si le vrai problème des bornes n’était plus la puissance… mais l’endroit où l'on attend ?&nbsp;C'est un édito pour la newsletter Watt Else du 25 juin 2026 un peu coup de gueule.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-27",
       "articles": [
+        {
+          "id": "3c59d55a2509",
+          "title": "How to Help Those Impacted by the Earthquakes in Venezuela (Updated)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/venezuela-earthquake-how-to-help-those-impacted/",
+          "category": "ia",
+          "published_at": "2026-06-27T17:27:30+00:00",
+          "summary": "A list of organizations providing aid to those affected by the devastation and other ways to help.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b9c91b782ee",
+          "title": "Justin Bieber Makes 2026 NHL Draft Appearance, Announces Toronto Maple Leafs’ No. 1 Pick",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/events/justin-bieber-2026-nhl-draft-toronto-maple-leafs-pick-1236282560/",
+          "category": "ia",
+          "published_at": "2026-06-27T17:23:11+00:00",
+          "summary": "\"I’ve been a Leafs fans since I was a little boy,\" the singer said during his surprise visit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6c29a475f09",
+          "title": "Course-poursuite dans l’espace, trouvaille étrange sur Pluton, sauvetage de Swift — le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2286545-course-poursuite-dans-lespace-trouvaille-etrange-sur-pluton-sauvetage-de-swift-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-06-27T16:44:00+00:00",
+          "summary": "Au menu scientifique de cette semaine caniculaire : une course poursuite spatiale, James Webb qui trouve quelque chose d'étrange sur Pluton, et sauvetage du télescope spatial Swift. C'est l'heure du récap' sciences de la semaine sur Numerama.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b5e7734a8fd",
+          "title": "2025, l’année des jeux à deux… rebelote en 2026 : voici 5 incontournables de l’année",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2286729-2025-lannee-des-jeux-a-deux-rebelote-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-06-27T16:30:00+00:00",
+          "summary": "2025 avait placé la barre très haut pour les jeux à deux. Les premières sorties de 2026 montrent que cette belle dynamique est loin de s’essouffler.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2302864cef51",
+          "title": "Oliver Tree Memorial Service to Be Livestreamed on July 25",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/oliver-tree-memorial-service-livestream-how-to-watch-1236282524/",
+          "category": "musique",
+          "published_at": "2026-06-27T16:01:31+00:00",
+          "summary": "A celebration of life for Oliver Tree, who died in a helicopter crash at age 32, is scheduled to take place in Santa Cruz, Calif.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52db8e3dbc9e",
+          "title": "BTS Kicks Off European Leg of ARIRANG Tour With Highly Anticipated Debut in Spain: ‘Let’s Go Crazy!’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/bts-arirang-tour-madrid-spain-concert-recap-1236282534/",
+          "category": "ia",
+          "published_at": "2026-06-27T15:04:08+00:00",
+          "summary": "The show put an end to more than a decade of waiting for ARMY in Madrid.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d40e6385398c",
+          "title": "Les intempéries pourraient multiplier par 11 les perturbations ferroviaires d’ici 2100",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2286363-les-intemperies-pourraient-multiplier-par-11-les-perturbations-ferroviaires-dici-2100.html",
+          "category": "ia",
+          "published_at": "2026-06-27T15:01:00+00:00",
+          "summary": "Les effets du dérèglement climatique pèsent sur les infrastructures ferroviaires. Face à des températures très élevées, les rails risquent même de se dilater, ce qui compromet la circulation des trains. Quel avenir pour le train dans ce contexte ? C'est la question que pose cet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b2e15129a81",
+          "title": "Anthropic déploie de nouveau Mythos 5, Fable 5 attend son feu vert",
+          "source": "Next INpact",
+          "url": "https://next.ink/244502/anthropic-deploie-de-nouveau-mythos-5-fable-5-attend-son-feu-vert/",
+          "category": "ia",
+          "published_at": "2026-06-27T14:59:13+00:00",
+          "summary": "Nouvel épisode dans la saga Mythos. Anthropic a reçu la nuit dernière l&#8217;autorisation du gouvernement US pour déployer de nouveau Mythos 5 auprès d&#8217;organisations et entreprises états-uniennes. Fable 5 pourrait obtenir son feu vert la semaine prochaine. Dévoilés le 10…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9e58e365d2c",
+          "title": "Pour les soldes d’été, Cdiscount baisse le prix de ces deux superbes Lego fossiles de dinosaures",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2286273-pour-les-soldes-dete-cdiscount-baisse-le-prix-de-ces-deux-superbes-lego-fossiles-de-dinosaures.html",
+          "category": "ia",
+          "published_at": "2026-06-27T14:30:00+00:00",
+          "summary": "[Deal du jour] Pour les amateurs de paléontologie et de briques, le colossal Lego Les Fossiles de Dinosaures : le Tyrannosaurus Rex, ainsi que le Tricératops, baissent leur prix grâce à un code promo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6110b7848c19",
+          "title": "DANNA Debuts Lucid Dreams Era at Sold-Out Roxy Show & More Uplifting Moments in Latin Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/danna-the-roxy-ruidosa-fest-uplifting-moments-latin-music/",
+          "category": "musique",
+          "published_at": "2026-06-27T14:00:00+00:00",
+          "summary": "Also, Tiago PZK brings Timbaland to Argentina, Karim López makes NBA draft history with Carín León by his side, Ruidosa announces its NYC lineup and more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afa91623ed5e",
+          "title": "La saga Sonic a failli disparaître il y a 10 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2282021-la-saga-sonic-a-failli-disparaitre-il-y-a-10-ans.html",
+          "category": "justice",
+          "published_at": "2026-06-27T13:31:00+00:00",
+          "summary": "Si Sonic est une saga encore aujourd'hui bien connue des joueuses et des joueurs, elle a également connu des périodes plus difficiles au fil des années. À son plus bas niveau, la licence a même failli disparaître purement et simplement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9cfd6364fe92",
+          "title": "Il y a des pics de lumière éternelle sur la Lune et Blue Origin sait comment les capturer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2282975-il-y-a-des-pics-de-lumiere-eternelle-sur-la-lune-et-blue-origin-sait-comment-les-capturer.html",
+          "category": "ia",
+          "published_at": "2026-06-27T12:01:49+00:00",
+          "summary": "Pour s'installer durablement sur la Lune, il ne suffira pas de planter un drapeau : il faudra surtout sécuriser les meilleurs coins de l'immobilier spatial. Blue Origin l'a bien compris et dévoile sa « Power Tower », une immense structure verticale conçue pour braquer l'énergie…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "9322f7372e24",
           "title": "Soldes d’été : les meilleures offres du week-end chez Fnac, Darty, Boulanger, Amazon…",
@@ -52,6 +187,16 @@
           "category": "ia",
           "published_at": "2026-06-27T06:00:00+00:00",
           "summary": "Entre l'ouverture historique des précommandes de&nbsp;GTA 6&nbsp;en version 100 % numérique et les révélations de Shigeru Miyamoto sur la refonte des donjons du très attendu remake d'Ocarina of Time&nbsp;sur Switch 2, le monde du jeu vidéo est en pleine ébullition. Tour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "525ec0b28f13",
+          "title": "Précommande GTA 6 : les meilleures offres encore disponibles sur PS5 et Xbox Series",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2239695-precommandes-de-gta-6-toutes-les-offres-du-jeu-sont-la-voici-ou-trouver-le-meilleur-prix.html",
+          "category": "ia",
+          "published_at": "2026-06-27T06:00:00+00:00",
+          "summary": "[Précommande] Quelques jours après l’ouverture des précommandes, certaines versions physiques de GTA 6 sont déjà indisponibles chez certains marchands. Le jeu reste toutefois disponible ailleurs, avec des prix encore très variables selon les offres. On fait le point sur les…",
           "summary_type": "extrait source"
         },
         {
