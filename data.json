@@ -1,9 +1,624 @@
 {
-  "generated_at": "2026-06-29T12:42:32.918360+00:00",
+  "generated_at": "2026-06-30T11:21:31.632415+00:00",
   "days": [
+    {
+      "date": "2026-06-30",
+      "articles": [
+        {
+          "id": "822c1e7d701a",
+          "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/recommandation-vehicules-connectes-localisation",
+          "category": "ia",
+          "published_at": "2026-06-30T12:00:00+00:00",
+          "summary": "À l’issue d’une consultation publique, la CNIL publie ses recommandations sur l’utilisation par les professionnels des données de localisation des véhicules connectés (voitures, cycles, scooters, etc.). Objectif&amp;nbsp;: renforcer la sécurité juridique et donner plus de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4a4fcb2d9eb",
+          "title": "Véhicules connectés : dans quelles conditions vos données de localisation peuvent être utilisées ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/vehicules-connectes-utilisation-de-vos-donnees",
+          "category": "cnil",
+          "published_at": "2026-06-30T12:00:00+00:00",
+          "summary": "Les véhicules connectés collectent des données de localisation pour proposer certains services liés au divertissement ou à la sécurité. Ces informations peuvent révéler des éléments très personnels sur votre vie privée. La CNIL rappelle les garanties à mettre en œuvre et les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9de03bad1cd5",
+          "title": "Blur Drummer Dave Rowntree’s Proposed Class Action Against PRS For Music Struck Down by Appeals Judge",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/blur-prs-for-music-class-action-lawsuit-black-box-dismissed/",
+          "category": "musique",
+          "published_at": "2026-06-30T11:18:10+00:00",
+          "summary": "Rowntree had argued that PRS' method for its \"black box\" distribution was unfair for its members.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd570b11f7b5",
+          "title": "Musician Dave Rowntree loses appeal in PRS for Music battle",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/30/musician-dave-rowntree-loses-appeal-in-prs-for-music-battle/",
+          "category": "ia",
+          "published_at": "2026-06-30T11:00:00+00:00",
+          "summary": "Blur drummer Dave Rowntree has received another, seemingly-final setback in his battle against UK collecting society PRS for Music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ab936631670",
+          "title": "Beyoncé’s Parkwood wins dismissal of ‘Alien Superstar’ sample suit as plaintiff didn’t yet exist when it sued",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/beyonces-parkwood-wins-dismissal-of-alien-superstar-sample-suit-as-plaintiff-didnt-yet-exist-when-it-sued/",
+          "category": "justice",
+          "published_at": "2026-06-30T10:51:07+00:00",
+          "summary": "US District Judge Mark C. Scarsi granted Parkwood's motion to dismiss and threw out the entire action \"for want of standing.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87fb4a174427",
+          "title": "Washington promet jusqu’à 10 millions de dollars pour retrouver les hackers visant Signal et WhatsApp",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2288177-washington-promet-jusqua-10-millions-de-dollars-pour-retrouver-les-hackers-visant-signal-et-whatsapp.html",
+          "category": "ia",
+          "published_at": "2026-06-30T10:29:35+00:00",
+          "summary": "Le département d'État américain offre jusqu'à 10 millions de dollars pour toute information menant à l'identification des cyberattaquants russes responsables d'une vaste campagne de piratage, visant les messageries chiffrées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab498e566970",
+          "title": "Sony Music Indonesia and Sun Eater Group launch joint venture label LUNAR",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-indonesia-and-sun-eater-group-launch-joint-venture-label-lunar/",
+          "category": "musique",
+          "published_at": "2026-06-30T10:27:46+00:00",
+          "summary": "The new label debuts with three Indonesian artists: Kecoud, Alee, and Nandoshi.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c28e03795a1b",
+          "title": "Un appel d’offres dévoile d’inquiétants détails du système IT de l’Agence du médicament",
+          "source": "Next INpact",
+          "url": "https://next.ink/244290/un-appel-doffres-devoile-dinquietants-details-du-systeme-it-de-lagence-du-medicament/",
+          "category": "ia",
+          "published_at": "2026-06-30T10:03:43+00:00",
+          "summary": "Il est assez rare d’avoir le détail de l’infrastructure informatique d’une institution française. Au détour d’un appel d’offres, l’Agence nationale de sécurité du médicament détaille les systèmes d&#8217;exploitation et logiciels utilisés sur ses serveurs… certains ne sont plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76ec2da4b6e4",
+          "title": "Understanding Latin America’s Music Market: Platforms, Fans, and Growth Opportunities",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/30/understanding-latin-americas-music-market-platforms-fans-and-growth-opportunities/",
+          "category": "musique",
+          "published_at": "2026-06-30T09:59:36+00:00",
+          "summary": "By Randi Zimmerman, Content Specialist, Symphonic Latin America was one of the fastest-growing recorded music regions in 2024, with revenue up 22.5%. Today, the region continues to shape global pop, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "590e98814ac7",
+          "title": "Le bon plan contre la canicule, c’est cette capsule Shark qui souffle, brumise et refroidit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288095-le-bon-plan-contre-la-canicule-cest-cette-capsule-shark-qui-souffle-brumise-et-refroidit.html",
+          "category": "ia",
+          "published_at": "2026-06-30T09:51:07+00:00",
+          "summary": "[Deal du jour] Pour affronter les nouvelles vagues de chaleur prévues, que ce soit à la maison, dans les transports ou lors de vos balades, le ventilateur modulable Shark ChillPill s’impose comme un allié pratique. Et avec une baisse de prix de 20 €, c’est le moment idéal pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd0cf9e72a2a",
+          "title": "DC Studios : pourquoi prioriser le film Bane & Deathstroke après le crash de Supergirl est une grave erreur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2288111-dc-studios-pourquoi-prioriser-le-film-bane-deathstroke-apres-le-crash-de-supergirl-est-une-grave-erreur.html",
+          "category": "ia",
+          "published_at": "2026-06-30T09:45:00+00:00",
+          "summary": "Le piège de l’obscurité.&nbsp;Alors que le crash historique de&nbsp;Supergirl&nbsp;au box-office mondial (38 millions de dollars pour son premier week-end américain) fragilise l'édifice de James Gunn et Peter Safran, une révélation de&nbsp;The Wrap&nbsp;fait grincer des dents :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b2d395280d6",
+          "title": "« On suit un idiot » : Zach Cregger annonce un héros radicalement différent pour le film Resident Evil",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2287975-resident-evil-le-realisateur-compare-son-nouveau-film-a-frodon-qui-va-au-mordor.html",
+          "category": "ia",
+          "published_at": "2026-06-30T09:43:00+00:00",
+          "summary": "Le jeu vidéo à hauteur d'homme. Alors que son très attendu reboot de la franchise Resident Evil est calé pour le 16 septembre 2026 dans les salles obscures, le réalisateur Zach Cregger (Barbarian, Évanouis) s’est confié en exclusivité dans les colonnes du magazine Empire. Loin…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70cca6803e33",
+          "title": "☕️ Wine 11.12 disponible avec le support de la mise à l’échelle fractionnaire pour Wayland",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/wine-11-12-disponible-avec-le-support-de-la-mise-a-lechelle-fractionnaire-pour-wayland/",
+          "category": "ia",
+          "published_at": "2026-06-30T09:30:00+00:00",
+          "summary": "Nouvelle version pour Wine, la couche de compatibilité permettant aux applications Windows de fonctionner sur un système Linux. Wine sert pour rappel de base à Proton, une autre couche de compatibilité. Développée par Valve et spécialisée dans les jeux, elle est au cœur de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c47824e24c87",
+          "title": "Brain2Qwerty v2 : Meta dévoile une IA qui décode des phrases dans votre cerveau sans implant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288109-brain2qwerty-v2-meta-devoile-une-ia-qui-decode-des-phrases-dans-votre-cerveau-sans-implant.html",
+          "category": "ia",
+          "published_at": "2026-06-30T09:28:40+00:00",
+          "summary": "Avec Brain2Qwerty v2, Meta affirme avoir franchi un cap dans le décodage de phrases à partir de signaux cérébraux, sans implant ni chirurgie. Une avancée importante pour les interfaces cerveau-machine, même s'il ne s'agit pas encore d'une IA capable de lire vos pensées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b65745699311",
+          "title": "La version Xbox de GTA 6 est invisible",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2287951-la-version-xbox-de-gta-6-est-invisible.html",
+          "category": "ia",
+          "published_at": "2026-06-30T09:11:46+00:00",
+          "summary": "Sur les différents canaux utilisés par Rockstar Games pour promouvoir GTA 6, la version Xbox n'est jamais mentionnée. Le studio a clairement choisi la PS5 comme plateforme de prédilection pour son blockbuster, en raison d'un deal marketing intelligemment ficelé par PlayStation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c669407c9d92",
+          "title": "Soldes d’été 2026 : les meilleures promos en ligne et en direct, sans affronter la chaleur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2283185-soldes-dete-2026-les-meilleures-promos-tech-en-ligne-et-en-direct-sans-affronter-la-chaleur.html",
+          "category": "ia",
+          "published_at": "2026-06-30T09:06:19+00:00",
+          "summary": "Les soldes d’été continuent, et les fortes chaleurs donnent une bonne raison de regarder ce que proposent les e-commerçants avant de courir en magasin. Ventilateurs, climatiseurs, smartphones, TV, consoles, accessoires… on fait le tri !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e71bf646792",
+          "title": "Deux astronautes de la Nasa sortent de l’ISS pour réparer un bras robotique : comment suivre l’événement en direct ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2288037-deux-astronautes-de-la-nasa-sortent-de-liss-pour-reparer-un-bras-robotique-comment-suivre-levenement-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-06-30T09:05:09+00:00",
+          "summary": "Les astronautes de la Nasa Jessica Meir et Christopher Williams vont sortir de la Station spatiale internationale pour réparer le Canadarm, un bras robotique qui présente des dysfonctionnements. Une aventure de quelques heures que l'on pourra suivre en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94e999679562",
+          "title": "Avec le modèle GLM-5.2, la Chine pourrait rebattre les cartes de la cybersécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/244743/avec-le-modele-glm-5-2-la-chine-pourrait-rebattre-les-cartes-de-la-cybersecurite/",
+          "category": "ia",
+          "published_at": "2026-06-30T08:58:00+00:00",
+          "summary": "La stratégie américaine d’embargo pour contrer le secteur technologique chinois serait-elle contreproductive&#160;? La question se pose, alors qu&#8217;une société chinoise pourrait bouleverser la cybersécurité en diffusant un modèle capable de rivaliser avec les LLM d’OpenAI et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1b265816539",
+          "title": "« Benchmarks de sécurité de l’IA » : pourquoi Meta fait sonder ChatGPT et Gemini par de faux comptes d’ados",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287955-benchmarks-de-securite-de-lia-pourquoi-meta-fait-sonder-chatgpt-et-gemini-par-de-faux-comptes-dados.html",
+          "category": "ia",
+          "published_at": "2026-06-30T08:50:00+00:00",
+          "summary": "Pendant des mois, des prestataires payés par Meta se seraient fait passer pour des mineurs afin de tester les limites des chatbots concurrents. Un dispositif interne dévoilé par le média américain WIRED.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "326f8c9c78f3",
+          "title": "En pleine canicule, l’arnaque au climatiseur prend une nouvelle ampleur",
+          "source": "Next INpact",
+          "url": "https://next.ink/244736/en-pleine-canicule-larnaque-au-climatiseur-prend-une-nouvelle-ampleur/",
+          "category": "ia",
+          "published_at": "2026-06-30T08:31:00+00:00",
+          "summary": "Présenté comme «&#160;révolutionnaire&#160;», le climatiseur Epicooler, qui jouit de nombreuses vidéos YouTube et supposés tests indépendants positifs, cache en fait une arnaque. Les publicités pour le faux climatiseur tournent depuis des semaines, en ligne. Il s’appelle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39ca133ff8ca",
+          "title": "Entre inquiétude, incompréhension et colère, les clients américains de Polestar redoutent l’avenir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2287979-entre-inquietude-incomprehension-et-colere-les-clients-americains-de-polestar-redoutent-lavenir.html",
+          "category": "ia",
+          "published_at": "2026-06-30T08:30:00+00:00",
+          "summary": "La marque Polestar ne pourra plus commercialiser ses nouveaux modèles sur le sol américain en 2027. Les propriétaires de Polestar s’inquiètent désormais du sort de leur voiture.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33c0ba5a3895",
+          "title": "Lume to offer fans ‘the world of an album’ – and Lorde is on board",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/30/lume-to-offer-fans-the-world-of-an-album-and-lorde-is-on-board/",
+          "category": "musique",
+          "published_at": "2026-06-30T08:30:00+00:00",
+          "summary": "It’s a year since the release of Lorde’s fourth album, ‘Virgin’, and she celebrated the anniversary by dropping 49 demos.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18512c582c5b",
+          "title": "Adieu les sites web ? Google lance ses résumés par IA en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287953-adieu-les-sites-web-google-lance-ses-resumes-par-ia-en-france.html",
+          "category": "ia",
+          "published_at": "2026-06-30T08:18:58+00:00",
+          "summary": "Le 29 juin 2026, Ouest-France a révélé que Google lancerait cet été en France ses AI Overviews, des résumés générés par IA intégrés à son moteur de recherche. Les AI Overviews répondront directement aux recherches, avant même les liens : une petite révolution pour les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4367b8876aa7",
+          "title": "Tidal allows AI-generated music – but it won’t earn royalties",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/30/tidal-allows-ai-generated-music-but-it-wont-earn-royalties/",
+          "category": "musique",
+          "published_at": "2026-06-30T08:18:45+00:00",
+          "summary": "Tidal is the latest music-streaming service to set out its policies around AI-generated music, and it’s going further than many of its peers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8451d38641fc",
+          "title": "Microsoft cesserait de conclure des accords avec des éditeurs tiers pour le Xbox Game Pass",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2287949-microsoft-cesserait-de-conclure-des-accords-avec-des-editeurs-tiers-pour-le-xbox-game-pass.html",
+          "category": "ia",
+          "published_at": "2026-06-30T07:57:47+00:00",
+          "summary": "Licenciements imminents, changement de stratégie avec les studios tiers pour le Xbox Game Pass : ce mois de juillet s'annonce tristement chargé du côté de Microsoft.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "592d27e90e1d",
+          "title": "Rocket Lab s’offre Iridium et sa constellation pour accélérer dans les services spatiaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/244709/rocket-lab-soffre-iridium-et-sa-constellation-pour-accelerer-dans-les-services-spatiaux/",
+          "category": "ia",
+          "published_at": "2026-06-30T07:46:16+00:00",
+          "summary": "Le fabricant de fusées Rocket Lab vient d&#8217;annoncer l&#8217;acquisition d&#8217;Iridium et de sa constellation de satellites pour environ 8 milliards de dollars. Rocket Lab entre ainsi de plain pied dans le monde des services de connectivité par satellite et se dote…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2186d29bf41",
+          "title": "Ariana Grande Reschedules Three Eternal Sunshine Tour Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/ariana-grande-reschedules-eternal-sunshine-tour-dates-1236284345/",
+          "category": "ia",
+          "published_at": "2026-06-30T07:37:07+00:00",
+          "summary": "\"We are so sorry for these unfortunate scheduling changes,\" Grande wrote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "228bb9f3f3c8",
+          "title": "Madonna preps livestream and pop-ups with TikTok and iHeartRadio",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/30/madonna-preps-livestream-and-pop-ups-with-tiktok-and-iheartradio/",
+          "category": "musique",
+          "published_at": "2026-06-30T07:12:53+00:00",
+          "summary": "Madonna-maniacs, take note: this Thursday (2 July) the Queen of Pop is hosting a listening party for her new album &#8216;Confessions II&#8217;.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4bca34f52bd",
+          "title": "Microsoft vole au secours du Data Privacy Framework entre l’UE et les États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/244691/microsoft-vole-au-secours-du-data-privacy-framework-entre-lue-et-les-etats-unis/",
+          "category": "cnil",
+          "published_at": "2026-06-30T06:53:04+00:00",
+          "summary": "Microsoft veut avoir son mot à dire sur le Data Privacy Framework, autrement dit le cadre transatlantique qui permet aux entreprises américaines certifiées de recevoir des données personnelles transférées depuis l’Union européenne. L&#8217;éditeur de Windows a obtenu de la Cour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "485561f80585",
+          "title": "☕️ Tidal coupe le robinet des royalties pour la musique 100 % IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/tidal-coupe-le-robinet-des-royalties-pour-la-musique-100-ia/",
+          "category": "musique",
+          "published_at": "2026-06-30T06:29:00+00:00",
+          "summary": "Après d&#8217;autres services de streaming musical, Tidal a dévoilé sa politique relative à l&#8217;IA générative, qui prévoit la démonétisation des morceaux 100 % IA, et dans certains cas une suppression pure et simple. Mais la plateforme reste ouverte à cette technologie.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "589b35ac3541",
+          "title": "Coupe du monde 2026 : attention à l’horaire du match France-Suède",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2287929-coupe-du-monde-2026-attention-a-lhoraire-du-match-france-suede.html",
+          "category": "ia",
+          "published_at": "2026-06-30T06:20:51+00:00",
+          "summary": "Après une phase de groupes brillante, matérialisée par trois victoires en autant de matchs et une logique première place, la France affronte la Suède en seizièmes de finale. Coup d'envoi à 23h, ce mardi 30 juin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf5c7782888b",
+          "title": "Des vidéos de l’iPhone 18 Pro ont fuité : Apple est victime d’un piratage de grande ampleur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287919-des-videos-de-liphone-18-pro-ont-fuite-apple-est-victime-dun-piratage-de-grande-ampleur.html",
+          "category": "ia",
+          "published_at": "2026-06-30T06:17:54+00:00",
+          "summary": "Sur les réseaux sociaux, des vidéos et photos des iPhone 18 Pro, dont l'annonce est prévue en septembre, circulent. Certains documents dévoilent les composants internes et l'identité des fournisseurs d'Apple. Il ne s'agit pas d'une fuite ordinaire : Tata Electronics,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb79dca9d0f5",
+          "title": "☕️ Apple corrige 32 failles de sécurité avec iOS 26.5.2",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-corrige-32-failles-de-securite-avec-ios-25-6-2/",
+          "category": "ia",
+          "published_at": "2026-06-30T05:59:56+00:00",
+          "summary": "Apple a publié lundi 29 juin une mise à jour de sécurité destinée à ses iPhone et iPad. Estampillée 26.5.2, cette nouvelle mouture d&#8217;iOS et d&#8217;iPadOS intervient pour corriger un total de 32 failles de sécurité. Dans le lot, 25 sont relatives à Webkit, le moteur qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6802655dd7bb",
+          "title": "Comment des fans ont obtenu GTA 6 sans rien payer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2287917-comment-des-fans-ont-obtenu-gta-6-sans-rien-payer.html",
+          "category": "ia",
+          "published_at": "2026-06-30T05:45:04+00:00",
+          "summary": "Grâce à une accumulation de points liée au programme de fidélité de l'écosystème Xbox, des fans de GTA 6 sont parvenus à précommander GTA 6 sans rien payer. La belle affaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "241e58ed71aa",
+          "title": "☕️ Des noms de profil dans WhatsApp, pour éviter de donner son numéro de téléphone",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/des-noms-de-profil-dans-whatsapp-pour-eviter-de-donner-son-numero-de-telephone/",
+          "category": "ia",
+          "published_at": "2026-06-30T05:31:00+00:00",
+          "summary": "WhatsApp est devenu un outil indispensable de communication pour une bonne partie de la planète, mais certains aspects de la messagerie de Meta restent encore rudimentaires. C&#8217;est le cas pour se connecter avec un autre utilisateur : il faut partager son numéro de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83ede1b51130",
+          "title": "Eric Hutchinson Sets First Australian Headline Tour in 16 Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/eric-hutchinson-australian-headline-tour-1236284247/",
+          "category": "ia",
+          "published_at": "2026-06-30T03:47:51+00:00",
+          "summary": "Recent Australian Idol winner Marshall Hamburger will join Hutchinson on the tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5e741833154",
+          "title": "Oliver Tree Talked ‘High Risk’ Lifestyle in One of His Final Interviews: ‘There’s No Day Promised’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/oliver-tree-bobbi-althoff-podcast-before-death-1236283898/",
+          "category": "musique",
+          "published_at": "2026-06-30T00:03:47+00:00",
+          "summary": "Before the star was killed by a helicopter crash in Rio de Janeiro earlier in June, he sat down with Bobbi Althoff for an interview.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-29",
       "articles": [
+        {
+          "id": "ef30be545af4",
+          "title": "Memphis Bleek ‘Happy’ Jay-Z Dissed Haters During Roots Picnic Freestyle: ‘They Deserved That Spanking’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/memphis-bleek-happy-jay-z-dissed-roots-picnic-freestyle-1236283950/",
+          "category": "ia",
+          "published_at": "2026-06-29T23:34:42+00:00",
+          "summary": "Bleek sat down with Boardroom to give fans insight of how Jay's mind works and explains why he loved the freestyle he rapped at the Roots Picnic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b9863cb2ed3",
+          "title": "Nicki Minaj Credits Elon Musk With ‘Saving Free Speech’ in Birthday Post to Tech Mogul",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/nicki-minaj-elon-musk-birthday-post-free-speech-1236283963/",
+          "category": "ia",
+          "published_at": "2026-06-29T23:05:18+00:00",
+          "summary": "The Queens rapper shared what appears to be an AI-generated selfie with the Tesla CEO.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bc808485d80",
+          "title": "Beyoncé’s Parkwood Entertainment Wins Dismissal of ‘Alien Superstar’ Sample Lawsuit",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/beyonce-parkwood-wins-alien-superstar-sample-lawsuit/",
+          "category": "justice",
+          "published_at": "2026-06-29T22:45:53+00:00",
+          "summary": "A judge says the copyright claims are barred by a basic legal defect.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d11418d10287",
+          "title": "Yung Miami Asks Drake to Get on ‘Spend Dat’ Remix: ‘I Want the Iceman’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/yung-miami-drake-spend-dat-remix-i-want-the-iceman-1236283980/",
+          "category": "ia",
+          "published_at": "2026-06-29T22:43:14+00:00",
+          "summary": "The former City Girl has previously revealed that she tried to get him on her single \"Take Me to Chanel\" but was left on read.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "decaff1f035d",
+          "title": "Licensing Manager – PACE Rights Management – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/29/licensing-manager-pace-rights-management-london-3/",
+          "category": "musique",
+          "published_at": "2026-06-29T22:22:02+00:00",
+          "summary": "This is a full-time role at the global leader in assisting Rightsholders (writers &#38; publishers) to Direct License their Live Public Performance Rights. EXPERIENCE: SKILLSET: ROLE: OPPORTUNITIES:&#160; WAGE: If you [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a129135bdaa",
+          "title": "L’IA coûte bien trop cher et ces nouveaux outils veulent changer les règles du jeu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287645-lia-coute-bien-trop-cher-et-ces-nouveaux-outils-veulent-changer-les-regles-du-jeu.html",
+          "category": "ia",
+          "published_at": "2026-06-29T19:15:00+00:00",
+          "summary": "Face à des factures imprévisibles, une nouvelle génération d’outils s’impose pour reprendre le contrôle, tandis que l’open source et les modèles low cost rebattent déjà les cartes du marché de l'IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1865668b1bd",
+          "title": "Google says AI training is fair use and copyright should be policed on outputs, not inputs",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/google-says-ai-training-is-fair-use-and-copyright-should-be-policed-on-outputs-not-inputs/",
+          "category": "ia",
+          "published_at": "2026-06-29T18:28:53+00:00",
+          "summary": "The tech giant has published a new policy paper outlining the company's preferred approach to AI regulation\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7945522912dc",
+          "title": "Les Avengers du recyclage de batterie : CATL, Renault, Xiaomi, BMW veulent écrire les standards de la seconde vie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2287247-les-avengers-du-recyclage-de-batterie-catl-renault-xiaomi-bmw-veulent-ecrire-les-standards-de-la-seconde-vie.html",
+          "category": "ia",
+          "published_at": "2026-06-29T17:45:00+00:00",
+          "summary": "Réunis à Londres lors de la Climate Action Week, BMW, Renault, Volvo, CATL ou encore Xiaomi ont annoncé la création d'une alliance mondiale pour industrialiser le recyclage des batteries de véhicules électriques. Une étape que beaucoup attendaient, mais qui ne se résume pas à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a45272882fbb",
+          "title": "Blur drummer Dave Rowntree loses UK court appeal to revive ‘black box’ royalties claim against PRS for Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/blur-drummer-dave-rowntree-loses-uk-court-appeal-to-revive-black-box-royalties-claim-against-prs-for-music/",
+          "category": "musique",
+          "published_at": "2026-06-29T16:08:06+00:00",
+          "summary": "Rowntree's appeal in his proposed class action against PRS for Music has been dismissed\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1de651b0a009",
+          "title": "Climatiseurs mobiles : nos conseils pour bien acheter avant que les prix s’envolent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287381-climatiseurs-mobiles-nos-conseils-pour-acheter-avant-que-les-prix-ne-senvolent.html",
+          "category": "ia",
+          "published_at": "2026-06-29T16:03:49+00:00",
+          "summary": "Le marché des climatiseurs mobiles n’est pas revenu à la normale, mais l’accalmie actuelle reste probablement le meilleur moment pour acheter. Les stocks sont encore instables, les bons modèles partent vite, et les prochains réassorts risquent de disparaître dès le retour des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8006cf7df1bc",
+          "title": "Vous n’avez plus besoin d’un numéro de téléphone pour utiliser WhatsApp",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287637-vous-navez-plus-besoin-dun-numero-de-telephone-pour-utiliser-whatsapp.html",
+          "category": "ia",
+          "published_at": "2026-06-29T16:00:00+00:00",
+          "summary": "WhatsApp va bientôt permettre de discuter sans dévoiler son numéro de téléphone. Le 29 juin 2026, Meta a annoncé lancer des noms d’utilisateur, avec plusieurs garde-fous pensés pour préserver la confidentialité. Ils arriveront plus tard dans l'année.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a17858b87f7",
+          "title": "Après son succès en salles, le film Backrooms s’enrichit de 15 minutes de séquences exclusives",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2287787-apres-son-succes-en-salles-le-film-backrooms-senrichit-de-15-minutes-de-sequences-exclusives.html",
+          "category": "ia",
+          "published_at": "2026-06-29T15:45:40+00:00",
+          "summary": "Le labyrinthe s'agrandit.&nbsp;Après avoir brisé tous les records pour s'imposer comme le plus gros succès de l’histoire du studio A24, le film d’horreur phénomène&nbsp;Backrooms&nbsp;s'apprête à faire un retour fracassant sur grand écran. Dès le 3 juillet 2026, les cinémas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e63792b2bdd",
+          "title": "Les prévisions d’une nouvelle canicule en juillet 2026 sont-elles fiables ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2287481-les-previsions-dune-nouvelle-canicule-en-juillet-2026-sont-elles-fiables.html",
+          "category": "ia",
+          "published_at": "2026-06-29T15:20:00+00:00",
+          "summary": "La première canicule de l'année subie par la France métropolitaine en juin 2026 régresse. Et, déjà, des annonces du retour de la chaleur pour la semaine du 6 juillet émergent. Ces prévisions météo sont-elles vraiment fiables ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94e96395d160",
+          "title": "TIDAL to automatically tag AI-generated music…  and block it from earning royalties",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tidal-to-tag-fully-ai-generated-music-and-block-it-from-earning-royalties/",
+          "category": "musique",
+          "published_at": "2026-06-29T15:17:41+00:00",
+          "summary": "TIDAL is introducing an AI policy that will automatically tag wholly AI-generated music in its app\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a5f8fd685b0",
+          "title": "☕️ Accusée d’acheter de vieux livres pour entrainer des IA, Zoom Books nie",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/accusee-dacheter-de-vieux-livres-pour-entrainer-des-ia-zoom-books-nie/",
+          "category": "ia",
+          "published_at": "2026-06-29T15:16:42+00:00",
+          "summary": "Depuis quelques semaines, des libraires se demandent sur Reddit si l&#8217;entreprise canadienne Zoom Books n&#8217;achètent pas de vieux livres en masse pour entrainer ses modèles d&#8217;IA génératives. Les ouvrages seraient détruits dans la foulée… Comme l&#8217;expliquent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee460ab10575",
+          "title": "Ce qui cloche avec GTA 6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2287307-ce-qui-cloche-avec-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-06-29T14:44:23+00:00",
+          "summary": "GTA 6 est désormais disponible en précommande, et on s'attend, tôt ou tard, à une communication axée sur des chiffres records. Ce qui n'empêche pas de se poser quelques questions sur les pratiques commerciales douteuses de Rockstar Games, qui se croit un peu trop tout permis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ed82f178510",
+          "title": "Vous aimez les animaux ? Les Moutons Détectives devient le film le plus vu dans le monde sur Prime Video",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2287553-vous-aimez-les-animaux-les-moutons-detectives-devient-le-film-le-plus-vu-dans-le-monde-sur-prime-video.html",
+          "category": "ia",
+          "published_at": "2026-06-29T14:33:14+00:00",
+          "summary": "Inarrêtable.&nbsp;Lancé sur Prime Video le 24 juin dernier,&nbsp;Les Moutons Détectives&nbsp;s'est emparé de la première place des contenus les plus vus sur la plateforme dans le monde ce lundi 29 juin 2026. Le film fait un énorme carton.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff6c79dda5fd",
+          "title": "Pénurie de RAM : Samsung, SK Hynix et Micron ont-ils orchestré la crise pour augmenter leurs profits ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287485-penurie-de-ram-samsung-sk-hynix-et-micron-ont-il-orchestre-la-crise-pour-augmenter-leurs-profits.html",
+          "category": "ia",
+          "published_at": "2026-06-29T14:16:54+00:00",
+          "summary": "Déposée le 25 juin 2026 en Californie, une action collective accuse Samsung, SK Hynix et Micron d’avoir volontairement restreint la production de mémoire vive pour maintenir des prix élevés. Une plainte qui ravive le lourd passé du secteur de la DRAM.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11c776236e55",
+          "title": "Spotify India enters into “first-of-its-kind telco partnership” with Vi",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/29/spotify-india-enters-into-first-of-its-kind-telco-partnership-with-vi/",
+          "category": "musique",
+          "published_at": "2026-06-29T14:15:52+00:00",
+          "summary": "Vi—which was created from the merger of the telecom companies Vodafone India and the Aditya Birla Group conglomerate’s Idea Cellular—has entered into a partnership with Spotify. Through the tie-up, Vi [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f37443c5f1d2",
+          "title": "☕️ PlayStation va supprimer chez ses clients des films qu’ils ont pourtant achetés",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/playstation-va-supprimer-chez-ses-clients-des-films-quils-ont-pourtant-achetes/",
+          "category": "ia",
+          "published_at": "2026-06-29T13:54:00+00:00",
+          "summary": "Plus de 500 films et séries TV du catalogue du Studio Canal vont être supprimés de la bibliothèque des utilisateurs PlayStation ayant pourtant acheté ces contenus. Ils s&#8217;attendaient, en toute logique, à pouvoir y accéder pour toujours et à jamais. Ça ne sera plus le cas à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e98d9b943724",
+          "title": "Live Nation moves to push ex-exec’s $35m lawsuit out of court and into private arbitration",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-moves-to-push-ex-execs-35m-whistleblower-suit-out-of-court-and-into-private-arbitration/",
+          "category": "ia",
+          "published_at": "2026-06-29T13:30:37+00:00",
+          "summary": "Former EVP Nicholas Rumanes alleged he was fired in May 2025 in retaliation for flagging what his complaint called \"serious corporate misconduct.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94777581686f",
+          "title": "IA générative : le RAG par l’exemple, avec 15 000 actus Next et Mistral 7B",
+          "source": "Next INpact",
+          "url": "https://next.ink/244509/ia-generative-le-rag-par-lexemple-avec-15-000-actus-next-et-mistral-7b/",
+          "category": "ia",
+          "published_at": "2026-06-29T13:27:00+00:00",
+          "summary": "Nous avons passé à la moulinette du RAG le contenu de plus de 15 000 actus publiées sur Next ces dix&#160;dernières années. Le but&#160;? En donner ensuite des morceaux à une IA générative pour qu’elle adapte ses réponses. Nous avons tout fait en local, sur un MacBook Pro avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a0ad8af46b0",
+          "title": "Innovate UK launches £10m funding competition for ‘createch’ startups – music included",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/29/innovate-uk-launches-10m-funding-competition-for-createch-startups-music-included/",
+          "category": "musique",
+          "published_at": "2026-06-29T13:23:47+00:00",
+          "summary": "Innovate UK’s latest competition will see it invest up to £10m in ‘createch’ startups. The good news is that music is included.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cc7be715e9e",
+          "title": "Sprite and Genius launch ‘The Living Tracklist’ hip-hop campaign",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/06/29/sprite-and-genius-launch-the-living-tracklist-hip-hop-campaign/",
+          "category": "ia",
+          "published_at": "2026-06-29T12:44:27+00:00",
+          "summary": "Hip-hop nostalgics could lose plenty of time going misty-eyed while scrolling through Genius and Sprite’s ‘The Living Tracklist’ collaboration.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c13f759f8ee0",
           "title": "Après les livres générés par IA, les noms d’auteurs détournés pour promouvoir de l’AI slop",
@@ -142,6 +757,26 @@
           "category": "ia",
           "published_at": "2026-06-29T10:26:59+00:00",
           "summary": "The application, made with the US Patent and Trademark Office, covers the group saying: “Hi, we’re the Backstreet Boys.”\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0855cdd56c0",
+          "title": "Backstreet Boys file to trademark their voices, joining Taylor Swift and Lionel Richie in battle against AI deepfakes",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/backstreet-boys-file-to-trademark-the-sound-of-their-voices-against-ai-replicas-joining-taylor-swift-and-lionel-richie/",
+          "category": "ia",
+          "published_at": "2026-06-29T10:26:59+00:00",
+          "summary": "The application, made with the US Patent and Trademark Office, covers the group saying: “Hi, we’re the Backstreet Boys.”\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90d6f9269818",
+          "title": "Frontiers Label Group makes raft of senior promotions in the UK, globally",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/frontiers-label-group-makes-raft-of-senior-promotions-in-the-uk-globally/",
+          "category": "musique",
+          "published_at": "2026-06-29T10:25:20+00:00",
+          "summary": "Leo Nicholas has been appointed Managing Director, UK, Aldo Lonobile named Vice President, Global A&#38;R, and Martina Palermo promoted to Global Head of PR.\nSource",
           "summary_type": "extrait source"
         },
         {
