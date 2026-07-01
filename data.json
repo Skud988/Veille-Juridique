@@ -1,9 +1,594 @@
 {
-  "generated_at": "2026-06-30T11:21:31.632415+00:00",
+  "generated_at": "2026-07-01T11:33:04.930773+00:00",
   "days": [
+    {
+      "date": "2026-07-01",
+      "articles": [
+        {
+          "id": "1acbd0aeed04",
+          "title": "La Nasa s’engage à envoyer un ballon de football sur la Lune si les États-Unis remportent la Coupe du Monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2288875-la-nasa-sengage-a-envoyer-un-ballon-de-football-sur-la-lune-si-les-etats-unis-remportent-la-coupe-du-monde.html",
+          "category": "ia",
+          "published_at": "2026-07-01T11:25:00+00:00",
+          "summary": "En pleine Coupe du Monde de football, la Nasa a fait une annonce étonnante. Elle s'engage à envoyer un ballon de foot jusqu'à la Lune en cas de victoire des États-Unis lors de la compétition. Plus loin qu'aucun ballon n'est jamais allé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e60fe286d916",
+          "title": "Live Nation to livestream Pitbull’s bald-cap world-record attempt",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/01/live-nation-to-livestream-pitbulls-bald-cap-world-record-attempt/",
+          "category": "musique",
+          "published_at": "2026-07-01T11:15:00+00:00",
+          "summary": "Pitbull&#8217;s BST Hyde Park concert this July in London won&#8217;t just be a collection of bangers from Mr Worldwide&#8217;s back catalogue.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "876a55561c80",
+          "title": "Live Nation applauds Illinois ban on speculative ticket sales, as state outlaws junk fees, ticket-buying bots",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-applauds-illinois-ban-on-speculative-ticket-sales-as-state-outlaws-junk-fees-ticket-buying-bots/",
+          "category": "musique",
+          "published_at": "2026-07-01T10:57:33+00:00",
+          "summary": "Illinois Governor JB Pritzker has signed a new law banning junk fees, ticket-buying bots and the resale of tickets that sellers don't yet possess.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e3776c7801e",
+          "title": "Contre les bots, Reddit sacrifie l’accès libre à sa version historique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288829-contre-les-bots-reddit-sacrifie-lacces-libre-a-sa-version-historique.html",
+          "category": "ia",
+          "published_at": "2026-07-01T10:45:00+00:00",
+          "summary": "La plateforme va resserrer l'accès à son interface OldReddit pour lutter contre le scraping abusif. Une décision qui inquiète les habitués de l'ancienne version, dans un contexte où son avenir n'est plus vraiment assuré.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f5d0bb8996c",
+          "title": "Openstage is connecting fan-data to Claude, Gemini and ChatGPT",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/01/openstage-is-connecting-fan-data-to-claude-gemini-and-chatgpt/",
+          "category": "ia",
+          "published_at": "2026-07-01T10:45:00+00:00",
+          "summary": "Beyond the heated debates and dealmaking around GenAI music, use of chatbots and other AI tools is growing rapidly across the music industry.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f10e690346d",
+          "title": "Merlin appoints former Downtown exec Harmen Hemminga as VP, Business Development",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/merlin-appoints-former-downtown-exec-harmen-hemminga-as-vp-business-development/",
+          "category": "musique",
+          "published_at": "2026-07-01T10:33:09+00:00",
+          "summary": "Hemminga joins Merlin from Downtown Music, where he most recently served as VP Product &#38; Services Strategy.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb86d12e64a6",
+          "title": "Beatport Greenroom is a B2B dashboard for artists and labels",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/01/beatport-greenroom-is-a-b2b-dashboard-for-artists-and-labels/",
+          "category": "musique",
+          "published_at": "2026-07-01T10:30:00+00:00",
+          "summary": "Today&#8217;s the day (1 July) for Beatport&#8217;s leadership transition, with CEO Robb McDaniels handing over the electronic-music brand&#8217;s reins.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3736a1c33d7a",
+          "title": "UK collection org PPL paid out $108M to performers and recording rightsholders in Q2 2026",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/uk-collection-org-ppl-paid-out-108m-to-performers-and-recording-rightsholders-in-q2-2026/",
+          "category": "ia",
+          "published_at": "2026-07-01T10:29:48+00:00",
+          "summary": "Almost 4,500 of those performers and recording rightsholders are receiving a payment from PPL for the first time.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb6cb8a4daaa",
+          "title": "Rachat Paramount/Warner : la Grande-Bretagne pourrait intervenir et tout stopper",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2288957-rachat-paramount-warner-la-grande-bretagne-pourrait-intervenir-et-tout-stopper.html",
+          "category": "ia",
+          "published_at": "2026-07-01T10:25:00+00:00",
+          "summary": "Alors que le projet de fusion historique entre Paramount et Warner Bros Discovery semblait sur une voie royale après le feu vert des États-Unis, un obstacle inattendu surgit de l'autre côté de l'Atlantique. Le gouvernement britannique menace d'intervenir et de geler l'opération,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc5c5c4e776e",
+          "title": "Impala outlines new five-step plan for the digital-music market",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/01/impala-outlines-new-five-step-plan-for-the-digital-music-market/",
+          "category": "musique",
+          "published_at": "2026-07-01T10:03:04+00:00",
+          "summary": "European independent-music body Impala is never shy about putting forward its views on how the music industry should develop.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "928fb9fa3b6f",
+          "title": "Le marché de la voiture électrique explose et Renault signe une performance étonnante derrière Tesla",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2288977-le-marche-de-la-voiture-electrique-explose-et-renault-signe-une-performance-etonnante-derriere-tesla.html",
+          "category": "ia",
+          "published_at": "2026-07-01T10:03:00+00:00",
+          "summary": "Les voitures électriques ont de nouveau réalisé un mois exceptionnel, établissant de nouveaux records pour juin 2026. Tesla s’impose, mais derrière elle, Renault place sans forcer quatre modèles les uns à la suite des autres en tête du classement. Et ce n’est pas tout.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66d81902c5cc",
+          "title": "☕️ Des scientifiques harcelés sur X après avoir alerté sur l’obstruction climatique",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/des-scientifiques-harceles-sur-x-apres-avoir-alerte-sur-lobstruction-climatique/",
+          "category": "ia",
+          "published_at": "2026-07-01T10:02:23+00:00",
+          "summary": "Depuis quelques jours, le climatologue Christophe Cassou et l’économiste du climat Vincent Viguié sont pris à partie sur les réseaux sociaux. Leurs torts ? Avoir souligné l’urgence de s’adapter au changement climatique, et les problèmes que le déni climatique posait en la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "554e0e5e68a9",
+          "title": "Péage : comment le gabarit de votre véhicule décide du tarif (et que faire en cas d’erreur) [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2284791-peage-comment-le-gabarit-de-votre-vehicule-decide-du-tarif-et-que-faire-en-cas-derreur.html",
+          "category": "ia",
+          "published_at": "2026-07-01T09:44:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Fulli\n\nIl se passe plus de choses que vous ne le pensez quand une automobile franchit une gare de péage sur autoroute. Comment le gabarit d’un véhicule définit le prix de son trajet ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "742d475f9048",
+          "title": "Fête du quadricycle chez Fiat : flopée de nouveaux modèles dont une Topolino 4 places",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2288813-fete-du-quadricycle-chez-fiat-flopee-de-nouveaux-modeles-dont-une-topolino-4-places.html",
+          "category": "ia",
+          "published_at": "2026-07-01T09:42:44+00:00",
+          "summary": "Pour ce début de saison estivale, Fiat est en folie sur les voitures électriques. Enfin, les petites voitures électriques. La marque italienne a dévoilé deux nouvelles versions de sa Topolino ainsi que deux concepts : le Tris Dolcevita et la Multiplina. Voici ce qu'il faut…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "deaf602f742a",
+          "title": "Avatar le Dernier Maitre de l’Air s’écroule sur Netflix, que se passe t-il ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2288793-avatar-le-dernier-maitre-de-lair-secroule-sur-netflix-que-se-passe-t-il.html",
+          "category": "ia",
+          "published_at": "2026-07-01T09:38:00+00:00",
+          "summary": "Le retour d'Aang vire à la douche froide. Positionné en 2024 comme l'un des piliers majeurs du catalogue fantasy de Netflix aux côtés de One Piece et Wednesday, le remake en live-action d’Avatar : Le Dernier Maître de l'Air subit un violent retour de bâton. Les données…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "026840a1ccdb",
+          "title": "Après avoir disparu, GTA 6 est de retour sur Amazon (toujours sous son prix officiel)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2288877-apres-avoir-disparu-gta-6-est-de-retour-sur-amazon-toujours-sous-son-prix-officiel.html",
+          "category": "ia",
+          "published_at": "2026-07-01T09:37:25+00:00",
+          "summary": "GTA 6 est de nouveau précommandable sur Amazon, toujours à 60&nbsp;€ sur PS5 et Xbox Series, soit 20&nbsp;€ sous le tarif officiel de Rockstar. Le jeu avait disparu du site le 26&nbsp;juin 2026, un jour après l’ouverture des précommandes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6543eb42cf40",
+          "title": "On a trouvé des climatiseurs en stock pour braver les prochains pics de chaleur annoncés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288821-on-a-trouve-des-climatiseurs-en-stock-pour-braver-les-prochains-pics-de-chaleur-annonces.html",
+          "category": "ia",
+          "published_at": "2026-07-01T09:01:53+00:00",
+          "summary": "Il devient de plus en plus difficile de trouver des climatiseurs chez les revendeurs, que ce soit en magasin ou en ligne auprès des e-commerçants. Alors que de nouveaux pics de chaleur sont annoncés, partir à la recherche du précieux appareil devient un véritable casse-tête.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f15de6ab4ab3",
+          "title": "Viberate opens music data to ChatGPT, Claude and other AI bots via official MCP server launch – amid ‘AI-first pivot’ for analytics company",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/viberate-opens-music-data-to-chatgpt-claude-and-other-ai-bots-via-official-mcp-server-launch-amid-ai-first-pivot-for-analytics-company/",
+          "category": "ia",
+          "published_at": "2026-07-01T08:52:32+00:00",
+          "summary": "The Model Context Protocol (MCP) lets AI agents connect to outside data sources and act on them\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4cc35a7afe64",
+          "title": "Microsoft lance ses conteneurs WSL (Linux) en préversion",
+          "source": "Next INpact",
+          "url": "https://next.ink/244862/microsoft-lance-ses-conteneurs-wsl-linux-en-preversion/",
+          "category": "ia",
+          "published_at": "2026-07-01T08:32:49+00:00",
+          "summary": "Durant sa conférence Build 2026, Microsoft a présenté «&#160;WSL container&#160;», une intégration native de gestion de conteneurs Linux dans WSL (Windows Subsystem for Linux). L&#8217;outil est désormais disponible en préversion, avec une version finale prévue pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d33a677926f",
+          "title": "TikTok turns Madonna’s Confessions II launch into a global LIVE event, two physical pop-ups, and an in-app fan hub",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktok-turns-madonnas-confessions-ii-launch-into-a-global-live-event-two-physical-pop-ups-and-an-in-app-fan-hub/",
+          "category": "musique",
+          "published_at": "2026-07-01T08:27:11+00:00",
+          "summary": "The centerpiece is the \"iHeartRadio and TikTok LIVE Premiere with Madonna,\" streaming on July 2 from the album's release party in London.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82873af72de6",
+          "title": "Siri AI en Europe : Tim Cook tente d’apaiser les tensions avec la Commission européenne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288737-siri-ai-en-europe-tim-cook-tente-dapaiser-les-tensions-avec-la-commission-europeenne.html",
+          "category": "ia",
+          "published_at": "2026-07-01T08:25:00+00:00",
+          "summary": "Selon les informations du Financial Times, Tim Cook s'est entretenu avec Henna Virkkunen, la responsable du numérique à la Commission européenne, lors d'une réunion qualifiée de « constructive » par les deux parties. Au cœur des discussions : trouver un moyen de lancer Siri AI…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bcf128f8685e",
+          "title": "Orange relance son essai 5G gratuit : 20 Go sont offerts pour tester son réseau",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288771-orange-relance-son-essai-5g-gratuit-20-go-sont-offerts-pour-tester-son-reseau.html",
+          "category": "ia",
+          "published_at": "2026-07-01T08:14:26+00:00",
+          "summary": "Orange relance son opération Hello 5G, qui consiste à offrir 20 Go de data gratuits pendant un mois sans condition d'abonnement, pour tester son réseau 5G -- un bon moyen de pousser l’eSIM et de recruter de nouveaux abonnés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d971239dc7b",
+          "title": "Anthropic lance Claude Sonnet 5 pour rattraper Opus 4.8 à moindre coût",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288761-anthropic-lance-claude-sonnet-5-pour-rattraper-opus-4-8-a-moindre-cout.html",
+          "category": "ia",
+          "published_at": "2026-07-01T08:05:14+00:00",
+          "summary": "Dévoilé le 30 juin 2026, Claude Sonnet 5 veut réduire encore un peu plus l’écart entre les modèles intermédiaires et les références premium d’Anthropic. Plus autonome, plus performant sur les tâches agentiques et moins cher qu’Opus, il devient le nouveau modèle par défaut de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5101d63f25c7",
+          "title": "Le prochain anime du studio de l’Attaque des Titans est une série de SF très prometteuse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2288747-le-prochain-anime-du-studio-de-lattaque-des-titans-est-une-serie-de-sf-tres-prometteuse.html",
+          "category": "ia",
+          "published_at": "2026-07-01T07:48:18+00:00",
+          "summary": "Le studio japonais d’animation Wit a annoncé une nouvelle série prévue pour le printemps 2027. Cet anime de science-fiction, au pitch déjà très prometteur, s’annonce comme une relecture ambitieuse de plusieurs grands thèmes du genre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de92fcca96a3",
+          "title": "« Stop Killing Games » refuse le game over pour les jeux en fin de vie",
+          "source": "Next INpact",
+          "url": "https://next.ink/244884/stop-killing-games-refuse-le-game-over-pour-les-jeux-en-fin-de-vie/",
+          "category": "ia",
+          "published_at": "2026-07-01T07:10:00+00:00",
+          "summary": "Signée par plus d&#8217;un million d&#8217;Européens, la pétition&#160;«&#160;Stop Killing Games » a débouché sur une réponse a minima de la part de la Commission européenne : un code de conduite non contraignant pour l&#8217;industrie du jeu vidéo. Insuffisant, pour le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5269ce2a499",
+          "title": "Orange de nouveau en panne ce mercredi : que sait-on de cette deuxième alerte en trois jours ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288757-panne-orange-les-signalements-explosent-ce-mercredi-1er-juillet.html",
+          "category": "ia",
+          "published_at": "2026-07-01T07:09:30+00:00",
+          "summary": "Deuxième alerte en trois jours pour l'opérateur historique. Ce mercredi matin, les réseaux mobile et fixe d'Orange dysfonctionnent, avec une envolée des signalements sur DownDetector.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f657736ec4ba",
+          "title": "Une tour à 15 274 €, deux GPU AMD et aucun abonnement cloud : on a testé l’IA locale à son maximum [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2286207-une-tour-a-15-274-e-deux-gpu-amd-et-aucun-abonnement-cloud-on-a-teste-lia-locale-a-son-maximum.html",
+          "category": "ia",
+          "published_at": "2026-07-01T07:01:30+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec AMD\n\nUne tour à 15&nbsp;274&nbsp;€ posée sous un bureau, deux cartes graphiques AMD, et l'intégralité d'une chaîne de production logicielle qui tourne sans jamais toucher au cloud. On a voulu savoir ce que permet vraiment une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ec964321f4a",
+          "title": "Claude Fable 5 et Mythos 5 sont de retour : Anthropic rétablit l’accès dans le monde entier",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288725-claude-fable-5-et-mythos-5-sont-de-retour-anthropic-retablit-lacces-dans-le-monde-entier.html",
+          "category": "ia",
+          "published_at": "2026-07-01T06:06:44+00:00",
+          "summary": "19 jours après leur coupure brutale sur ordre de Washington, Claude Fable 5 et Claude Mythos 5 sont de nouveau accessibles. Le département du Commerce américain a levé le 30 juin les contrôles à l'exportation qui bloquaient les deux modèles d'Anthropic, ouvrant la voie à un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e2e19035801",
+          "title": "Claude Sonnet 5 : plus agentique, plus malin et bientôt plus cher",
+          "source": "Next INpact",
+          "url": "https://next.ink/244955/claude-sonnet-5-plus-agentique-plus-malin-et-bientot-plus-cher/",
+          "category": "ia",
+          "published_at": "2026-07-01T06:02:00+00:00",
+          "summary": "Anthropic a dévoilé une mise à jour importante pour son modèle « milieu de gamme » Sonnet, désormais proposé en version 5. Il gagne en capacités agentiques et il est proposé avec un rabais jusqu&#8217;à la fin de l&#8217;été. Anthropic décline ses différents modèles en trois…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fb342f9f33a",
+          "title": "L’un des RPG les plus cultes arrivent enfin sur Nintendo Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2288715-lun-des-rpg-les-plus-cultes-arrivent-enfin-sur-nintendo-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-07-01T05:46:48+00:00",
+          "summary": "Bethesda a officialisé la date de sortie de la version Nintendo Switch 2 de The Elder Scrolls 4: Oblivion Remastered. Le RPG rejoindra le catalogue le 11 août 2026, une date parfaite pour s'occuper pendant les vacances.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a046ad5c57bd",
+          "title": "☕️ Apple veut sauver sa commission App Store devant la Cour suprême",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-veut-sauver-sa-commission-app-store-devant-la-cour-supreme/",
+          "category": "ia",
+          "published_at": "2026-07-01T05:37:33+00:00",
+          "summary": "Ce n&#8217;est plus une saga, c&#8217;est une telenovela. Après avoir essuyé plusieurs refus de la part de la Cour suprême, Apple a fini par obtenir de la plus haute juridiction états-unienne l&#8217;examen d&#8217;une partie sensible du dossier Epic Games. En…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a3f932f3c72",
+          "title": "☕️ Google coupe le robinet des GIF Tenor",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-coupe-le-robinet-des-gifs-tenor/",
+          "category": "ia",
+          "published_at": "2026-07-01T05:09:21+00:00",
+          "summary": "Les GIF animés proposés dans Google Images, Google Messages et le clavier Gboard (sur mobile) proviennent de Tenor, une plateforme achetée en 2018 par le géant du web. Le moteur de recherche n&#8217;avait pas complètement verrouillé le service : une API permettait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4dbc4bbad08",
+          "title": "Lauryn Hill’s Joyful, Joyful Celebration & More Lessons From the 2026 BET Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/lauryn-hill-2026-bet-awards-tribute-pop-shop-podcast-1236285332/",
+          "category": "musique",
+          "published_at": "2026-07-01T00:54:43+00:00",
+          "summary": "On the new Billboard Pop Shop Podcast, Katie &#38; Keith are talking about what other awards shows could learn from Sunday's show.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3da0fd4067d1",
+          "title": "Mexico vs. Ecuador World Cup Livestream: Watch the Knockout Round Soccer Match Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/mexico-ecuador-world-cup-game-livestream-soccer-free-online-1236285566/",
+          "category": "musique",
+          "published_at": "2026-07-01T00:29:47+00:00",
+          "summary": "There are ways to find a live feed of the Mexico vs. Ecuador game online, including ways to livestream the Round of 32 matchup for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6de9c49db55",
+          "title": "Chris Brown Hit With $13 Million Verdict in Housekeeper Dog Attack Trial",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/chris-brown-dog-attack-verdict-housekeeper-wins-13-million/",
+          "category": "ia",
+          "published_at": "2026-07-01T00:18:35+00:00",
+          "summary": "Maria Avila was mauled by a 200-pound dog while working at the star's California home in 2020.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63bfff8286f4",
+          "title": "Lupe Fiasco Claims There Are ‘Hundreds’ of Rappers Better Than Kendrick Lamar: ‘I’ll Name ‘Em’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/lupe-fiasco-kendrick-lamar-hundreds-better-rappers-1236285284/",
+          "category": "ia",
+          "published_at": "2026-07-01T00:16:24+00:00",
+          "summary": "The Chicago MC thinks there are rappers who are better lyricists than their mainstream counterparts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "770e35d761bb",
+          "title": "From ‘Dime-a-Dance’ to Hosting U2 & Bob Dylan: How Cain’s Ballroom in Tulsa Has Endured for Over a Century",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/indie-venue-of-the-month-june-2026-cains-ballroom-tulsa/",
+          "category": "ia",
+          "published_at": "2026-07-01T00:09:31+00:00",
+          "summary": "Starting as a dance academy, the venue went through various owners before getting new life under the stewardship of a local family.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7536bd320c9",
+          "title": "Madonna Gifting Fans an Early Listen of ‘Confessions II’ Album Through Thursday Livestream: All the Details",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madonna-preview-confessions-album-livestream-1236285561/",
+          "category": "musique",
+          "published_at": "2026-07-01T00:01:50+00:00",
+          "summary": "Madonna will sit down with Bob the Drag Queen, Stuart Price &#38; her daughter Lola Leon on the \"iHeartRadio and TikTok Live Premiere.\"",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-06-30",
       "articles": [
+        {
+          "id": "8c756393c0cb",
+          "title": "Jermaine Jackson Voids $6.5 Million Rape Judgment, Will Now Fight Lawsuit in Court",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/jermaine-jackson-voids-assault-judgment-fight-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-06-30T23:28:23+00:00",
+          "summary": "A judge says the Jackson 5 member was not properly served before being hit with a default judgment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5051e4ee045",
+          "title": "Tems Scores Fourth No. 1 on Mainstream R&B/Hip-Hop Airplay Chart With ‘What You Need’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/tems-what-you-need-number-1-rb-hip-hop-airplay-radio-chart-1236285467/",
+          "category": "ia",
+          "published_at": "2026-06-30T22:25:34+00:00",
+          "summary": "The singer's back in the summit for the first time since 2022.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eab8afb46825",
+          "title": "Randy Rainbow Drags ‘Dumbf–k Tyrant’ Donald Trump in Jazzy Song Parody Amid Iran War Discontent",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/randy-rainbow-demented-donald-trump-song-parody-1236285328/",
+          "category": "ia",
+          "published_at": "2026-06-30T22:23:07+00:00",
+          "summary": "\"Time to resign,\" the comedian sings to the tune of a Cole Porter classic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8c5ac3f8cc1",
+          "title": "Ces six failles dans AirDrop et Quick Share permettent de faire planter des appareils à proximité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2288425-ces-six-failles-dans-airdrop-et-quick-share-permettent-de-faire-planter-des-appareils-a-proximite.html",
+          "category": "ia",
+          "published_at": "2026-06-30T19:10:00+00:00",
+          "summary": "Deux chercheurs allemands ont mis au jour six vulnérabilités dans les fonctionnalités de partage sans fil d'Apple et de Google/Samsung. De quoi faire planter des appareils à proximité, sans aucune interaction de la victime.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d730356eb3b0",
+          "title": "France – Suède : pourquoi vos voisins voient les buts avant vous (et comment limiter l’écart) ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1980935-coupe-du-monde-pourquoi-vos-voisins-voient-les-buts-avant-vous-et-comment-limiter-lecart.html",
+          "category": "ia",
+          "published_at": "2026-06-30T18:28:42+00:00",
+          "summary": "Pendant toute la Coupe du monde 2026, des dizaines de millions de Français vont suivre les matchs de l'équipe de France et les plus grandes affiches du tournoi. Tous ont une crainte : se faire spoiler par un hurlement, des applaudissements ou un klaxon. Voici nos conseils pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1daad9d04a6",
+          "title": "South Korea’s FTC opens probe into HYBE and ADOR over NewJeans’ Danielle",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/south-koreas-ftc-opens-probe-into-hybe-and-ador-over-newjeans-danielle/",
+          "category": "ia",
+          "published_at": "2026-06-30T18:20:04+00:00",
+          "summary": "Danielle's attorney, Jung Jong-chae, who filed the complaint, said the FTC began investigating on June 4.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44daba0e402d",
+          "title": "Primary Wave pumps $100M+ into Atticus Works, a new literary and theatrical catalog acquisition company",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/primary-wave-pumps-100m-into-atticus-works-a-new-literary-and-theatrical-catalog-acquisition-company/",
+          "category": "musique",
+          "published_at": "2026-06-30T18:15:40+00:00",
+          "summary": "Allen &#038; Company LLC acted as financial advisor to Primary Wave Music in connection with the transaction\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "519bd32d3200",
+          "title": "US senators revive bill that would force AI-generated audio, video and images to carry labels",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-senators-revive-bill-to-force-ai-generated-audio-video-and-images-to-carry-labels/",
+          "category": "musique",
+          "published_at": "2026-06-30T18:03:13+00:00",
+          "summary": "Songwriters and SAG-AFTRA line up behind revived US bill to label AI-generated audio, video and images \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "923dadc8c5a8",
+          "title": "Virgin Music Group unveils new global leadership team across six regions, integrating Downtown executives",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/virgin-music-group-unveils-new-global-leadership-team-across-six-regions-integrating-downtown-executives/",
+          "category": "musique",
+          "published_at": "2026-06-30T17:56:40+00:00",
+          "summary": "It follows VMG's $775 million acquisition of Downtown, which completed in February.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c77313776e1",
+          "title": "Spotify bundles three months of Premium with Vodafone Idea’s postpaid plans in its first Indian telco partnership",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-bundles-three-months-of-premium-with-vodafone-ideas-postpaid-plans-in-its-first-indian-telco-partnership/",
+          "category": "ia",
+          "published_at": "2026-06-30T17:43:53+00:00",
+          "summary": "Vi postpaid customers on eligible plans receive three months of Spotify Premium at no extra cost.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "082ea40635e9",
+          "title": "Pourquoi l’aluminium est en train de remplacer le cuivre dans les voitures électriques ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2288427-pourquoi-laluminium-est-en-train-de-remplacer-le-cuivre-dans-les-voitures-electriques.html",
+          "category": "ia",
+          "published_at": "2026-06-30T17:36:00+00:00",
+          "summary": "De la Ferrari Luce aux Tesla, plusieurs constructeurs ont remplacé le câblage en cuivre par de l’aluminium. Quel est l’impact de ce choix dans le secteur automobile&nbsp;? &nbsp;&nbsp;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "208a3d064f2c",
+          "title": "Ne téléchargez pas Meccha Chameleon sur Android",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288599-ne-telechargez-pas-meccha-chameleon-sur-android.html",
+          "category": "ia",
+          "published_at": "2026-06-30T16:08:15+00:00",
+          "summary": "Véritable phénomène sur Steam depuis son lancement le 10 juin 2026, Meccha Chameleon est en train de devenir le jeu de l'été. Son concept original et son prix très accessible à moins de 10 € lui ont permis de dépasser la barre des 10 millions de ventes en l'espace de quelques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f5fa2b1f93e",
+          "title": "Mémoire et stockage : jusqu’à x5 sur les prix en 18 mois",
+          "source": "Next INpact",
+          "url": "https://next.ink/244708/memoire-et-stockage-jusqua-x5-sur-les-prix-en-18-mois/",
+          "category": "ia",
+          "published_at": "2026-06-30T15:56:33+00:00",
+          "summary": "On parle souvent des hausses de prix sur les composants, mais savez-vous à quel point elle est importante ? Nous suivons depuis 18 mois les prix d’une quarantaine de composants chez deux revendeurs. Sur la mémoire, ils sont multipliés par quatre en moyenne selon nos relevés, par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd5b6e9c70a0",
+          "title": "☕️ Apple tente de colmater les fuites autour de l’iPhone 18 Pro",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-tente-de-colmater-les-fuites-autour-de-liphone-18-pro/",
+          "category": "ia",
+          "published_at": "2026-06-30T15:48:08+00:00",
+          "summary": "Le vol de données subi par Tata Electronics se transforme en cauchemar pour Apple. Les documents confidentiels concernant les appareils du constructeur, tout particulièrement l&#8217;iPhone 18 Pro, ont dépassé les frontières du «&#160;dark web » pour se retrouver un peu partout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3a5ac9308b4",
+          "title": "Double événement sur Prime Video : les dates de Reacher saison 4 et du spin-off Neagley dévoilées",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2288569-double-evenement-sur-prime-video-les-dates-de-reacher-saison-4-et-du-spin-off-neagley-devoilees.html",
+          "category": "ia",
+          "published_at": "2026-06-30T15:42:37+00:00",
+          "summary": "Le colosse d'Amazon est déjà de retour. Prime Video vient de secouer le monde des séries en officialisant la date de sortie de la saison 4 de Reacher : ce sera à la fin de l'été 2026. Mieux encore : Amazon a planifié un calendrier de diffusion révolutionnaire pour enchaîner…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a53826231936",
+          "title": "Ce mod de Hollow Knight: Silksong entend être la version ultime du jeu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2288453-ce-mod-de-hollow-knight-silksong-entend-etre-la-version-ultime-du-jeu.html",
+          "category": "ia",
+          "published_at": "2026-06-30T15:30:50+00:00",
+          "summary": "Un collectif de modders travaille sur une version ultime du chef-d'œuvre Hollow Knight: Silksong, rebaptisé Hollow Knight: Silksoul. Au menu, notamment : la restauration de portions abandonnées par les développeurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf4e13c719b6",
+          "title": "☕️ Voici LinuxMD, un Linux pour… la Mega Drive",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/voici-linuxmd-un-linux-pour-la-mega-drive/",
+          "category": "ia",
+          "published_at": "2026-06-30T15:05:59+00:00",
+          "summary": "Ce n’est pas une plaisanterie : le développeur Daniel Palmer propose sur GitHub une distribution visant la Mega Drive, la vénérable console que Sega avait lancé dans nos contrées en 1990 (aussi commercialisée sous le nom Genesis aux États-Unis). Elle avait alors provoqué un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a39f8ad00ec",
+          "title": "Derrière Shein et Temu, NordVPN, roi des sponsos tech sur les réseaux sociaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/244879/derriere-shein-et-temu-nordvpn-roi-des-sponsos-tech-sur-les-reseaux-sociaux/",
+          "category": "ia",
+          "published_at": "2026-06-30T14:12:56+00:00",
+          "summary": "Avec son nouvel Observatoire des pratiques de l’influence, l’association Paye ton influence éclaire les pratiques publicitaires des marques de grande consommation. Que ce soit en matière de partenariats avec des influenceurs ou de publications sponsorisées, les géants de l’ultra…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f39b3b1978a",
+          "title": "La France abandonne sa taxe sur les petits colis, l’Union européenne prend le relais",
+          "source": "Next INpact",
+          "url": "https://next.ink/243853/la-france-abandonne-sa-taxe-sur-les-petits-colis-lunion-europeenne-prend-le-relais/",
+          "category": "ia",
+          "published_at": "2026-06-30T13:40:15+00:00",
+          "summary": "À partir du mercredi 1ᵉʳ&#160;juillet, les «&#160;petits colis » provenant de Chine ou d&#8217;ailleurs vont coûter plus cher. Une taxe de 3&#160;euros va en effet s&#8217;appliquer sur les colis d&#8217;un montant d&#8217;une valeur inférieure à 150&#160;euros entrant dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d44fbf3cef6f",
+          "title": "Comment la Corée du Sud veut doubler sa capacité de production de RAM d’ici cinq ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/244738/comment-la-coree-du-sud-veut-doubler-sa-capacite-de-production-de-ram-dici-cinq-ans/",
+          "category": "institutionnel",
+          "published_at": "2026-06-30T12:56:01+00:00",
+          "summary": "Entouré des représentants de Samsung et de SK hynix, le président sud-coréen Lee Jae Myung a annoncé lundi un plan d&#8217;investissement public privé sans précédent. Il doit permettre de doubler la capacité de production de mémoire vive du pays d&#8217;ici cinq ans, mais aussi…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "822c1e7d701a",
           "title": "Véhicules connectés : la CNIL publie sa recommandation sur l’utilisation des données de localisation",
