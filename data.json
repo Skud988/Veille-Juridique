@@ -1,9 +1,504 @@
 {
-  "generated_at": "2026-07-01T11:33:04.930773+00:00",
+  "generated_at": "2026-07-02T11:01:33.122469+00:00",
   "days": [
+    {
+      "date": "2026-07-02",
+      "articles": [
+        {
+          "id": "0f458f8b6549",
+          "title": "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/jeux-argent-hasard-application-rgpd",
+          "category": "cnil",
+          "published_at": "2026-07-02T12:00:00+00:00",
+          "summary": "Les opérateurs de jeux d’argent et de hasard doivent concilier les exigences du RGPD avec leurs obligations sectorielles. Pour accompagner les acteurs dans cette démarche, l’ANJ a élaboré, en concertation avec la CNIL, un guide apportant des repères pratiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17afb4f12277",
+          "title": "Comment une faille chez Apple a exposé les adresses mail que « Hide My Email » est censé cacher",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2289711-comment-une-faille-chez-apple-a-expose-les-adresses-mail-que-hide-my-email-est-cense-cacher.html",
+          "category": "ia",
+          "published_at": "2026-07-02T11:00:00+00:00",
+          "summary": "Depuis plus d'un an, Apple serait en connaissance d'une vulnérabilité permettant à quiconque de retrouver l'adresse réelle derrière un alias généré par la fonction de confidentialité d'iCloud+. La marque ne l'a pas corrigé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d78b4bbb3f2",
+          "title": "Warner’s ADA Central Europe strikes exclusive distribution deal with Berlin label AIM Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warners-ada-central-europe-strikes-exclusive-distribution-deal-with-berlin-label-aim-music/",
+          "category": "musique",
+          "published_at": "2026-07-02T10:46:41+00:00",
+          "summary": "ADA Central Europe will handle global distribution, streaming strategy, and marketing across AIM Music's full roster.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34061180fe57",
+          "title": "Exceleration Music acquires catalog of Japan’s Ryuichi Sakamoto in joint venture with Tokyo-based NexTone",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/exceleration-music-acquires-catalog-of-japans-ryuichi-sakamoto-in-joint-venture-with-tokyo-based-nextone/",
+          "category": "musique",
+          "published_at": "2026-07-02T10:39:33+00:00",
+          "summary": "Exceleration will manage and collect income from Sakamoto's rights outside Asia, while NexTone will handle the catalog within Japan.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b10147094cc",
+          "title": "☕️ Google vs Europe : la CJUE confirme l’amende de 4,1 milliards d’euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-vs-europe-la-cjue-confirme-lamende-de-41-milliards-deuros/",
+          "category": "ia",
+          "published_at": "2026-07-02T10:36:41+00:00",
+          "summary": "La Cour de justice de l&#8217;Union européenne (CJUE) a annoncé [PDF] avoir validé l&#8217;amende de 4,1 milliards d’euros qui avait été infligée à Google pour abus de position dominante. L&#8217;entreprise avait été accusée par la Commission européenne d&#8217;imposer son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47089925490d",
+          "title": "Neuralink parvient à insérer son implant sans découper la membrane protectrice du cerveau",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2288825-neuralink-parvient-a-inserer-son-implant-sans-decouper-la-membrane-protectrice-du-cerveau.html",
+          "category": "ia",
+          "published_at": "2026-07-02T10:30:00+00:00",
+          "summary": "Neuralink a annoncé avoir réussi à insérer un implant dans le cerveau d'un humain, sans abimer une structure protectrice, appelée la dure-mère. Le robot de la startup a inséré ses microfils directement à travers cette membrane.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d03fddfaf7e",
+          "title": "Après le succès de Backrooms, Warner s’attaque au terrifiant Siren Head",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289713-apres-le-succes-de-backrooms-warner-sattaque-au-terrifiant-siren-head.html",
+          "category": "ia",
+          "published_at": "2026-07-02T10:15:00+00:00",
+          "summary": "Le cinéma d'horreur a trouvé sa nouvelle mine d'or. Alors que les films de super-héros s'essoufflent, le triomphe planétaire de&nbsp;Backrooms&nbsp;au box-office prouve que les légendes urbaines d'internet sont devenues les nouveaux blockbusters d'Hollywood. Face à ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0afe65ce540",
+          "title": "Uber : cinq chauffeurs de VTC déposent plainte pour traite d’êtres humains",
+          "source": "Next INpact",
+          "url": "https://next.ink/245429/uber-cinq-chauffeurs-de-vtc-deposent-plainte-pour-traite-detres-humains/",
+          "category": "musique",
+          "published_at": "2026-07-02T10:13:00+00:00",
+          "summary": "Cinq chauffeurs de VTC ont déposé plainte pour traite d’êtres humains contre Uber, une action qui vient s’ajouter à celle de quatre livreurs contre Uber Eats et Deliveroo. Cinq chauffeurs de VTC ont déposé plainte au pénal contre Uber. D’après les informations de Libération, ils…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f609d96bb0b1",
+          "title": "Scale Your Payouts, Match Your Ambition",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/scale-your-payouts-match-your-ambition/",
+          "category": "musique",
+          "published_at": "2026-07-02T10:05:02+00:00",
+          "summary": "The global music industry generates over $100B in annual revenue, driven by billions of royalty streams per day. Companies that win internationally don’t just sign the best A&#38;R. They deploy [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf49a4056f55",
+          "title": "La France et l’Espagne sont les deux pays finalistes pour accueillir la deuxième usine européenne de BYD",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2289705-la-france-et-lespagne-sont-les-deux-pays-finalistes-pour-accueillir-la-deuxieme-usine-europeenne-de-byd.html",
+          "category": "ia",
+          "published_at": "2026-07-02T09:50:00+00:00",
+          "summary": "La prochaine usine de BYD ne sera pas construite de zéro, mais bien déjà sur pied. Le constructeur chinois va prendre le contrôle d'un site de production d'une autre marque en Europe et doit bientôt annoncer l'endroit choisi. Deux pays se dessinent : la France et l'Espagne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16e32cf4a185",
+          "title": "TF1 et Canal+ se disputent encore : chaines supprimées, attaques publiques… Que se passe-t-il entre les deux groupes ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289567-tf1-et-canal-se-disputent-encore-chaines-supprimees-attaques-publiques-que-se-passe-t-il-entre-les-deux-groupes.html",
+          "category": "ia",
+          "published_at": "2026-07-02T09:42:00+00:00",
+          "summary": "Depuis le 30 juin 2026, Canal+ ne distribue plus trois chaînes thématiques de TF1 : TV Breizh, Histoire TV et Ushuaïa TV. Il ne s'agit pas de la fin d'un contrat : les deux entreprises ont publié des communiqués dans lesquelles elles se renvoient la faute. Depuis huit ans,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a58a645d8d7",
+          "title": "Cdiscount divise par deux le prix du ventilateur purificateur Rowenta pendant les soldes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289701-cdiscount-divise-par-deux-le-prix-du-ventilateur-purificateur-rowenta-pendant-les-soldes.html",
+          "category": "ia",
+          "published_at": "2026-07-02T09:40:38+00:00",
+          "summary": "[Deal du jour] En plus des fortes chaleurs qui s'installent, l'air intérieur a tendance à s'alourdir de poussières et de pollens. Pour y remédier de manière efficace, le ventilateur purificateur 2-en-1 Rowenta Eclipse est à moitié prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fee356299321",
+          "title": "☕️ Le support du décodage vidéo via Vulkan arrive enfin dans Firefox",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-support-du-decodage-video-via-vulkan-arrive-enfin-dans-firefox/",
+          "category": "ia",
+          "published_at": "2026-07-02T09:39:21+00:00",
+          "summary": "C’est une excellente nouvelle pour les utilisateurs sur Linux&#160;: le navigateur de Mozilla va enfin se doter d’une vraie solution de décodage matériel en utilisant Vulkan, comme relevé par Phoronix. Historiquement, Mozilla désactive par défaut le décodage vidéo matériel pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "623be7c31c8f",
+          "title": "Le climatiseur Lidl à 179 € provoque la cohue : le jeu en vaut-il vraiment la chandelle ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289595-le-climatiseur-lidl-a-179-e-provoque-la-cohue-le-jeu-en-vaut-il-vraiment-la-chandelle.html",
+          "category": "ia",
+          "published_at": "2026-07-02T09:35:00+00:00",
+          "summary": "Lidl a remis en rayon ce 2 juillet 2026, 200 000 appareils de ventilation et de climatisation, dont un climatiseur mobile Tronic vendu 179 €. Un prix très agressif, pile avant la prochaine vague de chaleur, mais qui ne doit pas faire oublier les limites bien connues de ce type…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05d57f0bd575",
+          "title": "David Rowntree responds to appeals ruling over PRS for Music class action",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/david-rowntree-responds-to-appeals-ruling-over-prs-for-music-class-action/",
+          "category": "ia",
+          "published_at": "2026-07-02T09:29:55+00:00",
+          "summary": "Musician David Rowntree has responded to the news of his lost appeal against a ruling concerning his class-action against PRS for Music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9c692afe45f",
+          "title": "Les Minions ont-ils travaillé pour Hitler ? Le réalisateur répond sérieusement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289561-les-minions-ont-ils-travaille-pour-hitler-le-realisateur-repond-serieusement.html",
+          "category": "ia",
+          "published_at": "2026-07-02T09:20:00+00:00",
+          "summary": "C'est la théorie du complot la plus célèbre et la plus sombre de l'histoire de l'animation. Depuis plus de dix ans, une question taraude les internautes : si le destin des Minions est de servir le pire méchant de la planète, qu'ont-ils fait entre 1939 et 1945 ? À l'occasion de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "777d92c86bd4",
+          "title": "Les meilleures applications contre le démarchage téléphonique (elles raccrochent pour vous)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2179497-vous-en-avez-marre-des-arnaques-et-du-demarchage-telephonique-installez-ces-applications.html",
+          "category": "ia",
+          "published_at": "2026-07-02T09:19:32+00:00",
+          "summary": "Alors que le démarchage téléphonique s'intensifie et que l'intelligence artificielle générative permet à des bots de simuler des appels, de nombreuses solutions émergent pour éliminer les appels indésirables en empêchant son téléphone de sonner. Voici une sélection de logiciels…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d186fde4729",
+          "title": "AI-powered platform Eros Music Worlds is turning film characters into virtual singers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/ai-powered-platform-eros-music-worlds-is-turning-film-characters-into-virtual-singers/",
+          "category": "ia",
+          "published_at": "2026-07-02T09:15:34+00:00",
+          "summary": "In May, we at Music Ally South Asia were taken aback when we saw a job listing on Instagram for an ‘AI music creator’. Among the requirements for the job—which [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61c853b38a7d",
+          "title": "Le Data Privacy Framework remis en question par la fin de l’indépendance de la FTC",
+          "source": "Next INpact",
+          "url": "https://next.ink/245274/le-data-privacy-framework-remis-en-question-par-la-fin-de-lindependance-de-la-ftc/",
+          "category": "ia",
+          "published_at": "2026-07-02T09:14:42+00:00",
+          "summary": "La Cour suprême américaine vient de statuer que Donald Trump peut révoquer les dirigeants des agences états-uniennes comme la FTC quand il le veut. L&#8217;association noyb et le député Philippe Latombe y voient une incompatibilité avec l&#8217;accord Data Privacy…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97b9d49c3a75",
+          "title": "C’est la fin de TV Time : par quoi remplacer l’application ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289557-cest-la-fin-de-tv-time-par-quoi-remplacer-lapplication.html",
+          "category": "ia",
+          "published_at": "2026-07-02T08:38:55+00:00",
+          "summary": "TV Time va fermer ses portes le 15 juillet 2026. L’application, devenue incontournable pour suivre ses séries, laisse derrière elle une communauté qui doit désormais trouver d’autres solutions pour conserver son historique et organiser ses prochains visionnages.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ddd3ec5670d0",
+          "title": "Xbox a peut-être une solution miracle pour sauver vos jeux vidéo physiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289545-xbox-a-peut-etre-une-solution-miracle-pour-sauver-vos-jeux-video-physiques.html",
+          "category": "ia",
+          "published_at": "2026-07-02T08:15:32+00:00",
+          "summary": "Alors que Sony vient d'acter la fin des jeux physiques PlayStation pour l'horizon 2028, Microsoft aurait la volonté de lancer une technologie qui pourrait convertir des disques au format numérique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cea6759af082",
+          "title": "Proton lance son assistant IA Lumo 2.0 avec génération d’images et mémoire",
+          "source": "Next INpact",
+          "url": "https://next.ink/245328/proton-lance-son-assistant-ia-lumo-2-0-avec-generation-dimages-et-memoire/",
+          "category": "ia",
+          "published_at": "2026-07-02T07:58:58+00:00",
+          "summary": "L’éditeur suisse passe la seconde avec la nouvelle version majeure de son LLM et de l’assistant qui l’accompagne. Lumo 2.0 marque surtout un gros rattrapage sur les produits existants, avec des fonctions comme la mémoire et la recherche sur le web. Proton a lancé la première…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3c90d99836e",
+          "title": "L’anime The Ghost in the Shell débarque au cinéma avant sa sortie sur Prime Video",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289535-les-episodes-de-lanime-the-ghost-in-the-shell-sortiront-au-cinema-avant-le-streaming.html",
+          "category": "justice",
+          "published_at": "2026-07-02T07:34:29+00:00",
+          "summary": "Avant même sa diffusion sur Amazon Prime Video, le très attendu nouvel anime The Ghost in the Shell s'offre une sortie au cinéma. Les deux premiers épisodes de la série seront projetés en avant-première dans les salles obscures de France les 4 et 5 juillet 2026, quelques jours…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8aef08b96bf",
+          "title": "Des centaines de journalistes poussés vers la porte, souvent au prétexte de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/244754/des-centaines-de-journalistes-pousses-vers-la-porte-souvent-au-pretexte-de-lia/",
+          "category": "ia",
+          "published_at": "2026-07-02T07:10:28+00:00",
+          "summary": "Ces derniers mois, plusieurs groupes de médias ont annoncé des centaines de suppressions de postes, et certains vouloir remplacer journalistes et secrétaires de rédaction par des IA. Deux tiers des journalistes du Quotidien du médecin, le média de référence de la profession, ont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c1251ebae60",
+          "title": "☕️ Sony annonce la fermeture du PlayStation Store pour PS3 et PS Vita",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sony-annonce-la-fermeture-du-playstation-store-pour-ps3-et-ps-vita/",
+          "category": "ia",
+          "published_at": "2026-07-02T06:34:00+00:00",
+          "summary": "La PS3 et la PS Vita vont symboliquement tirer leur révérence : les appareils et leurs jeux physiques restent en théorie fonctionnels, mais les deux consoles vont perdre leur PlayStation Store et donc la capacité à télécharger de nouveaux jeux de façon dématérialisée.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fe1a340aab3",
+          "title": "La CNIL régule enfin l’utilisation des données de localisation des véhicules connectés",
+          "source": "Next INpact",
+          "url": "https://next.ink/244998/la-cnil-regule-enfin-lutilisation-des-donnees-de-localisation-des-vehicules-connectes/",
+          "category": "ia",
+          "published_at": "2026-07-02T06:10:00+00:00",
+          "summary": "Alors que la localisation est une donnée centrale dans l’écosystème du véhicule connecté tout en étant très sensible, la CNIL vient tout juste de publier des recommandations que devront suivre aussi bien les constructeurs automobiles, les gestionnaires de flottes, que les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c524e9fd1515",
+          "title": "T.I. and Tiny’s Legal Win Capped at $18 Million Following Latest OMG Girlz Doll Trial",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ti-tiny-legal-win-capped-omg-girlz-doll-trial/",
+          "category": "musique",
+          "published_at": "2026-07-02T00:17:13+00:00",
+          "summary": "The music power couple was denied punitive damages at the fourth trial in their long-running battle with toy company MGA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0a0a069508c",
+          "title": "Pooh Shiesty Case: Prosecution Unveils New Evidence, Says Rapper Filmed Gucci Mane Robbery",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/pooh-shiesty-case-evidence-gucci-mane-robbery-video/",
+          "category": "ia",
+          "published_at": "2026-07-02T00:12:47+00:00",
+          "summary": "The new evidence was released after Shiesty's attorneys filed a motion to review the \"Back in Blood\" rapper's bail request.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-01",
       "articles": [
+        {
+          "id": "3c643f2382aa",
+          "title": "Clive Davis Goes In-Depth on His Career, Arista Ouster & More in Interview Taped Last December",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/clive-davis-interview-music-career-ex-arista-exec/",
+          "category": "musique",
+          "published_at": "2026-07-01T23:39:14+00:00",
+          "summary": "The music icon was interviewed by former Arista executive Rick Bleiweiss.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8895ea7a8df",
+          "title": "Billboard China, Billboard Korea & Tencent Music Reveal Winners of Cross-Market K-Artists Initiative",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/billboard-china-korea-tencent-music-winners-k-artists-1236286360/",
+          "category": "musique",
+          "published_at": "2026-07-01T23:04:29+00:00",
+          "summary": "Projects by SEVENTEEN, i-dle, THE8 and NINGNING won in fan voting across four categories.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bec8194f86a9",
+          "title": "Taylor Swift & Travis Kelce Wedding Is Happening at New York’s Madison Square Garden, Law Enforcement Official Says",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/taylor-swift-travis-kelce-wedding-madison-square-garden-nyc-1236286311/",
+          "category": "ia",
+          "published_at": "2026-07-01T22:46:39+00:00",
+          "summary": "The event is happening at the arena on Friday night, preceded by a Thursday rehearsal dinner, a law enforcement official tells AP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "187a1b0c1399",
+          "title": "India.Arie Isn’t a Fan of Yung Miami’s ‘Spend Dat’: ‘Everything You Listen To, See or Hear Is Going to Influence You’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/india-arie-yung-miami-spend-dat-reaction-1236286109/",
+          "category": "ia",
+          "published_at": "2026-07-01T22:34:31+00:00",
+          "summary": "The Grammy-winning singer replied to a post on Threads calling for people to boycott the song.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e17e5b8eb52f",
+          "title": "Discuter sans numéro sur WhatsApp : voici les pièges à éviter avec les noms d’utilisateurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2289309-discuter-sans-numero-sur-whatsapp-voici-les-pieges-a-eviter-avec-les-noms-dutilisateurs.html",
+          "category": "ia",
+          "published_at": "2026-07-01T19:10:00+00:00",
+          "summary": "WhatsApp permet désormais de discuter sur la messagerie sans dévoiler son numéro de téléphone. Un vrai progrès pour la confidentialité, mais qui déplace la question ailleurs : celle de la confiance que l'on accorde à un pseudo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90a7817ff4a4",
+          "title": "Assemblage horizontal puis vertical : la nouvelle stratégie de Blue Origin face à SpaceX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2289153-assemblage-horizontal-puis-vertical-la-nouvelle-strategie-de-blue-origin-face-a-spacex.html",
+          "category": "ia",
+          "published_at": "2026-07-01T17:50:00+00:00",
+          "summary": "Les opérations de reconstruction ont démarré à Cap Canaveral, un peu plus d'un mois après la spectaculaire explosion de la fusée New Glenn fin mai 2026. L'occasion pour l'entreprise de repartir sur de nouvelles bases, avec des méthodes qui changent de ce que propose son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d5d70baa609",
+          "title": "Spotify rival Anghami receives take-private offer from its controlling shareholder",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-rival-anghami-receives-take-private-offer-from-its-controlling-shareholder/",
+          "category": "musique",
+          "published_at": "2026-07-01T17:42:04+00:00",
+          "summary": "OSN Streaming is proposing to buy each ordinary share it does not already own in Anghami for $3.39 in cash, which would cost a little over $10 million.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a6000ceef83",
+          "title": "On a testé le Shark ChillPill, le meilleur allié possible contre la canicule dans les transports",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289221-on-a-teste-le-shark-chillpill-le-meilleur-allie-possible-contre-la-canicule-dans-les-transports.html",
+          "category": "ia",
+          "published_at": "2026-07-01T17:00:00+00:00",
+          "summary": "Connu pour ses aspirateurs et ses appareils capillaires, Shark s'attaque à nos étés avec le ChillPill. Ce n'est pas un simple ventilateur de poche, mais un système de refroidissement nomade 3-en-1 incluant un brumisateur thermique et une plaque cryogénique. Gadget de luxe ou…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73515b8a36dc",
+          "title": "Sony abandonne les disques PlayStation : les 8 questions que l’on se pose",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289235-sony-abandonne-les-disques-playstation-les-8-questions-que-lon-se-pose.html",
+          "category": "ia",
+          "published_at": "2026-07-01T15:45:07+00:00",
+          "summary": "Le 1er juillet 2026, Sony a annoncé mettre fin aux nouveaux jeux PlayStation sur disque dès 2028. Prix, occasion, rétrocompatibilité, prêt, connexion, sécurité : cette bascule vers le tout-numérique soulève bien plus de questions qu’elle n’apporte de réponses.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7812adc53d99",
+          "title": "SFR active par défaut sa « navigation protégée » basée sur un filtrage DNS",
+          "source": "Next INpact",
+          "url": "https://next.ink/244990/sfr-active-par-defaut-sa-navigation-protegee-basee-sur-un-filtrage-dns/",
+          "category": "ia",
+          "published_at": "2026-07-01T14:55:54+00:00",
+          "summary": "SFR communique en direction de ses clients pour annoncer la mise en place d&#8217;un nouveau service de «&#160;navigation protégée&#160;», censé bloquer l&#8217;accès aux sites problématiques. Il prend la forme d&#8217;un filtrage DNS, opéré à partir des données d&#8217;un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06e673d325c8",
+          "title": "La Volkswagen Polo électrique à 25 000 euros est là : mieux que la Renault 5 pour le même prix ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2289135-la-volkswagen-polo-electrique-a-25-000-euros-est-la-mieux-que-la-renault-5-pour-le-meme-prix.html",
+          "category": "ia",
+          "published_at": "2026-07-01T14:20:00+00:00",
+          "summary": "Volkswagen lance enfin la commercialisation de la version à moins de 25 000 € de la Polo. Équipée d'une batterie LFP de 37 kWh, la citadine revendique 329 km d'autonomie. Mais à ce prix, quels équipements sont livrés de série ? C'est ce que nous allons voir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40f93fbc36ca",
+          "title": "« Nous ne pouvons pas faire confiance aux utilisateurs intensifs d’IA » : Godot bannit les contributions automatisées de son code open source",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289151-nous-ne-pouvons-pas-faire-confiance-aux-utilisateurs-intensifs-dia-godot-bannit-les-contributions-automatisees-de-son-code-open-source.html",
+          "category": "ia",
+          "published_at": "2026-07-01T14:05:00+00:00",
+          "summary": "Débordée par l’afflux de pull requests de faible qualité, la Fondation Godot, à l’origine du moteur de jeu vidéo open source et gratuit utilisé pour créer des jeux 2D et 3D, a décidé de durcir sa politique de contribution, allant jusqu’à bannir le code généré par des agents IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7859269aafdb",
+          "title": "Latin Music star Ricardo Montaner sues Universal Music over masters to five albums",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/latin-music-star-ricardo-montaner-sues-universal-music-over-masters-to-five-albums/",
+          "category": "musique",
+          "published_at": "2026-07-01T14:04:52+00:00",
+          "summary": "The Argentine-Venezuelan singer filed suit in both the US and Venezuela, alleging that UMG is claiming to own five albums he recorded from 1986 to 1992.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ac0c45545cf",
+          "title": "Dans l’ombre de Mythos et Fable ressuscités, la Chine progresse rapidement",
+          "source": "Next INpact",
+          "url": "https://next.ink/245038/dans-lombre-de-mythos-et-fable-ressuscites-la-chine-progresse-rapidement/",
+          "category": "ia",
+          "published_at": "2026-07-01T14:01:00+00:00",
+          "summary": "Anthropic l’a annoncé le 30 juin&#160;: Mythos 5 est de retour et Fable 5 à partir de ce 1ᵉʳ&#160;juillet. L’entreprise s’explique dans un billet, mais elle a perdu un temps précieux face à la Chine et ses modèles à poids ouvert. L’image d’Anthropic est également entachée par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c2ede4382c1",
+          "title": "L’Odyssée : date de sortie, casting, trailer final, tout savoir sur le film de Nolan",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1872550-lodyssee-tout-savoir-sur-le-film-de-christopher-nolan.html",
+          "category": "ia",
+          "published_at": "2026-07-01T13:52:00+00:00",
+          "summary": "Le réalisateur des films cultes Interstellar et Oppenheimer s'est lancé dans un nouveau chantier titanesque : une adaptation de L'Odyssée du poète Homère. Date de sortie, casting, trailer... Voici tout ce que l'on sait déjà sur ce long-métrage épique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc32b8c35455",
+          "title": "Lidl remet 200 000 ventilateurs et climatiseurs en rayon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289169-lidl-remet-200-000-ventilateurs-en-rayon.html",
+          "category": "ia",
+          "published_at": "2026-07-01T13:34:08+00:00",
+          "summary": "Alors qu’un nouvel épisode de chaleur se profile en France pour la semaine du 6 juillet 2026, et que les rayons se vident partout, Lidl remet 200&nbsp;000 ventilateurs et climatiseurs en magasin dès cette semaine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "69fbe0a58c1a",
+          "title": "La Californie taxera-t-elle ses milliardaires (de la tech) ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/245014/la-californie-taxera-t-elle-ses-milliardaires-de-la-tech/",
+          "category": "ia",
+          "published_at": "2026-07-01T13:32:00+00:00",
+          "summary": "En novembre, la population californienne devra voter sur un projet de taxation de ses milliardaires. Retour sur les enjeux. La Californie adoptera-t-elle une taxe sur le patrimoine des milliardaires ? Portée par le syndicat du personnel de santé, le Service Employees…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78d6c3b6caeb",
+          "title": "Sony met fin aux supports physiques pour les jeux PlayStation à partir de janvier 2028",
+          "source": "Next INpact",
+          "url": "https://next.ink/245064/sony-met-fin-aux-supports-physiques-pour-les-jeux-playstation-a-partir-de-janvier-2028/",
+          "category": "ia",
+          "published_at": "2026-07-01T12:52:34+00:00",
+          "summary": "Sony a annoncé mercredi 1ᵉʳ&#160;juillet que les jeux PlayStation ne seraient plus distribués sur des supports physiques à compter de janvier 2028. Après cette date, les jeux ne seront donc disponibles qu&#8217;en version numérique, que ce soit sur le PlayStation Store ou les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d974955b966a",
+          "title": "Firebird Music reveals $750m fund for catalogue acquisitions",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/01/firebird-music-reveals-750m-fund-for-catalogue-acquisitions/",
+          "category": "musique",
+          "published_at": "2026-07-01T12:45:00+00:00",
+          "summary": "Firebird Music Holdings has a new $750m fund for acquiring music catalogues, following its investments in management firms and labels.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7272e4ed6846",
+          "title": "Artists First launches Music Division led by Carmen Murray",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/artists-first-launches-music-division-led-by-carmen-murray/",
+          "category": "musique",
+          "published_at": "2026-07-01T12:29:31+00:00",
+          "summary": "Murray will help establish and guide the company's music strategy and develop opportunities across music, sports, branding, IP and partnerships.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "472a2538e61f",
+          "title": "Notes·fm launches its open music-credits database Credits·fm",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/01/notes%c2%b7fm-launches-its-open-music-credits-database-credits%c2%b7fm/",
+          "category": "musique",
+          "published_at": "2026-07-01T12:00:00+00:00",
+          "summary": "Rights-tech firm Notes·fm has launched its new Credits·fm &#8220;free and open music credits database&#8221; this week.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "1acbd0aeed04",
           "title": "La Nasa s’engage à envoyer un ballon de football sur la Lune si les États-Unis remportent la Coupe du Monde",
