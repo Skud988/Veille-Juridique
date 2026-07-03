@@ -1,9 +1,624 @@
 {
-  "generated_at": "2026-07-02T11:01:33.122469+00:00",
+  "generated_at": "2026-07-03T10:52:13.272306+00:00",
   "days": [
+    {
+      "date": "2026-07-03",
+      "articles": [
+        {
+          "id": "853b7b977e22",
+          "title": "Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/enquete-dpo-ia",
+          "category": "ia",
+          "published_at": "2026-07-03T12:00:00+00:00",
+          "summary": "L’intégration de l’IA dans les pratiques professionnelles et l’entrée en application du règlement IA créent de nouveaux défis pour les DPO et leurs organisations. Afin de mieux comprendre leurs attentes et préoccupations, le ministère du Travail et des Solidarités, l’AFCDP et la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1fa79c87bbe",
+          "title": "Microsoft Authenticator ne veut plus d’appareils jailbreakés en entreprise",
+          "source": "Next INpact",
+          "url": "https://next.ink/245658/microsoft-authenticator-ne-veut-plus-dappareils-jailbreakes-en-entreprise/",
+          "category": "ia",
+          "published_at": "2026-07-03T10:18:37+00:00",
+          "summary": "Microsoft déploie actuellement plusieurs changements importants pour son application Authenticator, qui sert de second facteur pour la sécurité des comptes (Microsoft et tiers). La plus visible est le rejet des appareils ayant fait l’objet d’un jailbreak, aussi bien sur Android…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a79ba54783eb",
+          "title": "Anuv Jain lands Coke Studio Bharat’s first chart-topper",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/anuv-jain-lands-coke-studio-bharats-first-chart-topper/",
+          "category": "musique",
+          "published_at": "2026-07-03T10:15:28+00:00",
+          "summary": "It’s been a good week for Indian singer-songwriter Anuv Jain and his fans on Spotify. On Sunday, 28 June, he staged ‘Coming Home to Anuv Jain’, a special event organised [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38ca58aa1d9c",
+          "title": "Steven Spielberg va produire l’adaptation d’un des pires cauchemars de YouTube",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290341-steven-spielberg-va-produire-ladaptation-dun-des-pires-cauchemars-de-youtube.html",
+          "category": "ia",
+          "published_at": "2026-07-03T10:07:36+00:00",
+          "summary": "La ruée vers l'or des creepypastas de YouTube vient de franchir un cap historique. Après les récents cartons phénoménaux en salles de&nbsp;Backrooms&nbsp;et d'Obsession, les plus grands studios s'arrachent les légendes urbaines d'internet. Preuve ultime de ce basculement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bae66d1ed6bd",
+          "title": "Olivia Rodrigo Extends Chart Reign In Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-ella-langley-charts-reign-australia-1236287359/",
+          "category": "ia",
+          "published_at": "2026-07-03T10:01:17+00:00",
+          "summary": "Ella Langley continues the dominant run by female artists on the ARIA Singles Chart, a takeover that is coming up to a full year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "478112c8f8d0",
+          "title": "Les boulets de la voiture électrique (France 2) ont encore frappé au JT de 20h : on débunk leur reportage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2290135-les-boulets-de-la-voiture-electrique-france-2-ont-encore-frappe-au-jt-de-20h-on-debunk-leur-reportage.html",
+          "category": "ia",
+          "published_at": "2026-07-03T09:57:35+00:00",
+          "summary": "Dans un reportage diffusé au JT de 20h, France 2 a voulu voir si la voiture électrique était un moyen économique pour partir en vacances. Si la démarche est plus que louable, la réalisation est vraiment foireuse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "115c6e847b34",
+          "title": "« J’aurais pu rickroller toute la Coupe du monde » : une hackeuse professionnelle a mis la main sur les caméras du Mondial 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2290181-jaurais-pu-rickroller-toute-la-coupe-du-monde-une-hackeuse-professionnelle-a-mis-la-main-sur-les-cameras-du-mondial-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-03T09:50:00+00:00",
+          "summary": "Une hackeuse professionnelle, connue sous le pseudonyme « Bobdahacker », raconte comment le fait de s'inscrire comme agent de joueurs sur le portail public de la FIFA lui a permis en quelques clics de contrôler les flux vidéo de tous les matchs du Mondial 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9371a6e40e95",
+          "title": "Un forfait 5G gratuit pour les vacances ? Orange offre une eSIM pendant 31 jours",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288771-un-forfait-5g-gratuit-pour-les-vacances-orange-offre-une-esim-pendant-30-jours.html",
+          "category": "ia",
+          "published_at": "2026-07-03T09:43:39+00:00",
+          "summary": "Orange relance son opération Hello 5G pour l’été. L’opérateur propose une eSIM gratuite pendant 31 jours, à ajouter à son smartphone sans changer de forfait ni quitter son opérateur actuel -- de quoi tester son réseau pendant les vacances.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3e2cf1335e6",
+          "title": "Marché entreprise : les acteurs de l’IA misent sur des ingénieurs placés chez le client",
+          "source": "Next INpact",
+          "url": "https://next.ink/245579/marche-entreprise-les-acteurs-de-lia-misent-sur-des-ingenieurs-places-chez-le-client/",
+          "category": "ia",
+          "published_at": "2026-07-03T09:39:00+00:00",
+          "summary": "Microsoft et Amazon viennent tour à tour d&#8217;annoncer la création d&#8217;entités dédiées au Forward Deployed Engineering, soit le placement d&#8217;ingénieurs IA directement chez les clients entreprise. Inspirée de Palantir, la démarche a déjà suscité des investissements…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a2dbbefa33a",
+          "title": "G.I. Joe revient avec un nouveau film très différent et on ne sait pas si c’est une bonne nouvelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290231-g-i-joe-revient-avec-un-nouveau-film-tres-different-et-on-ne-sait-pas-si-cest-une-bonne-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-07-03T09:27:00+00:00",
+          "summary": "Hollywood adore recycler ses vieux jouets, même quand ils sont cassés. Contre toute attente, la franchise militaire&nbsp;G.I. Joe&nbsp;s'apprête à faire un énième retour sur grand écran sous la houlette du scénariste Danny McBride. Si la promesse d'un film d'action sérieux et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae3658fc0da3",
+          "title": "ChatControl : nouvelle tentative de prolonger la surveillance des messageries",
+          "source": "Next INpact",
+          "url": "https://next.ink/245484/chatcontrol-nouvelle-tentative-de-prolonger-la-surveillance-des-messageries/",
+          "category": "ia",
+          "published_at": "2026-07-03T09:04:00+00:00",
+          "summary": "Après avoir été rejetée fin mars, la proposition visant à autoriser les grands acteurs du numérique à surveiller volontairement les communications électroniques pour y détecter les contenus relevant d’abus sexuels sur mineurs est remise sur la table par le Conseil européen. Le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c9a97c44c4c",
+          "title": "Nouveaux tests pour le Starship : le treizième vol aura lieu cet été",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2290207-nouveaux-tests-pour-le-starship-le-treizieme-vol-aura-lieu-cet-ete.html",
+          "category": "ia",
+          "published_at": "2026-07-03T08:59:00+00:00",
+          "summary": "La dernière version du Starship de SpaceX a réalisé un test statique durant lequel les six moteurs de l'étage supérieur ont été allumés. Une étape décisive avant un vol qui devrait avoir lieu d'ici quelques semaines.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c214c395bb6",
+          "title": "Nouvelle intrusion dans une agence du gouvernement américain",
+          "source": "Next INpact",
+          "url": "https://next.ink/245586/nouvelle-intrusion-dans-une-agence-du-gouvernement-americain/",
+          "category": "ia",
+          "published_at": "2026-07-03T08:37:00+00:00",
+          "summary": "Le gouvernement américain a confirmé une intrusion dans les systèmes du réseau de coordination des renseignements non classifiés. Personne ne semble pour l’instant avoir revendiqué l’attaque. Ce nouvel incident de cybersécurité pose la question de la capacité du gouvernement à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02a0d5746f88",
+          "title": "Après Lidl, Carrefour annonce à son tour une grosse opération sur un climatiseur mobile",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290081-apres-lidl-carrefour-annonce-a-son-tour-une-grosse-operation-sur-un-climatiseur-mobile.html",
+          "category": "ia",
+          "published_at": "2026-07-03T08:20:58+00:00",
+          "summary": "Après la ruée provoquée par le climatiseur Lidl, Carrefour tente à son tour de séduire les Français en quête de fraîcheur en pleine pénurie. Que vaut-il face à son concurrent ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3a102981a96",
+          "title": "☕️ Mageia 10 disponible, sans trompettes ni fanfare",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/mageia-10-disponible-sans-trompettes-ni-fanfare/",
+          "category": "ia",
+          "published_at": "2026-07-03T08:14:00+00:00",
+          "summary": "Après une alpha en janvier et une bêta au printemps, Mageia est sortie en version 10 mardi 30 juin. Cette distribution Linux, héritière de l’ancienne Mandrake et «&#160;française&#160;», est pour rappel développée par une communauté et gérée par une association à but non…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da861b41cd07",
+          "title": "« Nous vous avons entendus » : GitHub répond à la fin des jeux physiques sur PlayStation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290151-nous-vous-avons-entendus-github-repond-a-la-fin-des-jeux-physiques-sur-playstation.html",
+          "category": "justice",
+          "published_at": "2026-07-03T08:10:37+00:00",
+          "summary": "Le 2 juillet 2026, GitHub a lancé une opération très limitée permettant de recevoir son dépôt public sur CD-ROM. Une réponse ouvertement ironique à Sony, qui prévoit d’arrêter les disques PlayStation dès janvier 2028.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f78aeb5a3ef1",
+          "title": "Vous pouvez enfin importer votre Navigo Annuel sur votre téléphone Android (et l’iPhone arrive bientôt)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2290137-vous-pouvez-enfin-importer-votre-navigo-annuel-sur-votre-telephone-android-et-liphone-arrive-bientot.html",
+          "category": "ia",
+          "published_at": "2026-07-03T07:54:37+00:00",
+          "summary": "Sept ans après les premiers tests de passe Navigo sur smartphone, le forfait Navigo Annuel est enfin éligible à la dématérialisation. L'application Île-de-France Mobilités permet de transférer une carte physique vers son smartphone pour ne plus jamais avoir besoin d'un passe…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe0852eebb30",
+          "title": "L’ONU alerte sur la rapidité des progrès de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/245530/lonu-alerte-sur-la-rapidite-des-progres-de-lia/",
+          "category": "institutionnel",
+          "published_at": "2026-07-03T07:50:46+00:00",
+          "summary": "Dans un rapport préliminaire, des scientifiques commissionnés par l’ONU estiment que la rapidité des progrès de l’IA pourrait empêcher les États de la gouverner correctement. L’institution appelle ses membres à lancer une coopération internationale sur le sujet. Une semaine à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f15e4de92e47",
+          "title": "Rough Trade and Sweet Relief launch joint artist support fund",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/rough-trade-and-sweet-relief-launch-joint-artist-support-fund/",
+          "category": "ia",
+          "published_at": "2026-07-03T07:45:34+00:00",
+          "summary": "Indie music retailer Rough Trade and Sweet Relief Musicians Fund have launched a new donation program to support musicians and professionals.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa2e473c2008",
+          "title": "Pluie d’annonces pour le prochain jeu l’Attaque des Titans qui couvrira tout le manga",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290123-pluie-dannonces-pour-le-prochain-jeu-lattaque-des-titans-qui-couvrira-tout-le-manga.html",
+          "category": "ia",
+          "published_at": "2026-07-03T07:41:00+00:00",
+          "summary": "Koei Tecmo vient enfin de dévoiler de nombreuses informations inédites sur le prochain jeu L'Attaque des Titans. Révélé il y a un mois lors du Summer Game Fest 2026, le titre adaptera l'intégralité du manga et sortira cet hiver.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b50185b8ca4",
+          "title": "☕️ Apple ouvre la porte de Safari aux agents IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-ouvre-la-porte-de-safari-aux-agents-ia/",
+          "category": "ia",
+          "published_at": "2026-07-03T07:26:00+00:00",
+          "summary": "Apple offre à Safari un pont officiel MCP. Il permet aux développeurs de donner à leurs agents IA un accès au navigateur pour débogguer et tester la compatibilité d&#8217;un site, consulter la console et les requêtes réseau, etc. Une vraie lacune finalement comblée par le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81a79f2e5690",
+          "title": "☕️ La gendarmerie annonce le démantèlement de la structure YggTorrent",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-gendarmerie-annonce-le-demantelement-de-la-structure-yggtorrent/",
+          "category": "ia",
+          "published_at": "2026-07-03T07:09:00+00:00",
+          "summary": "Dans un communiqué, la gendarmerie nationale a déclaré avoir démantelé la structure YggTorrent, dont le site du même nom était bien connu des amateurs de films piratés. L’opération a été menée par les cyberenquêteurs de l&#8217;antenne UNCyber de Montpellier. Le site était connu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4e7db23f6fd",
+          "title": "Le retour de la console 3DO annulé une semaine après son annonce",
+          "source": "Next INpact",
+          "url": "https://next.ink/245543/le-retour-de-la-console-3do-annule-une-semaine-apres-son-annonce/",
+          "category": "ia",
+          "published_at": "2026-07-03T06:43:00+00:00",
+          "summary": "Ça ressemblait à une belle aventure, et puis finalement elle s&#8217;est écrasée sur le mur froid et gris de la réalité. La société Empire Interactive avait annoncé la semaine dernière sa volonté de relancer la console 3DO. Ce «&#160;retour d&#8217;une légende » a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e87de252f7bb",
+          "title": "Un ancien patron de PlayStation étrille la Steam Machine, comparée à la PS4",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290129-un-ancien-patron-de-playstation-etrille-la-steam-machine-comparee-a-la-ps4.html",
+          "category": "ia",
+          "published_at": "2026-07-03T06:40:03+00:00",
+          "summary": "Enthousiaste à l'idée de recevoir la Steam Machine de Valve, Shuhei Yoshida, ex-figure de PlayStation, a partagé ses premières impressions. Et il n'est pas tendre du tout.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02afa3297f12",
+          "title": "☕️ « Projet Aion » : l’OS IA de Microsoft qui plaçait Copilot aux commandes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/projet-aion-los-ia-de-microsoft-qui-placait-copilot-aux-commandes/",
+          "category": "ia",
+          "published_at": "2026-07-03T06:10:00+00:00",
+          "summary": "Le grand public ne voit que l&#8217;écume des nombreux projets sur lesquels travaille Microsoft. Mais de temps en temps, une fuite permet de découvrir ce sur quoi l&#8217;éditeur – ou du moins une de ses équipes – s&#8217;intéressait à un moment donné. En l&#8217;occurrence ici,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73cf2184dad4",
+          "title": "Face à Sony, Jean-Luc Mélenchon promet une loi pour sauver les jeux vidéo physiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290119-face-a-sony-jean-luc-melenchon-promet-une-loi-pour-sauver-les-jeux-video-physiques.html",
+          "category": "ia",
+          "published_at": "2026-07-03T05:58:48+00:00",
+          "summary": "Au lendemain de l'annonce fracassante de Sony, qui compte en finir avec les jeux physiques PlayStation en 2028, Jean-Luc Mélenchon s'est exprimé sur le sujet. Il promet d'ouvrir « le chantier en 2027 ».",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79e2d25148b9",
+          "title": "Godot serre la vis face aux pull requests générées par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/245539/godot-serre-la-vis-face-aux-pull-requests-generees-par-ia/",
+          "category": "ia",
+          "published_at": "2026-07-03T05:37:35+00:00",
+          "summary": "Comme d&#8217;autres projets open&#160;source, Godot est noyé par l’arrivée massive de code généré par IA dans les contributions. Le moteur de jeu vidéo a décidé de prendre le taureau par les cornes : interdiction des agents IA autonomes et du vibe coding, durcissement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8cddbfa7369",
+          "title": "Madonna, Sienna Spiro, Riley Green & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/madonna-sienna-spiro-riley-green-new-music-friday-guide-1236284397/",
+          "category": "musique",
+          "published_at": "2026-07-03T04:03:57+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-02",
       "articles": [
+        {
+          "id": "776244dd956e",
+          "title": "Watch U.S. Men’s Soccer Team Celebrate World Cup Knockout Win With Ella Langley’s ‘Choosin’ Texas’ Sing-Along",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/us-soccer-team-world-cup-ella-langley-choosin-texas-video-1236287144/",
+          "category": "musique",
+          "published_at": "2026-07-02T23:52:56+00:00",
+          "summary": "“Nothing better than @ellalangleymusic after a win,” midfielder Weston McKennie writes alongside the video.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "351b40e259c7",
+          "title": "A Timeline of Scooter Braun & Sydney Sweeney’s Relationship",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/scooter-braun-sydney-sweeney-relationship-timeline/",
+          "category": "musique",
+          "published_at": "2026-07-02T23:31:30+00:00",
+          "summary": "The music executive &#38; actress were spotted together shortly after Sweeney called off her engagement in 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2ee10328132",
+          "title": "British Singer Gary Glitter Charged With Sexually Abusing Another Young Girl",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/gary-glitter-charged-sexual-abuse-another-girl/",
+          "category": "ia",
+          "published_at": "2026-07-02T23:19:37+00:00",
+          "summary": "The 82-year-old “Rock and Roll” singer has repeatedly been convicted of pedophilia and is currently imprisoned for abusing three children in the 1970s.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c34dd514ac5b",
+          "title": "50 Cent Tells Mayor Mamdani to Focus on Taylor Swift Wedding Instead of Him: ‘We Don’t Have Beef’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/politics/50-cent-mayor-zohran-mamdani-taylor-swift-wedding-no-beef-1236286110/",
+          "category": "ia",
+          "published_at": "2026-07-02T22:27:32+00:00",
+          "summary": "The Queens rapper responded to a recent interview the New York City mayor did with Complex, where he said their beef was \"one-sided.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3730b92e62c",
+          "title": "Taylor Swift & Travis Kelce Thanked by More Than a Dozen Charities Following $26 Million Pre-Wedding Donation: ‘Kindness Never Goes Out of Style’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-charities-react-wedding-donation-1236287100/",
+          "category": "institutionnel",
+          "published_at": "2026-07-02T22:24:19+00:00",
+          "summary": "\"Thank you for making our mission a part of your love story,\" wrote New York Cares.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "081c00077ceb",
+          "title": "Suno explores developer API, seeking apps ‘that unlock experiences generative music makes possible for the first time’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-explores-developer-api-seeking-apps-that-unlock-experiences-generative-music-makes-possible-for-the-first-time/",
+          "category": "musique",
+          "published_at": "2026-07-02T21:39:41+00:00",
+          "summary": "\"Ahead of our partner powered model, we're exploring a developer API and want to hear from you before we start building,\" Jack Brody wrote.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8dd173df5c9f",
+          "title": "Logan Light joins Warner Music Group as Chief of Staff to CEO Robert Kyncl",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/logan-light-joins-warner-music-group-as-chief-of-staff-to-ceo-robert-kyncl/",
+          "category": "musique",
+          "published_at": "2026-07-02T21:38:38+00:00",
+          "summary": "Light joined WMG in March according to his LinkedIn profile\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34108915f7c5",
+          "title": "Judge denies Sony Music bid to add over 30,000 recordings to Udio lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-denied-bid-to-add-30k-recordings-to-its-udio-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-07-02T17:57:54+00:00",
+          "summary": "The ruling from Judge Alvin K. Hellerstein keeps the case at the 333 works that Sony had originally put in suit.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27dba45d75f8",
+          "title": "Indian music platform Madverse unveils v2.0",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/indian-music-platform-madverse-unveils-v2-0/",
+          "category": "ia",
+          "published_at": "2026-07-02T17:55:31+00:00",
+          "summary": "Less than a month after announcing that it had closed its first institutional funding round—led by Kobalt founder and chairman Willard Ahdritz’s Ahdritz Capital—Indian music distribution, publishing and marketing company [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "961340eb8fe6",
+          "title": "A counterfeit merch crackdown, facial recognition at K-pop concerts, and 3 other things we learned from HYBE’s 2025 sustainability report",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/a-counterfeit-merch-crackdown-facial-recognition-at-k-pop-concerts-and-3-other-things-we-learned-from-hybes-2025-sustainability-report/",
+          "category": "ia",
+          "published_at": "2026-07-02T17:30:08+00:00",
+          "summary": "The 121-page document sets out a number of disclosures, from anti-counterfeiting measures to the company's use of generative AI and expansion into physical retail.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be79cfc6e1a0",
+          "title": "Warner Records partners with Sickamore’s three times LOUDER",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-records-partners-with-sickamores-three-times-louder/",
+          "category": "ia",
+          "published_at": "2026-07-02T16:03:41+00:00",
+          "summary": "Brooklyn alternative R&#38;B artist Laila! will be the partnership’s flagship artist.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f805fafbdf3e",
+          "title": "Taylor Swift moves to dismiss ‘Showgirl’ trademark lawsuit, calls amended claims ‘absurd’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swift-moves-to-dismiss-showgirl-trademark-lawsuit-calls-amended-claims-absurd/",
+          "category": "ia",
+          "published_at": "2026-07-02T15:49:26+00:00",
+          "summary": "Swift's lawyers argue that the amended complaint \"fares no better\" than the original\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8acb0c5183cc",
+          "title": "Climatiseurs mobiles : Midea annonce des expéditions « en urgence vers l’Europe » pour répondre à la demande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290005-climatiseurs-mobiles-midea-annonce-des-expeditions-en-urgence-vers-leurope-pour-repondre-a-la-demande.html",
+          "category": "ia",
+          "published_at": "2026-07-02T15:49:00+00:00",
+          "summary": "Alors qu’Optimea ne donne toujours aucune date de retour pour le Midea PortaSplit, le fabricant a indiqué à la presse chinoise avoir lancé sa production à plein régime. Des unités seraient même expédiées en urgence vers l’Europe pour répondre à la demande. D'autres fabricants…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab86b3774d2c",
+          "title": "« C’est un pur monopole que va faire Sony » : la fin des jeux PlayStation physiques met-elle en péril les boutiques ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289999-cest-un-pur-monopole-que-va-faire-sony-la-fin-des-jeux-playstation-physiques-met-elle-en-peril-les-boutiques.html",
+          "category": "ia",
+          "published_at": "2026-07-02T15:41:34+00:00",
+          "summary": "Sony a démarré le second semestre de l'année 2026 par une annonce fracassante : à partir de janvier 2028, plus aucun jeu physique PlayStation ne sera produit. Une immense épée de Damoclès qui s'abat sur les revendeurs spécialisés, comme nous l'explique Thomas 'Gyo' Bachellerie,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f33cf68b041b",
+          "title": "Le disque ne tourne plus rond chez Sony",
+          "source": "Next INpact",
+          "url": "https://next.ink/245504/le-disque-ne-tourne-plus-rond-chez-sony/",
+          "category": "justice",
+          "published_at": "2026-07-02T15:27:00+00:00",
+          "summary": "Internet chambre la décision de Sony de mettre fin au support physique pour les PlayStation, treize ans après la célèbre vidéo où le constructeur se moquait de la politique anti-occasion de la Xbox One. Au-delà des moqueries, se pose la question de la préservation des jeux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95cf273e27ac",
+          "title": "Affaire YggTorrent : la gendarmerie française annonce le démantèlement du site, trois mois après sa fermeture",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290013-affaire-yggtorrent-la-gendarmerie-francaise-annonce-le-demantelement-du-site-trois-mois-apres-sa-fermeture.html",
+          "category": "ia",
+          "published_at": "2026-07-02T15:22:38+00:00",
+          "summary": "Trois mois après l'effondrement d'YggTorrent, la Gendarmerie nationale revendique le démantèlement de la plateforme et douze interpellations. Un communiqué qui referme un dossier judiciaire, mais qui n'a pas manqué de faire tiquer une partie des internautes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2b73787e4bc",
+          "title": "« Ne mangez pas les ChocoPoC ! » : comment des chercheurs en cybersécurité ont été piégés par de faux exploits sur GitHub",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2289863-ne-mangez-pas-les-chocopoc-comment-des-chercheurs-en-cybersecurite-ont-ete-pieges-par-de-faux-exploits-sur-github.html",
+          "category": "ia",
+          "published_at": "2026-07-02T15:17:32+00:00",
+          "summary": "Des pirates ont caché un cheval de Troie dans du code partagé sur GitHub pour révéler des failles de sécurité. Une technique qui vise directement les chercheurs en cybersécurité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b02bb6439b7",
+          "title": "Sony Music Publishing, IPRS songwriting camp focuses on new Punjabi, Haryanvi talent",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/sony-music-publishing-iprs-songwriting-camp-focuses-on-new-punjabi-haryanvi-talent/",
+          "category": "musique",
+          "published_at": "2026-07-02T15:10:39+00:00",
+          "summary": "When up-and-coming independent artists participate in songwriting camps, there’s often a chance that the resultant compositions won’t eventually be released. In the case of—take a deep breath—‘The Indie Circle Songwriting [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9ca86d15f47",
+          "title": "☕️ Vint Cerf, toujours aussi élégant, se prépare à prendre sa retraite de Google à 83 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/vint-cerf-toujours-aussi-elegant-se-prepare-a-prendre-sa-retraite-de-chez-google-a-83-ans/",
+          "category": "ia",
+          "published_at": "2026-07-02T15:01:51+00:00",
+          "summary": "Vinton Cerf intervenait mardi 30 juin lors d&#8217;une conférence Open Frontier organisée à San Francisco. Il est apparu à distance, cravate impeccablement nouée et costume ajusté, pour un panel consacré à la construction de choses qui durent dans le monde informatique.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "087a18622fe8",
+          "title": "Une couverture noire pour masquer les satellites : la solution face à la pollution lumineuse ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2289979-une-couverture-noire-pour-masquer-les-satellites-la-solution-face-a-la-pollution-lumineuse.html",
+          "category": "ia",
+          "published_at": "2026-07-02T14:41:53+00:00",
+          "summary": "Des scientifiques ont développé un revêtement destiné aux constellations de satellites. D'une couleur « plus noire que noire », il devrait éviter que ces engins ne dérangent les observations du ciel nocturne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc723e643c4a",
+          "title": "Une faille dans la fonction Hide My Email d’Apple peut révéler l’adresse principale",
+          "source": "Next INpact",
+          "url": "https://next.ink/245491/une-faille-dans-la-fonction-hide-my-email-dapple-peut-reveler-ladresse-principale/",
+          "category": "ia",
+          "published_at": "2026-07-02T14:20:33+00:00",
+          "summary": "La fonction Hide My Email (masquer mon e-mail) est victime d’une faille. Signalée l’année dernière, elle permet de retrouver la véritable adresse d’un utilisateur, faisant perdre l’intérêt de cette fonction pensée pour la vie privée. En outre, un changement de domaine prévu par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a91f8b8b0e36",
+          "title": "L’IA générative bouscule la recherche en mathématiques",
+          "source": "Next INpact",
+          "url": "https://next.ink/244924/lia-generative-bouscule-la-recherche-en-mathematiques/",
+          "category": "ia",
+          "published_at": "2026-07-02T13:56:34+00:00",
+          "summary": "En mai dernier, OpenAI a annoncé qu&#8217;un de ses modèles internes a résolu un des problèmes d’Erdős. De l’extérieur, ça semble impressionnant. L’est-ce vraiment et quelles sont les éventuelles conséquences pour le milieu de la recherche en mathématiques ? Next a voulu en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9b5a12237ec",
+          "title": "Pénurie de batteries et de câblage : la production du Mercedes GLC électrique suspendue à Brême",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2289799-penurie-de-batteries-et-de-cablage-la-production-du-mercedes-glc-electrique-suspendue-a-breme.html",
+          "category": "ia",
+          "published_at": "2026-07-02T13:35:00+00:00",
+          "summary": "Ça chauffe pour la production du nouveau Mercedes GLC électrique. En raison d'une pénurie de faisceaux de câbles et des délais de livraison de batteries qui s'allongent, le constructeur allemand est contraint de mettre en pause l'assemblage de son SUV à Brême.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3123799e177c",
+          "title": "Netflix France annonce le retour complet de Friends, disponible pour tous les abonnés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289895-netflix-france-annonce-le-retour-complet-de-friends-disponible-pour-tous-les-abonnes.html",
+          "category": "ia",
+          "published_at": "2026-07-02T13:15:47+00:00",
+          "summary": "C’est l'annonce choc sur le marché de la SVoD. Par un simple tweet d'une efficacité redoutable, la plateforme au grand N rouge a officialisé le grand retour de Rachel, Ross, Monica, Chandler, Joey et Phoebe. Les dix saisons de la sitcom la plus célèbre de la télévision sont de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4d20e4d9b8a",
+          "title": "Sony abandonne le jeu physique en 2028, Bethesda répond en annonçant une cartouche d’Oblivion sur Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289599-sony-abandonne-le-jeu-physique-en-2028-bethesda-repond-en-annoncant-une-cartouche-doblivion-sur-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-07-02T13:11:05+00:00",
+          "summary": "Sony vient d’annoncer qu’à partir de janvier 2028, tous les nouveaux jeux PlayStation seront exclusivement numériques, abandonnant ainsi la production de disques physiques. Une décision qui a immédiatement déclenché une vive polémique sur les réseaux sociaux, et dont Bethesda…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6d640d2a1a8",
+          "title": "Decathlon baisse le prix de cette mini-pompe électrique indispensable pour vos vélos",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289899-decathlon-baisse-le-prix-de-cette-mini-pompe-electrique-indispensable-pour-vos-velos.html",
+          "category": "ia",
+          "published_at": "2026-07-02T13:01:54+00:00",
+          "summary": "[Deal du jour] Pour éviter la corvée du gonflage manuel lors de vos sorties à vélo, Decathlon propose une réduction intéressante sur la pompe électrique Motus AirPump Pro, un modèle de poche indispensable.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ad5b00c5db3",
+          "title": "Charge de la preuve : qualifier d’abord la signature électronique",
+          "source": "Légalis",
+          "url": "https://www.legalis.net/actualite/charge-de-la-preuve-qualifier-dabord-la-signature-electronique/",
+          "category": "justice",
+          "published_at": "2026-07-02T12:42:10+00:00",
+          "summary": "Dans un arrêt particulièrement pédagogique, la Cour de cassation a précisé les règles relatives à la charge de la preuve lorsqu’il y a contestation d’une signature électronique. Elle rappelle qu’on ne peut pas faire peser la charge de la preuve sur le signataire contestataire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27567feb0c3c",
+          "title": "Exceleration Music and NexTone buy Ryuichi Sakamoto catalogues",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/exceleration-music-and-nextone-buy-ryuichi-sakamoto-catalogues/",
+          "category": "ia",
+          "published_at": "2026-07-02T12:30:00+00:00",
+          "summary": "Ryuichi Sakamoto died in 2023, but remains an icon well beyond his homeland of Japan. Now his recordings and publishing catalogues are being acquired by Exceleration Music and NexTone. The partnership will see NexTone handling those catalogues in Asia, working with Fuji Pacific…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fd9a2e01a0d",
+          "title": "Apple Music celebrates Toby Keith with new Nashville covers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/apple-music-celebrates-toby-keith-with-new-nashville-covers/",
+          "category": "musique",
+          "published_at": "2026-07-02T12:30:00+00:00",
+          "summary": "Apple Music has published a second collection of covers of songs by the late country musician Toby Keith, enlisting Tyler Hubbard, Jackson Dean, Kameron Marlowe, and Emily Ann Roberts to put their spin on his work. It’s the second batch of ‘Apple Music Nashville Sessions: Toby…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "024c023216aa",
+          "title": "YouTube Shorts image posts can now include 15 seconds of music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/youtube-shorts-image-posts-can-now-include-15-seconds-of-music/",
+          "category": "ia",
+          "published_at": "2026-07-02T12:30:00+00:00",
+          "summary": "One of the more unexpected social-media trends of recent years has been short-video platforms reversing back into photos. TikTok has photo posts, and YouTube Shorts has too. Now music is coming to the latter, with Shorts creators able to bundle up to 10 images into a carousel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0830b0c7f24c",
+          "title": "56% of Americans support a social-media ban for under-16s",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/56-of-americans-support-a-social-media-ban-for-under-16s/",
+          "category": "ia",
+          "published_at": "2026-07-02T12:30:00+00:00",
+          "summary": "Moves to ban social media for under-16s are spreading, slowly but surely, across the world. Not yet to the US at a federal level, although some individual states are mulling bans or restrictions. If that changes, will the public support it? A new survey by Pew Research…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14baddf8fa89",
+          "title": "Fiido Nomads Pro : un vélo tout-terrain pour la ville et le week-end à partir de 1 999 euros [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2285163-fiido-nomads-pro-un-velo-tout-terrain-pour-la-ville-et-le-week-end-a-partir-de-1-999-euros.html",
+          "category": "ia",
+          "published_at": "2026-07-02T12:24:24+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Fiido\n\nAvec ses vélos tout-terrain adaptés aussi bien à la ville qu'à la campagne, Fiido promet de vous emmener toujours plus loin, notamment avec son nouveau Nomads Pro à partir de 1 999 euros.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1721b6ba2e1b",
+          "title": "Pendant que Sony enterre le disque, le plan de Nintendo pour le marché physique prend tout son sens",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289721-pendant-que-sony-enterre-le-disque-le-plan-de-nintendo-pour-le-marche-physique-prend-tout-son-sens.html",
+          "category": "ia",
+          "published_at": "2026-07-02T12:19:32+00:00",
+          "summary": "Sony et Microsoft accélèrent vers un jeu vidéo entièrement lié aux comptes et aux boutiques en ligne. Nintendo, lui, continue de miser sur les cartouches, même imparfaites. Derrière les Game-Key Cards et les boîtes plus chères, la Switch 2 montre qu’un vrai marché du physique…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "0f458f8b6549",
           "title": "Jeux d’argent et de hasard : appliquer le RGPD aux traitements de données des joueurs",
@@ -12,6 +627,56 @@
           "category": "cnil",
           "published_at": "2026-07-02T12:00:00+00:00",
           "summary": "Les opérateurs de jeux d’argent et de hasard doivent concilier les exigences du RGPD avec leurs obligations sectorielles. Pour accompagner les acteurs dans cette démarche, l’ANJ a élaboré, en concertation avec la CNIL, un guide apportant des repères pratiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80b85dbc00fa",
+          "title": "Ordre du jour de la séance plénière du 2 juillet 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-2-juillet-2026",
+          "category": "institutionnel",
+          "published_at": "2026-07-02T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 2 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3c02f4bd7a9",
+          "title": "OpenAI souhaiterait que les États-Unis rentrent à son capital à hauteur de 5 %",
+          "source": "Next INpact",
+          "url": "https://next.ink/245342/openai-souhaiterait-que-les-etats-unis-rentrent-a-son-capital-a-hauteur-de-5/",
+          "category": "ia",
+          "published_at": "2026-07-02T12:00:00+00:00",
+          "summary": "OpenAI aurait proposé à l&#8217;administration Trump d&#8217;entrer à son capital, avec une prise de participation publique à hauteur de 5 %. La manœuvre est présentée comme une façon de permettre une forme de redistribution de la valeur générée par l&#8217;IA vers le public…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "baa13ef9e23f",
+          "title": "La Nasa a eu trop confiance en Boeing : un rapport pointe le manque de tests sur la capsule Starliner",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2289699-la-nasa-a-eu-trop-confiance-en-boeing-un-rapport-pointe-le-manque-de-tests-sur-la-capsule-starliner.html",
+          "category": "ia",
+          "published_at": "2026-07-02T11:55:00+00:00",
+          "summary": "Le rapport au sujet du désastre autour de la capsule Starliner est enfin sorti. L'inspection générale de la Nasa revient sur une suite de mauvaises décisions, en grande partie dues à la confiance trop importante accordée au constructeur sur la base de ses réalisations passées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0d88a6aaada",
+          "title": "Spotify’s latest Afrobeats move is a festival partnership",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/02/spotifys-latest-afrobeats-move-is-a-festival-partnership/",
+          "category": "musique",
+          "published_at": "2026-07-02T11:30:00+00:00",
+          "summary": "The deal sees Spotify become the official ‘sponsor and exclusive streaming partner’ for the three-day Afrobeats-focused festival, which takes place this weekend in Portimão, Portugal. The streaming service will launch an Afro Nation hub on its service with an official playlist…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac56b23e976e",
+          "title": "Breaking Wave Group launched by UK music execs Nick Stewart, Marc Marot, Jeremy Marsh, James Radice, and Beth Claridge",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/breaking-wave-group-launched-by-uk-music-execs-nick-stewart-marc-marot-jeremy-marsh-james-radice-and-beth-claridge/",
+          "category": "musique",
+          "published_at": "2026-07-02T11:12:59+00:00",
+          "summary": "The company's first signings are 10cc, singer-songwriter Rumer and electronic duo Lemon Jelly.\nSource",
           "summary_type": "extrait source"
         },
         {
