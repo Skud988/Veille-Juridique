@@ -1,9 +1,314 @@
 {
-  "generated_at": "2026-07-03T10:52:13.272306+00:00",
+  "generated_at": "2026-07-04T10:25:12.967481+00:00",
   "days": [
+    {
+      "date": "2026-07-04",
+      "articles": [
+        {
+          "id": "e311f586f356",
+          "title": "Tesla déploie ses premiers taxis autonomes à Miami en évitant soigneusement le centre-ville",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2290865-tesla-deploie-ses-premiers-taxis-autonomes-a-miami-en-evitant-soigneusement-le-centre-ville.html",
+          "category": "ia",
+          "published_at": "2026-07-04T09:21:00+00:00",
+          "summary": "Tesla franchit une nouvelle étape dans sa stratégie de conduite autonome en lançant son service Robotaxi à Miami, marquant son entrée dans un troisième État américain après le Texas et la Californie. Toutefois, la zone de service initiale reste strictement limitée à un périmètre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21114fb8563f",
+          "title": "« Ligne Rouge de la Mort » : une première casse pour la Steam Machine rappelant de mauvais souvenirs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290853-ligne-rouge-de-la-mort-une-premiere-casse-pour-la-steam-machine-rappelant-de-mauvais-souvenirs.html",
+          "category": "ia",
+          "published_at": "2026-07-04T08:03:49+00:00",
+          "summary": "Un premier cas de défaillance matérielle critique pour la Steam Machine a été signalé. Un utilisateur a partagé la panne complète de sa carte graphique survenue après quelques minutes d'utilisation qui s'illustre par une bande lumineuse rouge.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c202ea96a56a",
+          "title": "Dolly Parton Thanks Taylor Swift and Travis Kelce for $2 Million Donation",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/dolly-thanks-taylor-swift-travis-kelce-1236287798/",
+          "category": "ia",
+          "published_at": "2026-07-04T08:03:14+00:00",
+          "summary": "\"Thank you, thank you, thank you. I’m blown away and overjoyed with that gratitude,\" Dolly said in her message to the newlyweds.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "701e7cb5c392",
+          "title": "Dernier moment pour acheter le MacBook Air M5 à bon prix avant la hausse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290659-dernier-moment-pour-acheter-le-macbook-air-m5-a-bon-prix-avant-la-hausse.html",
+          "category": "ia",
+          "published_at": "2026-07-04T07:35:00+00:00",
+          "summary": "[Deal du jour] Le MacBook Air M5, dernier ultraportable d'Apple, est déjà en promotion sur Rakuten. Il passe à 1 109 € au lieu des nouveaux 1 399 € réclamé par la marque, soit une remise de 290 € sur le modèle le plus récent de la gamme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1537e4869ff",
+          "title": "Tyga Introduces New Artist Persona $TARFACE With ‘GAVE U RACKS’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/tyga-unveils-starface-alter-ego-10-track-project-1236287676/",
+          "category": "musique",
+          "published_at": "2026-07-04T05:32:40+00:00",
+          "summary": "\"I wanted this character and music to live on its own,\" says Tyga.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95bb9fea12f5",
+          "title": "From ‘Royal Wedding’ Mugs to ‘Paper Rings,’ Taylor & Travis Wedding Merch Has Already Hit the Internet",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/taylor-swift-travis-kelce-wedding-card-mug-gifts-fan-merch-1236287675/",
+          "category": "ia",
+          "published_at": "2026-07-04T03:23:04+00:00",
+          "summary": "These are all unofficial items of course, but well, they're actually romantic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be7a8bbad0a9",
+          "title": "Taylor Swift’s Wedding Look Included a Subtle Eras Tour Nod",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-wedding-look-dior-custom-louboutins-1236287677/",
+          "category": "ia",
+          "published_at": "2026-07-04T02:56:44+00:00",
+          "summary": "The official wedding-style details follow Swift and Kelce’s Friday night ceremony at Madison Square Garden, where they married in front of family and friends.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4be5bee04ead",
+          "title": "Taylor Swift and Travis Kelce’s Wedding Was Officiated by Adam Sandler",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-travis-kelce-married-adam-sandler-officiant-1236287653/",
+          "category": "ia",
+          "published_at": "2026-07-04T00:41:59+00:00",
+          "summary": "The couple married on the evening of July 3.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-03",
       "articles": [
+        {
+          "id": "736056d0a134",
+          "title": "A Timeline of Taylor Swift & Travis Kelce’s Relationship",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/taylor-swift-travis-kelce-relationship-timeline/",
+          "category": "ia",
+          "published_at": "2026-07-03T23:49:00+00:00",
+          "summary": "Here's the full love story of the Grammy-winning pop star &#38; the Kansas City Chiefs tight end, from meeting to marriage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da8ee5290b10",
+          "title": "Madonna and Daughter Lola Leon Discuss ‘Confessions II’ Collab ‘The Test’: ‘A Very Magical Moment’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madonna-lola-leon-the-test-confessions-ii-interview-1236287600/",
+          "category": "musique",
+          "published_at": "2026-07-03T21:18:21+00:00",
+          "summary": "The track marks the mother-daughter duo's first musical team-up.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9f8e0e4f8aa",
+          "title": "De Gaulle bientôt découpé en série ? Le plan secret de Pathé pour les plateformes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290675-de-gaulle-bientot-decoupe-en-serie-le-plan-secret-de-pathe-pour-les-plateformes.html",
+          "category": "ia",
+          "published_at": "2026-07-03T15:51:35+00:00",
+          "summary": "Après un démarrage timide, le diptyque historique&nbsp;De Gaulle&nbsp;de Pathé a opéré une remontée spectaculaire au box-office français, portée notamment par le soutien du youtubeur Inoxtag et l'élan de la Fête du Cinéma. Face à ce succès grandissant mais complexe à exporter,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7581368b4bb1",
+          "title": "Depuis son retour, Claude Fable 5 fait beaucoup moins rêver",
+          "source": "Next INpact",
+          "url": "https://next.ink/245820/depuis-son-retour-claude-fable-5-fait-beaucoup-moins-rever/",
+          "category": "ia",
+          "published_at": "2026-07-03T15:41:00+00:00",
+          "summary": "Depuis son retour, Fable 5 est la cible de critiques virulentes sur ses performances. Le modèle ne semble pas présenter les mêmes capacités qu’avant son blocage, suite à la directive de la Maison-Blanche. Même Mythos 5 semble perdre de sa superbe. Rappelons rapidement quelques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8564f66bf2f",
+          "title": "Bella Figura founder Alexi Cory-Smith dies, aged 58",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bella-figura-founder-alexi-cory-smith-dies-suddenly-aged-58/",
+          "category": "ia",
+          "published_at": "2026-07-03T15:28:29+00:00",
+          "summary": "Cory-Smith's colleagues at Bella Figura confirm tragic news on social media\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89f0322769f5",
+          "title": "Finalement, Samsung Messages ne fermera pas en France (mais vous devriez quand même changer d’application)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287155-cest-la-fin-de-samsung-messages-comment-continuer-a-recevoir-vos-sms.html",
+          "category": "ia",
+          "published_at": "2026-07-03T15:26:56+00:00",
+          "summary": "Samsung mettra fin à son application Samsung Messages le 6 juillet 2026… mais uniquement aux États-Unis. En France, Samsung confirme que l'application restera fonctionnelle, au moins à court terme. La bascule vers Google Messages n'a donc rien d'obligatoire chez nous, même si…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a8810287ecc",
+          "title": "Waymo et ses taxis autonomes bientôt en France ? Une filiale française a été créée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2290615-waymo-et-ses-taxis-autonomes-bientot-en-france-une-filiale-francaise-a-ete-creee.html",
+          "category": "ia",
+          "published_at": "2026-07-03T15:17:05+00:00",
+          "summary": "En France, en Allemagne et en Espagne, Waymo a enregistré des filiales entre le 11 juin et le 23 juin. Si la conduite autonome est encore loin d'être légale sur les routes de l'Union européenne, tout suggère désormais que les taxis de Google comptent s'attaquer à ces trois…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68178adef333",
+          "title": "Un eurodéputé membre de la commission d’enquête sur Pegasus a été espionné par le logiciel",
+          "source": "Next INpact",
+          "url": "https://next.ink/245726/un-eurodepute-membre-de-la-commission-denquete-sur-pegasus-a-ete-espionne-par-le-logiciel/",
+          "category": "institutionnel",
+          "published_at": "2026-07-03T15:13:00+00:00",
+          "summary": "Les chercheurs du Citizen Lab ont pu montrer que l&#8217;iPhone de l&#8217;ancien eurodéputé grec Stelios Kouloglou a été infecté par le logiciel espion alors qu&#8217;il participait à la commission d’enquête qui enquêtait sur Pegasus. Stelios Kouloglou a été député européen…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab45f1cd96c3",
+          "title": "☕️ Le prix de la licence « à vie » Plex Pass s’envole à 690 euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-prix-de-la-licence-a-vie-plex-pass-senvole-a-690-euros/",
+          "category": "ia",
+          "published_at": "2026-07-03T14:53:00+00:00",
+          "summary": "Annoncés en mai dernier, les nouveaux tarifs d&#8217;abonnement Plex sont désormais effectifs, avec une hausse particulièrement conséquente sur la licence perpétuelle, qualifiée d&#8217;abonnement «&#160;à vie&#160;» : son prix, qui était passé 120 à 250 dollars en mars 2025,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9dabc454c41",
+          "title": "Chez Meta, l’IA coûte cher et les agents ne vont pas assez vite",
+          "source": "Next INpact",
+          "url": "https://next.ink/245816/chez-meta-lia-coute-cher-et-les-agents-ne-vont-pas-assez-vite/",
+          "category": "ia",
+          "published_at": "2026-07-03T14:37:00+00:00",
+          "summary": "Une salle, deux ambiances. Lors d&#8217;un town hall qui s&#8217;est tenu ce jeudi, Mark Zuckerberg a déploré le retard pris par Meta dans le développement d&#8217;agents IA… tandis que le patron du labo IA interne, Alexandr Wang, a fait miroiter des gains substantiels pour les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee45ad993c95",
+          "title": "Le Tesla Model Y L est disponible dans de nouveaux pays, bientôt en France ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2290441-le-tesla-model-y-l-est-disponible-dans-de-nouveaux-pays-bientot-en-france.html",
+          "category": "ia",
+          "published_at": "2026-07-03T14:22:50+00:00",
+          "summary": "Tesla sort son Model Y L aux États-Unis, à Porto Rico ainsi qu'aux Émirats arabes unis. Pendant ce temps, cette version rallongée à 6 places se fait toujours désirer en Europe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c05f8544483",
+          "title": "Google : +37,5 % de consommation d’eau et d’électricité, l’empreinte de Gemini détaillée",
+          "source": "Next INpact",
+          "url": "https://next.ink/245571/google-375-de-consommation-deau-et-delectricite-lempreinte-de-gemini-detaillee/",
+          "category": "ia",
+          "published_at": "2026-07-03T13:59:57+00:00",
+          "summary": "En trois ans, Google a doublé ses prélèvements et consommation en eau, ainsi que sa consommation électrique. L’entreprise travaille sur sa gestion des garanties d’origine lui permettant d’afficher un 100 % de renouvelable. Enfin, le rapport détaille la consommation de son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1641f3d81258",
+          "title": "On va enfin avoir droit à un anime Star Wars digne de ce nom avec Le Neuvième Jedi",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290427-on-va-enfin-avoir-droit-a-un-anime-star-wars-digne-de-ce-nom-avec-le-neuvieme-jedi.html",
+          "category": "ia",
+          "published_at": "2026-07-03T13:44:26+00:00",
+          "summary": "Tout le monde a aimé la série d'animation Star Wars: Visions, et Disney le sait bien. Parmi les segments les plus appréciés des fans, l'épisode 5 de la première saison, Le Neuvième Jedi, figure en bonne place. C'est pourquoi la série animée revient aujourd'hui sous la forme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac8555ed328f",
+          "title": "Enola Holmes 3 change radicalement de formule (et le public Netflix adore déjà)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290503-enola-holmes-3-change-radicalement-de-formule-et-le-public-netflix-adore-deja.html",
+          "category": "ia",
+          "published_at": "2026-07-03T13:30:05+00:00",
+          "summary": "La critique fait la grimace, mais le public a déjà tranché. Disponible depuis le 1er juillet 2026, Enola Holmes 3 s'est instantanément hissé à la première place du Top 10 de Netflix, aussi bien en France que dans le reste du monde. Porté par une Millie Bobby Brown impériale et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3998e4adb1ac",
+          "title": "Cet immense TV OLED Philips tombe à prix cassé pour les phases finales de la Coupe du monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290419-cet-immense-tv-oled-philips-tombe-a-prix-casse-pour-les-phases-finales-de-la-coupe-du-monde.html",
+          "category": "ia",
+          "published_at": "2026-07-03T13:09:45+00:00",
+          "summary": "[Deal du jour] Les phases finales de la Coupe du monde sont souvent le meilleur prétexte pour transformer son salon en mini-stade. Avec sa très grande dalle OLED de 77 pouces, le Philips 77OLED950 coche justement les cases du téléviseur taillé pour les soirées foot",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e290dc5c25e3",
+          "title": "F1 en streaming : où voir le GP de Grande-Bretagne de la saison 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/704990-comment-regarder-le-gp-de-grande-bretagne-de-f1-en-direct.html",
+          "category": "justice",
+          "published_at": "2026-07-03T12:36:24+00:00",
+          "summary": "Après des mois et des mois d'attente, la Formule 1 a repris ses droits. Et cette saison 2026 s'annonce particulièrement indécise en raison d'une nouvelle réglementation. Pour le moment, c'est l'écurie Mercedes qui domine, avec sept victoires, contre une seule pour Ferrari.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36b19b0eff9b",
+          "title": "Le conducteur de la Tesla impliquée dans l’accident au Texas est inculpé d’homicide involontaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2290367-le-conducteur-de-la-tesla-impliquee-dans-laccident-au-texas-est-inculpe-dhomicide-involontaire.html",
+          "category": "ia",
+          "published_at": "2026-07-03T12:33:48+00:00",
+          "summary": "Après avoir tenté d'imputer le drame à l'Autopilot de Tesla, le conducteur vient d'être inculpé d'homicide involontaire. Les données du véhicule contredisent sa version des faits et accablent le conducteur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c28d5907ddc",
+          "title": "The Rolling Stones launch their own ‘Streaming World Cup’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/the-rolling-stones-launch-their-own-streaming-world-cup/",
+          "category": "musique",
+          "published_at": "2026-07-03T12:31:00+00:00",
+          "summary": "Which team are you supporting in the World Cup? We don’t mean England, Mexico or Cape Verde. We’re talking Team Jagger, Team Richards or Team Wood! Yes, the Rolling Stones are piggybacking on the men’s football extravaganza with their own ‘Streaming World Cup’ as part of the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a398e0b759c7",
+          "title": "Judge knocks back Sony Music attempt to expand Udio lawsuit",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/judge-knocks-back-sony-music-attempt-to-expand-udio-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-07-03T12:30:00+00:00",
+          "summary": "AI-music startup Udio may have reached licensing deals with UMG, WMG, Merlin and the NMPA – settling lawsuits filed by the first two in the process – but Sony Music has yet to join them. In fact, it has been trying to expand its lawsuit against the company by adding just over…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8d07beb376c",
+          "title": "69% of Spotify streams in the US go to American artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/69-of-spotify-streams-in-the-us-go-to-american-artists/",
+          "category": "musique",
+          "published_at": "2026-07-03T12:30:00+00:00",
+          "summary": "The US is the biggest recorded-music market in the world, and it’s one where domestic artists are taking a big share of streams according to Spotify. “69% of all streams in the country go to American artists, and American music makes up 70% of the Spotify Top 50 chart in the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3346da7f398a",
+          "title": "Musixmatch reveals winners of its first AI-focused hackathon",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/musixmatch-reveals-winners-of-its-first-ai-focused-hackathon/",
+          "category": "musique",
+          "published_at": "2026-07-03T12:30:00+00:00",
+          "summary": "One of the lesser-reported aspects of the rise of AI: it’s bringing corporate hackathons back. Musixmatch is the latest company inviting developers in to build with its API as well as those of partners. Its ‘Musicathon’ was a global, online event that took place over seven days…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9610dbcac50",
+          "title": "Tout savoir de la clim : enjeux environnementaux, techniques et sociétaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/244947/tout-savoir-de-la-clim-enjeux-environnementaux-techniques-et-societaux/",
+          "category": "ia",
+          "published_at": "2026-07-03T12:14:00+00:00",
+          "summary": "Dans la première partie de notre dossier, nous avons expliqué ce qu’était une climatisation et comment elle fonctionne. Nous pouvons désormais passer au gros morceau : analyse technique et environnementale, en apportant un maximum de réponses à toutes les questions que vous vous…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "853b7b977e22",
           "title": "Le métier de DPO à l’heure de l’intelligence artificielle : publication des résultats de l’enquête",
@@ -12,6 +317,66 @@
           "category": "ia",
           "published_at": "2026-07-03T12:00:00+00:00",
           "summary": "L’intégration de l’IA dans les pratiques professionnelles et l’entrée en application du règlement IA créent de nouveaux défis pour les DPO et leurs organisations. Afin de mieux comprendre leurs attentes et préoccupations, le ministère du Travail et des Solidarités, l’AFCDP et la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "760386784653",
+          "title": "How to use the new Threads Live Chat features",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/how-to-use-the-new-threads-live-chat-features/",
+          "category": "musique",
+          "published_at": "2026-07-03T12:00:00+00:00",
+          "summary": "This April Threads launched Live Chats, which according to Meta “lets you participate in public group chats during the biggest cultural events. It’s a new way to build community with others around shared interests like an album drop or a big game as it unfolds.”  Now the feature…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da8bf041b609",
+          "title": "Jared Benjamin’s indie blueprint for TikTok success",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/jared-benjamins-indie-blueprint-for-tiktok-success/",
+          "category": "musique",
+          "published_at": "2026-07-03T12:00:00+00:00",
+          "summary": "Dark-pop artist Jared Benjamin recently released his debut album ‘Icarus: Too Close to the Sun’, after successfully building his online audience and bagging a deal with Awal.  The artist started releasing music in 2023, with his song “Flatline” sparking some traction online.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1de2c918500b",
+          "title": "Poland’s music market prowess",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/polands-music-market-prowess/",
+          "category": "musique",
+          "published_at": "2026-07-03T12:00:00+00:00",
+          "summary": "Poland has undoubtedly been an economic success story of the last two decades – this year it has edged past Switzerland to become the world’s 20th largest economy, and is the 16th biggest music market globally. “Poland isn’t just growing; it’s maturing,” says Bartosz Szwoch,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81da8e356c43",
+          "title": "Ventilateurs, clims, pompes à chaleur (PAC) et thermodynamique : avez-vous les bases ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/244907/ventilateurs-clims-pompes-a-chaleur-pac-et-thermodynamique-avez-vous-les-bases/",
+          "category": "ia",
+          "published_at": "2026-07-03T11:37:53+00:00",
+          "summary": "C’est le sujet brûlant du moment : la climatisation. On lit un peu de tout et parfois du n’importe quoi, nous avons donc décidé de faire le point sur le sujet. Dans cette première partie, on pose les bases et les définitions, avec quelques rappels de thermodynamique. Dans la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a874d615cef0",
+          "title": "Kalshi trades spark Spotify investigation into fake streams",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/03/kalshi-trades-spark-spotify-investigation-into-fake-streams/",
+          "category": "musique",
+          "published_at": "2026-07-03T11:30:00+00:00",
+          "summary": "Spotify has been forced to remove more than 500k streams of a song that topped its US chart after &#8211; in the Financial Times&#8217; words &#8211; “discovering that the surge in streaming coincided with a jump in suspicious wagers on prediction market Kalshi”.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3ca904745db",
+          "title": "Spotify slashes streams of hit song after suspicious activity on prediction market Kalshi",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-slashes-streams-hit-song-after-suspicious-activity-on-prediction-market-kalshi/",
+          "category": "musique",
+          "published_at": "2026-07-03T11:01:38+00:00",
+          "summary": "Kalshi said in April that trading on the its music 'contracts' had already topped USD $400 million in 2026\nSource",
           "summary_type": "extrait source"
         },
         {
@@ -197,6 +562,16 @@
         {
           "id": "fa2e473c2008",
           "title": "Pluie d’annonces pour le prochain jeu l’Attaque des Titans qui couvrira tout le manga",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290123-pluie-dannonces-pour-le-prochain-jeu-lattaque-des-titans-qui-couvrira-tout-le-manga.html",
+          "category": "ia",
+          "published_at": "2026-07-03T07:41:00+00:00",
+          "summary": "Koei Tecmo vient enfin de dévoiler de nombreuses informations inédites sur le prochain jeu L'Attaque des Titans. Révélé il y a un mois lors du Summer Game Fest 2026, le titre adaptera l'intégralité du manga et sortira cet hiver.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24e2b708859d",
+          "title": "Gameplay repensé et monde ouvert : le prochain jeu L’Attaque des Titans sortira cet hiver",
           "source": "Numerama",
           "url": "https://www.numerama.com/pop-culture/2290123-pluie-dannonces-pour-le-prochain-jeu-lattaque-des-titans-qui-couvrira-tout-le-manga.html",
           "category": "ia",
