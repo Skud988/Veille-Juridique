@@ -1,9 +1,164 @@
 {
-  "generated_at": "2026-07-04T10:25:12.967481+00:00",
+  "generated_at": "2026-07-05T10:30:11.269492+00:00",
   "days": [
+    {
+      "date": "2026-07-05",
+      "articles": [
+        {
+          "id": "88c439aa2856",
+          "title": "Mais au fait, c’est quoi une creepypasta, la nouvelle mine d’or de Hollywood ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2289997-mais-au-fait-cest-quoi-une-creepypasta-la-nouvelle-mine-dor-de-hollywood.html",
+          "category": "ia",
+          "published_at": "2026-07-05T09:51:00+00:00",
+          "summary": "Avec le triomphe historique de Backrooms et ses 330 millions de dollars récoltés au box-office mondial, le mot « creepypasta » est sur toutes les lèvres des producteurs californiens. Warner Bros. vient d'ailleurs de s'offrir le monstre Siren Head pour calquer sa stratégie sur ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6286a6368fbb",
+          "title": "JENNIE Debuts Unreleased Songs at Open’er Festival, Teases New Music ‘Soon’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/jennie-teases-new-music-soon-1236287887/",
+          "category": "musique",
+          "published_at": "2026-07-05T06:56:12+00:00",
+          "summary": "\"It feels really special to share new music with this many people,\" JENNIE told the crowd.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c33b650bdbc3",
+          "title": "YoungBoy Never Broke Again’s ‘AMERICAN YOUNGBOY’ Concert Film Arrives on Prime Video",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/youngboy-never-broke-again-american-youngboy-prime-video-1236287888/",
+          "category": "musique",
+          "published_at": "2026-07-05T06:29:11+00:00",
+          "summary": "The film first hit theatres in April, earning $1.84 million in its opening weekend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3852d842cf40",
+          "title": "Le paradoxe Trump qui change la donne pour la voiture électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2290437-le-plus-grand-adversaire-de-la-voiture-electrique-lui-rend-finalement-un-fier-service.html",
+          "category": "ia",
+          "published_at": "2026-07-05T06:22:00+00:00",
+          "summary": "Le plus grand adversaire de la voiture électrique lui rend finalement un fier service. Les chiffres du premier semestre sont sans appel, de quoi réaliser un premier bilan dans l'édito de la newsletter Watt Else du 2 juillet 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82f8bed3e39c",
+          "title": "Nouveaux prix Apple, lunettes Meta Glasses et avenir d’Apple Pay en France : le récap tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2286537-nouveaux-prix-apple-lunettes-meta-glasses-et-avenir-dapple-pay-en-france-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-05T03:30:00+00:00",
+          "summary": "À la une de la rubrique tech de Numerama cette semaine : Apple augmente ses prix en réaction à la pénurie de composants et dénonce les pratiques des fabricants de RAM. Meta lance des lunettes Meta Glasses sans la marque Ray-Ban, pour attaquer de nouveaux marchés, et le Crédit…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-04",
       "articles": [
+        {
+          "id": "64e52d1c7c62",
+          "title": "Madonna Celebrates ‘Confessions II’ Album With Limited-Time Pop-Ups",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/madonna-confessions-ii-album-pop-up-shop-events-1236287839/",
+          "category": "musique",
+          "published_at": "2026-07-04T19:19:02+00:00",
+          "summary": "Fans can get into the groove and confess at four pop-up experiences in New York, Los Angeles and London over the July 3-5 weekend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "468335e90502",
+          "title": "How to Watch ‘Nashville’s Star-Spangled Bash’ With Reba McEntire, Nick Jonas, Boyz II Men and More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/watch-nashville-america-250-star-spangled-bash-online-free-1236287306/",
+          "category": "musique",
+          "published_at": "2026-07-04T18:06:00+00:00",
+          "summary": "Hosted by Ryan Seacrest, the live event will also feature one of the largest fireworks and drone shows in the United States",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b26312016793",
+          "title": "Climatiseurs en France, fin des disques PlayStation et fuite iPhone 18 Pro : le récap tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290345-climatiseurs-en-france-fin-des-disques-playstation-et-fuite-iphone-18-pro-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-04T17:59:00+00:00",
+          "summary": "À la une de la rubrique tech de Numerama cette semaine&nbsp;: les Français sont à la recherche de climatiseurs avant le retour annoncé des fortes chaleurs. Midea et son désormais célèbre Portasplit tentent d'exporter vers l'Europe, Lidl et Carrefour lancent des promotions pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d777f20770c9",
+          "title": "Coupe du monde 2026 : attention à l’horaire du match France-Paraguay",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2289163-coupe-du-monde-2026-attention-a-lhoraire-du-match-france-paraguay.html",
+          "category": "ia",
+          "published_at": "2026-07-04T16:30:00+00:00",
+          "summary": "Après avoir facilement battu la Suède en seizièmes de finale, la France s'attendait à croiser le fer avec l'Allemagne lors des huitièmes de finale. Sauf que son rival historique s'est fait sortir par le Paraguay, par conséquent futur adversaire des Bleus. Rendez-vous ce samedi 4…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f2f7f0a1df3",
+          "title": "« J’ai vécu plus de huit ans avec un embout d’écouteurs coincé dans l’oreille gauche »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2281227-jai-vecu-plus-de-huit-ans-avec-un-embout-decouteurs-coince-dans-loreille-gauche.html",
+          "category": "ia",
+          "published_at": "2026-07-04T15:30:00+00:00",
+          "summary": "[Témoignage]&nbsp;Le matin de son premier jour de travail, en octobre 2017, Julien Scarfone sent un embout d'écouteur se détacher au fond de son oreille gauche. Faute de le retrouver, il finit par croire qu'il l'a perdu par terre. En réalité, l'embout n'a jamais quitté son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74a85743cd90",
+          "title": "France 2 se plante sur la voiture électrique, un moteur chinois dans la R5 et le FSD arrive sur les Tesla HW3: le récap’ Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2290665-france-2-se-plante-sur-la-voiture-electrique-un-moteur-chinois-dans-la-r5-et-le-fsd-arrive-sur-les-tesla-hw3-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-04T15:03:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : France 2 a réalisé un reportage douteux sur les vacances en voiture électrique, Renault va mettre le moteur chinois de la Twingo dans le duo R5/R4 et Tesla lance enfin le FSD v14 dans une version « Lite » pour les modèles HW3.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9cddcc94fa12",
+          "title": "À 45 €, cette manette Switch 2 sous licence officielle fait aussi bien que la manette Pro",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2290567-a-45-e-cette-manette-switch-2-sous-licence-officielle-fait-aussi-bien-que-la-manette-pro.html",
+          "category": "justice",
+          "published_at": "2026-07-04T14:30:00+00:00",
+          "summary": "[Deal du jour] La Nintendo Switch 2 possède une manette Pro pour remplacer les fameux Joy-Con. Mais, vendue 90 €, c'est un investissement que beaucoup ne sont pas prêts à faire. Cette manette sans fil Turtle Beach Rematch, sous licence officielle Nintendo, fait tout pareil, mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "23842944bb8e",
+          "title": "Comment Apple veut (vraiment) simplifier le contrôle parental",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2290403-comment-apple-veut-vraiment-simplifier-le-controle-parental.html",
+          "category": "ia",
+          "published_at": "2026-07-04T14:04:14+00:00",
+          "summary": "Présentées à la WWDC début juin et montrées en démonstration à Paris, les nouvelles fonctions de sécurité pour les enfants d'Apple arriveront cet automne avec iOS 27, iPadOS 27 et macOS 27. Configuration guidée, autorisation demandée pour chaque site web, quotas de temps calés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c505a90c919",
+          "title": "Quels sont les meilleurs ventilateurs de plafond à choisir cet été ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2287715-quels-sont-les-meilleurs-ventilateurs-de-plafond-a-choisir-cet-ete.html",
+          "category": "ia",
+          "published_at": "2026-07-04T12:00:00+00:00",
+          "summary": "La première canicule est passée, mais qu’en est-il de la prochaine ? Météo-France prévoit encore de fortes chaleurs pour l’été 2026 dans tout le pays, et mieux vaut être bien préparé pour affronter les prochaines vagues de chaleur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13855f919e0c",
+          "title": "Flock : Leçon de 1UP",
+          "source": "Next INpact",
+          "url": "https://next.ink/245976/flock-lecon-de-1up/",
+          "category": "ia",
+          "published_at": "2026-07-04T11:37:00+00:00",
+          "summary": "Les 1UP dans la vraie vie, on n’en a qu’un. Alors il faut raison garder, chérir et transmettre ce qu’on peut à ses enfants, manger sain, rester zen et éviter de s’énerver face aux vicissitudes de la vie. Même quand des gougnafiers cherchent à vous la faire à l’envers…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "e311f586f356",
           "title": "Tesla déploie ses premiers taxis autonomes à Miami en évitant soigneusement le centre-ville",
