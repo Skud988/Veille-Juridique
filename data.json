@@ -1,9 +1,534 @@
 {
-  "generated_at": "2026-07-06T12:15:41.074421+00:00",
+  "generated_at": "2026-07-07T11:19:20.923663+00:00",
   "days": [
+    {
+      "date": "2026-07-07",
+      "articles": [
+        {
+          "id": "39712b6c45f8",
+          "title": "Géolocalisation et applications mobiles : quelles règles pour protéger les données des utilisateurs ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-quelles-regles",
+          "category": "cnil",
+          "published_at": "2026-07-07T12:00:00+00:00",
+          "summary": "La géolocalisation est devenue un outil central des applications mobiles. Mais sa collecte et sa réutilisation soulèvent des enjeux majeurs de protection des données personnelles. La CNIL rappelle les règles applicables et les droits des personnes pour protéger leur vie privée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae2170805e82",
+          "title": "Géolocalisation et applications mobiles : comment protéger vos données ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/geolocalisation-applications-mobiles-proteger-vos-donnees",
+          "category": "ia",
+          "published_at": "2026-07-07T12:00:00+00:00",
+          "summary": "Les applications météo, de sport ou de rencontres utilisent souvent votre localisation. Mais savez-vous qui peut accéder à ces données et pourquoi&amp;nbsp;? La CNIL vous aide à comprendre les enjeux et à garder le contrôle sur vos données.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9a38034b76d",
+          "title": "« Nous voulons qu’il fasse 10 saisons » : les ambitions de Marvel pour X-Men ’97 sont démesurées",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291765-nous-voulons-quil-fasse-10-saisons-les-ambitions-de-marvel-pour-x-men-97-sont-demesurees.html",
+          "category": "musique",
+          "published_at": "2026-07-07T10:35:00+00:00",
+          "summary": "Alors que la saison 2 de X-Men ’97 vient tout juste de débarquer sur Disney+ ce 1er juillet 2026, l'équipe créative originelle ne cache plus ses ambitions démesurées. Interrogés sur l'avenir des mutants de l'écurie Marvel Animation, les producteurs exécutifs ont confirmé des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c3ac8def361",
+          "title": "HYBE, the home of BTS, launches global search for pop music producers",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-the-home-of-bts-launches-global-search-for-pop-music-producers/",
+          "category": "musique",
+          "published_at": "2026-07-07T10:33:24+00:00",
+          "summary": "Successful applicants will receive creative support of 5 million won\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8accee4081ec",
+          "title": "Thunderbird Pro, Thundermail : Mozilla a dû revoir ses plans",
+          "source": "Next INpact",
+          "url": "https://next.ink/246400/thunderbird-pro-thundermail-mozilla-a-du-revoir-ses-plans/",
+          "category": "ia",
+          "published_at": "2026-07-07T10:17:00+00:00",
+          "summary": "Mozilla a indiqué récemment que ses plans sur l’offre Thunderbird Pro avaient changé. Les retours de la communauté sont clairs sur de nombreux points, tout comme la principale demande&#160;: la priorité devrait être donnée au webmail. Dont acte. Dans un billet daté du 23 juin,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e18eb4065a84",
+          "title": "☕️ La CNIL annonce avoir prononcé 23 sanctions ces 6 derniers mois",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-cnil-annonce-avoir-prononce-23-sanctions-ces-6-derniers-mois/",
+          "category": "cnil",
+          "published_at": "2026-07-07T10:02:45+00:00",
+          "summary": "Dans un communiqué publié sur son site, l&#8217;autorité de protection des données se vante d&#8217;avoir pris 23 sanctions depuis janvier dernier dans le cadre de la procédure simplifiée, «&#160;dont 19 ont pour origine des plaintes ». La CNIL met en avant notamment plusieurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0df1afad78e2",
+          "title": "Résultats du Bac 2026 ce mardi 7 juillet : où et comment les consulter en ligne dès maintenant ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/393031-resultats-du-bac-2026-heure-par-academie-et-sites-officiels.html",
+          "category": "ia",
+          "published_at": "2026-07-07T10:00:03+00:00",
+          "summary": "Les résultats du Bac 2026 sont disponibles en ligne à partir de ce mardi 7 juillet. Découvrez où consulter les résultats du Baccalauréat 2026 sur Internet, le taux de réussite des candidats, et toutes les informations sur les résultats du rattrapage dans cet article.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58b65787876d",
+          "title": "« Un triomphe absolu » : L’Odyssée de Nolan est déjà sacrée chef-d’œuvre de 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291621-le-plus-grand-film-de-nolan-lodyssee-semble-bien-etre-le-chef-doeuvre-de-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-07T09:57:00+00:00",
+          "summary": "Dans la nuit du 6 au 7 juillet 2026, l'embargo sur les réseaux sociaux a enfin été levé pour&nbsp;L’Odyssée, le blockbuster ultra-attendu de Christopher Nolan prévu en salles pour le 15 juillet. Alors que les spectateurs s'inquiétaient d'une esthétique jugée trop terne dans les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74ea0f7b7320",
+          "title": "☕️ JADEPUFFER utilise un agent IA pour mener une attaque au rançongiciel presque tout seul",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/jadepuffer-utilise-un-agent-ia-pour-mener-une-attaque-au-rancongiciel-presque-tout-seul/",
+          "category": "ia",
+          "published_at": "2026-07-07T09:37:00+00:00",
+          "summary": "Une IA a conduit une opération de rançongiciel en solo, d&#8217;après la découverte des chercheurs de Sysdig. JADEPUFFER, le petit nom de cette menace, s&#8217;appuie sur un agent IA chargé des opérations de reconnaissance, de voler des d&#8217;identifiants, de s&#8217;installer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0169d8914a32",
+          "title": "Ce générateur solaire avec son panneau pour voyager cet été est presque à moitié prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2291649-ce-generateur-solaire-avec-son-panneau-pour-voyager-cet-ete-est-presque-a-moitie-prix.html",
+          "category": "ia",
+          "published_at": "2026-07-07T09:20:23+00:00",
+          "summary": "[Deal du jour] Afin d'alimenter ses appareils ou de les recharger même loin de toute civilisation, Jackery propose une gamme de générateurs solaires compacts qui conviennent parfaitement aux voyages.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b5a781d47d3",
+          "title": "Bercy mis en demeure par l’Arcom de rendre le site des impôts accessible",
+          "source": "Next INpact",
+          "url": "https://next.ink/246313/bercy-mis-en-demeure-par-larcom-de-rendre-le-site-des-impots-accessible/",
+          "category": "justice",
+          "published_at": "2026-07-07T08:59:00+00:00",
+          "summary": "Dans une décision rendue publique ce mardi 7 juillet, l&#8217;Arcom a décidé de mettre en demeure le ministère de l&#8217;Action et des Comptes publics de rendre accessible aux personnes handicapées le site de déclaration de revenus. L&#8217;Arcom exige que Bercy respecte la loi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07c8fd7631f5",
+          "title": "À quelle heure la version 1.0 de Palworld sera-t-elle disponible ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291607-a-quelle-heure-la-version-1-0-de-palworld-sera-t-elle-disponible.html",
+          "category": "ia",
+          "published_at": "2026-07-07T08:40:00+00:00",
+          "summary": "PocketPair se prépare à lancer la version 1.0 de Palworld, en accès anticipé depuis maintenant plus de deux ans. La grosse mise à jour est attendue pour le 10 juillet 2026, mais à quelle heure ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76b3e0d1d337",
+          "title": "Pourquoi c’est la fin du binge-watching sur Netflix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291597-pourquoi-cest-la-fin-du-binge-watching-sur-netflix.html",
+          "category": "ia",
+          "published_at": "2026-07-07T08:31:13+00:00",
+          "summary": "Le binge-watching a fait le succès de Netflix, mais il pourrait aussi devenir son problème. Selon des données publiées par Bloomberg le 6 juillet 2026, de nombreuses séries de la plateforme perdent une large part de leur audience dès leur saison 2, signe que les abonnés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71078b8b2a8d",
+          "title": "ReactOS annonce une étape symbolique vers le support du noyau NT6 de Windows",
+          "source": "Next INpact",
+          "url": "https://next.ink/246320/reactos-annonce-une-etape-symbolique-vers-le-support-du-noyau-nt6-de-windows/",
+          "category": "loi",
+          "published_at": "2026-07-07T08:19:40+00:00",
+          "summary": "Le système libre ReactOS se lance à l’assaut de la compatibilité avec les noyaux Windows de la série NT6. Les développeurs ont annoncé avoir franchi une étape symbolique avec le support du premier appel système. La route sera cependant longue. ReactOS est un système…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a545cfb15f2f",
+          "title": "Dave Grohl Reveals the ‘Perfect Record’ He’s Listened to ‘10,000 Times’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/dave-grohl-pixies-surfer-rosa-perfect-record-1236288682/",
+          "category": "ia",
+          "published_at": "2026-07-07T08:09:46+00:00",
+          "summary": "“I love that record so much for a lot of reasons,” Grohl said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac1950934e6a",
+          "title": "Anthropic dit avoir découvert le « J-Space », l’espace où Claude pense sans le dire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2291589-anthropic-dit-avoir-decouvert-le-j-space-lespace-ou-claude-pense-sans-le-dire.html",
+          "category": "ia",
+          "published_at": "2026-07-07T07:51:48+00:00",
+          "summary": "Anthropic publie un nouveau papier de recherche qui affirme avoir localisé, dans les entrailles de Claude, un espace neuronal jouant le rôle d'une mémoire de travail consciente. Derrière la métaphore neuroscientifique, l'entreprise américaine glisse aussi des enseignements pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39d2bd1c6f36",
+          "title": "Duffy Performs Secret London Concert in First Full Show in 15 Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/duffy-returns-secret-london-show-1236288681/",
+          "category": "musique",
+          "published_at": "2026-07-07T07:48:43+00:00",
+          "summary": "The “Mercy” singer performed an intimate, ballot-only London show after teasing new music last month.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3c22b03bc82",
+          "title": "Xbox n’a même pas réussi à atteindre 50 % de son objectif pour le Game Pass",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291583-xbox-na-meme-pas-reussi-a-atteindre-50-de-son-objectif-pour-le-game-pass.html",
+          "category": "ia",
+          "published_at": "2026-07-07T07:44:13+00:00",
+          "summary": "Xbox traverse une période difficile et vient d'annoncer, le 6 juillet 2026, la suppression de 3 200 emplois ainsi que la fermeture de quatre studios majeurs. On apprend également que le Game Pass n'atteint même pas la moitié de son objectif d'abonnés pour l'année 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c4673df92e0",
+          "title": "Les AirPods Pro 3 perdent 55 € pour les soldes d’été",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2274323-les-airpods-pro-3-perdent-55-e-pour-les-soldes-dete.html",
+          "category": "ia",
+          "published_at": "2026-07-07T07:20:28+00:00",
+          "summary": "[Deal du jour] Les AirPods Pro font clairement partie des produits qui reviennent régulièrement en promotion. Pour les soldes d'été, ces derniers sont affichés à 194 €",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fe82775b009",
+          "title": "L’intégration des IA génératives dans les réseaux sociaux influence l’opinion",
+          "source": "Next INpact",
+          "url": "https://next.ink/246168/lintegration-des-ia-generatives-dans-les-reseaux-sociaux-influence-lopinion/",
+          "category": "ia",
+          "published_at": "2026-07-07T07:17:00+00:00",
+          "summary": "Avec une simulation, des chercheuses et chercheurs montrent que les petites suggestions des IA génératives lors de la rédaction de posts peuvent vraiment biaiser les conversations, influencer le débat sur les réseaux sociaux et avoir de réelles conséquences sur les débats…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce495990c7d1",
+          "title": "« Je me suis sentie elfe toute ma vie » : cette actrice réalise un rêve avec le prochain film Le Seigneur des anneaux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291587-je-me-suis-sentie-elfe-toute-ma-vie-cette-actrice-realise-un-reve-avec-le-prochain-film-le-seigneur-des-anneaux.html",
+          "category": "ia",
+          "published_at": "2026-07-07T07:14:19+00:00",
+          "summary": "L'actrice Anya Taylor-Joy a récemment partagé sa fierté de jouer dans le prochain film Le Seigneur des anneaux, centré sur Gollum. Elle y incarnera une elfe, un rôle très naturel pour elle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91d14f660d6b",
+          "title": "Masculinisme : provoquer un « réveil des consciences » et renforcer le contrôle des plateformes",
+          "source": "Next INpact",
+          "url": "https://next.ink/246227/masculinisme-provoquer-un-reveil-des-consciences-et-renforcer-le-controle-des-plateformes/",
+          "category": "ia",
+          "published_at": "2026-07-07T06:30:00+00:00",
+          "summary": "Dans un rapport dédié aux masculinismes, la délégation des droits des femmes du Sénat appelle à renforcer le contrôle sur les plateformes dont les modèles économiques et les outils de monétisation de contenus participent directement à alimenter la violence de genre. Fin juin, la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a32b65e8b23",
+          "title": "Bruxelles retoque le projet français d’interdiction des réseaux sociaux aux moins de 15 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/246298/bruxelles-retoque-le-projet-francais-dinterdiction-des-reseaux-sociaux-aux-moins-de-15-ans/",
+          "category": "ia",
+          "published_at": "2026-07-07T06:10:00+00:00",
+          "summary": "La Commission européenne rejette la proposition française d&#8217;interdire les réseaux sociaux aux moins de 15 ans, car elle marche sur les plate-bandes du règlement sur les services numériques (DSA). Un revers attendu pour le gouvernement français, qui ne l&#8217;empêche pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "267ad31b0920",
+          "title": "BYD, Mercedes, Fiat, Toyota… Comment la guerre de l’électrique a basculé au premier semestre 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2291547-byd-mercedes-fiat-toyota-comment-la-guerre-de-lelectrique-a-bascule-au-premier-semestre-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-07T06:00:49+00:00",
+          "summary": "Alors que la trajectoire européenne impose une électrification à marche forcée, les résultats du premier semestre 2026 révèlent de profonds contrastes. Entre stratégies de contournement, coups de frein inattendus et surprises de taille, analyse d'un marché à plusieurs vitesses.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e4da5e6880d",
+          "title": "☕️ En Europe, la Switch 2 à batterie remplaçable arrive, fin de partie pour la Switch 1",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/en-europe-la-switch-2-a-batterie-remplacable-arrive-la-switch-1-prend-la-porte/",
+          "category": "ia",
+          "published_at": "2026-07-07T05:50:00+00:00",
+          "summary": "Nintendo commencera à distribuer de nouvelles Switch 2 et manettes Joy-Con 2 en Europe à partir de cet automne. Le gros changement : des batteries remplaçables par les utilisateurs, en vertu d&#8217;une législation européenne. En revanche, les Switch de première génération…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d5858161ab5",
+          "title": "« Nous avons vendu 172 288 912 pizzas depuis », quand Domino’s Pizza ne lâche pas le pressing sur PlayStation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291569-nous-avons-vendu-172-288-912-pizzas-depuis-quand-dominos-pizza-ne-lache-pas-le-pressing-sur-playstation.html",
+          "category": "ia",
+          "published_at": "2026-07-07T05:48:10+00:00",
+          "summary": "Domino's Pizza prend un malin plaisir à mettre la pression sur Sony depuis l'officialisation de l'arrêt des disques PlayStation en janvier 2028. La firme nippone s'est terrée dans le silence depuis cette annonce qui fait grand bruit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac1c66aee44e",
+          "title": "Missy Higgins, The Teskey Brothers and ICEHOUSE to Headline New Sydney Concert Series",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/missy-higgins-teskey-brothers-icehouse-headline-sydney-concert-series-the-point-1236288672/",
+          "category": "musique",
+          "published_at": "2026-07-07T05:42:50+00:00",
+          "summary": "The new Fuzzy-presented series will take over the Fleet Steps at Mrs Macquarie’s Point with a floating stage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "930616b27e2d",
+          "title": "Yungblud Backed by SZA, Scott Ian & More After Responding to ‘Industry Plant’ Accusations",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/yungblud-support-sza-scott-ian-1236288667/",
+          "category": "ia",
+          "published_at": "2026-07-07T05:05:58+00:00",
+          "summary": "\"To be truthful. Recently, I’ve been really struggling,” Yungblud wrote.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-06",
       "articles": [
+        {
+          "id": "21b88a46031b",
+          "title": "Zara Larsson Signs With RCA Records",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/zara-larsson-signs-rca-records/",
+          "category": "musique",
+          "published_at": "2026-07-06T23:51:48+00:00",
+          "summary": "The singer joins the label after more than a decade on Epic Records, also part of Sony Music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "915880c5e92c",
+          "title": "Gustavo Dudamel & the LA Phil to Host Benefit Concert for Venezuela: ‘We’ll Help Our Country Heal and Rebuild’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/gustavo-dudamel-la-phil-concert-venezuela-earthquakes-1236288521/",
+          "category": "musique",
+          "published_at": "2026-07-06T21:56:57+00:00",
+          "summary": "The forthcoming concert is in response to the devastating twin earthquakes that struck the country on June 24.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40f76aec5d38",
+          "title": "‘I’ve Waited My Whole Life to Do This’: Watch Madonna’s Celeb Guests Film Their ‘Confessions II’ Cameos",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madonna-confessions-ii-film-celebrity-guests-bts-making-of-1236288510/",
+          "category": "ia",
+          "published_at": "2026-07-06T21:52:47+00:00",
+          "summary": "Gwendoline Christie, Benedict Cumberbatch, Odessa A'zion and more were featured in the \"Danceteria\" scenes of Confessions II film.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0602b7ddcaf",
+          "title": "A Full List of Current 2026 Las Vegas Residencies (Updating)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/current-las-vegas-residencies-shows-9654876/",
+          "category": "musique",
+          "published_at": "2026-07-06T21:40:00+00:00",
+          "summary": "A full list of all the current Las Vegas residencies, including concert dates, artists performing and where to buy tickets online.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2dca44802379",
+          "title": "President Trump Praises ‘Hot’ Nicki Minaj at Presidential Luncheon: ‘A Great Friend… of Common Sense’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/trump-nicki-minaj-rose-garden-club-lunch-1236288418/",
+          "category": "ia",
+          "published_at": "2026-07-06T20:46:38+00:00",
+          "summary": "Minaj was in attendance for Trump's Rose Garden Club Lunch.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84172bf65ed6",
+          "title": "House of the Dragon : de quoi parle Daemon Targaryen avec cette « cité où les hommes ont des ailes » ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2275725-house-of-the-dragon-de-quoi-parle-daemon-avec-cette-etrange-cite-des-hommes-ailes.html",
+          "category": "ia",
+          "published_at": "2026-07-06T19:23:54+00:00",
+          "summary": "Dans l'épisode 3 de la saison 3 de House of the Dragon, Daemon Targaryen évoque une intrigante « cité où les hommes ont des ailes » située au bout du monde. Simple légende de marins ou réalité géographique ? C'est le moment de faire un tour dans les entrailles du lore de George…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2456f6d56985",
+          "title": "Warner Music Finland acquires Mökkitie Records’ catalog and publishing rights, signs Arttu Wiskari to new multi-year deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-finland-acquires-mokkitie-records-catalog-and-publishing-rights-signs-arttu-wiskari-to-new-multi-year-deal/",
+          "category": "musique",
+          "published_at": "2026-07-06T18:34:14+00:00",
+          "summary": "Mökkitie Managing Director Olli Saksa will join Warner Music Finland's A&#38;R team following the deal.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "369fde00af4b",
+          "title": "Warner’s Spinnin’ Records names Marco Pantuso as General Manager; Frederick Pranger upped to A&R Head",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warners-spinnin-records-names-marco-pantuso-as-general-manager-frederick-pranger-upped-to-ar-head/",
+          "category": "musique",
+          "published_at": "2026-07-06T18:31:04+00:00",
+          "summary": "Pranger will report to Pantuso, while Pantuso will report to Niels Walboomers, President, Warner Music Central Europe and Spinnin' Records. \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c1d77a1749a",
+          "title": "Primary Wave strikes partnership with Jesus Jones frontman Mike Edwards on his song catalog",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/primary-wave-strikes-partnership-with-jesus-jones-frontman-mike-edwards-on-his-song-catalog/",
+          "category": "musique",
+          "published_at": "2026-07-06T18:30:49+00:00",
+          "summary": "That catalog includes Right Here, Right Now, which reached No.2 on the Billboard Hot 100 in 1991.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fff66cb8001a",
+          "title": "C’est la série Prime Video des vacances : « Elle » prend la première place",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291367-cest-la-serie-prime-video-des-vacances-elle-prend-la-premiere-place.html",
+          "category": "ia",
+          "published_at": "2026-07-06T18:00:00+00:00",
+          "summary": "Sortie le 1er juillet 2026, la nouvelle série originale d’Amazon MGM Studios et Hello Sunshine s'est emparée de la première place des charts mondiaux en un claquement de doigts. Préquel officiel de la comédie culte&nbsp;La Revanche d'une blonde&nbsp;(Legally…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13b9afcd7e51",
+          "title": "Ce VTT électrique tout-suspendu de Decathlon passe sous la barre des 2 000 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2291313-ce-vtt-electrique-tout-suspendu-de-decathlon-passe-sous-la-barre-des-2-000-e.html",
+          "category": "loi",
+          "published_at": "2026-07-06T15:51:16+00:00",
+          "summary": "[Deal du jour] Vous avez envie de randonnées en vélo loin de la ville, de descentes rapides en forêt, de Backflip en montagne ? Investir dans un bon VTT électrique est alors la bonne solution pour vivre des sensations fortes en toute sécurité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bd1a91d905f",
+          "title": "L’Odyssey : le film est tellement gris que Nolan a dû stopper le tournage à cause… d’un arc-en-ciel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291281-lodyssey-le-film-est-tellement-gris-que-nolan-a-du-stopper-le-tournage-a-cause-dun-arc-en-ciel.html",
+          "category": "ia",
+          "published_at": "2026-07-06T15:48:00+00:00",
+          "summary": "Alors que les images de L'Odyssée s'attirent les foudres des puristes à cause d'une esthétique grisâtre jugée d’une tristesse absolue, Tom Holland vient de détendre l’atmosphère. Dans les colonnes d'Empire Magazine, l'acteur a révélé une anecdote lunaire : le tournage d'une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2bfb82df0a0",
+          "title": "Voici JADEPUFFER, le ransomware qui n’a plus besoin d’humain",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2291273-voici-jadepuffer-le-ransomware-qui-na-plus-besoin-dhumain.html",
+          "category": "ia",
+          "published_at": "2026-07-06T15:32:51+00:00",
+          "summary": "Dans un article de blog publié le 1er juillet 2026, des chercheurs de Sysdig affirment avoir documenté le premier cas de ransomware entièrement piloté par une IA autonome, de la reconnaissance initiale jusqu'au chiffrement des données.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a2b3e79fecd",
+          "title": "Xbox ressort la hache et s’ampute de cinq studios",
+          "source": "Next INpact",
+          "url": "https://next.ink/246192/xbox-ressort-la-hache-et-sampute-de-cinq-studios/",
+          "category": "ia",
+          "published_at": "2026-07-06T15:28:00+00:00",
+          "summary": "Microsoft a annoncé ce lundi 6 juillet une nouvelle charrette de licenciements. Le groupe va supprimer près de 5&#160;000 postes. La division Xbox paie le plus lourd tribut et se sépare de 5 studios – dont un basé en France, avec un avenir loin d&#8217;être garanti. Pour son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91b08323cb6b",
+          "title": "3 200 licenciements, plusieurs studios écartés : Xbox lance sa plus grande restructuration",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291357-le-grande-restructuration-de-xbox-est-en-marche-avec-lannonce-de-plus-de-3-000-licenciements-et-des-studios-ecartes.html",
+          "category": "ia",
+          "published_at": "2026-07-06T15:24:01+00:00",
+          "summary": "On l’avait vu venir, mais le choc est tout de même là : Microsoft annonce le licenciement de milliers d’employés au sein de sa division Xbox et se sépare au passage de quatre studios de développement. Une vaste restructuration qui fait de lourds dégâts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4ab8739e5d2",
+          "title": "Leapmotor officialise le prix de son petit SUV électrique qui veut enterrer la Renault 4",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2291295-leapmotor-officialise-le-prix-de-son-petit-suv-electrique-qui-veut-enterrer-la-renault-4.html",
+          "category": "ia",
+          "published_at": "2026-07-06T15:21:14+00:00",
+          "summary": "Leapmotor ouvre les commandes de son B03X en France, avec un ticket d'entrée fixé à 23 400 €. Un tarif qui place d'emblée ce SUV urbain électrique dans le viseur direct de la Renault 4 E-Tech ou de la Citroën ë-C3 Aircross.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "375f9516c07c",
+          "title": "Une page se tourne : après dix ans, Nintendo va arrêter de vendre la Switch en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2291365-une-page-se-tourne-apres-dix-ans-nintendo-va-arreter-de-vendre-la-switch-en-france.html",
+          "category": "justice",
+          "published_at": "2026-07-06T15:18:44+00:00",
+          "summary": "Le 6 juillet 2026, Nintendo a confirmé la fin prochaine de la Switch, de la Switch Lite et de la Switch OLED en Europe. À partir du 18 février 2027, ces modèles ne seront plus fournis aux revendeurs, en raison du nouveau règlement européen sur les batteries.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3eda9553f799",
+          "title": "Windows 11 : la mise à jour 26H2 se dessine pour cet automne",
+          "source": "Next INpact",
+          "url": "https://next.ink/246195/windows-11-la-mise-a-jour-26h2-se-dessine-pour-cet-automne/",
+          "category": "ia",
+          "published_at": "2026-07-06T15:10:11+00:00",
+          "summary": "La prochaine grosse évolution de Windows 11 apparaitra cet automne. Comme la 25H2, la 26H2 sera diffusée sous forme d’un «&#160;package d’activation&#160;», mais la plupart des nouveautés auront été distribuées avant, selon les configurations. Microsoft a fait un certain nombre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1bf83515869",
+          "title": "Des sites d’infos usurpent mon nom et m’attribuent des citations hallucinées par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/245092/des-sites-dinfos-usurpent-mon-nom-et-mattribuent-des-citations-hallucinees-par-ia/",
+          "category": "ia",
+          "published_at": "2026-07-06T14:27:13+00:00",
+          "summary": "Un rédacteur SEO a publié dans le « magazine des professionnels de l&#8217;information stratégique » un article vraisemblablement généré par IA qui m&#8217;attribuait un « témoignage d&#8217;expert » où je recommandais une formation&#8230; que je ne connaissais pas. Mon nom…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87e1d8acdb4d",
+          "title": "Les 5 réflexes pour bien utiliser son climatiseur mobile ou fixe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2291213-les-5-reflexes-pour-bien-utiliser-son-climatiseur-mobile-ou-fixe.html",
+          "category": "ia",
+          "published_at": "2026-07-06T14:10:44+00:00",
+          "summary": "Mettre la climatisation au plus bas ne rafraîchit pas plus vite, ça fait surtout exploser la facture. Voici cinq réflexes concrets pour tirer le meilleur de sa clim, mobile ou fixe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "816ad2bf241b",
+          "title": "☕️ Spotify fait le ménage dans un pari truqué de Kalshi",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/spotify-fait-le-menage-dans-un-pari-truque-de-kalshi/",
+          "category": "musique",
+          "published_at": "2026-07-06T14:06:42+00:00",
+          "summary": "Le morceau le plus écouté sur Spotify en juin aux États-Unis a été « Earrings », de Malcolm Todd. À moins qu&#8217;il s&#8217;agisse d&#8217;une manipulation des classements pour remplir les poches des parieurs de Kalshi… La plateforme de streaming a en effet repéré et retiré…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f361180740a",
+          "title": "La Hongrie menace de fermer les usines de batteries pour voitures électriques ne respectant pas les normes environnementales",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2291117-la-hongrie-menace-de-fermer-les-usines-de-batteries-pour-voitures-electriques-ne-respectant-pas-les-normes-environnementales.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-06T13:25:37+00:00",
+          "summary": "En Hongrie, le ministre de l'Environnement, László Gajdos, a menacé de fermer les usines de batteries qui ne respecteraient pas la réglementation environnementale. Un revirement politique majeur par rapport à la ligne suivie par le précédent gouvernement, dirigé par Viktor Orbán.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f49dab5c50b",
+          "title": "Un utilisateur de ChatGPT a généré des milliers de fois la même fanfiction érotique étrange",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291165-un-utilisateur-de-chatgpt-a-genere-des-milliers-de-fois-une-fanfiction-erotique-etrange.html",
+          "category": "ia",
+          "published_at": "2026-07-06T13:10:39+00:00",
+          "summary": "Des chercheurs étudiant les conversations de ChatGPT ont découvert qu’un utilisateur produisait des milliers de fanfictions liées à des grossesses fictives concernant des personnages du jeu vidéo Doki Doki Literature Club!, et personne ne sait vraiment pourquoi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c0de34d89f50",
+          "title": "Scanner les corps, le nouveau projet de Midjourney aux promesses sans fondement",
+          "source": "Next INpact",
+          "url": "https://next.ink/246066/scanner-les-corps-le-nouveau-projet-de-midjourney-aux-promesses-sans-fondement/",
+          "category": "ia",
+          "published_at": "2026-07-06T12:56:39+00:00",
+          "summary": "Mi-juin, l&#8217;entreprise d&#8217;IA générative Midjourney a vanté en grande pompe un nouveau projet de scanner du corps humain avec des promesses sans fondement d&#8217;éviter 30 % des décès et 50 % des dépenses de santé. Le projet pourrait surtout permettre à…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "a9cfb5fc4230",
           "title": "La CNIL a prononcé 23 nouvelles sanctions depuis janvier au titre de la procédure simplifiée",
