@@ -1,9 +1,564 @@
 {
-  "generated_at": "2026-07-08T10:30:30.133114+00:00",
+  "generated_at": "2026-07-09T11:18:53.238324+00:00",
   "days": [
+    {
+      "date": "2026-07-09",
+      "articles": [
+        {
+          "id": "8a580d22be28",
+          "title": "Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/cepd-ia-generative-chaines-blocs",
+          "category": "ia",
+          "published_at": "2026-07-09T12:00:00+00:00",
+          "summary": "Le 7 juillet 2026, le CEPD a adopté des lignes directrices sur l’anonymisation et des lignes directrices sur le moissonnage dans le contexte de l’IA générative. Il a aussi adopté la version finale de ses lignes directrices sur le traitement des données au moyen des technologies…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0bb41697ebda",
+          "title": "Latin music party giant BRESH Global acquires majority stake in Argentina’s Grupo Polenta, known for its DJ-driven music experiences",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/latin-music-party-giant-bresh-global-acquires-majority-stake-in-argentinas-grupo-polenta-known-for-its-dj-driven-music-experiences/",
+          "category": "musique",
+          "published_at": "2026-07-09T11:16:37+00:00",
+          "summary": "Polenta will continue operating under its own brand and creative identity, led by co-founders Marina \"Pol4ca\" Frohmann and Ignacio Elizalde.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6600f4bb6fa3",
+          "title": "Coupe du monde 2026 : attention à l’horaire du match France-Maroc",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292977-coupe-du-monde-2026-attention-a-lhoraire-du-match-france-maroc.html",
+          "category": "ia",
+          "published_at": "2026-07-09T11:10:00+00:00",
+          "summary": "Comme en 2022, le Maroc est sur le chemin de la France à la Coupe du monde. L'adversité promet de grimper d'un cran pour les Bleus, impressionnants depuis le début de la compétition. Le coup d'envoi du match est programmé pour ce jeudi 9 juillet, à 22h.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9da550ec58e8",
+          "title": "Microsoft publie TypeScript 7.0 avec des hausses impressionnantes de performances",
+          "source": "Next INpact",
+          "url": "https://next.ink/246879/microsoft-publie-typescript-7-0-avec-des-hausses-impressionnantes-de-performances/",
+          "category": "ia",
+          "published_at": "2026-07-09T10:29:06+00:00",
+          "summary": "La nouvelle mouture de TypeScript est annoncée avec des performances largement revues à la hausse. L’essentiel des nouveautés se concentre sur ces gains, le langage n’apportant rien de vraiment neuf sur les types et la syntaxe. Ce n’est pas tous les jours que l’on peut annoncer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b644701aacbd",
+          "title": "Bonnie Tyler, ‘Total Eclipse of the Heart’ Singer, Dies at 75",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bonnie-tyler-dead-total-eclipse-of-the-heart-singer-1236290436/",
+          "category": "musique",
+          "published_at": "2026-07-09T10:10:51+00:00",
+          "summary": "Tyler remains the only Welsh-born singer to top the Billboard Hot 100 to date.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1938d28fbaa",
+          "title": "DOOM : The Dark Ages est disponible à moins de 15 € pour l’arrivée de son dernier DLC",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293145-doom-the-dark-ages-est-disponible-a-moins-de-15-e-pour-larrivee-de-son-dernier-dlc.html",
+          "category": "justice",
+          "published_at": "2026-07-09T10:07:57+00:00",
+          "summary": "[Deal du jour] Si vous n'avez pas encore fait le dernier titre de la licence Doom, l'arrivée du nouveau -- et dernier -- DLC est la bonne occasion. Surtout que le jeu se trouve désormais à moins de 15 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c755c76adaa",
+          "title": "Elijah Wood tempère les rumeurs et détaille le projet Seigneur des Anneaux Shadow of the Past",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293059-elijah-wood-tempere-les-rumeurs-et-detaille-le-projet-seigneur-des-anneaux-shadow-of-the-past.html",
+          "category": "ia",
+          "published_at": "2026-07-09T10:05:00+00:00",
+          "summary": "La machine à rumeurs d'Hollywood s'est emballée un peu trop vite. Si les fans s'excitent déjà à l'idée de revoir Elijah Wood enfiler les pieds de Hobbit pour Shadow of the Past, le projet mystère chapeauté par Stephen Colbert, l'acteur vient de mettre un énorme holà. Oui, l'idée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "585360135c3b",
+          "title": "Linux : la méfiance autour d’Ubuntu et de ses Snap reste vive",
+          "source": "Next INpact",
+          "url": "https://next.ink/246834/linux-la-mefiance-autour-dubuntu-et-de-ses-snap-reste-vive/",
+          "category": "ia",
+          "published_at": "2026-07-09T09:21:07+00:00",
+          "summary": "L’équipe de développement de Tuxedo OS a annoncé qu’elle abandonnait Ubuntu pour Debian comme base pour sa propre distribution. Parmi les raisons citées, des difficultés à adapter le code vieillissant (LTS), une feuille de route IA jugée «&#160;opaque&#160;» et surtout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9766d568520",
+          "title": "Vous pouvez maintenant jouer à Stardew Valley en 3D, si vous osez",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292983-vous-pouvez-maintenant-jouer-a-stardew-valley-en-3d-si-vous-osez.html",
+          "category": "ia",
+          "published_at": "2026-07-09T09:21:00+00:00",
+          "summary": "S'il y a bien une communauté qui a su s'emparer de son jeu, c'est celle de Stardew Valley. Il existe des centaines de mods qui modifient considérablement le jeu, parfois pour ajouter des options bienvenues, parfois pour le transformer entièrement, pour le meilleur, mais aussi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab6e4aef6c99",
+          "title": "« L’équipe n’a pas hésité à lui faire confiance » : exclu d’un chat, il sabote toute une distribution Linux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2292989-lequipe-na-pas-hesite-a-lui-faire-confiance-exclu-dun-chat-il-sabote-toute-une-distribution-linux.html",
+          "category": "ia",
+          "published_at": "2026-07-09T09:10:00+00:00",
+          "summary": "Dans un communiqué publié le 8 juillet 2026, les mainteneurs d'OpenMandriva ont dénoncé une tentative de sabotage de leur distribution Linux. Ils pointent directement du doigt un ancien contributeur, qui aurait agi par représailles après l'exclusion d'un proche du projet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37d8f7af7ed0",
+          "title": "Sans Minecraft, Xbox serait peut-être mort",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292987-sans-minecraft-xbox-serait-peut-etre-mort.html",
+          "category": "ia",
+          "published_at": "2026-07-09T08:59:10+00:00",
+          "summary": "Alors que Microsoft taille massivement dans Xbox, un article publié par Bloomberg le 7 juillet 2026 révèle que les bénéfices de Minecraft auraient servi à financer une partie du reste du catalogue. De quoi relire autrement dix ans de stratégie très coûteuse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c70c338449d",
+          "title": "Un joueur a peut-être codé la fonction anti-wallhack que Counter-Strike attendait",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292969-un-joueur-a-peut-etre-code-la-fonction-anti-wallhack-que-counter-strike-attendait.html",
+          "category": "ia",
+          "published_at": "2026-07-09T08:55:00+00:00",
+          "summary": "Et si Counter-Strike 2 tenait enfin une vraie piste contre les wallhacks ? Un développeur indépendant a imaginé un plugin open source capable de limiter l’un des systèmes de triche les plus répandus dans le jeu (et d'autres FPS).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e703db7a97e1",
+          "title": "Ionity vous offre des kWh de recharge gratuits si vous vous comportez bien à la borne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2292997-ionity-vous-offre-des-kwh-de-recharge-gratuits-si-vous-vous-comportez-bien-a-la-borne.html",
+          "category": "justice",
+          "published_at": "2026-07-09T08:45:00+00:00",
+          "summary": "Pour faire face à l'afflux estival sur les routes européennes, l'opérateur de recharge Ionity lance un système de récompense. Les conducteurs peuvent bénéficier d'un crédit de 5 kWh de recharge gratuite s'ils arrêtent leur recharge dès que leur batterie atteint 80 % ou si la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53ae7d7104bb",
+          "title": "☕️ Apple passe une commande pluriannuelle de 30 milliards de dollars chez Broadcom",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-passe-une-commande-pluriannuelle-de-30-milliards-de-dollars-chez-broadcom/",
+          "category": "ia",
+          "published_at": "2026-07-09T08:43:02+00:00",
+          "summary": "Il y aura du Broadcom dans les prochains iPhone. Apple vient en effet d&#8217;annoncer la signature d&#8217;un contrat pluriannuel de grande ampleur avec l&#8217;équipementier. L&#8217;enveloppe prévisionnelle est supérieure à 30 milliards de dollars, et elle devrait conduire,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b03e0715ad6",
+          "title": "Vobile’s AI Music Detector works within ChatGPT, Claude and more",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/09/vobiles-ai-music-detector-works-within-chatgpt-claude-and-more/",
+          "category": "ia",
+          "published_at": "2026-07-09T08:33:49+00:00",
+          "summary": "What could be more 2026 than trying to detect whether a song is AI-generated or not&#8230; from within one of the big AI chatbots?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "031d8608cbe4",
+          "title": "Report: YouTube has overtaken Spotify as Brits’ primary podcasts platform",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/09/report-youtube-has-overtaken-spotify-as-brits-primary-podcasts-platform/",
+          "category": "musique",
+          "published_at": "2026-07-09T08:31:03+00:00",
+          "summary": "It’s not so long since Spotify overtaking Apple was the big story in podcasting. However, Spotify is now facing its own disrupter: YouTube.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66a5c3ab2f3e",
+          "title": "Terminator 2 : le film culte revient en salles dans une version inédite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2293003-terminator-2-le-film-culte-revient-en-salles-dans-une-version-inedite.html",
+          "category": "ia",
+          "published_at": "2026-07-09T08:18:29+00:00",
+          "summary": "Trente-cinq ans après avoir traumatisé toute une génération et redéfini la science-fiction, le T-800 revient faire le ménage sur grand écran. Pour fêter cet anniversaire, le chef-d’œuvre absolu de James Cameron s’offre une ressortie mondiale massive à la fin de l’été 2026.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5e9227803a27",
+          "title": "Jonas Brothers Add Third Concert at Madison Square Garden Following ‘Unreal’ Demand",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/jonas-brothers-third-concert-madison-square-garden-1236290419/",
+          "category": "musique",
+          "published_at": "2026-07-09T08:07:13+00:00",
+          "summary": "The MSG dates are all part of the JoBros’ The Burning Up Tour All Over Again, produced by Live Nation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed1a006936b7",
+          "title": "☕️ Vivaldi 8.1 corrige une longue liste de bugs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/vivaldi-8-1-corrige-une-longue-liste-de-bugs/",
+          "category": "ia",
+          "published_at": "2026-07-09T07:58:00+00:00",
+          "summary": "Six semaines après la sortie de Vivaldi 8.0 et de sa nouvelle interface, l&#8217;équipe livre une version de maintenance, estampillée 8.1, qui intervient principalement pour corriger les erreurs de jeunesse et optimiser le fonctionnement du navigateur. «&#160;Cette année est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c191a351a373",
+          "title": "AI, music-tech, future business models — what to expect at All About Music X",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/09/ai-music-tech-future-business-models-what-to-expect-at-all-about-music-x/",
+          "category": "musique",
+          "published_at": "2026-07-09T07:50:11+00:00",
+          "summary": "The milestone tenth edition of the Mumbai-based All About Music conference will be held from 25 to 27 August.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d387d3f61b2",
+          "title": "Milky Chance’s ‘Stolen Dance’ hits 2bn Spotify streams… 13 years after release",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/09/milky-chances-stolen-dance-hits-2bn-spotify-streams-13-years-after-release/",
+          "category": "musique",
+          "published_at": "2026-07-09T07:43:25+00:00",
+          "summary": "Milky Chance have just become the first German band to reach 2bn Spotify streams for a single track: &#8216;Stolen Dance&#8217;.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a963b7276a3",
+          "title": "[MàJ] Springer Nature a republié les articles rétractés de Max Planck",
+          "source": "Next INpact",
+          "url": "https://next.ink/244534/springer-nature-a-retracte-deux-articles-du-physicien-max-planck-pour-de-mauvaises-raisons/",
+          "category": "ia",
+          "published_at": "2026-07-09T07:40:00+00:00",
+          "summary": "Des chercheurs québécois ont remarqué que deux articles du chercheur allemand Max Planck datant des années 1940 ont été rétractés par l&#8217;éditeur scientifique. La rétractation non datée, elle, accusant le physicien de violation de copyright, serait en fait due à une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff4c8db9a6c7",
+          "title": "Avait-on vraiment besoin d’un remake de La Petite Maison dans la prairie sur Netflix ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292897-avait-on-vraiment-besoin-dun-remake-de-la-petite-maison-dans-la-prairie-sur-netflix.html",
+          "category": "ia",
+          "published_at": "2026-07-09T07:38:36+00:00",
+          "summary": "Le 9 juillet prochain, Netflix lance sa version de La Petite Maison dans la prairie. Ce monument de la culture américaine, qui suit les aventures d’une famille de pionniers dans l’Ouest américain du XIXe siècle, méritait-il un lifting ?&nbsp;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61d9bfffc141",
+          "title": "Crimson Desert : les développeurs travaillent sur la version Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292943-crimson-desert-va-peut-etre-devenir-une-realite-sur-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-07-09T07:18:09+00:00",
+          "summary": "Après plusieurs rumeurs, et surtout face au désir de nombreuses joueuses et de nombreux joueurs de voir le titre de Pearl Abyss débarquer sur Switch 2, il semblerait que Crimson Desert puisse bien arriver sur la console de Nintendo. C'est en tout cas ce qu'a récemment déclaré le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f5cfa38627f",
+          "title": "Dune 3 : un nouveau trailer époustouflant pour la future pépite de la fin d’année",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292779-dune-3-un-nouveau-trailer-epoustouflant-pour-la-future-pepite-de-la-fin-dannee.html",
+          "category": "ia",
+          "published_at": "2026-07-09T06:50:00+00:00",
+          "summary": "On s'y attendait, mais l'impact visuel reste le même. Warner Bros. vient de lâcher la nouvelle bande-annonce de&nbsp;Dune 3, et Denis Villeneuve n'est visiblement pas là pour enfiler des perles. Après un premier teaser brut balancé le&nbsp;18 mars 2026&nbsp;et des images…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9330aaaa170f",
+          "title": "Mortal Shell 2 est un soulslike à suivre (et il sort bientôt)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292945-mortal-shell-2-est-un-soulslike-a-suivre-et-il-sort-bientot.html",
+          "category": "ia",
+          "published_at": "2026-07-09T06:49:42+00:00",
+          "summary": "Cold Symmetry a annoncé la date de sortie de Mortal Shell 2, un soulslike qui pourrait créer la surprise à son lancement. Il est prévu pour le mois d'août.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e197a4344e3",
+          "title": "Grok 4.5 casse les prix, GPT-Live donne de la voix",
+          "source": "Next INpact",
+          "url": "https://next.ink/246807/grok-4-5-casse-les-prix-gpt-live-donne-de-la-voix/",
+          "category": "musique",
+          "published_at": "2026-07-09T06:41:58+00:00",
+          "summary": "SpaceXAI lance Grok 4.5, un modèle qui ne domine pas franchement les benchmarks mais qui attaque ses rivaux là où ça fait mal : la facture des tokens. OpenAI, de son côté, a dévoilé de nouveaux modèles vocaux. Les modèles Grok sont restés dans l&#8217;ombre des géants Claude et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "530fbd515c8a",
+          "title": "Angus & Julia Stone Announce U.S. Tour Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/angus-julia-stone-us-tour-dates-1236290392/",
+          "category": "musique",
+          "published_at": "2026-07-09T06:24:59+00:00",
+          "summary": "The Aussie singers and songwriters will perform fan faves and new cuts from their forthcoming album \"Karaoke Bar.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53426c8f35e1",
+          "title": "☕️ DuckDuckGo bloque la pub YouTube",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/duckduckgo-bloque-la-pub-youtube/",
+          "category": "ia",
+          "published_at": "2026-07-09T06:05:00+00:00",
+          "summary": "DuckDuckGo se paie un gros coup de pub… en les supprimant de YouTube. La dernière version du navigateur web embarque en effet une nouvelle option permettant de bloquer les réclames sur la plateforme vidéo de Google. Qui doit regarder tout ça d&#8217;un œil mauvais. Depuis 2023,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb4dde74805d",
+          "title": "La sortie de Palworld 1.0 s’accompagne d’une bonne nouvelle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292931-la-sortie-de-palworld-1-0-saccompagne-dune-bonne-nouvelle.html",
+          "category": "ia",
+          "published_at": "2026-07-09T05:48:27+00:00",
+          "summary": "PocketPair a annoncé une bonne nouvelle concernant la sortie de Palworld 1.0, la version définitive du jeu. Le prix ne sera pas changé, malgré la copieuse mise à jour qui se profile.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "417ad2270e6b",
+          "title": "☕️ Apple : le forfait iCloud+ le plus cher sera nécessaire pour utiliser l’IA de l’app Maison",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-le-forfait-icloud-le-plus-cher-sera-necessaire-pour-utiliser-lia-de-lapp-maison/",
+          "category": "ia",
+          "published_at": "2026-07-09T05:36:35+00:00",
+          "summary": "Apple ne propose pas pour le moment d&#8217;abonnement unique pour pouvoir utiliser l&#8217;ensemble des fonctions d&#8217;Apple Intelligence. Bon nombre d&#8217;entre elles sont gratuites, mais d&#8217;autres ne sont accessibles qu&#8217;à travers des formules payantes.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6592d5186755",
+          "title": "Boyz II Men Headlines 2026 Tour of Australia and New Zealand",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/boyz-ii-men-2026-tour-australia-new-zealand-1236290370/",
+          "category": "ia",
+          "published_at": "2026-07-09T03:58:09+00:00",
+          "summary": "Salt-N-Pepa and Bell Biv Devoe are joined on the bill for a '90s nostalgia trip.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bda7d257f000",
+          "title": "Benson Boone Is a ‘Wanted Man’ In Australia: Check His 2026 Tour Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/benson-boone-wanted-man-2026-australia-tour-1236290359/",
+          "category": "musique",
+          "published_at": "2026-07-09T03:15:09+00:00",
+          "summary": "The chart-topping U.S. pop artist will perform nine total concerts in Brisbane, Melbourne and Sydney.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e3b0ef0f925",
+          "title": "Brian Potter, ‘Rhinestone Cowboy’ Co-Producer & ’70s Hit Songwriter, Dies at 87",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/brian-potter-dead-songwriter-rhinestone-cowboy-producer/",
+          "category": "musique",
+          "published_at": "2026-07-09T00:57:17+00:00",
+          "summary": "With partner Dennis Lambert, Potter scored Billboard hits for Glen Campbell, Player, Tavares, the Four Tops &#38; more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "271a3e894ca3",
+          "title": "Eslabon Armado’s ‘NOCTURNO’ Scores Double Top 10 Billboard Entries",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/eslabon-armado-nocturno-double-top-10-billboard-entries-1236290330/",
+          "category": "musique",
+          "published_at": "2026-07-09T00:45:09+00:00",
+          "summary": "The set arrives at No. 8 on Top Latin Albums and No. 5 on Regional Mexican Albums charts.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-08",
       "articles": [
+        {
+          "id": "414c0478a28d",
+          "title": "Physical Operations Manager – Absolute Label Services – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/08/physical-operations-manager-absolute-label-services-london/",
+          "category": "musique",
+          "published_at": "2026-07-08T21:25:24+00:00",
+          "summary": "Physical Operations Manager, Absolute Label Services Type: Full Time Salary: Salary not specified Location: Wimbledon Village, London (Hybrid – minimum 3 days per week in the office) Absolute Label Services [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2537b2e5c7c0",
+          "title": "Pourquoi les armées de House of the Dragon auraient dû ressembler à un immense vide-grenier",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292721-pourquoi-les-armees-de-house-of-the-dragon-auraient-du-ressembler-a-un-immense-vide-grenier.html",
+          "category": "ia",
+          "published_at": "2026-07-08T18:25:00+00:00",
+          "summary": "Dans&nbsp;House of the Dragon, les champs de bataille de Westeros affichent une géométrie militaire impeccable. Des milliers de soldats s'y affrontent en arborant des armures rigoureusement identiques, forgées au millimètre près selon les couleurs de leur faction. C'est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cc34e799d79",
+          "title": "NewJeans face copyright lawsuit from US music publisher over ‘ETA’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/newjeans-hybe-ador-face-lawsuit-from-us-music-publisher-over-eta-copyright-claim/",
+          "category": "musique",
+          "published_at": "2026-07-08T15:52:37+00:00",
+          "summary": "All Surface Publishing claims \"ETA\" copied a combination of musical elements from a dance track released nearly two decades earlier, without a license.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3314adf0c23",
+          "title": "Meta coupe la caméra de ses lunettes connectées quand la LED est trafiquée",
+          "source": "Next INpact",
+          "url": "https://next.ink/246790/meta-coupe-la-camera-de-ses-lunettes-connectees-quand-la-led-est-trafiquee/",
+          "category": "ia",
+          "published_at": "2026-07-08T15:20:52+00:00",
+          "summary": "Meta va désactiver le capteur photo de ses lunettes connectées dès que la monture détectera une altération ou la destruction de sa loupiote LED. L&#8217;entreprise met ainsi fin à un business florissant qui permettait d&#8217;enregistrer des vidéos en douce, sans prévenir les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "561d14217e29",
+          "title": "☕️ Inclusion dans le numérique : la French Tech met fin à son programme Tremplin",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/inclusion-dans-le-numerique-la-french-tech-met-fin-a-son-programme-tremplin/",
+          "category": "institutionnel",
+          "published_at": "2026-07-08T15:02:00+00:00",
+          "summary": "Pour une dizaine de millions d’euros par an, le programme Tremplin de la Mission French Tech œuvrait depuis cinq ans à la promotion de la diversité dans le secteur numérique. D’après les informations de La Tribune, il vient d’être supprimé pour raisons budgétaires. Il devrait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d84e0584017c",
+          "title": "Michael Huppe: EU Move Could Put American Music Royalties at Risk",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/michael-huppe-eu-move-could-put-american-music-royalties-at-risk/",
+          "category": "musique",
+          "published_at": "2026-07-08T14:54:17+00:00",
+          "summary": "The following MBW op/ed comes from Michael Huppe, President and CEO of the Washington, D.C.-headquartered SoundExchange.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab5da1318290",
+          "title": "Droits voisins : Meta obligée de négocier vraiment avec les médias",
+          "source": "Next INpact",
+          "url": "https://next.ink/246740/droits-voisins-meta-obligee-de-negocier-vraiment-avec-les-medias/",
+          "category": "ia",
+          "published_at": "2026-07-08T14:36:00+00:00",
+          "summary": "Considérant que les pratiques de Meta portent une « atteinte grave et immédiate » au secteur de la presse, l&#8217;autorité de la concurrence enjoint l&#8217;entreprise à « négocier de bonne foi avec les éditeurs et agences de presse » concernant les contenus repris depuis début…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1016258c63f",
+          "title": "Primary Wave strikes deal with Foreigner co-founder Mick Jones, covering catalog, touring, and name, image & likeness",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/primary-wave-strikes-deal-with-foreigner-co-founder-mick-jones-covering-catalog-touring-and-name-image-and-likeness/",
+          "category": "ia",
+          "published_at": "2026-07-08T14:00:41+00:00",
+          "summary": "Primary Wave said its marketing team and publishing infrastructure will support branding, digital, sync and film and television projects for the band.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0aaa484008f4",
+          "title": "Jeux vidéo : Proton 11 passe à Wine 11 et s’avance vers ARM",
+          "source": "Next INpact",
+          "url": "https://next.ink/246764/jeux-video-proton-11-passe-a-wine-11-et-savance-vers-arm/",
+          "category": "ia",
+          "published_at": "2026-07-08T13:58:46+00:00",
+          "summary": "Valve a lancé la nouvelle version majeure de Proton le 7 juillet. Cette mouture 11 suit comme d’habitude les évolutions de la couche de compatibilité Wine 11, sortie récemment et sur laquelle repose Proton. Au-delà des améliorations pour les jeux, Proton fait également un grand…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b787bc059c5d",
+          "title": "Sandbox Guide :: Future-proof your business and marketing strategies",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/08/sandbox-guide-future-proof-your-business-and-marketing-strategies/",
+          "category": "ia",
+          "published_at": "2026-07-08T13:45:00+00:00",
+          "summary": "Sandbox Guides are for music marketers: They explain how you can use new platforms, create new strategies, and build new audiences. The Guides feature cutting-edge case studies, expert interviews, benchmark data, and a series of actionable takeaways, so that you can get started…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "429e405ba399",
+          "title": "DMA : pour la justice européenne, Apple reste bien un contrôleur d’accès",
+          "source": "Next INpact",
+          "url": "https://next.ink/246750/dma-pour-la-justice-europeenne-apple-reste-bien-un-controleur-dacces/",
+          "category": "ia",
+          "published_at": "2026-07-08T13:27:00+00:00",
+          "summary": "Apple est un contrôleur d&#8217;accès aux yeux du règlement sur les marchés numériques (DMA), a jugé le Tribunal de l’Union européenne. Les recours introduits par le constructeur américain ont été rejetés par la juridiction. En septembre 2023, la Commission européenne nommait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "383ecdc520d5",
+          "title": "World Cup spikes Shakira catalogue’s Spotify streams by 21.6%",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/08/world-cup-spikes-shakira-catalogues-spotify-streams-by-21-6/",
+          "category": "ia",
+          "published_at": "2026-07-08T13:17:00+00:00",
+          "summary": "Shakira is also doing well from the tournament, with her Burna Boy collaboration ‘Dai Dai’ another key track. It’s just her latest official World Cup tie-in following ‘Waka Waka’ in 2010 and ‘La La La’ in 2014.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3db7b01287e7",
+          "title": "BBC’s 6 Music to launch streaming-radio station ‘Indie Forever’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/08/bbcs-6-music-to-launch-streaming-radio-station-indie-forever/",
+          "category": "musique",
+          "published_at": "2026-07-08T12:59:54+00:00",
+          "summary": "Apple Music used its music-streaming service as the platform to get into live radio. Now one of the established players in the latter field, the BBC, is coming back the other way with the launch of ‘Indie Forever’ later this month. It’s an offshoot from its BBC Radio 6 Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a667b1eed15",
+          "title": "Les agents IA de GitHub peuvent faire fuiter un dépôt privé via une injection de prompt",
+          "source": "Next INpact",
+          "url": "https://next.ink/246585/les-agents-ia-de-github-peuvent-faire-fuiter-un-depot-prive-via-une-injection-de-prompt/",
+          "category": "ia",
+          "published_at": "2026-07-08T12:59:25+00:00",
+          "summary": "En postant un simple message d&#8217;erreur dans un dépôt public GitHub, des chercheurs en sécurité ont montré qu&#8217;il était possible de pousser les agents IA de GitHub pilotant les « workflows » d&#8217;un projet de développement à livrer des informations provenant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "613895d30e18",
+          "title": "WMG expands ADA including rebrands of African and MENA distros",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/08/wmg-expands-ada-including-rebrands-of-african-and-mena-distros/",
+          "category": "musique",
+          "published_at": "2026-07-08T12:55:49+00:00",
+          "summary": "Warner Music Group’s distribution and label-services division ADA is getting a significant expansion across Europe, the Middle East and Africa.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45744c0931c1",
+          "title": "Suno expands music team with former Atlantic and YouTube execs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/08/suno-expands-music-team-with-former-atlantic-and-youtube-execs/",
+          "category": "musique",
+          "published_at": "2026-07-08T12:52:08+00:00",
+          "summary": "Suno may still be locked in litigation with two major labels, but it continues to expand its music team, ahead of its planned launch of a new, licensed AI-music model later this year. Former Atlantic Records marketing executive Grace James has joined as VP and head of artist…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0778de3781f",
+          "title": "Gen-Z are outspending millennials on live music in the US",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/08/gen-z-are-outspending-millennials-on-live-music-in-the-us/",
+          "category": "musique",
+          "published_at": "2026-07-08T11:30:00+00:00",
+          "summary": "Luminate’s latest data-drop focuses on live music, and specifically on spending patterns in the US.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65bc3cc8a209",
+          "title": "‘AI-native’ Indian ticketing platform thumpN aims to put ‘discovery first’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/08/ai-native-indian-ticketing-platform-thumpn-aims-to-put-discovery-first/",
+          "category": "ia",
+          "published_at": "2026-07-08T11:25:06+00:00",
+          "summary": "Indian “AI-native” and “discovery-first” ticketing platform thumpN has launched. The platform&#8217;s key feature is an AI agent named Shadow.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08ac748c0640",
+          "title": "Près de 40 % des Français visitent chaque mois des sites d’info générés par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/246263/pres-de-40-des-francais-visitent-chaque-mois-des-sites-dinfo-generes-par-ia/",
+          "category": "ia",
+          "published_at": "2026-07-08T11:20:56+00:00",
+          "summary": "Le premier observatoire français de l’audience des sites GenAI, établi par Médiamétrie en octobre 2025, avait établi que près de 25 % des Français y étaient régulièrement confrontés. Six mois plus tard, ils sont près de 40 % (soit +60 % !). Une explosion en partie due à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "298558d26f8b",
+          "title": "UMG’s GTS strikes Telemundo deal for ‘Operación Triunfo Estados Unidos’ – with first call on signing the show’s artists",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umgs-gts-strikes-telemundo-deal-for-operacion-triunfo-estados-unidos-with-first-call-on-signing-the-shows-artists/",
+          "category": "musique",
+          "published_at": "2026-07-08T11:15:38+00:00",
+          "summary": "The agreement gives GTS a preferential right to sign the artists who emerge from the program, plus a role in developing their eventual concert tour.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "2c69e18b21cb",
           "title": "Prime Video bouscule toutes ses règles pour le retour de Reacher et le lancement de son spin-off",
