@@ -1,9 +1,504 @@
 {
-  "generated_at": "2026-07-09T11:18:53.238324+00:00",
+  "generated_at": "2026-07-10T11:19:05.893278+00:00",
   "days": [
+    {
+      "date": "2026-07-10",
+      "articles": [
+        {
+          "id": "fd77e1584221",
+          "title": "Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/revoir-le-webinaire-nouveau-teleservice-sante-et-recherche-ce-qui-change-pour-vos-demandes",
+          "category": "ia",
+          "published_at": "2026-07-10T12:00:00+00:00",
+          "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au&amp;nbsp;nouveau téléservice santé et recherche de la CNIL.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0df7f6cc19e6",
+          "title": "Alien: Earth sort du silence : la saison 2 donne de ses nouvelles et pille le casting de Game of Thrones",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293761-alien-earth-sort-du-silence-la-saison-2-donne-de-ses-nouvelles-et-pille-le-casting-de-game-of-thrones.html",
+          "category": "ia",
+          "published_at": "2026-07-10T10:45:16+00:00",
+          "summary": "À peine le temps de digérer les premières salves que la machine est déjà relancée. Le tournage de la deuxième saison d’Alien: Earth&nbsp;vient de débuter à Londres, et la production n'a pas fait les choses à moitié pour épaissir les rangs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e61aa6bc597b",
+          "title": "India’s thumpN raises $3.75m for AI-powered live entertainment platform",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indias-thumpn-raises-3-75m-for-ai-powered-live-entertainment-platform/",
+          "category": "ia",
+          "published_at": "2026-07-10T10:36:44+00:00",
+          "summary": "Backers of the round include Paytm founder Vijay Shekhar Sharma's family office VSS Investco and Paytm CFO Madhur Deora.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf137c8bf7c3",
+          "title": "iHeartMedia settles FCC ‘payola’ probe at its live music events, with no fine and no admission of liability",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/iheartmedia-settles-fcc-payola-probe-at-its-live-music-events-with-no-fine-and-no-admission-of-liability/",
+          "category": "musique",
+          "published_at": "2026-07-10T10:27:41+00:00",
+          "summary": "The FCC investigated whether iHeart broke rules by trading radio airplay for artist performances at its events.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86786edea2f6",
+          "title": "☕️ Xavier Niel va devenir le premier actionnaire de Vodafone",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/xavier-niel-va-devenir-le-premier-actionnaire-de-vodafone/",
+          "category": "ia",
+          "published_at": "2026-07-10T10:05:01+00:00",
+          "summary": "L&#8217;opérateur émirati Emirates Telecommunications Corporation, plus connu sous sa marque commerciale Etisalat, ou son logo e&#38;, a annoncé (PDF) vendredi la vente de sa participation dans le groupe Vodafone à une société dédiée intégralement détenue par la famille Niel.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ef91654e2cf",
+          "title": "La Chine vient de rattraper pour la première fois une fusée avec un filet géant (vidéos)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2293833-la-chine-vient-de-rattraper-pour-la-premiere-fois-une-fusee-avec-un-filet-geant-video.html",
+          "category": "ia",
+          "published_at": "2026-07-10T09:40:00+00:00",
+          "summary": "C'est une première : un étage de fusée chinoise a été récupéré après son vol, en vue d'une réutilisation. Le tout avec une méthode de capture encore jamais utilisée aux États-Unis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "458a5589bd72",
+          "title": "Le BMW iX3 devient « la voiture la plus sûre jamais conçue par BMW » selon l’Euro NCAP",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2293623-le-bmw-ix3-devient-la-voiture-la-plus-sure-jamais-concue-par-bmw-selon-leuro-ncap.html",
+          "category": "ia",
+          "published_at": "2026-07-10T09:23:00+00:00",
+          "summary": "L'Euro NCAP renforce son protocole de crash-test à compter de l'année 2026. Les premiers élèves à passer l'examen sont les BMW iX3 et Zeekr 7GT, et les résultats se sont soldés par la note maximale pour les deux modèles : 5 étoiles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95966779e5aa",
+          "title": "Ce distributeur de nourriture en promo nourrit votre chat en votre absence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2293749-ce-distributeur-de-nourriture-en-promo-nourrit-votre-chat-en-votre-absence.html",
+          "category": "ia",
+          "published_at": "2026-07-10T09:20:56+00:00",
+          "summary": "[Deal du jour] Si votre chat se retrouve seul chez vous le temps d'un week-end, un distributeur de nourriture connecté peut s’avérer très pratique. Ce modèle de Xiaomi baisse son prix pile pour l'été et les départs en vacances.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "735a0f3dd9a4",
+          "title": "BTS label Big Hit Music rejects ‘SWIM’ copyright claim, says track was independently created",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bts-label-big-hit-music-rejects-swim-copyright-claim-says-track-was-independently-created/",
+          "category": "musique",
+          "published_at": "2026-07-10T09:15:55+00:00",
+          "summary": "'The allegations in the lawsuit are unilateral and unsubstantiated,' Big Hit Music said\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d026e8726c7",
+          "title": "Madonna’s ‘Confessions II’ Checks In At No. 1 on ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/madonna-confessions-ii-no-1-aria-chart-1236291506/",
+          "category": "musique",
+          "published_at": "2026-07-10T09:15:39+00:00",
+          "summary": "The queen of pop now boasts 13 No. 1s on the ARIA Albums Chart, and 22 appearances in the top 10 album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aaafc01bae11",
+          "title": "Microsoft officialise son utilisation intensive de l’IA pour la découverte des failles",
+          "source": "Next INpact",
+          "url": "https://next.ink/246980/microsoft-officialise-son-utilisation-intensive-de-lia-pour-la-decouverte-des-failles/",
+          "category": "ia",
+          "published_at": "2026-07-10T09:10:37+00:00",
+          "summary": "En mai 2026, Microsoft avait indiqué brièvement que ses équipes d’ingénieurs utilisaient de plus en plus les LLM pour chercher les failles de sécurité. Cette fois, l’entreprise détaille sa façon de faire, en insistant sur l’importance que représentent désormais les grands…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "793e4d7864e7",
+          "title": "Produire des voitures électriques compétitives en France était « impossible », Renault passe pourtant le cap du million",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2293663-produire-des-voitures-electriques-competitives-en-france-etait-impossible-renault-passe-pourtant-le-cap-du-million.html",
+          "category": "ia",
+          "published_at": "2026-07-10T09:05:00+00:00",
+          "summary": "Quinze ans après avoir lancé le pari de la Zoé, Renault vient de franchir un cap plus que symbolique&nbsp;: celui du million de véhicules électriques produits en France. Et « ce n’est que le début », se réjouit François Provost.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d3c2bef38b0",
+          "title": "Pour aider à la maison, le robot NEO de 1X adopte une main calquée sur l’anatomie humaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2293637-pour-aider-a-la-maison-le-robot-neo-de-1x-adopte-une-main-calquee-sur-lanatomie-humaine.html",
+          "category": "ia",
+          "published_at": "2026-07-10T08:55:00+00:00",
+          "summary": "Le 9 juillet 2026, la firme 1X a présenté une nouvelle génération de mains pour son robot humanoïde NEO. Derrière cette annonce technique se cache en réalité l'un des défis les plus complexes de la robotique : concevoir une main suffisamment habile pour manipuler les objets du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62a5ead7e871",
+          "title": "Le film live-action Naruto est en route : pourquoi le pire est à craindre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293657-le-film-live-action-naruto-est-en-route-pourquoi-le-pire-est-a-craindre.html",
+          "category": "musique",
+          "published_at": "2026-07-10T08:39:55+00:00",
+          "summary": "Lionsgate lance officiellement la production du film&nbsp;Naruto&nbsp;en prises de vues réelles avec un casting planétaire pour former l'Équipe 7. Si le projet s’annonce casse-gueule, la présence du réalisateur Destin Daniel Cretton reste le seul rempart contre une catastrophe…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "811774babf90",
+          "title": "Accusations de backdoor dans Claude Code : la Chine et Anthropic s’affrontent par médias interposés",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2293621-accusations-de-backdoor-dans-claude-code-la-chine-et-anthropic-saffrontent-par-medias-interposes.html",
+          "category": "ia",
+          "published_at": "2026-07-10T08:25:10+00:00",
+          "summary": "Après la découverte d'un mécanisme caché dans Claude Code visant à repérer les utilisateurs chinois, Pékin a exhorté les développeurs à désinstaller l'outil, évoquant une « porte dérobée ». Anthropic a répliqué en rappelant que la Chine n'avait de toute façon jamais été…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "011559b1b91a",
+          "title": "Bloquer les VPN pour protéger les mineurs ? Le débat prend de l’ampleur en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/246853/bloquer-les-vpn-pour-proteger-les-mineurs-le-debat-prend-de-lampleur-en-europe/",
+          "category": "ia",
+          "published_at": "2026-07-10T08:22:08+00:00",
+          "summary": "Les VPN sont-ils devenus la nouvelle faille de la protection des mineurs en ligne ? Depuis le durcissement britannique sur la vérification d’âge en ligne, leur usage alimente les inquiétudes politiques. Mais pour les spécialistes, ces outils ne sont qu’un moyen de contournement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c22c3d8653b",
+          "title": "Le pire film de l’année va devenir le pire jeu vidéo de l’année",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293603-le-pire-film-de-lannee-va-devenir-le-pire-jeu-video-de-lannee.html",
+          "category": "ia",
+          "published_at": "2026-07-10T07:43:04+00:00",
+          "summary": "Uwe Boll, un nom qui résonne chez les cinéphiles du monde entier, mais pas pour de bonnes raisons. Depuis maintenant de (trop) nombreuses années, le réalisateur allemand s'est spécialisé dans les navets cinématographiques. Son dernier film, Citizen Vigilante, ne déroge pas à la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73124b1776c5",
+          "title": "AnArtizen offers ‘Unfair Advantage’ to aspiring music professionals",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/anartizen-offers-unfair-advantage-to-aspiring-music-professionals/",
+          "category": "musique",
+          "published_at": "2026-07-10T07:40:18+00:00",
+          "summary": "AnArtizen, an organisation that produces and provides resources to help creative professionals build careers, has launched Unfair Advantage.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ae76362efd4",
+          "title": "Avec GPT-5.6, OpenAI veut faire de ChatGPT sa super app",
+          "source": "Next INpact",
+          "url": "https://next.ink/246959/avec-gpt-5-6-openai-veut-faire-de-chatgpt-sa-super-app/",
+          "category": "ia",
+          "published_at": "2026-07-10T07:15:29+00:00",
+          "summary": "OpenAI profite de la sortie du purgatoire de GPT-5.6 pour lancer une nouvelle offensive afin d&#8217;installer ChatGPT au cœur de tous les usages – aussi bien pour le grand public que pour les professionnels. Les annonces du labo sont un rien désordonnées, alors essayons…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "103b50f6b5a5",
+          "title": "☕️ La FED crée un groupe de travail sur l’IA et son impact sur l’emploi ou la productivité",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-fed-cree-un-groupe-de-travail-sur-lia-et-son-impact-sur-lemploi-ou-la-productivite/",
+          "category": "ia",
+          "published_at": "2026-07-10T06:54:00+00:00",
+          "summary": "La Réserve fédérale des États-Unis (FED) vient de créer cinq groupes de travail, composés de personnalités issues de la société civile et chargés d&#8217;aider la banque centrale à élaborer les grands axes de sa politique monétaire. Dans le lot, l&#8217;institution met sur un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dff351b86c3b",
+          "title": "À peine sorti, le dernier Assassin’s Creed est déjà ciblé sur Steam",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293601-a-peine-sorti-le-dernier-assassins-creed-est-deja-cible-sur-steam.html",
+          "category": "ia",
+          "published_at": "2026-07-10T06:47:51+00:00",
+          "summary": "C'est une habitude dont Ubisoft se passerait bien. Alors qu'il vient tout juste d'être lancé, Assassin's Creed Black Flag Resynced n'affiche que des évaluations moyennes sur Steam. Les joueuses et les joueurs pestent notamment contre la monétisation du jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96700584d45b",
+          "title": "☕️ Fidji Simo, numéro 2 d’OpenAI, se met en retrait pour raisons médicales",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/fidji-simo-numero-2-dopenai-se-met-en-retrait-pour-raisons-medicales/",
+          "category": "justice",
+          "published_at": "2026-07-10T06:38:00+00:00",
+          "summary": "La Française Fidji Simo, «&#160;CEO of applications&#160;» chez OpenAI, a annoncé vendredi sa décision de quitter ses fonctions exécutives, au profit d&#8217;un poste de conseillère à temps partiel. Elle invoque des raisons médicales : une maladie chronique dont elle souffre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aef7173017fb",
+          "title": "Warner Music India expands its artist services division",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/warner-music-india-expands-its-artist-services-division/",
+          "category": "musique",
+          "published_at": "2026-07-10T06:25:16+00:00",
+          "summary": "Warner Music India has expanded its artist services and expanded rights division, which is known as ASER in the country.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbaed93893b8",
+          "title": "Muse Spark 1.1 : Meta agressif sur les prix pour rattraper les cadors de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/246952/muse-spark-1-1-meta-agressif-sur-les-prix-pour-rattraper-les-cadors-de-lia/",
+          "category": "ia",
+          "published_at": "2026-07-10T06:13:15+00:00",
+          "summary": "Après les premiers pas de sa première version « grand public » début avril, Muse Spark s&#8217;ouvre aux développeurs tiers. Le nouveau modèle IA de Meta est désormais proposé dans une mouture 1.1 qui ne se présente pas comme le champion des benchmarks, mais sous l&#8217;angle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "318e818dbad6",
+          "title": "The Elder Scrolls 6, victime collatérale du grand reset de Xbox ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2293597-the-elder-scrolls-6-victime-collaterale-du-grand-reset-de-xbox.html",
+          "category": "ia",
+          "published_at": "2026-07-10T05:52:58+00:00",
+          "summary": "Le grand reset de Xbox, matérialisé par des milliers d'emplois sacrifiés et des studios éviscérés (ou écartés), risque d'avoir un impact négatif sur les projets en cours. Notamment un certain The Elder Scrolls 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b35c53b4a8a8",
+          "title": "Jack White Heats up With ‘Frozen Charlotte’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/jack-white-frozen-charlotte-stream-it-now-1236291482/",
+          "category": "ia",
+          "published_at": "2026-07-10T05:39:47+00:00",
+          "summary": "Produced and mixed by the Detroit native, \"Frozen Charlotte\" took sonic shape at White's Third Man Studio in Nashville with a roll call of familiar collaborators.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f6593849369",
+          "title": "☕️ Google généralise le signalement des publicités générées par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-generalise-le-signalement-des-publicites-generees-par-ia/",
+          "category": "ia",
+          "published_at": "2026-07-10T05:26:12+00:00",
+          "summary": "Google, une des plus grandes régies pub du monde, permet aux annonceurs de créer leurs propres réclames en utilisant des outils d&#8217;IA générative. Autant que ça serve à quelque chose après tout. Mais les progrès de l&#8217;intelligence artificielle font qu&#8217;il est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3efaed4ff37f",
+          "title": "Beyoncé, Suki Waterhouse, Teddy Swims & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/beyonce-suki-waterhouse-teddy-swims-new-music-friday-guide-1236288834/",
+          "category": "musique",
+          "published_at": "2026-07-10T05:00:40+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3977e3dca575",
+          "title": "The Rolling Stones Roll On With ‘Foreign Tongues’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/rolling-stones-foreign-tongues-stream-it-now-1236291458/",
+          "category": "musique",
+          "published_at": "2026-07-10T04:09:15+00:00",
+          "summary": "The followup to the Grammy Award-winning 2023 collection Hackney Diamonds, the Stones' new album features an Amy Winehouse cover, a nod to Chuck Berry, and 12 new compositions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80462e60a518",
+          "title": "Future Reveals ‘The Real Me’ With New Album: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/future-the-real-me-album-stream-1236291021/",
+          "category": "musique",
+          "published_at": "2026-07-10T04:03:28+00:00",
+          "summary": "Pluto is back.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "222dae690d16",
+          "title": "Luis R. Conriquez Breaks Down 5 Essential Tracks From His New Album ‘Muchacho Alegre’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/luis-r-conriquez-new-album-muchacho-alegre-essential-tracks/",
+          "category": "musique",
+          "published_at": "2026-07-10T04:01:00+00:00",
+          "summary": "The Mexican singer moves away from corridos bélicos, returning to his musical roots alongside guests such as Netón Vega, Peso Pluma, Fuerza Regida &#38; Anuel AA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fe86e0198d6",
+          "title": "Lululemon’s Rare Sale Is Live With Align Pants, ABC Trousers & Summer Styles From $19",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/lululemon-summer-sale-2026-best-activewear-deals-buy-online-1236290891/",
+          "category": "musique",
+          "published_at": "2026-07-10T00:44:25+00:00",
+          "summary": "The high-end activewear brand seen on musicians like Kelsea Ballerini rarely goes on sale, but shoppers can now score hundreds of Lululemon favorites for up to 65% off.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1867d8991257",
+          "title": "Run-D.M.C. Celebrates 40 Years of Seminal ‘Raising Hell’ Album: ‘It’s the Sgt. Pepper’s of Hip-Hop’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/run-dmc-raising-hell-album-40th-anniversary-video-1236291157/",
+          "category": "musique",
+          "published_at": "2026-07-10T00:26:01+00:00",
+          "summary": "The Queens-bred crew's third album was the first hip-hop LP to go platinum.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-09",
       "articles": [
+        {
+          "id": "406e30a7dee4",
+          "title": "Alpine, Mercedes, MG et Denza : les quatre nouveautés électriques qui affolent le Festival of Speed de Goodwood",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2293333-alpine-mercedes-mg-et-denza-les-quatre-nouveautes-electriques-qui-affolent-le-festival-of-speed-de-goodwood.html",
+          "category": "ia",
+          "published_at": "2026-07-09T17:45:00+00:00",
+          "summary": "Plusieurs marques profitent du Goodwood Festival of Speed pour faire le show avec leur nouveauté électrique. Voici les quatre modèles qui font sensation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31c6589a342d",
+          "title": "[MàJ] OpenAI lance vraiment GPT-5.6 Sol, Terra et Luna",
+          "source": "Next INpact",
+          "url": "https://next.ink/244490/openai-lance-gpt-5-6-sol-terra-et-luna-mais-en-acces-limite/",
+          "category": "ia",
+          "published_at": "2026-07-09T17:23:21+00:00",
+          "summary": "Sol, Terra et Luna : les trois versions de GPT-5.6 sont maintenant disponibles, après quelques semaines de purgatoire à la Maison Blanche. Mise à jour, 9/07 — Après quelques semaines en accès limité, GPT-5.6 a reçu le feu vert de l&#8217;administration Trump pour être lancé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfe85bba220e",
+          "title": "Believe restructures global organization to ‘accelerate artist development strategy’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-restructures-global-organization-romain-becker-appointed-group-coo-elsa-bahamonde-bourgain-named-president-artist-services-and-label-artist-solutions/",
+          "category": "musique",
+          "published_at": "2026-07-09T17:00:43+00:00",
+          "summary": "Romain Becker named Group COO, Elsa Bahamonde Bourgain to lead combined Artist Services and Label &#038; Artist Solutions\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "500f38bb3cc4",
+          "title": "Songwriters file copyright suit against HYBE over BTS hit ‘SWIM’, alleging it copied their demo",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-sued-over-bts-hit-swim-songeriters-alleging-it-copied-their-demo/",
+          "category": "ia",
+          "published_at": "2026-07-09T16:00:24+00:00",
+          "summary": "Steve Cooper, Jon Sandler and Greylyn Johnson filed the complaint on July 8\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ef7b728de86",
+          "title": "Zones grises de l’information : le Sénat veut un Viginum contre les ingérences intérieures",
+          "source": "Next INpact",
+          "url": "https://next.ink/246941/zones-grises-de-linformation-le-senat-veut-un-viginum-contre-les-ingerences-interieures/",
+          "category": "institutionnel",
+          "published_at": "2026-07-09T15:49:39+00:00",
+          "summary": "Dans un rapport de 160 pages sur les zones grises de l&#8217;information, trois sénatrices et sénateurs appellent à protéger et financer la pluralité de la presse et à responsabiliser les géants numériques. Sommes-nous prémunis contre une ingérence informationnelle venue de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35508eefcaea",
+          "title": "Anthropic lance « Réflexion », un récap pour mieux comprendre votre usage de Claude",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2293447-anthropic-lance-reflexion-un-recap-pour-mieux-comprendre-votre-usage-de-claude.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-09T15:34:31+00:00",
+          "summary": "La société-mère de Claude vient d'introduire une nouvelle fonctionnalité baptisée « Réflexion ». Elle propose aux utilisateurs du chatbot de mieux analyser leur rapport à l’intelligence artificielle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db69f1c6b80d",
+          "title": "Digital Marketing Manager – The Orchard – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/09/digital-marketing-manager-the-orchard-london/",
+          "category": "musique",
+          "published_at": "2026-07-09T15:22:54+00:00",
+          "summary": "We are looking for a highly motivated, forward thinking digital marketing and advertising strategist to join our UK team. This role will be responsible for providing top tier marketing services [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "610a8ea74474",
+          "title": "Apple ferme la porte à la restauration de vieux iPhone et iPad",
+          "source": "Next INpact",
+          "url": "https://next.ink/246934/apple-ferme-la-porte-a-la-restauration-de-vieux-iphone-et-ipad/",
+          "category": "ia",
+          "published_at": "2026-07-09T15:19:52+00:00",
+          "summary": "Apple a cessé de signer le firmware du modem associé à plusieurs vieilles versions d&#8217;iOS, empêchant ainsi la restauration logicielle d&#8217;anciens iPhone et iPad cellulaires. Les appareils en question restent utilisables, même si on doute que beaucoup soient encore en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "246a6760850c",
+          "title": "macOS 27 donne un coup de fouet à sa virtualisation",
+          "source": "Next INpact",
+          "url": "https://next.ink/246929/macos-27-donne-un-coup-de-fouet-a-sa-virtualisation/",
+          "category": "ia",
+          "published_at": "2026-07-09T14:38:30+00:00",
+          "summary": "Le prochain macOS, alias Golden Gate, fournira plusieurs améliorations à sa virtualisation. Parmi elles, le très demandé accès aux périphériques USB ou encore les images disque en calques. macOS expose aujourd’hui deux couches de virtualisation. La couche basse,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c164907489f",
+          "title": "Lit, the band behind pop-punk hit ‘My Own Worst Enemy,’ settles Sony Music streaming royalty lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/lit-the-band-behind-pop-punk-hit-my-own-worst-enemy-settles-sony-music-streaming-royalty-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-07-09T14:10:42+00:00",
+          "summary": "The members of Lit sued Sony in a New York court in March over their streaming royalties, seeking $800,000.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7fadb73224a",
+          "title": "☕️ Meta réfléchirait à des lunettes qui enregistrent tout, tout le temps",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/meta-reflechirait-a-des-lunettes-qui-enregistrent-tout-tout-le-temps/",
+          "category": "ia",
+          "published_at": "2026-07-09T13:57:39+00:00",
+          "summary": "Meta plancherait sur des prototypes de lunettes connectées capables d&#8217;enregistrer en continu ce qui se passe autour de l&#8217;utilisateur, aussi bien en audio qu&#8217;en prenant des photos régulièrement, rapportent des sources du Financial Times. Cela permettrait au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2a96f8bc762",
+          "title": "Doctolib veut utiliser vos données pour ses recherches en IA. Vous pouvez refuser.",
+          "source": "Next INpact",
+          "url": "https://next.ink/246817/doctolib-veut-utiliser-vos-donnees-pour-ses-recherches-en-ia-vous-pouvez-refuser/",
+          "category": "ia",
+          "published_at": "2026-07-09T13:12:00+00:00",
+          "summary": "Doctolib va utiliser par défaut les données de ses utilisateurs pour des projets de R&#38;D. Considérant le faire dans son intérêt légitime, l&#8217;entreprise a seulement mis en place un formulaire permettant de s&#8217;y opposer (procédure d&#8217;opt-out). Ce mercredi 8…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5f831105a79",
+          "title": "Chat Control : le Parlement européen rétablit la surveillance volontaire des messageries",
+          "source": "Next INpact",
+          "url": "https://next.ink/246899/chat-control-le-parlement-europeen-retablit-la-surveillance-volontaire-des-messageries/",
+          "category": "ia",
+          "published_at": "2026-07-09T12:32:09+00:00",
+          "summary": "Le Parlement européen a voté jeudi 9 juillet la prolongation de la dérogation qui autorise les grandes plateformes à surveiller volontairement les communications électroniques pour y détecter les contenus relevant d’abus sexuels sur mineurs. La demande de rejet a pourtant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8006fe879aa",
+          "title": "Warner Music India unveils strategic expansion of artist services arm as it moves deeper into brands, live, and sync",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-india-unveils-strategic-expansion-of-artist-services-arm-as-it-moves-deeper-into-brands-live-and-sync/",
+          "category": "musique",
+          "published_at": "2026-07-09T12:25:03+00:00",
+          "summary": "Warner Music India said ASER serves as its bridge into brands, sports, live entertainment and creator culture.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4a5a0fa5314",
+          "title": "Artistik License’s Coffee for Contracts offers pro bono legal support for musicians",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/09/artistik-licenses-coffee-for-contracts-offers-pro-bono-legal-support-for-musicians/",
+          "category": "musique",
+          "published_at": "2026-07-09T12:15:40+00:00",
+          "summary": "The 'Coffee for Contracts' initiative involves offering pro bono legal support to creative professionals every July.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a2095794f5b",
+          "title": "US music coalition urges US Trade Representative to oppose EU proposal it says could cost American artists nearly $300M a year",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-music-coalition-urges-us-trade-representative-to-oppose-eu-proposal-it-says-could-cost-american-artists-nearly-300m-a-year/",
+          "category": "musique",
+          "published_at": "2026-07-09T12:09:47+00:00",
+          "summary": "Coalition warns proposed European policy reversal would discriminate against U.S. creators and undermine longstanding international copyright principles.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "8a580d22be28",
           "title": "Le CEPD met en lumière l’anonymisation et le moissonnage pour l’IA générative et adopte la version finale des lignes directrices sur la chaîne de blocs",
@@ -12,6 +507,16 @@
           "category": "ia",
           "published_at": "2026-07-09T12:00:00+00:00",
           "summary": "Le 7 juillet 2026, le CEPD a adopté des lignes directrices sur l’anonymisation et des lignes directrices sur le moissonnage dans le contexte de l’IA générative. Il a aussi adopté la version finale de ses lignes directrices sur le traitement des données au moyen des technologies…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89fc8edec792",
+          "title": "Travail, ressources humaines : le contrôle de l’activité des personnes employées",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/controle-de-lactivite-des-personnes-employees",
+          "category": "ia",
+          "published_at": "2026-07-09T12:00:00+00:00",
+          "summary": "Un employeur a le pouvoir d’encadrer et de contrôler l’activité des membres du personnel ainsi que leur usage des équipements au travail. Il s’agit d’une contrepartie normale et inhérente au contrat de travail. Néanmoins, ce pouvoir ne peut pas être exercé de manière excessive.",
           "summary_type": "extrait source"
         },
         {
