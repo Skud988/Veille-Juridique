@@ -1,9 +1,344 @@
 {
-  "generated_at": "2026-07-10T11:19:05.893278+00:00",
+  "generated_at": "2026-07-11T09:48:21.552800+00:00",
   "days": [
+    {
+      "date": "2026-07-11",
+      "articles": [
+        {
+          "id": "c51e38337461",
+          "title": "La version 1.0 de Palworld affole déjà les compteurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2294619-la-version-1-0-de-palworld-affole-deja-les-compteurs.html",
+          "category": "ia",
+          "published_at": "2026-07-11T09:45:00+00:00",
+          "summary": "La version 1.0 de Palworld est désormais disponible sur PS5, Xbox Series S, Xbox Series X et PC. Sur Steam, le jeu de Pocketpair affole déjà les compteurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e6f4dc24b93",
+          "title": "L’un des meilleurs jeux de la décenie est maintenant en précommande sur Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294243-lun-des-meilleurs-jeux-de-la-decenie-est-maintenant-en-precommande-sur-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-07-11T08:30:00+00:00",
+          "summary": "[Précommande] Si vous attendiez Elden Ring sur Switch 2 pour pouvoir y jouer dans le confort rassurant de votre lit, le jeu est désormais en précommande en version physique, au format Game Key Card.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "337d0cc4142e",
+          "title": "Coupe du monde 2026 : selon EA Sports, l’Espagne va forcément battre la France en demi-finale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294585-coupe-du-monde-2026-selon-ea-sports-lespagne-va-forcement-battre-la-france-en-demi-finale.html",
+          "category": "ia",
+          "published_at": "2026-07-11T08:18:36+00:00",
+          "summary": "La France et l'Espagne s'affronteront le 14 juillet 2026 pour une place en finale de la Coupe du monde. EA Sports ayant annoncé la Roja gagnante de la compétition, les Bleus devraient logiquement perdre ce choc.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f21cf571eb88",
+          "title": "Apple attaque OpenAI en justice pour vol de secrets industriels",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2294553-apple-attaque-openai-en-justice-pour-vol-de-secrets-industriels.html",
+          "category": "ia",
+          "published_at": "2026-07-11T07:23:47+00:00",
+          "summary": "OpenAI est dans le viseur d'Apple, qui accuse le créateur de ChatGPT de lui avoir volé des informations confidentielles, via d'anciens employés. OpenAI s'en est bien évidemment défendu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94479afdeca3",
+          "title": "Ariana Grande Drops ‘American Horror Story’ Season 13 Amid Touring Schedule",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-american-horror-story-season-13-1236292283/",
+          "category": "ia",
+          "published_at": "2026-07-11T07:02:59+00:00",
+          "summary": "The singer's Ryan Murphy reunion is on hold after her tour schedule conflicted with a change in the show's production dates.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "756e067b3afc",
+          "title": "Internet se moque de L’Odyssée, Ghost in the Shell revient en force, le film Avatar est avancé, le Recap Pop Culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294403-internet-se-moque-de-lodyssee-ghost-in-the-shell-revient-en-force-le-film-avatar-est-avance-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-11T06:00:00+00:00",
+          "summary": "L'Odyssée de Christopher Nolan a beau être l'un des films les plus attendus du moment, ça n'empêche pas les internautes de se moquer de lui, notamment à cause d'une image qui fait couler beaucoup d'encre sur les réseaux sociaux. Du côté de l'animation, le premier épisode de The…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0de72c192ec9",
+          "title": "Jay-Z’s Yankee Stadium Night One Setlist: Every Song Played at the First Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/jay-z-yankee-stadium-night-one-setlist/",
+          "category": "ia",
+          "published_at": "2026-07-11T05:31:05+00:00",
+          "summary": "The star-studded affair included appearances by Beyoncé, Blue Ivy Carter, Nas, Alicia Keys and more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f6b1427f0e1",
+          "title": "YEONJUN, The Rolling Stones, Beyoncé & More: Which Is Your Favorite New Music Release This Week? Vote!",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/yeonjun-vote-favorite-new-music-release-this-week-poll-1236292228/",
+          "category": "musique",
+          "published_at": "2026-07-11T00:48:00+00:00",
+          "summary": "We also had new releases from Future, Suki Waterhouse, Teddy Swims, The Linda Lindas &#38; Hayley Williams, Chris Lake &#38; Tiga, and more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98313690aed3",
+          "title": "Taylor Swift & Travis Kelce Paid ‘Over $160,000’ for NYC Wedding Permit, Mayor Zohran Mamdani Says",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/taylor-swift-travis-kelce-nyc-wedding-permit-mayor-mamdani-1236292220/",
+          "category": "ia",
+          "published_at": "2026-07-11T00:16:20+00:00",
+          "summary": "What did the couple have to pay to host their wedding in the thick of New York City?",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-10",
       "articles": [
+        {
+          "id": "04f63d3aabd9",
+          "title": "Insomniac to Stay Involved With Miami’s Club Space & Factory Town Venues After Legal Settlement",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/insomniac-settles-lawsuit-miami-club-space-factory-town/",
+          "category": "musique",
+          "published_at": "2026-07-10T23:56:40+00:00",
+          "summary": "The global dance music company has \"amicably resolved\" its lengthy legal battle with a trio of Miami club operators.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd74ede1a05e",
+          "title": "Big & Rich’s John Rich Sworn In as USDA Special Envoy for American Landowners: ‘Let’s Get to Work’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/big-rich-john-rich-usda-special-envoy-president-trump-1236292185/",
+          "category": "ia",
+          "published_at": "2026-07-10T23:08:13+00:00",
+          "summary": "The post was made official during his swearing in at the Oval Office.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "946b0c4c83d6",
+          "title": "Benny Blanco Offers First Taste of Spanish-Language Album ‘Hermoso’ With ‘Joven y Salvaje,’ Featuring Bb trickz",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/benny-blanco-joven-salvaje-bb-trickz-spanish-album-hermoso-1236292176/",
+          "category": "musique",
+          "published_at": "2026-07-10T22:48:42+00:00",
+          "summary": "The Spanish rapper speaks of the carelessness that comes with being young on the new song.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c47fc847e10",
+          "title": "Apple porte plainte contre OpenAI, « pourrie jusqu’à la moelle »",
+          "source": "Next INpact",
+          "url": "https://next.ink/247102/apple-porte-plainte-contre-openai-pourrie-jusqua-la-moelle/",
+          "category": "ia",
+          "published_at": "2026-07-10T22:24:17+00:00",
+          "summary": "Apple sort l&#8217;artillerie lourde contre OpenAI. Le constructeur informatique a porté plainte contre le labo IA, accusé d&#8217;avoir au minimum organisé la récupération systématique de secrets industriels pour accélérer la conception de futurs appareils grand public. La…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e21bc36afe59",
+          "title": "Hilary Duff Wears Her Own 2004 Throwback Concert Tee for 2 Sold-Out Nights at L.A.’s Forum",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/hilary-duff-2004-throwback-concert-tee-la-forum-concerts-1236292162/",
+          "category": "ia",
+          "published_at": "2026-07-10T22:20:31+00:00",
+          "summary": "The Lucky Me Tour continues Saturday night in Mountain View, California.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de77ece23123",
+          "title": "Éclipse solaire 2026 : quand aura lieu la prochaine éclipse de Soleil ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/642816-prochaine-eclipse-solaire-date-heure-et-lieux-dobservation-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-10T16:15:52+00:00",
+          "summary": "Pour admirer une éclipse solaire, il faut l'anticiper. Quand a lieu la prochaine éclipse de Soleil ? Bonne nouvelle : une éclipse totale est annoncée en août 2026. Et les Français seront bien placés pour la contempler.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "191159faa146",
+          "title": "Scaleway rachète Qarnot et ses activités HPC récemment placées en redressement judiciaire",
+          "source": "Next INpact",
+          "url": "https://next.ink/247072/scaleway-rachete-qarnot-et-ses-activites-hpc-recemment-placees-en-redressement-judiciaire/",
+          "category": "ia",
+          "published_at": "2026-07-10T15:29:06+00:00",
+          "summary": "Scaleway, filiale du groupe iliad, a annoncé vendredi l&#8217;acquisition de Qarnot, un spécialiste du calcul haute performance, très engagé historiquement sur la valorisation de la chaleur fatale. Auréolé de plusieurs levées de fonds, Qarnot venait de se placer sous la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0280e502308a",
+          "title": "Vous pouvez désormais réserver un drone tueur de moustiques (et c’est français)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2294075-vous-pouvez-desormais-reserver-un-drone-tueur-de-moustiques-et-cest-francais.html",
+          "category": "ia",
+          "published_at": "2026-07-10T15:10:00+00:00",
+          "summary": "Tornyol, une entreprise française, développe de petits drones autonomes capables de traquer et d’éliminer les moustiques. Encore en développement, le système peut déjà être réservé pour 100 dollars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "690f065c83b0",
+          "title": "La Monnaie de Paris cache une médaille Shenron à 3 500 € dans l’un de ces paquets Dragon Ball",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294177-la-monnaie-de-paris-cache-une-medaille-shenron-a-3-500-e-dans-lun-de-ces-paquets-dragon-ball.html",
+          "category": "ia",
+          "published_at": "2026-07-10T14:31:58+00:00",
+          "summary": "Ce n’est pas tous les jours que l’on peut s’offrir de nouveaux goodies à l’effigie de l’un des mangas les plus aimés au monde. Bon, des produits dérivés Dragon Ball, il en existe déjà une montagne, mais ceux de la Monnaie de Paris cachent une surprise de taille : une médaille en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "768c3cdbd501",
+          "title": "Sam Smith and Normani move to end ‘Dancing With a Stranger’ copyright suit, say the older song is itself built on unlicensed samples",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sam-smith-and-normani-move-to-end-dancing-with-a-stranger-copyright-suit-say-the-older-song-is-itself-built-on-unlicensed-samples/",
+          "category": "justice",
+          "published_at": "2026-07-10T14:24:51+00:00",
+          "summary": "It is the second time Smith and the other co-defendants have tried to shut the case down before trial.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15afc94eb5c2",
+          "title": "Meilleur smartphone 2026 : quel téléphone choisir selon votre budget ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
+          "category": "ia",
+          "published_at": "2026-07-10T14:20:00+00:00",
+          "summary": "Quel smartphone acheter en 2026 ? Numerama a testé et comparé les principales références d’Apple, Samsung, Google, Nothing et Xiaomi. Voici les meilleurs modèles du moment, du smartphone abordable au très haut de gamme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c80f040ec7b",
+          "title": "Reconnaissance faciale : la politique du chiffre incite la police à violer la loi",
+          "source": "Next INpact",
+          "url": "https://next.ink/246913/reconnaissance-faciale-la-politique-du-chiffre-incite-la-police-a-violer-la-loi/",
+          "category": "ia",
+          "published_at": "2026-07-10T13:56:00+00:00",
+          "summary": "En 2011, la CNIL déplorait l&#8217;absence de base légale du fichier GASPARD de photos biométriques policières. 15 ans plus tard, policiers et gendarmes s&#8217;en servent quotidiennement depuis leurs téléphones portables pour recourir, en toute illégalité, à la reconnaissance…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f1ea2bcce28",
+          "title": "Streaming accelerates nostalgia-driven catalog discovery, says Vevo study",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/streaming-accelerates-nostalgia-driven-catalog-discovery-says-vevo-study/",
+          "category": "justice",
+          "published_at": "2026-07-10T13:30:06+00:00",
+          "summary": "The report highlights Sabrina Carpenter's \"Manchild\" as an example of a new release built on borrowed nostalgia.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccc9d8b76a6c",
+          "title": "☕️ macOS 28 ne prendra plus en charge les volumes au format HFS+ chiffré",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/macos-28-ne-prendra-plus-en-charge-les-volumes-au-format-hfs-chiffre/",
+          "category": "ia",
+          "published_at": "2026-07-10T13:22:08+00:00",
+          "summary": "Dans une note technique publiée le 7 juillet, Apple commence à informer d’un changement important à venir dans la mouture 28 de macOS, qui sortira l’année prochaine : la fin de la prise en charge des volumes en HFS+ chiffrés. Ces derniers ne pourront plus être montés dans le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9e09e54148d",
+          "title": "Dynamite Songs acquires catalog of The Association co-founder Terry Kirkman",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dynamite-songs-acquires-catalog-of-the-association-co-founder-terry-kirkman/",
+          "category": "musique",
+          "published_at": "2026-07-10T13:14:40+00:00",
+          "summary": "The deal adds 71 compositions to the specialist publisher's portfolio, including Cherish, which reached No. 1 on the Billboard Hot 100 in 1966.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bdba0885069",
+          "title": "Éclipse solaire du 12 août 2026 : où acheter des lunettes fiables à un mois du jour J ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2237131-eclipse-solaire-2026-ou-trouver-des-lunettes-vraiment-aux-normes-pour-le-12-aout.html",
+          "category": "ia",
+          "published_at": "2026-07-10T13:13:58+00:00",
+          "summary": "L’éclipse solaire du 12 août 2026 approche et les premières distributions de lunettes ont déjà commencé en France. Entre les modèles réellement conformes, les offres gratuites et les produits douteux qui pullulent sur les marketplaces, mieux vaut toutefois ne pas choisir sa…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "811839eb612b",
+          "title": "☕️ Risques d’addiction : Bruxelles veut de gros changements dans Facebook et Instagram",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/risques-daddiction-bruxelles-veut-de-gros-changements-dans-facebook-et-instagram/",
+          "category": "ia",
+          "published_at": "2026-07-10T13:01:01+00:00",
+          "summary": "Meta devra faire de sérieux changements dans ses apps Facebook et Instagram pour respecter les exigences de la Commission européenne. Dans son enquête sur le géant des réseaux sociaux, Bruxelles a déterminé, à titre préliminaire, que la conception même des deux réseaux sociaux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d0591b37988",
+          "title": "Après Avengers, Sauvez Willy : le projet le plus improbable des frères Russo bouscule Hollywood",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294053-apres-avengers-sauvez-willy-le-projet-le-plus-improbable-des-freres-russo-bouscule-hollywood.html",
+          "category": "ia",
+          "published_at": "2026-07-10T12:53:24+00:00",
+          "summary": "C'est le pivot le plus improbable de l'industrie cinématographique. Alors qu'on les attendait au tournant sur le prochain mastodonte Marvel,&nbsp;Avengers: Doomsday, les frères Russo s'attaquent désormais à un chantier d’un tout autre genre. Warner Bros vient de leur confier les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "023d9f72d048",
+          "title": "‘Blox and Roll Circus: the Rolling Stones hit the metaverse",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/blox-and-roll-circus-the-rolling-stones-hit-the-metaverse/",
+          "category": "musique",
+          "published_at": "2026-07-10T12:43:00+00:00",
+          "summary": "You’d be forgiven for thinking the Venn diagram of ‘Rolling Stones fans’ and ‘Roblox players’ is two separate circles.  That means the venerable band’s big new Roblox activation is either a baffling mismatch, or a genius move to bring their music and history to another new…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2b28e9b553d",
+          "title": "Volkswagen veut supprimer un modèle sur deux d’ici à 2030, quid de l’électrique ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2294039-volkswagen-veut-supprimer-un-modele-sur-deux-dici-a-2030-quid-de-lelectrique.html",
+          "category": "ia",
+          "published_at": "2026-07-10T12:40:00+00:00",
+          "summary": "Après la déflagration des annonces de fermetures d'usines et de licenciements, le groupe allemand Volkswagen a un autre défi en perspective&nbsp;: tailler dans sa gamme et ses options pour rationaliser l’offre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2f6d0c51609",
+          "title": "Hanroro tops South Korea’s first-half streaming charts for 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/hanroro-tops-south-koreas-first-half-streaming-charts-for-2026/",
+          "category": "musique",
+          "published_at": "2026-07-10T12:39:00+00:00",
+          "summary": "It would be easy to assume that BTS must have had the biggest streaming track in South Korea in the first half of this year, such has been the scale of their comeback. Nope. BTS had the biggest-selling album of that period according to the Korea Popmusic Industry Association,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87771364083d",
+          "title": "UK music-tourism spending saw double-digit growth in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/uk-music-tourism-spending-saw-double-digit-growth-in-2025/",
+          "category": "musique",
+          "published_at": "2026-07-10T12:30:00+00:00",
+          "summary": "The big stars were out in force touring the UK last year, and the country’s music-tourism revenues spiked accordingly – something quantified in the latest report by industry body UK Music. It reports 24.7 million ‘music tourists’ attending concerts and festivals in the UK last…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e26f0f948c1",
+          "title": "Splice launches samples label with ‘Drums That Knock’ maker Decap",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/splice-launches-samples-label-with-drums-that-knock-maker-decap/",
+          "category": "ia",
+          "published_at": "2026-07-10T12:30:00+00:00",
+          "summary": "Have you heard of ‘Drums That Knock’? Even if not, you may well have heard sounds from this popular samples library – they’ve been used in big tracks by the likes of Bad Bunny, Charli XCX, Karol G and the Chainsmokers. The man behind the series is American producer Nicholas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84e4399872de",
+          "title": "OpenAI abandonne déjà un de ses projets phares de 2025 : Google a vaincu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2293765-openai-abandonne-deja-un-de-ses-projets-phares-de-2025-google-a-vaincu.html",
+          "category": "ia",
+          "published_at": "2026-07-10T12:23:12+00:00",
+          "summary": "OpenAI tire un trait sur ChatGPT Atlas, son navigateur lancé il y a moins d'un an, fin 2025.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "fd77e1584221",
           "title": "Revoir le webinaire : Nouveau téléservice santé et recherche, ce qui change pour vos demandes d’autorisation",
@@ -12,6 +347,86 @@
           "category": "ia",
           "published_at": "2026-07-10T12:00:00+00:00",
           "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au&amp;nbsp;nouveau téléservice santé et recherche de la CNIL.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11e9592fd9f3",
+          "title": "Meta launches app for vibe coding mini games",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/meta-launches-app-for-vibe-coding-mini-games/",
+          "category": "musique",
+          "published_at": "2026-07-10T12:00:00+00:00",
+          "summary": "In recent months, Meta has been busy rolling out new features and apps. While not everyone is impressed by its continued expansion into AI, the company’s latest app, Pocket, could be interesting for music marketers. Pocket is a vibe coding app for mini games. While vibe coding…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "956683b2c1e1",
+          "title": "How Nathan Bank sold out his first headline show",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/how-nathan-bank-sold-out-his-first-headline-show/",
+          "category": "musique",
+          "published_at": "2026-07-10T12:00:00+00:00",
+          "summary": "Nathan Bank is a Mexican pop artist with a strong social media following (601.8k on TikTok, 363.1k on Instagram) and a developing listener base on streaming services (34k monthly listeners on Spotify). When Bank announced his first self-financed headline show in Mexico City, he…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5d123896f6b",
+          "title": "Three live marketing trends in 2026 (Udo Lindenberg, Rosalía, Zara Larsson & Avery Cochrane)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/three-live-marketing-trends-in-2026-udo-lindenberg-rosalia-zara-larsson-avery-cochrane/",
+          "category": "musique",
+          "published_at": "2026-07-10T12:00:00+00:00",
+          "summary": "1. Artist exhibitions. Promoter Semmel Concerts recently chatted to Pollstar about the growth of this latest non-concert format, calling it “one of the most exciting developments in live”. Udoversum is the exhibition of Udo Lindenberg, one of Germany’s most iconic artists. As…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fe87cc12a7d",
+          "title": "Music industry bodies reveal plans for AI-music labelling system",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/music-industry-bodies-reveal-plans-for-ai-music-labelling-system/",
+          "category": "musique",
+          "published_at": "2026-07-10T11:52:16+00:00",
+          "summary": "A group of music industry bodies have revealed plans for a system of labels for music that is wholly AI-generated or AI-assisted.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4aedf8f76de4",
+          "title": "Record industry proposes AI labeling system for streaming platforms",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/record-industry-proposes-ai-labeling-system-for-streaming-platforms/",
+          "category": "musique",
+          "published_at": "2026-07-10T11:51:07+00:00",
+          "summary": "Music orgs want the world's biggest streaming services to start labeling music made with artificial intelligence.\n\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "732151c288de",
+          "title": "Le Tesla Cybercab intègrerait une version améliorée de l’ordinateur AI4 pour le FSD non supervisé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2293913-le-tesla-cybercab-integrerait-une-version-amelioree-de-lordinateur-ai4-pour-le-fsd-non-supervise.html",
+          "category": "ia",
+          "published_at": "2026-07-10T11:50:06+00:00",
+          "summary": "Selon de récentes indiscrétions, le Tesla Cybercab embarquerait une version améliorée de la brique matérielle AI4, dotée de plus de mémoire vive comparée à celle des Model 3 et Model Y. Un choix matériel qui vise à offrir la puissance de calcul nécessaire pour une conduite…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "106c3a8a08cb",
+          "title": "16 jours pour recevoir un message par pigeon voyageur : le drôle de pari du réseau social Roost",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2293823-16-jours-pour-recevoir-un-message-par-pigeon-voyageur-le-drole-de-pari-du-reseau-social-roost.html",
+          "category": "ia",
+          "published_at": "2026-07-10T11:30:00+00:00",
+          "summary": "Sur Roost, les messages mettent parfois plusieurs jours à arriver. Ce réseau social, qui revendique plus de 300 000 utilisateurs, mise notamment sur des oiseaux virtuels pour ralentir volontairement nos échanges.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdf5fe04744d",
+          "title": "30,000 artists have opted in to Landr ‘Fair Trade AI’ program",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/10/30000-artists-have-opted-in-to-landr-fair-trade-ai-program/",
+          "category": "ia",
+          "published_at": "2026-07-10T11:30:00+00:00",
+          "summary": "It’s two years now since Landr launched its ‘Fair Trade AI’ program for artists using its distribution service. The ahead-of-its-time initiative asked artists if they wanted to opt in to having their music used to train AI tools, earning a share of revenues generated by the…",
           "summary_type": "extrait source"
         },
         {
