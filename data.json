@@ -1,9 +1,124 @@
 {
-  "generated_at": "2026-07-11T09:48:21.552800+00:00",
+  "generated_at": "2026-07-12T10:00:54.230653+00:00",
   "days": [
+    {
+      "date": "2026-07-12",
+      "articles": [
+        {
+          "id": "654e64a3a5b0",
+          "title": "À côté de la plaque, ces hackers chinois laissent leur propre serveur grand ouvert pendant trois semaines",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2294119-a-cote-de-la-plaque-ces-hackers-chinois-laissent-leur-propre-serveur-grand-ouvert-pendant-trois-semaines.html",
+          "category": "ia",
+          "published_at": "2026-07-12T08:31:00+00:00",
+          "summary": "Un groupe cybercriminel a scanné et piégé plus d'un million de sites WordPress et Joomla à l'aide de failles publiques, avant d'oublier de fermer l'accès à son propre serveur de travail, dévoilant tout son mode opératoire aux chercheurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44ad5911ecaa",
+          "title": "Le gouvernement oriente vos achats de voitures électriques avec l’argent des autres",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2294179-le-gouvernement-oriente-vos-achats-de-voitures-electriques-avec-largent-des-autres.html",
+          "category": "ia",
+          "published_at": "2026-07-12T06:38:00+00:00",
+          "summary": "Les aides à la voiture électrique se multiplient, mais l’argent magique n’existe pas. Derrière les certificats d'économies d'énergie (CEE), quelqu’un finit toujours par payer. L'éditorial de la newsletter Watt Else du 9 juillet 2026 était l'occasion d'aborder la face cachée de…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-11",
       "articles": [
+        {
+          "id": "d245a23d58c6",
+          "title": "How to Watch UFC 329: McGregor vs. Holloway 2 Live Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/ufc-329-mcgregor-vs-holloway-2-how-to-watch-online-free-1236289740/",
+          "category": "musique",
+          "published_at": "2026-07-11T18:21:59+00:00",
+          "summary": "Live from Las Vegas on Saturday (July 11), you can watch the entire MMA event, including McGregor's return, online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "860c9e56c20e",
+          "title": "Les Russes passent au VE faute de carburant, les usines menacées en Hongrie et polémique sur le leasing social 2026 : le récap’ Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2294287-les-russes-passent-au-ve-faute-de-carburant-les-usines-menacees-en-hongrie-et-polemique-sur-le-leasing-social-2026-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-11T18:02:00+00:00",
+          "summary": "À la une sur Vroom cette semaine :&nbsp;les Russes se tournent vers la voiture électrique à cause de la pénurie de carburant, la Hongrie menace les usines trop polluantes et le leasing social 2026 fait parler lui pour ses nouveaux critères.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f505f2b4da00",
+          "title": "Test de Rhythm Paradise Groove sur Switch 2 : un rêve fiévreux au rythme endiablé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2291959-rhythm-paradise-groove-sur-switch-2-est-un-reve-fievreux-au-rythme-endiable.html",
+          "category": "ia",
+          "published_at": "2026-07-11T16:14:00+00:00",
+          "summary": "La série de jeux Rhythm Paradise revient pour un cinquième épisode aussi fun que déjanté, où votre sens du rythme devra se confronter à votre capacité à garder votre sérieux face à des mini-jeux franchement ridicules. Notre test.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8de64af56595",
+          "title": "Les meilleurs films Disney+ à voir en famille pour les vacances 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2292005-les-meilleurs-films-disney-a-voir-en-famille-pour-les-vacances-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-11T14:20:00+00:00",
+          "summary": "Chaque soir, c’est le même cirque : quarante-cinq minutes de négociations tendues devant le menu de Disney+ pour finir par lancer un truc que le grand a déjà vu trois fois ou qui va traumatiser le plus petit. Trouver le compromis parfait entre le film doudou qui n'asphyxie pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a162ec542e5",
+          "title": "Karol G Creates Tropicoqueta-Themed Cocktail for Her TropiTour & More Uplifting Moments in Latin Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/karol-g-cocktail-tropitour-shakira-spotify-uplifting-moments-1236291625/",
+          "category": "musique",
+          "published_at": "2026-07-11T14:00:00+00:00",
+          "summary": "Plus, Shakira surpasses Taylor Swift on Spotify, and a star-studded telethon rallies aid for Venezuela.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54bdef2d4b67",
+          "title": "Madonna Dances Toward History With 13th U.K. No. 1 Album for ‘Confessions II’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/madonna-uk-number-one-album-chart-confessions-ii-1236291539/",
+          "category": "musique",
+          "published_at": "2026-07-11T13:47:13+00:00",
+          "summary": "Sienna Spiro also lands the biggest British debut of 2026 so far.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "215b6089add7",
+          "title": "J’ai testé le climatiseur mobile de Dreame, la marque qui fait aussi des hypercars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2289565-on-a-teste-le-climatiseur-mobile-de-dreame-la-marque-qui-fait-aussi-des-hypercars.html",
+          "category": "ia",
+          "published_at": "2026-07-11T13:05:00+00:00",
+          "summary": "En pleine canicule, les climatiseurs mobiles se sont arrachés à une vitesse folle. Le Dreame P-Wind10-C a fait partie des premiers modèles à disparaître des rayons. On a quand même réussi à mettre la main dessus. Voici ce qu’il vaut vraiment, avant son éventuelle remise en stock.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c20c47f4f4a",
+          "title": "Apple Watch, Google Fitbit Air, même combat : rendez-moi mon poignet !",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2293249-apple-watch-google-fitbit-air-meme-combat-rendez-moi-mon-poignet.html",
+          "category": "ia",
+          "published_at": "2026-07-11T12:03:00+00:00",
+          "summary": "Chaque jeudi, plusieurs milliers de nos lecteurs et lectrices les plus fidèles reçoivent Toujours Plus : un édito léché, un sujet de la semaine décortiqué, une recommandation de lecture et le calendrier secret de la rédaction. Découvrez l'édito de cette semaine et inscrivez-vous…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd614c9acdef",
+          "title": "Bryan Johnson veut vaincre la mort, « boules de l’espace » en Australie, aphélie — le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2294109-bryan-johnson-veut-vaincre-la-mort-boules-de-lespace-en-australie-aphelie-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-11T11:35:00+00:00",
+          "summary": "Cette semaine, dans l'actualité scientifique couverte par Numerama : Bryan Johnson, entrepreneur du biohacking, est atteint d'une maladie incurable ; des « boules de l'espace » retrouvées sur une plage australienne ; la Terre passée à l'aphélie. C'est l'heure du récap' !",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c51e38337461",
           "title": "La version 1.0 de Palworld affole déjà les compteurs",
