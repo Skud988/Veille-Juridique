@@ -1,9 +1,304 @@
 {
-  "generated_at": "2026-07-12T10:00:54.230653+00:00",
+  "generated_at": "2026-07-13T11:28:21.971878+00:00",
   "days": [
+    {
+      "date": "2026-07-13",
+      "articles": [
+        {
+          "id": "226e8171879a",
+          "title": "Björn Ulvaeus on AI at United Nations summit: ‘We should be paid for what went in, not for every output that comes out the other end.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/abbas-bjorn-ulvaeus-at-human-creativity-is-not-the-enemy-of-artificial-intelligence-it-is-the-reason-artificial-intelligence-exists/",
+          "category": "musique",
+          "published_at": "2026-07-13T10:58:08+00:00",
+          "summary": "The following was originally delivered as a speech at the United Nations' AI for Good Global Summit in Geneva on Wednesday (July 8) by ABBA co-founder and CISAC President Björn Ulvaeus\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dabe0bbcb5b0",
+          "title": "Le premier artwork du film Avengers Doomsday ne fait pas du tout honneur à Marvel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294775-le-premier-artwork-du-film-avengers-doomsday-ne-fait-pas-du-tout-honneur-a-marvel.html",
+          "category": "ia",
+          "published_at": "2026-07-13T10:31:00+00:00",
+          "summary": "Pour faire patienter les fans privés d'une bande-annonce, Marvel Studios a dégainé le tout premier artwork officiel d’Avengers : Doomsday. Censé poser les bases esthétiques du film et révéler le look des héros, ce premier visuel officiel s'avère malheureusement être un immense…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91b9558b9078",
+          "title": "Ubuntu 26.10 va remplacer le vieux dbus-daemon par dbus-broker",
+          "source": "Next INpact",
+          "url": "https://next.ink/247156/ubuntu-26-10-va-remplacer-le-vieux-dbus-daemon-par-dbus-broker/",
+          "category": "ia",
+          "published_at": "2026-07-13T10:22:00+00:00",
+          "summary": "Ubuntu 26.10 remplace enfin dbus-daemon par dbus-broker comme implémentation par défaut de D-Bus, un changement essentiellement interne visant à améliorer les performances, la robustesse et l’extensibilité. Aucun impact particulier n’est attendu sur les applications. D-bus est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ba60e377493",
+          "title": "How Sam Fender & Olivia Dean’s ‘Rein Me In’ Became a Record-Breaking U.K. Chart Success",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+          "category": "ia",
+          "published_at": "2026-07-13T10:10:34+00:00",
+          "summary": "The song is now the U.K.'s longest-running No. 1 single of the decade.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c7729dd1ff4",
+          "title": "Le prochain Lego Donkey Kong est une sacrée pièce d’histoire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294731-le-prochain-lego-donkey-kong-est-une-sacree-piece-dhistoire.html",
+          "category": "ia",
+          "published_at": "2026-07-13T10:06:54+00:00",
+          "summary": "Lego et Nintendo s'apprêtent à lancer un nouveau set qui risque de taper dans l'œil des fans les plus anciens et assidus. Intitulé Donkey Kong Arcade, il sera à l'effigie du tout premier jeu dans lequel est apparu un certain Mario.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "298f1f135be6",
+          "title": "☕️ #Flock : fermez les yeux avec les lunettes Meta",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flock-fermez-les-yeux-avec-les-lunettes-meta/",
+          "category": "ia",
+          "published_at": "2026-07-13T09:57:00+00:00",
+          "summary": "C’est pourtant annoncé et écrit noir sur blanc, mais les utilisateurs font comme s’ils ne voyaient pas le problème.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "183615068fe0",
+          "title": "Pour aujourd’hui seulement, ce ventilateur de plafond est à un rapport qualité-prix imbattable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2294773-pour-aujourdhui-seulement-ce-ventilateur-de-plafond-est-a-un-rapport-qualite-prix-imbattable.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-13T09:39:18+00:00",
+          "summary": "[Deal du jour] Quand les températures grimpent, il n'est pas toujours possible d'installer une climatisation. Un ventilateur de plafond constitue une excellente alternative pour ventiler efficacement une pièce. Ce modèle Hisummer de 106 cm profite actuellement d'une belle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c00bb8d904b",
+          "title": "« J’espère ne pas être prélevée » : une arnaque au faux Delta Sky Club cible des Français avec leur vrai IBAN",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2294785-jespere-ne-pas-etre-prelevee-une-arnaque-au-faux-delta-sky-club-cible-des-francais-avec-leur-vrai-iban.html",
+          "category": "ia",
+          "published_at": "2026-07-13T09:37:11+00:00",
+          "summary": "Depuis la nuit du 13 juillet, des dizaines d'internautes reçoivent un mail se faisant passer pour le programme de fidélité Delta Sky Club, réclamant 189 euros. Le message affiche leur nom, leur mail et surtout leur véritable IBAN, ce qui a immédiatement fait grimper l'inquiétude…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b050a65b4611",
+          "title": "Bun présente une réécriture intégrale en Rust, réalisée en 11 jours avec Fable 5",
+          "source": "Next INpact",
+          "url": "https://next.ink/247080/bun-presente-une-reecriture-integrale-en-rust-realisee-en-11-jours-avec-fable-5/",
+          "category": "ia",
+          "published_at": "2026-07-13T09:29:00+00:00",
+          "summary": "Bun, un environnement d’exécution JavaScript et un gestionnaire de paquets, a annoncé le 8 juillet une conversion complète de son code vers Rust en un temps record. L’opération a été en grande partie menée grâce à l’utilisation de Claude Fable 5. Bien qu&#8217;il s&#8217;agisse…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a09a7aaa100",
+          "title": "Vous avez l’impression de parler à des PNJ sur LinkedIn ? Cette étude le confirme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2294703-vous-avez-limpression-de-parler-a-des-pnj-sur-linkedin-cette-etude-le-confirme.html",
+          "category": "ia",
+          "published_at": "2026-07-13T09:21:13+00:00",
+          "summary": "Publiée le 9 juillet 2026, une analyse de Pangram portant sur plus d’un million de contenus confirme que LinkedIn est devenu un terrain particulièrement fertile pour les publications entièrement générées par IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a25f9b3b6f8",
+          "title": "Pourquoi Tesla gagne beaucoup moins d’argent par voiture (et voit Toyota dans le rétroviseur)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2294739-pourquoi-tesla-gagne-beaucoup-moins-dargent-par-voiture-et-voit-toyota-dans-le-retroviseur.html",
+          "category": "ia",
+          "published_at": "2026-07-13T08:39:24+00:00",
+          "summary": "Tesla voit son bénéfice par véhicule s’effondrer de 40 % au point de se faire talonner par le roi de l’hybride Toyota. Le tarissement du juteux marché de crédit carbone n’est pas étranger à cela.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80a24bbb18dd",
+          "title": "Paramount menace de fuir Hollywood, et ça pourrait faire trembler la Californie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294721-paramount-menace-de-fuir-hollywood-et-ca-pourrait-faire-trembler-la-californie.html",
+          "category": "ia",
+          "published_at": "2026-07-13T08:35:29+00:00",
+          "summary": "Excédé par le blocage politique de la Californie qui menace de faire capoter sa fusion à 110 milliards de dollars avec Warner Bros. Discovery, le patron de Paramount, David Ellison, s'apprête à hausser le ton. Ses conseillers le poussent ouvertement à délocaliser le siège social…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cae0ab89691",
+          "title": "Des éditeurs pourraient disparaître de Google pour protéger leurs contenus de Gemini",
+          "source": "Next INpact",
+          "url": "https://next.ink/247099/des-editeurs-pourraient-disparaitre-de-google-pour-proteger-leurs-contenus-de-gemini/",
+          "category": "ia",
+          "published_at": "2026-07-13T08:31:00+00:00",
+          "summary": "La recherche Google qui façonne le web depuis 1998 a-t-elle vécu ? Plusieurs grands éditeurs de presse envisagent en effet de tout simplement quitter le moteur de recherche en lui interdisant d&#8217;indexer leurs contenus. Ils dénoncent l&#8217;exploitation qui en faite dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4aa757dc959",
+          "title": "Pourquoi Anthropic prolonge une nouvelle fois l’accès à Fable 5",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2294701-pourquoi-anthropic-prolonge-une-nouvelle-fois-lacces-a-fable-5.html",
+          "category": "justice",
+          "published_at": "2026-07-13T08:29:35+00:00",
+          "summary": "Cinq jours à peine après avoir repoussé l'échéance au 12 juillet, Anthropic prolonge à nouveau l'accès inclus à Claude Fable 5, cette fois jusqu'au 19 juillet. Une décision qui tombe alors que son concurrent OpenAI multiplie les annonces sur le terrain des usages professionnels.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4f42c952c5c",
+          "title": "Une première : le Starship embarquera des vrais satellites, mais ils ne serviront (presque) à rien",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2294705-une-premiere-le-starship-embarquera-des-vrais-satellites-mais-ils-ne-serviront-presque-a-rien.html",
+          "category": "ia",
+          "published_at": "2026-07-13T08:12:01+00:00",
+          "summary": "La fusée géante Starship doit pratiquer cette semaine son treizième vol d'essai. Un rendez-vous à l'enjeu énorme pour SpaceX et qui emmènera, pour la première fois, une série de satellites Starlink nouvelle génération.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58a2732b5c03",
+          "title": "Pourquoi Assassin’s Creed Unity était buggué comme jamais",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294677-pourquoi-assassins-creed-unity-etait-buggue-comme-jamais.html",
+          "category": "ia",
+          "published_at": "2026-07-13T08:11:14+00:00",
+          "summary": "Assassin's Creed Unity, célèbre épisode de la saga se déroulant à Paris, avait jasé à sa sortie en raison de ses nombreux bugs. Bien des années après, Ubisoft est revenu sur les raisons de cet échec technique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85b71d0bc593",
+          "title": "Face à la canicule de juillet 2026, voici les 3 climatiseurs mobiles qui rafraîchissent vraiment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1402090-meilleur-climatiseur-mobile-notre-comparatif.html",
+          "category": "ia",
+          "published_at": "2026-07-13T08:00:00+00:00",
+          "summary": "Quand le ventilateur ne suffit plus, le climatiseur monobloc mobile reste la solution la plus efficace sans engager de gros travaux. Nous avons comparé plusieurs modèles pour retenir ceux qui refroidissent vraiment, sans oublier leur bruit, leur installation et leur consommation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e30ade97d074",
+          "title": "Netflix et Disney+ face au casse-tête de l’engagement",
+          "source": "Next INpact",
+          "url": "https://next.ink/247089/netflix-et-disney-face-au-casse-tete-de-lengagement/",
+          "category": "ia",
+          "published_at": "2026-07-13T07:28:00+00:00",
+          "summary": "Le streaming vidéo est-il à la croisée des chemins ? Plusieurs grandes plateformes cherchent en effet de nouveaux moyens de fidéliser les spectateurs qui papillonnent entre les nombreuses propositions de divertissement. La bataille pour l&#8217;attention et l&#8217;engagement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9fb1d1463ea",
+          "title": "Le prochain God of War devrait bien sortir avant 2028",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294671-le-prochain-god-of-war-devrait-bien-sortir-avant-2028.html",
+          "category": "ia",
+          "published_at": "2026-07-13T06:44:00+00:00",
+          "summary": "Sony Santa Monica a confirmé que God of War Laufey, prochain opus de la saga phare, sera aussi disponible en version physique. Ce qui signifie qu'il sortira avant janvier 2028.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f80a47588830",
+          "title": "Pourquoi tous ces emails sur les « pixels de suivi », et comment s’en protéger ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/247137/pourquoi-tous-ces-emails-sur-les-pixels-de-suivi-et-comment-sen-proteger/",
+          "category": "ia",
+          "published_at": "2026-07-13T06:38:37+00:00",
+          "summary": "À partir du 14 juillet, les éditeurs de services en ligne qui utilisent des pixels de suivi dans leurs emails sont censés être en conformité avec le cadre fixé par la CNIL en mars dernier, ce qui a déclenché une vaste campagne d&#8217;information. L&#8217;occasion de rappeler…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cee670e48ca7",
+          "title": "Madonna, Stuart Price & Honey Dijon Knock Out New York City With Club Confessions",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madonna-club-confessions-new-york-city-1236292743/",
+          "category": "musique",
+          "published_at": "2026-07-13T00:05:22+00:00",
+          "summary": "The party happened the night before Madonna officially topped the Billboard 200 with Confessions II.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-12",
       "articles": [
+        {
+          "id": "14ea6716bc58",
+          "title": "Artists With the Most No. 1 Albums on the Billboard 200: The Beatles, Madonna & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+          "category": "musique",
+          "published_at": "2026-07-12T23:03:10+00:00",
+          "summary": "Madonna's CONFESSIONS II lands the Queen of Pop her 10th leader.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "653d0fcbc5e0",
+          "title": "Madonna & Michael Jackson Are in the Billboard 200’s Top 10 Together for the First Time in 25 Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/madonna-michael-jackson-together-top10-billboard-200-1236292722/",
+          "category": "musique",
+          "published_at": "2026-07-12T23:00:31+00:00",
+          "summary": "Madonna’s CONFESSIONS II debuts at No. 1, joining Jackson’s chart-topping Thriller in the top 10.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8eb1d6c85dd",
+          "title": "Fans Choose The Rolling Stones’ ‘Foreign Tongues’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/rolling-stones-foreign-tongues-best-new-music-poll-results-1236292705/",
+          "category": "musique",
+          "published_at": "2026-07-12T20:54:14+00:00",
+          "summary": "The Stones' new 14-track collection brought in more than 42% of the vote this week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2544677bdb47",
+          "title": "Madonna & the Elite Acts With 10 or More No. 1s on Both the Billboard 200 & Hot 100",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/acts-10-number-ones-billboard-200-hot-100/",
+          "category": "musique",
+          "published_at": "2026-07-12T19:14:00+00:00",
+          "summary": "Only four artists boasts double-digital totals on each of Billboard’s premier album and song charts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c43d7c4825bf",
+          "title": "Madonna Achieves 10th No. 1 Album on Billboard 200 With ‘CONFESSIONS II’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/madonna-confessions-ii-number-one-billboard-200-chart/",
+          "category": "musique",
+          "published_at": "2026-07-12T19:00:11+00:00",
+          "summary": "She's the first act with a No. 1 album in the 2020s and three other decades.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33f3e06ce1e2",
+          "title": "‘Moana’ Makes Underwhelming Splash at Box Office With $43 Million Opening",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/moana-box-office-opening-disney-1236292593/",
+          "category": "musique",
+          "published_at": "2026-07-12T18:06:07+00:00",
+          "summary": "The Disney live-action film cost a reported $250 million to produce.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "711806180677",
+          "title": "Essai BMW iX3 : le SUV qui peut réconcilier les puristes de la marque avec l’électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2293445-essai-bmw-ix3-le-suv-qui-peut-reconcilier-les-puristes-de-la-marque-avec-lelectrique.html",
+          "category": "ia",
+          "published_at": "2026-07-12T16:10:52+00:00",
+          "summary": "Avec cet iX3, BMW inaugure une nouvelle génération de véhicules électriques. Le constructeur bavarois était forcément attendu au tournant, mais il livre un véhicule particulièrement abouti, que j'ai pu essayer pour Numerama.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55ea05f676e3",
+          "title": "Avec 200 Go en 5G et 35 Go pour l’étranger, ce forfait voyage est ultra complet",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2294455-avec-200-go-en-5g-et-35-go-pour-letranger-ce-forfait-voyage-est-ultra-complet.html",
+          "category": "ia",
+          "published_at": "2026-07-12T15:51:53+00:00",
+          "summary": "[Deal du jour] L’été approche, les départs en vacances aussi, et trouver un forfait mobile capable de suivre à l’étranger sans exploser son budget devient un vrai sujet. Avec son forfait International, Syma Mobile mise sur une grosse enveloppe de data en France et hors du…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "654e64a3a5b0",
           "title": "À côté de la plaque, ces hackers chinois laissent leur propre serveur grand ouvert pendant trois semaines",
