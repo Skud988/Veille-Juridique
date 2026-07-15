@@ -1,9 +1,484 @@
 {
-  "generated_at": "2026-07-14T10:11:33.955970+00:00",
+  "generated_at": "2026-07-15T10:15:21.515203+00:00",
   "days": [
+    {
+      "date": "2026-07-15",
+      "articles": [
+        {
+          "id": "5666977c0b9b",
+          "title": "Je suis montée à bord du Volkswagen ID. Cross : faut-il vraiment préférer ce SUV à l’ID. Polo ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2295175-je-suis-montee-a-bord-du-volkswagen-id-cross-faut-il-vraiment-preferer-ce-suv-a-lid-polo.html",
+          "category": "ia",
+          "published_at": "2026-07-15T10:00:00+00:00",
+          "summary": "J’ai pu découvrir en avant-première le futur ID. Cross. Et si l'ID. Polo nous avait déjà tapé dans l'œil le même jour, cette déclinaison SUV offre une autre approche intéressante pour une clientèle différente.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6327598adc9c",
+          "title": "Queens of the Stone Age Return With ‘Easy Street,’ Announce Tour of Australia and NZ",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/queens-of-the-stone-age-easy-street-tour-australia-and-nz-1236294451/",
+          "category": "ia",
+          "published_at": "2026-07-15T09:57:51+00:00",
+          "summary": "“Easy Street” is the band’s first new song since 2023’s In Times New Roman.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a867cabc9341",
+          "title": "Amplify Music Incubator for artists launches south India-focused edition",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/15/amplify-music-incubator-for-artists-launches-south-india-focused-edition/",
+          "category": "musique",
+          "published_at": "2026-07-15T09:40:13+00:00",
+          "summary": "The Amplify Music Incubator (AMI) has launched AMI South, for talents from the south Indian states of Tamil Nadu and Kerala.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e074893644d7",
+          "title": "iOS 27 en bêta : faut-il l’installer sur son iPhone ? Notre avis après un mois de test",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295251-ios-27-en-beta-faut-il-linstaller-sur-son-iphone-notre-avis-apres-un-mois-de-test.html",
+          "category": "ia",
+          "published_at": "2026-07-15T09:28:00+00:00",
+          "summary": "Apple a publié le 13 juillet les premières versions bêta publiques d'iOS 27, iPadOS 27 et macOS 27, que les plus impatients peuvent installer dès aujourd'hui. Quelques testeurs parlent des versions bêta les plus stables de l'histoire de la marque… mais attention à la désillusion…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa80a89fb944",
+          "title": "‘Our Laws Will Spell That Out Plain as Day:’ Australia’s Prime Minister Commits to Copyright Protections In AI Age",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/australia-prime-minister-commits-copyright-protections-ai/",
+          "category": "ia",
+          "published_at": "2026-07-15T09:20:51+00:00",
+          "summary": "\"No company should use Australian books, music, art or news to build or train AI without the artist's control, and that includes the artist's control of the price and value of their work.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a91c7df865ea",
+          "title": "La dernière mise à jour de l’app ChatGPT est une catastrophe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295241-la-derniere-mise-a-jour-de-lapp-chatgpt-est-une-catastrophe.html",
+          "category": "ia",
+          "published_at": "2026-07-15T09:15:47+00:00",
+          "summary": "Pour booster les usages agentiques, OpenAI a cru bon de fusionner les applications ChatGPT et Codex sur Mac et Windows. Mais cette nouvelle interface, pensée pour le développement de gros projets, relègue étrangement le simple chatbot au second plan. Ses premiers utilisateurs ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8198ace00127",
+          "title": "Grok Build envoyait des dépôts vers le cloud sans le consentement des développeurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/247278/grok-build-envoyait-des-depots-vers-le-cloud-sans-le-consentement-des-developpeurs/",
+          "category": "ia",
+          "published_at": "2026-07-15T08:40:33+00:00",
+          "summary": "L&#8217;assistant dédié au code informatique de SpaceXAI, Grok Build, envoyait des projets entiers vers des serveurs distants, sans consentement préalable des développeurs concernés. L&#8217;entreprise et son patron Elon Musk ont reconnu le problème, assurant que les éléments…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ef0bf7f5786",
+          "title": "Grok Build a envoyé des dépôts de code entiers à xAI : pourquoi la réponse de Musk ne convainc personne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2295239-grok-build-a-envoye-des-depots-de-code-entiers-a-xai-pourquoi-la-reponse-de-musk-ne-convainc-personne.html",
+          "category": "ia",
+          "published_at": "2026-07-15T08:40:00+00:00",
+          "summary": "Grok Build, l'outil de codage en ligne de commande de xAI, envoyait les dépôts entiers de ses utilisateurs vers le cloud de l'entreprise, secrets compris. Elon Musk a promis de tout effacer, mais la communication de SpaceXAI peine à convaincre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9ff9a9c57f2",
+          "title": "Disney Music Group President Ken Bunt to receive MUSEXPO’s Lifetime Achievement Award",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/disney-music-group-president-ken-bunt-to-receive-musexpos-lifetime-achievement-award/",
+          "category": "musique",
+          "published_at": "2026-07-15T08:31:08+00:00",
+          "summary": "Bunt oversees the marketing and distribution of Disney's recorded music, music publishing and live concert businesses.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86a78e72de58",
+          "title": "Bryan Adams Will ‘Roll With The Punches’ For 2027 Australasia Arena Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/bryan-adams-roll-with-the-punches-2027-australasia-tour-1236294428/",
+          "category": "ia",
+          "published_at": "2026-07-15T08:29:45+00:00",
+          "summary": "The veteran Canadian rocker will play arenas in seven cities on both sides of the Tasman.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24638cf7a864",
+          "title": "Quelqu’un a fait du grand méchant de Zelda un hamster dans Tears of the Kingdom",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2295237-quelquun-a-fait-du-grand-mechant-de-zelda-un-hamster-dans-tears-of-the-kingdom.html",
+          "category": "ia",
+          "published_at": "2026-07-15T08:09:33+00:00",
+          "summary": "On l'a vu depuis sa sortie, Zelda: Tears of the Kingdom laisse aux joueuses et aux joueurs une grande liberté de création. En quelques années, le nombre de véhicules et autres fabrications très artisanales réalisées dans le jeu est affolant, et c'est souvent n'importe quoi. Mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "737c7c0a66dd",
+          "title": "☕️ Windows 11 remet enfin de l’ordre dans sa recherche",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/windows-11-remet-enfin-de-lordre-dans-sa-recherche/",
+          "category": "ia",
+          "published_at": "2026-07-15T07:58:00+00:00",
+          "summary": "Microsoft poursuit son entreprise de réhabilitation de Windows 11 avec une nouvelle fournée d&#8217;améliorations et d&#8217;optimisations pour des fonctions de base du système d&#8217;exploitation. La recherche en profite directement. Qui n&#8217;a pas un jour pesté contre les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5119ceea136",
+          "title": "Comment installer iOS 27 en bêta publique sur son iPhone ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2269643-comment-installer-ios-27-en-beta-publique-sur-son-iphone.html",
+          "category": "ia",
+          "published_at": "2026-07-15T07:48:52+00:00",
+          "summary": "Un mois après les développeurs,  Apple vient de publier la première bêta publique d'iOS 27. Les propriétaires d'iPhone et d'iPad peuvent essayer dès maintenant la future mise à jour s'ils sont prêts à vivre avec quelques bugs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99bd5bb5edf4",
+          "title": "Cette BYD perd son moteur sur la route, que s’est-il passé ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2295233-cette-byd-perd-son-moteur-sur-la-route-que-sest-il-passe.html",
+          "category": "ia",
+          "published_at": "2026-07-15T07:47:10+00:00",
+          "summary": "La vidéo a fait le buzz sur les réseaux sociaux. Et pour cause, les images de ce véhicule BYD traînant son moteur électrique en Chine ont de quoi interpeller.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee55b8c1c5dc",
+          "title": "Vous avez manqué la dernière promo Disney+ ? Elle est déjà de retour sur tous les abonnements",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2240235-vous-avez-manque-la-derniere-promo-disney-elle-est-deja-de-retour.html",
+          "category": "ia",
+          "published_at": "2026-07-15T07:42:48+00:00",
+          "summary": "[Deal du jour] Deux mois seulement après sa précédente opération, Disney+ remet ses trois abonnements mensuels en promotion. Les prix baissent pendant trois mois, à condition de s’abonner avant la date limite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55ac58f126e1",
+          "title": "iOS 27 : nouveautés sur iPhone, date de sortie, comment installer… Toutes les infos",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2262023-ios-27-siriai-nouveautes-date-de-sortie-iphone-compatibles.html",
+          "category": "ia",
+          "published_at": "2026-07-15T07:32:47+00:00",
+          "summary": "iOS 27 est officiel. La mise à jour des iPhone, dévoilée le 8 juin à la WWDC pour la dernière keynote de Tim Cook, marque le vrai virage d'Apple dans l'IA générative avec Siri AI, un assistant entièrement repensé conçu avec l'aide de Google. Au programme aussi : de l'édition…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "868e29610fdd",
+          "title": "Google s’oppose aux blocages massifs de sites pirates en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/247226/google-soppose-aux-blocages-massifs-de-sites-pirates-en-europe/",
+          "category": "ia",
+          "published_at": "2026-07-15T07:31:00+00:00",
+          "summary": "Google demande à Bruxelles de manier le blocage des sites pirates avec beaucoup plus de précautions. Le groupe juge les mesures visant les DNS, les VPN, les CDN ou les adresses IP trop faciles à contourner et susceptibles d’emporter dans leur chute des millions de services…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b593dfc1c959",
+          "title": "Malheureusement, EA Sports avait raison sur le destin de la France à la Coupe du monde 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2295215-malheureusement-ea-sports-avait-raison-sur-le-destin-de-la-france-a-la-coupe-du-monde-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-15T07:12:25+00:00",
+          "summary": "EA Sports avait hélas vu juste : l'Espagne a étrillé l'Équipe de France lors de la première demi-finale de la Coupe du monde 2026. La prévision de l'éditeur américain de voir la Roja remporter la compétition est toujours d'actualité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3625615192a7",
+          "title": "☕️ Un Patch Tuesday record pour Windows : 570 failles colmatées, dont deux déjà exploitées",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/un-patch-tuesday-record-pour-windows-570-failles-colmatees-dont-deux-deja-exploitees/",
+          "category": "ia",
+          "published_at": "2026-07-15T06:47:00+00:00",
+          "summary": "En juin, Microsoft avait déjà battu son record avec 200 failles corrigées. Entre temps, l’éditeur a expliqué comment l’intelligence artificielle faisait désormais partie de ses processus de révision. Il fallait donc s’attendre à une déferlante de correctifs dans les mois qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc02708d9e07",
+          "title": "Batterie remplaçable : Bruxelles élargit l’exemption aux montres et lunettes connectées",
+          "source": "Next INpact",
+          "url": "https://next.ink/247246/batterie-remplacable-bruxelles-elargit-lexemption-aux-montres-et-lunettes-connectees/",
+          "category": "institutionnel",
+          "published_at": "2026-07-15T06:35:00+00:00",
+          "summary": "Les fabricants de montres connectées et plus généralement de petits appareils à porter sur soi peuvent pousser un ouf de soulagement. La Commission européenne a en effet décidé d&#8217;exempter de nouvelles catégories de produits des exigences liées au retrait et au remplacement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8ead4b61c37",
+          "title": "On connaît la durée du film Avengers: Doomsday, et elle est surprenante",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295205-on-connait-la-duree-du-film-avengers-doomsday-et-elle-est-surprenante.html",
+          "category": "ia",
+          "published_at": "2026-07-15T06:17:03+00:00",
+          "summary": "Alors qu'on aurait pu croire au film le plus long du MCU (Marvel Cinematic Universe), Avengers: Doomsday n'affichera pas une durée aussi importante qu'Avengers: Endgame. Il se rapproche quand même des trois heures.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f56146daef9a",
+          "title": "☕️ Google accusé d’avoir entraîné Gemini avec des millions de livres sans autorisation",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-accuse-davoir-entraine-gemini-avec-des-millions-de-livres-sans-autorisation/",
+          "category": "ia",
+          "published_at": "2026-07-15T06:04:00+00:00",
+          "summary": "Google est accusé d&#8217;avoir commis «&#160;l’une des violations de droits d’auteur les plus massives de l’histoire ». La plainte déposée notamment par Hachette contre le géant du web l’accuse d’avoir puisé sans autorisation dans des millions de livres et d’articles pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2e99dfc0e62",
+          "title": "☕️ Le premier appareil d’OpenAI serait une enceinte connectée sans écran",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-premier-appareil-dopenai-serait-une-enceinte-connectee-sans-ecran/",
+          "category": "ia",
+          "published_at": "2026-07-15T05:30:00+00:00",
+          "summary": "Depuis la plainte déposée par Apple en fin de semaine dernière, les projets matériels d&#8217;OpenAI semblent se dessiner en pointillés. Le labo IA assure pourtant n&#8217;avoir rien fait de mal, et par le plus grand des hasards, une indiscrétion très crédible détaille le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed3217418720",
+          "title": "Merlin Appoints Dan Nevin as VP, Industry Relations",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/merlin-dan-nevin-vp-industry-relations/",
+          "category": "ia",
+          "published_at": "2026-07-15T02:12:07+00:00",
+          "summary": "Nevin will lead Merlin's engagement with independent trade associations and strategic partners worldwide as vice president, industry relations, a new role.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a710587147a7",
+          "title": "Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jay-z-drake-justin-bieber-soundtrack-fanatics-fest-playlist-1236293861/",
+          "category": "musique",
+          "published_at": "2026-07-15T00:27:45+00:00",
+          "summary": "It's all going down at Javits Center in NYC from July 16-19.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01a242d8d677",
+          "title": "Suki Waterhouse on Feeling ‘Wiser & Also Sillier Than Ever’ on ‘Loveland’ Album, How Opening for Taylor Swift’s Eras Tour Will Impact Her Next Trek",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/suki-waterhouse-loveland-album-interview-pop-shop-podcast-1236291263/",
+          "category": "musique",
+          "published_at": "2026-07-15T00:20:09+00:00",
+          "summary": "\"I've kind of found my new self in this very joyful, delicate, interesting time in my life,\" she tells Billboard Pop Shop Podcast of her new album.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-14",
       "articles": [
+        {
+          "id": "c47c8a54c521",
+          "title": "Travis Scott Sued for Alleged Drunken Assault on Miami Yacht Crew in 2024",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/travis-scott-lawsuit-drunken-assault-miami-yacht-crew/",
+          "category": "ia",
+          "published_at": "2026-07-14T22:48:52+00:00",
+          "summary": "The rapper was arrested over the incident but did not face criminal charges.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e643a8efc3e",
+          "title": "W Sound, Myke Towers & Ovy On The Drums Take ‘5 Estrellas (W Sound 23)’ to No. 1: ‘We Are Just Getting Started’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/w-sound-myke-towers-ovy-on-the-drums-5-estrellas-w-sound-23-1236294219/",
+          "category": "ia",
+          "published_at": "2026-07-14T22:33:36+00:00",
+          "summary": "The tripartite collab leads the Latin Airplay and Latin Rhythm Airplay charts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7268115d1c37",
+          "title": "Zara’s Floral & Fruity Hannah Montana Perfume Grants ‘The Best of Both Worlds’ for Under $25",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/zara-hannah-montana-perfume-smell-price-where-to-buy-online-1236294131/",
+          "category": "ia",
+          "published_at": "2026-07-14T22:24:54+00:00",
+          "summary": "In one of Zara's most nostalgic beauty drops yet, the retailer has bottled Hannah Montana's vibrant spirit with notes of red fruits, rose and vanilla.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "741533de6d93",
+          "title": "Dès 2030, cette province chinoise va interdire la vente de voitures thermiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2295079-des-2030-cette-province-chinoise-va-interdire-la-vente-de-voitures-thermiques.html",
+          "category": "ia",
+          "published_at": "2026-07-14T16:15:00+00:00",
+          "summary": "L'île tropicale de Hainan confirme qu'elle souhaite devenir la toute première province de Chine à bannir la vente de voitures thermiques neuves d'ici 2030.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9096cd5591e7",
+          "title": "Comment le créateur de Yellowstone transforme chacune de ses séries en un triomphe historique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293373-comment-le-createur-de-yellowstone-transforme-chacune-de-ses-series-en-un-triomphe-historique.html",
+          "category": "ia",
+          "published_at": "2026-07-14T15:45:06+00:00",
+          "summary": "Trois séries sur cinq dans le haut du panier. Le dernier relevé des audiences de Paramount+ ressemble à un constat de décès pour la concurrence :&nbsp;Dutton Ranch&nbsp;en tête, l’increvable&nbsp;Yellowstone&nbsp;sur la troisième marche, et&nbsp;Tulsa King&nbsp;qui ferme la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "802c25ca5ca6",
+          "title": "« Dofus ne s’est jamais aussi bien porté » : Ankama nous raconte 25 ans de succès, de doutes et d’indépendance",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2294407-dofus-ne-sest-jamais-aussi-bien-porte-ankama-nous-raconte-25-ans-de-succes-de-doutes-et-dindependance.html",
+          "category": "ia",
+          "published_at": "2026-07-14T14:03:00+00:00",
+          "summary": "ENTRETIEN EXCLUSIF - À l’occasion de la Japan Expo 2026, Numerama a rencontré Anthony Roux, cofondateur d’Ankama, et Pauline Plaisant, directrice de la stratégie, pour revenir sur les 25 ans d’un studio français à part, porté par Dofus mais jamais limité à lui.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "800860ea2bfa",
+          "title": "Jeremy Erlich’s Alta Music Group launches publishing division led by Zeb Berg",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jeremy-erlichs-alta-music-group-launches-publishing-division-led-by-zeb-berg/",
+          "category": "musique",
+          "published_at": "2026-07-14T13:54:13+00:00",
+          "summary": "Sony Music Publishing will support and administer Alta Publishing worldwide.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ba15e2d47bd",
+          "title": "UK government launches ‘Turn It Up’ plan to support homegrown music, committing $60m to back artists and businesses over three years",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/uk-government-launches-turn-it-up-plan-to-support-homegrown-music-committing-60m-to-back-artists-and-businesses-over-three-years/",
+          "category": "musique",
+          "published_at": "2026-07-14T13:30:20+00:00",
+          "summary": "Government says it will support more than 2,000 projects and at least 40,000 artists and music professionals over three years\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15c09808eac2",
+          "title": "Behind The Single: Avery Cochrane – ‘Shapeshifting on a Saturday night’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/14/behind-the-single-avery-cochrane-shapeshifting-on-a-saturday-night/",
+          "category": "musique",
+          "published_at": "2026-07-14T13:30:00+00:00",
+          "summary": "We spoke to Milo Pacheco, general manager and head of marketing at S-Curve Records, about how the label has approached developing Avery Cochrane and marketing its first release with the artist.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0dc081dbfd2",
+          "title": "Pophouse acquires stake in Iron Maiden’s catalog, name, image & likeness rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/iron-maiden-sell-stake-in-catalog-plus-name-image-likeness-rights-to-pophouse1/",
+          "category": "ia",
+          "published_at": "2026-07-14T12:31:46+00:00",
+          "summary": "Pophouse Entertainment has entered into a partnership with influential British heavy metal band Iron Maiden\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "580c7599f7f4",
+          "title": "‘Michael’ is first biopic to hit $1bn box-office milestone",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/14/michael-is-first-biopic-to-hit-1bn-box-office-milestone/",
+          "category": "ia",
+          "published_at": "2026-07-14T12:30:00+00:00",
+          "summary": "It’s fair to say that the critical response to Michael Jackson biopic ‘Michael’ was&#8230; mixed. But the bums-on-seats response from fans in cinemas has surpassed all expectations.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa09181d21d0",
+          "title": "South Korean bill would require ‘pre-screening’ of music releases",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/14/south-korean-bill-would-require-pre-screening-of-music-releases/",
+          "category": "musique",
+          "published_at": "2026-07-14T12:30:00+00:00",
+          "summary": "There are arguments afoot in South Korea this week due to a proposed amendment to the country’s Music Industry Promotion Act by the ruling party.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f7ce189644a",
+          "title": "UK’s Heritage Live festivals cancelled due to ‘impossible’ finances",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/14/uks-heritage-live-festivals-cancelled-due-to-impossible-finances/",
+          "category": "musique",
+          "published_at": "2026-07-14T12:30:00+00:00",
+          "summary": "Heritage Live was a well-established series of music festivals in the UK held on historical country estates, with this year’s lineups including Christina Aguilera, Janet Jackson, Lionel Richie, Scissor Sisters, The Streets and Richard Ashcroft.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01f522d25337",
+          "title": "Amazon Music is turning streams into ‘Get Blue’ donations",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/14/amazon-music-is-turning-streams-into-get-blue-donations/",
+          "category": "musique",
+          "published_at": "2026-07-14T12:30:00+00:00",
+          "summary": "‘Get Blue’ is a campaign run by Water·org to expand access to safe water around the world. Now it’s getting an additional splash of support from Amazon Music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a582c6f64ee",
+          "title": "Nearly 2.2m fans showed up for Madonna’s TikTok livestream",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/14/nearly-2-2m-fans-showed-up-for-madonnas-tiktok-livestream/",
+          "category": "musique",
+          "published_at": "2026-07-14T12:30:00+00:00",
+          "summary": "We reported last month on plans for a TikTok ‘House of Confessions’ livestream on 2 July to celebrate Madonna’s new album. Now we know how many fans tuned in.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1219ee6a6917",
+          "title": "Paid social promo for music is common. Disclosures? Not so much",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/14/paid-social-promo-for-music-is-common-disclosures-not-so-much/",
+          "category": "ia",
+          "published_at": "2026-07-14T12:30:00+00:00",
+          "summary": "We’ve heard plenty of chat in recent weeks about how paid promo on TikTok and Instagram is Just What You Have To Do To Cut Through when it comes to marketing artists.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da8d71ddc5ce",
+          "title": "Why a fight over 61,000 recordings could shape the future of AI music licensing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/why-a-fight-over-61000-recordings-could-shape-the-future-of-ai-music-licensing/",
+          "category": "musique",
+          "published_at": "2026-07-14T11:43:29+00:00",
+          "summary": "The 61,026 recordings would carry a theoretical maximum statutory damage of $9 billion, up from around $84 million under the original 560-work complaint.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a033f9e1db92",
+          "title": "The next social-media ban for children could be Europe-wide",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/14/the-next-social-media-ban-for-children-could-be-europe-wide/",
+          "category": "institutionnel",
+          "published_at": "2026-07-14T11:30:00+00:00",
+          "summary": "Our coverage of social-media bans for under-13s – and the impact it might have for the music industry – continues with strong hints that the European Commission may soon announce its own plans along those lines.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4cc41f0ee93c",
+          "title": "A Make-or-Break Moment for AI Music Companies",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/a-make-or-break-moment-for-ai-music-companies/",
+          "category": "ia",
+          "published_at": "2026-07-14T11:11:01+00:00",
+          "summary": "The following op-ed comes from David Israelite, President &#038; CEO of the National Music Publishers' Association (NMPA)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ecfdd3daa162",
+          "title": "Warner Music asks court to dismiss US musicians’ lawsuit over Suno, Udio deals",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-asks-court-to-dismiss-us-musicians-lawsuit-over-suno-udio-deals/",
+          "category": "musique",
+          "published_at": "2026-07-14T10:36:29+00:00",
+          "summary": "Warner says the union brought the lawsuit \"in an improper attempt to place a judicial thumb on the negotiation scales.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e02b68d88284",
+          "title": "Fuerza Regida’s push to exit Rancho Humilde deal under the ‘seven-year rule’ survives dismissal bid",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/fuerza-regidas-push-to-exit-rancho-humilde-deal-under-the-seven-year-rule-survives-dismissal-bid/",
+          "category": "musique",
+          "published_at": "2026-07-14T10:15:50+00:00",
+          "summary": "Rancho sued the band in 2025 over what it called unauthorized performances, and Fuerza Regida countersued, alleging the label withheld royalties.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "5e019452533f",
           "title": "Dan Nevin appointed VP, Industry Relations at Merlin",
