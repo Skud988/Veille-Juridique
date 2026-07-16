@@ -1,9 +1,374 @@
 {
-  "generated_at": "2026-07-15T10:15:21.515203+00:00",
+  "generated_at": "2026-07-16T10:21:07.086293+00:00",
   "days": [
+    {
+      "date": "2026-07-16",
+      "articles": [
+        {
+          "id": "3d83090d6c4d",
+          "title": "David Goldsen promoted to EVP, A&R at Warner Chappell Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/david-goldsen-promoted-to-evp-ar-at-warner-chappell-music/",
+          "category": "musique",
+          "published_at": "2026-07-16T10:05:52+00:00",
+          "summary": "Goldsen is based at the company's Los Angeles headquarters and will continue to report to Ryan Press, President, North America, WCM.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "665a426425d9",
+          "title": "J’ai vu l’Odyssée, j’avais peur d’être déçu mais je suis sorti chamboulé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2295951-jattendais-nolan-au-tournant-mais-lodyssee-est-un-choc-visuel-colossal.html",
+          "category": "ia",
+          "published_at": "2026-07-16T10:05:00+00:00",
+          "summary": "Malgré des infidélités thématiques majeures qui feront hurler les hellénistes, le pari fou de Christopher Nolan est réussi. L'Odyssée (The Odyssey) s'impose comme un choc de cinéma total, une odyssée sensorielle de trois heures qui redéfinit le blockbuster. Porté par un Matt…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e0e3b50486b7",
+          "title": "Éclipse solaire du 12 août 2026 : des lunettes sans certification CE ni notice en français sont vendues en kiosque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2286441-eclipse-solaire-du-12-aout-2026-des-lunettes-sans-certification-ce-ni-notice-en-francais-sont-vendues-en-kiosque.html",
+          "category": "ia",
+          "published_at": "2026-07-16T09:45:13+00:00",
+          "summary": "Le grand événement astronomique de l'été 2026 en France métropolitaine approche. L'éclipse solaire du 12 août est imminente, et il est encore temps de s'équiper en lunettes pour l'observer. Mais l'Association Française d'Astronomie a lancé l'alerte : des lunettes qui ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff2a66e21055",
+          "title": "12 ans après sa sortie, Les Sims 4 dispose enfin d’une fonctionnalité très demandée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2295983-12-ans-apres-sa-sortie-les-sims-4-dispose-enfin-dune-fonctionnalite-tres-demandee.html",
+          "category": "ia",
+          "published_at": "2026-07-16T09:05:00+00:00",
+          "summary": "Près de 12 ans après sa sortie, Les Sims 4 intègre enfin la fonctionnalité de sauvegarde automatique, attendue par les joueuses et les joueurs du monde entier. Mieux vaut tard que jamais.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc0819069af4",
+          "title": "L’IA open-weight tient peut-être son nouveau géant : Thinking Machines Lab dévoile Inkling",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295941-lia-open-weight-tient-peut-etre-son-nouveau-geant-thinking-machines-lab-devoile-inkling.html",
+          "category": "ia",
+          "published_at": "2026-07-16T08:44:14+00:00",
+          "summary": "Thinking Machines Lab a dévoilé le 15 juillet 2026 son tout premier modèle de fondation baptisé Inkling. Une sortie très attendue pour cette startup lancée par l'ancienne directrice technique d'OpenAI.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "baf9113ae114",
+          "title": "OpenAI lance un clavier pour contrôler ChatGPT : que peut-on faire avec ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295947-openai-lance-un-clavier-pour-controler-chatgpt-que-peut-on-faire-avec.html",
+          "category": "ia",
+          "published_at": "2026-07-16T08:37:53+00:00",
+          "summary": "OpenAI se lance dans le matériel avec le Codex Micro, un petit clavier à 230 dollars conçu pour superviser et contrôler ses agents IA. Dévoilé le 15 juillet 2026 et déjà épuisé, il s’adresse avant tout aux utilisateurs intensifs de Codex.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79b255be6a38",
+          "title": "Abonnés Free, vous pouvez désormais payer YouTube Premium moins cher",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295939-abonnes-free-vous-pouvez-desormais-payer-youtube-premium-moins-cher.html",
+          "category": "ia",
+          "published_at": "2026-07-16T08:26:34+00:00",
+          "summary": "[Deal du jour] Free propose désormais un tarif YouTube Premium réservé à ses abonnés avec un mois gratuit. Voici tout ce qu’il faut savoir pour en profiter.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "168bb01b596a",
+          "title": "OnePlus quitte l’Europe : un auto-sabotage historique pour une marque de smartphones autrefois géniale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295933-oneplus-quitte-leurope-un-auto-sabotage-historique-pour-une-marque-de-smartphones-autrefois-geniale.html",
+          "category": "ia",
+          "published_at": "2026-07-16T07:48:27+00:00",
+          "summary": "Selon les informations de WinFuture et de Bloomberg, le groupe Oppo, propriétaire de la marque OnePlus, s'apprête à annoncer la fin de OnePlus en Europe et aux États-Unis. À terme, OnePlus devrait renoncer à tous les territoires à l'exception de la Chine. Un déclin total pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f9740a93d9d",
+          "title": "Australian government backs creative industries in AI-training battles",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/16/australian-government-backs-creative-industries-in-ai-training-battles/",
+          "category": "ia",
+          "published_at": "2026-07-16T07:38:42+00:00",
+          "summary": "&#8220;No company should use Australian books, music, art or news to build or train AI without the artist’s control&#8230;&#8221;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f6ffbd159a6",
+          "title": "Fcukers Lead 2026 Independent Music Awards Nominations: See the Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/fcukers-2026-independent-music-awards-nominations-list-1236294481/",
+          "category": "institutionnel",
+          "published_at": "2026-07-16T06:00:00+00:00",
+          "summary": "The ceremony will take place at London's Roundhouse in September.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c3969a5e880",
+          "title": "‘The Implications Are Global’: International Music Publishers Welcomes Australian Government’s ‘Landmark’ Statement on AI",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/icmp-australian-government-landmark-statement-ai/",
+          "category": "ia",
+          "published_at": "2026-07-16T05:25:02+00:00",
+          "summary": "Australia's PM remarked that writers, musicians, artists and journalists “must retain ownership and control of their work,” and that “our laws will spell that out, plain as day.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a14ff914c724",
+          "title": "Arson Theory talks heavy music: key challenges, fan culture, fairness and more",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/16/arson-theory-talks-heavy-music-key-challenges-fan-culture-fairness-and-more/",
+          "category": "musique",
+          "published_at": "2026-07-16T05:00:00+00:00",
+          "summary": "Just under a year ago, Cameron Almasi and Eddie Hermida co-founded Arson Theory. 300m streams later, the company is thriving.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bf7c55a6e13",
+          "title": "Karol G Hilariously Pranks Best Friend by Claiming She Joined ‘Love Island’ Cast",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/karol-g-pranks-best-friend-joining-love-island-cast-1236295541/",
+          "category": "ia",
+          "published_at": "2026-07-16T00:44:55+00:00",
+          "summary": "The star told Daiky Gamboa she was “moving” her tour to join the hit dating show: “It would take my career to the next level.”",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-15",
       "articles": [
+        {
+          "id": "e89ded398641",
+          "title": "Dave Kendall, Former Creator/Host of MTV’s Alternative Music Show ‘120 Minutes,’ Has Died",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/dave-kendall-death-mtv-120-minutes-host-dead-68-1236294513/",
+          "category": "musique",
+          "published_at": "2026-07-15T22:54:59+00:00",
+          "summary": "The British VJ  helped boost indie and alt rock on the video network from 1989 to 1992.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "113530bb6085",
+          "title": "Extra Time: These Spain and Argentina World Cup Jerseys Will Arrive Before the Big Game",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/spain-argentina-world-cup-jerseys-fast-shipping-buy-online-1236295330/",
+          "category": "ia",
+          "published_at": "2026-07-15T22:34:40+00:00",
+          "summary": "Order these official team kits online and have them delivered or ready for pickup before Sunday's World Cup final match.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "768e32908c2f",
+          "title": "Done deal: Sony Music Publishing completes acquisition of Recognition Music Group’s catalog",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/done-deal-sony-music-publishing-completes-acquisition-of-recognition-music-groups-catalog/",
+          "category": "musique",
+          "published_at": "2026-07-15T22:22:41+00:00",
+          "summary": "Sony Music Publishing already administered the Recognition catalog before completing the acquisition.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6323d6779ad4",
+          "title": "Les internautes accusent TF1 de plagier la série The White Lotus pour la promotion de Demain nous appartient",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2295763-les-internautes-accusent-tf1-de-plagier-la-serie-the-white-lotus-pour-la-promotion-de-demain-nous-appartient.html",
+          "category": "ia",
+          "published_at": "2026-07-15T19:25:00+00:00",
+          "summary": "Vouloir singer le prestige de HBO quand on produit un feuilleton quotidien est un calcul hautement risqué. TF1 en fait aujourd'hui la douloureuse expérience : en voulant donner des airs de&nbsp;The White Lotus&nbsp;à la nouvelle intrigue estivale de&nbsp;Demain nous appartient,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41846b948fe7",
+          "title": "Andi Arya Dwi Putra promoted to Head of TuneCore, Indonesia",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/andi-arya-dwi-putra-promoted-to-head-of-tunecore-indonesia/",
+          "category": "ia",
+          "published_at": "2026-07-15T17:33:46+00:00",
+          "summary": "He will lead the Believe-owned distributor’s growth strategy, artist roster and partnerships in the market.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10c9f0c281e3",
+          "title": "Fin du changement d’heure : les États-Unis avancent, pendant que l’Europe reste bloquée depuis 2019",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2295721-fin-du-changement-dheure-les-etats-unis-avancent-pendant-que-leurope-reste-bloquee-depuis-2019.html",
+          "category": "ia",
+          "published_at": "2026-07-15T17:10:00+00:00",
+          "summary": "Les États-Unis pourraient bientôt en finir avec le changement d'heure, en conservant l'heure d'été. En Europe, le dossier est complètement bloqué depuis 2019 ; les pays de l'UE continuent donc de changer d'heure en mars et en octobre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "daae57d190cb",
+          "title": "One of Suno’s biggest investors just led a $700M round in Daniel Ek’s health startup",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/one-of-sunos-biggest-investors-just-led-a-700m-round-in-daniel-eks-health-startup/",
+          "category": "musique",
+          "published_at": "2026-07-15T16:36:12+00:00",
+          "summary": "Lightspeed was the lead investor in AI music generator Suno's $125 million Series B round in 2024.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6dd527d6735c",
+          "title": "« Sans exception », Musk promet l’open source total de X",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295687-sans-exception-musk-promet-lopen-source-total-de-x.html",
+          "category": "ia",
+          "published_at": "2026-07-15T16:20:00+00:00",
+          "summary": "Elon Musk a promis, sur X, de publier l'intégralité du code source de la plateforme une fois une revue de sécurité achevée. Mais sa précédente promesse de transparence, plus limitée, montre déjà les limites de l'exercice.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c6bd597402c",
+          "title": "James Wright promoted to Co-Head of UK Music at United Talent Agency",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/james-wright-promoted-to-co-head-of-uk-music-at-united-talent-agency/",
+          "category": "musique",
+          "published_at": "2026-07-15T16:16:02+00:00",
+          "summary": "Wright will lead the company’s London-based music team alongside long-standing UK Co-Head Neil Warnock.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f60886a1719",
+          "title": "Flex Titanium : Samsung a trouvé une solution au problème des smartphones pliants",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295661-flex-titanium-samsung-a-trouve-une-solution-au-probleme-des-smartphones-pliants.html",
+          "category": "ia",
+          "published_at": "2026-07-15T15:50:22+00:00",
+          "summary": "À quelques semaines de l'annonce du premier iPhone pliant, Samsung dévoile la technologie Flex Titanium qui associe un film en alliage de titane et une plaque de titane pour renforcer l'écran des téléphones qui se plient. Le résultat pourrait être des Galaxy sans pli visible,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf7650fdcd8a",
+          "title": "The Batman Part 2 est encore repoussé et ça va faire grincer des dents",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2295719-warner-bros-repousse-encore-the-batman-part-2-et-devoile-un-premier-teaser.html",
+          "category": "ia",
+          "published_at": "2026-07-15T15:23:00+00:00",
+          "summary": "L'attente autour du Chevalier Noir commence sérieusement à ressembler à un chemin de croix. Prévu pour être l'un des piliers des années à venir, The Batman Part 2 vient de subir un énième report d'envergure. Pour tenter d'éteindre l'incendie auprès de fans fatigués d'attendre,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca0b2f849b1e",
+          "title": "South Korea bill would require music distributors to screen tracks for content harmful to minors before release",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/south-korea-bill-would-require-music-distributors-to-screen-tracks-for-content-harmful-to-minors-before-release/",
+          "category": "musique",
+          "published_at": "2026-07-15T15:09:10+00:00",
+          "summary": "If a track is judged harmful and its creator is under 19, the distributor must block it from release, according to The Korea Times.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bdb151200e7e",
+          "title": "Pophouse and the Avicii estate launch Avicii Community fan platform",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/pophouse-and-the-avicii-estate-launch-avicii-community-fan-platform/",
+          "category": "musique",
+          "published_at": "2026-07-15T14:54:50+00:00",
+          "summary": "Platform launches with a set of features that the companies say are aimed at deepening fans' connection to Avicii's music\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a0ed54c5456",
+          "title": "Le créateur de Hinge lance une app de rencontre où l’IA choisit votre date à votre place",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2295633-le-createur-de-hinge-lance-une-app-de-rencontre-ou-lia-choisit-votre-date-a-votre-place.html",
+          "category": "ia",
+          "published_at": "2026-07-15T14:30:00+00:00",
+          "summary": "Après avoir créé Hinge, Justin McLeod veut de nouveau bouleverser les rencontres en ligne. Son nouveau service, Overtone, a levé 18 millions de dollars pour remplacer les profils et les swipes par une intelligence artificielle, selon un communiqué publié le 14 juillet 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "658c832a8972",
+          "title": "BandLab Technologies buys Aiode, an AI music studio built on ‘fully-licensed’ audio",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bandlab-acquires-aiode-an-ai-music-studio-built-on-fully-licensed-audio/",
+          "category": "musique",
+          "published_at": "2026-07-15T14:00:32+00:00",
+          "summary": "The deal gives Singapore-based BandLab a third music-making platform alongside BandLab and Cakewalk.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f42e20f180a",
+          "title": "D.C. passes RESALE Act, capping live entertainment ticket resale at 10% above face value",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/d-c-passes-resale-act-capping-live-entertainment-ticket-resale-at-10-above-face-value/",
+          "category": "musique",
+          "published_at": "2026-07-15T13:56:47+00:00",
+          "summary": "The bill requires full price transparency, forces anyone advertising 50 or more tickets a year for resale to register with the District.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6c52e70b75f",
+          "title": "Cinq Music acquires D’Banj’s catalog in C.R.E.A.M talent partnership",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/cinq-music-acquires-dbanjs-catalog-in-c-r-e-a-m-talent-partnership/",
+          "category": "musique",
+          "published_at": "2026-07-15T13:09:29+00:00",
+          "summary": "C.R.E.A.M, which launched in 2016, says it has more than seven million subscribers across Nigeria.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31be843e49c6",
+          "title": "Spotify gets more conversational with its user interface",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/15/spotify-gets-more-conversational-with-its-user-interface/",
+          "category": "musique",
+          "published_at": "2026-07-15T12:30:00+00:00",
+          "summary": "Given everything going on around AI right now, it&#8217;s hardly a neck-sticking-out prediction to say that conversation is going to be the next big leap for the way people use music services. Spotify&#8217;s latest announcement offers more evidence.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1a1a58ef8db",
+          "title": "Tomorrowland and Fuji Rock Festival reveal livestream partners",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/15/tomorrowland-and-fuji-rock-festival-reveal-livestream-partners/",
+          "category": "musique",
+          "published_at": "2026-07-15T12:30:00+00:00",
+          "summary": "We&#8217;re entering an era where the biggest, sold-outest festivals use livestreams as a core part of their strategy to reach larger audiences online, and build their brands globally. Two announcements yesterday continue the trend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7d0e6485a6c",
+          "title": "Hallowed be thy name rights! Pophouse reveals Iron Maiden partnership",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/15/hallowed-be-thy-name-rights-pophouse-reveals-iron-maiden-partnership/",
+          "category": "ia",
+          "published_at": "2026-07-15T12:30:00+00:00",
+          "summary": "British rock veterans Iron Maiden have become the latest artist to strike a wide-ranging rights deal with Swedish company Pophouse, joining Kiss, Cyndi Lauper, Swedish House Mafia and the late Tina Turner and Avicii in its portfolio.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec6e643bcbf8",
+          "title": "Mogul links with Claude and ChatGPT through its new MCP server",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/15/mogul-links-with-claude-and-chatgpt-through-its-new-mcp-server/",
+          "category": "ia",
+          "published_at": "2026-07-15T12:30:00+00:00",
+          "summary": "We last wrote about royalty-management startup Mogul in February when it raised a $5m funding round. Now it has become the latest company to launch a Model Context Protocol (MCP) server to play nicely with AI assistants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56f7255887b2",
+          "title": "My Chemical Romance join TikTok after 1.4bn ‘Teenagers’ views",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/15/my-chemical-romance-join-tiktok-after-1-4bn-teenagers-views/",
+          "category": "musique",
+          "published_at": "2026-07-15T12:30:00+00:00",
+          "summary": "Welcome to the, ahem, &#8216;Tok parade. Emo veterans My Chemical Romance have bitten the bullet and joined TikTok with an official account, which already has more than 425,000 followers a couple of days after it went live.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c13d8852dbdb",
+          "title": "Report predicts $56.8bn of annual recorded-music sales by 2030",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/15/report-predicts-56-8bn-of-annual-recorded-music-sales-by-2030/",
+          "category": "musique",
+          "published_at": "2026-07-15T11:30:00+00:00",
+          "summary": "Research firm Omdia has published its latest predictions for the growth of the global recorded-music market.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "5666977c0b9b",
           "title": "Je suis montée à bord du Volkswagen ID. Cross : faut-il vraiment préférer ce SUV à l’ID. Polo ?",
