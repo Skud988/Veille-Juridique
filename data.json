@@ -1,9 +1,454 @@
 {
-  "generated_at": "2026-07-17T10:11:55.904949+00:00",
+  "generated_at": "2026-07-18T09:44:56.719748+00:00",
   "days": [
+    {
+      "date": "2026-07-18",
+      "articles": [
+        {
+          "id": "18d8b054c9a6",
+          "title": "Nos 6 jeux d’ambiance préférés pour l’été",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297293-jeux-dambiance-pour-lete.html",
+          "category": "ia",
+          "published_at": "2026-07-18T09:30:00+00:00",
+          "summary": "L’été, c’est la saison des apéros qui s’éternisent, des terrasses animées et des soirées entre amis. Pour prolonger ces moments, un jeu d’ambiance reste une valeur sûre, facile à sortir et simple à partager. Voici une sélection de quelques jeux, rarement très originaux, mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac7f2f1c68de",
+          "title": "Wolfenstein revient en 2026… mais en jeu de rôle sur table",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297409-wolfenstein-revient-en-2026-mais-en-jeu-de-role-sur-table.html",
+          "category": "ia",
+          "published_at": "2026-07-18T09:00:07+00:00",
+          "summary": "Wolfenstein revient à l'automne 2026, mais pas sous la forme que vous imaginez : c'est un jeu de rôle sur table qui débarque, où l'on incarne la Résistance dans à une Amérique nazie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c047e78defd4",
+          "title": "En pleine pénurie de clims, ce ventilateur Dreo connecté vaut-il vraiment ses 160 euros ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2296063-en-pleine-penurie-de-clims-ce-ventilateur-dreo-connecte-vaut-il-vraiment-ses-160-euros.html",
+          "category": "ia",
+          "published_at": "2026-07-18T08:50:29+00:00",
+          "summary": "En pleine pénurie de climatiseurs, les ventilateurs haut de gamme sont eux aussi pris d’assaut. Nous avons testé le Dreo 714S, un modèle connecté, silencieux, pour savoir s’il peut réellement aider à affronter la canicule.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c54c3e7a253",
+          "title": "Australia’s Spilt Milk Festival Confirms 2026 Return",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/spilt-milk-festival-confirms-2026-return-1236297293/",
+          "category": "ia",
+          "published_at": "2026-07-18T08:11:01+00:00",
+          "summary": "Last year's lineup was headlined by Kendrick Lamar and featured Doechii, Dominic Fike, Sara Landry, ScHoolboy Q, sombr, and more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff6d598f0088",
+          "title": "Avec Truth API, Donald Trump va-t-il monétiser le délit d’initiés ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2297339-avec-truth-api-donald-trump-va-t-il-monetiser-le-delit-dinities.html",
+          "category": "ia",
+          "published_at": "2026-07-18T07:33:06+00:00",
+          "summary": "Trump Media lance Truth API, un service payant qui livrera aux traders de Wall Street les posts de Truth Social en quelques millisecondes. Le président des États-Unis, actionnaire principal du groupe, monétise ainsi ses propres annonces auprès de marchés qu'il fait bouger…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2cf4ad161750",
+          "title": "Claude Fable 5 reste inclus dans certains forfaits Anthropic, mais avec des quotas divisés par deux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2297337-claude-fable-5-reste-inclus-dans-certains-forfaits-anthropic-mais-avec-des-quotas-divises-par-deux.html",
+          "category": "ia",
+          "published_at": "2026-07-18T07:11:13+00:00",
+          "summary": "Anthropic met fin au suspense autour de son modèle frontière Claude Fable 5. À partir du 20 juillet 2026, le modèle sera inclus dans les forfaits Max et Team Premium, mais dans la limite de 50 % du quota d'usage habituel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2d2ae9810d5",
+          "title": "Le prix de la montre Apple Watch SE 3 chute",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2296877-le-prix-de-la-montre-apple-watch-se-3-chute.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-18T07:00:00+00:00",
+          "summary": "[Deal du jour] La Watch SE 3 est une montre d'entrée de gamme d’Apple aux performances honorables pour qui cherche une bonne montre connectée. Son prix en baisse de 80 € en fait un modèle au rapport qualité-prix imbattable.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d6591f5f7a1",
+          "title": "Fin du changement d’heure aux USA, lunettes d’éclipse non certifiées et treizième vol du Starship – le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2297007-fin-du-changement-dheure-aux-usa-lunettes-declipse-non-certifiees-et-treizieme-vol-du-starship-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-18T05:10:00+00:00",
+          "summary": "Les États-Unis sur le point d'en finir avec le changement d'heure, pendant que l'Europe est bloquée ; des lunettes d'éclipse non certifiées en vente en France un mois avant l'événement du 12 août 2026 ; de vrais satellites pour la première fois à bord du Starship : c'est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b580e82e0d7",
+          "title": "Apple Music Raises Streaming Subscription Prices for First Time in Nearly Four Years",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/apple-music-raises-streaming-subscription-prices/",
+          "category": "musique",
+          "published_at": "2026-07-18T01:47:59+00:00",
+          "summary": "The service last raised prices in October 2022.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-17",
       "articles": [
+        {
+          "id": "dffa62c7008f",
+          "title": "Hailey Bieber’s Sold-Out Gap Jeans Have Affordable $15 Old Navy Dupes",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/hailey-bieber-gap-jeans-old-navy-dupes-shop-online-1236297051/",
+          "category": "ia",
+          "published_at": "2026-07-17T23:35:37+00:00",
+          "summary": "If you missed the sold-out \"Hailey Jean\" drop, these denim dupes recreate the celebrity-loved baggy jean look.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a39fa8963188",
+          "title": "Rick Ross Tells Joe Budden Relationship With Drake Wasn’t a ‘Facade’: ‘Nothing About That Was Fake’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/rick-ross-drake-joe-budden-podcast-1236297202/",
+          "category": "ia",
+          "published_at": "2026-07-17T23:01:19+00:00",
+          "summary": "The Miami rapper was asked about his relationship with his former collaborator when he stopped by The Joe Budden Podcast.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "580af209ee38",
+          "title": "Spain vs. Argentina 2026: Here’s How to Watch Spanish-Language Broadcast FIFA World Cup Final Live Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/spain-vs-argentina-fifa-world-cup-final-2026-spanish-watch-live-free-1236296270/",
+          "category": "musique",
+          "published_at": "2026-07-17T22:42:27+00:00",
+          "summary": "Livestream Spain vs. Argentina for the international fútbol tournament final in Spanish for free without cable.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63bfcb9cbf6d",
+          "title": "Here’s When the 2026 Primetime Emmys in Music and Variety Categories Will Be Presented",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/2026-primetime-emmys-awarded-over-3-nights-details/",
+          "category": "musique",
+          "published_at": "2026-07-17T21:40:50+00:00",
+          "summary": "The Television Academy will hand out awards in 121 categories (!) across three nights.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0b724651409",
+          "title": "Gracie Abrams, Rick Ross, Steve Lacy & More: Which Is Your Favorite New Music Release This Week? Vote!",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/best-new-music-poll-gracie-abrams-buju-banton-steve-lacy-1236296976/",
+          "category": "musique",
+          "published_at": "2026-07-17T20:45:11+00:00",
+          "summary": "There are also new releases from Buju Banton, Carly Rae Jepsen, Syd and others.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e7ce7a9cb35",
+          "title": "Apple augmente les prix d’Apple Music en France : voici les nouveaux tarifs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297263-apple-augmente-les-prix-dapple-music-en-france-voici-les-nouveaux-tarifs.html",
+          "category": "musique",
+          "published_at": "2026-07-17T18:50:01+00:00",
+          "summary": "Mauvaise surprise du vendredi soir : Apple augmente ses tarifs. L'abonnement Apple Music passe de 10,99 à 11,99 euros par mois, l'abonnement familial de 16,99 à 19,99 euros et l'abonnement étudiant de 5,99 à 6,99 euros par mois. Apple One semble, étrangement, épargné.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2ed1b9a6934",
+          "title": "Szhlux, Jiytfu, Dozawa… cette extension masque les marques aux noms improbables sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2297051-szhlux-jiytfu-dozawa-cette-extension-masque-les-marques-aux-noms-improbables-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-07-17T17:00:00+00:00",
+          "summary": "Une extension gratuite propose de faire le ménage dans les résultats d’Amazon en masquant les marques inconnues aux noms parfois imprononçables.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80c9c9a18257",
+          "title": "Apple Music hikes subscription prices citing ‘rising licensing costs’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/apple-music-hikes-subscription-prices-as-a-result-of-rising-licensing-costs/",
+          "category": "musique",
+          "published_at": "2026-07-17T16:02:52+00:00",
+          "summary": "\"As a result of rising licensing costs, Apple Music is increasing its subscription price beginning today,\" the company said.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b207dc6fd5e0",
+          "title": "Stranger Things fête ses 10 ans avec une édition VHS sur Netflix qui sent bon la nostalgie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297167-stranger-things-fete-ses-10-ans-avec-une-edition-vhs-sur-netflix-qui-sent-bon-la-nostalgie.html",
+          "category": "ia",
+          "published_at": "2026-07-17T16:00:56+00:00",
+          "summary": "Alors que Stranger Things vient de se terminer et que les fans sont encore sous le choc — pour le meilleur ou pour le pire, à vous de décider —, Netflix est déjà plongé dans la nostalgie de la première saison. Une édition spéciale plutôt maligne fait son apparition sur la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "047b4270ae1a",
+          "title": "From Apple Music’s price hike to Iron Maiden’s Pophouse deal… it’s MBW’s Weekly Round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-sunos-ipo-ambitions-to-iron-maidens-pophouse-deal-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-07-17T15:51:36+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66f57273d365",
+          "title": "Pour la CJUE, le géoblocage peut être « efficace » même s’il est contournable via un VPN",
+          "source": "Next INpact",
+          "url": "https://next.ink/247946/pour-la-cjue-le-geoblocage-peut-etre-efficace-meme-sil-est-contournable-via-un-vpn/",
+          "category": "ia",
+          "published_at": "2026-07-17T15:30:06+00:00",
+          "summary": "La Cour de justice européenne a rendu son arrêt concernant un litige sur l&#8217;œuvre d&#8217;Anne Frank, qui est entrée dans le domaine public en Belgique mais pas aux Pays-Bas. Un géoblocage à la « pointe de la technologie » suffit à être dans les clous, même si des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fc4b20a1821",
+          "title": "☕️ Avec Perception, Microsoft préparerait un concurrent moins cher à Claude Mythos",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/avec-perception-microsoft-preparerait-un-concurrent-moins-cher-a-claude-mythos/",
+          "category": "ia",
+          "published_at": "2026-07-17T15:06:00+00:00",
+          "summary": "Depuis mai, Microsoft s’agite dans le domaine de la cybersécurité. Mi-mai, l’entreprise a ainsi présenté son système MDASH, pour «&#160;Microsoft Security multi-model agentic scanning harness&#160;». Il s’agit d’un réseau d’une centaine d’agents travaillant à partir d’un mix de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ab51693aa05",
+          "title": "Elon Musk’s X and music publishers end legal war, filing joint stipulations of dismissal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elon-musks-x-and-music-publishers-end-legal-war-filing-joint-stipulations-of-dismissal/",
+          "category": "musique",
+          "published_at": "2026-07-17T14:59:59+00:00",
+          "summary": "The two sides filed joint stipulations of dismissal in two US federal courts on Thursday (July 16).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec1462e8414c",
+          "title": "☕️ La France bloque l’accès à Polymarket",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-france-bloque-lacces-a-polymarket/",
+          "category": "ia",
+          "published_at": "2026-07-17T14:24:01+00:00",
+          "summary": "Polymarket est désormais bloqué en France. L&#8217;Autorité nationale des jeux (ANJ) a mis en œuvre son pouvoir de blocage administratif (1&#160;290&#160;URL géobloquées l&#8217;an dernier). Le régulateur a ordonné ce jeudi 16 juillet aux fournisseurs d&#8217;accès…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb5fc804217f",
+          "title": "☕️ Transparence, accès aux données : Bruxelles valide le plan de X pour se conformer au DSA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/transparence-acces-aux-donnees-bruxelles-valide-le-plan-de-x-pour-se-conformer-au-dsa/",
+          "category": "ia",
+          "published_at": "2026-07-17T13:15:57+00:00",
+          "summary": "Le réseau social X (anciennement Twitter) va pouvoir mettre en œuvre son plan de conformité pour améliorer l&#8217;accès de ses données aux chercheurs et la transparence des publicités. La Commission européenne avait infligé à l&#8217;entreprise d&#8217;Elon Musk une amende en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ac86d0af4d3",
+          "title": "La manette pour smartphones Backbone One baisse à moins de 15 € chez Micromania",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2296751-la-manette-pour-smartphones-backbone-one-baisse-a-moins-de-15-e-chez-micromania.html",
+          "category": "ia",
+          "published_at": "2026-07-17T13:01:00+00:00",
+          "summary": "[Deal du jour] La manette Backbone One permet de jouer sur votre smartphone comme si c'était une vraie console portable, et ainsi profiter de vos titres de la meilleure manière possible. Un peu chère à sa sortie, elle est actuellement trouvable à moins de 15 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "732178de4d64",
+          "title": "L’IA rend l’édition scientifique « plus lente, de moins bonne qualité et plus chère »",
+          "source": "Next INpact",
+          "url": "https://next.ink/247785/lia-rend-ledition-scientifique-plus-lente-de-moins-bonne-qualite-et-plus-chere/",
+          "category": "ia",
+          "published_at": "2026-07-17T12:47:23+00:00",
+          "summary": "Alors que de plus en plus d&#8217;articles scientifiques sont créés en utilisant l&#8217;IA générative, le rédacteur en chef de Science, Holden Thorp, considère qu&#8217;elle fait plus de mal que de bien à l&#8217;édition scientifique. Pour Holden Thorp, le responsable éditorial…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f04a47bd4ad3",
+          "title": "Climatiser les hôpitaux avec des appareils mobiles à 300 € : les limites du plan Wauquiez",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2296741-climatiser-les-hopitaux-avec-des-appareils-mobiles-a-300-e-les-limites-du-plan-wauquiez.html",
+          "category": "ia",
+          "published_at": "2026-07-17T12:33:51+00:00",
+          "summary": "La Région Auvergne-Rhône-Alpes veut constituer une flotte de 1 500 climatiseurs mobiles pour répondre rapidement aux canicules dans les hôpitaux, les Ehpad et les écoles. Une solution de répit immédiatement disponible , mais qui soulève une question sur la pérennité d’une telle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2af48c9d5333",
+          "title": "Merlin awarded more than $3.2m in legal battle with Triller",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/merlin-awarded-more-than-3-2m-in-legal-battle-with-triller/",
+          "category": "musique",
+          "published_at": "2026-07-17T12:30:00+00:00",
+          "summary": "Social-media platform Triller has faced various lawsuits from music rightsholders over royalty payments in recent years. Merlin is another of the litigants, and now it has won a default judgement in its case.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bca28cdeac7a",
+          "title": "Reservoir expands Latin-music business with Nacional Records deal",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/reservoir-expands-latin-music-business-with-nacional-records-deal/",
+          "category": "musique",
+          "published_at": "2026-07-17T12:30:00+00:00",
+          "summary": "Reservoir Media is the latest music company eyeing growth in Latin music through partnerships and acquisitions. In this case the latter: it is buying independent label Nacional Records, including the company’s publishing arm Canciones Nacionales.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "881d1741c3b6",
+          "title": "Cinq Music teams up with Cream to discover African talent",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/cinq-music-teams-up-with-cream-to-discover-african-talent/",
+          "category": "musique",
+          "published_at": "2026-07-17T12:30:00+00:00",
+          "summary": "GoDigital Music-owned Cinq Music wants to help more African artists break worldwide – and it’s working with Afrobeats artist and label boss D’Banj to do it.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7eeb38e4a98",
+          "title": "AIM reveals nominees for its 2026 Independent Music Awards",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/aim-reveals-nominees-for-its-2026-independent-music-awards/",
+          "category": "musique",
+          "published_at": "2026-07-17T12:30:00+00:00",
+          "summary": "UK independent-labels body AIM is preparing for its annual awards in September, with a raft of nominees announced this week for the respected event.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a96eef0cec39",
+          "title": "Laylo’s UGC Agent gathers clips from fans’ Instagram stories",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/laylos-ugc-agent-gathers-clips-from-fans-instagram-stories/",
+          "category": "ia",
+          "published_at": "2026-07-17T12:30:00+00:00",
+          "summary": "Last month we wrote about fan-data firm Laylo’s new AI Ticket Sales Agent, which automated the process of reconnecting with fans who’d RSVP’d or clicked on a link.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c05ad681a4b",
+          "title": "Lorde speaks out against Spotify’s ‘About the Song’ feature",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/lorde-speaks-out-against-spotifys-about-the-song-feature/",
+          "category": "musique",
+          "published_at": "2026-07-17T12:30:00+00:00",
+          "summary": "Clearly relishing her freedom as an independent artist, Lorde has been speaking out about technology issues lately: witness her well-timed takedown of Meta’s AI glasses at a recent festival – which was sponsored by its smart-specs partner Ray-Ban..",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7add53617e73",
+          "title": "UK’s Ofcom launches investigation into TikTok over child safety",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/uks-ofcom-launches-investigation-into-tiktok-over-child-safety/",
+          "category": "ia",
+          "published_at": "2026-07-17T12:30:00+00:00",
+          "summary": "The list of regulators’ child-safety investigations into TikTok has lengthened again. This time it’s the UK’s communications and media watchdog Ofcom holding the app to account.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07e90a1e4a98",
+          "title": "La Denza Z débarque en France avec un prix qui la place face à Maserati",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2296889-la-denza-z-debarque-en-france-avec-un-prix-qui-la-place-face-a-maserati.html",
+          "category": "ia",
+          "published_at": "2026-07-17T12:23:02+00:00",
+          "summary": "Denza ouvre les commandes de sa supercar électrique en France. Avec jusqu'à 1 604 ch et un tarif qui la place face à Maserati, la Z affiche clairement ses ambitions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b81c440fbf18",
+          "title": "Time to end music’s greatest injustice",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/time-to-end-musics-greatest-injustice/",
+          "category": "musique",
+          "published_at": "2026-07-17T12:00:49+00:00",
+          "summary": "The following MBW op/ed comes from Scott Cohen\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e6a5b794880",
+          "title": "Avery Cochran’s ‘Shapeshifting On A Saturday Night’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/avery-cochrans-shapeshifting-on-a-saturday-night/",
+          "category": "musique",
+          "published_at": "2026-07-17T12:00:00+00:00",
+          "summary": "Avery Cochrane is an emerging pop artist from Seattle (based in L.A), who has been releasing music since 2021. She’s been signed to Sonderview/S-Curve Records for about a year, with her first single released on the label being ‘Shapeshifting on a Saturday Night’.  While the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0eaa8e10094",
+          "title": "After rejecting the DOJ’s Live Nation settlement, states press for discovery into White House talks",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-rejecting-the-dojs-live-nation-settlement-states-press-for-discovery-into-white-house-talks/",
+          "category": "musique",
+          "published_at": "2026-07-17T11:37:07+00:00",
+          "summary": "The states want to examine both whether the settlement does enough to restore competition and how it was negotiated.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b4965d870a5",
+          "title": "‘Asia will become one of the primary drivers of global touring rather than simply a destination on international routes.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/asia-will-become-one-of-the-primary-drivers-of-global-touring-rather-than-simply-a-destination-on-international-routes/",
+          "category": "ia",
+          "published_at": "2026-07-17T11:22:08+00:00",
+          "summary": "MBW's Trailblazers series meets Tommy Jinho Yoon, founder and CEO of Asia-focused music promoter International Creative Agency (ICA).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b20a1b2e2579",
+          "title": "Content discovery on YouTube is changing",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/content-discovery-on-youtube-is-changing/",
+          "category": "ia",
+          "published_at": "2026-07-17T11:00:00+00:00",
+          "summary": "Keywords have always been the way for users to find content on YouTube – but that’s about to change. According to Digital Trends, YouTube has started rolling out a new AI-powered search experience for users in the US where they can use conversational prompts to ask YouTube for…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec9b4db644a4",
+          "title": "Erling Haaland on the top of Norway’s Spotify charts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/erling-haaland-on-the-top-of-norways-spotify-charts/",
+          "category": "musique",
+          "published_at": "2026-07-17T11:00:00+00:00",
+          "summary": "Norwegian World Cup star Erling Haaland is dominating Norway’s Spotify charts: thanks to a decade-old teenage rap track.  Following Norway’s historic World Cup 2026 quarter-final run, the Manchester City striker unexpectedly secured the country’s No. 1 spot with “Kygo Jo” – a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85ca6dbda7f4",
+          "title": "Big tech platforms implement AI measures to curb AI",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/17/big-tech-platforms-implement-ai-measures-to-curb-ai/",
+          "category": "musique",
+          "published_at": "2026-07-17T11:00:00+00:00",
+          "summary": "The major platforms have been coming under fire for the implementation of new AI features – with user backlash forcing Meta to remove an Instagram update that allows users to generate images of public profiles without the consent of profile owners. Also due to public pressure,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3de96d84dd07",
+          "title": "Rakuten France baissera le rideau d’ici la fin de l’année",
+          "source": "Next INpact",
+          "url": "https://next.ink/247788/rakuten-france-baissera-le-rideau-dici-la-fin-de-lannee/",
+          "category": "ia",
+          "published_at": "2026-07-17T10:59:00+00:00",
+          "summary": "Rakuten France annonce que faute d&#8217;avoir trouvé un repreneur, sa place de marché fermera ses portes fin 2026. Trois candidats s&#8217;étaient pourtant portés acquéreurs, mais les garanties proposées n&#8217;auraient pas été jugées suffisantes par la direction et le CSE…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14f20636d094",
+          "title": "☕️ Microsoft rend open source… son Comic Chat !",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/microsoft-rend-open-source-son-comic-chat/",
+          "category": "ia",
+          "published_at": "2026-07-17T10:13:29+00:00",
+          "summary": "Microsoft a annoncé la publication en open source de Microsoft Comic Chat, son célèbre client de messagerie des années 1990. L’application a été initialement développée en 1995 par David Kurlander, qui faisait alors partie de la division Microsoft Research Virtual Worlds. Elle…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "ef6165986b9f",
           "title": "« Votre colis est retenu en attente de paiement » : comment la nouvelle taxe de l’UE pourrait faire le bonheur des escrocs",
