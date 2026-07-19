@@ -1,9 +1,174 @@
 {
-  "generated_at": "2026-07-18T09:44:56.719748+00:00",
+  "generated_at": "2026-07-19T10:00:26.743803+00:00",
   "days": [
+    {
+      "date": "2026-07-19",
+      "articles": [
+        {
+          "id": "01e45ea275ca",
+          "title": "Le saviez-vous ? On respire surtout par une seule narine (et le corps alterne toutes les 2 heures)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2296961-le-saviez-vous-on-respire-surtout-par-une-seule-narine-et-le-corps-alterne-toutes-les-2-heures.html",
+          "category": "ia",
+          "published_at": "2026-07-19T08:25:00+00:00",
+          "summary": "Contrairement aux apparences, nous ne respirons presque jamais des deux narines à la fois : découvrez pourquoi notre corps orchestre ce va-et-vient permanent, pour protéger notre santé et booster notre odorat.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40bd3620f52f",
+          "title": "Coros Apex 4 : cette fois, c’est la bonne montre connectée pour grimper",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2297009-coros-apex-4-cette-fois-cest-la-bonne-montre-connectee-pour-grimper.html",
+          "category": "ia",
+          "published_at": "2026-07-19T07:30:00+00:00",
+          "summary": "Dans mon essai de la Coros Nomad, je vous disais de passer directement sur une Apex 4 pour faire de l'escalade J'ai tenu parole : j'ai testé l'Apex 4. Voici pourquoi elle est, à mon sens, la meilleure montre pour grimper aujourd'hui.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2c323672140",
+          "title": "Une rumeur peut-elle tuer un constructeur automobile ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2297101-une-rumeur-peut-elle-tuer-un-constructeur-automobile.html",
+          "category": "ia",
+          "published_at": "2026-07-19T06:48:00+00:00",
+          "summary": "Aujourd’hui, un constructeur ne meurt pas seulement à cause d’un mauvais produit. Il peut perdre beaucoup à cause d’une mauvaise rumeur. Une actualité de la semaine a inspiré cet édito de la newsletter Watt Else du 16 juillet 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3794c25488b",
+          "title": "Poppy Says She Was ‘Unable to Breathe’ Amid Wildfire Smoke at Upheaval Festival",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/poppy-upheaval-festival-wildfire-1236297450/",
+          "category": "ia",
+          "published_at": "2026-07-19T06:42:18+00:00",
+          "summary": "The singer said she was “unable to breathe” as her band performed the set instrumentally in respirator masks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8a51e3f4ec5",
+          "title": "Le premier teaser de The Hunt for Gollum est là, Les Sims 4 se met à jour, notre critique de L’Odyssée, le Recap Pop Culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297075-le-premier-teaser-de-the-hunt-for-gollum-est-la-les-sims-4-se-met-a-jour-notre-critique-de-lodyssee-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-19T06:30:00+00:00",
+          "summary": "The Hunt for Gollum, le nouveau film de la saga Le Seigneur des Anneaux, se dévoile très brièvement dans un teaser making-of qui joue clairement la carte de la nostalgie. Nostalgie également du côté des Sims 4 qui, 12 ans après sa sortie, accueille enfin une fonctionnalité…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c413c35efb0",
+          "title": "Noah Kahan Concert Among Shows Canceled in New York Due to Inclement Weather on Saturday",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/noah-kahan-nyc-concert-canceled-weather-1236297438/",
+          "category": "musique",
+          "published_at": "2026-07-19T00:10:40+00:00",
+          "summary": "Performances at outdoor pavilions Citi Field and Forest Hills Stadium in Queens were called off just ahead of showtime Saturday (July 18).",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-18",
       "articles": [
+        {
+          "id": "1e1b32dcaf82",
+          "title": "Matty Healy & Gabbriette’s Wedding Rehearsal, With a Cute Dip-Kiss, Spotted in Paparazzi Video",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/lifestyle/matty-healy-gabbriette-wedding-rehearsal-video-1236297411/",
+          "category": "ia",
+          "published_at": "2026-07-18T22:55:25+00:00",
+          "summary": "The 1975 star and his fiancée said the wedding celebration was just getting started in a clip ahead of the big day.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50daf716a177",
+          "title": "Xpeng frappe fort, une BYD perd son moteur en pleine rue, Tesla gagne moins d’argent : le récap’ Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2297069-xpeng-frappe-fort-une-byd-perd-son-moteur-en-pleine-rue-tesla-gagne-moins-dargent-par-voiture-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-18T18:05:00+00:00",
+          "summary": "À la une sur Vroom cette semaine :&nbsp;Xpeng a dévoilé sa L03 à un tarif compétitif, la vidéo d'une BYD traînant son moteur sur la route fait le buzz et Tesla se fait rattraper par Toyota en gagnant beaucoup moins d'argent par voiture :",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d88e4a009da",
+          "title": "BTS’ ‘NORMAL’ Music Video Sets Spotify Single-Day Streaming Record",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bts-normal-music-video-spotify-single-day-record-1236297349/",
+          "category": "musique",
+          "published_at": "2026-07-18T17:29:55+00:00",
+          "summary": "The song is the second single from the group's Billboard 200-topping album, ARIRANG.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dea289d6be34",
+          "title": "Here’s How to Watch ‘Descendants: Wicked Wonderland’ Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/descendants-wicked-wonderland-how-to-watch-online-free-1236297312/",
+          "category": "ia",
+          "published_at": "2026-07-18T16:46:03+00:00",
+          "summary": "Starring Kylie Cantrall and Malia Baker, the fifth Descendants film is available to stream.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3e9876ae66d",
+          "title": "Climatiser la France : qui osera porter politiquement un « droit au froid » ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2296887-climatiser-la-france-qui-osera-porter-politiquement-un-droit-au-froid.html",
+          "category": "ia",
+          "published_at": "2026-07-18T16:03:00+00:00",
+          "summary": "Dans le prolongement de notre vidéo sur les idées reçues liées à la climatisation, nous avons poursuivi la réflexion dans la newsletter ToujoursPlus du 16 juillet autour d'un autre thème : le droit au froid doit être un sujet politique, ne serait-ce que pour protéger celles et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f7adadfda70",
+          "title": "‘Obsession’: Here’s Where to Stream the Horror Romance Movie Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/obsession-streaming-release-watch-movie-online-1236297286/",
+          "category": "ia",
+          "published_at": "2026-07-18T15:55:44+00:00",
+          "summary": "One of the summer's biggest horror hits is now available to watch online at home.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d04ef4679d8",
+          "title": "Here’s Where to Watch FIFA World Cup Final 2026: Spain vs. Argentina Live Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/fifa-world-cup-final-2026-watch-live-soccer-online-free-1236296664/",
+          "category": "musique",
+          "published_at": "2026-07-18T15:41:39+00:00",
+          "summary": "The 23rd edition of the international soccer championship tournament final airs on July 19 — watch the match for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f347cdd0d967",
+          "title": "L’Odyssée de Nolan a un gros problème avec son personnage principal",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2296287-lodyssee-a-un-gros-probleme-avec-son-personnage-principal.html",
+          "category": "ia",
+          "published_at": "2026-07-18T13:10:00+00:00",
+          "summary": "Malgré la claque visuelle indiscutable et l’interprétation monumentale de Matt Damon, l'adaptation de&nbsp;L'Odyssée souffre d'un sérieux contresens thématique. En voulant moderniser son personnage principal à tout prix, le scénario de Nolan est tombé dans le piège du héros…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8ed8a4f68e4",
+          "title": "#Flockeries et cahier de vacances : amusez-vous avec Next et tentez de gagner des cadeaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/247132/flockeries-et-cahier-de-vacances-amusez-vous-avec-next-et-tentez-de-gagner-des-cadeaux/",
+          "category": "ia",
+          "published_at": "2026-07-18T11:37:37+00:00",
+          "summary": "Cet été, Next continue évidemment de vous informer sur les enjeux du numérique et de la tech au sens large, mais se propose aussi de vous divertir avec un cahier de vacances spécial geek. On vous a préparé des mini-jeux pour vous occuper sur la plage, à la montagne, en voyage……",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d925f49eced",
+          "title": "Dernière de Deschamps : où voir le match France-Angleterre pour la troisième place du Mondial 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2296349-maigre-lot-de-consolation-et-derniere-de-deschamps-ou-voir-le-match-france-angleterre-pour-la-troisieme-place-du-mondial-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-18T10:05:00+00:00",
+          "summary": "C'est l'heure de tourner plusieurs pages pour l'équipe de France. Celle du Mondial 2026, mais aussi celle de l'ère Deschamps. Ce samedi 18 juillet, les Bleus affrontent l'Angleterre, elle aussi éliminée en demi-finale de la compétition. Les deux équipes s'affrontent pour la…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "18d8b054c9a6",
           "title": "Nos 6 jeux d’ambiance préférés pour l’été",
