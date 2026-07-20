@@ -1,9 +1,334 @@
 {
-  "generated_at": "2026-07-19T10:00:26.743803+00:00",
+  "generated_at": "2026-07-20T11:12:40.554872+00:00",
   "days": [
+    {
+      "date": "2026-07-20",
+      "articles": [
+        {
+          "id": "7ab68c799950",
+          "title": "Pourra-t-on voir le débris de fusée SpaceX s’écraser sur la Lune ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2297613-pourra-t-on-voir-le-debris-de-fusee-spacex-secraser-sur-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-07-20T11:10:00+00:00",
+          "summary": "Un reste de fusée de SpaceX erre dans l'espace depuis environ un an et demi, et va bientôt s'écraser sur la Lune, début août 2026. Un incident qui ne présente pas de danger immédiat. Il sera surtout l'occasion pour les scientifiques de réaliser des observations inédites… En tout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "282f323a17d6",
+          "title": "Kimi K3 : ce qu’il faut savoir du modèle open source de 2 800 milliards de paramètres",
+          "source": "Next INpact",
+          "url": "https://next.ink/248051/kimi-k3-ce-quil-faut-savoir-du-modele-open-source-de-2-800-milliards-de-parametres/",
+          "category": "ia",
+          "published_at": "2026-07-20T11:00:00+00:00",
+          "summary": "L’intelligence artificielle est-elle en train de vivre son deuxième « moment DeepSeek » avec l’annonce du modèle Kimi K3 par la société chinoise Moonshot AI ? Il a de quoi séduire avec près de 3 000 milliards de paramètres (on parle de modèle 3T-class) et la promesse de poids…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa214aa57af8",
+          "title": "Le film Call of Duty est enfin lancé, et on sait dans quel univers culte il va se dérouler",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297545-le-film-call-of-duty-est-enfin-lance-et-on-sait-dans-quel-univers-culte-il-va-se-derouler.html",
+          "category": "ia",
+          "published_at": "2026-07-20T10:41:00+00:00",
+          "summary": "Le projet d’adaptation de la franchise Call of Duty, par Paramount, se concrétise enfin. Présent au Fanatics Fest à New York, le réalisateur Peter Berg a vendu la mèche : le film écrit par Taylor Sheridan zappe l'Histoire pour s'attaquer au morceau de choix des gamers, l’univers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2bef683eb3c",
+          "title": "Pour Assassin’s Creed Black Flag Resynced, Ubisoft a dû tout refaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297521-pour-assassins-creed-black-flag-resynced-ubisoft-a-du-tout-refaire.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-20T10:30:00+00:00",
+          "summary": "Le directeur du remake Assassin's Creed Black Flag Resynced a révélé qu'il a fallu tout refaire. Le code source n'était pas exploitable.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65e9487831c2",
+          "title": "Suivi pub : Le Figaro et L’Équipe veulent être indemnisés après la condamnation d’Apple",
+          "source": "Next INpact",
+          "url": "https://next.ink/248004/suivi-pub-le-figaro-et-lequipe-veulent-etre-indemnises-apres-la-condamnation-dapple/",
+          "category": "justice",
+          "published_at": "2026-07-20T10:24:29+00:00",
+          "summary": "Après l’amende de 150 millions d’euros infligée à Apple pour les modalités d’ATT, Le Figaro, L’Équipe et Adikteev réclament désormais réparation. Les trois entreprises estiment avoir subi un préjudice cumulé de 131,5 millions d’euros. Depuis iOS 14.5, livré en avril 2021, le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9900feeb9823",
+          "title": "En bloquant Polymarket, les autorités françaises censurent une source d’information utilisée par les médias du monde entier",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2297487-en-bloquant-polymarket-les-autorites-francaises-censurent-une-source-dinformation-utilisee-par-les-medias-du-monde-entier.html",
+          "category": "ia",
+          "published_at": "2026-07-20T10:15:06+00:00",
+          "summary": "La France intensifie sa lutte contre les plateformes de prédiction comme Polymarket et ordonne aux opérateurs de bloquer totalement l'accès au site, après avoir déjà été parmi les premières à interdire les paris sur la plateforme. Si Polymarket pose de nombreux problèmes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ce163a4a591",
+          "title": "Le Pixel 10 Pro perd presque la moitié de son prix avant la sortie du Pixel 11",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2297609-le-pixel-10-pro-perd-presque-la-moitie-de-son-prix-avant-la-sortie-du-pixel-11.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-20T10:13:36+00:00",
+          "summary": "[Deal du jour] Alors que la gamme de Pixel 11 pointe le bout de son nez, le modèle Pixel 10 Pro baisse son prix. Un très bon rapport qualité-prix pour l'un des meilleurs photophones du marché.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8ef554f6979",
+          "title": "HYBE names new girl group TUIDE, set to debut under its ABD label this year",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-names-new-girl-group-tuide-set-to-debut-under-its-abd-label-this-year/",
+          "category": "musique",
+          "published_at": "2026-07-20T09:32:50+00:00",
+          "summary": "The group will be produced by Han Sung Soo, the founder of PLEDIS Entertainment, who has produced groups including SEVENTEEN.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b85e9129ba92",
+          "title": "Recharge électrique, la France est déjà en avance sur les objectifs de 2030",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2297541-recharge-electrique-la-france-est-deja-en-avance-sur-les-objectifs-de-2030.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-20T09:30:00+00:00",
+          "summary": "Malgré un peu d’attente aux bornes de recharge électrique lors des grands départs, un rapport de l’ONG Transport &amp; Environment (T&amp;E) dresse un bilan particulièrement positif en France, bien au-delà des exigences réglementaires fixées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "265d1d052b2c",
+          "title": "Ryan Reynolds confirme un nouveau film Deadpool (et il a une idée bien précise en tête)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297481-ryan-reynolds-confirme-un-nouveau-film-deadpool-et-il-a-une-idee-bien-precise-en-tete.html",
+          "category": "ia",
+          "published_at": "2026-07-20T09:29:00+00:00",
+          "summary": "Deux ans après le braquage planétaire de&nbsp;Deadpool &amp; Wolverine&nbsp;(1,3 milliard de dollars au box-office), Ryan Reynolds a profité du Fanatics Fest 2026 pour couper court aux rumeurs. Oui, Wade Wilson va revenir bousculer le MCU, et l'acteur compte bien aller piocher…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16788e3b9151",
+          "title": "Le surinvestissement dans l’IA pourrait passer d’une « explosion » à un « effondrement »",
+          "source": "Next INpact",
+          "url": "https://next.ink/248064/le-surinvestissement-dans-lia-pourrait-passer-dune-explosion-a-un-effondrement/",
+          "category": "ia",
+          "published_at": "2026-07-20T09:28:37+00:00",
+          "summary": "Un nouveau rapport de la banque des banques centrales analyse dans le détail les conséquences potentielles de la course à l’investissement dans l’IA. Il estime que le secteur est déjà en situation de surinvestissement, et que le mouvement en cours pourrait passer d’une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd36cfbfbfd7",
+          "title": "Udio taps content-security BuyDRM to secure its AI music ‘walled garden’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/udio-taps-content-security-buydrm-to-secure-its-ai-music-walled-garden/",
+          "category": "musique",
+          "published_at": "2026-07-20T09:23:01+00:00",
+          "summary": "BuyDRM will provide multi-DRM support across Google Widevine, Apple FairPlay, and Microsoft PlayReady through its KeyOS MultiKey Service.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "331020827a29",
+          "title": "« La leçon pratique pour les défenseurs » : comment un piratage par IA a forcé Hugging Face à abandonner ses modèles frontière",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2297499-la-lecon-pratique-pour-les-defenseurs-comment-un-piratage-par-ia-a-force-hugging-face-a-abandonner-ses-modeles-frontiere.html",
+          "category": "ia",
+          "published_at": "2026-07-20T09:13:31+00:00",
+          "summary": "Piratée par un système d'agents IA autonomes, la plateforme Hugging Face a dû abandonner les modèles frontière propriétaires pour mener son enquête. Le passage à un modèle open weight a changé la donne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d68161380e93",
+          "title": "Plus forte que la FIFA : pourquoi Hatsune Miku est devenue le vrai trophée de la Coupe du monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297491-plus-forte-que-la-fifa-pourquoi-hatsune-miku-est-devenue-le-vrai-trophee-de-la-coupe-du-monde.html",
+          "category": "ia",
+          "published_at": "2026-07-20T09:12:00+00:00",
+          "summary": "Pendant toute la phase finale de la Coupe du monde, les internautes ont imaginé que les équipes s’affrontaient pour obtenir la garde d’Hatsune Miku. Une plaisanterie devenue une étrange malédiction.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb28c1ede68d",
+          "title": "Le réalisateur d’Assassin’s Creed : Black Flag Resynced vous supplie de continuer à jouer à son jeu après GTA 6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297485-le-realisateur-dassassins-creed-black-flag-resynced-vous-supplie-de-continuer-a-jouer-a-son-jeu-apres-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-07-20T08:48:24+00:00",
+          "summary": "Richard Knight, le réalisateur d’Assassin's Creed Black Flag Resynced, espère que vous continuerez à voguer dans son aventure de pirates et d’assassins même après la sortie de GTA 6. Et pour convaincre les joueuses et les joueurs de rester à bord, il promet du contenu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "157edd239783",
+          "title": "Le nouveau magnat des médias en faillite ne supporte pas ceux qui n’utilisent pas l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/244622/le-nouveau-magnat-des-medias-en-faillite-ne-supporte-pas-ceux-qui-nutilisent-pas-lia/",
+          "category": "ia",
+          "published_at": "2026-07-20T08:29:00+00:00",
+          "summary": "S&#8217;inspirant de la façon qu’avaient eu Bernard Tapie, Vincent Bolloré et Bernard Arnault de bâtir leurs empires financiers, un entrepreneur et influenceur français rachète des entreprises « en redressement judiciaire, sans reprendre la moindre dette ». Ses cibles : des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e117a9a6c66e",
+          "title": "Que peut bien être le rapport entre Final Fantasy X et Le Seigneur des anneaux ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297479-que-peut-bien-etre-le-rapport-entre-final-fantasy-x-et-le-seigneur-des-anneaux.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-20T08:20:20+00:00",
+          "summary": "Square Enix a révélé que Final Fantasy X, épisode culte qui fête cette année ses 25 ans, était inspiré de la saga Le Seigneur des anneaux. Ou, tout du moins, il épouse un univers de fantasy pour surfer sur la vague.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "160c5e4c9a77",
+          "title": "IMAX : où s’asseoir pour ne pas gâcher L’Odyssée de Nolan (mon expérience au Pathé Île Seguin)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297489-imax-ou-sasseoir-pour-ne-pas-gacher-lodyssee-de-nolan-mon-experience-au-pathe-ile-seguin.html",
+          "category": "ia",
+          "published_at": "2026-07-20T08:18:12+00:00",
+          "summary": "J'ai vu L'Odyssée de Christopher Nolan en IMAX au tout nouveau Pathé Île Seguin, assis en rangée D. La salle est dingue, le film est le choc que j'attendais, mais le siège a failli tout gâcher. Voilà mes conseils pour profiter à fond des 27 euros que coûte la place.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5def7cae8da2",
+          "title": "☕️ NVIDIA parle de sa prochaine génération de CPU Rosa, qui sera dans la plateforme Feynman",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/nvidia-parle-de-sa-prochaine-generation-de-cpu-rosa-qui-sera-dans-la-plateforme-feynman/",
+          "category": "ia",
+          "published_at": "2026-07-20T08:04:00+00:00",
+          "summary": "Au début de l’année, NVIDIA présentait sa plateforme Rubin, avec un CPU Arm maison Vera (successeur de Grace) et un GPU Rubin (remplaçant de Blackwell). Vera dispose de 88 cœurs Olympus (architecture Arm v9.2) et 176 threads. Le cache L2 par cœur est doublé avec 2 Mo et le cache…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4e209b232c5",
+          "title": "Rachat de SFR : l’Autorité de la concurrence va en avoir pour « au moins 18 mois »",
+          "source": "Next INpact",
+          "url": "https://next.ink/248031/rachat-de-sfr-lautorite-de-la-concurrence-va-en-avoir-pour-au-moins-18-mois/",
+          "category": "ia",
+          "published_at": "2026-07-20T07:46:00+00:00",
+          "summary": "Le rachat de SFR sera intégralement examiné par l’Autorité de la concurrence française ; la Commission européenne ayant décidé de laisser sa place. Une annonce sans surprise puisque Bouygues Telecom et Orange discutaient déjà avec l’Autorité, tandis qu&#8217;iliad avait demandé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a15ba251afa",
+          "title": "Windows 11 corrige en urgence la surchauffe de certains ordinateurs Dell",
+          "source": "Next INpact",
+          "url": "https://next.ink/248039/windows-11-corrige-la-surchauffe-de-certains-ordinateurs-dell/",
+          "category": "ia",
+          "published_at": "2026-07-20T07:18:36+00:00",
+          "summary": "Microsoft a publié une nouvelle version de son Patch Tuesday à destination des ordinateurs Dell qui présentaient un sérieux problème de surchauffe. Pour ces machines, le téléchargement et l&#8217;installation automatique avaient été coupés. Il est maintenant de retour. Le Patch…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e89cb044daad",
+          "title": "Liam Gallagher Says FIFA’s World Cup Halftime Show Was ‘Like a Bad Trip’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/liam-gallagher-fifa-world-cup-halftime-show-1236297975/",
+          "category": "ia",
+          "published_at": "2026-07-20T06:36:27+00:00",
+          "summary": "The star-studded show marked the first halftime performance staged during a FIFA World Cup final.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b8d4b630aef",
+          "title": "Netflix veut redéfinir l’engagement à son avantage",
+          "source": "Next INpact",
+          "url": "https://next.ink/247996/netflix-veut-redefinir-lengagement-a-son-avantage/",
+          "category": "justice",
+          "published_at": "2026-07-20T06:31:00+00:00",
+          "summary": "Netflix veut changer la manière dont l&#8217;engagement est perçu par les investisseurs et les observateurs. Dans l&#8217;esprit de la plateforme de streaming, une heure de compétition sportive diffusée en direct qui déclenche le recrutement d&#8217;un nouvel abonné a plus de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9bf2af96906",
+          "title": "On va bientôt pouvoir voir Les Maîtres de l’univers en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297469-on-va-bientot-pouvoir-voir-les-maitres-de-lunivers-en-france.html",
+          "category": "ia",
+          "published_at": "2026-07-20T06:17:02+00:00",
+          "summary": "On connaît enfin la date de diffusion du blockbuster Les Maîtres de l'univers, privé d'une sortie dans les salles obscures françaises. Il sera disponible sur Amazon Prime Video, à compter du 22 juillet 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3836ee8efce5",
+          "title": "☕️ Deepfakes sexuels : Apple et Google de nouveau rappelés à l’ordre",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/deepfakes-sexuels-apple-et-google-de-nouveau-rappeles-a-lordre/",
+          "category": "ia",
+          "published_at": "2026-07-20T06:02:00+00:00",
+          "summary": "Une fois de plus, Apple et Google vont devoir supprimer de leurs boutiques des applications de génération de deepfakes. Le procureur municipal de San Francisco, David Chiu, a mis en demeure les deux contrôleurs d&#8217;accès de retirer 13 applications capables de produire des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9178771743df",
+          "title": "Comme prévu, EA Sports avait raison sur le vainqueur de la Coupe du monde 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2297459-comme-prevu-ea-sports-avait-raison-sur-le-vainqueur-de-la-coupe-du-monde-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-20T05:44:58+00:00",
+          "summary": "Pour la cinquième fois de suite, EA Sports a correctement prédit le vainqueur d'une Coupe du monde avant qu'elle ne débute. L'éditeur avait vu l'Espagne, et c'est donc l'Espagne qui s'est imposée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2136b7abcdcd",
+          "title": "☕️ Apple Music, AppleCare+ : nouvelle salve d’augmentation de prix chez Apple",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-music-applecare-nouvelle-salve-daugmentation-de-prix-chez-apple/",
+          "category": "musique",
+          "published_at": "2026-07-20T05:35:21+00:00",
+          "summary": "Si Tim Cook avait pris soin de prévenir de la hausse des prix des produits Apple (ce qui a fini par arriver), il n&#8217;avait rien dit concernant les services de son entreprise. C&#8217;est pourtant bien ce qui s&#8217;est passé ces derniers jours ! Apple a procédé à une salve…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6fa069417f5",
+          "title": "AI’s new USB port: what the MCP standard means for the music industry",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/20/ais-new-usb-port-what-the-mcp-standard-means-for-the-music-industry/",
+          "category": "musique",
+          "published_at": "2026-07-20T05:00:00+00:00",
+          "summary": "One way to think about MCP is as AI’s equivalent of the USB ports on devices, and we think it could have a big impact on the music industry.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d917a01aeba",
+          "title": "FISHER to Headline 2026 Melbourne Cup Carnival Closing Party",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/fisher-2026-melbourne-cup-carnival-closing-party-1236297940/",
+          "category": "musique",
+          "published_at": "2026-07-20T04:19:23+00:00",
+          "summary": "The Gold Coast-born artist has become one of Australia’s most recognizable dance music exports.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5f1be499cb8",
+          "title": "Gracie Abrams Announces ‘Daughter From Hell’ Bonus Tracks Available ‘For a Limited Time’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/gracie-abrams-bonus-tracks-out-of-nowhere-love-letter-1236297898/",
+          "category": "ia",
+          "published_at": "2026-07-20T00:18:17+00:00",
+          "summary": "She's surprising fans with two more new songs, \"Out of Nowhere\" and \"Love Letter.\"",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-19",
       "articles": [
+        {
+          "id": "6e73bacdaf46",
+          "title": "Morgan Wallen Debuts ‘Been By Now,’ His Next Single, Live in Baltimore",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/morgan-wallen-been-by-now-new-song-live-debut-1236297867/",
+          "category": "musique",
+          "published_at": "2026-07-19T23:24:41+00:00",
+          "summary": "The country hitmaker announced the song will be released Friday (July 24).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "944e10113ad0",
+          "title": "Spain World Cup Champions Merch Drops Online: Shop Official T-Shirts, Hoodies and Jerseys Here",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/spain-world-cup-2026-winners-champions-merch-t-shirts-buy-1236297822/",
+          "category": "ia",
+          "published_at": "2026-07-19T22:40:19+00:00",
+          "summary": "Sunday's victory over Argentina marked the second World Cup win for Spain, who also took home the trophy in 2010.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "01e45ea275ca",
           "title": "Le saviez-vous ? On respire surtout par une seule narine (et le corps alterne toutes les 2 heures)",
