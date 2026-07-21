@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-07-20T11:12:40.554872+00:00",
+  "generated_at": "2026-07-21T10:33:37.003518+00:00",
   "days": [
+    {
+      "date": "2026-07-21",
+      "articles": [
+        {
+          "id": "c7b50a800204",
+          "title": "Paul McCartney Shocks Fans With Surprise Cameo on Beatles’ Magical Mystery Tour in Liverpool",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-beatles-paul-mccartney-magical-mystery-tour-cameo-1236299425/",
+          "category": "musique",
+          "published_at": "2026-07-21T09:45:45+00:00",
+          "summary": "Macca was spotted by guests on the unofficial tour while stuck in traffic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4e25ba419de",
+          "title": "Quantique : pour les services de renseignement, le niveau de la menace « est maximal »",
+          "source": "Next INpact",
+          "url": "https://next.ink/248221/quantique-pour-les-services-de-renseignement-le-niveau-de-la-menace-est-maximal/",
+          "category": "ia",
+          "published_at": "2026-07-21T09:27:06+00:00",
+          "summary": "Le « Q-Day » pourrait avoir lieu aux alentours de 2030-2035, même si actuellement les machines quantiques rencontrent de nombreuses limitations. Les pays et les services de renseignements se préparent car la guerre fait déjà rage sur les financements, les brevets et les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "000e5b887572",
+          "title": "Oups, Apple vient de confirmer que l’iPhone pliant arrive très bientôt",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2298475-oups-apple-vient-de-confirmer-que-liphone-pliant-arrive-tres-bientot.html",
+          "category": "ia",
+          "published_at": "2026-07-21T09:25:06+00:00",
+          "summary": "« Les batteries de cet iPhone fonctionnent normalement » : la bêta 4 d'iOS 27 contient plusieurs lignes qui font référence à un iPhone avec plusieurs batteries, chose qui n'est jamais arrivée auparavant. Il ne fait aucun doute sur la nature de cet iPhone : il s'agit du modèle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c66518c5195",
+          "title": "Google Maps annonçait 5 heures pour cette randonnée de 14 heures : les secours ont dû intervenir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2298391-google-maps-annoncait-5-heures-pour-cette-randonnee-de-14-heures-les-secours-ont-du-intervenir.html",
+          "category": "ia",
+          "published_at": "2026-07-21T09:24:09+00:00",
+          "summary": "Dans un communiqué publié le 16 juillet 2026, les secouristes de Lions Bay racontent être intervenus auprès de randonneurs guidés par Google Maps. L’application sous-estimait leur parcours de près de neuf heures.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e92846455c67",
+          "title": "Hausse de 52 % des ventes de voitures électriques en Europe : le classement des modèles les plus populaires",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2298385-hausse-de-52-des-ventes-de-voitures-electriques-en-europe-le-classement-des-modeles-les-plus-populaires.html",
+          "category": "ia",
+          "published_at": "2026-07-21T09:05:00+00:00",
+          "summary": "Les ventes de voitures 100 % électriques ont bondi de 52 % au mois de juin 2026. Le conflit au Moyen-Orient y est pour beaucoup. Tesla et Renault occupent le podium européen des ventes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55024e7d40e0",
+          "title": "Attaquée par un agent IA autonome, Hugging Face a analysé les traces avec un LLM local",
+          "source": "Next INpact",
+          "url": "https://next.ink/248236/attaquee-par-un-agent-ia-autonome-hugging-face-a-analyse-les-traces-avec-un-llm-local/",
+          "category": "ia",
+          "published_at": "2026-07-21T08:52:39+00:00",
+          "summary": "Hugging Face a publié le 16 juillet 2026 une divulgation d&#8217;incident au sujet d’une intrusion dans une partie de son infrastructure de production. Selon l&#8217;entreprise, cette intrusion présentait une caractéristique inédite : elle a été pilotée de bout en bout par un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9ddf1150e41",
+          "title": "« Nous devrons faire mieux la prochaine fois » : OVHcloud raconte comment ses équipes ont patché Januscape, la faille qui dormait depuis 16 ans dans Linux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2298379-nous-devrons-faire-mieux-la-prochaine-fois-ovhcloud-raconte-comment-ses-equipes-ont-patche-januscape-la-faille-qui-dormait-depuis-16-ans-dans-linux.html",
+          "category": "ia",
+          "published_at": "2026-07-21T08:46:57+00:00",
+          "summary": "Dans un article de blog détaillé, le CISO d'OVHcloud raconte comment l'hébergeur français a corrigé en urgence une faille critique dans le logiciel qui fait tourner ses machines virtuelles, sur un parc d'un million d'entre elles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08c1319b6d26",
+          "title": "AI-generated music is now more than half of Deezer’s uploads",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/21/ai-generated-music-is-now-more-than-half-of-deezers-uploads/",
+          "category": "musique",
+          "published_at": "2026-07-21T08:37:56+00:00",
+          "summary": "Deezer has published its latest figures on the increasing torrent of AI-generated music – and it’s a significant tipping point.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec66f565cbb2",
+          "title": "The Blood of Dawnwalker entend devenir Entretien avec un vampire, version jeu vidéo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2298343-the-blood-of-dawnwalker-entend-devenir-entretien-avec-un-vampire-version-jeu-video.html",
+          "category": "ia",
+          "published_at": "2026-07-21T08:20:00+00:00",
+          "summary": "Le studio Rebel Wolves a révélé les ambitions immenses qui se cachent derrière The Blood of Dawnwalker, héritier de la saga The Witcher. L'idée est d'en faire une saga qui traverserait plusieurs époques, toujours avec le même héros.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3199ad27d14",
+          "title": "Free Mobile ajoute 5 destinations en illimité à son forfait Max : voici la liste complète",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2298417-free-mobile-ajoute-5-destinations-en-illimite-a-son-forfait-max-voici-la-liste-complete.html",
+          "category": "ia",
+          "published_at": "2026-07-21T08:10:43+00:00",
+          "summary": "Free annonce l'arrivée de cinq nouvelles destinations dans son forfait Free Max, qui couvre désormais 142 territoires. Saint-Martin (partie néerlandaise), Bonaire, Curaçao, Saba et Saint-Eustache rejoignent la liste des pays où la data est illimitée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e91bbd54629b",
+          "title": "Deezer Says Daily Delivery of Fully AI Music Reaches More Than 50% for the First Time",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/deezer-50-percent-daily-song-uploads-fully-ai-generated/",
+          "category": "musique",
+          "published_at": "2026-07-21T08:00:00+00:00",
+          "summary": "The service is now removing AI tracks it suspects have been used in streaming fraud — as well as those that haven't been streamed for at least six months.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bef3aeff1cc6",
+          "title": "90,000 AI tracks flood Deezer daily – passing 50% of all new music uploads for the first time",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/90000-ai-tracks-flood-deezer-daily-passing-half-of-new-music-uploads-for-the-first-time/",
+          "category": "musique",
+          "published_at": "2026-07-21T07:59:33+00:00",
+          "summary": "Deezer says it will take down AI tracks used to inflate streams fraudulently, as well as those that have not been streamed for six months or more\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ecbc49034844",
+          "title": "Pour moins de 35 000 €, l’intérieur du Xpeng L03 m’a vraiment bluffée, suffisamment pour inquiéter la concurrence ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2298339-jai-decouvert-le-xpeng-l03-son-interieur-ma-vraiment-bluffee-pour-moins-de-35-000-e.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-21T07:58:20+00:00",
+          "summary": "Xpeng a dévoilé en très grande pompe son nouveau modèle, nommé L03. J’ai pu le découvrir en studio en avant-première, et pour un modèle affiché à partir de 34 990 €, le résultat est particulièrement bluffant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f271db4949fb",
+          "title": "NFL Expands Australia Push With Live Nation-Backed Melbourne Kickoff Festival",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/live-nation-nfl-melbourne-kickoff-festival/",
+          "category": "musique",
+          "published_at": "2026-07-21T07:42:36+00:00",
+          "summary": "The Kickoff Festival will also host the official watch party for the 2026 NFL season opener.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51b6fb858b03",
+          "title": "Budjerah Announces Australian Tour Ahead of Debut Album ‘Gentleman’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/budjerah-australian-tour-debut-album-gentleman-1236299165/",
+          "category": "musique",
+          "published_at": "2026-07-21T07:21:45+00:00",
+          "summary": "The two-time ARIA Award winner will release his debut album on Friday before hitting the road in October.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44f9faa63fe7",
+          "title": "Pourquoi la justice vient de suspendre le rachat de Warner Bros. par Paramount",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2298337-pourquoi-la-justice-vient-de-suspendre-le-rachat-de-warner-bros-par-paramount.html",
+          "category": "ia",
+          "published_at": "2026-07-21T07:19:43+00:00",
+          "summary": "Le 20 juillet 2026, une juge américaine a suspendu pour une durée de deux semaines le rachat de Warner Bros. Discovery par Paramount. Cette première victoire pour les opposants à la fusion pourrait surtout retarder durablement l’opération à 111 milliards de dollars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad6b89455400",
+          "title": "Nonprofit Music Safety Alliance pushes for ‘no creeps’ in the music industry",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/21/nonprofit-music-safety-alliance-pushes-for-no-creeps-in-the-music-industry/",
+          "category": "musique",
+          "published_at": "2026-07-21T07:12:11+00:00",
+          "summary": "The LA-based nonprofit Music Safety Alliance (MSA) has launched as an expansion of the grassroots movement &#8216;No Creeps!&#8217;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7700414b675c",
+          "title": "Veille, sites web, mini-jeux, code… on s’est baladés dans l’ATmosphère depuis l’Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/248151/veille-sites-web-mini-jeux-code-on-sest-balades-dans-latmosphere-depuis-leurope/",
+          "category": "ia",
+          "published_at": "2026-07-21T07:11:00+00:00",
+          "summary": "Une multitude d’applications ont été créées ces derniers mois dans l’&#160;«&#160;ATmosphere&#160;», l’écosystème construit autour du protocole AT, aux fondements du réseau social Bluesky. Avec Eurosky, il est désormais possible d’y accéder et d’en profiter depuis des serveurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e22fc56e995",
+          "title": "Avant même l’ouverture de ses poids, Kimi K3 inquiète déjà Washington",
+          "source": "Next INpact",
+          "url": "https://next.ink/248193/avant-meme-louverture-de-ses-poids-kimi-k3-inquiete-deja-washington/",
+          "category": "ia",
+          "published_at": "2026-07-21T06:44:30+00:00",
+          "summary": "Le secteur de l&#8217;IA retient son souffle : le 27 juillet, Moonshot AI publiera les poids complets de son modèle Kimi K3. On verra alors de visu de quel bois se chauffe ce modèle, et si les promesses du labo chinois sont tenues. À la Maison-Blanche, on prépare déjà la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79ce01113ed2",
+          "title": "Shakira Brings Out Tyla, Ed Sheeran & Burna Boy at Her First Show Post FIFA World Cup in New York City",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/shakira-barclays-center-guests-tyla-ed-sheeran-burna-boy-1236299164/",
+          "category": "ia",
+          "published_at": "2026-07-21T06:26:47+00:00",
+          "summary": "The Colombian superstar kept the party going Monday night (July 20) at the Barclays Center.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f1e0b1a460f",
+          "title": "« Plus sombre, plus dangereuse » : la saison 3 des Anneaux de Pouvoir va bien montrer la création de l’Anneau unique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2298325-plus-sombre-plus-dangereuse-la-saison-3-des-anneaux-de-pouvoir-va-bien-montrer-la-creation-de-lanneau-unique.html",
+          "category": "ia",
+          "published_at": "2026-07-21T06:16:49+00:00",
+          "summary": "À quelques semaines de la diffusion de la troisième saison de la série Les Anneaux de Pouvoir, le co-showrunner Patrick McKay a révélé qu'elle adaptera un moment crucial pour la montée en puissance de Sauron.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53f00571d662",
+          "title": "[MàJ] Interdiction des réseaux sociaux aux -15 ans : passé en CMP, le texte sera voté mardi",
+          "source": "Next INpact",
+          "url": "https://next.ink/246583/interdiction-des-reseaux-sociaux-aux-15-ans-le-gouvernement-vise-toujours-la-rentree/",
+          "category": "ia",
+          "published_at": "2026-07-21T06:00:16+00:00",
+          "summary": "Le gouvernement prend acte des réserves émises par la Commission européenne, mais estime que l&#8217;avis circonstancié rendu par cette dernière porte sur deux points de détail qui n&#8217;invalident pas la proposition d&#8217;interdire l&#8217;accès aux réseaux sociaux aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "946b9e215f54",
+          "title": "Spider-Man: Brand New Day est inspiré des jeux vidéo PlayStation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2298319-spider-man-brand-new-day-est-inspire-des-jeux-video-playstation.html",
+          "category": "ia",
+          "published_at": "2026-07-21T05:40:53+00:00",
+          "summary": "Le réalisateur Destin Daniel Cretton a révélé que certaines cascades de Spider-Man: Brand New Day ont été inspirées par les jeux vidéo édités par PlayStation. Une preuve que les adaptations signées Insomniac Games sont très cinématographiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f84f342238b",
+          "title": "Liberté d’expression : nouvelle offensive US contre les règles européennes de modération",
+          "source": "Next INpact",
+          "url": "https://next.ink/248196/liberte-dexpression-nouvelle-offensive-us-contre-les-regles-europeennes-de-moderation/",
+          "category": "ia",
+          "published_at": "2026-07-21T05:18:30+00:00",
+          "summary": "Les États-Unis de Donald Trump ont une dent contre les régulations que l&#8217;Union européenne impose aux grandes entreprises du numérique. À l&#8217;occasion du lancement de la 81e session de l&#8217;Assemblée générale des Nations-Unies, Washington fait circuler un texte sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "554214d2adb1",
+          "title": "Shakira & Burna Boy’s ‘Dai Dai’ Keeps Its No. 1 Momentum Across Billboard Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boys-dai-dai-no-1-billboard-charts-1236299143/",
+          "category": "musique",
+          "published_at": "2026-07-21T04:32:46+00:00",
+          "summary": "The FIFA World Cup 2026 song lands atop the overall Latin Airplay chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9b50256792a",
+          "title": "Kacey Musgraves and Kane Brown Lead New Australian Country Festival LONGHAUL",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/kacey-musgraves-kane-brown-longhaul-festival-1236299018/",
+          "category": "ia",
+          "published_at": "2026-07-21T02:46:20+00:00",
+          "summary": "The inaugural festival will stop in three Australian cities across one weekend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c61e6537a98",
+          "title": "‘Heated Rivalry’ Is First TV Series Soundtrack in More Than a Decade to Achieve This Billboard 200 Feat",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/heated-rivalry-soundtrack-chart-debut-billboard-200-1236298844/",
+          "category": "musique",
+          "published_at": "2026-07-21T01:54:28+00:00",
+          "summary": "The hit show's soundtrack skates onto multiple charts, including Soundtracks, Top Album Sales, Vinyl Albums, Indie Store Album Sales &#38; the Billboard 200.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f5b1c769c61",
+          "title": "Official ‘KPop Demon Hunters’ Light Sticks Release Ahead of Global Tour — Here’s Where to Shop",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-official-tour-light-sticks-buy-online-1236298257/",
+          "category": "musique",
+          "published_at": "2026-07-21T00:35:02+00:00",
+          "summary": "Great for concerts and sing-along viewings of the film alike, the light sticks feature five LED colors and more than eight lighting sequences.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-20",
       "articles": [
+        {
+          "id": "9d36d8704365",
+          "title": "Watch Burna Boy Link Up With Justin Bieber, Shakira & More in Behind-the-Scenes World Cup Halftime Video Diary",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/burna-boy-2026-world-cup-halftime-video-diary-bieber-shakira-1236298724/",
+          "category": "musique",
+          "published_at": "2026-07-20T23:16:49+00:00",
+          "summary": "Billboard's exclusive Day in the Life video follows the Grammy-winning artist as he takes part in one of the biggest performances of his career.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62e143f893fb",
+          "title": "La fibre à 0,01 € par mois ? Les sites d’Orange et de Sosh sont victimes d’un gros bug",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2298289-la-fibre-a-001-e-par-mois-les-sites-dorange-et-de-sosh-sont-victimes-dun-gros-bug.html",
+          "category": "ia",
+          "published_at": "2026-07-20T22:06:20+00:00",
+          "summary": "Sosh et Orange semblent avoir lancé l’offre fibre la plus agressive du marché, avec un abonnement affiché à seulement 0,01 € par mois pendant un an. Une proposition évidemment trop belle pour être vraie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9ec99523684",
+          "title": "Sony Music sues Udio again, asserting over 30,000 recordings a judge barred the major from adding to its original case",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-files-new-lawsuit-against-ai-platform-udio-asserting-over-30000-sound-recordings-a-judge-barred-it-from-adding-to-its-original-case/",
+          "category": "musique",
+          "published_at": "2026-07-20T19:35:10+00:00",
+          "summary": "The complaint was filed on July 20 in New York\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf7b25c03df6",
+          "title": "« Vous détestez les femmes » : Uber explique pourquoi son option réservée aux femmes peut coûter deux fois plus cher",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2297669-vous-detestez-les-femmes-uber-explique-pourquoi-son-option-reservee-aux-femmes-peut-couter-deux-fois-plus-cher.html",
+          "category": "ia",
+          "published_at": "2026-07-20T17:40:00+00:00",
+          "summary": "Uber by Women permet aux passagères de voyager avec une conductrice. Mais dans certaines villes, cette option peut coûter plus de deux fois plus cher qu’une course classique, selon un message publié par une utilisatrice sur X le 16 juillet 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71d9d5386582",
+          "title": "Live Nation faces prospect of UK competition investigation as watchdog lines up industry meetings (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-faces-prospect-of-uk-competition-investigation-as-watchdog-lines-up-industry-meetings-report/",
+          "category": "musique",
+          "published_at": "2026-07-20T16:45:30+00:00",
+          "summary": "The Times reports that the CMA's outreach is understood to be a precursor to a formal probe\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9d23de25e11",
+          "title": "France Travail : un algorithme pour accélérer le profilage des chômeurs et les contrôles",
+          "source": "Next INpact",
+          "url": "https://next.ink/248042/france-travail-un-algorithme-pour-accelerer-le-profilage-des-chomeurs-et-les-controles/",
+          "category": "ia",
+          "published_at": "2026-07-20T15:50:00+00:00",
+          "summary": "France Travail travaille sur un algorithme de profilage des chômeurs à des fins de contrôle. C’est ce qu’affirme la Quadrature du Net, document interne à l’appui. Celui-ci semble être un support PowerPoint pour une présentation de 30 min. L’association déplore une massification…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c69b8d33e384",
+          "title": "Produits illégaux : Bruxelles inflige 550 millions d’euros d’amende à AliExpress",
+          "source": "Next INpact",
+          "url": "https://next.ink/248163/produits-illegaux-bruxelles-inflige-550-millions-deuros-damende-a-aliexpress/",
+          "category": "ia",
+          "published_at": "2026-07-20T15:29:26+00:00",
+          "summary": "AliExpress a l&#8217;insigne honneur d&#8217;écoper de l&#8217;amende la plus élevée jamais infligée par la Commission européenne dans le cadre du règlement sur les services numériques (DSA). La plateforme de commerce en ligne opérée par le groupe chinois Alibaba fait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5285fc2ae426",
+          "title": "They’re Not ‘Major Labels.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/theyre-not-major-labels/",
+          "category": "musique",
+          "published_at": "2026-07-20T13:48:04+00:00",
+          "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc9fcf8bf3fa",
+          "title": "Spotify Premium users can now ‘talk to’ the app to choose music and learn about what they’re playing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-premium-users-can-now-talk-to-the-app-to-choose-music-and-learn-about-what-theyre-playing/",
+          "category": "musique",
+          "published_at": "2026-07-20T13:11:34+00:00",
+          "summary": "By typing or speaking, eligible Premium users can talk to Spotify across the app's Home and Now Playing views on mobile.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef1fe45e1140",
+          "title": "After Vermont and Maine, Massachusetts moves to cap ticket resale at 110% of face value, with Noah Kahan’s backing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-vermont-and-maine-massachusetts-moves-to-cap-ticket-resale-at-110-of-face-value-with-noah-kahans-backing/",
+          "category": "ia",
+          "published_at": "2026-07-20T12:57:08+00:00",
+          "summary": "It would also ban speculative tickets in Massachusetts and bar resellers from using deceptive websites or misleading fans about ticket availability.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90fa801653b1",
+          "title": "Indonesia’s copyright rewrite would ban AI from imitating creators – and Google’s not a fan.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indonesias-copyright-rewrite-would-ban-ai-from-imitating-creators-and-googles-not-a-fan/",
+          "category": "ia",
+          "published_at": "2026-07-20T12:56:25+00:00",
+          "summary": "It would also make the use of copyrighted works to train AI models subject to fair-use limits or licensing agreements, Reuters reported.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a5dd3b7b208",
+          "title": "Carte mondiale des datacenters et ressources : des nouveautés et une version mobile !",
+          "source": "Next INpact",
+          "url": "https://next.ink/246034/carte-mondiale-des-datacenters-et-des-ressources-des-nouveautes-et-une-version-mobile/",
+          "category": "ia",
+          "published_at": "2026-07-20T12:53:26+00:00",
+          "summary": "Nous avons mis à jour notre carte mondiale des datacenters, notamment grâce à vos retours. Elle s&#8217;enrichit de nouvelles données et fonctionnalités. Autre nouveauté attendue : une version mobile (compatible PWA). Encore en bêta, nous corrigeons les derniers bugs les plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29a41abd451a",
+          "title": "The BTS ‘Arirang’ effect sees K-Pop album exports grow by 125%",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/20/the-bts-arirang-effect-sees-k-pop-album-exports-grow-by-125/",
+          "category": "musique",
+          "published_at": "2026-07-20T12:30:00+00:00",
+          "summary": "We heard last week that South Korea has now become the third biggest music-exporter in the world, overtaking Canada. Now we’ve got some new figures behind that.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84cb99537418",
+          "title": "Apple Music ups subscription prices due to ‘rising licensing costs’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/20/apple-music-ups-subscription-prices-due-to-rising-licensing-costs/",
+          "category": "musique",
+          "published_at": "2026-07-20T12:30:00+00:00",
+          "summary": "It shouldn’t be a surprise that Apple Music is raising the price of its subscriptions: the last time such a hike happened was four years ago in 2022.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "934265f13ae1",
+          "title": "X and music publishers end their legal battle over infringement",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/20/x-and-music-publishers-end-their-legal-battle-over-infringement/",
+          "category": "ia",
+          "published_at": "2026-07-20T12:30:00+00:00",
+          "summary": "Music publishers appear to have resolved their legal battle with X (formerly Twitter) but it remains unclear whether that resolution includes licensing deals or some kind of financial settlement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ca1618bdabd",
+          "title": "Lila launches UK initiative for South Asian musicians and industry pros",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/20/lila-launches-uk-initiative-for-south-asian-musicians-and-industry-pros/",
+          "category": "musique",
+          "published_at": "2026-07-20T12:30:00+00:00",
+          "summary": "UK-based non-profit Lila has launched its latest initiative, Lila Labs. It&#8217;s an extension of the organisation&#8217;s existing work supporting South Asian artists and industry professionals.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e0390f67898",
+          "title": "World Cup sent ‘Wonderwall’ to top of Spotify’s global chart",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/20/world-cup-sent-wonderwall-to-top-of-spotifys-global-chart/",
+          "category": "musique",
+          "published_at": "2026-07-20T12:30:00+00:00",
+          "summary": "If you’d told us a year ago that Oasis’s 1995 song ‘Wonderwall’ would be topping Spotify’s ‘Top 50 &#8211; Global’ chart this summer, we’d have assumed the band were playing more concerts – perhaps in Mexico, Brazil and other big-volume streaming markets.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e1c148f46f5c",
+          "title": "TikTok tests AI-likeness detection as Patreon blocks AI crawlers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/20/tiktok-tests-ai-likness-detection-as-patreon-blocks-ai-crawlers/",
+          "category": "ia",
+          "published_at": "2026-07-20T12:30:00+00:00",
+          "summary": "The torrent of AI-generated content is giving digital services some challenges to solve, especially as rightsholders and public figures get hotter on infringement of likeness rights.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04e0e0f04806",
+          "title": "Le CEPD demande une base légale pour le partage d’informations entre régulateurs",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/cepd-base-juridique-interregulation",
+          "category": "ia",
+          "published_at": "2026-07-20T12:00:00+00:00",
+          "summary": "Lors d’une réunion à haut niveau qui s’est tenue à Dublin les 16 et 17 juillet 2026, le Comité européen de la protection des données (CEPD) a plaidé en faveur d’une base légale claire pour le partage d’informations entre les régulateurs ayant des compétences différentes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a9a07c76744",
+          "title": "IA agentique et données personnelles : la CNIL et le Conseil de l’IA et du Numérique publient une note exploratoire",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
+          "category": "ia",
+          "published_at": "2026-07-20T12:00:00+00:00",
+          "summary": "Les innovations à l’ère de l’IA générative se poursuivent avec la démocratisation de l’IA agentique, désormais capable d’agir sur son environnement à la place de son utilisateur. La délégation des tâches qui lui sont confiées, facilitée par des interactions hyperpersonnalisées,…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "7ab68c799950",
           "title": "Pourra-t-on voir le débris de fusée SpaceX s’écraser sur la Lune ?",
