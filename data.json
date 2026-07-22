@@ -1,9 +1,504 @@
 {
-  "generated_at": "2026-07-21T10:33:37.003518+00:00",
+  "generated_at": "2026-07-22T10:34:04.499433+00:00",
   "days": [
+    {
+      "date": "2026-07-22",
+      "articles": [
+        {
+          "id": "9ef094e55db6",
+          "title": "Revoir le webinaire - Fournisseurs et prestataires de l’écosystème « pixels » : comment implémenter la recommandation CNIL ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/webinaire-pixels-de-suivi-fournisseurs-prestataires",
+          "category": "ia",
+          "published_at": "2026-07-22T12:00:00+00:00",
+          "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré aux pixels de suivi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28eead7b367f",
+          "title": "Questions-réponses - recommandation relative aux pixels dans les courriers électroniques de la CNIL",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/faq-recommandation-pixels-courriers-electroniques",
+          "category": "ia",
+          "published_at": "2026-07-22T12:00:00+00:00",
+          "summary": "La CNIL répond aux principales interrogations des professionnels sur la mise en œuvre de sa recommandation sur les pixels.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba6bb8a7bc25",
+          "title": "Dépassé par Anthropic et OpenAI, Google lance des modèles Gemini 3.6 et promet que Gemini 4 arrive",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2299305-depasse-par-anthropic-et-openai-google-lance-des-modeles-gemini-3-6-et-promet-que-gemini-4-arrive.html",
+          "category": "ia",
+          "published_at": "2026-07-22T10:30:00+00:00",
+          "summary": "Google a lancé trois nouveaux modèles Gemini, dont Gemini 3.6 Flash, et confirme que Gemini 4 est déjà en préparation. L'entreprise tente ainsi de rester dans la course face à Anthropic et OpenAI, qui mènent la danse en matière d'intelligence artificielle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "332de88f53b2",
+          "title": "☕️ Windows 11 modernise enfin la fenêtre des propriétés d’un fichier",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/windows-11-modernise-enfin-la-fenetre-des-proprietes-dun-fichier/",
+          "category": "ia",
+          "published_at": "2026-07-22T10:21:00+00:00",
+          "summary": "Entre autres problèmes, Windows 11 a beau représenter le système le plus moderne de Microsoft, il traine de vieux boulets esthétiques. Le problème est le même qu’avec Windows 10, même si le travail a continué depuis&#160;: des éléments d’interface datent de Windows 2000, voire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bb3c2fc57b4",
+          "title": "Faut-il voir la série Loki avant Avengers: Doomsday ? Le conseil de Tom Hiddelston",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299467-faut-il-voir-la-serie-loki-avant-avengers-doomsday-le-conseil-de-tom-hiddelston.html",
+          "category": "ia",
+          "published_at": "2026-07-22T10:15:00+00:00",
+          "summary": "Il faudra a priori avoir vu quelques films et quelques séries pour bien comprendre tous les enjeux d'Avengers: Doomsday. Et, à ce sujet, l'acteur Tom Hiddleston, interprète de Loki, a une recommandation pour les spectatrices et les spectateurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "837b4403d07c",
+          "title": "AI Overviews : Google lance ses Aperçus IA dans la recherche en France",
+          "source": "Next INpact",
+          "url": "https://next.ink/248353/ai-overviews-google-lance-ses-apercus-ia-dans-la-recherche-en-france/",
+          "category": "ia",
+          "published_at": "2026-07-22T09:49:36+00:00",
+          "summary": "Google a commencé mercredi le déploiement de la fonction «&#160;Aperçus IA&#160;», qui propose de répondre directement aux questions de l&#8217;internaute depuis la page de résultats du moteur de recherche, sans nécessairement le renvoyer vers un site source. S&#8217;y ajoute un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e0d400d7f47",
+          "title": "Numerama va disparaître",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2299303-numerama-va-disparaitre.html",
+          "category": "ia",
+          "published_at": "2026-07-22T09:45:03+00:00",
+          "summary": "Des résultats de Google, c'est une quasi-certitude. Du web tout entier ? Hors de question. Après 20 ans à anticiper l'avenir, cela serait cocasse de se faire éliminer de la partie à cause d'un défaut d'anticipation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e6c498a7d76",
+          "title": "Travis Scott Was ‘Actually Nervous’ When He Shot His Scenes For ‘The Odyssey’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/travis-scott-actually-nervous-shooting-the-odyssey-1236300520/",
+          "category": "musique",
+          "published_at": "2026-07-22T09:37:19+00:00",
+          "summary": "Scott was out of his comfort zone, as every star in Chris Nolan's star-heavy project watched on as he delivered his lines.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "221fe1cd03f4",
+          "title": "L’attaque contre Hugging Face est venue… d’OpenAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/248352/lattaque-contre-hugging-face-est-venue-dopenai/",
+          "category": "institutionnel",
+          "published_at": "2026-07-22T09:15:50+00:00",
+          "summary": "Hugging Face a communiqué récemment sur une attaque menée par un agent autonome contre ses infrastructures, occasionnant une compromission partielle. Patatras&#160;! OpenAI vient de révéler qu&#8217;il s&#8217;agissait de l&#8217;un de ses modèles et qu’il s’était « échappé » de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a10b13ed927e",
+          "title": "Les Anneaux de pouvoir va enfin avoir le vrai Gandalf tant aimé des fans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299301-les-anneaux-de-pouvoir-va-enfin-avoir-le-vrai-gandalf-tant-aime-des-fans.html",
+          "category": "ia",
+          "published_at": "2026-07-22T09:06:01+00:00",
+          "summary": "À quelques semaines de la diffusion de la troisième saison de la série intitulée Les Anneaux de Pouvoir, la pression continue de grimper. Elle promet une vraie montée en tension et en enjeux, entre le gain de puissance de Sauron et l'arrivée de Gandalf tel qu'on l'aime tant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97b98e9490c8",
+          "title": "Voici l’intérieur du nouveau Range Rover GT électrique avec une planche de bord sans aucun bouton",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2299285-voici-linterieur-du-nouveau-range-rover-gt-electrique-avec-une-planche-de-bord-sans-aucun-bouton.html",
+          "category": "ia",
+          "published_at": "2026-07-22T08:50:00+00:00",
+          "summary": "Un troisième Range Rover 100 % électrique fait son apparition : le GT. Un mélange entre le SUV et le break, dont l'intérieur très épuré ne manquera pas de faire parler. Voici les premières informations sur le modèle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef766811a86d",
+          "title": "Cruz Beckham’s Famous Parents Give Him Solid Career Advice",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/cruz-beckham-parents-solid-career-advice-1236300503/",
+          "category": "musique",
+          "published_at": "2026-07-22T08:28:48+00:00",
+          "summary": "In a new interview, Cruz Beckham shared some insights into his new music, and revealed who gives the advice out of his mom and dad, Victoria and David Beckham.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7014961ebce",
+          "title": "US musicians union urges court to reject Universal and Warner bid to dismiss lawsuit over Suno and Udio deals",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-musicians-union-urges-court-to-reject-universal-and-warner-bid-to-dismiss-lawsuit-over-suno-and-udio-deals/",
+          "category": "musique",
+          "published_at": "2026-07-22T08:22:36+00:00",
+          "summary": "The AFM says the deals triggered a \"new use\" provision requiring UMG and Warner to compensate members whose music was licensed to AI companies.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "561871777984",
+          "title": "Rocambolesque : OpenAI dévoile comment ses propres agents IA ont piraté Hugging Face pour réussir un test interne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2299275-rocambolesque-openai-devoile-comment-ses-propres-agents-ia-ont-pirate-hugging-face-pour-reussir-un-test-interne.html",
+          "category": "ia",
+          "published_at": "2026-07-22T08:12:33+00:00",
+          "summary": "OpenAI a révélé que l'intrusion ayant touché Hugging Face mi-juillet 2026 provenait de ses propres modèles, échappés d'une évaluation interne de capacités cyber.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b3eee7d0722",
+          "title": "Le remake du meilleur jeu Star Wars pourrait enfin être dévoilé prochainement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299243-le-remake-du-meilleur-jeu-star-wars-pourrait-enfin-etre-devoile-prochainement.html",
+          "category": "ia",
+          "published_at": "2026-07-22T07:33:02+00:00",
+          "summary": "Cinq ans que le remake de Star Wars: Knights of the Old Republic a été annoncé. Cinq longues années sans aucune nouvelle, à se demander si le projet est encore d'actualité ou non. Selon des sources proches du projet, il semblerait que le jeu doive être enfin dévoilé plus tard…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c258790ba019",
+          "title": "☕️ Buzz, l’espace de travail partagé entre humains et agents IA selon Jack Dorsey",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/buzz-lespace-de-travail-partage-entre-humains-et-agents-ia-selon-jack-dorsey/",
+          "category": "ia",
+          "published_at": "2026-07-22T07:31:15+00:00",
+          "summary": "Jack Dorsey a annoncé mardi le dernier projet en date porté par son entreprise Block : un espace de travail baptisé Buzz, dans lequel des développeurs humains et des agents IA sont censés pouvoir collaborer de façon efficace et sécurisée. En pratique ? L&#8217;interface…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a038733c2770",
+          "title": "Galaxy Z Fold 8 : les annonces en direct de la conférence Samsung",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2299225-galaxy-z-fold-8-les-annonces-en-direct-de-la-conference-samsung.html",
+          "category": "ia",
+          "published_at": "2026-07-22T07:14:48+00:00",
+          "summary": "Samsung tient sa conférence Galaxy Unpacked le mercredi 22 juillet 2026 à Londres, à partir de 15h (heure de Paris). La marque devrait y annoncer sa nouvelle génération de smartphones pliants, dont un Z Fold 8 au format passeport. Voici comment suivre l'événement en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e6b98bee80d",
+          "title": "Sihoo Doro C300 Pro V2 : la chaise ergonomique à soutien adaptatif qui bouscule le rapport qualité-prix [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2296827-sihoo-doro-c300-pro-v2-la-chaise-ergonomique-a-soutien-adaptatif-qui-bouscule-le-rapport-qualite-prix.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-22T07:05:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Sihoo\n\nEntre les chaises ergonomiques onéreuses, les modèles gaming ni esthétiques ni confortables et l’entrée de gamme risquée côté santé, Sihoo propose une alternative intéressante à plus d’un titre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df38447110ee",
+          "title": "Assassin’s Creed Black Flag Resynced livre peut-être un indice sur le lieu du futur épisode",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299255-assassins-creed-black-flag-resynced-livre-peut-etre-un-indice-sur-le-lieu-du-futur-episode.html",
+          "category": "ia",
+          "published_at": "2026-07-22T07:03:52+00:00",
+          "summary": "Dans le remake de Black Flag, des fans de la saga Assassin's Creed ont repéré un indice qui pourrait être lié au projet Hexe, futur opus inédit de la saga d'Ubisoft. Un retour en Europe semble possible, plusieurs années après Valhalla.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04de2e35d1f8",
+          "title": "« Une question de temps et de jetons » : comment la faille wp2shell a mis tous les sites WordPress sous tension",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2298697-une-question-de-temps-et-de-jetons-comment-la-faille-wp2shell-a-mis-tous-les-sites-wordpress-sous-tension.html",
+          "category": "ia",
+          "published_at": "2026-07-22T07:02:11+00:00",
+          "summary": "Le 17 juillet, WordPress corrigeait en urgence deux failles au sein même de sa base logicielle. Depuis, de nombreux chercheurs en sécurité alertent sur une exploitation massive avec, parfois, un solide coup de main de l'IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5c892e11749",
+          "title": "Droits de douane Trump : Nintendo ne veut rien rembourser aux joueurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/248324/droits-de-douane-trump-nintendo-ne-veut-rien-rembourser-aux-joueurs/",
+          "category": "ia",
+          "published_at": "2026-07-22T06:30:42+00:00",
+          "summary": "Les clients américains de Nintendo peuvent aller se brosser. Ils ne recevront pas un kopeck du remboursement des droits de douane que le constructeur japonais veut récupérer, après la défaite retentissante de Donald Trump devant la Cour suprême américaine. De l&#8217;argent que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a54ed37b740",
+          "title": "La France interdit les réseaux sociaux aux moins de 15 ans… mais comment vérifier l’âge sans compromettre l’identité ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2299237-la-france-interdit-les-reseaux-sociaux-aux-moins-de-15-ans-mais-comment-verifier-lage-sans-compromettre-lidentite.html",
+          "category": "ia",
+          "published_at": "2026-07-22T06:18:42+00:00",
+          "summary": "C'est désormais acté : quelques mois après un vote favorable à l'Assemblée nationale, le Parlement a approuvé une loi pour interdire les réseaux sociaux aux mineurs de moins de 15 ans en France. Une première en Europe… et il y a déjà des inquiétudes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe98dbd5b8fb",
+          "title": "☕️ Après plus d’un an d’attente, Apple bouche une faille de « Hide my Email »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apres-plus-dun-an-dattente-apple-bouche-une-faille-de-hide-my-email/",
+          "category": "ia",
+          "published_at": "2026-07-22T06:07:22+00:00",
+          "summary": "Les alertes envoyées par les chercheurs en sécurité devraient suffire pour que les entreprises fassent le nécessaire et bouchent les failles rapidement. Mais parfois, il faut aussi secouer le cocotier pour qu&#8217;elles s&#8217;exécutent. C&#8217;est le cas d&#8217;Apple, qui a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e11b1cde4f71",
+          "title": "Kylie Minogue Teams Up With Snow Patrol For ‘These Alarms’ Concert Video: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/kylie-minogue-snow-patrol-these-alarms-music-video-watch-1236300486/",
+          "category": "musique",
+          "published_at": "2026-07-22T05:10:15+00:00",
+          "summary": "Kylie joined forces with Snow Patrol on stage at Crystal Palace Park, for the debut performance of “These Alarms.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76645389404c",
+          "title": "Intocable Makes History With Six RIAA Latin Diamond Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/intocable-history-six-riaa-latin-diamond-awards-1236300473/",
+          "category": "ia",
+          "published_at": "2026-07-22T04:21:21+00:00",
+          "summary": "The Texas-based outfit has now collected more RIAA Latin Diamond certifications than any other band.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f2ef934ba2c",
+          "title": "Maluma’s ‘Loco X Volver’ Spins Off a Second Tropical Airplay No. 1",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/maluma-tu-recuerdo-tropical-airplay-number-1-1236300422/",
+          "category": "ia",
+          "published_at": "2026-07-22T01:47:49+00:00",
+          "summary": "“Tu Recuerdo” gives the singer a fifth champ on the tropical radio ranking.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eda4396fefa0",
+          "title": "Kierra Sheard Receives BMI Impact Award at 2026 BMI Trailblazers of Gospel Music Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/kierra-sheard-2026-bmi-trailblazers-gospel-music-awards/",
+          "category": "musique",
+          "published_at": "2026-07-22T01:07:08+00:00",
+          "summary": "“Lead Me On” was named BMI’s gospel song of the year, while Capitol CMG Publishing received publisher of the year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "953547b52f51",
+          "title": "NewJeans Celebrate Fourth Anniversary With New Special Film Series Following Reunion as a Quartet",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/newjeans-anniversary-film-series-quartet-1236300368/",
+          "category": "ia",
+          "published_at": "2026-07-22T00:58:46+00:00",
+          "summary": "The K-pop girl group marks four years since its debut with a new anniversary film starring Minji, Hanni, Haerin &#38; Hyein.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96d696178e65",
+          "title": "Sam Reid on ‘The Vampire Lestat’ Finale & His Fictional Rock Star Being Bested on the Billboard Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sam-reid-vampire-lestat-interview-charts-1236298733/",
+          "category": "musique",
+          "published_at": "2026-07-22T00:47:09+00:00",
+          "summary": "The lead actor talks about his immortal diva's biggest breakdown yet.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "articles": [
+        {
+          "id": "252850d11e4a",
+          "title": "TikTok is testing an opt-in ‘Likeness Detection’ tool that lets US creators find and report AI deepfakes of themselves",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktok-is-testing-an-opt-in-likeness-detection-tool-that-lets-us-creators-find-and-report-ai-deepfakes-of-themselves/",
+          "category": "ia",
+          "published_at": "2026-07-21T19:21:21+00:00",
+          "summary": "It was first spotted by social media consultant Matt Navarra, who wrote in a post on X that TikTok was testing the feature with \"some US creators.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7466afe41c39",
+          "title": "Universal Music Group has spent over $500M on its share buyback – with stage one of the process nearly complete",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-has-spent-over-500m-on-its-share-buyback-with-stage-one-of-the-process-nearly-complete/",
+          "category": "musique",
+          "published_at": "2026-07-21T19:19:42+00:00",
+          "summary": "In total, UMG has repurchased 26,073,074 of its own shares since the program began in April, at a cost of EUR €487.7 million\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2114afb3df1",
+          "title": "Le Parlement vote l’interdiction des réseaux sociaux aux moins de 15 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/248270/le-parlement-vote-linterdiction-des-reseaux-sociaux-aux-moins-de-15-ans/",
+          "category": "ia",
+          "published_at": "2026-07-21T18:18:21+00:00",
+          "summary": "L&#8217;Assemblée nationale a entériné mardi la proposition de loi interdisant les réseaux sociaux aux moins de 15 ans, ouvrant la voie à une entrée en vigueur d&#8217;ici la rentrée de septembre. À cette date, les mineurs de moins de 15 ans ne devront plus pouvoir créer de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b1b42a0fa5c",
+          "title": "Spotify pushes deeper into music videos with new chart and artist pitching, stepping up its challenge to YouTube",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-pushes-deeper-into-music-videos-with-new-chart-and-artist-pitching-stepping-up-its-challenge-to-youtube/",
+          "category": "musique",
+          "published_at": "2026-07-21T17:34:55+00:00",
+          "summary": "Spotify now counts nearly 100,000 artists in a beta that lets them upload full-length videos themselves.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16cf33ccf568",
+          "title": "Canada’s SOCAN names Musical AI as its attribution partner to credit and pay creators whose work shapes AI music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/canadas-socan-names-musical-ai-as-its-attribution-partner-to-credit-and-pay-creators-whose-work-shapes-ai-music/",
+          "category": "musique",
+          "published_at": "2026-07-21T17:19:36+00:00",
+          "summary": "SOCAN will recognize Musical AI as an approved tech partner for attribution services, and the two will explore how the technology can be applied in Canada.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1417e6acccc6",
+          "title": "Nick Holmstén and Ash Pournouri officially launch superfan startup Belong – backed by Troy Carter, Chris Zarou and Hans Vestberg",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/nick-holmsten-and-ash-pournouri-officially-launch-superfan-startup-belong-backed-by-troy-carter-chris-zarou-and-hans-vestberg/",
+          "category": "musique",
+          "published_at": "2026-07-21T16:24:44+00:00",
+          "summary": "Former Spotify Global Head of Music Nick Holmstén and Avicii's former manager Ash Pournouri launched new company\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "619354dbcf40",
+          "title": "Microsoft engage plusieurs milliards de dollars aux côtés de Mistral en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/248290/microsoft-engage-plusieurs-milliards-de-dollars-aux-cotes-de-mistral-en-europe/",
+          "category": "ia",
+          "published_at": "2026-07-21T15:58:00+00:00",
+          "summary": "Microsoft va donner un coup de main à Mistral pour construire des centres de données en Europe, au travers d&#8217;un accord à plusieurs milliards de dollars. Les derniers modèles du labo IA français vont également être distribués dans les plateformes Azure, Foundry et Copilot…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6d0147fff71",
+          "title": "Firefox 153 intègre nativement des conteneurs pour isoler les sites",
+          "source": "Next INpact",
+          "url": "https://next.ink/248292/firefox-153-integre-nativement-des-conteneurs-pour-isoler-les-sites/",
+          "category": "ia",
+          "published_at": "2026-07-21T15:32:30+00:00",
+          "summary": "Firefox fournit un joli lâcher de nouveautés, dont la principale est clairement l’arrivée des conteneurs. Ceux-ci existent depuis des années sous forme d’extensions, mais on parle cette fois d’une intégration native pour l’ensemble des sites. Firefox 153 est l’avant-dernière…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f0853503964",
+          "title": "WMG’s Sureel teams up with Symphonic to let distro company’s artists track AI use of their music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/wmgs-sureel-teams-up-with-symphonic-to-let-distro-companys-artists-track-ai-use-of-their-music/",
+          "category": "musique",
+          "published_at": "2026-07-21T14:57:48+00:00",
+          "summary": "Warner Music Group acquired Sureel in June\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0713e71e713a",
+          "title": "Comment un simple branchement d’écran illustre un vieux problème de Windows",
+          "source": "Next INpact",
+          "url": "https://next.ink/248273/comment-un-simple-branchement-decran-illustre-un-vieux-probleme-de-windows/",
+          "category": "institutionnel",
+          "published_at": "2026-07-21T14:40:58+00:00",
+          "summary": "Des propriétaires de moniteurs LG ont constaté qu&#8217;après un simple branchement de l&#8217;écran, Windows installe silencieusement une application nommée LG Monitor App Installer. Sa seule mission semble être de proposer un essai de l’antivirus McAfee. Le processus détourne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d5ee9ecaa05",
+          "title": "La justice accepte qu’Anthropic paie 1,5 milliard pour solder l’affaire des livres piratés",
+          "source": "Next INpact",
+          "url": "https://next.ink/248264/laccord-a-15-milliard-de-dollars-entre-anthropic-et-des-auteurs-est-valide/",
+          "category": "ia",
+          "published_at": "2026-07-21T13:34:37+00:00",
+          "summary": "C&#8217;est tout simplement le dédommagement le plus élevé jamais obtenu dans une affaire de droits d&#8217;auteur, s&#8217;est réjoui l&#8217;avocat de plusieurs auteurs, après l&#8217;approbation définitive d&#8217;un accord avec Anthropic. La somme fait effectivement tourner…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd609734b73c",
+          "title": "Quand les mots s’en mêlent : aidez Donald Trump à trouver le message caché de Mythos !",
+          "source": "Next INpact",
+          "url": "https://next.ink/244997/flockeries-quand-les-mots-sen-melent-aidez-trump-a-trouver-le-message-cache-de-mythos/",
+          "category": "ia",
+          "published_at": "2026-07-21T12:49:46+00:00",
+          "summary": "Cet été, Next vous propose des mini-jeux. Le premier est un mot mêlé où vous devez aider Donald Trump à trouver un message que Mythos essaie de lui faire passer en douce… Problème, il n’y arrive pas. Et, si le message était de la plus haute importance ? Il y a 45 mots à trouver…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6baafb5844ad",
+          "title": "Sony Music files new Udio lawsuit citing over 30k recordings",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/21/sony-music-files-new-udio-lawsuit-citing-over-30k-recordings/",
+          "category": "musique",
+          "published_at": "2026-07-21T12:30:00+00:00",
+          "summary": "The judge in Sony Music’s legal battle with Udio recently barred the major from adding more than 30k sound recordings to its lawsuit. Now it’s taking a different path: filing a second copyright infringement lawsuit with those extra tracks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30418c80f13e",
+          "title": "Hybrid genres are ‘redrawing the music map from the inside out’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/21/hybrid-genres-are-redrawing-the-music-map-from-the-inside-out/",
+          "category": "musique",
+          "published_at": "2026-07-21T12:30:00+00:00",
+          "summary": "Music-analytics firm Chartmetric and Splice have collaborated on a report focusing on ‘hybrid genres’ – combinations of existing genres that are growing their share of both Splice downloads and ‘genre assignments’ for artists on Chartmetric.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbea70885702",
+          "title": "Apple Music to get more social with new ‘Friends’ playlist",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/21/apple-music-to-get-more-social-with-new-friends-playlist/",
+          "category": "musique",
+          "published_at": "2026-07-21T12:30:00+00:00",
+          "summary": "Apple’s new iOS 27 software is on the way this autumn, including some improvements for Apple Music. 9 to 5 Mac has been running through some of the new additions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e58e38ecc5b",
+          "title": "11.3m people are interested in BBNO$’s upcoming Roblox concert",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/21/11-3m-people-are-interested-in-bbnos-upcoming-roblox-concert/",
+          "category": "musique",
+          "published_at": "2026-07-21T12:30:00+00:00",
+          "summary": "Canadian artist BBNO$ is the latest musician heading to Roblox for a virtual concert – and it seems plenty of players are interested in attending the event.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "965b138eedb6",
+          "title": "Take That’s UK and Ireland tour doubled their streams locally",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/21/take-thats-uk-and-ireland-tour-doubled-their-streams-locally/",
+          "category": "musique",
+          "published_at": "2026-07-21T12:30:00+00:00",
+          "summary": "British man-band Take That have wrapped their five-week stadium tour of the UK and Ireland, with management firm Corduroy Artists and promoter SJM Concerts revealing some figures from the jaunt.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fd09d26c1ae",
+          "title": "Ordre du jour de la séance plénière du 21 juillet 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-21-juillet-2026",
+          "category": "institutionnel",
+          "published_at": "2026-07-21T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le mardi 21 juillet 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57b4e4fdbbd9",
+          "title": "Country Profile – Germany 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/21/country-profile-germany-2026/",
+          "category": "musique",
+          "published_at": "2026-07-21T12:00:00+00:00",
+          "summary": "Germany’s recorded music business is stable, rather than stellar, although exports could be stronger. The German music business has long trod its own path. The country was famously slow to take up on music streaming and the humble CD has never really gone out of fashion. But it…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14e1b3bee896",
+          "title": "☕️ Le Rassemblement national confirme une intrusion sur son site",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-rassemblement-national-confirme-une-intrusion-sur-son-site/",
+          "category": "ia",
+          "published_at": "2026-07-21T11:46:04+00:00",
+          "summary": "Mardi matin, le site du Rassemblement national (RN) affichait les stigmates d&#8217;une intrusion : en page d&#8217;accueil, le visuel d&#8217;un communiqué daté du 15 juillet avait été remplacé par un logo revendiquant l&#8217;attaque : un chat stylisé, décoré de drapeaux du…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c7b50a800204",
           "title": "Paul McCartney Shocks Fans With Surprise Cameo on Beatles’ Magical Mystery Tour in Liverpool",
