@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-07-22T10:34:04.499433+00:00",
+  "generated_at": "2026-07-23T10:34:32.589253+00:00",
   "days": [
+    {
+      "date": "2026-07-23",
+      "articles": [
+        {
+          "id": "d8311c7f9722",
+          "title": "Tout ce que la fusée géante Starship tentera minute par minute pour son 13ᵉ vol d’essai",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2300091-voila-ce-que-la-fusee-geante-starship-tentera-minute-par-minute-pour-son-13%e1%b5%89-vol-dessai.html",
+          "category": "ia",
+          "published_at": "2026-07-23T10:32:00+00:00",
+          "summary": "SpaceX va globalement reproduire le 12ᵉ vol du Starship avec son essai prévu dans la nuit du 23 au 24 juillet, avec l'espoir de corriger tout ce qui n'a pas bien marché.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b5679678e5d",
+          "title": "L’IA générative empêche d’admettre que nous ne savons pas",
+          "source": "Next INpact",
+          "url": "https://next.ink/248187/lia-generative-empeche-dadmettre-que-nous-ne-savons-pas/",
+          "category": "ia",
+          "published_at": "2026-07-23T10:17:51+00:00",
+          "summary": "Alors que le gouvernement a annoncé que les élèves de seconde bénéficieraient à la rentrée d&#8217;une heure de cours d&#8217;intelligence artificielle par semaine, des chercheurs ont testé la capacité des êtres humains à déléguer leur esprit critique à une IA. Paradoxalement,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f3e04141024",
+          "title": "Word play: Lyrcs.ai aims to provide a fix for Indian regional-language music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/word-play-lyrcs-ai-aims-to-provide-a-fix-for-indian-regional-language-music/",
+          "category": "ia",
+          "published_at": "2026-07-23T10:10:45+00:00",
+          "summary": "Lyrcs.ai, an Indian AI-powered “lyrics infrastructure platform” that converts audio into synced, multi-script lyrics and lyric videos, has launched. The Mumbai-based platform has been built to meet “the demands of [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a2ebeac49fa",
+          "title": "« Éviter les triangles des Bermudes du réseau » : pourquoi Tesla mise sur Starlink pour son Cybercab",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2300081-eviter-les-triangles-des-bermudes-du-reseau-pourquoi-tesla-mise-sur-starlink-pour-son-cybercab.html",
+          "category": "ia",
+          "published_at": "2026-07-23T10:03:00+00:00",
+          "summary": "Lors de la dernière conférence de résultats de Tesla, Elon Musk a apporté des éclairages supplémentaires sur l'intégration de Starlink au Cybercab. Cette connectivité pourrait d’ailleurs équiper progressivement le reste de la gamme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "349394b319ce",
+          "title": "Les meilleurs jeux narratifs de SF de la décennie arrivent sur PS5 en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2300121-les-meilleurs-jeux-narratifs-de-sf-de-la-decennie-arrivent-sur-ps5-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-07-23T09:58:27+00:00",
+          "summary": "[Précommande] Vous aimez les jeux narratifs et la science-fiction et vous n'avez toujours pas fait Citizen Sleeper ? Mais allez donc précommander les deux épisodes sur PS5 nom d'une puce neuronale !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7c8deba56ac",
+          "title": "The Black Eyed Peas’ ‘My Humps’ Bounces to 1 Billion Views on YouTube",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/the-black-eyed-peas-my-humps-1-billion-views-youtube-1236301265/",
+          "category": "musique",
+          "published_at": "2026-07-23T09:53:39+00:00",
+          "summary": "It's their third music video to reach the milestone after “Where Is the Love?” and “RITMO.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43aa587fb845",
+          "title": "La France dit non au FSD de Tesla mais veut des véhicules autonomes homologués dès 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/248526/la-france-dit-non-au-fsd-de-tesla-mais-veut-des-vehicules-autonomes-homologues-des-2027/",
+          "category": "ia",
+          "published_at": "2026-07-23T09:34:00+00:00",
+          "summary": "Alors que plusieurs pays européens viennent de donner leur feu vert, le ministre des Transports Philippe Tabarot explique que la France n&#8217;est pas encore disposée à autoriser la conduite assistée de Tesla, dite FSD pour Full Self Driving. Il affirme vouloir se ranger…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ac968c63d72",
+          "title": "RefluXFS : la faille Linux qui contourne toutes vos protections dort depuis 2017, et Claude Mythos l’a trouvée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2299983-refluxfs-la-faille-linux-qui-contourne-toutes-vos-protections-dort-depuis-2017-et-claude-mythos-la-trouvee.html",
+          "category": "ia",
+          "published_at": "2026-07-23T09:17:16+00:00",
+          "summary": "Une nouvelle vulnérabilité critique touche le noyau Linux, cette fois via le système de fichiers XFS. Elle permet à n'importe quel utilisateur local, sans le moindre privilège, de prendre le contrôle total de la machine, sans laisser de trace.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "509e4a87ddfd",
+          "title": "Suite à la faille KVM, OVHcloud fait le bilan de sa migration monstre",
+          "source": "Next INpact",
+          "url": "https://next.ink/248542/suite-a-la-faille-kvm-ovhcloud-fait-le-bilan-de-sa-migration-monstre/",
+          "category": "ia",
+          "published_at": "2026-07-23T09:14:13+00:00",
+          "summary": "Dans un billet de blog, l’entreprise explique comment l’apparition d’une faille critique dans le moteur de virtualisation KVM a entrainé une vaste campagne de mises à jour dans ses infrastructures. Elle a choisi une approche radicale, avec un impact assumé sur les clients,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "435d291fb52c",
+          "title": "Fini de poireauter en attendant l’export sur Premiere Pro : ce PC surpuissant de Materiel.net a résolu le problème [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2298561-fini-de-poireauter-en-attendant-lexport-sur-premiere-pro-ce-pc-surpuissant-de-materiel-net-a-resolu-le-probleme.html",
+          "category": "ia",
+          "published_at": "2026-07-23T09:05:02+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Materiel.net\n\nLa collaboration étroite entre Nvidia et Adobe permet de réduire les temps de calcul et d'export pour se concentrer sur l'essentiel : la créativité. Un PC dédié spécifiquement à ce genre de tâche a été créé pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13a8b6682e01",
+          "title": "La situation financière de Tesla étonne : des records partout, mais un profit qui s’évapore",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2299975-la-situation-financiere-de-tesla-etonne-des-records-partout-mais-un-profit-qui-sevapore.html",
+          "category": "ia",
+          "published_at": "2026-07-23T09:05:00+00:00",
+          "summary": "Tesla a tenu sa conférence des résultats du deuxième trimestre 2026. Alors que son chiffre d'affaires atteint des records, la marque automobile a l'argent qui lui brûle les doigts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "338b541dadc7",
+          "title": "Shreya Ghoshal to play London venue The O2’s 20th birthday concert series in 2027",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/shreya-ghoshal-to-play-london-venue-the-o2s-20th-birthday-concert-series-in-2027/",
+          "category": "musique",
+          "published_at": "2026-07-23T09:04:49+00:00",
+          "summary": "AEG-owned London arena The O2 has announced that Hindi film playback and pop singer Shreya Ghoshal will perform a concert at the venue as part of its twentieth birthday series [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55681cfaf67a",
+          "title": "Galaxy Glasses : j’ai a vu les lunettes de Samsung en vrai et Meta a enfin un vrai concurrent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2299783-galaxy-glasses-jai-a-vu-les-lunettes-de-samsung-en-vrai-et-meta-a-enfin-un-vrai-concurrent.html",
+          "category": "ia",
+          "published_at": "2026-07-23T08:52:34+00:00",
+          "summary": "Annoncées à la Google I/O, les lunettes Galaxy Glasses de Samsung ont de nouveau été présentées lors de la conférence Unpacked de juillet 2026 dédiée aux smartphones pliants (Z Fold 8). Samsung promet une commercialisation cet automne avec un gros pari sur l'autonomie et le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a9fcdd1f1a7",
+          "title": "☕️ #Flock : Open AI is building better worlds",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flock-open-ai-is-building-better-worlds/",
+          "category": "ia",
+          "published_at": "2026-07-23T08:39:28+00:00",
+          "summary": "Finalement un oeuf, n’est-ce pas un peu une forme de grosse boulette ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f098a7095c9e",
+          "title": "Vous n’aimez pas Nolan et vous vouliez que L’Odyssée bide ? Il va falloir se faire une raison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299981-vous-naimez-pas-nolan-et-vous-vouliez-que-lodyssee-bide-il-va-falloir-se-faire-une-raison.html",
+          "category": "ia",
+          "published_at": "2026-07-23T08:35:00+00:00",
+          "summary": "Depuis des mois, les détracteurs de L'Odyssée affûtaient leurs arguments. Casting trop inclusif pour la Grèce antique, filtres grisâtres jugés trop ternes, libertés prises avec le texte d'Homère... Certains prédisaient déjà un crash industriel au réalisateur d'Oppenheimer. Pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33245a959237",
+          "title": "UK grassroots venues and clubs to get a business-rates cut",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/uk-grassroots-venues-and-clubs-to-get-a-business-rates-cut/",
+          "category": "musique",
+          "published_at": "2026-07-23T08:32:57+00:00",
+          "summary": "Day four for the UK’s new prime minister Andy Burnham has brought some good news for the grassroots music circuit.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8980795bbd3e",
+          "title": "‘I Love Everything About Her’: Shania Twain Has Only Good Things to Say About Taylor Swift",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/shania-twain-talks-taylor-swift-new-album-fallon-1236301256/",
+          "category": "ia",
+          "published_at": "2026-07-23T08:27:17+00:00",
+          "summary": "The legendary Canadian singer and songwriter also confirmed the rumors of a musical and biopic. “It’s all real, it’s all happening.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f59c567ff04c",
+          "title": "Absent depuis deux saisons, le mari de Galadriel débarque enfin dans Les Anneaux de Pouvoir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299957-absent-depuis-deux-saisons-le-mari-de-galadriel-debarque-enfin-dans-les-anneaux-de-pouvoir.html",
+          "category": "ia",
+          "published_at": "2026-07-23T08:19:35+00:00",
+          "summary": "Absent depuis deux saisons, Celeborn débarque finalement dans la série Les Anneaux de pouvoir. L'Elfe, mari de l'héroïne Galadriel, occupe un rôle important au Deuxième Âge.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99b47147a7ac",
+          "title": "Un moddeur a créé un multivers GTA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299903-un-moddeur-a-cree-un-multivers-gta.html",
+          "category": "ia",
+          "published_at": "2026-07-23T07:26:53+00:00",
+          "summary": "Qui ne rêve pas d’un multivers GTA où les joueuses et les joueurs pourraient passer d’un titre de Rockstar à un autre ? Ce moddeur l’a fait pour son plaisir personnel, et ça fonctionne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b58f820d771c",
+          "title": "La fusée géante Starship va s’envoler pour la treizième fois, suivez l’événement en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2295321-starship-vol-13-date-heure-et-comment-suivre-le-lancement-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-07-23T07:10:37+00:00",
+          "summary": "Le treizième vol suborbital de la fusée Starship de SpaceX devrait avoir lieu dans la nuit du 23 au 24 juillet 2026, après avoir été repoussé une première fois. Il s'agira de corriger les défauts du test précédent, avec quelques changements mineurs. Le décollage peut être suivi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00ea6a9f492f",
+          "title": "☕️ Raspberry Pi lance une version 10 pouces de son écran Touch Display 2",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/raspberry-pi-lance-une-version-10-pouces-de-son-ecran-touch-display-2/",
+          "category": "ia",
+          "published_at": "2026-07-23T06:37:00+00:00",
+          "summary": "La fondation Raspberry Pi étoffe son offre en matière d&#8217;écran avec le lancement d&#8217;une version 10 pouces de son Touch Display 2, l&#8217;écran tactile introduit en 2024 d&#8217;abord en format 7 pouces (voir notre prise en main) puis décliné en 5 pouces l&#8217;année…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95c7efa49b3b",
+          "title": "La Maison-Blanche accuse Kimi K3 de distillation du modèle Fable d’Anthropic",
+          "source": "Next INpact",
+          "url": "https://next.ink/248518/la-maison-blanche-accuse-kimi-k3-de-distillation-du-modele-fable-danthropic/",
+          "category": "ia",
+          "published_at": "2026-07-23T06:03:00+00:00",
+          "summary": "L&#8217;administration Trump a peut-être trouvé la réplique à Kimi K3, le nouveau modèle IA du labo chinois Moonshot AI, dont les poids seront publiés la semaine prochaine. Un officiel de la Maison-Blanche accuse le LLM de distillation de Fable, le modèle d&#8217;Anthropic.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a2e3f04527d",
+          "title": "Tout sera plus simple après Avengers: Doomsday et Secret Wars, promet le grand patron des films Marvel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299901-tout-sera-plus-simple-apres-avengers-doomsday-et-secret-wars-promet-le-grand-patron-des-films-marvel.html",
+          "category": "ia",
+          "published_at": "2026-07-23T05:55:26+00:00",
+          "summary": "Kevin Feige s'est exprimé sur l'avenir du Marvel Cinematic Universee, qui a besoin d'un grand coup de fouet en raison des errements constatés depuis la sortie d'Avengers: Endgame. Le patron de Marvel Studios promet que tout va redevenir plus simple.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "222991176430",
+          "title": "‘It All Turned Out How It Was Supposed To’: Budjerah Discusses His Long-Gestating Debut Album ‘Gentleman’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/budjerah-interview-debut-album-gentleman-1236301238/",
+          "category": "musique",
+          "published_at": "2026-07-23T05:41:26+00:00",
+          "summary": "One of the most promising Australian artists of his generation, Budjerah releases his debut album on Friday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f5a2999376f",
+          "title": "☕️ Microsoft préserve ses classiques Xbox en les adaptant au PC",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/microsoft-preserve-ses-classiques-xbox-en-les-adaptant-au-pc/",
+          "category": "ia",
+          "published_at": "2026-07-23T05:27:52+00:00",
+          "summary": "Microsoft soigne la rétrocompatibilité de son catalogue Xbox sur PC. Quatre jeux sortis dans les temps immémoriaux de la toute première Xbox sont désormais jouables sous Windows, sur ordinateur bien sûr, mais aussi sur les consoles portables type Xbox ROG Ally. Les quatre titres…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d43212bfb66",
+          "title": "Roxette’s ‘It Must Have Been Love’ Enters YouTube’s Billion Views Club",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/roxette-it-must-have-been-love-youtube-billion-views-club-1236301230/",
+          "category": "musique",
+          "published_at": "2026-07-23T03:11:53+00:00",
+          "summary": "It's Roxette's first music video to pass one billion views on YouTube.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04679763d31d",
+          "title": "D4vd Murder Case: A Timeline of the Investigation & Charges Over Celeste Rivas Hernandez’s Death",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/d4vd-murder-case-timeline-celeste-rivas-hernandez-death/",
+          "category": "musique",
+          "published_at": "2026-07-23T00:15:52+00:00",
+          "summary": "Billboard is tracking developments in the singer's criminal case for allegedly killing the 14-year-old and dismembering her body.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-22",
       "articles": [
+        {
+          "id": "5eca1fc14c98",
+          "title": "Watch Kacey Musgraves Serve Sultry & Sweet in ‘Mexico Honey’ Music Video",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/kacey-musgraves-mexico-honey-video-1236301157/",
+          "category": "musique",
+          "published_at": "2026-07-22T23:59:23+00:00",
+          "summary": "Filmed in Mexico, the romantic visual doubles as a love letter to the country that inspired the track.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "837313d472b6",
+          "title": "D4vd Made Millions From His Interscope Record Deal Before Murder Investigation, Court Hears",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/d4vd-interscope-record-deal-murder-hearing/",
+          "category": "musique",
+          "published_at": "2026-07-22T23:51:03+00:00",
+          "summary": "Prosecutors are trying to prove that the singer killed Celeste Rivas Hernandez to protect his lucrative music career.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "716fb13d51ae",
+          "title": "Olivia Dean & Lola Young Boost British Recorded Exports to New Record High",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/olivia-dean-lola-young-british-recorded-exports-new-record/",
+          "category": "ia",
+          "published_at": "2026-07-22T23:00:00+00:00",
+          "summary": "The latest figure is up 50% compared to data recorded by the BPI five years ago.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d01a9a402fee",
+          "title": "Key Principles for Ethical AI Use in Music Creation",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/key-principles-for-ethical-ai-use-in-music-creation/",
+          "category": "musique",
+          "published_at": "2026-07-22T19:22:05+00:00",
+          "summary": "The following MBW op/ed comes from John Meller, a Partner in the Entertainment practice at law firm Manatt, Phelps &#038; Phillips.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1744863b33b3",
+          "title": "Muvox drops its patent lawsuit against BMG, then sues Apple and Amazon over the same patent",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/muvox-drops-its-patent-lawsuit-against-bmg-then-sues-apple-and-amazon-over-the-same-patent/",
+          "category": "ia",
+          "published_at": "2026-07-22T17:41:43+00:00",
+          "summary": "The New Mexico company filed a notice of voluntary dismissal in its case against BMG on July 15, ending a dispute it first brought in August 2024.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5108ea60acc7",
+          "title": "Le tournage de la série HBO Harry Potter est particulièrement brutal, explique la production",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299723-le-tournage-de-la-serie-hbo-harry-potter-est-particulierement-brutal-explique-la-production.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-22T17:10:00+00:00",
+          "summary": "Adapter la saga littéraire la plus populaire du 21e siècle pour le petit écran semblait déjà être un défi titanesque. Mais sur le plateau de la nouvelle série HBO, la réalité du terrain se révèle encore plus rude. Le directeur de la photographie de la série Harry Potter tire la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d45fda446009",
+          "title": "Songwriter sues Willie Colón’s publishing company over royalties from salsa hit ‘Talento de Televisión’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/songwriter-sues-willie-colons-publishing-company-over-royalties-from-salsa-hit-talento-de-television/",
+          "category": "ia",
+          "published_at": "2026-07-22T16:26:48+00:00",
+          "summary": "Amílcar Boscán also asked a judge to let him reclaim the copyrights to the song under US copyright law.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b604c8e5462",
+          "title": "SoundCloud acquires Nina Protocol, the independent music platform winding down after five years",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/soundcloud-acquires-nina-protocol-the-independent-music-platform-winding-down-after-five-years/",
+          "category": "musique",
+          "published_at": "2026-07-22T16:12:33+00:00",
+          "summary": "The deal opens a migration process for Nina's artists to move their music, content, and followers to SoundCloud.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c536a1d3b76a",
+          "title": "Vidéosurveillance algorithmique, immatriculation : la loi Ripost ouvre les vannes",
+          "source": "Next INpact",
+          "url": "https://next.ink/248485/videosurveillance-algorithmique-immatriculation-la-loi-ripost-ouvre-les-vannes/",
+          "category": "loi",
+          "published_at": "2026-07-22T16:03:12+00:00",
+          "summary": "Le projet de loi Ripost a été définitivement adopté par le Parlement ce 21 juillet. Le texte vise à durcir le ton face à un certain nombre de troubles à l’ordre public. Mais si les rodéos urbains et le protoxyde d’azote font les gros titres, le texte contient également des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84d4ad705775",
+          "title": "AMD s’engage à investir 5 milliards de dollars dans Anthropic via un nouvel accord croisé",
+          "source": "Next INpact",
+          "url": "https://next.ink/248462/amd-sengage-a-investir-5-milliards-de-dollars-dans-anthropic-via-un-nouvel-accord-croise/",
+          "category": "ia",
+          "published_at": "2026-07-22T15:49:14+00:00",
+          "summary": "AMD s&#8217;engage à investir jusqu&#8217;à 5 milliards de dollars pour soutenir le développement d&#8217;Anthropic. En échange, l&#8217;éditeur des modèles Claude promet de déployer l&#8217;équivalent de 2 GW de puces AMD au sein de ses infrastructures de calcul. Un nouvel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5aa99b43d74",
+          "title": "Why Soundcharts is betting on music’s ‘other AI revolution’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/why-soundcharts-is-betting-on-musics-other-ai-revolution/",
+          "category": "musique",
+          "published_at": "2026-07-22T14:57:32+00:00",
+          "summary": "Soundcharts founder David Weiszfeld on 'tokenmaxxing', the AI reckoning he expects in 2027, and why the jobs at the heart of the music business will outlast the tools built to serve them.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "826637004ee5",
+          "title": "Le film L’Odyssée est né grâce à un chien… et c’est Nolan qui le dit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2299511-le-film-lodyssee-est-ne-grace-a-un-chien-et-cest-nolan-qui-le-dit.html",
+          "category": "ia",
+          "published_at": "2026-07-22T14:45:00+00:00",
+          "summary": "On le croyait obsessionnel du gigantisme, adepte des décors pharaoniques et des concepts scientifiques complexes. Pourtant, c’est une émotion d’une simplicité désarmante qui a scellé le destin de&nbsp;L'Odyssée. Christopher Nolan l'avoue lui-même : s'il a fini par porter le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab42e0441b83",
+          "title": "Behind The Campaign: Dry Cleaning",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/behind-the-campaign-dry-cleaning/",
+          "category": "musique",
+          "published_at": "2026-07-22T14:00:00+00:00",
+          "summary": "British alternative rock band Dry Cleaning released Secret Love, their third studio album, on 9 January 2026, following the late 2022 release of the Stumpwork album. Tim Hampson (of Youth Artists, the band’s management company), Emma Toney (marketing and audience development…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "392a287f7a66",
+          "title": "SoundCloud acquires independent-focused music service Nina Protocol after shutdown",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/soundcloud-acquires-nina-protocol/",
+          "category": "musique",
+          "published_at": "2026-07-22T14:00:00+00:00",
+          "summary": "Last month, independent-music streaming service Nina Protocol announced that it was shutting down. Now SoundCloud is buying it.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d447536514c9",
+          "title": "Suno hack may have included 55.3m users’ personal information",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/suno-hack-may-have-included-55-3m-users-personal-information/",
+          "category": "ia",
+          "published_at": "2026-07-22T12:30:00+00:00",
+          "summary": "Last week, we covered a report by 404 Media about which services Suno may have scraped its training-data from. It was based on information supplied by “a hacker who breached the company”.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d74db98e054",
+          "title": "Duetti report eyes potential for Latin music-catalogue deals",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/duetti-report-eyes-potential-for-latin-music-catalogue-deals/",
+          "category": "musique",
+          "published_at": "2026-07-22T12:30:00+00:00",
+          "summary": "Duetti has published its second ‘Music Finance Index’ report, focusing on music-catalogue valuations and trends in the market for selling them.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6aa801b9d223",
+          "title": "Spotify launches charts and pitching tool for music videos",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/spotify-launches-charts-and-pitching-tool-for-music-videos/",
+          "category": "musique",
+          "published_at": "2026-07-22T12:30:00+00:00",
+          "summary": "Spotify really is making a big push with music videos in 2026. It’s allowing artists to upload their full-length videos directly to its service, and windowing some videos in ‘early access’ for subscribers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa312cdbf61c",
+          "title": "Socan taps Musical AI to get songwriters paid for AI usage",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/socan-taps-musical-ai-to-get-songwriters-paid-for-ai-usage/",
+          "category": "ia",
+          "published_at": "2026-07-22T12:30:00+00:00",
+          "summary": "Like its peers around the world, Canadian collecting society Socan is getting to grips with the implications that AI music has for its members – including striking partnerships with tech firms who can help.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6aa9b6089544",
+          "title": "Instagram’s latest feature swaps new music into old posts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/instagrams-latest-feature-swaps-new-music-into-old-posts/",
+          "category": "musique",
+          "published_at": "2026-07-22T12:30:00+00:00",
+          "summary": "Get set for some discombobulating moments on Instagram in the coming weeks, if you see posts from a few years ago soundtracked by music from 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b77a1ba374f8",
+          "title": "French parliament approves ban on social media for under-15s",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/french-parliament-approves-ban-on-social-media-for-under-15s/",
+          "category": "ia",
+          "published_at": "2026-07-22T12:30:00+00:00",
+          "summary": "Spare a thought for 13 and 14 year-olds in France this morning, who may have assumed that if a social-media ban came in there, it would be for under-13s. Nope.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5535f9d4092a",
+          "title": "L’IA de Google se lance à son tour dans la chasse aux failles de sécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/248314/lia-de-google-se-lance-a-son-tour-dans-la-chasse-aux-failles-de-securite/",
+          "category": "ia",
+          "published_at": "2026-07-22T12:25:30+00:00",
+          "summary": "Google ne veut pas se laisser distancer par Anthropic et OpenAI sur le terrain des modèles IA spécialisés dans la cybersécurité. Avec Gemini 3.5 Flash Cyber, le géant du web se jette à son tour dans la chasse aux failles de sécurité – un modèle sous contrôle, comme chez les…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "9ef094e55db6",
           "title": "Revoir le webinaire - Fournisseurs et prestataires de l’écosystème « pixels » : comment implémenter la recommandation CNIL ?",
@@ -22,6 +507,16 @@
           "category": "ia",
           "published_at": "2026-07-22T12:00:00+00:00",
           "summary": "La CNIL répond aux principales interrogations des professionnels sur la mise en œuvre de sa recommandation sur les pixels.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "42ac7d972eb8",
+          "title": "‘Bank rails’ superfans startup Belong emerges from stealth",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/22/bank-rails-superfans-startup-belong-emerges-from-stealth/",
+          "category": "musique",
+          "published_at": "2026-07-22T11:30:00+00:00",
+          "summary": "Last September we wrote about a $1.5m funding round for a music-focused ‘challenger bank’ called Belong, founded by former Spotify executive Nick Holmsten. Now the startup has emerged from stealth mode with more details on its plans.",
           "summary_type": "extrait source"
         },
         {
@@ -52,6 +547,16 @@
           "category": "ia",
           "published_at": "2026-07-22T10:15:00+00:00",
           "summary": "Il faudra a priori avoir vu quelques films et quelques séries pour bien comprendre tous les enjeux d'Avengers: Doomsday. Et, à ce sujet, l'acteur Tom Hiddleston, interprète de Loki, a une recommandation pour les spectatrices et les spectateurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a38d2f54249",
+          "title": "Academy of Country Music appoints Andy Schuon, ex-MTV and REVOLT TV exec, as new CEO",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/academy-of-country-music-appoints-andy-schuon-ex-mtv-and-revolt-tv-exec-as-new-ceo/",
+          "category": "musique",
+          "published_at": "2026-07-22T10:03:30+00:00",
+          "summary": "Andy Schuon will start in the role on September 1, 2026, and will be based at the Academy's headquarters in Nashville.\nSource",
           "summary_type": "extrait source"
         },
         {
@@ -227,6 +732,16 @@
         {
           "id": "fe98dbd5b8fb",
           "title": "☕️ Après plus d’un an d’attente, Apple bouche une faille de « Hide my Email »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apres-plus-dun-an-dattente-apple-bouche-une-faille-de-hide-my-email/",
+          "category": "ia",
+          "published_at": "2026-07-22T06:07:22+00:00",
+          "summary": "Les alertes envoyées par les chercheurs en sécurité devraient suffire pour que les entreprises fassent le nécessaire et bouchent les failles rapidement. Mais parfois, il faut aussi secouer le cocotier pour qu&#8217;elles s&#8217;exécutent. C&#8217;est le cas d&#8217;Apple, qui a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0f024383cef",
+          "title": "☕️ [MàJ] Après plus d’un an d’attente, Apple bouche une faille de « Hide my Email »",
           "source": "Next INpact",
           "url": "https://next.ink/brief-article/apres-plus-dun-an-dattente-apple-bouche-une-faille-de-hide-my-email/",
           "category": "ia",
