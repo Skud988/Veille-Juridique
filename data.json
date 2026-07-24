@@ -1,9 +1,584 @@
 {
-  "generated_at": "2026-07-23T10:34:32.589253+00:00",
+  "generated_at": "2026-07-24T10:28:41.022725+00:00",
   "days": [
+    {
+      "date": "2026-07-24",
+      "articles": [
+        {
+          "id": "dc7bf0ab5067",
+          "title": "La saga d’animation Avatar signe son grand retour !",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2300875-26-episodes-et-un-monde-en-ruines-la-saga-avatar-signe-son-grand-retour-sur-paramount.html",
+          "category": "ia",
+          "published_at": "2026-07-24T10:05:00+00:00",
+          "summary": "Le monde d'Aang et Korra n'a plus rien d'une utopie féerique. Paramount+ vient d'officialiser l'arrivée d'Avatar: Seven Havens pour le 9 octobre 2026, en accompagnant l'annonce d'un premier teaser au ton particulièrement sombre. Exit le statut de figure céleste, dans cette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f876b8fc711",
+          "title": "GPU Instinct MI455X et MI430X, baies Helios : AMD cible l’IA, sans oublier le HPC",
+          "source": "Next INpact",
+          "url": "https://next.ink/248694/gpu-instinct-mi455x-et-mi430x-baies-helios-amd-cible-lia-sans-oublier-le-hpc/",
+          "category": "ia",
+          "published_at": "2026-07-24T09:51:23+00:00",
+          "summary": "Comme NVIDIA, AMD fait feu de tout bois sur le monde de l’intelligence artificielle générative… mais ne laisse pas tomber le HPC et dévoile un GPU pensé pour le calcul haute performance. AMD en profite pour revenir sur les différentes générations de ses baies Helios qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73cc8e3c91db",
+          "title": "The Spotify-Kalshi issue shows that music’s fraud systems work (Guest column)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/the-spotify-kalshi-issue-shows-that-musics-fraud-systems-work-guest-column/",
+          "category": "musique",
+          "published_at": "2026-07-24T09:17:43+00:00",
+          "summary": "The initial reaction to the Spotify-Kalshi controversy over Malcolm Todd’s “Earrings” is easy to understand. “Music prediction markets are dangerous. Streaming charts can be gamed. Shut the whole thing down before it gets worse!” Nobody in music should dismiss that concern.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a0d77bb45a0",
+          "title": "Lewis Capaldi and RAYE to Headline Australia’s 2026 Spilt Milk Fest",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/lewis-capaldi-raye-headline-australia-2026-spilt-milk-1236302204/",
+          "category": "ia",
+          "published_at": "2026-07-24T09:16:36+00:00",
+          "summary": "The 2026 edition will visit Canberra, Gold Coast, Geelong and Perth this December, the start of the southern summer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17d13221a235",
+          "title": "Après la France, l’Espagne dit non au FSD et c’est clairement une provocation contre Tesla",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2300801-apres-la-france-lespagne-dit-non-au-fsd-et-cest-clairement-une-provocation-contre-tesla.html",
+          "category": "ia",
+          "published_at": "2026-07-24T09:02:33+00:00",
+          "summary": "Dans la foulée du ministre français des Transports, c'est au tour de son homologue espagnol d'indiquer que l'Espagne n'autoriserait pas le FSD sur son territoire avant une homologation à l'échelle européenne. Si les refus se multipliaient, le vote pourrait réserver une mauvaise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8050ecdef81",
+          "title": "AI video-generation platform Atlabs launches agents for indie, kids’ and faith music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/ai-video-generation-platform-atlabs-launches-agents-for-indie-kids-and-faith-music/",
+          "category": "ia",
+          "published_at": "2026-07-24T09:00:19+00:00",
+          "summary": "Indian AI video-generation platform Atlabs.ai has launched three new music video agents that have specifically trained for indie artists, kids’ rhymes, and faith music. The Gurugram-headquartered startup was founded in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28d842365684",
+          "title": "Live Nation wants fans to build their own festivals on Roblox",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/live-nation-wants-fans-to-build-their-own-festivals-on-roblox/",
+          "category": "musique",
+          "published_at": "2026-07-24T08:51:51+00:00",
+          "summary": "Meet Music Festival Tycoon, a Roblox game from Live Nation and Livewire that’s been announced this week, but went live quietly earlier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b11ec1ddd5a",
+          "title": "Écrans LG et publicité McAfee : Microsoft intervient, LG supprime l’offre",
+          "source": "Next INpact",
+          "url": "https://next.ink/248725/ecrans-lg-et-publicite-mcafee-microsoft-intervient-lg-supprime-loffre/",
+          "category": "ia",
+          "published_at": "2026-07-24T08:47:08+00:00",
+          "summary": "La mini-saga de l&#8217;été autour des écrans LG vient de finir sa première saison. Le constructeur a supprimé sa publicité pour McAfee, mais le problème sous-jacent reste entier et LG se défend d&#8217;avoir mal agi. LG est sous un feu nourri de critiques pour le comportement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "055a927e725f",
+          "title": "Apple Music increases prices in India",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/apple-music-increases-prices-in-india/",
+          "category": "musique",
+          "published_at": "2026-07-24T08:45:18+00:00",
+          "summary": "Like in other parts of the world, Apple Music has increased its prices in India. The monthly rate of an individual subscription has risen from Rs99 (approx. $1) to Rs139 [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b379162ef2af",
+          "title": "Le remake de Halo clarifie une théorie loufoque vieille de 25 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2300811-le-remake-de-halo-clarifie-une-theorie-loufoque-vieille-de-25-ans.html",
+          "category": "ia",
+          "published_at": "2026-07-24T08:43:00+00:00",
+          "summary": "Ce pauvre Master Chief, accusé à tort de la mort de plusieurs Marines depuis maintenant 25 ans, est désormais innocenté grâce au remake Halo: Campaign Evolved. Non, il n'a pas rebondi sur plusieurs soldats, on vous dit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4c8aa0619e9",
+          "title": "Incendies à Biscarrosse, en Gironde et ailleurs en France : Google Maps aide à suivre la localisation des feux en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2300787-incendies-a-biscarrosse-en-gironde-et-ailleurs-en-france-google-maps-aide-a-suivre-la-localisation-des-feux-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-07-24T08:21:26+00:00",
+          "summary": "La France fait face à un terrible été caniculaire et plusieurs départements affrontent de multiples départs de feux. Pour suivre l'évolution des flammes et éviter les routes barrées, Google Maps intègre une fonction de suivi des feux de forêt en direct. Voici comment l’activer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5610b61be093",
+          "title": "Ben McOwen Wilson named new CEO of the UK’s PRS for Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ben-mcowen-wilson-named-new-ceo-of-the-uks-prs-for-music/",
+          "category": "musique",
+          "published_at": "2026-07-24T08:09:57+00:00",
+          "summary": "Google and YouTube executive to join the UK collection society on October 12\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "925c20c67aad",
+          "title": "Un faux Claude, hébergé sur le vrai Claude, a piraté des dizaines d’entreprises : on décortique la mécanique de l’attaque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2300799-un-faux-claude-heberge-sur-le-vrai-claude-a-pirate-des-dizaines-dentreprises-on-decortique-la-mecanique-de-lattaque.html",
+          "category": "ia",
+          "published_at": "2026-07-24T08:01:42+00:00",
+          "summary": "Entre le 21 et le 22 juillet 2026, au moins 29 entreprises ont été infectées par un malware après avoir cru télécharger l'application de bureau de Claude… directement depuis claude.ai.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d0b86b45e61",
+          "title": "Gracie Abrams Charges to No. 1 In Australia With ‘Daughter From Hell’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/gracie-abrams-no-1-australia-daughter-from-hell-1236302195/",
+          "category": "ia",
+          "published_at": "2026-07-24T08:00:57+00:00",
+          "summary": "The week’s best-seller on vinyl, Daughter From Hell is the second leader for Abrams after 2024's The Secret Of Us.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9693f2f843c",
+          "title": "Audiences Netflix : le top 10 des séries les plus regardées en 2026 est surprenant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2300327-audiences-netflix-le-top-10-des-series-les-plus-regardees-en-2026-est-surprenant.html",
+          "category": "ia",
+          "published_at": "2026-07-24T07:40:57+00:00",
+          "summary": "Chaque semestre sur Netflix, les chiffres d'audience mondiaux remettent les pendules à l'heure. Alors que la première moitié de l'année 2026 vient de s'achever, les abonnés ont comptabilisé pas moins de 97 milliards d'heures de visionnage à travers le globe. Découvrez le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71683765c2c5",
+          "title": "‘Feels Like a Full-Circle Moment’: VASSY Talks Tomorrowland Performance and Fresh Tune ‘DAY N NIGHT’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/vassy-interview-tomorrowland-day-n-night-1236302186/",
+          "category": "musique",
+          "published_at": "2026-07-24T07:34:28+00:00",
+          "summary": "VASSY is returning to Tomorrowland \"as a new mum to premiere the first single of an entirely new chapter,\" she tells Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53976caeb0a1",
+          "title": "☕️ Tails 7.10 revoit sa procédure d’arrêt et son lecteur vidéo",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/tails-7-10-revoit-sa-procedure-darret-et-son-lecteur-video/",
+          "category": "justice",
+          "published_at": "2026-07-24T07:23:00+00:00",
+          "summary": "Si Tails 7.9 n’avait pas vraiment marqué par ses nouveautés (essentiellement quelques mises à jour logicielles), la version 7.10 comporte quelques changements plus visibles. La modification la plus importante est la bascule du processus d’arrêt par défaut vers celui de GNOME.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "536b2b264236",
+          "title": "Apple Plans monte à bord des futures Ford électriques",
+          "source": "Next INpact",
+          "url": "https://next.ink/248664/apple-plans-monte-a-bord-des-futures-ford-electriques/",
+          "category": "ia",
+          "published_at": "2026-07-24T07:03:00+00:00",
+          "summary": "Les futurs véhicules électriques de Ford intégreront directement Apple Plans à leur système d’infodivertissement. Il ne s’agit ni de CarPlay, ni de CarPlay Ultra, mais bien du service de cartographie et de calcul d’itinéraires d’Apple. Le tout sans aide de l&#8217;iPhone.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9a079fab625",
+          "title": "☕️ Lego ressuscite la borne d’arcade Donkey Kong",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lego-ressuscite-la-borne-darcade-donkey-kong/",
+          "category": "ia",
+          "published_at": "2026-07-24T06:42:00+00:00",
+          "summary": "Après une incursion dans le monde des briques connectées avec Lego Smart Play, le fabricant danois revient à l&#8217;un de ses leviers marketing de prédilection : exploiter la nostalgie des grands enfants en s&#8217;associant à des marques emblématiques de la culture geek. En…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ec4c36a198f",
+          "title": "Kalamkaar ventures into IP creation with hip-hop talent hunt web series ‘Legacy’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/kalamkaar-ventures-into-ip-creation-with-hip-hop-talent-hunt-web-series-legacy/",
+          "category": "musique",
+          "published_at": "2026-07-24T06:20:06+00:00",
+          "summary": "Indian hip-hop label and artist management company Kalamkaar Music has ventured into IP creation with the new reality web series talent hunt Legacy. Kalamkaar, which was co-founded by entrepreneur Ankit [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a45777a8b04a",
+          "title": "Xbox teste le cloud gaming gratuit financé par la publicité",
+          "source": "Next INpact",
+          "url": "https://next.ink/248674/xbox-teste-le-cloud-gaming-gratuit-finance-par-la-publicite/",
+          "category": "ia",
+          "published_at": "2026-07-24T06:12:00+00:00",
+          "summary": "Le cloud gaming serait-il une solution au problème du matériel hors de prix ? Pas besoin de consoles ou de PC, une (bonne) connexion internet et une manette potable suffisent pour profiter des blockbusters les plus récents sur sa télé ou son smartphone. Plusieurs solutions sont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d955f55789a",
+          "title": "Jon Bon Jovi Cuts Short Madison Square Garden Concert Due to Illness",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/jon-bon-jovi-madison-square-garden-concert-illness-1236302176/",
+          "category": "musique",
+          "published_at": "2026-07-24T05:42:24+00:00",
+          "summary": "The Hall of Fame inducted rock band cut short their set at Madison Square Garden, as Jon Bon Jovi struggled with the effects of a sinus infection.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08b5de76e975",
+          "title": "☕️ Geekbench 7 : AV1, Whisper, CUDA et de nouveaux tests GPU pour refléter les vrais usages",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/geekbench-7-av1-whisper-cuda-et-de-nouveaux-tests-gpu-pour-refleter-les-vrais-usages/",
+          "category": "ia",
+          "published_at": "2026-07-24T05:38:00+00:00",
+          "summary": "Le fameux outil de benchmark Geekbench est désormais disponible en version 7. Le logiciel, qui sert à mesurer les performances d&#8217;un appareil Windows, macOS, Linux, Android et iOS, revoit ses tests pour mieux refléter les usages actuels. Il en va ainsi des mesures du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38449aa00334",
+          "title": "Charli xcx, Tyla, Morgan Wallen & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/charli-xcx-tyla-morgan-wallen-new-music-friday-guide-1236300112/",
+          "category": "musique",
+          "published_at": "2026-07-24T04:52:48+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "752ef48d9a01",
+          "title": "The Rolling Stones’ ‘Foreign Tongues’ Debuts at No. 1 on Billboard’s Top Album Sales Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/the-rolling-stones-foreign-tongues-number-one-album-sales-1236302146/",
+          "category": "musique",
+          "published_at": "2026-07-24T04:29:50+00:00",
+          "summary": "Plus, the set starts in the top 10 on five more album charts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "423083ffea2f",
+          "title": "‘I Needed Something to Sink My Teeth Into’: Why Amy Shark Decamped to a Converted Church In Wales to Create ‘Soft Pop’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/amy-shark-interview-soft-pop-1236302143/",
+          "category": "musique",
+          "published_at": "2026-07-24T04:17:23+00:00",
+          "summary": "“It was such a rollercoaster, but I'm just so proud of myself. I really went for it,” Shark tells Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f56c8f62013",
+          "title": "Charli xcx Returns With Cinematic ‘Music, Fashion, Film’ Album: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/charli-xcx-music-fashion-film-album-stream-1236301732/",
+          "category": "musique",
+          "published_at": "2026-07-24T04:01:00+00:00",
+          "summary": "The pop star's Brat follow-up is here.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad5d009b520b",
+          "title": "Charli xcx’s ‘Music, Fashion, Film’: All 11 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/charli-xcx-music-fashion-film-best-songs/",
+          "category": "musique",
+          "published_at": "2026-07-24T04:00:00+00:00",
+          "summary": "The pop great's long-anticipated new set is finally here.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd2be8888e2c",
+          "title": "Sound Deal: Sony Is Blowing Out These Top-Rated Headphones for Just $10",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-cheap-sony-headphones-review-9632950/",
+          "category": "musique",
+          "published_at": "2026-07-24T03:31:00+00:00",
+          "summary": "For under ten bucks, you get a pair of brand new, genuine Sony headphones for music, work, recording and more.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-23",
       "articles": [
+        {
+          "id": "673b7612784c",
+          "title": "Music publishers file amended lyrics lawsuit against Anthropic – just as AI firm’s separate $1.5B settlement with authors wins court approval",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/music-publishers-file-amended-lyrics-lawsuit-against-anthropic-just-as-ai-firms-separate-1-5b-piracy-settlement-with-authors-wins-court-approval/",
+          "category": "musique",
+          "published_at": "2026-07-23T18:32:13+00:00",
+          "summary": "The latest filing draws heavily on Anthropic's internal records, obtained through discovery, to support claims the publishers first brought in October 2023.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdbff93d5e7a",
+          "title": "☕️ Bruxelles donne son aval au rachat d’Electronic Arts par des fonds saoudien et américains",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/bruxelles-donne-son-aval-au-rachat-delectronic-arts-par-des-fonds-saoudien-et-americains/",
+          "category": "ia",
+          "published_at": "2026-07-23T16:07:33+00:00",
+          "summary": "Le projet d&#8217;acquisition d&#8217;Electronic Arts par un consortium emmené par le PIF, le Fonds public d’investissement d’Arabie saoudite, est en bonne voie. Du moins du côté de l&#8217;Union européenne, qui a donné son feu vert à l&#8217;opération maousse costaud de 55…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61706fea6f31",
+          "title": "Universal hires Tseyin Foo as President, Global Supply Chain to ‘strengthen the global capabilities powering UMG’s next phase of growth’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-hires-tseyin-foo-as-president-global-supply-chain-to-strengthen-the-global-capabilities-powering-umgs-next-phase-of-growth/",
+          "category": "musique",
+          "published_at": "2026-07-23T16:00:45+00:00",
+          "summary": "Former Skechers and Nike exec will be based in Los Angeles\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e73075cc3d0",
+          "title": "Un éclair frappe une fusée chinoise en plein vol",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2300575-un-eclair-frappe-une-fusee-chinoise-en-plein-vol.html",
+          "category": "ia",
+          "published_at": "2026-07-23T15:55:00+00:00",
+          "summary": "Une fusée chinoise a été heurtée par un éclair lors de son ascension dans l'atmosphère. Selon les médias chinois, cela n'a pas remis en cause le bon déploiement du satellite se trouvant à bord.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a1172f1d07f",
+          "title": "Le dernier vélo électrique urbain d’Intersport perd déjà 300 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2300489-le-dernier-velo-electrique-urbain-dintersport-perd-deja-300-e.html",
+          "category": "ia",
+          "published_at": "2026-07-23T15:46:10+00:00",
+          "summary": "[Deal du jour] Si vous cherchez un vélo électrique pour vos trajets du quotidien, le Crosslite de Nakamura profite actuellement d’une réduction intéressante chez Intersport.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24d1ae039ae8",
+          "title": "432 failles corrigées dans le noyau Linux ? Pas si vite",
+          "source": "Next INpact",
+          "url": "https://next.ink/248637/432-failles-corrigees-dans-le-noyau-linux-pas-si-vite/",
+          "category": "ia",
+          "published_at": "2026-07-23T15:41:15+00:00",
+          "summary": "La publication en 48 heures de 432 bulletins CVE pour le noyau Linux a provoqué des interrogations sur la meilleure manière d’intégrer un tel flot de corrections dans les environnements de production. La situation est plus complexe qu’il n’y paraît. Entre les 20 et 21 juillet,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce6b723d20af",
+          "title": "Comment éviter la galère de l’attente aux bornes de recharge lors des grands départs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2056541-comment-eviter-lattente-aux-bornes-de-recharge-lors-des-grands-departs.html",
+          "category": "ia",
+          "published_at": "2026-07-23T15:35:09+00:00",
+          "summary": "Attendre pour recharger sur la route des vacances, ce n’est pas forcément la meilleure partie de l’expérience de la voiture électrique. Et si l'on vous disait qu’il était possible d’éviter cela&nbsp;?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71b22cc62839",
+          "title": "Va-t-on vers une quatrième canicule en France début août 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2300461-va-t-on-vers-une-quatrieme-canicule-en-france-debut-aout-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-23T15:35:08+00:00",
+          "summary": "Alors que la France vient déjà de vivre 3 épisodes de forte chaleur depuis le mois de mai 2026, les modèles météo laissent planer le doute : la canicule sera-t-elle de retour fin juillet et début août ? Les prévisionnistes sont prudents, mais partagent leur inquiétude.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6633d675525a",
+          "title": "☕️ Google lance le selfie vidéo pour récupérer l’accès à son compte",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-lance-le-selfie-video-pour-recuperer-lacces-a-son-compte/",
+          "category": "ia",
+          "published_at": "2026-07-23T15:05:54+00:00",
+          "summary": "Il existe de nombreuses méthodes de sécurité pour se connecter à son compte Google, mais la loi de Murphy étant universelle et intangible, il peut arriver que tout se passe mal et qu&#8217;aucune ne fonctionne. Le moteur de recherche en a donc ajouté une nouvelle qui ne devrait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95679366174c",
+          "title": "J’ai fini Halo: Campaign Evolved sur PS5, et c’est toujours le meilleur FPS pour ceux qui ne jouent pas aux FPS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2298127-notre-test-de-halo-campaign-evolved-le-meilleur-fps-pour-celles-et-ceux-qui-ne-jouent-pas-aux-fps.html",
+          "category": "ia",
+          "published_at": "2026-07-23T15:00:00+00:00",
+          "summary": "Halo : Campaign Evolved est un remake tout ce qu'il y a de plus classique. En dehors de quelques nouveaux niveaux — très bons par ailleurs — le jeu ne réinvente pas ce qu'est le premier Halo. Et c'est peut-être mieux ainsi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7efc6d0d48f6",
+          "title": "India’s Tips Music grew revenues 21% in calendar Q2 – but profit fell 4% as content spend jumped 90%",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indias-tips-music-grew-revenues-21-in-calendar-q2-but-profit-fell-4-as-content-spend-jumped-90/",
+          "category": "musique",
+          "published_at": "2026-07-23T14:43:12+00:00",
+          "summary": "Spending on music acquisitions pulled Tips' operating EBITDA margin down to 50.3%, from 64.2% a year earlier and 74.0% in the preceding quarter.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fdc5f03ddac",
+          "title": "Sony Music Publishing acquires Monty Norman Limited, from the estate of late James Bond Theme composer",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/james-bond-theme-composer-company-acquired-by-sony-music-publishing/",
+          "category": "musique",
+          "published_at": "2026-07-23T14:30:41+00:00",
+          "summary": "He was the credited composer of the James Bond Theme, first heard in the 1962 film Dr. No.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2803ac795bd7",
+          "title": "890 millions d’euros d’amende : Google sanctionné deux fois par Bruxelles",
+          "source": "Next INpact",
+          "url": "https://next.ink/248614/890-millions-deuros-damende-google-sanctionne-deux-fois-par-bruxelles/",
+          "category": "institutionnel",
+          "published_at": "2026-07-23T14:30:12+00:00",
+          "summary": "Google est de nouveau condamné par la Commission européenne, qui vient de lui infliger deux amendes totalisant 890 millions d&#8217;euros. Il s&#8217;agit cette fois de sanctionner l&#8217;entreprise pour avoir favorisé des propres services dans son moteur de recherche, et pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd8222073f22",
+          "title": "Juge et partie : Bruxelles colle une sanction à 890 millions d’euros à Google pour ses mauvaises habitudes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2300249-juge-et-partie-bruxelles-colle-une-sanction-a-890-millions-deuros-a-google-pour-ses-mauvaises-habitudes.html",
+          "category": "institutionnel",
+          "published_at": "2026-07-23T14:24:23+00:00",
+          "summary": "Nouvelle gifle européenne pour Google. La Commission condamne le géant de la tech à 890 millions d'euros d'amende pour violation du DMA. En cause : le favoritisme accordé à ses propres services dans la recherche et le verrouillage du Google Play Store.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0c69650fc44",
+          "title": "Antares : Cisco publie deux modèles à poids ouverts dédiés à la détection de failles",
+          "source": "Next INpact",
+          "url": "https://next.ink/248603/antares-cisco-publie-deux-modeles-a-poids-ouverts-dedies-a-la-detection-de-failles/",
+          "category": "institutionnel",
+          "published_at": "2026-07-23T13:47:18+00:00",
+          "summary": "Cisco prend le contrepied des immenses et très coûteux modèles de pointe généralistes avec la mise en ligne de deux petits modèles à poids ouverts, dédiés spécifiquement à la recherche de vulnérabilités. Baptisés Antares, ils offrent selon l&#8217;équipementier un rapport coût…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff12509f9c82",
+          "title": "Consommation des datacenters : de très grandes disparités chez Microsoft",
+          "source": "Next INpact",
+          "url": "https://next.ink/248532/consommation-des-datacenters-de-tres-grandes-disparites-chez-microsoft/",
+          "category": "ia",
+          "published_at": "2026-07-23T13:09:58+00:00",
+          "summary": "En ce mois de juillet, Microsoft a mis en ligne son « environmental sustainability report ». Il regroupe les indicateurs environnementaux avec les consommations en eau et électricité de ses datacenters. Résultat des courses : les curseurs sont bien plus élevés aux États-Unis et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e0b0e8148abe",
+          "title": "Suno AI music primer: $5.4bn valuation, industry lawsuits, data breach and more",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/suno-ai-music-generator-primer-data-breach-valuation-lawsuits/",
+          "category": "musique",
+          "published_at": "2026-07-23T12:54:08+00:00",
+          "summary": "To some people, Suno is an AI-music generator that could democratise the art of music-making so that billions of people can do it",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0bd00cb0ddd1",
+          "title": "YouTube’s subscription business ‘growing faster than ads,’ driven by Music and Premium, says Alphabet",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/youtubes-subscription-business-growing-faster-than-ads-driven-by-music-and-premium-says-alphabet/",
+          "category": "musique",
+          "published_at": "2026-07-23T12:47:40+00:00",
+          "summary": "Platform's ad revenues rose 13% YoY to $11bn in Q2\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d2dcae11849",
+          "title": "UK recorded-music exports hit all-time high – but growth is tiny",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/uk-recorded-music-exports-hit-all-time-high-but-growth-is-tiny/",
+          "category": "musique",
+          "published_at": "2026-07-23T12:30:00+00:00",
+          "summary": "There’s a big milestone in UK labels body the BPI’s latest export figures, but also a concerning slowdown in growth.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4d2288d63ef",
+          "title": "FAC sets out its minimum expectations from music distributors",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/fac-sets-out-its-minimum-expectations-from-music-distributors/",
+          "category": "musique",
+          "published_at": "2026-07-23T12:30:00+00:00",
+          "summary": "There are plenty of music distributors who are fair, transparent and positive partners for their artist clients. And there are others who are&#8230; not so much.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd596d05b5ca",
+          "title": "SynaptIQ’s AI searches decades of music contracts in seconds",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/synaptiqs-ai-searches-decades-of-music-contracts-in-seconds/",
+          "category": "ia",
+          "published_at": "2026-07-23T12:30:00+00:00",
+          "summary": "Here’s another startup for the list of AI tools designed for music-industry workflows, rather than to generate music. SynaptIQ is a UK-based startup whose focus is on ‘media rights intelligence’.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f0645ba9b37",
+          "title": "JV moves: Nothing Standard x UMG and Some Action x Reservoir",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/jv-moves-nothing-standard-x-umg-and-some-action-x-reservoir/",
+          "category": "musique",
+          "published_at": "2026-07-23T12:30:00+00:00",
+          "summary": "There are some new joint-ventures afoot in the UK music industry this week, courtesy of sync agency Nothing Standard and independent label Some Action. The partners in question? UMG and Reservoir Media respectively.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97b68c78a709",
+          "title": "Report: ‘People are becoming quieter and more guarded online’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/report-people-are-becoming-quieter-and-more-guarded-online/",
+          "category": "ia",
+          "published_at": "2026-07-23T12:30:00+00:00",
+          "summary": "Are people dropping off your social feeds? Arguably many of us might not realise immediately, with a growing stream of AI slop and influencer videos being injected into those feeds by the platforms instead.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56b7ff7a6430",
+          "title": "When will Spotify for Artists update? The Alertarator will tell you",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/when-will-spotify-for-artists-update-the-alertarator-will-tell-you/",
+          "category": "musique",
+          "published_at": "2026-07-23T12:30:00+00:00",
+          "summary": "Sometimes, online things don’t have to be massively-hyped, well-funded startups hoping to become unicorns. Sometimes they can just be useful tools solving a problem. And sometimes that problem can be very, very specific.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a4e9810d113",
+          "title": "Judge refuses to dismiss Reach Records’ case against UMG’s Capitol CMG over abandoned deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-refuses-to-dismiss-reach-records-case-against-umgs-capitol-cmg-over-abandoned-deal/",
+          "category": "musique",
+          "published_at": "2026-07-23T12:08:51+00:00",
+          "summary": "Reach alleges that Capitol CMG agreed to buy the label during 2025, then pulled out months later by telling Reach the agreed price was too high.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "effb40073589",
+          "title": "Instagram now lets users swap the music on published posts and carousels",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/instagram-now-lets-users-swap-the-music-on-published-posts-and-carousels/",
+          "category": "musique",
+          "published_at": "2026-07-23T11:42:05+00:00",
+          "summary": "The feature, called Replace Audio, keeps a post's likes, comments, shares and reach in place when the soundtrack is changed.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "694dd1e43381",
+          "title": "Timo Hoffmann named Head of A&R, Germany at Frontiers Label Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/timo-hoffmann-named-head-of-ar-germany-at-frontiers-label-group/",
+          "category": "musique",
+          "published_at": "2026-07-23T11:41:50+00:00",
+          "summary": "Hoffmann held roles in PR, catalog management, marketing, and product management at AFM Records and Atomic Fire Records / Reigning Phoenix Music.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33a7b4938fef",
+          "title": "YouTube’s subscriptions business is ‘growing faster than ads’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/23/youtubes-subscriptions-business-is-growing-faster-than-ads/",
+          "category": "ia",
+          "published_at": "2026-07-23T11:30:00+00:00",
+          "summary": "YouTube and Google’s parent company Alphabet has published its financial results for the second quarter of 2026, including the latest figures for YouTube’s advertising business.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "d8311c7f9722",
           "title": "Tout ce que la fusée géante Starship tentera minute par minute pour son 13ᵉ vol d’essai",
@@ -22,6 +597,16 @@
           "category": "ia",
           "published_at": "2026-07-23T10:17:51+00:00",
           "summary": "Alors que le gouvernement a annoncé que les élèves de seconde bénéficieraient à la rentrée d&#8217;une heure de cours d&#8217;intelligence artificielle par semaine, des chercheurs ont testé la capacité des êtres humains à déléguer leur esprit critique à une IA. Paradoxalement,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f79c3acdee02",
+          "title": "[MàJ] L’IA générative empêche d’admettre que nous ne savons pas",
+          "source": "Next INpact",
+          "url": "https://next.ink/248187/lia-generative-empeche-dadmettre-que-nous-ne-savons-pas/",
+          "category": "ia",
+          "published_at": "2026-07-23T10:17:51+00:00",
+          "summary": "Alors que le gouvernement a annoncé que les élèves de seconde bénéficieraient à la rentrée 2027 d&#8217;une heure de cours d&#8217;intelligence artificielle par semaine, des chercheurs ont testé la capacité des êtres humains à déléguer leur esprit critique à une IA.…",
           "summary_type": "extrait source"
         },
         {
