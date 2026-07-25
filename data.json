@@ -1,9 +1,384 @@
 {
-  "generated_at": "2026-07-24T10:28:41.022725+00:00",
+  "generated_at": "2026-07-25T10:00:05.848028+00:00",
   "days": [
+    {
+      "date": "2026-07-25",
+      "articles": [
+        {
+          "id": "42e5f222edc3",
+          "title": "Kratos reviendra officiellement dans God of War dans une suite à God of War: Laufey",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2301837-kratos-reviendra-officiellement-dans-god-of-war-dans-une-suite-a-god-of-war-laufey.html",
+          "category": "ia",
+          "published_at": "2026-07-25T09:22:54+00:00",
+          "summary": "Kratos va faire son retour dans un nouvel opus de la franchise God of War. La nouvelle a été confirmée lors du Comic-Con de San Diego, avec en plus l'annonce d'une date de sortie officielle pour God of War: Laufey.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "939482fbd089",
+          "title": "J’ai testé le Dreo 515S : la clim mobile qui m’a sauvé la canicule, à condition de prendre la bonne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2300373-jai-teste-le-dreo-515s-la-clim-mobile-qui-ma-sauve-la-canicule-a-condition-de-prendre-la-bonne.html",
+          "category": "ia",
+          "published_at": "2026-07-25T09:00:00+00:00",
+          "summary": "J'ai eu de la chance : un soir de juin, Dreo remettait en vente son climatiseur mobile star, le 515S, à un prix décent (399 €). Je l'ai reçu le 2 juillet, quelques jours avant que la chaleur ne remonte sur la France pour le deuxième épisode caniculaire. Trois semaines plus tard,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d628606c894a",
+          "title": "Sydney’s Former Qudos Bank Arena Officially Reopens as Afterpay Arena",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/sydney-former-qudos-bank-arena-officially-reopens-afterpay-arena/",
+          "category": "ia",
+          "published_at": "2026-07-25T08:04:34+00:00",
+          "summary": "Among the first acts scheduled to play the transformed venue are Tame Impala, J. Cole, Khalid, Laufey, Robyn, Olivia Dean, Zara Larsson and Hilary Duff.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e37d2d01a9c4",
+          "title": "Les Anneaux de Pouvoir : le trailer de la saison 3 dévoile Sauron, Gandalf et les Nazgûl",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2301811-les-anneaux-de-pouvoir-ressemble-de-plus-en-plus-au-seigneur-des-anneaux-dans-son-nouveau-trailer.html",
+          "category": "ia",
+          "published_at": "2026-07-25T08:03:53+00:00",
+          "summary": "Le Comic-Con de San Diego a été l’occasion pour Amazon de dévoiler un nouveau trailer de la saison 3 de sa série Les Anneaux de Pouvoir. L’occasion de découvrir les Nazgûl, les terrifiants serviteurs de Sauron, ainsi que plusieurs images inédites de cette nouvelle saison très…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d885023f289",
+          "title": "Crunchyroll baisse le prix de son abonnement annuel à moins de 50 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2301481-crunchyroll-baisse-le-prix-de-son-abonnement-annuel-a-moins-de-50-e.html",
+          "category": "ia",
+          "published_at": "2026-07-25T07:30:00+00:00",
+          "summary": "[Deal du jour] Pour une durée limitée, les abonnements annuels à Crunchyroll baissent leur prix et se trouvent à partir de 49,99 € par an. Une belle opportunité pour un été sous le signe de l'animation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca23b6ec328b",
+          "title": "Starship réussit son 13e vol d’essai et déploie ses premiers satellites Starlink V3",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2301793-starship-reussit-son-13e-vol-dessai-et-deploie-ses-premiers-satellites-starlink-v3.html",
+          "category": "ia",
+          "published_at": "2026-07-25T07:26:35+00:00",
+          "summary": "Après plusieurs mois de développement et une première tentative avortée au dernier moment, SpaceX a finalement réussi le 13e vol d’essai de son immense fusée Starship, ce 24 juillet 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00de236547d3",
+          "title": "Fusée SpaceX clouée au sol, quatrième canicule en France, vol du Starship – le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2301355-fusee-spacex-clouee-au-sol-quatrieme-canicule-en-france-vol-du-starship-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-07-25T05:35:00+00:00",
+          "summary": "Une fusée Falcon 9 de SpaceX clouée au sol, le retour probable de la canicule en France, treizième vol du Starship : voici les sujets qui vous ont le plus intéressés dans la rubrique Sciences de Numerama cette semaine. C'est l'heure du récap' !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0589ed3bae54",
+          "title": "Karol G Kicks Off 2026 Viajando Por El Mundo Tropitour: Full Setlist",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/karol-g-viajando-por-el-mundo-tropitour-full-setlist/",
+          "category": "ia",
+          "published_at": "2026-07-25T04:45:00+00:00",
+          "summary": "The highly-awaited tour began on Friday (July 24) at Soldier Field in Chicago. See every song from the kick-off show below.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e69519631ea7",
+          "title": "Artists With the Most No. 1 Albums on the Billboard 200: The Beatles, Future & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/drake-taylor-swift-most-billboard200-no1-albums-soloists/",
+          "category": "musique",
+          "published_at": "2026-07-25T01:00:00+00:00",
+          "summary": "Future's The Real Me lands the rapper his 12th leader.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6bc0116e8bfb",
+          "title": "Drake Seemingly Disses LeBron James With Shirt at Nocta Manor Retreat: ‘The Only LeBron I Rate Is Juan’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/drake-nocta-manor-retreat-only-lebron-juan-1236302669/",
+          "category": "ia",
+          "published_at": "2026-07-25T00:07:15+00:00",
+          "summary": "The Toronto rapper also posted a caption on Instagram in which he claims he's been proving himself right these last two years.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-24",
       "articles": [
+        {
+          "id": "4f1fc02986ce",
+          "title": "Watch Charli xcx’s Full Theatrical Film That Accompanies Her New ‘Music, Fashion, Film’ Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/charli-xcx-music-fashion-film-full-movie-1236302663/",
+          "category": "musique",
+          "published_at": "2026-07-24T22:41:09+00:00",
+          "summary": "The pop star gives fans a deeper look into her creative process &#38; inspiration.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "128bf3fdeef2",
+          "title": "Watch Niall Horan Surprise ‘Off Campus’ Star Ella Bright by Turning Her Cover Song Into a Duet",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/niall-horan-off-campus-ella-bright-duet-1236302656/",
+          "category": "ia",
+          "published_at": "2026-07-24T22:10:47+00:00",
+          "summary": "\"Oh my god, this is so wild,\" the shocked actress exclaimed.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0a471c81568",
+          "title": "Cypress Hill Embrace Latin Roots on First All-Spanish Album ‘Dios Bendiga’: ‘It’s a Prayer for the Culture’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/cypress-hill-dios-bendiga-latin-rap-spanish-album-interview-1236302580/",
+          "category": "musique",
+          "published_at": "2026-07-24T21:57:27+00:00",
+          "summary": "The legendary hip-hop group talk about making the LP, feat. Trueno, Alemán and more, and why now was the right time to do it.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "186e70679730",
+          "title": "Bonne nouvelle : George R. R. Martin planche sur un roman. Mauvaise nouvelle : ce n’est pas The Winds of Winter",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2301623-bonne-nouvelle-george-r-r-martin-planche-sur-un-roman-mauvaise-nouvelle-ce-nest-pas-the-winds-of-winter.html",
+          "category": "ia",
+          "published_at": "2026-07-24T18:01:00+00:00",
+          "summary": "S’il ne faut pas compter sur George R. R. Martin pour boucler The Winds of Winter, l’auteur américain n’a pas complètement abandonné l'écriture. Il planche sur la suite des aventures de Dunk et Egg. Mais au rythme où vont ses écrits et les saisons de l’adaptation télévisée de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ae50a1ed510",
+          "title": "[MàJ] Le nouveau magnat des médias en faillite ne supporte pas ceux qui n’utilisent pas l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/244622/le-nouveau-magnat-des-medias-en-faillite-ne-supporte-pas-ceux-qui-nutilisent-pas-lia/",
+          "category": "ia",
+          "published_at": "2026-07-24T16:48:51+00:00",
+          "summary": "S&#8217;inspirant de la façon qu’avaient eu Bernard Tapie, Vincent Bolloré et Bernard Arnault de bâtir leurs empires financiers, un entrepreneur et influenceur français rachète des entreprises « en redressement judiciaire, sans reprendre la moindre dette ». Ses cibles : des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e0771947d3d",
+          "title": "Le top 10 des séries les plus regardées au premier semetre 2026, votre série favorite est t-elle dedans ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2300327-audiences-netflix-le-top-10-des-series-les-plus-regardees-en-2026-est-surprenant.html",
+          "category": "ia",
+          "published_at": "2026-07-24T15:45:00+00:00",
+          "summary": "Chaque semestre sur Netflix, les chiffres d'audience mondiaux remettent les pendules à l'heure. Alors que la première moitié de l'année 2026 vient de s'achever, les abonnés ont comptabilisé pas moins de 97 milliards d'heures de visionnage à travers le globe. Découvrez le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19c9fadb0417",
+          "title": "Qu’est-ce que FR-Alert et comment ça marche ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/1287016-comprendre-messages-alerte-fr-alerte.html",
+          "category": "ia",
+          "published_at": "2026-07-24T15:42:37+00:00",
+          "summary": "FR-Alert est un dispositif d'alerte à la population pour l'avertir d'un danger, via une notification sur le téléphone. Actif en France depuis juin 2022, il indique l'attitude à avoir selon le lieu et la nature du péril. Et alors que les incendies ravagent le pays, notamment en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a72c773d8d4c",
+          "title": "Le programme de Wikimédia France pour une « ère du Web des Communs »",
+          "source": "Next INpact",
+          "url": "https://next.ink/248836/le-programme-de-wikimedia-france-pour-une-ere-du-web-des-communs/",
+          "category": "ia",
+          "published_at": "2026-07-24T15:40:00+00:00",
+          "summary": "À l&#8217;occasion des 25 ans de Wikipédia, qui rassemblaient 1 200 personnes à Paris, Wikimédia France dresse 6 « priorités » déclinées en 28 « recommandations concrètes », qualifiées de « véritable feuille de route politique et législative pour bâtir un écosystème numérique…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5d1b26648ca",
+          "title": "As GEMA awaits its Suno copyright verdict, the German collecting society launches ‘PLAI’ – a fully licensed  dataset for training AI music tools",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/as-gema-awaits-its-suno-copyright-verdict-the-german-collecting-society-launches-plai-a-fully-licensed-dataset-for-training-ai-music-tools/",
+          "category": "musique",
+          "published_at": "2026-07-24T15:38:16+00:00",
+          "summary": "AI music transcription company Klangio is the dataset's first customer.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e79cb88e0b72",
+          "title": "From 90,000 AI tracks hitting Deezer daily to Suno’s user data breach… it’s MBW’s Weekly Round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-90000-ai-tracks-hitting-deezer-daily-to-sunos-55m-user-data-breach-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-07-24T15:30:35+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d98559d5b86",
+          "title": "Meta vend une IA optimiste sur fond de fin du monde",
+          "source": "Next INpact",
+          "url": "https://next.ink/248916/meta-vend-une-ia-optimiste-sur-fond-de-fin-du-monde/",
+          "category": "ia",
+          "published_at": "2026-07-24T15:21:07+00:00",
+          "summary": "Vous allez voir que l&#8217;IA rapprochera les humains et profitera à tous, affirme Meta dans sa dernière campagne de pub. Ce discours optimiste se heurte à une réalité qui a la tête dure. Les craintes, voire la haine, que suscitent l&#8217;IA générative chez certains sont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "666c8b9d3df8",
+          "title": "Après plusieurs années d’absence, Johnny Depp revient au ciné dans Scrooge",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2301315-scrooge-cest-quoi-ce-film-qui-signe-le-retour-de-johnny-depp-au-cinema.html",
+          "category": "ia",
+          "published_at": "2026-07-24T15:13:00+00:00",
+          "summary": "L'éviction des plateaux américains est officiellement de l'histoire ancienne. Quatre ans après le marathon judiciaire ultra-médiatisé qui l'a tenu à l'écart des grands studios, Johnny Depp signe son grand retour aux affaires par la porte principale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "69908d698991",
+          "title": "Lunettes éclipse solaire 2026 : où acheter des modèles aux normes avant le 12 août ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2237131-eclipse-solaire-2026-ou-trouver-des-lunettes-vraiment-aux-normes-pour-le-12-aout.html",
+          "category": "justice",
+          "published_at": "2026-07-24T14:59:37+00:00",
+          "summary": "E-commerçants, pharmacie, opticien, boutique d’astronomie ou distribution gratuite : plusieurs solutions existent pour acheter des lunettes avant l’éclipse solaire du 12 août 2026. Voici les modèles dont nous avons vérifié les documents de conformité, leur prix et les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5e1e15f98f9",
+          "title": "Providence set to fully acquire Casey Wasserman’s THE•TEAM, valuing agency at $3.4B (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/providence-set-to-fully-acquire-casey-wassermans-theteam-valuing-agency-at-3-4b-report/",
+          "category": "ia",
+          "published_at": "2026-07-24T14:57:38+00:00",
+          "summary": "The private-equity firm already owns around 60% of the business and is set to buy out founder Casey Wasserman's remaining stake.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "223fd067a3ea",
+          "title": "Les États-Unis envisagent d’encadrer les poignées de porte électriques après des incidents mortels dans des Tesla",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2301307-les-etats-unis-envisagent-dencadrer-les-poignees-de-porte-electriques-apres-des-incidents-mortels-dans-des-tesla.html",
+          "category": "ia",
+          "published_at": "2026-07-24T14:57:31+00:00",
+          "summary": "Les États-Unis vont-ils serrer la vis sur les poignées de portes à déverrouillage électrique ? La NHTSA va réfléchir à un potentiel cadre sur ce type d'ouverture qui pourrait montrer des lacunes en cas d'urgence.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76b50bbbf36b",
+          "title": "StubHub CEO faces questions from House Democrats over his stake in a hedge fund reselling tickets on his own marketplace",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/stubhub-ceo-faces-questions-from-house-democrats-over-his-stake-in-a-hedge-fund-reselling-tickets-on-his-own-marketplace/",
+          "category": "ia",
+          "published_at": "2026-07-24T14:17:19+00:00",
+          "summary": "Robert Garcia, the oversight committee's Ranking Member, issued a letter to StubHub CEO Eric Baker on Friday (July 24).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd0c8f85b40d",
+          "title": "La NASA n’a aucun plan de sauvetage clair en cas d’accident avec ses astronautes sur la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2301287-la-nasa-na-aucun-plan-de-sauvetage-clair-en-cas-daccident-avec-ses-astronautes-sur-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-07-24T14:07:47+00:00",
+          "summary": "Dans sa course effrénée pour devancer la Chine au pôle Sud de la Lune, la NASA a omis un détail crucial : aucun plan de secours n'est prévu si un atterrisseur bascule ou tombe en panne. Une enquête de Forbes, appuyée par un rapport d'inspection interne, tire la sonnette d'alarme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57d468e087d2",
+          "title": "☕️ Un badge sur Facebook pour distinguer les vrais humains des faux profils",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/un-badge-sur-facebook-pour-distinguer-les-vrais-humains-des-faux-profils/",
+          "category": "ia",
+          "published_at": "2026-07-24T13:50:25+00:00",
+          "summary": "Sur internet, personne ne sait que vous êtes une IA… sauf avec un badge « vérifié ». Meta vient de lancer un nouveau programme Facebook Verified pour aider les humains du réseau social (mais en reste-t-il ?) à communiquer avec d&#8217;autres humains. Il s&#8217;agit d&#8217;un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba850a946704",
+          "title": "Move Concerts CEO Phil Rodriguez: ‘I’m bullish about our business. Music and sports are the last tribal experiences.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/move-concerts-ceo-phil-rodriguez-im-bullish-about-our-business-music-and-sports-are-the-last-tribal-experience/",
+          "category": "musique",
+          "published_at": "2026-07-24T13:46:36+00:00",
+          "summary": "MBW's World Leaders series meets Phil Rodriguez, founder and CEO of Latin America-focused Move Concerts\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5a13fbeaceb",
+          "title": "Microsoft se débarrasse des SMS et de la voix dans Entra, place aux clés d’accès",
+          "source": "Next INpact",
+          "url": "https://next.ink/248833/microsoft-se-debarrasse-des-sms-et-de-la-voix-dans-entra-place-aux-cles-dacces/",
+          "category": "ia",
+          "published_at": "2026-07-24T13:27:59+00:00",
+          "summary": "Cette fois, c’est décidé&#160;: les SMS et la voix ne seront bientôt plus autorisés dans Entra comme facteur d&#8217;authentification. Microsoft évoque l’IA comme accélérateur de cette décision, l&#8217;entreprise renvoyant évidemment vers les clés d&#8217;accès (passkeys).…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e45355f0c861",
+          "title": "☕️ Pour Bruxelles, TikTok ne protège pas assez les comptes des mineurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/pour-bruxelles-tiktok-ne-protege-pas-assez-les-comptes-des-mineurs/",
+          "category": "ia",
+          "published_at": "2026-07-24T12:57:31+00:00",
+          "summary": "Nouvelle étape dans l&#8217;enquête au long cours sur TikTok que mène la Commission européenne depuis février 2024. Sans vraiment de surprise, les conclusions préliminaires publiées aujourd&#8217;hui par Bruxelles indiquent que le réseau social ne protège pas suffisamment les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8dc84d6486e",
+          "title": "Qobuz redesigns its audio player and adds real-time lyrics",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/qobuz-redesigns-its-audio-player-and-adds-real-time-lyrics/",
+          "category": "musique",
+          "published_at": "2026-07-24T12:30:00+00:00",
+          "summary": "Music-streaming service Qobuz recently announced that it had 1.2 million monthly active users, with its revenues having grown by 45.7% in 2025. Now it has rolled out a redesign and some new features.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c21d03b327f",
+          "title": "Etsy on board for Olivia Rodrigo’s Daisy Chain Fields festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/etsy-on-board-for-olivia-rodrigos-daisy-chain-fields-festival/",
+          "category": "ia",
+          "published_at": "2026-07-24T12:30:00+00:00",
+          "summary": "It’s just over a month until Daisy Chain Fields, the California festival devised by Olivia Rodrigo with an all-women lineup that she announced in June.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "382f90cd7ede",
+          "title": "TikTok launches in-app hubs for new Tyla and Charli XCX albums",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/tiktok-launches-in-app-hubs-for-new-tyla-and-charli-xcx-albums/",
+          "category": "musique",
+          "published_at": "2026-07-24T12:30:00+00:00",
+          "summary": "TikTok wants to be involved with as many major-album rollouts as possible in 2026. Today it’s launching two more in-app activations focusing on the new albums from Tyla and Charli XCX.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f963df87cb06",
+          "title": "Google fined €890m by European Commission over DMA violations",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/24/google-fined-e890m-by-european-commission-over-dma-violations/",
+          "category": "ia",
+          "published_at": "2026-07-24T12:30:00+00:00",
+          "summary": "Another day, another Big Tech giant being slapped on the wrist by European regulators. It’s Google’s turn, again, to be on the naughty step – to the tune of €890m (a cool $1.01bn at current exchange rates).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c77f4cd99feb",
+          "title": "Live Nation launches Roblox game that lets players build their own festivals, with CORTIS as the first featured artist",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-launches-roblox-game-that-lets-players-build-their-own-festivals-with-cortis-as-the-first-featured-artist/",
+          "category": "musique",
+          "published_at": "2026-07-24T12:05:13+00:00",
+          "summary": "The game has already drawn more than 3.5m visits and generated more than 23m in-game performances.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6758e3b3213d",
+          "title": "Google a-t-il assené un coup fatal au Web ouvert ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/248706/google-a-t-il-assene-un-coup-fatal-au-web-ouvert/",
+          "category": "ia",
+          "published_at": "2026-07-24T11:19:28+00:00",
+          "summary": "Alors que les médias français s s&#8217;inquiètent des conséquence du lancement récent des Aperçus IA sur leur audience, plusieurs grands éditeurs états-uniens envisagent très sérieusement de couper les ponts avec Google, ce qui signerait symboliquement la fin du Web ouvert tel…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "dc7bf0ab5067",
           "title": "La saga d’animation Avatar signe son grand retour !",
@@ -122,6 +497,16 @@
           "category": "musique",
           "published_at": "2026-07-24T08:09:57+00:00",
           "summary": "Google and YouTube executive to join the UK collection society on October 12\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0709835ea928",
+          "title": "Andy Burnham, the UK’s new Prime Minister, cuts business rates by 20% for live music venues, pubs and clubs in England",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/andy-burnham-the-uks-new-prime-minister-cuts-business-rates-by-20-for-live-music-venues-pubs-and-clubs-in-england/",
+          "category": "musique",
+          "published_at": "2026-07-24T08:03:18+00:00",
+          "summary": "The cut will apply to nearly 32,000 businesses, with the typical pub estimated to save £1,100 (around USD $1,475) in the next financial year.\nSource",
           "summary_type": "extrait source"
         },
         {
