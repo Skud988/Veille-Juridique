@@ -1,9 +1,314 @@
 {
-  "generated_at": "2026-07-26T10:12:54.994836+00:00",
+  "generated_at": "2026-07-27T11:38:46.318760+00:00",
   "days": [
+    {
+      "date": "2026-07-27",
+      "articles": [
+        {
+          "id": "07eaa3d65fb0",
+          "title": "Indonesia scraps song and music copyright registration fee to build a national music database",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indonesia-scraps-its-song-and-music-copyright-registration-fee-to-build-a-national-music-database/",
+          "category": "musique",
+          "published_at": "2026-07-27T11:33:02+00:00",
+          "summary": "The change applies only to songs and music, while registration fees for other categories of creative work are unchanged.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9fb8ff1dee7",
+          "title": "Luminate study explores Americans’ interest in GenAI content",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/27/luminate-study-explores-americans-interest-in-genai-content/",
+          "category": "ia",
+          "published_at": "2026-07-27T11:30:00+00:00",
+          "summary": "We’ve seen plenty of surveys exploring how the music industry and musicians feel about AI-generated music, but it’s vital to keep an eye on what actual listeners think too.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ba374a38e31",
+          "title": "Qobuz rolls out real-time synced lyrics to all subscribers",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/qobuz-rolls-out-real-time-synced-lyrics-to-all-subscribers/",
+          "category": "musique",
+          "published_at": "2026-07-27T11:29:30+00:00",
+          "summary": "Qobuz's redesigned player carries visuals that shift with a track's album artwork and keeps a mini-player on screen while users navigate the app.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08d62e490f84",
+          "title": "Incendies en Gironde : la SNCF prolonge les échanges et remboursements gratuits des billets de train",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2302281-incendies-en-gironde-la-sncf-prolonge-les-echanges-et-remboursements-gratuits-des-billets-de-train.html",
+          "category": "ia",
+          "published_at": "2026-07-27T11:05:00+00:00",
+          "summary": "Face aux feux de forêt d'ampleur exceptionnelle en Gironde et dans les Landes, le gouvernement et SNCF Voyageurs demandent aux voyageurs de reporter leurs trajets. Les échanges et remboursements sans frais sont prolongés jusqu'au vendredi 31 juillet 2026 inclus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "870906dbde34",
+          "title": "RecordPy propose une carte mise à jour toutes les 10 minutes pour suivre les incendies en Gironde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2302189-incendies-en-gironde-recordpy-propose-une-carte-mise-a-jour-toutes-les-10-minutes-pour-suivre-les-feux.html",
+          "category": "ia",
+          "published_at": "2026-07-27T10:50:00+00:00",
+          "summary": "La situation en Gironde et dans les Landes peut rapidement évoluer. Pour suivre en temps réel les incendies qui parcourent la zone, le site RecordPy vient d'ajouter une carte mise à jour toutes les 10 minutes. Cet outil permet de voir en direct les foyers du feu, mais aussi la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dc2588cce13",
+          "title": "Shakira & Burna Boy’s 2026 FIFA World Cup Anthem ‘Dai Dai’ Could Block ‘Rein Me In’ From Breaking All-Time U.K. Chart Record",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/shakira-burna-boy-dai-dai-block-uk-number-one-rein-me-in-1236303171/",
+          "category": "ia",
+          "published_at": "2026-07-27T10:39:00+00:00",
+          "summary": "'Dai Dai' has surged up the chart since it was performed in the tournament final’s half-time show.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfe3a38a7ad1",
+          "title": "La saison la plus violente de la série ? Reacher Saison 4 dévoile son trailer !",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2302141-la-saison-la-plus-violente-de-la-serie-reacher-saison-4-devoile-son-trailer.html",
+          "category": "ia",
+          "published_at": "2026-07-27T10:30:00+00:00",
+          "summary": "Du sang sur la vitre du métro, une exécution sur fond de secrets d’État et un Jack Reacher plus traqué que jamais. Révélée à la Comic-Con de San Diego, la première bande-annonce de la saison 4 promet un virage radical, finie la campagne profonde, le colosse débarque à New York…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "986dd74425f0",
+          "title": "☕️ Réparations : Apple lance son AppleCare One en France le 4 août",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/reparations-apple-lance-son-applecare-one-en-france-le-4-aout/",
+          "category": "ia",
+          "published_at": "2026-07-27T10:18:30+00:00",
+          "summary": "Pour les personnes intéressées par une couverture supplémentaire des équipements neufs chez Apple, il fallait jusqu’à présent souscrire un contrat AppleCare distinct pour chaque appareil acheté chez Apple. AppleCare One permet d&#8217;ajouter jusqu&#8217;à trois appareils sous…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ca26e2527b8",
+          "title": "3,1 fois moins d’accidents : les taxis autonomes de Waymo conduisent mieux que vous",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2301993-31-fois-moins-daccidents-les-taxis-autonomes-de-waymo-conduisent-mieux-que-vous.html",
+          "category": "ia",
+          "published_at": "2026-07-27T10:05:00+00:00",
+          "summary": "Selon l'institut américain des assurances pour la sécurité routière, les taxis autonomes de Waymo ont eu 68 % d'accidents en moins que des conducteurs humains. Une étude rassurante pour les autorités.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94ad454b9675",
+          "title": "Ce pack de 4 balises Bluetooth Android est moins cher qu’un seul SmartTag de Samsung",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2302169-ce-pack-de-4-balises-bluetooth-android-est-moins-cher-quun-seul-smarttag-de-samsung.html",
+          "category": "ia",
+          "published_at": "2026-07-27T09:53:11+00:00",
+          "summary": "[Deal du jour] Le Ugreen FineTrack G Tag est un traceur Bluetooth certifié Google Find Hub, parfait pour toujours retrouver ses affaires égarées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1180d250c0f",
+          "title": "L’industrie de l’IA plaide pour les modèles ouverts, la liste des signataires s’allonge",
+          "source": "Next INpact",
+          "url": "https://next.ink/248966/lindustrie-de-lia-plaide-pour-les-modeles-ouverts-la-liste-des-signataires-sallonge/",
+          "category": "ia",
+          "published_at": "2026-07-27T09:42:00+00:00",
+          "summary": "La pression monte autour de Kimi K3, le modèle IA chinois de Moonshot AI dont les poids doivent être publiés ce 27 juillet. L&#8217;ouverture du LLM est aux antipodes des modèles fermés et propriétaires des champions américains du secteur – et que Washington veut protéger à tout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d8cf2f34d20",
+          "title": "Les dates des prochains films Marvel sont là, jusqu’en 2028",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2301983-le-calendrier-complet-des-films-marvel-a-venir-ca-sannonce-charge-entre-avengers-et-black-panther-3.html",
+          "category": "ia",
+          "published_at": "2026-07-27T09:40:00+00:00",
+          "summary": "Présent en force au Comic-Con de San Diego, Marvel Studios a sorti l'artillerie lourde pour prouver que la maison en avait encore sous le pied. Entre le show survolté de Ryan Gosling venu officialiser son rôle de Ghost Rider, le retour des cadres historiques et une feuille de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db64a164d348",
+          "title": "Mégafeux : la NASA et l’ESA ont frôlé la catastrophe pour leurs communications dans l’espace profond",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2302031-megafeux-la-nasa-et-lesa-ont-frole-la-catastrophe-pour-leurs-communications-dans-lespace-profond.html",
+          "category": "ia",
+          "published_at": "2026-07-27T09:21:00+00:00",
+          "summary": "En Espagne, un violent incendie a menacé deux stations spatiales majeures, indispensables aux échanges avec le télescope James Webb, les rovers martiens ou les sondes Voyager. L'incident met en lumière la vulnérabilité des infrastructures spatiales face au dérèglement climatique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb5ce362a6f0",
+          "title": "« Nous n’avons pas de temps à perdre », le patron de Volkswagen appelle l’UE à taxer les hybrides rechargeables chinois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2302055-nous-navons-pas-de-temps-a-perdre-le-patron-de-volkswagen-appelle-lue-a-taxer-les-hybrides-rechargeables-chinois.html",
+          "category": "ia",
+          "published_at": "2026-07-27T09:05:00+00:00",
+          "summary": "Face à la croissance rapide des ventes de véhicules hybrides rechargeables chinois, le patron de Volkswagen invite l’Europe à statuer dans les prochains mois sur une éventuelle surtaxe douanière équivalente à celle appliquée sur les voitures électriques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e49a77c0ffbc",
+          "title": "King Gizzard Announce Australian Tour, a Rave Set, and a Block Party They Curated",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/king-gizzard-lizard-wizard-australia-2026-tour-1236303154/",
+          "category": "ia",
+          "published_at": "2026-07-27T09:01:24+00:00",
+          "summary": "The tour includes a two-day, band-curated Croxton Block Party in Melbourne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e599157f454",
+          "title": "Panique autour des conversations Claude indexées sur Google : ce qu’on a vraiment trouvé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2302001-panique-autour-des-conversations-claude-indexees-sur-google-ce-quon-a-vraiment-trouve.html",
+          "category": "ia",
+          "published_at": "2026-07-27T08:48:19+00:00",
+          "summary": "Un fil Reddit a mis le feu aux réseaux ce week-end : des liens de conversations partagées via Claude, l'assistant d'Anthropic, seraient apparus dans les résultats Google. Nous avons testé de notre côté, avec des résultats plus nuancés que ce que racontent certains posts viraux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d666e3d99608",
+          "title": "Incendies en Gironde : les images satellites révèlent des nuages de fumée « quasi-inédits en France »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2301995-incendies-en-gironde-les-images-satellites-revelent-des-nuages-de-fumee-quasi-inedits-en-france.html",
+          "category": "ia",
+          "published_at": "2026-07-27T08:42:12+00:00",
+          "summary": "Les incendies qui parcourent la Gironde et les Landes ont forcé à l'évacuation de milliers de Français. Vus du ciel, ces gigantesques feux sont extrêmement impressionnants. Les images satellites permettent de prendre la mesure de la dégradation du territoire et de la qualité de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c28feeb55ed",
+          "title": "Le projet Debian s’interroge sur son possible usage des LLM",
+          "source": "Next INpact",
+          "url": "https://next.ink/249039/le-projet-debian-sinterroge-sur-son-possible-usage-des-llm/",
+          "category": "ia",
+          "published_at": "2026-07-27T08:37:40+00:00",
+          "summary": "Une discussion a été ouverte au sein du projet sur la manière dont il faut considérer les participations au code quand elles sont soutenues par les LLM. Ce n’est pas la première fois que la communauté essaie de statuer sur l’IA générative. Debian a ouvert une résolution générale…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "688c84d6d480",
+          "title": "On va avoir un jeu Resident Evil par an, mais il y a un mais",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2301991-capcom-veut-sortir-un-jeu-resident-evil-par-an-et-mise-surtout-sur-des-remakes.html",
+          "category": "ia",
+          "published_at": "2026-07-27T08:32:16+00:00",
+          "summary": "Capcom a un plan pour se faire des sous et produire plus de bons jeux : sortir un jeu Resident Evil par an. Un planning qui ne fonctionne qu'à condition de passer par la case remakes d'anciens épisodes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51f2618ccc56",
+          "title": "Varta, célèbre fabricant de piles, dépose le bilan après avoir perdu son contrat avec Apple",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2301971-varta-celebre-fabricant-de-piles-depose-le-bilan-apres-avoir-perdu-son-contrat-avec-apple.html",
+          "category": "ia",
+          "published_at": "2026-07-27T08:09:37+00:00",
+          "summary": "Lâché par Apple au printemps 2026, Varta, le constructeur allemand de piles, ne fabriquera plus les batteries rechargeables des AirPods. Apple a confié cette production à des sous-traitants asiatiques et condamne au passage un acteur historique de l'électronique européen.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16bd6b057ef1",
+          "title": "Starship : attendue depuis des lustres, la tentative inédite de la fusée géante est imminente",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2301967-starship-attendue-depuis-des-lustres-la-tentative-inedite-de-la-fusee-geante-est-imminente.html",
+          "category": "ia",
+          "published_at": "2026-07-27T07:47:19+00:00",
+          "summary": "Sauf imprévu lors de l'analyse des données du vol 13, SpaceX va tenter une manœuvre inédite lors du prochain essai du Starship : rattraper l'étage supérieur de la fusée avec les bras mécaniques de la tour Mechazilla. Une première historique qui se fait attendre depuis près de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac136f398608",
+          "title": "☕️ Chrome est disponible sur les plateformes Arm64 Linux",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/chrome-est-disponible-sur-les-plateformes-arm64-linux/",
+          "category": "ia",
+          "published_at": "2026-07-27T07:16:52+00:00",
+          "summary": "L’information peut étonner&#160;: Chromium n’est-il pas déjà présent sur les systèmes Linux et l’architecture Arm64&#160;? Si, mais Chrome ne l’était pas. En mars, Google avait promis que son navigateur serait porté vers cette architecture durant le deuxième trimestre. La…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1c48a900b63",
+          "title": "☕️ Claude Opus 5 veut faire presque aussi bien que Fable, pour moitié moins cher",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/claude-opus-5-veut-faire-presque-aussi-bien-que-fable-pour-moitie-moins-cher/",
+          "category": "ia",
+          "published_at": "2026-07-27T06:32:00+00:00",
+          "summary": "Le temps où les modèles Opus étaient les plus puissants du catalogue d&#8217;Anthropic est terminé. Ce rôle est désormais dévolu à Fable et Mythos, mais le labo IA n&#8217;en a pas moins oublié son ancienne famille haut de gamme. Le lancement d&#8217;Opus 5 semble…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5d29f28b024",
+          "title": "Diplo, Logan Paul Honor Oliver Tree at Santa Cruz ‘Celebration of Life’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/oliver-tree-celebration-of-life-memorial-1236303152/",
+          "category": "musique",
+          "published_at": "2026-07-27T06:11:49+00:00",
+          "summary": "The memorial service was held six weeks after the singer died in a helicopter crash in Rio de Janeiro at 32.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f183eb7a76c0",
+          "title": "Le rachat de Warner par Paramount repoussé à 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/248969/le-rachat-de-warner-par-paramount-repousse-a-2027/",
+          "category": "institutionnel",
+          "published_at": "2026-07-27T05:46:00+00:00",
+          "summary": "On pensait que l&#8217;affaire était dans le sac pour Paramount Skydance, après le feu vert des autorités américaines de la concurrence, suivi par l&#8217;aval de la Commission européenne la semaine dernière. Et bien non : l&#8217;opération d&#8217;acquisition du groupe Warner…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "542c37fcc255",
+          "title": "System of a Down and Faith No More Announce First Australian and New Zealand Tour in Over a Decade",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/system-of-a-down-faith-no-more-announce-australian-new-zealand-tour-1236303129/",
+          "category": "ia",
+          "published_at": "2026-07-27T03:16:01+00:00",
+          "summary": "The shows mark System of a Down's first Australian dates since 2012.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f2425cfedd6",
+          "title": "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jennie-less-than-a-lover-best-new-music-poll-results-1236303114/",
+          "category": "musique",
+          "published_at": "2026-07-27T00:46:22+00:00",
+          "summary": "The BLACKPINK member's new solo single brought in more than 62% of the vote this week.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-26",
       "articles": [
+        {
+          "id": "2526640eef08",
+          "title": "Charli xcx Releases ‘Music, Fashion, Film (B-Sides Edition)’ on iTunes",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/charli-xcx-music-fashion-film-b-sides-album-1236303107/",
+          "category": "musique",
+          "published_at": "2026-07-26T21:28:48+00:00",
+          "summary": "Three bonus tracks previously posted on her Instagram alt-account are now available to download in a $4.99 digital album bundle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ec6301c7864",
+          "title": "Usher Stops Steamy Onstage Encounter After Fan Appears Uncomfortable at Nashville Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/usher-stops-onstage-fan-interaction-uncomfortable-nashville-1236303086/",
+          "category": "ia",
+          "published_at": "2026-07-26T19:21:15+00:00",
+          "summary": "“I don’t think she want to be on the stage,” the R&#38;B superstar said after noticing her reaction.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f226908f8b4",
+          "title": "Gracie Abrams Earns First No. 1 Album on Billboard 200 With ‘Daughter From Hell’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/gracie-abrams-daughter-from-hell-number-one-billboard-200-1236303074/",
+          "category": "musique",
+          "published_at": "2026-07-26T19:00:10+00:00",
+          "summary": "Plus, BTS’ ARIRANG surges back into the top 10 after new vinyl release.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "082838562836",
           "title": "Kacey Musgraves Cancels Three ‘Middle of Nowhere’ Tour Dates",
