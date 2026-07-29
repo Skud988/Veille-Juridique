@@ -1,9 +1,434 @@
 {
-  "generated_at": "2026-07-28T10:44:56.090523+00:00",
+  "generated_at": "2026-07-29T10:48:23.163756+00:00",
   "days": [
+    {
+      "date": "2026-07-29",
+      "articles": [
+        {
+          "id": "cdc33873b1b8",
+          "title": "Jumanji Open World : la première bande-annonce inverse totalement le concept du film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303459-jumanj-open-world-la-premiere-bande-annonce-inverse-totalement-le-concept-du-film.html",
+          "category": "ia",
+          "published_at": "2026-07-29T10:25:00+00:00",
+          "summary": "Poule aux œufs d'or inattendue pour Sony, la saga Jumanji version The Rock se prépare à tirer sa révérence. La première bande-annonce de Jumanji: Open World vient de tomber. Le quatuor d'avatars rempile une ultime fois pour un chaos à ciel ouvert, tout en évitant soigneusement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e7d1b600eb1",
+          "title": "23 % des téléphones portables analysés par l’ANFR en 2025 n’étaient pas conformes",
+          "source": "Next INpact",
+          "url": "https://next.ink/249427/23-des-telephones-portables-analyses-par-lanfr-en-2025-netaient-pas-conformes/",
+          "category": "ia",
+          "published_at": "2026-07-29T10:21:53+00:00",
+          "summary": "Comme chaque année, l’Agence nationale des fréquences publie son bilan de surveillance des terminaux mobiles, portant notamment sur les niveaux d’exposition aux ondes. En 2025, 12&#160;% des smartphones dépassaient les limites réglementaires. Au total, pas moins de 23 % des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b55f7f690aa7",
+          "title": "À la dérive depuis des jours, SpaceX lance le sauvetage du Starship",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2303429-a-la-derive-depuis-des-jours-spacex-lance-le-sauvetage-du-starship.html",
+          "category": "ia",
+          "published_at": "2026-07-29T09:58:28+00:00",
+          "summary": "Tombé intact dans l'océan Indien lors de son 13ᵉ vol d'essai, l'étage supérieur du Starship refuse de couler. Mais pourquoi SpaceX a-t-elle attendu près de quatre jours avant d'envoyer un navire de repêchage ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37edfc825d8c",
+          "title": "Netflix France : 13 films et séries à voir en août 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303345-netflix-france-13-films-et-series-a-voir-en-aout-2026.html",
+          "category": "ia",
+          "published_at": "2026-07-29T09:17:00+00:00",
+          "summary": "Comme à son habitude, Netflix dévoile son programme de films, séries et documentaires attendus pour les semaines à venir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad68c29ee7cd",
+          "title": "☕️ Face aux risques d’incendie, trois associations s’opposent à un projet de data center",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/face-aux-risques-dincendie-trois-associations-sopposent-a-un-projet-de-data-center/",
+          "category": "ia",
+          "published_at": "2026-07-29T09:11:08+00:00",
+          "summary": "Alors que la Gironde est aux prises avec un mégafeu et que la France entre dans son quatrième épisode caniculaire de l’été 2026, les associations Data for Good, Humanité et Nature et France Nature Environnement Bouches-du-Rhône déposent des recours contre l’autorisation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4fa4fc8bd590",
+          "title": "Dua Lipa Reveals Her Curated Lineup for 2026 London Literature Festival: ‘We’ll Be Joined by Icons’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/dua-lipa-london-literature-festival-lineup-2026-1236304256/",
+          "category": "musique",
+          "published_at": "2026-07-29T09:00:00+00:00",
+          "summary": "She will appear in conversation with punk-rock icon Patti Smith, poet and musician Mustafa and author Zadie Smith.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33df57749c70",
+          "title": "Claude Mythos Preview aurait trouvé deux failles cryptographiques inédites : ce que dit (vraiment) Anthropic",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2303363-claude-mythos-preview-aurait-trouve-deux-failles-cryptographiques-inedites-ce-que-dit-vraiment-anthropic.html",
+          "category": "ia",
+          "published_at": "2026-07-29T08:37:00+00:00",
+          "summary": "Anthropic affirme que son modèle de recherche Claude Mythos Preview a découvert deux faiblesses cryptographiques inédites, dans un schéma de signature post-quantique et dans une version affaiblie d'AES. Deux résultats théoriques, sans impact sur les systèmes en production.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "103060c4114b",
+          "title": "La Chine s’attaque au quasi-monopole d’ASML sur les machines de lithographie",
+          "source": "Next INpact",
+          "url": "https://next.ink/249366/la-chine-sattaque-au-quasi-monopole-dasml-sur-les-machines-de-lithographie/",
+          "category": "ia",
+          "published_at": "2026-07-29T08:10:00+00:00",
+          "summary": "Une entreprise chinoise aurait commencé à produire ses propres machines de lithographie DUV, un marché largement dominé par le groupe européen ASML. Un progrès important pour la Chine, qui cherche à réduire sa dépendance aux technologies occidentales. ASML est une des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f313e83314b",
+          "title": "Face aux incendies, Tesla rend 9 stations Superchargeurs gratuites en France et en Espagne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2303373-face-aux-incendies-tesla-rend-9-stations-superchargeurs-gratuites-en-france-et-en-espagne.html",
+          "category": "ia",
+          "published_at": "2026-07-29T08:05:00+00:00",
+          "summary": "Face aux violents feux qui sévissent en France et en Espagne, Tesla réactive la gratuité de ses Superchargeurs les plus proches des zones concernées pour faciliter l’évacuation. Un geste de soutien devenu une marque de fabrique pour le constructeur américain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85a0e95c3a12",
+          "title": "Spencer LeBoff appointed Head of Revenue at Matt Spetzler’s Pipeline",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spencer-leboff-appointed-head-of-revenue-at-matt-spetzlers-pipeline/",
+          "category": "musique",
+          "published_at": "2026-07-29T07:59:04+00:00",
+          "summary": "His appointment coincides with Pipeline's expansion into music publishing financing\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93b951cef29e",
+          "title": "Jenni Pfaff promoted to Chief People and Transformation Officer at HYBE in new global role",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jenni-pfaff-promoted-to-chief-people-and-transformation-officer-at-hybe-in-new-global-role/",
+          "category": "ia",
+          "published_at": "2026-07-29T07:55:45+00:00",
+          "summary": "She will report to HYBE CEO Jason Jaesang Lee and remain based in Los Angeles.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bcf77eeaa5f5",
+          "title": "Sauvetage du télescope Swift : le remorqueur spatial LINK est en train de partir en vrille",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2303349-sauvetage-du-telescope-swift-le-remorqueur-spatial-link-est-en-train-de-partir-en-vrille.html",
+          "category": "ia",
+          "published_at": "2026-07-29T07:52:28+00:00",
+          "summary": "Censé rehausser l'orbite du télescope spatial Swift de la NASA, le véhicule robotisé LINK rencontre d'importantes anomalies matérielles. Désormais en rotation incontrôlée et privé de deux roues de réaction, l'engin doit être stabilisé avant d'envisager la suite de la mission.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc0c4531a8f8",
+          "title": "☕️ GOG aura bien une version Linux de son launcher Galaxy",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/gog-aura-bien-une-version-linux-de-son-launcher-galaxy/",
+          "category": "ia",
+          "published_at": "2026-07-29T07:21:00+00:00",
+          "summary": "GOG (Good Old Games) dispose depuis une dizaine d&#8217;années d&#8217;un launcher pour Windows et macOS. Nommé Galaxy, il permet d&#8217;installer et gérer les jeux achetés sur la boutique. Et Linux ? GOG (devenue indépendante fin 2025) avait manifesté son intérêt pour la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c60a28c6b637",
+          "title": "PSN et Xbox hors service : le jeu dématérialisé pris au piège des serveurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/249397/psn-et-xbox-hors-service-le-jeu-dematerialise-pris-au-piege-des-serveurs/",
+          "category": "ia",
+          "published_at": "2026-07-29T06:42:00+00:00",
+          "summary": "À quelques heures d&#8217;intervalle, les services en ligne de PlayStation et de Xbox sont tombés dans les choux, laissant sur le carreau de nombreux joueurs désireux d&#8217;accéder à leurs jeux. Voilà qui n&#8217;annonce rien de bon pour l&#8217;avenir tout dématérialisé que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "691087806268",
+          "title": "Ce laptop gaming de 17″ avec RTX 5070 et Ryzen 7 est 500 € moins cher sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2303149-ce-laptop-gaming-de-17-avec-rtx-5070-et-ryzen-7-est-500-e-moins-cher-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-07-29T06:30:00+00:00",
+          "summary": "[Deal du jour] Si vous cherchez un laptop assez puissant pour jouer à vos jeux dans les meilleures conditions possibles, ce modèle d'Acer proposé en promotion devrait vous plaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef66aac68d37",
+          "title": "Sandfall Interactive donne des nouvelles de la version Switch 2 de Clair Obscur: Expedition 33",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303319-sandfall-interactive-donne-des-nouvelles-de-la-version-switch-2-de-clair-obscur-expedition-33.html",
+          "category": "ia",
+          "published_at": "2026-07-29T06:17:13+00:00",
+          "summary": "Sandfall Interactive a récemment fait savoir qu'une version Switch 2 de Clair Obscur: Expedition 33 représente un « gros défi technique ». Le studio français est intéressé, mais ne peut rien garantir à l'heure actuelle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6a875a24660",
+          "title": "☕️ Les appels audio et vidéo de WhatsApp maintenant dans le navigateur",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/les-appels-audio-et-video-de-whatsapp-maintenant-dans-le-navigateur/",
+          "category": "ia",
+          "published_at": "2026-07-29T05:53:19+00:00",
+          "summary": "WhatsApp ne se limite évidemment pas au texte : la messagerie de Meta permet de discuter de vive voix, avec ou sans sa tête à l&#8217;écran. Le service a justement amélioré les appels audio et vidéo dans sa dernière livrée de nouveautés. Plus besoin d&#8217;avoir à utiliser…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ba0b9fe86b4",
+          "title": "‘The Hardest Decision I’ve Ever Had to Make’: Megan Moroney Ends Denver Concert Early Due to Illness",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/megan-moroney-ends-denver-concert-early-illness-1236305001/",
+          "category": "musique",
+          "published_at": "2026-07-29T04:38:01+00:00",
+          "summary": "“Megan is unable to continue her performance this evening due to illness, and we must end the show at this time,\" a statement reads.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ffbbeb3a7f4",
+          "title": "Grace Under Fire: How Vetle Nærø Improvised When His Instruments Got Lost at the Airport",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/vetle-naero-improvised-musical-equipment-lost-at-airport-1236304136/",
+          "category": "musique",
+          "published_at": "2026-07-29T02:56:02+00:00",
+          "summary": "“The concert was going to be a more electronic set with my synthesizers, some gear. But they were lost at the airport,” the Norwegian artist tells Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ea51309376f",
+          "title": "Norway’s Fay Wildhagen Is Taking The Independent Route For Next Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/norway-fay-wildhagen-independent-route-for-next-album-1236304125/",
+          "category": "musique",
+          "published_at": "2026-07-29T02:49:06+00:00",
+          "summary": "“It just feels cool to try something new, and just go for it,” she says of her forthcoming independent album, which concludes a decade with Warner Music Norway.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ea9b5a1255f",
+          "title": "On Top Of The World: How a Group of Norwegian School Friends Created One of Europe’s Finest Boutique Festivals",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/norwegian-friends-behind-bergtatt-europe-finest-fest/",
+          "category": "ia",
+          "published_at": "2026-07-29T02:08:29+00:00",
+          "summary": "Presented in Luster, Western Norway, on an epic fjord, Bergtatt is one of Europe’s most specular and remote festivals, with a carefully-curated lineup. It's a big-hearted fest that does things differently.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "659417dfaf07",
+          "title": "Lollapalooza, Daisy Chain Fields & Ocean Way: 2026 Summer Festival Season Is Just Heating Up",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/lollapalooza-daisy-chain-ocean-way-festivals-pop-shop-podcast-1236302558/",
+          "category": "musique",
+          "published_at": "2026-07-29T00:35:13+00:00",
+          "summary": "On the new Billboard Pop Shop Podcast, we're talking about Lolla in Chicago this weekend and two brand-new festivals that lie ahead.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-28",
       "articles": [
+        {
+          "id": "91d80e46fc79",
+          "title": "Kristian Downs promoted to Executive Director, Platform Operations at Secretly Distribution",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/kristian-downs-promoted-to-executive-director-platform-operations-at-secretly-distribution/",
+          "category": "ia",
+          "published_at": "2026-07-28T20:22:34+00:00",
+          "summary": "Downs continue to oversee SD's Digital Operations team, while taking what the company called \"strategic ownership, governance, and long-term operational direction\" across its core platform infrastructure.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13af53a2fdf0",
+          "title": "Disney+ : vous ne savez pas quelle série regarder en famille ? On vous aide",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2302513-disney-vous-ne-savez-pas-quelle-serie-regarder-en-famille-on-vous-aide.html",
+          "category": "ia",
+          "published_at": "2026-07-28T17:30:00+00:00",
+          "summary": "Trouver un programme capable de captiver un enfant de 7 ans sans lasser ses parents relève souvent du parcours du combattant. Pour éviter les productions trop enfantines ou mal écrites, voici une sélection rigoureuse de 7 séries disponibles sur Disney+ en France, parfaitement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78d4721e3f92",
+          "title": "Que sait-on d’Arcadia, cette IA qui doit remplacer Palantir dans les systèmes de l’armée ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/249346/que-sait-on-darcadia-cette-ia-qui-doit-remplacer-palantir-dans-les-systemes-de-larmee/",
+          "category": "ia",
+          "published_at": "2026-07-28T15:57:22+00:00",
+          "summary": "Il devait être testé lors de l’OTAN Coalition Warrior Interoperability Exercise mais n’a finalement pas été présenté. Que sait-on d’Arcadia, cette plateforme dopée à l’IA grâce à laquelle l’armée française compte se passer des services de Palantir, et aider ses alliés à faire de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dae0f7afd05d",
+          "title": "Spotify shares Atif Aslam stats ahead of new album’s release",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/spotify-shares-atif-aslam-stats-ahead-of-new-albums-release/",
+          "category": "musique",
+          "published_at": "2026-07-28T15:35:49+00:00",
+          "summary": "Atif Aslam is releasing his fourth solo album — and first in 19 years — Subah Aye Na this Friday and Spotify is marking the event with a release countdown [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59364a2677d6",
+          "title": "Dans un contexte juridique tendu, GrapheneOS défend sa protection des données",
+          "source": "Next INpact",
+          "url": "https://next.ink/249350/dans-un-contexte-juridique-tendu-grapheneos-defend-sa-protection-des-donnees/",
+          "category": "ia",
+          "published_at": "2026-07-28T15:07:25+00:00",
+          "summary": "Le 26 juillet, l’équipe de GrapheneOS s’est lancée tout à coup dans un exposé de nombreuses mesures de sécurité, avec une insistance particulière pour la gestion des mots de passe. Ce calendrier ne doit rien au hasard&#160;: pour la première fois aux États-Unis, le ministère de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f001fde4394b",
+          "title": "Behind The Single: The Second Voice – ‘Let Me Be’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/behind-the-single-the-second-voice-let-me-be/",
+          "category": "musique",
+          "published_at": "2026-07-28T14:00:00+00:00",
+          "summary": "Track: The Second Voice ‘Let Me Be’Released: 25 January 2026Label: Spinnin’ Records The Second Voice is an artist from Zambia who blends Afrohouse and Amapiano sounds. Inspired by artists like Marshmello, he stays anonymous by wearing a mask. &#8216;Let Me Be&#8217; is the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d0e8a3bca69",
+          "title": "HYBE winds down AI voice company Supertone after investing nearly $35M",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-winds-down-ai-voice-company-supertone-after-investing-nearly-35m/",
+          "category": "ia",
+          "published_at": "2026-07-28T13:50:53+00:00",
+          "summary": "HYBE is reportedly in talks to transfer Supertone's voice-conversion and noise-removal tools, Shift, Clear and Air, to an outside buyer.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c71436113a0",
+          "title": "US musicians’ union files amended lawsuit against Universal and Warner over Suno and Udio AI deals",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-musicians-union-files-amended-lawsuit-against-universal-and-warner-over-suno-and-udio-ai-deals/",
+          "category": "musique",
+          "published_at": "2026-07-28T13:31:57+00:00",
+          "summary": "The union alleges that Universal and Warner licensed recordings made by its members to the two AI companies \"without compensation or credit.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ab68dfadf0b",
+          "title": "[MàJ] Apple lance la location d’iPhone, d’iPad et de Mac",
+          "source": "Next INpact",
+          "url": "https://next.ink/249315/apple-lance-la-location-diphone-dipad-et-de-mac/",
+          "category": "ia",
+          "published_at": "2026-07-28T13:27:51+00:00",
+          "summary": "Les appareils d&#8217;Apple sont trop chers ? Il est vrai qu&#8217;avec la dernière augmentation en date, le portefeuille souffre encore plus que d&#8217;habitude. Néanmoins, le constructeur propose une alternative en lançant un programme de leasing, sobrement baptisé Apple…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dba99ba4d56d",
+          "title": "Ariana Grande sues unnamed hackers over theft of unreleased music sold on the dark web",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ariana-grande-sues-unnamed-hackers-over-theft-of-unreleased-music-sold-on-the-dark-web/",
+          "category": "ia",
+          "published_at": "2026-07-28T13:15:50+00:00",
+          "summary": "The complaint does not name any defendants, instead identifying them as \"John Doe\" parties.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "255c89807270",
+          "title": "BTS ‘Arirang’ tour drives Hybe to a new high for Q2 revenues",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/bts-arirang-tour-drives-hybe-to-a-new-high-for-q2-revenues/",
+          "category": "ia",
+          "published_at": "2026-07-28T12:30:00+00:00",
+          "summary": "K-Pop colossus Hybe has reported its latest financial results, breaking its record for Q2 revenues with KRW 1.45tn ($992.8m at current exchange rates) of turnover last quarter.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8dd47a0b7110",
+          "title": "Ariana Grande sues unknown hackers who stole and leaked her music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/ariana-grande-sues-unknown-hackers-who-stole-and-leaked-her-music/",
+          "category": "ia",
+          "published_at": "2026-07-28T12:30:00+00:00",
+          "summary": "Ariana Grande has had it up to here with hackers stealing and leaking her songs. She has filed a lawsuit in Los Angeles against a group of as-yet unidentified ‘John Does’.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e7bf84d3dda",
+          "title": "Google adds more features to its Flow Music Spaces AI tool",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/google-adds-more-features-to-its-flow-music-spaces-ai-tool/",
+          "category": "musique",
+          "published_at": "2026-07-28T12:30:00+00:00",
+          "summary": "We last wrote about Google’s Flow Music suite in May when it announced a partnership with Believe to make the AI tool available to the company’s artists.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ea6844afac4",
+          "title": "BMAC and Live Nation reveal third cohort of Live Accelerator",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/bmac-and-live-nation-reveal-third-cohort-of-live-accelerator/",
+          "category": "musique",
+          "published_at": "2026-07-28T12:30:00+00:00",
+          "summary": "The US-based Black Music Action Coalition has teamed up with Live Nation again for the third cohort of its BMAC Live Accelerator Program, adding 20 more participants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59a354094519",
+          "title": "Lil Tecca confirmed as latest headliner for Fortnite Festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/lil-tecca-confirmed-as-latest-headliner-for-fortnite-festival/",
+          "category": "musique",
+          "published_at": "2026-07-28T12:30:00+00:00",
+          "summary": "It’s just two and half years since Fortnite added its Festival music-game mode, yet here we are with the rhythm-minigame entering its 15th season. And as usual, there’s a real-world music star as its chosen ‘icon’.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6654e3efa3c",
+          "title": "US consumers are ‘more wary than willing’ to engage with AI in entertainment content, Luminate study finds",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-consumers-are-more-wary-than-willing-to-engage-with-ai-in-entertainment-content-luminate-study-finds/",
+          "category": "ia",
+          "published_at": "2026-07-28T12:22:55+00:00",
+          "summary": "Finding comes from AI &#038; Media: Audience Attitudes, a report from Luminate Intelligence \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6a97329faaf",
+          "title": "States cite new appeals-court ruling to defend Live Nation monopoly verdict – Live Nation says it backs throwing the verdict out",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/states-cite-new-appeals-court-ruling-to-defend-live-nation-monopoly-verdict-live-nation-says-it-backs-throwing-the-verdict-out/",
+          "category": "musique",
+          "published_at": "2026-07-28T12:11:07+00:00",
+          "summary": "Live Nation argued that a tying claim requires proof of harm to competition in the tied market, and that its rivals had not been shown to suffer such harm.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d279bf7539ef",
+          "title": "Qwant : les données de Google vont « réduire l’avantage d’une domination monopolistique »",
+          "source": "Next INpact",
+          "url": "https://next.ink/248438/qwant-les-donnees-de-google-vont-reduire-lavantage-dune-domination-monopolistique/",
+          "category": "institutionnel",
+          "published_at": "2026-07-28T11:37:00+00:00",
+          "summary": "Google va devoir partager ses données de recherche avec des moteurs concurrents en Europe. Un tremblement de terre pour le géant du web, qui devrait permettre l&#8217;émergence d&#8217;une concurrence plus affûtée. Next fait le point avec Boris Lecoeur, nouveau directeur général…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ef9f2dc97a2",
+          "title": "Social meets music (again) with Spotify and Snapchat moves",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/social-meets-music-again-with-spotify-and-snapchat-moves/",
+          "category": "musique",
+          "published_at": "2026-07-28T11:30:00+00:00",
+          "summary": "One day, two announcements from Spotify and Snapchat. Spotify is adding more ways to share music from its app to social-media platforms, including Snapchat, while the latter is turning its famous Snap Map into a music-discovery property, starting with Spotify.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff7b2d0d9069",
+          "title": "Too Lost is making its catalogue available for Roblox games",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/28/too-lost-is-making-its-catalogue-available-for-roblox-games/",
+          "category": "musique",
+          "published_at": "2026-07-28T11:30:00+00:00",
+          "summary": "Music distributor Too Lost has revealed a deal with Roblox that will make its catalogue available to games and experience creators on the platform to use.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "99eec75658df",
           "title": "Ces vidéos générées par IA de GTA 6 sont partout et font des millions de vues… mais personne ne les aime",
