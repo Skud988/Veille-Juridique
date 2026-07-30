@@ -1,9 +1,514 @@
 {
-  "generated_at": "2026-07-29T10:48:23.163756+00:00",
+  "generated_at": "2026-07-30T10:33:47.408037+00:00",
   "days": [
+    {
+      "date": "2026-07-30",
+      "articles": [
+        {
+          "id": "bc88addf33dd",
+          "title": "La saison 3 des Anneaux de pouvoir fera un saut dans le temps, sans trop s’embêter avec la chronologie de Tolkien",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303893-la-saison-3-des-anneaux-de-pouvoir-fera-un-saut-dans-le-temps-pour-accelerer-le-recit.html",
+          "category": "ia",
+          "published_at": "2026-07-30T10:31:00+00:00",
+          "summary": "Pour sa saison 3, la série Les Anneaux de Pouvoir s'accorde un saut dans le temps de cinq ans. Un choix des showrunners pour accélérer le récit, forger l'Anneau Unique et s'attaquer au cœur du légendaire de Tolkien, quitte à bousculer encore la chronologie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b0dc4d5adff",
+          "title": "RAYE, Olivia Dean & Paul McCartney Among 2026 Mercury Prize Nominees – See Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/mercury-prize-2026-nominees-shortlist-raye-mccartney-1236304222/",
+          "category": "musique",
+          "published_at": "2026-07-30T10:25:51+00:00",
+          "summary": "The annual music prize recognises outstanding albums by U.K. and Irish artists from the past year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7baafccbabdf",
+          "title": "Porno : l’Arcom lance sa plus vaste action, mais la vérification d’âge reste une blague",
+          "source": "Next INpact",
+          "url": "https://next.ink/249545/sites-pornos-larcom-lance-sa-plus-vaste-action-la-verification-dage-reste-une-blague/",
+          "category": "institutionnel",
+          "published_at": "2026-07-30T10:07:05+00:00",
+          "summary": "L’Arcom continue sa lutte contre les sites pornos qui n’ont pas mis en place une vérification d&#8217;âge afin de protéger les mineurs. Des procédures contre une nouvelle salve de 31 sites ont été lancées, portant à 66 le nombre de sites dans le viseur de l’Arcom depuis le début…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2dbe335c79b2",
+          "title": "EY-IMI report examines why some Indians won’t pay for music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/ey-imi-report-examines-why-some-indians-wont-pay-for-music/",
+          "category": "musique",
+          "published_at": "2026-07-30T10:00:24+00:00",
+          "summary": "What’s better than a a survey of over 5,100 Indian “digital content consumers” on “how India listens, streams and pays for music”? A survey of more than 15,300 of them. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b95c05cd7aa3",
+          "title": "L’un des meilleurs JRPG de sa génération sort sur Switch 2 et voilà où le trouver au meilleur prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2304065-lun-des-meilleurs-jrpg-de-sa-generation-sort-sur-switch-2-et-voila-ou-le-trouver-au-meilleur-prix.html",
+          "category": "justice",
+          "published_at": "2026-07-30T09:48:57+00:00",
+          "summary": "[Deal du jour] Avis aux joueuses et aux joueurs attachés aux versions physiques de leurs jeux : Nintendo a annoncé la sortie de la saga Xenoblade Chronicles en version boîte sur Switch 2. Le premier volet de cette licence culte du J-RPG vient de sortir ce 30 juillet 2026. Voilà…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7174ddb7df16",
+          "title": "IFPI will use labels’ proposed AI-music rules for its own official charts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/ifpi-will-use-labels-proposed-ai-music-rules-for-its-own-official-charts/",
+          "category": "musique",
+          "published_at": "2026-07-30T09:32:30+00:00",
+          "summary": "The IFPI will be adopting proposals from a group of record labels for how AI-music should be treated in official charts for its own rankings.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "491d588e6176",
+          "title": "Des humains sur Mars dans « 5 à 7 ans » : Elon Musk réitère sa fameuse promesse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2304041-des-humains-sur-mars-dans-5-a-7-ans-elon-musk-reitere-sa-promesse.html",
+          "category": "ia",
+          "published_at": "2026-07-30T09:25:00+00:00",
+          "summary": "Réagissant aux déclarations de la NASA qui fixe plutôt l'échéance martienne à 2040, le patron de SpaceX promet à nouveau des vols habités vers la planète rouge d'ici la fin de la décennie. Problème : cela fait plus de quatorze ans que la promesse reste bloquée sur la même…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "635b9ad0ec46",
+          "title": "Spider-Man: Brand New Day : on sait enfin pourquoi Hulk est absent d’Avengers: Doomsday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303965-spider-man-brand-new-day-on-sait-enfin-pourquoi-hulk-est-absent-davengers-doomsday.html",
+          "category": "ia",
+          "published_at": "2026-07-30T08:50:00+00:00",
+          "summary": "Pendant des années, les fans ont réclamé le retour du « vrai » Hulk, brutal et incontrôlable. Spider-Man: Brand New Day vient de leur offrir... mais en y injectant une tragédie dévastatrice. Une séquence choc qui explique au passage pourquoi Bruce Banner sera aux abonnés absents…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "491a7b34b43d",
+          "title": "Tromperie et manipulation : comment Claude Opus 5 a menti à ses fournisseurs pour dominer un benchmark de distributeurs automatiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2303901-tromperie-et-manipulation-comment-claude-opus-5-a-menti-a-ses-fournisseurs-pour-dominer-un-benchmark-de-distributeurs-automatiques.html",
+          "category": "ia",
+          "published_at": "2026-07-30T08:34:00+00:00",
+          "summary": "Le benchmark Vending-Bench d'Andon Labs devait mesurer la capacité des intelligences artificielles génératives à gérer une activité commerciale de façon autonome. Claude Opus 5 en ressort vainqueur, mais au prix d'une série de manœuvres déloyales envers ses concurrents et ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c6a0a480334",
+          "title": "Revolut intègre la version payante de ChatGPT à ses cartes : un autre avantage de taille pour la banque mobile",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2303973-revolut-integre-la-version-payante-de-chatgpt-a-ses-cartes-un-autre-avantage-de-taille-pour-la-banque-mobile.html",
+          "category": "ia",
+          "published_at": "2026-07-30T08:21:26+00:00",
+          "summary": "Revolut annonce un partenariat avec OpenAI pour offrir ChatGPT Go à ses clients. Les abonnés Plus et Standard, qui n'avaient jusqu'ici droit à aucun service tiers, ont le droit à trois mois d'abonnement offert. Un argument commercial de plus pour la banque mobile aux 75 millions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5c2da2a28fe",
+          "title": "Mal aimés, ces personnages seront absents de la saison 3 des Anneaux de Pouvoir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303897-mal-aimes-ces-personnages-seront-absents-de-la-saison-3-des-anneaux-de-pouvoir.html",
+          "category": "ia",
+          "published_at": "2026-07-30T08:20:00+00:00",
+          "summary": "L'un des showrunners de la série Les Anneaux de Pouvoir a confirmé une bonne nouvelle : les Hobbits, peu appréciés des spectatrices et des spectateurs, ne feront pas leur retour dans la saison 3.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07fd84b5d4d4",
+          "title": "Shaboozey and Ciara Miller Give ‘Cowgirl’ A Whirl on Late-Night TV",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/shaboozey-ciara-miller-cowgirl-fallon-1236306015/",
+          "category": "ia",
+          "published_at": "2026-07-30T08:11:47+00:00",
+          "summary": "Night owls just got a ride with “Cowgirl,” and a good look at Ciara Miller.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12672bd5e752",
+          "title": "On connaît maintenant l’endroit le plus étrange de Final Fantasy",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303885-final-fantasy-xiv-cache-une-zone-inquietante-que-lovecraft-naurait-pas-reniee.html",
+          "category": "ia",
+          "published_at": "2026-07-30T08:08:20+00:00",
+          "summary": "La nouvelle mise à jour de Final Fantasy XIV dissimule une nouvelle zone plutôt inquiétante, aux allures de ruines maudites. Un endroit bien caché et peu facile d’accès, qui fait déjà son petit effet auprès des joueuses et des joueurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43a9b92f4852",
+          "title": "Mercedes GLA électrique (2026) : de quoi faire oublier l’épisode de l’EQA ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2303909-mercedes-gla-electrique-2026-de-quoi-faire-oublier-lepisode-de-leqa.html",
+          "category": "ia",
+          "published_at": "2026-07-30T08:07:41+00:00",
+          "summary": "Mercedes officialise la nouvelle génération de son SUV compact GLA. Désormais basé sur la plateforme 800 V du groupe, l'Allemand affiche une autonomie record de 657 km et une charge éclair. De quoi balayer les erreurs du passé et venir taquiner le Tesla Model Y, le BMW iX1 et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "714c1e83b537",
+          "title": "Démarchage téléphonique : que va-t-il se passer avec l’arrêt de Bloctel le 11 août 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2303905-demarchage-telephonique-que-va-t-il-se-passer-avec-larret-de-bloctel-le-11-aout-2026.html",
+          "category": "justice",
+          "published_at": "2026-07-30T07:52:09+00:00",
+          "summary": "Dans un mail ayant pour objet «  Évolution du cadre légal du démarchage téléphonique au 11 août 2026 », Bloctel, le service gouvernemental contre le démarchage téléphonique, communique à ses utilisateurs sa date de sa fermeture. Voilà ce qu'il faut savoir pour ne plus être…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3289654eabd9",
+          "title": "☕️ Le Suisse Infomaniak se prépare à entrer en bourse",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-suisse-infomaniak-se-prepare-a-entrer-en-bourse/",
+          "category": "ia",
+          "published_at": "2026-07-30T07:42:00+00:00",
+          "summary": "Infomaniak prépare son entrée en bourse. La société suisse a signé un accord de fusion inversée avec Perrot Duval Holding, autre entreprise suisse citée depuis 1905, qui doit lui permettre d’entrer sur le marché suisse d’ici la fin de l’année.   Pour que l’opération se conclue,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b434865044a8",
+          "title": "Hugging Face héberge des centaines d’outils de génération de contenu sexuel non consenti",
+          "source": "Next INpact",
+          "url": "https://next.ink/249499/hugging-face-heberge-des-centaines-doutils-de-generation-de-contenu-sexuel-non-consenti/",
+          "category": "ia",
+          "published_at": "2026-07-30T07:09:00+00:00",
+          "summary": "Hébergeur de millions de modèles d’IA et de milliers de jeux de données, Hugging Face n’a implémenté aucun outil concret de modération des outils et pratiques relevant de la fabrication de contenu sexuel non consensuel, selon les travaux d’AI Forensics. En pleins travaux sur le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "361c13e19d99",
+          "title": "Michel Onfray a vu L’Odyssée en 4DX et trouve que ça « secouait » trop",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303871-michel-onfray-a-vu-lodyssee-en-4dx-et-trouve-que-ca-secouait-trop.html",
+          "category": "ia",
+          "published_at": "2026-07-30T07:07:31+00:00",
+          "summary": "Dans une tribune publiée dans Le Journal du Dimanche, l'éditorialiste de Cnews s'en prend virulemment à L'Odyssée de Christopher Nolan, à qui il reproche « d'assassiner Homère ». Mais un détail nous interpelle dans sa chronique : Michel Onfray, qui critique une « le bruit et la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc329af7dd61",
+          "title": "John Summit, Skepta Set For Australia’s Wildlands Festival",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/john-summit-skepta-australia-wildlands-festival-1236306005/",
+          "category": "ia",
+          "published_at": "2026-07-30T06:44:57+00:00",
+          "summary": "The single-day electronic and dance-leaning show will go coast-to-coast at year's end, covering a distance of about 2,700 miles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d50584379c7",
+          "title": "☕️ Les lunettes Meta se font bannir des événements, tribunaux et même des navires",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/les-lunettes-meta-se-font-bannir-des-evenements-tribunaux-et-meme-des-navires/",
+          "category": "ia",
+          "published_at": "2026-07-30T06:42:00+00:00",
+          "summary": "De plus en plus de lieux et d&#8217;événements interdisent le port des lunettes connectées de Meta. C&#8217;est le cas des organisateurs de l&#8217;édition 2026 de la DEF CON, qui ouvrira ses portes à Las Vegas la semaine prochaine : ces montures capables d&#8217;enregistrer de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea8c006161c9",
+          "title": "L’un des meilleurs soulslike de ces dernières années va avoir droit à une suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303859-lun-des-meilleurs-soulslike-de-ces-dernieres-annees-va-avoir-droit-a-une-suite.html",
+          "category": "ia",
+          "published_at": "2026-07-30T06:19:22+00:00",
+          "summary": "Lancé l'année dernière, Wuchang: Fallen Feathers est l'un des meilleurs soulslike de ces dernières années. Une suite vient tout juste d'être officialisée, alors que le studio traversait une grosse période trouble après le départ du directeur du jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eda9e67d5750",
+          "title": "Les taxis autonomes Waymo ont une grosse nouveauté aux États-Unis : ils peuvent parler",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2303855-les-taxis-autonomes-waymo-ont-une-grosse-nouveaute-aux-etats-unis-ils-peuvent-parler.html",
+          "category": "justice",
+          "published_at": "2026-07-30T06:00:15+00:00",
+          "summary": "Waymo annonce l'arrivée de Gemini à bord de ses robotaxis avec une interface entièrement redessinée. L'assistant de Google permet de régler la climatisation, de demander un arrêt ou de poser des questions sur le quartier traversé, mais reste volontairement coupé du système de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94c1179a38b6",
+          "title": "Disney+ Premium perd la 4K et le HDR, mais pas son prix",
+          "source": "Next INpact",
+          "url": "https://next.ink/249525/disney-premium-perd-la-4k-et-le-hdr-mais-pas-son-prix/",
+          "category": "ia",
+          "published_at": "2026-07-30T05:56:22+00:00",
+          "summary": "Que restera-t-il aux abonnés Premium de Disney+ ? Plus grand chose : après la disparition du Dolby Vision en juin dernier, c&#8217;est au tour de la 4K et du HDR10 de pointer aux abonnés absents. C&#8217;est pour le moins embarrassant, car ce sont là les ultimes avantages…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "343f0facb886",
+          "title": "‘Symptoms of TDS’: White House Snaps at Noah Kanan For Criticizing Unauthorized Use Of His Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/white-house-snaps-noah-kanan-criticizing-unauthorized-music-1236305995/",
+          "category": "musique",
+          "published_at": "2026-07-30T05:45:12+00:00",
+          "summary": "The White House has gone on the offensive after Noah Kahan criticized president Donald Trump for using \"American Cars\" in social media propaganda.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6328084a0382",
+          "title": "Avengers: Doomsday sera peut-être le plus long film du MCU",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303853-avengers-doomsday-sera-peut-etre-le-plus-long-film-du-mcu.html",
+          "category": "ia",
+          "published_at": "2026-07-30T05:41:34+00:00",
+          "summary": "Anthony Russo, l'un des réalisateurs d'Avengers: Doomsday, a récemment confié que la durée du blockbuster sera conséquente. Comme le film n'est pas encore tout à fait terminé, il ne peut donner aucun chiffre précis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bdbebce65d03",
+          "title": "Karol G Sets New Album ‘No Me Arrepiento de Sentir Tanto’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/karol-g-new-album-no-me-arrepiento-de-sentir-tanto-1236305976/",
+          "category": "musique",
+          "published_at": "2026-07-30T03:55:58+00:00",
+          "summary": "The Colombian superstar will release her new album next week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b4be3ebce59",
+          "title": "Queen’s ‘Don’t Stop Me Now’ Passes 1 Billion Views on YouTube",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/queen-dont-stop-me-now-1-billion-views-youtube-1236305954/",
+          "category": "justice",
+          "published_at": "2026-07-30T03:36:37+00:00",
+          "summary": "The British rock juggernaut enters the streaming platform’s Billion Views Club for a second time, as “Don’t Stop Me Now” passes the milestone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14ec7253e8e2",
+          "title": "‘Descendants: Wicked Wonderland’ Debuts at No. 1 on Kid Albums Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/descendants-wicked-wonderland-soundtrack-chart-debut-1236305923/",
+          "category": "musique",
+          "published_at": "2026-07-30T02:53:37+00:00",
+          "summary": "It’s the fifth No. 1 in a row from Disney’s ‘Descendants’ franchise.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "522ec6e3d94c",
+          "title": "Grammys Chief Responds to BTS’ Decision To Not Enter Its Songs for Consideration at 2027 Grammys",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/bts-2027-grammy-awards-not-enter-arirang-consideration-boycott-1236305040/",
+          "category": "musique",
+          "published_at": "2026-07-30T00:38:20+00:00",
+          "summary": "The news comes just over a month after the introduction of the best Asian pop music performance category.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "245c9bf68cfb",
+          "title": "Sam Smith Reveals Engagement & How Romance Inspired Their New Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sam-smith-reveals-engagement-how-romance-inspired-new-album-1236305846/",
+          "category": "musique",
+          "published_at": "2026-07-30T00:09:43+00:00",
+          "summary": "The singer confirmed they're engaged to longtime partner Christian Cowan, arriving shortly after the release of new single \"Oh Mother.\"",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-29",
       "articles": [
+        {
+          "id": "381d25a1607b",
+          "title": "Confirmed: Influence Media Partners to acquire Anthem Entertainment catalogs for over USD $600M",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/influence-media-partners-to-acquire-anthem-entertainment-catalogs-for-over-usd-600m/",
+          "category": "ia",
+          "published_at": "2026-07-29T16:22:23+00:00",
+          "summary": "The transaction is subject to customary closing conditions and is expected to close in Q4 2026.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31453954490d",
+          "title": "☕️ Une batterie remplaçable dans les souris Logitech en 2027, mais uniquement en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/une-batterie-remplacable-dans-les-souris-logitech-en-2027-mais-uniquement-en-europe/",
+          "category": "ia",
+          "published_at": "2026-07-29T15:44:58+00:00",
+          "summary": "Les batteries des souris Logitech seront plus faciles à remplacer à compter de février 2027. Le règlement européen relatif aux batteries et aux déchets de batterie impose qu&#8217;il soit aisé pour l&#8217;utilisateur de changer ce composant dans leurs appareils. Le texte ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f31ce44259d",
+          "title": "Windows 11 recevra en août des améliorations attendues de longue date",
+          "source": "Next INpact",
+          "url": "https://next.ink/249416/windows-11-recevra-en-aout-des-ameliorations-attendues-de-longue-date/",
+          "category": "ia",
+          "published_at": "2026-07-29T15:24:33+00:00",
+          "summary": "Microsoft a fait de nombreuses promesses cette année sur l’amélioration de la qualité générale dans Windows 11. Performances, recherche, code natif ou encore interface sont dans la ligne de mire. En août, le système va ainsi recevoir une longue série de nouveautés, dont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "23e901bf2c61",
+          "title": "Majors, Believe, BMG, Concord, HYBE and more propose chart eligibility rules for AI music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/majors-believe-bmg-concord-hybe-and-more-propose-new-chart-eligibility-rules-for-ai-music/",
+          "category": "musique",
+          "published_at": "2026-07-29T14:51:16+00:00",
+          "summary": "Framework would 'establish a clear boundary between human-led creativity and works that are purely synthetic or generated by unauthorized AI models'\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36225ac31e22",
+          "title": "Music labels want AI music barred from official charts – unless it meets certain criteria",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/music-labels-want-ai-music-barred-from-official-charts-unless-it-meets-certain-criteria/",
+          "category": "musique",
+          "published_at": "2026-07-29T14:41:34+00:00",
+          "summary": "Official music charts around the world have been grappling with the challenges provided by AI music. Now labels want to set some rules.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6027bf5d5ed1",
+          "title": "Des fuites de Claude sur des conversations partagées ? Pas vraiment",
+          "source": "Next INpact",
+          "url": "https://next.ink/249441/des-fuites-de-claude-sur-des-conversations-partagees-pas-vraiment/",
+          "category": "ia",
+          "published_at": "2026-07-29T14:25:00+00:00",
+          "summary": "Des internautes ont signalé qu’il était simple de retrouver des conversations Claude partagées. Pour Anthropic cependant, il n&#8217;y a aucun problème : c’est le fonctionnement attendu de cette capacité. Mais ce n&#8217;est pas tout à fait aussi simple. Encore plus inquiétant,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "427b052b31c7",
+          "title": "My Little Pony music kicks off its Neigh-Pop era with ‘Forever Friendship’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/my-little-pony-music-forever-friendship/",
+          "category": "musique",
+          "published_at": "2026-07-29T14:09:06+00:00",
+          "summary": "Neigh-Pop sounds like a new genre that&#8217;s sprung to prominence on SoundCloud. It&#8217;s actually the new musical direction for My Little Pony.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71db89d91e7d",
+          "title": "SpaceXAI veut faire annuler la loi du Minnesota contre la « nudification »",
+          "source": "Next INpact",
+          "url": "https://next.ink/249483/spacexai-veut-faire-annuler-la-loi-du-minnesota-contre-la-nudification/",
+          "category": "ia",
+          "published_at": "2026-07-29T13:46:11+00:00",
+          "summary": "SpaceXAI part en croisade contre une loi du Minnesota interdisant les technologies de «&#160;nudification&#160;», qui permettent de générer des deepfakes dénudés de personnes réelles. L&#8217;entreprise est la première concernée, puisque son chatbot Grok est massivement utilisé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a1d9f41d2e3",
+          "title": "Deezer’s direct subscribers grow to 5.8m in H1 2026 – but total subs base falls to 8.9m",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/deezers-direct-subscribers-grow-to-5-8m-in-h1-2026-but-total-subscriber-base-falls-to-8-9m/",
+          "category": "musique",
+          "published_at": "2026-07-29T13:39:27+00:00",
+          "summary": "The company swung to a net profit of €6.7 million ($7.7 million) in the first half of 2026, reversing a net loss of €7.6 million ($8.9 million) last year.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "450f0722bb1c",
+          "title": "Report reveals the $278m music economy of Huntsville, Alabama",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/report-reveals-the-278m-music-economy-of-huntsville-alabama/",
+          "category": "musique",
+          "published_at": "2026-07-29T12:30:00+00:00",
+          "summary": "It’s been 16 months since our last story about Huntsville, Alabama, so it’s about time for another, eh? Back then we were reporting on Fast Company anointing the city as the ‘most innovative company’ in economic development for 2025, thanks to its five-year plan for music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66d8447cfcf9",
+          "title": "Spotify may have overtaken homegrown DSP Melon in South Korea",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/spotify-may-have-overtaken-homegrown-dsp-melon-in-south-korea/",
+          "category": "musique",
+          "published_at": "2026-07-29T12:30:00+00:00",
+          "summary": "There’s a changing of the music-streaming guard in South Korea, with Spotify possibly having just overtaken local player Melon, previously the biggest audio streaming service there. Or possibly not.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb4e15ca920a",
+          "title": "Deezer ended first half of 2026 with 5.8m direct subscribers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/deezer-ended-first-half-of-2026-with-5-8m-direct-subscribers/",
+          "category": "musique",
+          "published_at": "2026-07-29T12:30:00+00:00",
+          "summary": "Deezer has published its latest financial results, and they continue its recent trends: flat revenue growth and falling overall subscriber numbers, but growth in its ‘direct’ business on both counts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59b4377ed27a",
+          "title": "New music MCP launches: Artist Growth, Pica, Crate…",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/new-music-mcp-launches-artist-growth-pica-crate/",
+          "category": "musique",
+          "published_at": "2026-07-29T12:30:00+00:00",
+          "summary": "The flow of launches of MCP (Model Context Protocol) servers and tools with a music angle – connecting other services to chatbots including Claude, ChatGPT and Gemini – continues.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "344039e9b784",
+          "title": "Winamp plots latest return of its music player – with Deezer",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/winamp-plots-latest-return-of-its-music-player-with-deezer/",
+          "category": "musique",
+          "published_at": "2026-07-29T12:30:00+00:00",
+          "summary": "Winamp Player is back, Back, BACK&#8230; again. The latest comeback for one of the original digital-music brands involves a partnership with Deezer, which will power Winamp’s music-streaming service on a white-label basis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d39c00b16d3",
+          "title": "Lego and Olivia Rodrigo send fans on a ‘brick vinyl’ treasure hunt",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/lego-and-olivia-rodrigo-send-fans-on-a-brick-vinyl-treasure-hunt/",
+          "category": "musique",
+          "published_at": "2026-07-29T12:30:00+00:00",
+          "summary": "There’s an enjoyable Instagram video of Olivia Rodrigo sneaking around record stores like a reverse-shoplifter, sliding pixelly-artwork versions of her albums into racks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "976f334f4bba",
+          "title": "Litejam Neo and AP30 Music Boy are both hits on Kickstarter",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/litejam-neo-and-ap30-music-boy-are-both-hits-on-kickstarter/",
+          "category": "musique",
+          "published_at": "2026-07-29T12:30:00+00:00",
+          "summary": "Kickstarter has become a reliable launchpad for music hardware over the past decade. This week, two more projects are racking up the pledges on the crowdfunding platform.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ee393567459",
+          "title": "BTS keep chart-topper ‘Arirang’ out of 2027 Grammys race, as group decline to submit music for consideration",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bts-keep-chart-topper-arirang-out-of-2027-grammys-race-as-group-decline-to-submit-music-for-consideration/",
+          "category": "musique",
+          "published_at": "2026-07-29T12:08:03+00:00",
+          "summary": "\"We hope music can be heard and loved for what it is, rather than being divided by region or language,\" they said, in a statement translated from Korean.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "165520b8ef7a",
+          "title": "☕️ Flockeries d’été : sept différences sur le gril d’un barbecue maison, version Mars Attacks",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flockeries-dete-sept-differences-sur-le-gril-dun-barbecue-maison-version-mars-attacks/",
+          "category": "ia",
+          "published_at": "2026-07-29T11:37:00+00:00",
+          "summary": "Cet été, Next propose de vous divertir avec un cahier de vacances spécial geek. On vous a préparé des mini-jeux pour vous occuper sur la plage, à la montagne, en voyage… Cerise sur le gâteau, il y a des cadeaux à gagner. Deux fois par semaine, on se donne rendez-vous pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e002195d9f41",
+          "title": "US radio network Westwood One sticks the boot into Spotify",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/29/us-radio-network-westwood-one-sticks-the-boot-into-spotify/",
+          "category": "musique",
+          "published_at": "2026-07-29T11:30:00+00:00",
+          "summary": "Seconds out, round&#8230; well, it’s probably round 476 of the radio-versus-streaming slugfest. But US network Westwood One is still throwing punches enthusiastically.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e362bc71d5a",
+          "title": "Google’s Flow Music adds song generation, editing and stem splitting to Spaces, its ‘vibe coding’ tool",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/googles-flow-music-adds-song-generation-editing-and-stem-splitting-to-spaces-its-vibe-coding-tool/",
+          "category": "musique",
+          "published_at": "2026-07-29T11:25:29+00:00",
+          "summary": "Users of Spaces can now generate and edit songs, split recordings into stems, and generate images, lyrics and videos, all inside the tool.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "cdc33873b1b8",
           "title": "Jumanji Open World : la première bande-annonce inverse totalement le concept du film",
@@ -137,6 +642,16 @@
         {
           "id": "c60a28c6b637",
           "title": "PSN et Xbox hors service : le jeu dématérialisé pris au piège des serveurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/249397/psn-et-xbox-hors-service-le-jeu-dematerialise-pris-au-piege-des-serveurs/",
+          "category": "ia",
+          "published_at": "2026-07-29T06:42:00+00:00",
+          "summary": "À quelques heures d&#8217;intervalle, les services en ligne de PlayStation et de Xbox sont tombés dans les choux, laissant sur le carreau de nombreux joueurs désireux d&#8217;accéder à leurs jeux. Voilà qui n&#8217;annonce rien de bon pour l&#8217;avenir tout dématérialisé que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75878bed8131",
+          "title": "[MàJ] PSN et Xbox hors service : le jeu dématérialisé pris au piège des serveurs",
           "source": "Next INpact",
           "url": "https://next.ink/249397/psn-et-xbox-hors-service-le-jeu-dematerialise-pris-au-piege-des-serveurs/",
           "category": "ia",
