@@ -1,9 +1,514 @@
 {
-  "generated_at": "2026-07-30T10:33:47.408037+00:00",
+  "generated_at": "2026-07-31T10:50:20.260446+00:00",
   "days": [
+    {
+      "date": "2026-07-31",
+      "articles": [
+        {
+          "id": "9e3fca991386",
+          "title": "Revoir le webinaire - Mise à jour des MR-001 et MR-003, ce qui change en 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/webinaire-mise-a-jour-mr",
+          "category": "ia",
+          "published_at": "2026-07-31T12:00:00+00:00",
+          "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré aux méthodologies de référence en matière de santé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43325210c2dd",
+          "title": "Spider-Man: Brand New Day est réussi, mais il a quand même un immense défaut",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2304731-spider-man-brand-new-day-est-reussi-mais-il-a-quand-meme-un-immense-defaut.html",
+          "category": "ia",
+          "published_at": "2026-07-31T10:22:00+00:00",
+          "summary": "Reconquête de l'essence de Peter Parker, retour à un New York plus centré et scènes d'action qui défouraillent, Spider-Man: Brand New Day réussit une bonne partie de son pari. Pourtant, dès qu'on gratte sous le vernis de la nouveauté, un choix scénaristique agace profondément.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2040ba3329a5",
+          "title": "IA agentique et données personnelles, un joli bazar",
+          "source": "Next INpact",
+          "url": "https://next.ink/249726/ia-agentique-et-donnees-personnelles-un-joli-bazar/",
+          "category": "ia",
+          "published_at": "2026-07-31T10:14:42+00:00",
+          "summary": "Comment concilier protection des données et IA agentique&#160;? Dans une note publiée le 20 juillet, le CIANum (Conseil de l’IA et du Numérique) et la CNIL se sont penchés sur la question, pointant le vaste changement d’échelle dans le traitement des données et la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16fac02269e1",
+          "title": "Lunettes d’éclipse solaire : où acheter des modèles aux normes avant le 12 août 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2237131-lunettes-eclipse-solaire-2026-modeles-certifies-prix-et-ou-les-acheter.html",
+          "category": "justice",
+          "published_at": "2026-07-31T10:10:22+00:00",
+          "summary": "E-commerçants, pharmacie, opticien, boutique d’astronomie ou distribution gratuite : plusieurs solutions existent pour acheter des lunettes avant l’éclipse solaire du 12 août 2026. Voici les modèles dont nous avons vérifié les documents de conformité, leur prix et les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8db05a96b0e",
+          "title": "Le film Elden Ring de A24 vient de franchir une étape importante vers sa sortie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2304737-le-film-elden-ring-de-a24-vient-de-franchir-une-etape-importante-vers-sa-sortie.html",
+          "category": "ia",
+          "published_at": "2026-07-31T10:04:00+00:00",
+          "summary": "Le tournage du film Elden Ring, adaptation signée Alex Garland, est désormais terminé. Mais il y a encore de longs mois de post-production pour donner vie à l'Entre-Terre à l'écran.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bfc80a4b151",
+          "title": "Charli XCX Charges to No. 1 on ARIA Chart With ‘Music, Fashion, Film’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/charli-xcx-no-1-aria-chart-music-fashion-film-1236306895/",
+          "category": "musique",
+          "published_at": "2026-07-31T09:50:09+00:00",
+          "summary": "Amy Shark's streak comes to an end, as \"soft pop\" opens at No. 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5934f28a980",
+          "title": "Le Steam Deck est introuvable en France, mais sa meilleure alternative tombe sous les 500 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2304767-le-steam-deck-est-introuvable-en-france-mais-sa-meilleure-alternative-tombe-sous-les-500-e.html",
+          "category": "ia",
+          "published_at": "2026-07-31T09:40:00+00:00",
+          "summary": "[Deal du jour] Alors que le Steam Deck est épuisé partout en raison de la crise de la RAM, certaines consoles concurrentes sont toujours trouvables, et parfois en promotion. La Lenovo Legion Go S passe sous la barre des 500 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40fef32f74be",
+          "title": "Universal Music Group announces “72-hour premium window” for major releases in India",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/31/universal-music-group-announces-72-hour-premium-window-for-major-releases-in-india/",
+          "category": "musique",
+          "published_at": "2026-07-31T09:35:22+00:00",
+          "summary": "Hot on the heels of EY and IMI’s report that includes recommendations on how to get more Indians to pay for music, Universal Music Group announced in its earnings call [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "904298cf9995",
+          "title": "Seagate va expédier des disques durs de 50 To dès 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/249706/seagate-va-expedier-des-disques-durs-de-50-to-des-2027/",
+          "category": "ia",
+          "published_at": "2026-07-31T09:25:22+00:00",
+          "summary": "Tout roule pour Seagate, qui voit ses bénéfices et sa marge brute augmenter fortement. Le fabricant de disques durs en profite pour parler de son avenir avec des HDD de 50 To et plus dès l‘année prochaine, dans la gamme Mozaic 5. Seagate vient de publier son bilan financier pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d8dc0313dbb",
+          "title": "Pour la première fois, les États-Unis autorisent les taxis autonomes sans volant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2304727-pour-la-premiere-fois-les-etats-unis-autorisent-les-taxis-autonomes-sans-volant.html",
+          "category": "ia",
+          "published_at": "2026-07-31T09:12:49+00:00",
+          "summary": "Le service de taxis autonomes Zoox, soutenu par Amazon, vient d'obtenir le feu vert des régulateurs américains pour lui permettre de facturer ses courses. Une première pour un véhicule complètement autonome, sans pédales ni volant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f5d344df36b",
+          "title": "Symphony Orchestra of India marks 20 years with wider western classical music audience",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/31/symphony-orchestra-of-india-marks-20-years-with-wider-western-classical-music-audience/",
+          "category": "musique",
+          "published_at": "2026-07-31T09:02:34+00:00",
+          "summary": "When the Symphony Orchestra of India (SOI) plays its Autumn 2026 season of concerts from 16 to 30 August, the shows will mark 20 years of the country’s first and [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1f0723b50f4",
+          "title": "Suno loses copyright infringement lawsuit brought by GEMA in Germany",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-infringed-copyright-in-gema-case-german-court-rules/",
+          "category": "musique",
+          "published_at": "2026-07-31T08:56:14+00:00",
+          "summary": "AI music generator Suno has lost the copyright infringement lawsuit brought by German collecting society GEMA. The collecting society alleged that Suno used, stored and reproduced copyrighted music to train its AI tool without a license or payment to the rightsholders. Reuters…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "381e3d521992",
+          "title": "Sony generated $3.12B from recorded music and publishing in calendar Q2 2026, up 12.7% YoY",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-generated-3-12b-from-recorded-music-michael-jackson/",
+          "category": "musique",
+          "published_at": "2026-07-31T08:53:58+00:00",
+          "summary": "Michael Jackson's Thriller album was Sony's biggest-selling artist project around the world in calendar Q2 2026, boosted by the Michael biopic movie\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9295c45929b0",
+          "title": "iPhone 18 et Fold : Apple prévient qu’il n’y aura pas de stock pour tout le monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2304771-iphone-18-et-fold-apple-previent-quil-ny-aura-pas-de-stock-pour-tout-le-monde.html",
+          "category": "ia",
+          "published_at": "2026-07-31T08:50:53+00:00",
+          "summary": "Apple a publié le 30 juillet les résultats de son troisième trimestre fiscal 2026 avec un chiffre d'affaires record de 109,4 milliards de dollars. Mais Tim Cook, pour sa dernière conférence en tant que CEO, alerte sur un éventuel ralentissement à la rentrée : les contraintes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "562c3752ab6a",
+          "title": "German collecting society GEMA wins its copyright-infringement lawsuit against Suno",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/31/german-collecting-society-gema-wins-its-copyright-infringement-lawsuit-against-suno/",
+          "category": "musique",
+          "published_at": "2026-07-31T08:36:19+00:00",
+          "summary": "GEMA won its lawsuit against Suno. What did the ruling say, what happens now, and what does it mean for the major label&#8217;s US Suno lawsuits?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "004d2d7dc2da",
+          "title": "Nous y voilà : après OpenAI, Anthropic annonce à son tour que Claude a piraté trois entreprises par erreur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2304703-nous-y-voila-apres-openai-anthropic-annonce-a-son-tour-que-claude-a-pirate-trois-entreprises-par-erreur.html",
+          "category": "ia",
+          "published_at": "2026-07-31T08:07:17+00:00",
+          "summary": "Une semaine après la révélation du piratage d'Hugging Face par un agent OpenAI incontrôlé, Anthropic annonce avoir identifié trois cas où ses propres modèles ont accédé sans autorisation à des systèmes réels lors de tests de cybersécurité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83dd9a9074ce",
+          "title": "La toute première sortie dans l’espace de Sophie Adenot se prépare",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2304715-la-toute-premiere-sortie-dans-lespace-de-sophie-adenot-se-prepare.html",
+          "category": "ia",
+          "published_at": "2026-07-31T07:57:25+00:00",
+          "summary": "La Française Sophie Adenot a été mentionnée dans les plans de la NASA pour une sortie extravéhiculaire à la fin du mois d'août. Si cela se confirme, elle sera la première Française à effectuer une telle EVA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c4647ffdc42",
+          "title": "Le jeu Super Mario le plus mal aimé signe son grand retour sur Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2304637-le-jeu-super-mario-le-plus-mal-aime-signe-son-grand-retour-sur-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-07-31T07:56:00+00:00",
+          "summary": "S’il y a certaines périodes plus propices que d’autres pour lancer certains jeux, l’été serait sans doute la saison idéale pour jouer à Super Mario Sunshine. Avec ses effets d’eau rafraîchissants, ses décors de plage et son ambiance de bord de mer, le titre de la GameCube a de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "946a2d6f53d4",
+          "title": "Google donne de vrais chiffres sur les robots : sans humain, ils se trompent beaucoup… pour l’instant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2304657-google-donne-de-vrais-chiffres-sur-les-robots-sans-humain-ils-se-trompent-beaucoup-pour-linstant.html",
+          "category": "ia",
+          "published_at": "2026-07-31T07:21:00+00:00",
+          "summary": "Google DeepMind dévoile Gemini Robotics 2, une famille de trois modèles capables de contrôler un robot humanoïde entier, de la marche à la manipulation d'objets. Le chemin à parcourir reste long : ramasser un objet au sol ne fonctionne que dans 45,7 % des cas.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59bcfc17c309",
+          "title": "Le 2 août, l’AI Act avance et recule à la fois",
+          "source": "Next INpact",
+          "url": "https://next.ink/249636/le-2-aout-lai-act-avance-et-recule-a-la-fois/",
+          "category": "ia",
+          "published_at": "2026-07-31T06:58:00+00:00",
+          "summary": "Les premières mesures de l&#8217;AI Act sont en application depuis février 2025, mais bon nombre de dispositifs restent à mettre en route. Une révision ciblée de la réglementation européenne sur l&#8217;intelligence artificielle, entrée en vigueur le 27 juillet, sera effective…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aff88d51d008",
+          "title": "Disney annule l’une des meilleures séries Marvel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2304633-disney-annule-lune-des-meilleures-series-marvel.html",
+          "category": "ia",
+          "published_at": "2026-07-31T06:55:26+00:00",
+          "summary": "Contrairement à ce qui a été annoncé il y a quelques mois, Wonder Man, l'une des séries Marvel les plus étonnantes, ne sera pas renouvelée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3bfc13f8d96",
+          "title": "On ‘AHHCade,’ PNAU Takes Us on a Trip to a Time That was ‘Naive’ in a ‘Beautiful Way’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ahhcade-pnau-interview-1236306869/",
+          "category": "musique",
+          "published_at": "2026-07-31T06:50:50+00:00",
+          "summary": "Video game arcades \"were exciting and they gave us a window to a future that other generations didn't have,” PNAU's Nick Littlemore tells Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a286dfad8e7e",
+          "title": "How veteran Indian indie acts are navigating the music industry",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/31/how-veteran-indian-indie-acts-are-navigating-the-music-industry/",
+          "category": "musique",
+          "published_at": "2026-07-31T06:30:26+00:00",
+          "summary": "With an over-crowded streaming-scape, ever-changing algorithms, and the looming threat of AI, navigating a career in the music industry can be challenging for young artists. But the learning curve is [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3051a775ff3f",
+          "title": "Tips Music says 85% of its revenue comes from deep catalogue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/31/tips-music-says-85-of-its-revenue-comes-from-deep-catalogue/",
+          "category": "musique",
+          "published_at": "2026-07-31T06:25:37+00:00",
+          "summary": "Tips Music has published its financial results for the first quarter of FY2027. The publicly-listed Indian legacy label’s revenue from operations grew 21% year-on-year to Rs106.5 crore (approximately $11.1 million) [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4dc26189b43b",
+          "title": "Chrome va recevoir deux mises à jour de sécurité par semaine",
+          "source": "Next INpact",
+          "url": "https://next.ink/249642/chrome-va-recevoir-deux-mises-a-jour-de-securite-par-semaine/",
+          "category": "ia",
+          "published_at": "2026-07-31T06:15:46+00:00",
+          "summary": "Les mises à jour de sécurité vont s&#8217;accélérer pour Chrome, grâce à l&#8217;IA qui mange des bugs et des vulnérabilités au petit déjeuner. Google a annoncé d&#8217;importants changements pour son navigateur web, à commencer par la livraison de deux fournées de correctifs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2602970d100",
+          "title": "Incendies en Gironde : la SNCF prolonge encore les échanges et remboursements gratuits des billets de train",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2302281-incendies-en-gironde-la-sncf-prolonge-encore-les-echanges-et-remboursements-gratuits-des-billets-de-train.html",
+          "category": "ia",
+          "published_at": "2026-07-31T06:06:51+00:00",
+          "summary": "Face aux feux de forêt d'ampleur exceptionnelle en Gironde et dans les Landes, le gouvernement et SNCF Voyageurs demandent aux voyageurs de reporter leurs trajets. Les échanges et remboursements sans frais sont prolongés jusqu'au mardi 4 août 2026 inclus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66f75c083bc8",
+          "title": "Disney+ supprime la 4K en France : votre abonnement Premium ne sert plus à rien",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2304629-disney-supprime-la-4k-en-france-votre-abonnement-premium-ne-sert-plus-a-rien.html",
+          "category": "ia",
+          "published_at": "2026-07-31T05:57:56+00:00",
+          "summary": "Disney+ a désactivé la 4K, la 3D et le HDR dans onze pays européens, dont la France, après une nouvelle injonction judiciaire. Résultat : les abonnés Premium payent 15,99 euros par mois pour une image en 1080p SDR, exactement la même que celle du forfait Standard à 10,99 euros.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6054fe4b700",
+          "title": "Glenn A. Baker, Australian Music Historian and Former Billboard Correspondent, Dies at 74",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/business-news/glenn-a-baker-obituary-1236306850/",
+          "category": "musique",
+          "published_at": "2026-07-31T05:27:45+00:00",
+          "summary": "“Glenn’s contribution to the Australian rock ’n’ roll music landscape was immense, but his family remembers him as a loving father of six and grandfather of thirteen.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a403f7258f0",
+          "title": "Ariana Grande, Cardi B, Shaboozey, Slayyyter & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-cardi-b-shaboozey-new-music-friday-guide-1236306716/",
+          "category": "musique",
+          "published_at": "2026-07-31T05:18:10+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d89382c1d3dd",
+          "title": "Shaboozey’s ‘The Outlaw Cherie Lee & Other Western Tales’: Every Track Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/shaboozey-new-album-the-outlaw-cherie-lee-tracks-ranked/",
+          "category": "musique",
+          "published_at": "2026-07-31T04:01:00+00:00",
+          "summary": "Billboard ranks the 20 tracks on Shaboozey's Western-themed concept album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c85c6dced84",
+          "title": "Ariana Grande’s ‘Petal’: All 12 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/ariana-grande-petal-songs-ranked-album-review/",
+          "category": "musique",
+          "published_at": "2026-07-31T04:00:00+00:00",
+          "summary": "Ariana Grande's dark, candid eighth studio album is finally here. See how Billboard ranks each track on Petal.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ac5c39dd2fd",
+          "title": "Ariana Grande Lets Her Angriest, Most Authentic Self Bloom on New Album ‘Petal’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/ariana-grande-petal-album-listen-1236306614/",
+          "category": "musique",
+          "published_at": "2026-07-31T04:00:00+00:00",
+          "summary": "The pop star doesn't hold anything back on her newly released eighth studio album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "481dd74f7d54",
+          "title": "Ninajirachi Dominates 2026 AIR Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/ninajirachi-2026-air-awards-1236306815/",
+          "category": "ia",
+          "published_at": "2026-07-31T03:33:57+00:00",
+          "summary": "With five wins, Ninajirachi was untouchable at the 20th annual AIR Awards, the celebration of Australia's independent music community.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-07-30",
       "articles": [
+        {
+          "id": "8c85c4a8c51c",
+          "title": "Universal Music Group generated $3.83bn in Q2, up 13.3% YoY – driven by Noah Kahan, BTS, Olivia Rodrigo, Drake, and Olivia Dean",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-generated-3-83bn-in-q2-up-13-3-yoy-driven-by-noah-kahan-bts-olivia-rodrigo-drake-and-olivia-dean/",
+          "category": "musique",
+          "published_at": "2026-07-30T17:59:26+00:00",
+          "summary": "Universal Music Group generated revenues of EUR €3.294 billion (USD $3.83bn) across all of its divisions (including recorded music, publishing, and more) in Q2 (the three months ending June 30, 2026). That&#8217;s according to UMG&#8216;s fresh set of quarterly results,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "714c63d769d5",
+          "title": "UMG’s new releases in India will go exclusively to paid streaming subscribers for first 72 hours",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-musics-new-releases-in-india-will-go-exclusively-to-paying-subscribers-for-first-72-hours/",
+          "category": "ia",
+          "published_at": "2026-07-30T16:29:38+00:00",
+          "summary": "Sir Lucian Grainge, Chairman and CEO of UMG, announced the move on the company's earnings call on Thursday (July 30).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4817a7c6e35d",
+          "title": "LinkedIn ajoute un bouton pour signaler des contenus « AI slop »",
+          "source": "Next INpact",
+          "url": "https://next.ink/249627/linkedin-ajoute-un-bouton-pour-signaler-des-contenus-ai-slop/",
+          "category": "ia",
+          "published_at": "2026-07-30T16:03:05+00:00",
+          "summary": "LinkedIn inaugure un nouveau bouton qui permet à l&#8217;utilisateur de signaler un contenu « AI slop ». Lorsqu&#8217;un billet semble avoir été rédigé par une intelligence artificielle, il suffit d&#8217;appuyer sur ce bouton pour informer LinkedIn. La procédure doit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80b584bc5869",
+          "title": "Chiffrement : Claude casse HAWK et fissure une version réduite d’AES, mais pas de panique",
+          "source": "Next INpact",
+          "url": "https://next.ink/249573/chiffrement-claude-casse-hawk-et-fissure-une-version-reduite-daes-mais-pas-de-panique/",
+          "category": "ia",
+          "published_at": "2026-07-30T15:29:57+00:00",
+          "summary": "L’équipe Frontier Red Team d&#8217;Anthropic a publié un billet dans lequel elle décrit ses trouvailles sur deux algorithmes dédiés à la cybersécurité : HAWK et AES. Si les découvertes sont avérées, les conséquences ne sont pas aussi dramatiques qu’on peut le lire ça et là.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "caceb66032df",
+          "title": "IFPI rolls out labels’ AI chart-eligibility rules across its global network of official music charts",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ifpi-rolls-out-labels-ai-chart-eligibility-principles-across-its-global-network-of-official-music-charts/",
+          "category": "musique",
+          "published_at": "2026-07-30T15:01:26+00:00",
+          "summary": "IFPI has applied the framework to the charts it directly manages\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c80c2af55a34",
+          "title": "☕️ L’Union européenne va investir 10 milliards d’euros dans sept gigafactories d’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lunion-europeenne-va-investir-10-milliards-deuros-dans-sept-gigafactories-dia/",
+          "category": "ia",
+          "published_at": "2026-07-30T14:59:00+00:00",
+          "summary": "L’Union européenne a publié ce 29 juillet un appel d’offres pour la création de sept «&#160;Gigafactories d’IA&#160;». Ces usines sont décrites comme des édifices mêlant «&#160;processeurs d&#8217;IA avancés, des piles de logiciels et de technologies en nuage, une connectivité à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04f642809b72",
+          "title": "Humanoïdes, aspirateurs, tondeuses : les États-Unis bloquent les nouveaux robots étrangers",
+          "source": "Next INpact",
+          "url": "https://next.ink/249591/humanoides-aspirateurs-tondeuses-les-etats-unis-bloquent-les-nouveaux-robots-etrangers/",
+          "category": "ia",
+          "published_at": "2026-07-30T14:34:39+00:00",
+          "summary": "Les robots étrangers ne sont plus les bienvenus aux États-Unis. La FCC, le régulateur des communications, interdit depuis le début de la semaine l&#8217;arrivée sur le marché américain de nouveaux modèles de «&#160;robots mobiles avancés » fabriqués en dehors du pays : robots…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52ea4d87a4af",
+          "title": "Startup SoundGate launches an ‘AI tutor’ for learning guitar",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/startup-soundgate-launches-an-ai-tutor-for-learning-guitar/",
+          "category": "ia",
+          "published_at": "2026-07-30T13:25:23+00:00",
+          "summary": "The latest startup hoping to give music-education a tech spin is SoundGate, a company from Armenia that has just launched its first product: an AI-powered guitar tutor.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a60bb1de3ffa",
+          "title": "Spotify adds a ‘Campaign Lift’ metric for its Discovery Mode",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/spotify-adds-a-campaign-lift-metric-for-its-discovery-mode/",
+          "category": "musique",
+          "published_at": "2026-07-30T13:23:14+00:00",
+          "summary": "Spotify’s ‘Discovery Mode’ promotional tool has been quite the talking point since launch due to its model of exchange promotional placement for tracks in certain parts of the streaming service in exchange for lower royalty payouts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8cff8e3feb1",
+          "title": "Impel and IMPF are exploring attribution with WMG’s Sureel AI",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/impel-and-impf-are-exploring-attribution-with-wmgs-sureel-ai/",
+          "category": "musique",
+          "published_at": "2026-07-30T13:20:36+00:00",
+          "summary": "There’s a lot of chatter about ‘attribution’ in the current AI-music debates. Rightsholders are keen to find out if GenAI tracks can be traced back to the ‘inputs’ – the specific songs used to train the models that made them – in order to calculate royalties.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40e418c264aa",
+          "title": "Chartmetric says more Japanese artists are global ‘superstars’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/chartmetric-says-more-japanese-artists-are-global-superstars/",
+          "category": "musique",
+          "published_at": "2026-07-30T13:17:20+00:00",
+          "summary": "Mrs. Green Apple taking 13th place in the IFPI’s global artists chart for 2025 was a wake-up call for anyone underestimating the breakout potential for Japanese acts. Now Chartmetric has some more data to reinforce the trend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a01cbd75a047",
+          "title": "Meta hopes ‘billions of people’ will use its personal AI agents",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/meta-hopes-billions-of-people-will-use-its-personal-ai-agents/",
+          "category": "ia",
+          "published_at": "2026-07-30T13:15:52+00:00",
+          "summary": "A million dollars isn’t cool. You know what’s cool? BILLIONS of people using your company’s personal AI agents, hopefully with no unfortunate side-effects in terms of mental health, mass surveillance or societal polarisation!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b03b08af5103",
+          "title": "Clique Apps aims to get the ‘artist apps’ bandwagon rolling again",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/clique-apps-aims-to-get-the-artist-apps-bandwagon-rolling-again/",
+          "category": "musique",
+          "published_at": "2026-07-30T13:13:57+00:00",
+          "summary": "For music-industry pros with long memories, Clique Apps is a throwback to the heyday of Mobile Roadie and other ‘every artist needs a mobile app’ startups.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f655d36565c",
+          "title": "Spotify’s new take on a ‘Running Mode’ is now live in its app",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/spotifys-new-take-on-a-running-mode-is-now-live-in-its-app/",
+          "category": "musique",
+          "published_at": "2026-07-30T13:08:08+00:00",
+          "summary": "Search for ‘Fitness’ in Spotify’s mobile app and – if you’re a premium subscriber – you may now find its new ‘Running Mode’.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3c9613c741f",
+          "title": "Grammys boss defends ‘Asian Pop’ category after BTS refuse to submit",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/grammys-boss-defends-asian-pop-category-after-bts-refuse-to-submit/",
+          "category": "ia",
+          "published_at": "2026-07-30T11:30:00+00:00",
+          "summary": "The recent decision to add a dedicated ‘Asian Pop’ category to the Grammy Awards was pitched as justified recognition of “one of the most significant and sustained forces in the global music industry”.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "870cc692224c",
+          "title": "Watch out, Suno: Google upgrades Lyria AI music model with ‘more realistic and emotionally nuanced vocals’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/watch-out-suno-google-has-upgraded-lyria/",
+          "category": "ia",
+          "published_at": "2026-07-30T11:10:44+00:00",
+          "summary": "The model rolled out inside Google Flow Music, the company's AI song-creation platform.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "755bd87fb826",
+          "title": "Grammys CEO ‘saddened’ by BTS decision to skip the 2027 awards – and defends new Asian pop category",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/grammys-ceo-harvey-mason-jr-says-he-is-saddened-by-bts-decision-to-skip-the-2027-awards-and-defends-the-new-asian-pop-category/",
+          "category": "ia",
+          "published_at": "2026-07-30T11:06:38+00:00",
+          "summary": "Mason said the Asian Pop category was created \"to celebrate the depth, diversity and extraordinary growth of pop artistry coming out of Asia.\"\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "bc88addf33dd",
           "title": "La saison 3 des Anneaux de pouvoir fera un saut dans le temps, sans trop s’embêter avec la chronologie de Tolkien",
@@ -42,6 +547,26 @@
           "category": "musique",
           "published_at": "2026-07-30T10:00:24+00:00",
           "summary": "What’s better than a a survey of over 5,100 Indian “digital content consumers” on “how India listens, streams and pays for music”? A survey of more than 15,300 of them. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1fe2ed0204a",
+          "title": "EY-IMI report examines why some Indians don’t pay for music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/07/30/ey-imi-report-examines-why-some-indians-wont-pay-for-music/",
+          "category": "musique",
+          "published_at": "2026-07-30T10:00:24+00:00",
+          "summary": "What’s better than a a survey of over 5,100 Indian “digital content consumers” on “how India listens, streams and pays for music”? A survey of more than 15,300 of them. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74e530592bce",
+          "title": "SoundPatrol sued by Lucas Keller and Oak Felder, who allege they helped develop its copyright-detection software without compensation",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/soundpatrol-sued-by-lucas-keller-and-oak-felder-who-allege-they-developed-its-copyright-detection-software-without-compensation/",
+          "category": "musique",
+          "published_at": "2026-07-30T10:00:04+00:00",
+          "summary": "Soundpatrol struck partnered with Universal and Sony in September 2025 to detect copyright infringement in AI-generated music\nSource",
           "summary_type": "extrait source"
         },
         {
