@@ -1,9 +1,184 @@
 {
-  "generated_at": "2026-08-01T10:10:31.392294+00:00",
+  "generated_at": "2026-08-02T10:07:24.409712+00:00",
   "days": [
+    {
+      "date": "2026-08-02",
+      "articles": [
+        {
+          "id": "f809eb94da58",
+          "title": "Plus de 400 km sur autoroute : j’ai essayé la Mercedes CLA et je comprends pourquoi c’est la voiture de l’année",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2302415-plus-de-400-km-sur-autoroute-jai-essaye-la-mercedes-cla-et-je-comprends-pourquoi-cest-la-voiture-de-lannee.html",
+          "category": "ia",
+          "published_at": "2026-08-02T09:43:00+00:00",
+          "summary": "Est-ce que la Mercedes CLA mérite son trophée de voiture de l'année ? C'est la question à laquelle je trépignais de répondre et pour cause, la berline électrique à pléthore d'atouts qui donne envie de signer le chèque. Design, technologie, autonomie, voici mon essai complet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91f5b6f58e0a",
+          "title": "Ces superbes dioramas de Final Fantasy VII et Metal Gear Solid sortent bientôt, et sont en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2305221-ces-superbes-dioramas-de-final-fantasy-vii-et-metal-gear-solid-sortent-bientot-et-sont-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-08-02T08:00:00+00:00",
+          "summary": "[Précommande] Oui, ils sont magnifiques. Et oui, ils rendraient parfaitement bien sur une bibliothèque. Ces deux dioramas représentant des scènes cultes de deux jeux vidéo cultes ont en plus l’audace de ne pas être trop chers. Que demander de plus ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6be242031dfa",
+          "title": "Kylie Minogue Joins Nick Cave and the Bad Seeds for ‘Where the Wild Roses Grow’ in Brighton",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kylie-minogue-nick-cave-and-the-bad-seeds-where-the-wild-roses-brighton-1236307687/",
+          "category": "musique",
+          "published_at": "2026-08-02T05:28:22+00:00",
+          "summary": "The duet marked the first time the pair had performed the song together live since 2019.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80c6afbc2862",
+          "title": "Billie Eilish’s ‘Hit Me Hard and Soft: The Tour’ Film Hits Streaming This Week",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/billie-eilishs-hit-me-hard-and-soft-tour-film-streaming-1236307658/",
+          "category": "musique",
+          "published_at": "2026-08-02T00:24:23+00:00",
+          "summary": "The concert film, made with James Cameron, debuts on streaming on Aug. 6 via Paramount+.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-01",
       "articles": [
+        {
+          "id": "83802d1de695",
+          "title": "Patti Smith Reflects On Meeting Pope Leo XIV: ‘A Moment That Will Forever Produce a Smile’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/patti-smith-pope-leo-xiv-meet-photo-1236307650/",
+          "category": "ia",
+          "published_at": "2026-08-01T22:27:56+00:00",
+          "summary": "He was familiar with Smith's tune \"Wave.\" “That was marvelous,” he said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86d037762bcc",
+          "title": "‘¡Viva México!’ Harry Styles Kicks Off His GNP Seguros Stadium Residency: 5 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/harry-styles-together-together-tour-mexico-best-moments/",
+          "category": "musique",
+          "published_at": "2026-08-01T19:22:03+00:00",
+          "summary": "The British superstar performed the first of six concerts in Mexico City on July 31, on a night that sealed his love for the Latin American country.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27be7ce15e8f",
+          "title": "Glen Hansard’s Family Announces Public Memorial and Funeral Details in Dublin",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/glen-hansard-funeral-memorial-details-announced-1236307573/",
+          "category": "ia",
+          "published_at": "2026-08-01T16:57:54+00:00",
+          "summary": "“Music at the funeral will be provided by Glen’s friends and family,\" the singer-songwriter's family said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85fadf0ca943",
+          "title": "Du vibe coding au brain fry : la nouvelle fatigue qui terrasse les devs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2304443-du-vibe-coding-au-brain-fry-la-nouvelle-fatigue-qui-terrasse-les-devs.html",
+          "category": "ia",
+          "published_at": "2026-08-01T16:31:00+00:00",
+          "summary": "Les développeurs les plus en pointe avec l’intelligence artificielle générative décrivent une fatigue d’un genre nouveau, la vibecoding fatigue ou l’AI brain fry. Des parades sont inventées pour ne pas se laisser soumettre par l’IA. Cette fatigue pourrait gagner tous les métiers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc3171a95ad1",
+          "title": "Here’s Where to Watch WWE SummerSlam 2026 Live Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/wwe-summerslam-2026-how-to-watch-live-online-free-1236303355/",
+          "category": "musique",
+          "published_at": "2026-08-01T15:39:11+00:00",
+          "summary": "Don't miss Liv Morgan vs. Iyo Sky and Roman Reigns vs. Seth Rollins during the two-night wrestling event, with Darius Rucker set to perform.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ad28b82ef75",
+          "title": "La découverte d’une NES spéciale dans un love hotel relance une vieille légende urbaine sur Nintendo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303271-la-decouverte-dune-nes-speciale-dans-un-love-hotel-relance-une-vieille-legende-urbaine-sur-nintendo.html",
+          "category": "ia",
+          "published_at": "2026-08-01T15:02:00+00:00",
+          "summary": "Les légendes urbaines du jeu vidéo, on adore ça. Rien de mieux qu'un bon vieux mythe sur un jeu ou une console rétro pour partir dans une quête de savoir interminable et passionnante. Notre histoire d'aujourd'hui s'intéresse à un modèle particulier de NES retrouvé dans un love…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5586e31c46c",
+          "title": "Où précommander le film d’animation Memories dans sa sublime édition collector Blu-ray 4K ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2304949-ou-precommander-le-film-danimation-memories-dans-sa-sublime-edition-collector-blu-ray-4k.html",
+          "category": "ia",
+          "published_at": "2026-08-01T14:00:00+00:00",
+          "summary": "[Précommande] Alors oui, on achète de moins en moins de DVD et de Blu-ray ces derniers temps, le dématérialisé étant devenu le principal moyen de consommer des films et des séries. Pourtant, certaines éditions physiques valent encore sacrément le coup, à l’image de ce sublime…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "feaed808bfe6",
+          "title": "Bloctel tire sa révérence, Claude pirate trois entreprises par erreur et Google rebaptise ses hackers : on vous raconte la semaine Cyberguerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2305275-bloctel-tire-sa-reverence-claude-pirate-trois-entreprises-par-erreur-et-google-rebaptise-ses-hackers-on-vous-raconte-la-semaine-cyberguerre.html",
+          "category": "ia",
+          "published_at": "2026-08-01T14:00:00+00:00",
+          "summary": "Trois actualités à retenir cette semaine : Bloctel ferme ses portes le 11 août, Anthropic reconnaît à son tour des cas de piratage involontaire par Claude, et Google harmonise en interne le nom de ses groupes de hackers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc527c3d1a64",
+          "title": "Test du Galaxy Z Fold 8 : je crois que Samsung a trouvé le format parfait",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2303041-test-du-galaxy-z-fold-8-je-crois-que-samsung-a-trouve-le-format-parfait.html",
+          "category": "ia",
+          "published_at": "2026-08-01T13:29:00+00:00",
+          "summary": "Sept ans après son premier smartphone pliant, Samsung essaye un nouveau format avec le Galaxy Z Fold 8 qui prend la forme d'un passeport. Le bilan est sans appel : je n'ai jamais autant aimé un smartphone pliant. Le Galaxy Z Fold 8 a des défauts (son appareil photo et ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29412274fde8",
+          "title": "Où voir les films Spider-Man en streaming ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2303693-ou-voir-les-films-spider-man-en-streaming.html",
+          "category": "justice",
+          "published_at": "2026-08-01T12:01:00+00:00",
+          "summary": "La sortie au cinéma de Spider-Man: Brand New Day vous a peut-être donné envie de voir ou revoir les précédents films centrés sur le tr_s apprécié super-héros Marvel. Vous ne savez pas où aller ? Suivez le guide.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b87e10926c85",
+          "title": "Quand le RGB s’emballe, il faut sortir le marteau : aidez ce pauvre Simon à réparer un PC !",
+          "source": "Next INpact",
+          "url": "https://next.ink/249265/quand-le-rgb-semballe-il-faut-sortir-le-marteau-aidez-ce-pauvre-simon-a-reparer-un-pc/",
+          "category": "ia",
+          "published_at": "2026-08-01T11:37:00+00:00",
+          "summary": "Cet été,&#160;Next vous propose des mini-jeux. Aujourd’hui, vous devez aider un technicien à réparer un PC. Problème, le système RGB (oui, c’est un Jacky PC…) fait des siennes et s&#8217;allume par intermittence. Seule solution, utiliser le marteau pour éteindre les éléments…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd96370e9126",
+          "title": "Incendies en Gironde vus depuis l’espace et sauvetage du Starship : le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2304891-incendies-en-gironde-vus-depuis-lespace-et-sauvetage-du-starship-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-08-01T11:15:00+00:00",
+          "summary": "L'actualité de la semaine du 27 juillet 2026 a été tristement marquée par les incendies en Gironde et dans Les Landes, dont les conséquences dévastatrices ont été observées depuis le ciel. SpaceX a aussi entamé le sauvetage du Starship, qui flottait au large de l'Australie après…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39a2d5f5c1ee",
+          "title": "Voiture électrique : ce que révèlent vraiment les chiffres du marché automobile français de juillet",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2305405-voiture-electrique-ce-que-revelent-vraiment-les-chiffres-du-marche-automobile-francais-de-juillet.html",
+          "category": "ia",
+          "published_at": "2026-08-01T10:59:30+00:00",
+          "summary": "L’électrique prend l’avantage en juillet sur le marché français, devant chacune des catégories d’hybrides. Le mouvement profite d’abord à Renault, quand Tesla cale et que les constructeurs chinois avancent leurs pions. Décryptage des résultats du mois de juillet.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "41c86646e85a",
           "title": "Superchargeurs Tesla gratuits en Gironde, taxes sur les PHEV et un long trajet trop facile en citadine électrique : le récap’ Vroom de la semaine",
