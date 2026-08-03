@@ -1,9 +1,294 @@
 {
-  "generated_at": "2026-08-02T10:07:24.409712+00:00",
+  "generated_at": "2026-08-03T11:43:53.751946+00:00",
   "days": [
+    {
+      "date": "2026-08-03",
+      "articles": [
+        {
+          "id": "7dd2bdb4485d",
+          "title": "UMG’s Q2 revenues go up – but analysts and investors are looking closer",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/03/umgs-q2-revenues-go-up-but-analysts-and-investors-are-looking-closer/",
+          "category": "musique",
+          "published_at": "2026-08-03T11:30:00+00:00",
+          "summary": "On Friday, Universal Music Group released its Q2 2026 results, and to the casual observer, everything looks fine – all the big numbers went up: total revenue was €3.29bn, up 13.3% year-on-year at constant currency (YOY(cc)), with recorded music up 16.2% YoY(cc) to €2.52bn, and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccf8f3175ae5",
+          "title": "Pour Barbie 2, ce n’est pas gagné, Warner juge Margot Robbie et Ryan Gosling « trop gourmands »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2305677-pour-barbie-2-ce-nest-pas-gagne-warner-juge-margot-robbie-et-ryan-gosling-trop-gourmands.html",
+          "category": "ia",
+          "published_at": "2026-08-03T11:29:00+00:00",
+          "summary": "Le succès planétaire à 1,4 milliard de dollars n'aura pas suffi à arrondir les angles. Les négociations pour Barbie 2 sont au point mort : le patron de Warner Bros. refuse d'allonger la monnaie pour Margot Robbie, Ryan Gosling et Greta Gerwig.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db5abaae2063",
+          "title": "ChatGPT résout 10 grands problèmes de maths, mais il y a un souci considérable qui émerge",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2305579-chatgpt-resout-10-grands-problemes-de-maths-mais-il-y-a-un-souci-considerable-qui-emerge.html",
+          "category": "ia",
+          "published_at": "2026-08-03T11:01:00+00:00",
+          "summary": "OpenAI affirme qu'une version interne de son modèle Astra a terrassé dix problèmes ouverts majeurs. Mais derrière l'emballement, les mathématiciens font face à un gouffre vertigineux : l'intelligence artificielle génère désormais des démonstrations plus vite que la science n'est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75fc81157dfc",
+          "title": "AI and Protecting a Celebrity’s voice through Trademark",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ai-and-protecting-a-celebritys-voice-through-trademark/",
+          "category": "ia",
+          "published_at": "2026-08-03T10:31:50+00:00",
+          "summary": "The following MBW op/ed comes from Music Attorneys Heidy Vaquerano and Cynthia Katz at Fox Rothschild.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57f0b14a1627",
+          "title": "Le Z Fold 8 est la meilleure publicité pour l’iPhone Fold… mais j’espère qu’Apple ne fera pas ces erreurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2305635-le-z-fold-8-est-la-meilleure-publicite-pour-liphone-fold-mais-jespere-quapple-ne-fera-pas-ces-erreurs.html",
+          "category": "ia",
+          "published_at": "2026-08-03T10:29:00+00:00",
+          "summary": "Avec son format strictement identique à ce que les rumeurs annoncent sur l'iPhone pliant, le Samsung Galaxy Z Fold 8 donne un avant-goût du futur smartphone d'Apple. Tout n'est pas parfait avec cet appareil, mais l'avenir de la catégorie s'annonce plus que jamais excitant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae10b35cab48",
+          "title": "Microsoft veut convaincre sur les améliorations de Windows 11 et met l’accent sur la RAM",
+          "source": "Next INpact",
+          "url": "https://next.ink/249898/microsoft-veut-convaincre-sur-les-ameliorations-de-windows-11-et-met-laccent-sur-la-ram/",
+          "category": "institutionnel",
+          "published_at": "2026-08-03T10:12:00+00:00",
+          "summary": "Pavan Davuluri, vice-président de Microsoft chargé de Windows et des services, a publié un important billet de blog le 31 juillet. Il y renouvelle les engagements de l’entreprise sur les améliorations portées ou à venir de Windows 11, dont les performances. Le responsable…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd45826d8ed5",
+          "title": "Vous vous souvenez du jeu web3 d’Ubisoft ? Il va fermer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2305529-vous-vous-souvenez-du-jeu-web3-dubisoft-il-va-fermer.html",
+          "category": "ia",
+          "published_at": "2026-08-03T10:01:00+00:00",
+          "summary": "Ubisoft a annoncé la fermeture des serveurs de Champions Tactics, son premier jeu web3 lancé en 2024, à une époque où les NFT n'avaient déjà plus la cote. Qu'il ait duré quasiment deux ans relève de l'exploit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d792a59a644",
+          "title": "OpenAI promeut son prochain modèle Astra avec la résolution de 10 problèmes de maths",
+          "source": "Next INpact",
+          "url": "https://next.ink/249855/openai-promeut-son-prochain-modele-astra-avec-la-resolution-de-10-problemes-de-maths/",
+          "category": "ia",
+          "published_at": "2026-08-03T09:27:14+00:00",
+          "summary": "OpenAI met en avant la résolution de 10 problèmes de mathématiques par son nouveau modèle, nom de code Astra, qui n&#8217;est pas encore disponible. L&#8217;usage de plus en plus commun de l&#8217;IA générative dans la recherche en mathématiques pose parfois des questions sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f58ba2dd0ddd",
+          "title": "« On est allé trop loin » : Mercedes admet les limites du tout-tactile et annonce le retour des boutons physiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2305543-on-est-alle-trop-loin-mercedes-admet-les-limites-du-tout-tactile-et-annonce-le-retour-des-boutons-physiques.html",
+          "category": "ia",
+          "published_at": "2026-08-03T08:54:00+00:00",
+          "summary": "Alors que les dalles numériques n'ont jamais occupé autant d'espace dans les habitacles, Mercedes-Benz reconnaît avoir poussé le « tout-tactile » un peu trop loin. La marque à l'étoile envisage une nouvelle approche ergonomique visant à réintégrer des commandes mécaniques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9241e35e8c97",
+          "title": "Donald Trump fait désormais payer Wall Street pour recevoir ses publications plus vite (et jouer avec le marché)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2305533-donald-trump-fait-desormais-payer-wall-street-pour-recevoir-ses-publications-plus-vite-et-jouer-avec-le-marche.html",
+          "category": "ia",
+          "published_at": "2026-08-03T08:23:33+00:00",
+          "summary": "Depuis le 1er août 2026, les acteurs de la finance peuvent payer jusqu’à 100 000 dollars par mois pour recevoir plus rapidement les publications de Donald Trump sur Truth Social. Un nouveau service qui ravive les soupçons de conflit d’intérêts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a539ec662c1",
+          "title": "Xbox promet des jours meilleurs, Sony assume la fin des jeux physiques",
+          "source": "Next INpact",
+          "url": "https://next.ink/249778/xbox-promet-des-jours-meilleurs-sony-assume-la-fin-des-jeux-physiques/",
+          "category": "ia",
+          "published_at": "2026-08-03T08:10:00+00:00",
+          "summary": "Xbox a beau avoir attiré plus de 200 millions de nouveaux joueurs en un an, ses revenus reculent toujours. Microsoft promet un retour à la croissance d’ici juin 2027. De son côté, Sony voit les ventes de PS5 ralentir mais améliore fortement la rentabilité de sa division…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f74587a7ad8",
+          "title": "Non, la suite d’Alien Romulus n’est pas enterrée, 20th Century Studios recadre les rumeurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2305545-non-la-suite-dalien-romulus-nest-pas-enterree-20th-century-studios-recadre-les-rumeurs.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-03T08:08:57+00:00",
+          "summary": "Une rumeur persistante affirmait que la suite du succès de 2024 avait été enterrée en coulisses à cause de tensions avec Ridley Scott. Le président de 20th Century Studios est intervenu directement pour remettre les pendules à l'heure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b2047f39283",
+          "title": "Sauvetage du télescope Swift : le remorqueur LINK sort enfin de sa toupie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2305531-sauvetage-du-telescope-swift-le-remorqueur-link-sort-enfin-de-sa-toupie.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-03T07:50:00+00:00",
+          "summary": "Après avoir failli virer à la catastrophe à la suite d'une panne de ses gyroscopes, la mission de secours du télescope Swift reprend des couleurs. En freinant la rotation incontrôlée du remorqueur LINK, la NASA et Katalyst Space sauvent l'opération sur le fil.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c31aafd1d12",
+          "title": "☕️ Retrait du marché de 5 smartphones, dont Nothing Phone 3a et Samsung A55 (SM-A556E/DS)",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/retrait-du-marche-de-5-smartphones-dont-nothing-phone-3a-et-samsung-a55-sm-a556e-ds/",
+          "category": "institutionnel",
+          "published_at": "2026-08-03T07:38:06+00:00",
+          "summary": "Le DAS est le niveau d’émission d’onde d’un smartphone. Il doit rester en dessous de certaines limites réglementaires lors d’une utilisation. Nous en parlions la semaine dernière, elle est par exemple de 4 W/kg pour le DAS « membre ». Quatre smartphones ont été épinglés par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a92069af3c8",
+          "title": "Le prochain Stellar Blade se prend un torrent d’insultes après un clip immonde généré par IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2305505-le-prochain-stellar-blade-se-prend-un-torrent-dinsultes-apres-un-clip-immonde-genere-par-ia.html",
+          "category": "ia",
+          "published_at": "2026-08-03T07:11:10+00:00",
+          "summary": "Avec le beau succès de Stellar Blade, sa suite, Stellar Blade: Blood Rain, a rapidement été mise en chantier. Après avoir dévoilé le jeu lors du Summer Game Fest 2026, le studio a partagé un clip pour le moins douteux, dont les images semblent avoir été générées par IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0a8bb01ad6e",
+          "title": "CORTIS & Juicy J Talks About Performing New Song “Motion” At Lollapalooza 2026 | All Access",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/cortis-juicy-j-talks-about-performing-new-song-motion-at-lollapalooza-2026/",
+          "category": "musique",
+          "published_at": "2026-08-03T07:05:32+00:00",
+          "summary": "K-Pop boy band Cortis talk about performing their new song &#8220;Motion&#8221; with collaborator Juicy J backstage at Lollapalooza 2026. CORTIS&#160; What&#8217;s good, everybody? This is CORTIS&#160; Juicy J&#160; and Juicy J.&#160; CORTIS&#160; Welcome to Billboard. Working…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f58f84cdc29",
+          "title": "☕️ L’Éducation nationale s’est encore fait pirater, un nombre important d’agents concernés",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/leducation-nationale-sest-encore-faite-pirater-un-nombre-important-dagents-concernes/",
+          "category": "ia",
+          "published_at": "2026-08-03T06:39:02+00:00",
+          "summary": "Vendredi, le ministère a reconnu « une intrusion frauduleuse dans l&#8217;un de ses systèmes d&#8217;information », qui « a pu conduire à l&#8217;exfiltration de données à caractère personnel concernant un nombre important de ses agents ». C’est la troisième fois cette année,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c0cb0758a2a",
+          "title": "Les nouveaux prix des Xbox Series en France font froid dans le dos",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2305503-les-nouveaux-prix-des-xbox-series-en-france-font-froid-dans-le-dos.html",
+          "category": "ia",
+          "published_at": "2026-08-03T06:26:08+00:00",
+          "summary": "Le 1er août 2026 a rimé avec une forte hausse des consoles Xbox Series X et Xbox Series S. L'occasion de découvrir qu'en France une Xbox Series X coûte désormais au minimum 750 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c332124259c1",
+          "title": "☕️ SpaceXAI remplace les turbines à gaz de son datacenter Colossus par d’autres turbines à gaz",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/spacexai-remplace-les-turbines-a-gaz-de-son-datacenter-colossus-par-dautres-turbines-a-gaz/",
+          "category": "ia",
+          "published_at": "2026-08-03T05:56:52+00:00",
+          "summary": "SpaceXAI veut faire amende honorable auprès des résidents qui habitent non loin de Colossus. Les serveurs de l&#8217;énorme datacenter installé non loin de Memphis carburent actuellement avec des turbines à gaz bruyantes et polluantes&#160;; elles vont être remplacées par une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2c8ed4aa48a",
+          "title": "Spider-Man: Brand New Day réalise un démarrage historique, mais sans battre le record absolu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2305489-spider-man-brand-new-day-realise-un-demarrage-historique-mais-sans-battre-le-record-absolu.html",
+          "category": "ia",
+          "published_at": "2026-08-03T05:46:45+00:00",
+          "summary": "Sans surprise, Spider-Man: Brand New Day a réalisé un premier week-end historique aux États-Unis. Et, au box-office mondial, il titille déjà le milliard de dollars empochés. Dans l'histoire, seul Avengers: Endgame a fait mieux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c0df47f50d4",
+          "title": "Une plateforme 800 V peut-elle relancer la Smart #1 en France ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2305421-une-plateforme-800-v-peut-elle-relancer-la-smart-1-en-france.html",
+          "category": "ia",
+          "published_at": "2026-08-03T05:27:00+00:00",
+          "summary": "La Smart #1 va basculer sur une architecture 800 V pour faire chuter son temps de recharge de 30 à seulement 12 minutes. Suffisant pour redorer son blason face à la concurrence européenne ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e07c53a6b526",
+          "title": "Paul Kelly Returns to Sydney’s Kings Cross for One-Off Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/paul-kelly-returns-sydney-one-off-show-1236307930/",
+          "category": "musique",
+          "published_at": "2026-08-03T04:31:19+00:00",
+          "summary": "Kelly will release a deluxe edition of his 2025 album Seventy two ahead of the gig.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6714b7752e9a",
+          "title": "Fans Choose Ariana Grande’s ‘Petal’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-best-new-music-poll-results-1236307916/",
+          "category": "musique",
+          "published_at": "2026-08-03T00:04:01+00:00",
+          "summary": "The pop star's much-anticipated eighth album brought in more than 41% of the vote this week.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-02",
       "articles": [
+        {
+          "id": "c98fe5f46097",
+          "title": "Ariana Grande Taking a Break After Tour Amid Ongoing Public Scrutiny",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-break-public-scrutiny-1236307902/",
+          "category": "ia",
+          "published_at": "2026-08-02T21:39:36+00:00",
+          "summary": "The star will no longer be appearing in the West End revival of Stephen Sondheim’s Sunday in the Park With George.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e65036853cab",
+          "title": "Taylor Swift, The Beatles, Elvis & More Artists With the Most Weeks at No. 1 on the Billboard 200: Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/most-weeks-at-no-1-billboard-200-taylor-swift-the-beatles/",
+          "category": "musique",
+          "published_at": "2026-08-02T20:00:12+00:00",
+          "summary": "Morgan Wallen is just nine weeks behind Garth Brooks as the core country artist with the most weeks at No. 1.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "563bd52eb97c",
+          "title": "The Best Moments So Far From Lollapalooza 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/lollapalooza-2026-best-moments-recap/",
+          "category": "musique",
+          "published_at": "2026-08-02T19:56:56+00:00",
+          "summary": "Olivia Dean's elegance and JENNIE's new music previews led night three.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f85c0ab0b79",
+          "title": "J’adore le Lego X-Files, mais certainement pas à ce prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2305071-jadore-le-lego-x-files-mais-certainement-pas-a-ce-prix.html",
+          "category": "ia",
+          "published_at": "2026-08-02T16:45:00+00:00",
+          "summary": "Alors qu'un reboot est en préparation, la série culte X-Files a à son tour droit à un Lego, intégré à la gamme Ideas. Le set est réussi, mais son prix élevé risque de dissuader bien des fans de Mulder et Scully.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eadd0836f769",
+          "title": "Brouillage, lasers et « satellites kamikazes » : à quoi ressemble vraiment une arme spatiale ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2302511-brouillage-lasers-et-satellites-kamikazes-a-quoi-ressemble-vraiment-une-arme-spatiale.html",
+          "category": "ia",
+          "published_at": "2026-08-02T16:01:00+00:00",
+          "summary": "Entre lasers orbitaux, brouillage GPS et missiles sol-espace, la notion d'arme spatiale dépasse largement le cadre de la science-fiction. Voici comment le renseignement américain découpe cette menace bien réelle.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "f809eb94da58",
           "title": "Plus de 400 km sur autoroute : j’ai essayé la Mercedes CLA et je comprends pourquoi c’est la voiture de l’année",
