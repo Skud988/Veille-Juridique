@@ -1,9 +1,394 @@
 {
-  "generated_at": "2026-08-03T11:43:53.751946+00:00",
+  "generated_at": "2026-08-04T10:49:47.045842+00:00",
   "days": [
+    {
+      "date": "2026-08-04",
+      "articles": [
+        {
+          "id": "6a96f2f1a7e8",
+          "title": "Cet examen surveillé par une IA a tourné au fiasco, 58 000 étudiants ont dû le repasser",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306197-cet-examen-surveille-par-une-ia-a-tourne-au-fiasco-58-000-etudiants-ont-du-le-repasser.html",
+          "category": "ia",
+          "published_at": "2026-08-04T10:30:00+00:00",
+          "summary": "Au Mexique, 58 000 candidats vont devoir repasser l’examen d’entrée de la plus grande université du pays. Pourtant surveillée par une IA, cette épreuve à distance a été marquée par des résultats anormalement élevés et des soupçons de triche massive.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "711dd705db4d",
+          "title": "Daniel Caesar Adds Australia, Latin America Dates to Global Run",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/daniel-caesar-australia-latin-america-tour-dates-1236308669/",
+          "category": "ia",
+          "published_at": "2026-08-04T10:15:22+00:00",
+          "summary": "The Australian leg opens Nov. 5 at Afterpay Arena in Sydney.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bdd0ce606e37",
+          "title": "Qwen3.8-Max : Alibaba revient dans la course pour rivaliser avec Fable 5 et Kimi K3",
+          "source": "Next INpact",
+          "url": "https://next.ink/250057/qwen3-8-max-alibaba-revient-dans-la-course-pour-rivaliser-avec-fable-5-et-kimi-k3/",
+          "category": "ia",
+          "published_at": "2026-08-04T10:11:09+00:00",
+          "summary": "15 jours après l&#8217;arrivée du modèle Kimi K3 de Moonshot AI, une autre entreprise chinoise, Alibaba, sort un modèle à plus de 2 000 milliards de paramètres. Comme en 2025, avec le « moment DeepSeek », les entreprises chinoises montrent qu&#8217;elles sont capables de suivre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b93593fe357",
+          "title": "Débits fibre : pourquoi le classement des opérateurs change tous les six mois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306119-debits-fibre-pourquoi-le-classement-des-operateurs-change-tous-les-six-mois.html",
+          "category": "ia",
+          "published_at": "2026-08-04T10:00:00+00:00",
+          "summary": "Le baromètre DegroupTest de juillet 2026 place Orange en tête des débits fibre avec 799 Mb/s, mais avec seulement six mégabits devant Bouygues Telecom. DegroupTest écrit que « Orange se fait rattraper par Bouygues Telecom »… sauf que son classement ne veut pas dire grand chose.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf346706d985",
+          "title": "L’Audi A2 e-tron est bien partie pour devenir la voiture électrique la plus sobre de sa catégorie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2306083-laudi-a2-e-tron-est-bien-partie-pour-devenir-la-voiture-electrique-la-plus-sobre-de-sa-categorie.html",
+          "category": "ia",
+          "published_at": "2026-08-04T09:42:00+00:00",
+          "summary": "Audi a communiqué les premières données techniques de son A2 e-tron, la compacte électrique attendue à l'automne 2026. D'après les essais préliminaires, la version de 190 ch consommerait seulement 12,8 kWh/100 km. Un résultat obtenu grâce au travail conjoint sur l'aérodynamique,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2588ad572ad7",
+          "title": "Vicki Wickham, Influential Music Television Producer and Dusty Springfield Manager, Dies at 87",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/vicki-wickham-music-television-producer-death/",
+          "category": "musique",
+          "published_at": "2026-08-04T09:37:39+00:00",
+          "summary": "Wickham served as talent booker of ITV’s Ready, Steady, Go!, a live pop performance show.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10b6834d36eb",
+          "title": "Henry Cavill refuse de dire quel personnage il jouera dans la série Warhammer 40,000",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306071-henry-cavill-refuse-de-dire-quel-personnage-il-jouera-dans-la-serie-warhammer-40000.html",
+          "category": "ia",
+          "published_at": "2026-08-04T09:20:00+00:00",
+          "summary": "Henry Cavill a pris la parole sur son compte Instagram pour faire un petit point d'étape sur l'adaptation ambitieuse de l'univers Warhammer 40,000. Il a confirmé que Mike Flanagan travaille actuellement sur le scénario, mais refuse toujours de dire quel personnage il incarnera…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6425c0418a82",
+          "title": "Ce compteur GPS pour vélo avec un écran XXL profite de 200 € de remise sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306137-ce-compteur-gps-pour-velo-avec-un-ecran-xxl-profite-de-200-e-de-remise-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-08-04T08:57:04+00:00",
+          "summary": "[Deal du jour] Si vous faites du vélo régulièrement, un bon compteur GPS permet de suivre vos performances ou de préparer vos itinéraires. Le Wahoo Elemnt Ace se démarque notamment par son immense écran de 3,8 pouces et son autonomie impressionnante, et profite actuellement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41e512cbc5e6",
+          "title": "Miracle, ça avance enfin dans le bon sens pour le prochain James Bond",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306089-miracle-ca-avance-enfin-dans-le-bon-sens-pour-le-prochain-james-bond.html",
+          "category": "justice",
+          "published_at": "2026-08-04T08:57:00+00:00",
+          "summary": "Cinq ans après le départ de Daniel Craig dans Mourir peut attendre, l'étau se resserre enfin autour du futur 007. La coproductrice Amy Pascal a confirmé une décision imminente d'ici la fin de l'année 2026 pour lancer la toute nouvelle ère de la saga.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c73a80ffed97",
+          "title": "« Ils ont confondu deux noms asiatiques » : OpenAI publie des messages internes pour contrer la plainte d’Apple",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2306093-ils-ont-confondu-deux-noms-asiatiques-openai-publie-des-messages-internes-pour-contrer-la-plainte-dapple.html",
+          "category": "ia",
+          "published_at": "2026-08-04T08:54:07+00:00",
+          "summary": "Accusé par Apple d'avoir volé des informations confidentielles via d'anciens employés, OpenAI publie sa propre défense, messages internes à l'appui.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "196cbe569185",
+          "title": "Fin de Bloctel, interdiction du démarchage dès le 11 août : on fait le point",
+          "source": "Next INpact",
+          "url": "https://next.ink/249950/fin-de-bloctel-interdiction-du-demarchage-des-le-11-aout-on-fait-le-point/",
+          "category": "ia",
+          "published_at": "2026-08-04T08:32:16+00:00",
+          "summary": "Le 11 août, la liste Bloctel disparaitra. Un changement attendu de longue date, car au-delà d’une inefficacité croissante, cette suppression viendra acter un renversement complet de la situation : le démarchage téléphonique sera interdit, sauf consentement explicite préalable..…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9072650cae76",
+          "title": "Telegram supprimé de l’App Store par Apple : que s’est-il passé ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306069-telegram-supprime-de-lapp-store-par-apple-que-sest-il-passe.html",
+          "category": "ia",
+          "published_at": "2026-08-04T08:01:08+00:00",
+          "summary": "Telegram a brièvement été supprimé de l'’'App Store dans le monde entier par Apple le 3 août 2026. La firme à la pomme a signalé qu'un utilisateur avait partagé du « matériel pédopornographique »,",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a01e49719beb",
+          "title": "From Live Debuts To ‘Real’ Talk, Here’s What Changed During Ariana Grande’s First Concert After ‘Petal’: ‘I’d Like To Clear the Air’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/ariana-grande-petal-eternal-sunshine-tour-changes-recap/",
+          "category": "musique",
+          "published_at": "2026-08-04T07:48:10+00:00",
+          "summary": "After announcing an upcoming break, the superstar brought her Eternal Sunshine Tour to Chicago for its first of three nights.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b01450777df9",
+          "title": "Square Enix dément avoir avoir utilisé de l’IA pour une illustration de Kingdom Hearts, mais le mal est fait",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306041-square-enix-dement-avoir-avoir-utilise-de-lia-pour-une-illustration-de-kingdom-hearts-mais-le-mal-est-fait.html",
+          "category": "ia",
+          "published_at": "2026-08-04T07:27:54+00:00",
+          "summary": "Deux mois après avoir été accusé d’avoir utilisé de l’IA générative pour une illustration de la jaquette de Kingdom Hearts Collection, Square Enix revient sur la polémique. Et malheureusement pour l’éditeur, la défense avancée ne convainc pas réellement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b620a5d77118",
+          "title": "Samsung et LG font le ménage dans les apps TV dopées aux proxys résidentiels",
+          "source": "Next INpact",
+          "url": "https://next.ink/250025/samsung-et-lg-font-le-menage-dans-les-apps-tv-dopees-aux-proxys-residentiels/",
+          "category": "ia",
+          "published_at": "2026-08-04T06:59:45+00:00",
+          "summary": "À quelques semaines d&#8217;écart, LG et Samsung ont annoncé la suspension ou l&#8217;interdiction sur leurs plateformes de téléviseurs connectés d&#8217;applications intégrant des systèmes de proxy résidentiel. Il en existe des utilisations légitimes, mais le manque de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f44b90c35e79",
+          "title": "L’une des capacités iconiques de Mario était à l’origine un bug",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306051-lune-des-capacites-iconiques-de-mario-etait-a-lorigine-un-bug.html",
+          "category": "ia",
+          "published_at": "2026-08-04T06:46:48+00:00",
+          "summary": "Shigeru Miyamoto a révélé un détail rigolo à propos de Mario. Sa capacité à dasher au-dessus du vide en pleine course était en réalité un bug datant du premier Super Mario Bros.. Le créateur a préféré en faire un mouvement devenu indispensable dans la palette du plombier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a0c730c09a9",
+          "title": "Live Nation Sets Brazil’s First Purpose-Built Arena With 21,000-Capacity São Paulo Venue",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/live-nation-sao-paulo-venue/",
+          "category": "musique",
+          "published_at": "2026-08-04T06:34:53+00:00",
+          "summary": "The 2028 project is projected to host more than 200 events a year and generate over $311 million in annual economic impact.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98b22853a9d3",
+          "title": "Bitcoins : des clés cryptographiques des wallets de Coldcard trop faciles à reconstituer",
+          "source": "Next INpact",
+          "url": "https://next.ink/250020/bitcoins-des-cles-cryptographiques-des-wallets-de-coldcard-trop-faciles-a-reconstituer/",
+          "category": "ia",
+          "published_at": "2026-08-04T06:04:44+00:00",
+          "summary": "Mauvaise surprise pour des utilisateurs de portefeuilles de bitcoins de Coldcard. Des petits malins ont su reconstituer leurs phrases de récupération, générées par une méthode trop simple. Résultat, plus de 110 millions de dollars dérobés, et un rappel utile : les clés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb091aa6daac",
+          "title": "La série God of War aurait déjà trouvé son nouveau Kratos",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306037-la-serie-god-of-war-aurait-deja-trouve-son-nouveau-kratos.html",
+          "category": "ia",
+          "published_at": "2026-08-04T05:57:46+00:00",
+          "summary": "Dave Bautista, notamment connu pour son rôle dans la trilogie Les Gardiens de la galaxie, serait en lice pour incarner Kratos dans la série God of War. Ryan Hurst, le premier choix, a été forcé de partir après une blessure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4004cb15f89",
+          "title": "C’est la fin de Perplexity dans les offres Revolut : comment vérifier que vous n’allez pas payer ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2305945-cest-la-fin-de-perplexity-dans-les-offres-revolut-comment-verifier-que-vous-nallez-pas-payer.html",
+          "category": "ia",
+          "published_at": "2026-08-04T05:50:05+00:00",
+          "summary": "Quatre jours après avoir annoncé l'arrivée de ChatGPT Go dans ses offres, Revolut prévient ses abonnés de la disparition de Perplexity Pro de sa liste d'avantages. La banque appelle ses clients concernés d'aller annuler eux-mêmes leur abonnement pour éviter d'être prélevés après…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e715b3d2e28",
+          "title": "Ariana Grande Addresses Post-Tour Break Onstage: ‘Nothing Has Been Ruined’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/ariana-grande-speaks-out-chicago-concert-1236308627/",
+          "category": "ia",
+          "published_at": "2026-08-04T04:05:18+00:00",
+          "summary": "The pop star told Chicago fans her decision to step back was \"quietly made a long time ago\" and not a reaction to public scrutiny.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c87d048a716",
+          "title": "Lollapalooza 2026: Highlight Performances From Zara Larsson, Tate McRae, Aespa & Jennie | All Access",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/lollapalooza-2026-highlight-performances-from-zara-larsson-tate-mcrae-aespa-jennie/",
+          "category": "musique",
+          "published_at": "2026-08-04T02:52:18+00:00",
+          "summary": "Billboard gives an inside look at Lollapalooza 2026 in Chicago with highlight performances from Zara Larsson, Tate McRae, JENNIE, Aespa and CORTIS. Aespa&#160; Hi, we&#8217;re Aespa&#160; Stella Lefty&#160;&#160; I&#8217;m Stella Lefty.&#160; CORTIS&#160; What&#8217;s good,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4cc0164e27a",
+          "title": "BTS Grammy Decision Sparks Debate About New Asian Pop Category, But Who Wins & Who Loses?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/bts-grammy-decision-debate-asian-category-pop-shop-podcast-1236308553/",
+          "category": "musique",
+          "published_at": "2026-08-04T01:09:59+00:00",
+          "summary": "On the new Billboard Pop Shop Podcast, Katie &#38; Keith also discuss Madonna &#38; Kylie remix, Ariana Grande's decision to step back after tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9048ceeb903",
+          "title": "Cardi B Celebrates ‘WAP’ Going Diamond With Megan Thee Stallion: We ‘Really Did That’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/cardi-b-megan-thee-stallion-wap-diamond-1236308423/",
+          "category": "ia",
+          "published_at": "2026-08-04T00:09:00+00:00",
+          "summary": "Cardi has the most diamond plaques of any female rapper, with four.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-03",
       "articles": [
+        {
+          "id": "90fdd747bd1d",
+          "title": "La rotation incontrôlée du remorqueur LINK est quasi stabilisée grâce à ses propulseurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2305531-la-rotation-incontrolee-du-remorqueur-link-est-quasi-stabilisee-grace-a-ses-propulseurs.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-03T20:02:12+00:00",
+          "summary": "Après avoir failli virer à la catastrophe à la suite d'une panne de ses gyroscopes, la mission de secours du télescope Swift reprend des couleurs. En freinant la rotation incontrôlée du remorqueur LINK, la NASA et Katalyst Space sauvent l'opération sur le fil.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4be223b351d8",
+          "title": "BMG acquires Wolfmother frontman Andrew Stockdale’s publishing and recorded rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bmg-acquires-wolfmother-frontman-andrew-stockdales-publishing-and-recorded-rights/",
+          "category": "musique",
+          "published_at": "2026-08-03T20:00:04+00:00",
+          "summary": "BMG has published Stockdale globally since 2016, and the acquisition adds his recorded music royalties and neighboring rights to that relationship.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7db6cb035f5",
+          "title": "Warner Music Group and its CFO didn’t part ways because of a dud quarter – WMG filing shows subscription streaming revenues up 11% YoY in calendar Q2",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-group-didnt-part-ways-with-its-cfo-because-of-a-dud-quarter-wmg-filing-shows-subscription-revenues-up-11-yoy-in-calendar-q2/",
+          "category": "musique",
+          "published_at": "2026-08-03T15:43:47+00:00",
+          "summary": "Overall revenues up 9% YoY at constant currency to approximately $1.86 billion\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dce4310c804",
+          "title": "KDE Plasma 6.8 sera nettement plus performant avec les GPU multiples",
+          "source": "Next INpact",
+          "url": "https://next.ink/249861/kde-plasma-6-8-sera-nettement-plus-performant-avec-les-gpu-multiples/",
+          "category": "ia",
+          "published_at": "2026-08-03T15:42:00+00:00",
+          "summary": "Plasma 6.8 va intégrer un changement majeur dans la manière dont le travail graphique est effectué sur les configurations contenant plusieurs GPU. Les gains devraient être substantiels, particulièrement sur les ordinateurs portables ayant des configurations…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e332526e4641",
+          "title": "☕️ Path of Exile 2 : un PC complet envoyé à NVIDIA pour traquer un plantage",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/path-of-exile-2-un-pc-complet-envoye-a-nvidia-pour-traquer-un-plantage/",
+          "category": "ia",
+          "published_at": "2026-08-03T15:25:25+00:00",
+          "summary": "Grinding Gear Games, le studio de Path of Exile, a dû déployer les grands moyens pour venir à bout d&#8217;un bug gênant dans son dernier jeu. Il a tout de même fallu envoyer à NVIDIA un PC de démo pour débusquer le plantage et le corriger. Depuis le lancement de Path of Exile 2…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c35786593d8c",
+          "title": "Apple submergée par les rapports de bugs générés par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/249926/apple-submergee-par-les-rapports-de-bugs-generes-par-ia/",
+          "category": "institutionnel",
+          "published_at": "2026-08-03T14:35:01+00:00",
+          "summary": "Apple, comme d&#8217;autres entreprises de la tech, se noie dans les signalements de bugs générés par IA. Pour tenter de garder la tête hors de l&#8217;eau, le constructeur a mis en place plusieurs mesures visant à limiter le volume des rapports reçus. Au risque de frustrer les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47b8b92cfcd0",
+          "title": "Clique Apps enters the superfan market with standalone apps built for individual artists",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/clique-apps-enters-the-superfan-market-with-standalone-apps-built-for-individual-artists/",
+          "category": "musique",
+          "published_at": "2026-08-03T12:48:36+00:00",
+          "summary": "Unlike Patreon or FanFix profiles, each Clique app lives independently under the creator's name in the App Store.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ac1709d266b",
+          "title": "SoundCloud launches hosted playlist of new music to “combat algorithmic fatigue”",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/03/soundcloud-launches-hosted-playlist-of-new-music-to-combat-algorithmic-fatigue/",
+          "category": "musique",
+          "published_at": "2026-08-03T12:30:00+00:00",
+          "summary": "SoundCloud has launched a music discovery show that features songs and spoken contextual info from the platform’s music experts. The Upload is introduced as a “weekly music TL;DR from SoundCloud’s music discovery team,” and the platform says that it’s designed to “combat…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "00a50e32b75f",
+          "title": "Will Page cites a ‘go big or stay home’ economy for stadium show boom",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/03/will-page-cites-a-go-big-or-stay-home-economy-for-stadium-show-boom/",
+          "category": "musique",
+          "published_at": "2026-08-03T12:30:00+00:00",
+          "summary": "Former Spotify chief economist Will Page has been ruminating in the Financial Times on how gig-goers are doing something that feels counter-intuitive: in a time of financial pressure, they are scrambling to attend expensive stadium shows – and artists like Harry “12 nights at…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dad0e6c79cc4",
+          "title": "More financials news: Sony revenues up 20% and Tips’ deep catalogue revenue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/03/more-financials-news-sony-revenues-up-20-and-tips-deep-catalogue-revenue/",
+          "category": "musique",
+          "published_at": "2026-08-03T12:30:00+00:00",
+          "summary": "On Friday, Music Ally South Asia reported that Indian legacy label Tips Music’s revenue grew 21% year-on-year to Rs106.5 crore (approximately $11.1 million) while profit after tax decreased 4% to Rs43.9 crore ($4.6 million) during the first quarter of FY2027.  And a *lot* of…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "434af65cb22f",
+          "title": "Superfan platform Sesh acquired by free music app TREBEL to build out artist services across the Americas",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/superfan-platform-sesh-acquired-by-free-music-app-trebel-to-build-out-artist-services-across-the-americas/",
+          "category": "musique",
+          "published_at": "2026-08-03T12:16:19+00:00",
+          "summary": "Sesh's technology, TREBEL said, \"turns a listener into an identified fan in under a minute.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bce1a96905da",
+          "title": "[MàJ] SpaceXAI veut faire annuler la loi du Minnesota contre la « nudification »",
+          "source": "Next INpact",
+          "url": "https://next.ink/249483/spacexai-veut-faire-annuler-la-loi-du-minnesota-contre-la-nudification/",
+          "category": "ia",
+          "published_at": "2026-08-03T12:06:43+00:00",
+          "summary": "SpaceXAI part en croisade contre une loi du Minnesota interdisant les technologies de «&#160;nudification&#160;», qui permettent de générer des deepfakes dénudés de personnes réelles. L&#8217;entreprise est la première concernée, puisque son chatbot Grok est massivement utilisé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "906971f66654",
+          "title": "Live Nation strikes JV with São Paulo developer to build ‘South America’s largest indoor arena’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-strikes-jv-with-sao-paulo-developer-to-build-south-americas-largest-indoor-arena/",
+          "category": "musique",
+          "published_at": "2026-08-03T11:52:11+00:00",
+          "summary": "Live Nation says São Paulo Arena will be Brazil's first purpose-built arena designed to the standards of the world's premier live entertainment venues.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14bcf2f23391",
+          "title": "Lawsuit accusing Drake of stream manipulation via Stake.us paused as judge orders arbitration",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/lawsuit-accusing-drake-of-stream-manipulation-via-stake-us-paused-as-judge-orders-arbitration/",
+          "category": "ia",
+          "published_at": "2026-08-03T11:45:12+00:00",
+          "summary": "The ruling means the claims naming Drake will not move forward while the plaintiffs pursue their dispute with Stake in individual arbitration.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "7dd2bdb4485d",
           "title": "UMG’s Q2 revenues go up – but analysts and investors are looking closer",
