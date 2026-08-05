@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-08-04T10:49:47.045842+00:00",
+  "generated_at": "2026-08-05T10:46:09.347889+00:00",
   "days": [
+    {
+      "date": "2026-08-05",
+      "articles": [
+        {
+          "id": "4ba4026c134d",
+          "title": "Puis-je demander à supprimer des données me concernant figurant dans un article de presse diffusé en ligne ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/supprimer-mes-donnees-presse",
+          "category": "ia",
+          "published_at": "2026-08-05T12:00:00+00:00",
+          "summary": "Toute personne concernée a le droit de demander à un organisme de presse l'effacement de données personnelles la concernant figurant dans un article de presse diffusé en ligne. Il ne s’agit toutefois pas d’un droit absolu&amp;nbsp;: une balance entre les intérêts en présence…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bea8365468b3",
+          "title": "Five things to know about Suno’s data breach – and the hack that exposed how the AI music company trains its models",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/five-things-to-know-about-sunos-data-breach-and-the-hack-that-exposed-how-the-ai-music-company-trains-its-models/",
+          "category": "musique",
+          "published_at": "2026-08-05T10:30:27+00:00",
+          "summary": "Some Suno customers whose records were exposed said they had not been notified of the breach.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d68d783a6b92",
+          "title": "Ted Lasso est de retour : 6 bonnes raisons de s’y remettre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306241-ted-lasso-est-de-retour-6-bonnes-raisons-de-sy-remettre.html",
+          "category": "ia",
+          "published_at": "2026-08-05T10:30:00+00:00",
+          "summary": "Le coach le plus moustachu et le plus bienveillant du petit écran est de retour pour une saison 4 de Ted Lasso, à compter du 5 août sur Apple TV . Numerama est là pour vous aider à rechausser vos crampons !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d4b68bff3f8",
+          "title": "C’est quoi Big Walk, le jeu le mieux noté de cette année 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306651-cest-quoi-big-walk-le-jeu-le-mieux-note-de-cette-annee-2026.html",
+          "category": "ia",
+          "published_at": "2026-08-05T10:05:00+00:00",
+          "summary": "Big Walk est en train de créer la surprise. Jeu vidéo en ligne coopératif, il est le tube de cet été 2026, et il pourrait bien s'inscrire dans la durée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfd33afeae1b",
+          "title": "L’agence de pub Adform piratée : un script substituait les portefeuilles crypto des lecteurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/250239/lagence-de-pub-adform-piratee-un-script-substituait-les-portefeuilles-crypto-des-lecteurs/",
+          "category": "ia",
+          "published_at": "2026-08-05T09:54:51+00:00",
+          "summary": "Adform, une importante agence de publicité en ligne qui se vante d&#8217;avoir comme clients de nombreux médias états-uniens mais aussi Spotify, a été piratée. Son script, appelé par tous ses sites clients, a été modifié pour substituer les adresses des portefeuilles de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5507b3fa24c",
+          "title": "Former Nike music licensing staffer and consultant charged over alleged $1M kickback scheme",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/former-nike-music-licensing-staffer-and-consultant-charged-over-alleged-1m-kickback-scheme/",
+          "category": "musique",
+          "published_at": "2026-08-05T09:48:36+00:00",
+          "summary": "The alleged scheme ran for more than 2.5 years, with prosecutors identifying at least 11 fraudulent transactions, FOX 12 reported.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9513fb710307",
+          "title": "On ne comprend plus la stratégie de Porsche, mais les 718 électriques en font toujours bien partie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2306665-on-ne-comprend-plus-la-strategie-de-porsche-mais-les-718-electriques-en-font-toujours-bien-partie.html",
+          "category": "ia",
+          "published_at": "2026-08-05T09:23:00+00:00",
+          "summary": "Six mois après sa prise de fonction, Michael Leiters détaille le plan stratégique censé sauver Porsche. Entre suppressions de postes, retour annoncé du Taycan et volte-face sur la 718 électrique, la marque de Stuttgart avance sur un fil où les arbitrages industriels se heurtent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e0ff39283306",
+          "title": "C’est la fin de Google Assistant sur Android",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306723-cest-la-fin-de-google-assistant-sur-android.html",
+          "category": "ia",
+          "published_at": "2026-08-05T09:15:00+00:00",
+          "summary": "10 ans après son lancement, l'Assistant Google s'arrêtera sur Android le 4 septembre. C'est l'intelligence artificielle Gemini qui prend le relai&nbsp;: Google juge la technologie est suffisamment mature pour ne plus avoir besoin de les faire cohabiter.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "707779d99fa9",
+          "title": "La suite de Ready Player One arrive et les choses sérieuses commencent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306681-la-suite-de-ready-player-one-arrive-et-les-choses-serieuses-commencent.html",
+          "category": "ia",
+          "published_at": "2026-08-05T09:10:00+00:00",
+          "summary": "Le projet d'adaptation de Ready Player Two donne enfin un vrai signe de vie. Le scénariste Zak Penn vient d'officialiser ce que Warner Bros. gardait sous clé, l'écriture du script est bel et bien lancée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cbd6dfed8edf",
+          "title": "Venu raises $25M in debt for its Oklahoma venue, months after CEO said: ‘We are done.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/venu-raises-25m-in-debt/",
+          "category": "ia",
+          "published_at": "2026-08-05T09:00:47+00:00",
+          "summary": "Venu described the deal as a single-lender bridge funding that will carry the 12,500-seat Regent Bank Amphitheater to completion in fall 2026.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "871d5299ec7c",
+          "title": "Spotify overtakes Melon to become South Korea’s second-biggest music streaming service, report finds",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-overtakes-melon-to-become-south-koreas-second-biggest-music-streaming-service-report-finds/",
+          "category": "musique",
+          "published_at": "2026-08-05T08:50:37+00:00",
+          "summary": "It is the first time overseas services have held both of the market's top two positions, according to WiseApp Retail, with Google's YouTube Music still in first.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa18ad035bff",
+          "title": "Las Vegas Sphere drove Sphere Entertainment’s Q2 revenues up 11% to $314M; operating loss ballooned 22%",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/las-vegas-sphere-drove-sphere-entertainments-q2-revenues-up-11-to-314m-operating-loss-ballooned-22/",
+          "category": "ia",
+          "published_at": "2026-08-05T08:49:32+00:00",
+          "summary": "The Sphere segment, which runs the Las Vegas venue, generated revenues of $226.4 million, up $50.8 million, or 29%, year-over-year.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b5ddb512209",
+          "title": "Arch Linux : encore du rififi dans le dépôt AUR, nouvelle vague de code malveillant",
+          "source": "Next INpact",
+          "url": "https://next.ink/250244/arch-linux-encore-du-rififi-dans-le-depot-aur-nouvelle-vague-de-code-malveillant/",
+          "category": "justice",
+          "published_at": "2026-08-05T08:47:00+00:00",
+          "summary": "Pour la deuxième fois en deux mois, l’équipe de la distribution Arch Linux a dû intervenir dans le dépôt AUR (Arch User Repository). En cause, une nouvelle vague de prises de contrôle sur des paquets existants pour leur injecter du code malveillant. La décision a été annoncée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a67dcaca9332",
+          "title": "Sophie Adenot sur l’ISS : son retour anticipé sur Terre se précise pour septembre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2306663-sophie-adenot-son-retour-sur-terre-se-precise-pour-septembre-et-sa-mission-sera-plus-courte-que-prevu.html",
+          "category": "ia",
+          "published_at": "2026-08-05T08:30:00+00:00",
+          "summary": "Initialement prévue pour durer neuf mois, la mission de Sophie Adenot dans la Station spatiale internationale pourrait être écourtée. Avec le lancement de Crew-13 ciblé pour la mi-septembre, l'astronaute française devrait regagner la Terre plus tôt que prévu, après sept mois…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aaae3b00704e",
+          "title": "L’Arabie saoudite possède désormais Electronic Arts : le rachat à 55 milliards de dollars est bouclé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306649-larabie-saoudite-possede-desormais-electronic-arts-le-rachat-a-55-milliards-de-dollars-est-boucle.html",
+          "category": "ia",
+          "published_at": "2026-08-05T08:15:20+00:00",
+          "summary": "Electronic Arts appartient désormais à un consortium mené par le fonds souverain d’Arabie saoudite. L’opération à 55 milliards de dollars, la plus importante acquisition par effet de levier de l’histoire, a été finalisée le 4 août 2026. L’éditeur d’EA Sports FC, Battlefield et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "530e7d867d8b",
+          "title": "☕️ Bien sûr que Doom tourne dans Paint",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/bien-sur-que-doom-tourne-dans-paint/",
+          "category": "ia",
+          "published_at": "2026-08-05T08:10:00+00:00",
+          "summary": "Doom peut tourner sur à peu près n&#8217;importe quoi : dans Photoshop via un plugin, un routeur UniFi, dans ScummVM (pas très rapidement, certes), un appareil photo Canon de 2007… Alors, vous pensez bien que l&#8217;ancêtre des boomer shooters trouve naturellement sa place dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1db4e82ecbd8",
+          "title": "C’est reparti : des agents IA d’Anthropic et OpenAI ont dépassé les bornes en plein test de sécurité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2306659-cest-reparti-des-agents-ia-danthropic-et-openai-ont-depasse-les-bornes-en-plein-test-de-securite.html",
+          "category": "ia",
+          "published_at": "2026-08-05T08:07:27+00:00",
+          "summary": "L'AISI, agence britannique de sécurité de l'IA, a détecté 19 actions non autorisées menées par des agents Claude Mythos 5 et GPT-5.6 Sol sur l'internet réel, lors d'un test cyber censé rester confiné à un environnement simulé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2175a0b163b4",
+          "title": "J. Cole Returns to His (Second) Home With ‘Electric Fall-Off World Tour’ at Madison Square Garden: 6 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/j-cole-the-fall-off-tour-review-best-moments-new-york-city/",
+          "category": "musique",
+          "published_at": "2026-08-05T07:48:51+00:00",
+          "summary": "The 2010s-defining rapper delivered a dazzling career retrospective for his final global trek.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e63bed032da6",
+          "title": "Spotify Q2 results: AI fan-remixing deal with Merlin; 300m Premium subscribers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/05/spotify-q2-results-ai-fan-remixing-deal-with-merlin-300m-premium-subscribers/",
+          "category": "musique",
+          "published_at": "2026-08-05T07:44:09+00:00",
+          "summary": "It’s Quarterly Results Week all week here on Music Ally, and yesterday Spotify released its Q2 results, with some notable big-number-goes-up highlights. Firstly, a sizeable threshold was crossed: Premium subscriber numbers grew 9% YoY to 300 million, with 7m net additions.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5cbb84190589",
+          "title": "Les smartphones pas chers paient le prix fort de la crise de la mémoire",
+          "source": "Next INpact",
+          "url": "https://next.ink/250217/les-smartphones-pas-chers-paient-le-prix-fort-de-la-crise-de-la-memoire/",
+          "category": "ia",
+          "published_at": "2026-08-05T07:37:00+00:00",
+          "summary": "Le marché des smartphones rabougrit à vue d&#8217;œil. La crise de la mémoire enchérit la facture des composants de tous les constructeurs, mais c&#8217;est particulièrement sensible dans l&#8217;entrée de gamme, un secteur où les marges n&#8217;étaient déjà pas bien épaisses.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c8fc90a7b6d",
+          "title": "Amyl And The Sniffers Lasso Country Project",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/amyl-and-the-sniffers-country-project-1236309358/",
+          "category": "ia",
+          "published_at": "2026-08-05T07:35:46+00:00",
+          "summary": "“A film is coming to you soon about Amyl And The Sniffers doing country covers of our own songs,” reads a post on their socials.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41a205893eda",
+          "title": "Cette manette pour Switch 2 à moins de 25 € est la meilleure alternative aux Joy-Con",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306557-cette-manette-pour-switch-2-a-moins-de-25-e-est-la-meilleure-alternative-aux-joy-con.html",
+          "category": "ia",
+          "published_at": "2026-08-05T07:30:00+00:00",
+          "summary": "[Deal du jour] Besoin d'une manette pas chère pour jouer sur Switch 2 ?  Ce modèle de PowerA est parfaitement recommandable à ce prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0575f419e636",
+          "title": "☕️ Record pour le bug bounty de Microsoft : 20 millions de dollars distribués en un an",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/record-pour-le-bug-bounty-de-microsoft-20-millions-de-dollars-distribues-en-un-an/",
+          "category": "ia",
+          "published_at": "2026-08-05T06:42:46+00:00",
+          "summary": "Nouveau record pour le bug bounty de Microsoft. Sur le dernier exercice annuel, le programme a distribué 20 millions de dollars de récompenses à 562 chercheurs en sécurité répartis entre 64 pays. La détection de bugs et de failles s&#8217;est accélérée sur les six derniers mois…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c97c0a028e1",
+          "title": "Pourquoi le rôle de Sadie Sink dans Spider-Man: Brand New Day est resté secret jusqu’au bout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306639-pourquoi-le-role-de-sadie-sink-dans-spider-man-brand-new-day-est-reste-secret-jusquau-bout.html",
+          "category": "ia",
+          "published_at": "2026-08-05T06:33:45+00:00",
+          "summary": "Disney, Marvel Studios et Sony Pictures se sont accordés sur un point important concernant Spider-Man: Brand New Day. Il était en effet crucial que le rôle de Sadie Sink reste secret pendant la promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60e730ac4c9f",
+          "title": "Elsie Spices up Ed Sheeran’s ‘Make It Rain’ For Judges’ Callbacks on ‘AGT’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/elsie-ed-sheeran-make-it-rain-judges-callbacks-agt-watch-1236309342/",
+          "category": "ia",
+          "published_at": "2026-08-05T06:30:51+00:00",
+          "summary": "Simon Cowell, as he so often likes to do, kept the artist and the viewers hanging.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98c8d6e5e9c4",
+          "title": "☕️ EA change officiellement de propriétaires, avec déjà une lourde dette à rembourser",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ea-change-officiellement-de-proprietaires-avec-deja-une-lourde-dette-a-rembourser/",
+          "category": "ia",
+          "published_at": "2026-08-05T06:03:46+00:00",
+          "summary": "Electronic Arts passe officiellement entre les mains d&#8217;un consortium à majorité saoudienne. Le géant américain du jeu vidéo a annoncé son acquisition par trois fonds d’investissements : le PIF (fonds public d&#8217;investissement) d&#8217;Arabie saoudite présidé par le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50bb3bd973c1",
+          "title": "Cette reproduction en 3D du début de Pokémon Rouge et Bleu va tuer votre enfance",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306629-cette-reproduction-en-3d-du-debut-de-pokemon-rouge-et-bleu-va-tuer-votre-enfance.html",
+          "category": "ia",
+          "published_at": "2026-08-05T05:57:06+00:00",
+          "summary": "Un internaute a partagé une vidéo pour le moins traumatisante : une reproduction en 3D de l'introduction de Pokémon Rouge et Bleu, générée avec une IA. On vous déconseille de la regarder si vous souhaitez garder votre souvenir intact.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8bac8f43a23",
+          "title": "KATSEYE Share Their Feelings On Seeing Manon In The Documentary ‘Wild Hearts’ | Billboard News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/katseye-shares-their-feeling-on-seeing-manon-in-their-documentary-wild-hearts/",
+          "category": "musique",
+          "published_at": "2026-08-05T05:48:32+00:00",
+          "summary": "KATSEYE (Yoonchae, Danielle, Megan and Lara) have a lot on their minds. The international girl group share how they feel about their new documentary Wild Hearts, what they&#8217;re excited for their EYEKONS to see, their thoughts on seeing Manon in the documentary, as well as…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74e95fb66b99",
+          "title": "Éclipse solaire du 12 août 2026 : cette carte gratuite vérifie si le relief masquera le spectacle depuis chez vous",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2304229-eclipse-solaire-du-12-aout-2026-cette-carte-gratuite-verifie-si-le-relief-masquera-le-spectacle-depuis-chez-vous.html",
+          "category": "ia",
+          "published_at": "2026-08-05T05:10:00+00:00",
+          "summary": "Admirer l'éclipse de Soleil du 12 août 2026 en France exige un minimum d'anticipation. Grâce à une carte bien pratique, et accessible gratuitement, vous pouvez notamment vérifier si votre lieu d'observation a une vue bien dégagée. Ce serait dommage de s'en rendre compte au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cafbdedb5896",
+          "title": "Il Divo Remember Carlos Marín, Talk New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/il-divo-carlos-marin-new-music-concerts-1236309303/",
+          "category": "musique",
+          "published_at": "2026-08-05T02:40:05+00:00",
+          "summary": "The classical crossover group is mapping out new music and will share a stage later this year with Jose Carreras at Brisbane's Gabba Stadium.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4844ba243c3",
+          "title": "Watch Bono, Eddie Vedder & More Honor Glen Hansard With Emotional Musical Tributes at Dublin Funeral",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/glen-hansard-funeral-bono-eddie-vedder-music-tribute-1236309280/",
+          "category": "musique",
+          "published_at": "2026-08-05T01:22:55+00:00",
+          "summary": "The late singer/songwriter was remembered by friends, family &#38; fellow musicians during Tuesday's service.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dbcaf35f8687",
+          "title": "Billboard Hot Latin Songs Top 10 Countdown for August 8th, 2026 | Billboard Latin",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-august-8th-2026/",
+          "category": "musique",
+          "published_at": "2026-08-05T01:11:55+00:00",
+          "summary": "Bad Bunny continues to dominate the Hot Latin Songs chart with several tracks off his album &#8216;Debí Tirar Más Fotos&#8217; and Karol G comes in strong with a new song &#8220;Matadora.&#8221; NarratorHere&#8217;s the Billboard Hot Latin Songs top 10 for the week dated August…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62e61c4d43ae",
+          "title": "When Kevin Met Calvin: Backstreet Boys’ Kevin Richardson & Snoop Dogg ‘Finally’ Meet After Viral Twin Memes",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/snoop-dogg-kevin-richardson-backstreet-boys-meet-twin-memes-1236309267/",
+          "category": "ia",
+          "published_at": "2026-08-05T01:05:15+00:00",
+          "summary": "\"IYKYK,\" the BSB social accounts caption photos of the celebrity doppelgangers crossing paths at Paw Patrol: The Dino Movie premiere.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-04",
       "articles": [
+        {
+          "id": "499dc78680ba",
+          "title": "Universal has sold a chunk of Spotify stock for around $467M. Artists will likely be paid over $100M of it.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-has-sold-a-chunk-of-spotify-stock-for-around-467m-artists-will-likely-be-paid-over-100m-of-it/",
+          "category": "musique",
+          "published_at": "2026-08-04T20:39:09+00:00",
+          "summary": "Per MBW's calculations, UMG artists could be in line for approximately $131 million of the money.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a280bbbe4d52",
+          "title": "Spotify says it doesn’t need deals with all the majors to launch its AI covers and remixes tool",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-says-it-doesnt-need-deals-with-all-the-major-labels-to-launch-its-ai-covers-and-remixes-tool/",
+          "category": "musique",
+          "published_at": "2026-08-04T20:23:49+00:00",
+          "summary": "Comments landed hours after Spotify announced a licensing agreement with Merlin\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57a234202a55",
+          "title": "The EU AI Act’s rules on AI content labeling and training are now law and enforceable. Here’s what they mean for the music business.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-eu-ai-acts-rules-on-ai-content-labeling-and-training-are-now-law-heres-what-they-mean-for-the-music-business/",
+          "category": "musique",
+          "published_at": "2026-08-04T17:14:21+00:00",
+          "summary": "The European Union's rules requiring AI-generated content to be labeled took effect on Sunday (August 2).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43b1fd6d04f4",
+          "title": "Google touché par une première : un agent IA a été détourné pour en piéger un autre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2306277-google-touche-par-une-premiere-un-agent-ia-a-ete-detourne-pour-en-pieger-un-autre.html",
+          "category": "ia",
+          "published_at": "2026-08-04T16:35:00+00:00",
+          "summary": "Des chercheurs ont démontré la toute première attaque agent contre agent en conditions réelles, en exploitant une faille dans le kit de développement d'agents IA de Google pour Python.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "280c80e13328",
+          "title": "Stephanie Yu promoted to General Counsel and Executive Vice President, Business and Legal Affairs at Sony Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/stephanie-yu-appointed-general-counsel-and-executive-vice-president-business-and-legal-affairs-at-sony-music/",
+          "category": "musique",
+          "published_at": "2026-08-04T16:10:57+00:00",
+          "summary": "Yu will be responsible for overseeing the business, legal, and governmental affairs strategies and activities for the company globally.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a083d69aed3b",
+          "title": "Commercial Lead – Live Entertainment – AIMS – Remote",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/04/commercial-lead-live-entertainment-aims-remote/",
+          "category": "musique",
+          "published_at": "2026-08-04T15:35:11+00:00",
+          "summary": "ABOUT AIMS We build AI technology for music search and discovery. Our clients include most of the leading music companies in the world, from majors to independent labels and publishers. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f31cc7d6f6a6",
+          "title": "IA et reconnaissance faciale : le Royaume-Uni inaugure la police « proactive »",
+          "source": "Next INpact",
+          "url": "https://next.ink/249929/ia-et-reconnaissance-faciale-le-royaume-uni-inaugure-la-police-proactive/",
+          "category": "ia",
+          "published_at": "2026-08-04T15:19:00+00:00",
+          "summary": "Un système de reconnaissance faciale en temps réel (LFR) déployé dans plusieurs milliers de magasins va alerter la police en temps réel lorsqu&#8217;il identifie les « délinquants les plus dangereux ». La police de Londres, qui revendique 2 000 arrestations grâce à la LFR depuis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c09edf000f9",
+          "title": "Microsoft obtient d’Apple un copier-coller entre iPhone et PC",
+          "source": "Next INpact",
+          "url": "https://next.ink/250205/microsoft-obtient-dapple-un-copier-coller-entre-iphone-et-pc/",
+          "category": "ia",
+          "published_at": "2026-08-04T14:55:46+00:00",
+          "summary": "Le copier-coller devrait fonctionner de manière aussi transparente entre les OS d&#8217;Apple qu&#8217;entre un PC et un iPhone. Microsoft va obtenir d&#8217;Apple un équivalent de son presse-papier universel, mais pas avant l&#8217;automne 2027 au plus tôt, et probablement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a82f3e94b6f",
+          "title": "FFmpeg 9.0 met de nouveau Vulkan à l’honneur",
+          "source": "Next INpact",
+          "url": "https://next.ink/250193/ffmpeg-9-0-met-de-nouveau-vulkan-a-lhonneur/",
+          "category": "ia",
+          "published_at": "2026-08-04T14:20:19+00:00",
+          "summary": "Un an après la version 8.0, l’équipe du projet FFmpeg passe à la mouture majeure suivante. Avec FFmpeg 9.0, Vulkan est particulièrement à l’honneur avec plusieurs améliorations importantes, notamment avec certains codecs orientés production et/ou post-production. La nouvelle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03ee29c44e17",
+          "title": "Apple attaque de nouveau OpenAI, qui se défend en public",
+          "source": "Next INpact",
+          "url": "https://next.ink/250187/apple-attaque-de-nouveau-openai-qui-se-defend-en-public/",
+          "category": "ia",
+          "published_at": "2026-08-04T13:33:42+00:00",
+          "summary": "Nouvel épisode dans ce qui va devenir une saga au long cours, celle qui oppose Apple à OpenAI. Le premier a déposé plainte contre le second le mois dernier : l&#8217;entreprise d&#8217;IA se serait rendue coupable de vol de secrets industriels pour accélérer la conception de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f369e856ec97",
+          "title": "WMG releases quarterly results early; revenues up",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/04/wmg-releases-quarterly-results-early-revenues-up/",
+          "category": "ia",
+          "published_at": "2026-08-04T12:30:00+00:00",
+          "summary": "After the excitement of this week’s UMG quarterly results which saw the key numbers go up (and yet saw the share price go down 25%), WMG was due to announce its official earnings on Thursday this week. But – finance surprise! – it is moving that date to tomorrow (Wednesday 4…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9b147b5db88",
+          "title": "What do prediction markets think will happen in Spotify’s results today?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/04/what-do-prediction-markets-think-will-happen-in-spotifys-results-today/",
+          "category": "ia",
+          "published_at": "2026-08-04T12:30:00+00:00",
+          "summary": "Quarterly Financials Season is starting to reach its thrilling crescendo, and later today, Spotify will have its earnings call for the Q2 2026 financial results – which will bundle in updates on the platform’s Monthly Active Users, subscriber growth and perhaps some product…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac5336b57c7b",
+          "title": "Trebel Music acquires superfan platform Sesh",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/04/trebel-music-acquires-superfan-platform-sesh/",
+          "category": "musique",
+          "published_at": "2026-08-04T12:30:00+00:00",
+          "summary": "Trebel Music is one of the more interesting streaming platforms, in that it offers licensed music listening (and even offline play) for free &#8211; in exchange for a gamified ad-based model: users watch ads or interact with brands, accrue points, and use those points to listen…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8af3c68f76a1",
+          "title": "Un ancien ingénieur de Microsoft lance TMOG… un gestionnaire de tâches pour macOS",
+          "source": "Next INpact",
+          "url": "https://next.ink/250140/un-ancien-ingenieur-de-microsoft-lance-tmog-un-gestionnaire-de-taches-pour-macos/",
+          "category": "ia",
+          "published_at": "2026-08-04T12:12:00+00:00",
+          "summary": "Comment ? Un gestionnaire des tâches sur macOS ? Oui, et bien fait en plus. Il s&#8217;agit pour l&#8217;instant d&#8217;une bêta, mais le projet est prometteur. Et des versions pour Windows et Linux sont prévues. Dave Plummer, ex-ingénieur de Microsoft (il a notamment travaillé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5eed7ff22e0a",
+          "title": "Key EU AI Act rules now being enforced – so how does that affect the music industry?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/04/key-eu-ai-act-rules-now-being-enforced-so-how-does-that-affect-the-music-industry/",
+          "category": "ia",
+          "published_at": "2026-08-04T11:30:00+00:00",
+          "summary": "On Sunday 2 August, the EU Artificial Intelligence Act was beefed-up – with a set of key consumer-facing transparency rules, AI compliance requirements, and regulatory enforcement powers all coming into force. There are a lot of facets to this act, and in terms of it impacting…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "6a96f2f1a7e8",
           "title": "Cet examen surveillé par une IA a tourné au fiasco, 58 000 étudiants ont dû le repasser",
