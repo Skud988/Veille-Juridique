@@ -1,9 +1,394 @@
 {
-  "generated_at": "2026-08-05T10:46:09.347889+00:00",
+  "generated_at": "2026-08-06T10:51:12.627230+00:00",
   "days": [
+    {
+      "date": "2026-08-06",
+      "articles": [
+        {
+          "id": "4ab7cb999319",
+          "title": "La scène de sexe la plus explicite de Baldur’s Gate 3 gêne encore YouTube",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307109-la-scene-de-sexe-la-plus-explicite-de-baldurs-gate-3-gene-encore-youtube.html",
+          "category": "ia",
+          "published_at": "2026-08-06T10:31:00+00:00",
+          "summary": "Depuis son lancement, les scènes explicites de Baldur's Gate 3 lui ont valu quelques mésaventures sur les réseaux sociaux et YouTube, et le temps n'y change rien. Aujourd'hui encore, YouTube est allé jusqu'à supprimer un stream officiel du jeu, pourtant diffusé par ses propres…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0db972e69d4f",
+          "title": "Muse Code : Meta attaque Claude Code et Codex et part à la conquête des développeurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2307117-muse-code-meta-attaque-claude-code-et-codex-et-part-a-la-conquete-des-developpeurs.html",
+          "category": "ia",
+          "published_at": "2026-08-06T10:00:00+00:00",
+          "summary": "Le géant américain lance en bêta son propre agent de codage IA, misant sur des prix cassés pour bousculer un marché ultra-concurrentiel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "133bc0f24c4b",
+          "title": "Disney+ va diffuser les matchs du Real Madrid et du FC Barcelone : le streaming continue d’attaquer la télé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306939-disney-va-diffuser-les-matchs-du-real-madrid-et-du-fc-barcelone-le-streaming-continue-dattaquer-la-tele.html",
+          "category": "justice",
+          "published_at": "2026-08-06T09:43:37+00:00",
+          "summary": "Après quatorze saisons, beIN Sports perd la Liga. Les 380 matchs du championnat espagnol seront diffusés en France à la fois sur DAZN et sur Disney+, qui les intègre à l'abonnement de tous ses utilisateurs sans surcoût. Après Amazon et Apple, au tour du Disney de s'attaquer aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b416dad4190a",
+          "title": "Insidious 6 devrait être votre gros frisson de l’été 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307129-insidious-6-devrait-etre-votre-gros-frisson-de-lete-2026.html",
+          "category": "ia",
+          "published_at": "2026-08-06T09:30:00+00:00",
+          "summary": "Adieu la famille Lambert, bonjour le chaos total. La bande-annonce finale d'Insidious: Out of the Further vient de tomber, et Sony Pictures passe clairement à la vitesse supérieure. Cette fois, le Lointain ne se contente plus de vous hanter au fond d'un couloir, il débarque…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07558d0e555f",
+          "title": "Grokipedia n’est plus mise à jour depuis 3 mois",
+          "source": "Next INpact",
+          "url": "https://next.ink/250414/grokipedia-nest-plus-mise-a-jour-depuis-3-mois/",
+          "category": "ia",
+          "published_at": "2026-08-06T09:27:50+00:00",
+          "summary": "Aucune des pages du projet d&#8217;encyclopédie lancé par Elon Musk fin octobre 2025 n&#8217;a été modifié par du contenu généré par IA depuis avril. Aucune édition proposée par des humains n&#8217;a été prise en compte non plus. En janvier dernier, Elon Musk twittait : «…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e2dda8fcbce",
+          "title": "Journée noire pour l’IA chez Google : Demis Hassabis n’est plus à la tête de DeepMind",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2307093-journee-noire-pour-lia-chez-google-demis-hassabis-nest-plus-a-la-tete-de-deepmind.html",
+          "category": "ia",
+          "published_at": "2026-08-06T09:26:07+00:00",
+          "summary": "Considéré comme l’un des architectes de l’intelligence artificielle moderne, Demis Hassabis était devenu le visage de Google dans la révolution des LLM. Le prix Nobel de chimie abandonne la direction opérationnelle de Google DeepMind et va se consacrer à la recherche…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "292ca6b06a41",
+          "title": "BMW met une pub pour le nouveau Spider-Man à bord de ses modèles, mais rien ne vous oblige à la regarder",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2307115-bmw-met-une-pub-pour-le-nouveau-spider-man-a-bord-de-ses-modeles-mais-rien-ne-vous-oblige-a-la-regarder.html",
+          "category": "ia",
+          "published_at": "2026-08-06T08:42:44+00:00",
+          "summary": "À l'occasion de la sortie du film Spider-Man: Brand New Day, BMW a intégré dans le système de ses modèles un film d'animation dans lequel on voit le superhéros survoler un iX3. De quoi provoquer la colère des propriétaires, à raison ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d06a20f5fe2",
+          "title": "On sait pourquoi la fusée géante New Glenn a explosé en plein essai statique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2307121-on-sait-pourquoi-la-fusee-geante-new-glenn-a-explose-en-plein-essai-statique.html",
+          "category": "ia",
+          "published_at": "2026-08-06T08:14:21+00:00",
+          "summary": "Une vanne d'oxygène défaillante sur un moteur BE-4 : voilà ce qui a causé l'explosion de la fusée géante New Glenn en mai 2026. Blue Origin prépare un correctif ciblé et vise toujours un retour au tir avant la fin de l'année.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d61b505b7a9",
+          "title": "iCloud+ : le relais privé d’Apple laisse fuiter l’adresse IP des internautes",
+          "source": "Next INpact",
+          "url": "https://next.ink/250373/icloud-le-relais-prive-dapple-laisse-fuiter-ladresse-ip-des-internautes/",
+          "category": "ia",
+          "published_at": "2026-08-06T07:42:00+00:00",
+          "summary": "Il y a décidément quelque chose qui cloche avec iCloud+. Le bouquet de services payants d’Apple promet de renforcer la confidentialité des internautes, notamment grâce au Relais privé. Mais des chercheurs en sécurité montrent que cette fonction peut faire fuiter l’adresse IP…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a5e3149c31b",
+          "title": "Soft skills : pourquoi les entreprises misent massivement sur les compétences que l’IA ne peut pas reproduire [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2294211-soft-skills-pourquoi-les-entreprises-misent-massivement-sur-les-competences-que-lia-ne-peut-pas-reproduire.html",
+          "category": "ia",
+          "published_at": "2026-08-06T07:30:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec CNFCE\n\nLe remplacement de l’humain par l’IA est une crainte légitime de nombre de professionnels, qu'ils appartiennent au secteur du numérique ou non. La formation apparaît comme une bonne manière de s’armer intellectuellement face…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "26e1c91ddbf0",
+          "title": "☕️ Disney+ va diffuser des vidéos verticales de TikTok pour occuper les temps morts",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/disney-va-diffuser-des-videos-verticales-de-tiktok-pour-occuper-les-temps-morts/",
+          "category": "justice",
+          "published_at": "2026-08-06T07:03:00+00:00",
+          "summary": "Disney va ouvrir prudemment son service de streaming aux contenus créés par d&#8217;autres que ses studios de production. Le géant américain du divertissement a passé un accord avec TikTok pour enrichir le catalogue de vidéos verticales diffusées dans Disney+ par des productions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "142ad7eb1d58",
+          "title": "Voilà la preuve que Sony ne reculera pas sur la fin des disques PlayStation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2307091-voila-la-preuve-que-sony-ne-reculera-pas-sur-la-fin-des-disques-playstation.html",
+          "category": "ia",
+          "published_at": "2026-08-06T06:56:56+00:00",
+          "summary": "Sony commence à poser une note d'information sur la fin des disques PlayStation sur les boîtes de PS5. Si certains espéraient encore un rétropédalage, il va falloir se faire une raison.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48437ebe2aff",
+          "title": "Google réorganise DeepMind pour accélérer sur Gemini",
+          "source": "Next INpact",
+          "url": "https://next.ink/250370/google-reorganise-deepmind-pour-accelerer-sur-gemini/",
+          "category": "ia",
+          "published_at": "2026-08-06T06:34:32+00:00",
+          "summary": "Google a procédé à des changements importants au sein de ses équipes d&#8217;IA les plus stratégiques. Les spécialistes d&#8217;AlphaFold, fleuron scientifique d&#8217;Alphabet, garnissent en partie les rangs des groupes chargés du développement de Gemini. Et on a assisté à un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee5453aae431",
+          "title": "Diablo 4 arriverait bientôt sur Nintendo Switch 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307085-diablo-4-arriverait-bientot-sur-nintendo-switch-2.html",
+          "category": "ia",
+          "published_at": "2026-08-06T06:06:50+00:00",
+          "summary": "Selon une fuite en provenance d'une source fiable, Diablo 4 sortirait sur Nintendo Switch 2 à la rentrée, à l'occasion du coup d'envoi de la quinzième saison.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "178db6dfe8ec",
+          "title": "Ralph Carr, Australian Artist Manager, Unmasked as Businessman Convicted of Rape",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ralph-carr-unmasked-businessman-convicted-rape/",
+          "category": "ia",
+          "published_at": "2026-08-06T03:53:40+00:00",
+          "summary": "The businessman was identified when a longstanding suppression order was lifted by the County Court of Victoria.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dbba79c8a03e",
+          "title": "BMG Buys Andrew Stockdale’s Wolfmother Rights",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/bmg-andrew-stockdales-wolfmother-rights/",
+          "category": "musique",
+          "published_at": "2026-08-06T03:03:23+00:00",
+          "summary": "The music company now controls Stockdale’s publishing, recorded music royalties and neighboring rights interests for Wolfmother’s works.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca5d64ffa15c",
+          "title": "How Role Model Convinced His Label Not to Pair Him With Big-Name Producers After ‘Sally’ Success: ‘I Got to Trust My Gut This Time’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/role-model-convinced-label-no-big-name-producers-chuck-timel-1236310090/",
+          "category": "musique",
+          "published_at": "2026-08-06T01:25:56+00:00",
+          "summary": "The singer/songwriter says he wanted to stick with the collaborators he believed in for Friday's Chuck Timely &#38; The Hourglass.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6793a20b53db",
+          "title": "Warner Music Group Earnings Call Recap: What You Need to Know",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/warner-music-earnings-call-recap-cost-cuts-streaming-growth/",
+          "category": "musique",
+          "published_at": "2026-08-06T01:14:32+00:00",
+          "summary": "CEO Robert Kyncl broke down the 12% increase in digital streaming revenue, revealed how better licensing deals are helping its bottom line and more.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "articles": [
+        {
+          "id": "6f79494d7889",
+          "title": "‘Love Island’ Season 8 Winner Bryce Alakai Is Going on His Debut DJ Tour: See the Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/bryce-alakai-love-island-season-8-winner-debut-dj-tour-1236310061/",
+          "category": "ia",
+          "published_at": "2026-08-05T23:59:06+00:00",
+          "summary": "The reality star is visiting seven cities across the United States &#38; Canada.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c7ebb1bc6cd",
+          "title": "Joe Jonas Says Disappointing Solo Album Sales Led Him to Seek Therapy for the First Time",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/joe-jonas-says-solo-album-sales-led-him-to-seek-therapy-1236310032/",
+          "category": "musique",
+          "published_at": "2026-08-05T23:48:48+00:00",
+          "summary": "\"If I do that, then I matter,\" Joe Jonas says as he reflects on tying his self-worth to his solo success before turning to therapy.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7900f26a4a4",
+          "title": "Here’s Where to Watch ‘The Challenge: Cutthroat’ Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/the-challenge-watch-stream-online-free-1236309451/",
+          "category": "ia",
+          "published_at": "2026-08-05T22:54:43+00:00",
+          "summary": "Season 42 of the reality competition series airs starting Wednesday (Aug. 5).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40f3df9390b1",
+          "title": "UMG asks court to dismiss US musicians’ union lawsuit over Udio AI deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-asks-court-to-dismiss-us-musicians-union-lawsuit-over-udio-ai-deal/",
+          "category": "musique",
+          "published_at": "2026-08-05T19:31:24+00:00",
+          "summary": "Universal Music has asked a federal court to dismiss the lawsuit brought against it by the American Federation of Musicians\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4b66f6a5923",
+          "title": "What if AI’s biggest impact on music isn’t just what gets made, but what gets wanted?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/what-if-ais-biggest-impact-on-music-isnt-just-what-gets-made-but-what-gets-wanted/",
+          "category": "musique",
+          "published_at": "2026-08-05T17:07:03+00:00",
+          "summary": "MBW columnist Sammy Andrews asks: outside of ownership, is the unspoken AI battle in music the difference between distribution and desire?\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3dfafeb19c55",
+          "title": "Court declines to dismiss independent artists’ copyright class action against Udio – but moves the case from Illinois to New York",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/court-declines-to-dismiss-independent-artists-copyright-class-action-against-udio-but-moves-the-case-from-illinois-to-new-york/",
+          "category": "musique",
+          "published_at": "2026-08-05T16:46:28+00:00",
+          "summary": "A federal judge has declined to dismiss the copyright class action brought against AI music generator Udio\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d0c9dcd791c",
+          "title": "Saregama, India’s oldest label, is using AI to make music videos for songs whose visuals it never owned – and refresh its catalog for Gen Z",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/saregama-indias-oldest-label-is-using-ai-to-make-music-videos-for-songs-whose-visuals-it-never-owned-and-refresh-its-catalog-for-gen-z/",
+          "category": "musique",
+          "published_at": "2026-08-05T16:45:26+00:00",
+          "summary": "Saregama's Managing Director was speaking on the firm's Q2 2026 earnings call \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0075f69f6633",
+          "title": "Contenus pédocriminels : Telegram rattrapé par ses problèmes de modération",
+          "source": "Next INpact",
+          "url": "https://next.ink/250358/contenus-pedocriminels-telegram-rattrape-par-ses-problemes-de-moderation/",
+          "category": "ia",
+          "published_at": "2026-08-05T15:56:24+00:00",
+          "summary": "L&#8217;application Telegram a été retirée de l&#8217;App Store pendant quelques heures en début de semaine. Apple réagissait à la présence de contenus pédocriminels. La messagerie a rapidement réagi pour supprimer le contenu en question et bannir l&#8217;utilisateur, ce qui a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d5efe5fc689",
+          "title": "Plus de 1 300 paquets contaminés dans NPM : Shai-Hulud « de retour » avec ChainDrop",
+          "source": "Next INpact",
+          "url": "https://next.ink/250346/plus-de-1-300-paquets-contamines-dans-npm-shai-hulud-de-retour-avec-chaindrop/",
+          "category": "ia",
+          "published_at": "2026-08-05T15:40:38+00:00",
+          "summary": "Un «&#160;nouveau&#160;» malware s’est propagé dans des centaines de paquets sur npm, dont plusieurs très populaires. Il s’agit une nouvelle fois d’une attaque contre la chaine d’approvisionnement ayant réussi à contourner toutes les mesures de sécurité. Dans le code, l’ombre de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ac55cf48a71",
+          "title": "Comment un cheat Roblox « indétectable » transforme les ordinateurs des joueurs naïfs en mouchards",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2306881-comment-un-cheat-roblox-indetectable-transforme-les-ordinateurs-des-joueurs-naifs-en-mouchards.html",
+          "category": "ia",
+          "published_at": "2026-08-05T15:31:00+00:00",
+          "summary": "Des chercheurs de Bitdefender ont mis au jour une campagne de malware distribuée via Discord et des forums de jeu, déguisée en version « indétectable » du script executor Xeno pour Roblox.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ce055ced220",
+          "title": "Proxmox VE débarque officiellement sur Arm64",
+          "source": "Next INpact",
+          "url": "https://next.ink/250323/proxmox-ve-debarque-officiellement-sur-arm64/",
+          "category": "ia",
+          "published_at": "2026-08-05T14:52:18+00:00",
+          "summary": "C’est un changement important : Proxmox est officiellement disponible sur des machines avec un SoC Arm. Cela fait suite à un partenariat avec NVIDIA, dont les plateformes sont les seules à être entièrement supportées. Pour les autres machines, c’est du « best effort ». Proxmox…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1d73f31ecb2",
+          "title": "SpaceX double presque son chiffre d’affaires, mais l’IA plombe l’ambiance",
+          "source": "Next INpact",
+          "url": "https://next.ink/250325/spacex-double-presque-son-chiffre-daffaires-mais-lia-plombe-lambiance/",
+          "category": "ia",
+          "published_at": "2026-08-05T14:35:27+00:00",
+          "summary": "Après une introduction en Bourse en fanfare le 12 juin, l&#8217;heure est au premier bilan pour SpaceX qui a livré ses tout premiers résultats trimestriels ce 4 août. L&#8217;occasion d&#8217;en savoir plus sur la véritable santé financière du fourre-tout d&#8217;Elon Musk, qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ee560a8d6d4",
+          "title": "Reservoir generated $41.5M in calendar Q2, up 12% YoY, with recorded music revenues up 35%",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reservoir-generated-41-5m-in-calendar-q2-up-12-yoy-with-recorded-music-revenues-up-35/",
+          "category": "musique",
+          "published_at": "2026-08-05T14:31:49+00:00",
+          "summary": "Reservoir Media has published its financial results for the three months ended June 30, 2026 – the company's fiscal Q1 2027 (calendar Q2 2026).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "842368db8068",
+          "title": "Diablo 4 teste une fonctionnalité réclamée depuis un long moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2306945-diablo-4-teste-une-fonctionnalite-reclamee-depuis-un-long-moment.html",
+          "category": "ia",
+          "published_at": "2026-08-05T14:25:00+00:00",
+          "summary": "La quinzième saison de Diablo 4, qui débutera après la BlizzCon 2026, va introduire une fonctionnalité que beaucoup réclament depuis un moment : la possibilité de transférer un personnage du royaume éternel vers un royaume saisonnier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6621163ef59",
+          "title": "Behind the Campaign: Raye – ‘This Music May Contain Hope’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/05/behind-the-campaign-raye-music-may-contain-hope/",
+          "category": "musique",
+          "published_at": "2026-08-05T14:00:00+00:00",
+          "summary": "British singer and songwriter Raye released her second studio album, This Music May Contain Hope, on 27 March 2026. It came three years after her breakthrough album, My 21st Century Blues. Lead single ‘Where Is My Husband!’ was released over half a year before the album came out…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54e8b788addd",
+          "title": "L’IA est incapable de produire quelque chose de nouveau, et c’est un chercheur de Google DeepMind qui le dit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306795-lia-est-incapable-de-produire-quelque-chose-de-nouveau-et-cest-un-chercheur-de-google-deepmind-qui-le-dit.html",
+          "category": "ia",
+          "published_at": "2026-08-05T13:53:21+00:00",
+          "summary": "Les intelligences artificielles génèrent des images, écrivent du code et résolvent des problèmes complexes. Mais produisent-elles réellement quelque chose de nouveau ? Pour Tom Zahavy, chercheur chez Google DeepMind, les modèles actuels restent incapables du « saut »…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd0d05372045",
+          "title": "La foire à la saucisse des benchmarks IA… peut-on leur faire confiance ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/250164/la-foire-a-la-saucisse-des-benchmarks-ia-peut-on-leur-faire-confiance/",
+          "category": "ia",
+          "published_at": "2026-08-05T12:42:00+00:00",
+          "summary": "Les benchmarks sur l’IA générative sont largement utilisés par les sociétés, mais veulent-ils dire quelque chose ? Oui, à condition d’avoir l’ensemble des détails et des conditions des tests, qui ne sont que rarement mis en avant. La prudence est donc de mise. Les modèles d’IA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0aba3b570f2c",
+          "title": "Is that viral Fenix Flexin song AI-generated after all? (And if so, what does that mean?)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/05/is-that-viral-fenix-flexin-song-ai-generated-after-all-and-if-so-what-does-that-mean/",
+          "category": "musique",
+          "published_at": "2026-08-05T12:30:00+00:00",
+          "summary": "A couple of months ago we reported on the case of Fenix Flexin, an artist who appeared bewildered by how his viral song “Rubberz” was garnering accusations of being AI-generated, partly because its 80s, synthy, Smiths-y sound was so different to his usual rap songs. In the video…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "049d7817df95",
+          "title": "The Price of Music: streaming fraud – how does it work and who’s doing it?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/05/the-price-of-music-streaming-fraud-how-does-it-work-and-whos-doing-it/",
+          "category": "musique",
+          "published_at": "2026-08-05T12:30:00+00:00",
+          "summary": "This week, the podcast pivots to the popular TRUE CRIME format in order to woo a giant mainstream audience. OK, not quite – but sort-of. Stu and Joe have spoken a lot recently on the show about how AI-generated music accounts for 50% of music uploaded to streaming platforms –…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bbdd699d0ee",
+          "title": "Music-Tech Round-up: Whatnot; Made For Music; Music Manager; Surf music;  Rostr/Hive",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/05/music-tech-round-up-whatnot-made-for-music-music-manager-surf-music-rostr-hive/",
+          "category": "musique",
+          "published_at": "2026-08-05T12:30:00+00:00",
+          "summary": "• The Wall Street Journal has profiled Whatnot, a live shopping app which is like a turbo-charged version of Ebay crossed with Twitch’s livestream and chat functionality. You may have seen social videos of people bidding and buying coins, Pokemon cards, or vinyl. It’s popular…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "4ba4026c134d",
           "title": "Puis-je demander à supprimer des données me concernant figurant dans un article de presse diffusé en ligne ?",
@@ -12,6 +397,46 @@
           "category": "ia",
           "published_at": "2026-08-05T12:00:00+00:00",
           "summary": "Toute personne concernée a le droit de demander à un organisme de presse l'effacement de données personnelles la concernant figurant dans un article de presse diffusé en ligne. Il ne s’agit toutefois pas d’un droit absolu&amp;nbsp;: une balance entre les intérêts en présence…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f012d42565c5",
+          "title": "Collège de la CNIL : 5 nouveaux membres nommés le 2 août 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/college-de-la-cnil-5-nouveaux-membres-nommes-le-2-aout-2026",
+          "category": "institutionnel",
+          "published_at": "2026-08-05T12:00:00+00:00",
+          "summary": "À partir du 2 août 2026, cinq nouveaux membres intègrent la CNIL. Ces nominations interviennent dans le cadre d’un renouvellement partiel du Collège.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "686e631d75e7",
+          "title": "☕️ Flockeries d’été : huit nuances de Zuckerberg dans le métavers, retrouvez le vrai",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flockeries-dete-huit-nuances-de-zuckerberg-dans-le-metavers-retrouvez-le-vrai/",
+          "category": "ia",
+          "published_at": "2026-08-05T11:37:00+00:00",
+          "summary": "Cet été, Next propose de vous divertir avec un cahier de vacances spécial geek. On vous a préparé des mini-jeux pour vous occuper sur la plage, à la montagne, en voyage… Cerise sur le gâteau, il y a des cadeaux à gagner. Deux fois par semaine, on se donne rendez-vous pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7efa79dd5445",
+          "title": "South Korea’s KOMCA ends ban on AI-assisted songs – false filings now risk royalty holds and contract termination",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/south-koreas-komca-ends-its-ban-on-ai-assisted-songs-false-filings-now-risk-royalty-holds-and-contract-termination/",
+          "category": "ia",
+          "published_at": "2026-08-05T11:36:01+00:00",
+          "summary": "The amended rules took effect on Monday (August 3), replacing a ban that KOMCA had applied since March 24, 2025.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb360c242a18",
+          "title": "The false premise that’s killing independent music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-false-premise-thats-killing-independent-music/",
+          "category": "musique",
+          "published_at": "2026-08-05T11:19:08+00:00",
+          "summary": "The following MBW op/ed comes from Daniel J. Carucci, MD, MSc, PhD, the Founder and CEO of Tipify\nSource",
           "summary_type": "extrait source"
         },
         {
