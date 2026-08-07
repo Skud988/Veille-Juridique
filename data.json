@@ -1,9 +1,454 @@
 {
-  "generated_at": "2026-08-06T10:51:12.627230+00:00",
+  "generated_at": "2026-08-07T09:15:09.271961+00:00",
   "days": [
+    {
+      "date": "2026-08-07",
+      "articles": [
+        {
+          "id": "f27c6dae00d7",
+          "title": "Affaire Jean Pormanove : prison avec sursis et bannissement de Kick pendant 6 mois",
+          "source": "Next INpact",
+          "url": "https://next.ink/250699/affaire-jean-pormanove-prison-avec-sursis-et-bannissement-de-kick-pendant-6-mois/",
+          "category": "ia",
+          "published_at": "2026-08-07T08:52:03+00:00",
+          "summary": "Après la mort de Raphaël Graven en direct sur la chaine Kick nommée Jean Pormanove, le tribunal correctionnel de Nice a condamné les responsables de la chaine pour des violences et humiliations en ligne. Les peines contiennent notamment de la prison avec sursis et six mois de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2bd5c300c99",
+          "title": "Suno veut mettre fin au far-west de la musique générée par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/250684/suno-veut-mettre-fin-au-far-west-de-la-musique-generee-par-ia/",
+          "category": "musique",
+          "published_at": "2026-08-07T08:35:05+00:00",
+          "summary": "Le temps du Far West dans le secteur de la musique générée par IA est-il bientôt terminé ? Suno, une des principales startups sur ce marché bouillonnant, promet davantage de transparence pour lutter contre la fraude et les abus, sans pour autant freiner l&#8217;adoption de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0da435b59606",
+          "title": "Bonne nouvelle si vous avez un ancien iPhone : Apple augmente ses prix de reprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2307911-bonne-nouvelle-si-vous-avez-un-ancien-iphone-apple-augmente-ses-prix-de-reprise.html",
+          "category": "ia",
+          "published_at": "2026-08-07T08:26:39+00:00",
+          "summary": "Apple vient d'augmenter la valeur de reprise de nombreux iPhone dans le cadre de son programme Trade In. Les gains sont modestes sur la plupart des modèles, mais peuvent encourager à aller faire recycler un ancien appareil. Une bonne occasion de fouiller dans ses tiroirs,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b02f23551e0e",
+          "title": "La série culte de romans La Guerre des clans va avoir son adaptation en jeu vidéo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307807-la-serie-culte-de-romans-la-guerre-des-clans-va-avoir-son-adaptation-en-jeu-video.html",
+          "category": "ia",
+          "published_at": "2026-08-07T07:58:05+00:00",
+          "summary": "La Guerre des clans est une saga culte pour toute une génération de lectrices et de lecteurs, qui continue encore aujourd'hui de faire le bonheur des librairies. C'est aussi une saga-fleuve portée par une communauté de fans très fidèle, qui réclame depuis plusieurs années déjà…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32ffe53939ab",
+          "title": "Ariana Grande’s ‘Petal’ Drops In at No. 1 In Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/ariana-grande-petal-no-1-australia-1236311390/",
+          "category": "ia",
+          "published_at": "2026-08-07T07:48:08+00:00",
+          "summary": "\"Petal\" becomes Ari's sixth leader on Australia’s all-genres national survey.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87881b43fae6",
+          "title": "Au fait, pourquoi Metroid s’appelle Metroid ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/734643-pourquoi-metroid-sappelle-metroid.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-07T07:21:34+00:00",
+          "summary": "Dans une émission japonaise diffusée au début des années 2000, l'un des créateurs de la franchise Metroid a donné la réponse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b363598b70c",
+          "title": "☕️ ChatGPT fait sauter la limite sur les conversations texte pour les comptes gratuits",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/chatgpt-fait-sauter-la-limite-sur-les-conversations-texte-pour-les-comptes-gratuits/",
+          "category": "ia",
+          "published_at": "2026-08-07T07:20:00+00:00",
+          "summary": "Les utilisateurs qui se servent gratuitement de ChatGPT vont bénéficier d&#8217;une douceur. OpenAI fait en effet sauter les limites des discussions texte, qui deviennent donc illimitées. Une proposition très agressive parmi les chatbots généralistes. Ce n&#8217;est pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4f33b58fa8c",
+          "title": "Voici 10 scènes rares de Baldur’s Gate 3 que vous n’avez probablement pas vues",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307815-voici-10-scenes-rares-de-baldurs-gate-3-que-vous-navez-probablement-pas-vues.html",
+          "category": "ia",
+          "published_at": "2026-08-07T07:15:00+00:00",
+          "summary": "Larian Studios a publié une vidéo intéressante pour les fans de Baldur's Gate 3. Elle réunit dix séquences parmi les plus rares du jeu, soit des moments que vous avez probablement loupés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa7765d66eb6",
+          "title": "Role Model Talks Gracie Abrams, Plugs ‘Chuck Timely’ Album With ‘Tonight Show’ Performance",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/role-model-interview-performance-chuck-timely-tonight-show-1236311381/",
+          "category": "musique",
+          "published_at": "2026-08-07T07:10:49+00:00",
+          "summary": "The singer-songwriter discusses his new album, touring with Gracie Abrams and his \"enemies list\" for an interview with Jimmy Fallon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "66e48407c226",
+          "title": "ChatGPT n’a plus de limites dans sa version gratuite : vous pouvez lui parler en illimité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2307817-chatgpt-na-plus-de-limites-dans-sa-version-gratuite-vous-pouvez-lui-parler-en-illimite.html",
+          "category": "ia",
+          "published_at": "2026-08-07T06:54:35+00:00",
+          "summary": "Une limite historique de ChatGPT va disparaître : OpenAI annonce que les utilisateurs gratuits pourront désormais discuter autant qu'ils le souhaitent avec GPT-5.6 Luna, son nouveau modèle conçu pour la rapidité. L'entreprise mise sur cette distinction pour battre ses rivaux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdd0b64dd3a5",
+          "title": "☕️ BMW transforme ses voitures en panneaux publicitaires pour Spider-Man",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/bmw-transforme-ses-voitures-en-panneaux-publicitaires-pour-spider-man/",
+          "category": "ia",
+          "published_at": "2026-08-07T06:42:37+00:00",
+          "summary": "Les BMW sont des supports publicitaires comme les autres. Plusieurs conducteurs n&#8217;ont guère apprécié voir sur l&#8217;écran de leurs voitures une réclame pour le blockbuster Marvel estival Spider-Man: Brand New Day. La publicité, pardon, « l&#8217;animation festive » selon…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c86febf5671",
+          "title": "Le film The Legend of Zelda a trouvé son grand méchant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307805-le-film-the-legend-of-zelda-a-trouve-son-grand-mechant.html",
+          "category": "ia",
+          "published_at": "2026-08-07T06:08:31+00:00",
+          "summary": "On connaît désormais le nom de l'acteur qui a été choisi pour incarner Ganondorf dans l'adaptation en film de la saga The Legend of Zelda. Uli Latukefu donnera la réplique à Bo Bragason (Zelda) et Benjamin Evan Ainsworth (Link).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78c2f946ed02",
+          "title": "Sécurité : Fedora 45 devrait activer par défaut la Shadow Stack dans tout le système",
+          "source": "Next INpact",
+          "url": "https://next.ink/250638/securite-fedora-45-devrait-activer-par-defaut-la-shadow-stack-dans-tout-le-systeme/",
+          "category": "ia",
+          "published_at": "2026-08-07T06:02:00+00:00",
+          "summary": "La prochaine version de la distribution Linux devrait activer par défaut un important mécanisme de sécurité, la Shadow Stack. L’équipe effectue actuellement un gros travail préparatoire, qui pourrait largement débroussailler le terrain pour les autres systèmes Linux.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46d7bab1718a",
+          "title": "Karol G, Role Model, FLO, Stray Kids & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/karol-g-role-model-flo-stray-kids-new-music-friday-guide-1236310598/",
+          "category": "musique",
+          "published_at": "2026-08-07T05:44:27+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe5a86b66933",
+          "title": "Karol G’s New Album ‘No Me Arrepiento de Sentir Tanto’ Featuring Drake & More Is Here: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/karol-g-no-me-arrepiento-de-sentir-tanto-stream-it-now-1236309607/",
+          "category": "musique",
+          "published_at": "2026-08-07T04:00:00+00:00",
+          "summary": "The 14-track album follows 2025'sTropicoqueta, which debuted at No. 1 on Top Latin Albums.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d7e0edfb9c4",
+          "title": "‘CoComelon: The Movie’ Brings Baby JJ (And SZA) To the Big Screen: Watch the First Teaser Trailer",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/cocomelon-movie-trailer-sza-justin-tranter-music-1236311181/",
+          "category": "musique",
+          "published_at": "2026-08-07T01:29:14+00:00",
+          "summary": "The R&#38;B star is bringing her voice to the first CoComelon movie, with original music from Justin Tranter.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff258383f987",
+          "title": "Ryan Murphy Addresses Ariana Grande’s ‘American Horror Story’ Exit: ‘Who’s Busier Than Ariana Grande? No One’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/ryan-murphy-ariana-grande-american-horror-story-interview-1236311231/",
+          "category": "ia",
+          "published_at": "2026-08-07T00:55:11+00:00",
+          "summary": "Murphy reveals he might revisit the scrapped role he had for the star at a later time.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f53fa2ab424b",
+          "title": "Cam’ron Threatens to Expose Members of Cardi B’s Team Over Unreleased Song: ‘Take This as a Warning’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/camron-threatens-expose-cardi-b-team-scrapped-feature-1236311115/",
+          "category": "ia",
+          "published_at": "2026-08-07T00:20:52+00:00",
+          "summary": "The Harlem rapper &#38; media personality was asked to contribute to a remake of his hit song \"What Means the World to You\" that was released in 2000.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab1b9b4de0df",
+          "title": "Universal & Sony Music Take Legal Action in Canada Against ‘Parasitic’ Streaming App Musi",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/umg-sony-music-copyright-lawsuit-canadian-streaming-app/",
+          "category": "musique",
+          "published_at": "2026-08-07T00:01:17+00:00",
+          "summary": "IFPI and Music Canada are coordinating the action against the app, which unlawfully sources music from YouTube.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "185eccd44d8a",
+          "title": "J-pop powerhouse ASOBISYSTEM opens first US headquarters in California",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/j-pop-powerhouse-asobisystem-opens-first-us-headquarters-in-california/",
+          "category": "ia",
+          "published_at": "2026-08-07T00:00:17+00:00",
+          "summary": "ASOBISYSTEM calls the launch its biggest spending yet in North America, and a permanent base for J-pop acts it has been sending on tour across the US.\nSource",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-06",
       "articles": [
+        {
+          "id": "d646aec8fbac",
+          "title": "The Music Industry Is Trying to Guess the AI Recipe After Dinner Was Served",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-trying-to-guess-the-ai-recipe-after-dinner-was-served/",
+          "category": "musique",
+          "published_at": "2026-08-06T18:06:28+00:00",
+          "summary": "The following MBW op-ed comes from Andreea Gleeson, former CEO of TuneCore and founder of AGA (Andreea Gleeson Advisory)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47bec908986c",
+          "title": "On… Universal Music Group, Downtown, India, and Streaming 2.0",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/on-universal-music-group-downtown-india-and-streaming-2-0/",
+          "category": "musique",
+          "published_at": "2026-08-06T17:53:15+00:00",
+          "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9970655e3cdc",
+          "title": "Warner Music expects AI music deals to boost subscription streaming revenue from late 2026",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-expects-ai-music-deals-to-boost-subscription-streaming-revenue-from-late-2026/",
+          "category": "musique",
+          "published_at": "2026-08-06T17:40:29+00:00",
+          "summary": "Robert Kyncl said WMG expected its \"licensing deals to contribute materially to our subscription streaming revenue growth starting in fiscal '27.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80595e76b34b",
+          "title": "Les Nuits des étoiles 2026 : où aller pour observer le ciel en France ce week-end ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2305869-les-nuits-des-etoiles-2026-ou-aller-pour-observer-le-ciel-en-france-ce-week-end.html",
+          "category": "ia",
+          "published_at": "2026-08-06T16:59:00+00:00",
+          "summary": "Cette année, les Nuits des étoiles ne seront que le début. Du 7 au 9 août 2026, des centaines de soirées d’observation seront organisées en France, avant une éclipse solaire exceptionnelle le 12 août et le pic des Perséides dans la nuit suivante.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33a4888f5d06",
+          "title": "Sony Music Group and Universal Music Group take legal action against ‘parasitic’ streaming app Musi in Canada",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-umg-take-legal-action-against-parasitic-streaming-app-musi-in-canada/",
+          "category": "musique",
+          "published_at": "2026-08-06T16:26:47+00:00",
+          "summary": "The action is coordinated by IFPI, which represents the recorded music industry worldwide\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fb9b3f53f49",
+          "title": "Présidentielle 2027 :  des ingérences aux conséquences difficilement quantifiables",
+          "source": "Next INpact",
+          "url": "https://next.ink/250545/presidentielle-2027-des-ingerences-aux-consequences-difficilement-quantifiables/",
+          "category": "ia",
+          "published_at": "2026-08-06T16:04:50+00:00",
+          "summary": "Plusieurs candidats à l&#8217;élection présidentielle ont été récemment visés par des campagnes de désinformation sur les réseaux sociaux. Sans grande visibilité directe pour certaines au moins, elles arrivent quand même à se faire une place dans l&#8217;actualité via leur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfad4d865c27",
+          "title": "☕️ Meta ouvre Muse Code et casse les prix face à OpenAI et Anthropic",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/meta-ouvre-muse-code-et-casse-les-prix-face-a-openai-et-anthropic/",
+          "category": "ia",
+          "published_at": "2026-08-06T15:54:00+00:00",
+          "summary": "Dans la foulée de la version 1.2 de son modèle Muse Spark, Meta ouvre à tous les développeurs son agent de programmation Muse Code en bêta «&#160;pour créer des choses qui comptent ». Et qui ne coûtent pas trop cher non plus : les tarifs de Muse Spark 1.2 sont en effet plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "683403afd355",
+          "title": "Le début de la fin ? La fusion Warner/Paramount passe un cap, mais tout n’est pas joué",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307435-le-debut-de-la-fin-la-fusion-warner-paramount-passe-un-cap-mais-tout-nest-pas-joue.html",
+          "category": "ia",
+          "published_at": "2026-08-06T15:45:00+00:00",
+          "summary": "Londres vient de valider la mégafusion entre Paramount Skydance et Warner Bros. Discovery. Un feu vert de plus pour le futur géant du divertissement, mais qui ne règle en rien le vrai problème : aux États-Unis, la justice prend son temps et l'addition commence à faire très mal.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed1012251967",
+          "title": "À 20 milliards de kilomètres de la Terre, le coup de poker électrique pour préserver Voyager 2 a payé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2307289-a-20-milliards-de-kilometres-de-la-terre-le-coup-de-poker-electrique-pour-preserver-voyager-2-a-paye.html",
+          "category": "ia",
+          "published_at": "2026-08-06T15:22:35+00:00",
+          "summary": "Pari gagné à 21 milliards de kilomètres de la Terre. La manœuvre électrique « Big Bang » a fonctionné sur Voyager 2, sauvant l'un de ses derniers instruments et offrant au moins un an de répit à la sonde avant le tour de Voyager 1.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "222bb6958955",
+          "title": "Primetime, c’est quoi ce nouveau film avec Robert Pattinson qui chasse les pédophiles ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307545-primetime-cest-quoi-ce-nouveau-film-avec-robert-pattinson-qui-chasse-les-pedophiles.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-06T15:09:00+00:00",
+          "summary": "Caméras cachées, dérapages éthiques et traque de prédateurs en direct : A24 vient de balancer la bande-annonce de Primetime. Robert Pattinson s'y glisse dans la peau de Chris Hansen, l'animateur star de l'émission controversée To Catch a Predator.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88979964e2c3",
+          "title": "La Terre pourrait survivre à la mort du Soleil avec ce plan complètement démesuré",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2307425-la-terre-pourrait-survivre-a-la-mort-du-soleil-avec-ce-plan-completement-demesure.html",
+          "category": "ia",
+          "published_at": "2026-08-06T15:01:00+00:00",
+          "summary": "Dans une étude publiée le 13 juillet 2026, un chercheur imagine un plan de méga-ingénierie pour maintenir la Terre habitable après la mort du Soleil. Pare-soleil géant, déplacement de notre planète et lumière artificielle permettraient, de façon très théorique, de prolonger son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a567d38b1038",
+          "title": "‘India at its core is a song-driven economy, moving toward a personality-led, show business economy.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/india-at-its-core-is-a-song-driven-economy-moving-toward-a-personality-led-show-business-economy/",
+          "category": "musique",
+          "published_at": "2026-08-06T14:38:50+00:00",
+          "summary": "Times Music CEO Mandar Thakur talks catalog acquisitions, India’s subscription challenge, and why he believes Indian music’s biggest opportunity lies abroad...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31d86cfde557",
+          "title": "Les tireurs français de nouveau sous la menace : un poids lourd de l’armurerie touché par une fuite de données",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2307613-les-tireurs-francais-a-nouveau-dans-le-viseur-des-cybercriminels-armurerie-lavaux-annonce-une-fuite-de-donnees-spectaculaire.html",
+          "category": "ia",
+          "published_at": "2026-08-06T14:26:35+00:00",
+          "summary": "L'armurier français vient d'informer ses clients d'une cyberattaque ayant exposé les données liées à leurs commandes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34fc2b24945e",
+          "title": "Mistral lance Shieldstral, son « petit » modèle local pour la modération de contenus",
+          "source": "Next INpact",
+          "url": "https://next.ink/250391/mistral-lance-shieldstral-son-petit-modele-local-pour-la-moderation-de-contenus/",
+          "category": "ia",
+          "published_at": "2026-08-06T13:53:47+00:00",
+          "summary": "Mistral a lancé ce 4 aout un nouveau «&#160;petit&#160;» modèle. Nommé Shieldstral, il est dédié aux tâches de modération. Avec environ 4 milliards de paramètres, il est facilement installable sur un grand nombre de machines. L’entreprise française continue sur sa lancée des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a678a5fdaac",
+          "title": "☕️ Les profits de Nintendo en forte hausse malgré le recul des ventes de Switch 2",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/les-profits-de-nintendo-en-forte-hausse-malgre-le-recul-des-ventes-de-switch-2/",
+          "category": "ia",
+          "published_at": "2026-08-06T13:33:20+00:00",
+          "summary": "Des ventes de consoles et un chiffre d&#8217;affaires en baisse, mais des profits en forte hausse : c&#8217;est le bilan à grands traits du premier trimestre fiscal de Nintendo (le deuxième du calendrier). Le constructeur japonais a écoulé 3,82 millions de Switch 2 entre avril…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dbc0df1431e9",
+          "title": "Suno muscles into vinyl market, plans to let users press their AI songs onto 12-inch records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-muscles-into-vinyl-market-plans-to-let-users-press-their-ai-songs-onto-12-inch-records/",
+          "category": "ia",
+          "published_at": "2026-08-06T13:13:31+00:00",
+          "summary": "Company has opened a waitlist for Suno Vinyl, a service that turns songs made on its platform into physical records\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5952f18ce9d",
+          "title": "WMG calendar Q2: Total revenue up 9.3% YoY to $1.86B; subscription streaming revenues rose 11% YoY",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/wmg-calendar-q2-total-revenue-up-9-3-yoy-to-1-86b-subscription-streaming-revenues-rose-11-yoy/",
+          "category": "musique",
+          "published_at": "2026-08-06T12:39:37+00:00",
+          "summary": "Warner Music Group has issued its full financial results for the three months ended June 30, 2026\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cbf5f16ee4c",
+          "title": "Suno becomes first customer of Musixmatch’s Sentinel, which screens AI prompts and outputs for copyrighted material",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-first-customer-of-musixmatchs-sentinel-which-screens-ai-prompts-and-outputs-for-copyrighted-material/",
+          "category": "ia",
+          "published_at": "2026-08-06T12:36:54+00:00",
+          "summary": "Suno has integrated the technology to identify when copyrighted compositions, lyrics, and music may be present, Musixmatch said on Thursday (August 6).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2209e726c988",
+          "title": "Symphonic partners with Artyshield to offer AI protection platform MusicShield",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/06/symphonic-partners-with-artyshield-to-offer-ai-protection-platform-musicshield/",
+          "category": "musique",
+          "published_at": "2026-08-06T12:30:00+00:00",
+          "summary": "Distributer Symphonic have partnered with ArtyShield, an AI platform that helps rightsholders protect their work from unauthorised AI use. Symphonic clients can now access some of ArtyShield’s tools for free, including access to MusicShield, a tool that is designed to “help…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "116e57eda958",
+          "title": "Play One We Know aims to help build sustainable careers from the grassroots",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/06/play-one-we-know-aims-to-help-build-sustainable-careers-from-the-grassroots/",
+          "category": "ia",
+          "published_at": "2026-08-06T12:30:00+00:00",
+          "summary": "UK startup Play One We Know (POWK), aims to help grassroots artists, bands and independent venues build more sustainable futures by “turning fan attention into meaningful support” – by making it easier for audiences to buy, book and connect with grassroots artists and venues via…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f76687fead7",
+          "title": "Suno will lets users create one-off vinyl records from their song library",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/06/suno-will-lets-users-create-one-off-vinyl-records-from-their-song-library/",
+          "category": "musique",
+          "published_at": "2026-08-06T12:30:00+00:00",
+          "summary": "Have you ever found yourself wishing that your AI-generated songs on Suno sounded a bit “warmer?” Or with a “fuller sound stage?” Well, now you can finally play your AI-songs through your audiophile hi-fi setup, because Suno is about to launch a service that lets you “turn the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c27f3a23b5c",
+          "title": "Power Up announces 40 participants for sixth year of programme",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/06/power-up-announces-40-participants-for-sixth-year-of-programme/",
+          "category": "ia",
+          "published_at": "2026-08-06T12:30:00+00:00",
+          "summary": "Power Up is the award-winning long-term initiative co-founded by PRS Foundation and Ben Wynter, and aims to drive meaningful change by investing in Black music creators, industry professionals and executives in the UK.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32d0052be94f",
+          "title": "Quarterly reports season: focus shifts onto future streaming revenue growth strategies",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/06/quarterly-reports-season-focus-shifts-onto-future-streaming-revenue-growth-strategies/",
+          "category": "musique",
+          "published_at": "2026-08-06T11:30:00+00:00",
+          "summary": "It&#8217;s nearly over, folks – we’ve had most of the big music-oriented results now – and the takeaway by the market seems to be one of cautious approval, with a keen eye on the future.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9e965885f75",
+          "title": "Singapore touring and concert firm Triangle raises $15M, as former Live Nation APAC President Roger Field joins leadership team",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/singapore-touring-and-concert-firm-triangle-raises-15m-as-former-live-nation-apac-president-roger-field-joins-leadership-team/",
+          "category": "musique",
+          "published_at": "2026-08-06T11:02:31+00:00",
+          "summary": "Triangle, formerly Creation Collective, describes itself as \"Asia-Pacific's only homegrown, end-to-end live entertainment platform\",\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "4ab7cb999319",
           "title": "La scène de sexe la plus explicite de Baldur’s Gate 3 gêne encore YouTube",
