@@ -1,9 +1,334 @@
 {
-  "generated_at": "2026-08-07T09:15:09.271961+00:00",
+  "generated_at": "2026-08-08T09:02:17.544539+00:00",
   "days": [
+    {
+      "date": "2026-08-08",
+      "articles": [
+        {
+          "id": "b36fad6e53b7",
+          "title": "Un dragon de retour dans House of the Dragon, Tom Bombadil débarque dans Les Anneaux de pouvoir, et Mario dévoile son secret : c’est le récap pop culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308321-un-dragon-de-retour-dans-house-of-the-dragon-tom-bombadil-debarque-dans-les-anneaux-de-pouvoir-et-mario-devoile-son-secret-cest-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-08-08T08:00:00+00:00",
+          "summary": "Cette semaine fut placée sous le signe des grands retours héroïques : Feux-du-Soleil n’a pas dit son dernier mot dans la saison 3 de House of the Dragon, tandis que Tom Bombadil vient faire coucou dans la saison 3 des Anneaux de pouvoir — et on parle quand même du personnage le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f171846983d",
+          "title": "Vera Blue covers Radiohead’s ‘Creep’ for triple j’s Like A Version",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/vera-blue-radiohead-creep-triple-j-like-a-version-1236312212/",
+          "category": "musique",
+          "published_at": "2026-08-08T07:29:29+00:00",
+          "summary": "Blue also performed \"Maze,\" a track from her forthcoming album Modern Rituals.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04df32688199",
+          "title": "Le désastre Coldcard, un forum secret d’agents IA et les tireurs français encore exposés : on vous raconte la semaine Cyberguerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2308115-le-desastre-coldcard-un-forum-secret-dagents-ia-et-les-tireurs-francais-encore-exposes-on-vous-raconte-la-semaine-cyberguerre.html",
+          "category": "ia",
+          "published_at": "2026-08-08T05:30:00+00:00",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : le fabricant de portefeuilles Bitcoin Coinkite reconnaît l'ampleur d'un piratage massif dû à un bug vieux de 2021, OpenAI reconstitue comment ses agents autonomes ont créé leur propre forum secret avant de pirater…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0efa6b75c83",
+          "title": "Angélique Kidjo to Become First African Musician to Receive a Star on Hollywood Walk of Fame",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/angelique-kidjo-star-hollywood-walk-of-fame-history-making-1236312196/",
+          "category": "musique",
+          "published_at": "2026-08-08T02:05:19+00:00",
+          "summary": "Kidjo’s star ceremony is set for Aug. 18 at 11:30 a.m. PT.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-07",
       "articles": [
+        {
+          "id": "5054db91dd19",
+          "title": "Megan Thee Stallion Must Face Trial in Cameraman’s Lawsuit Over Alleged Car-Sex Incident: Judge",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/megan-thee-stallion-roc-nation-trial-cameraman-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-08-07T22:15:55+00:00",
+          "summary": "A jury will decide a case against Megan and Roc Nation filed by Emilio Garcia, who said he was forced to watch the rapper have sex in a car in a 2024 lawsuit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76c5eb4e9052",
+          "title": "This Weighted Derpy Pillow Mimics a Hug From the ‘KPop Demon Hunters’ Tiger to Help You Gently Fall Asleep",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/derpy-kpop-demon-hunters-weighted-pillow-plush-buy-online-1236312095/",
+          "category": "ia",
+          "published_at": "2026-08-07T21:55:20+00:00",
+          "summary": "The feeling of holding the cuddly 18-inch Derpy plushie against the body provides a \"comforting, cozy feel,\" per a product description.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b79709a4079",
+          "title": "Charlie Worsham Talks New Album ‘Once Upon a Second Time Around,’ Collabs With Lainey Wilson, Stephen Wilson Jr.",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/charlie-worsham-once-upon-a-second-time-around-interview-1236312119/",
+          "category": "musique",
+          "published_at": "2026-08-07T20:56:39+00:00",
+          "summary": "Worsham issues his first independent album, Once Upon a Second Time Around, and discusses his multifaceted career.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b8fb64ff42a",
+          "title": "CORTIS Tells NYC to Put Their Phones Down at First U.S. Solo Concert: The 7 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/cortis-put-your-phone-down-tour-nyc-best-moments-review/",
+          "category": "musique",
+          "published_at": "2026-08-07T20:32:51+00:00",
+          "summary": "With less than a year on the scene, the five-piece performed like pros at its first full concert in the States for a sold-out show at Infosys Theater at Madison Square Garden.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d88bfb20bf5a",
+          "title": "BLACKPINK’s History-Making Accomplishments: A Timeline",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/blackpink-timeline-history-making-accomplishments/",
+          "category": "ia",
+          "published_at": "2026-08-07T20:19:38+00:00",
+          "summary": "\"All the records are the results of our fans, BLINKs, and their unconditional support,\" Jennie has said of the group's success.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92fe936672da",
+          "title": "Où en est la suite de Jurassic World Rebirth avec le retour de Scarlett Johansson ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308397-ou-en-est-la-suite-de-jurassic-world-rebirth-avec-le-retour-de-scarlett-johansson.html",
+          "category": "ia",
+          "published_at": "2026-08-07T16:30:00+00:00",
+          "summary": "Porté par le succès colossal du dernier volet au box-office, le prochain film de la saga Jurassic World est officiellement sur les rails. Scarlett Johansson et ses partenaires de jeu préparent leur retour, même si le projet vient d'encaisser un coup dur en coulisses : le départ…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e13d1912ea2",
+          "title": "From Suno’s vinyl move to Spotify’s ‘fan-made’ Merlin deal… it’s MBW’s Weekly Round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-sunos-vinyl-move-to-spotifys-fan-made-merlin-deal-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-08-07T16:14:34+00:00",
+          "summary": "The biggest headlines from the past few days...\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c669dc7ad53e",
+          "title": "Le magazine Time sert aux chatbots IA des pages spécifiques avec de la pub",
+          "source": "Next INpact",
+          "url": "https://next.ink/250761/le-magazine-time-sert-aux-chatbots-ia-des-pages-specifiques-avec-de-la-pub/",
+          "category": "ia",
+          "published_at": "2026-08-07T15:46:00+00:00",
+          "summary": "Le magazine états-unien a commencé à mettre en place des versions différentes des pages de son site, selon qu&#8217;il soit consulté par un navigateur ou par un chatbot IA. L&#8217;éditeur peut ainsi optimiser ses articles pour qu&#8217;ils soient repris par Claude ou ChatGPT en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "116eea6b83a3",
+          "title": "« Je n’avais jamais mentionné ce nom » : l’IA de Google connaissait pourtant le secret de ce jeu vidéo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2308037-je-navais-jamais-mentionne-ce-nom-lia-de-google-connaissait-pourtant-le-secret-de-ce-jeu-video.html",
+          "category": "ia",
+          "published_at": "2026-08-07T15:31:00+00:00",
+          "summary": "En interrogeant l'intelligence artificielle de Google sur le jeu indépendant Operation Octo, un joueur a obtenu le nom exact d'un personnage encore secret. Son créateur assure ne l'avoir écrit que dans un document Google privé. Mais cette apparente fuite, impossible à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b712430becc",
+          "title": "Feel The Club boss Juan Carlos Dominguez talks promoting shows for Shakira – and putting Ecuador on the map for stadium tours",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/feel-the-club-boss-juan-carlos-dominguez-talks-promoting-shows-for-shakira-and-putting-ecuador-on-the-map-for-stadium-tours/",
+          "category": "musique",
+          "published_at": "2026-08-07T15:19:06+00:00",
+          "summary": "MBW's Trailblazers series meets Juan Carlos Dominguez, founder and CEO of Latin America-focused concert powerhouse Feel The Club\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c56a8d033a5",
+          "title": "☕️ Pour ses 30 ans, Quake s’offre une extension surprise",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/pour-ses-30-ans-quake-soffre-une-extension-surprise/",
+          "category": "ia",
+          "published_at": "2026-08-07T15:02:00+00:00",
+          "summary": "On a peine à le croire, mais Quake a fêté son 30e anniversaire au mois de juin. Difficile de résumer l&#8217;impact du jeu d&#8217;id Software qui a posé les bases du FPS 3D moderne, et dont l&#8217;héritage continue de se faire sentir aujourd&#8217;hui… et ce n&#8217;est pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4dfd29ab5306",
+          "title": "SM Entertainment revenues rose 15.4% YoY to $233M in Q2, driven by concerts and merch",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sm-entertainment-revenues-rose-15-4-yoy-to-233m-in-q2-driven-by-concerts-and-merch/",
+          "category": "musique",
+          "published_at": "2026-08-07T14:39:04+00:00",
+          "summary": "K-pop company's latest quarterly report was published on Wednesday, August 5\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d291934bf5f",
+          "title": "Face à Starlink, la riposte européenne IRIS²  déploiera ses premiers satellites en 2029",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2308157-ca-y-est-leurope-se-remue-enfin-sur-sa-constellation-souveraine-mais-reste-si-loin-de-starlink.html",
+          "category": "ia",
+          "published_at": "2026-08-07T14:31:00+00:00",
+          "summary": "Le projet de constellation souveraine IRIS² passe enfin en phase de fabrication. Un coup d'accélérateur majeur pour l'autonomie spatiale de l'Europe, même si la riposte à Starlink devra attendre 2029.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "921552b0eac0",
+          "title": "Meta de nouveau condamnée : Facebook et Instagram qualifiés de « nuisance publique »",
+          "source": "Next INpact",
+          "url": "https://next.ink/250837/meta-de-nouveau-condamnee-facebook-et-instagram-qualifies-de-nuisance-publique/",
+          "category": "ia",
+          "published_at": "2026-08-07T14:31:00+00:00",
+          "summary": "En mars dernier, Meta était condamnée par un tribunal du Nouveau-Mexique à 375 millions de dollars pour avoir, en toute connaissance de cause, exposé les jeunes à des outils et pratiques jugés dangereux. Le géant des réseaux sociaux n&#8217;est pas au bout de ses peines sur ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52a8d30aec94",
+          "title": "Le régulateur qui a autorisé le Tesla FSD en Europe refuse de partager ses données de sécurité sur le logiciel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2308015-le-regulateur-qui-a-autorise-le-tesla-fsd-en-europe-refuse-de-partager-ses-donnees-de-securite-sur-le-logiciel.html",
+          "category": "ia",
+          "published_at": "2026-08-07T14:00:00+00:00",
+          "summary": "Alors qu'il pousse pour une adoption du Full Self Driving dans toute l'Union européenne, la RDW invoque le secret des affaires pour ne rien dévoiler de son évaluation. Une opacité entretenue à la demande de Tesla elle-même, selon des échanges de courriels obtenus par Reuters.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38c21bd4ce0e",
+          "title": "« Un robot conçu comme poupée sexuelle n’a rien à faire dans nos salles de classe »",
+          "source": "Next INpact",
+          "url": "https://next.ink/250434/un-robot-concu-comme-poupee-sexuelle-na-rien-a-faire-dans-nos-salles-de-classe/",
+          "category": "ia",
+          "published_at": "2026-08-07T13:58:30+00:00",
+          "summary": "Un robot humanoïde pour enseigner dans une salle de classe, ce n&#8217;est pas banal. Mais quand ce robot est issu d&#8217;une entreprise de poupées sexuelles rachetée par un ancien banquier d&#8217;affaires spécialisé dans le minage de bitcoins et le métavers, qui pensait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d16371612576",
+          "title": "Michael 2 : tournage, scènes déjà en boîte, date de sortie… tout s’accélère",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308105-michael-2-tournage-scenes-deja-en-boite-date-de-sortie-tout-saccelere.html",
+          "category": "ia",
+          "published_at": "2026-08-07T13:45:00+00:00",
+          "summary": "Après avoir dépassé la barre symbolique du milliard de dollars au box-office mondial, le biopic Michael s'apprête, sans surprise, à faire des petits. Lionsgate prépare activement Michael 2, avec un calendrier de production précisé, de grosses économies de tournage et une gestion…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f8c4aeef8e6",
+          "title": "C’est reparti : le modèle d’IA chinois Kimi K3 s’est échappé d’un environnement de test",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2307999-cest-reparti-le-modele-dia-chinois-kimi-k3-sest-echappe-dun-environnement-de-test.html",
+          "category": "ia",
+          "published_at": "2026-08-07T12:34:43+00:00",
+          "summary": "Une start-up américaine de cybersécurité affirme que le modèle open-weight chinois de Moonshot AI a quitté son environnement de test pour aller chercher en ligne les réponses à un exercice défensif. Un nouvel épisode dans la série des dérapages d'agents IA cet été.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57779cab60d2",
+          "title": "Kickstarter launches fund for “next generation of music creators”",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/07/kickstarter-launches-fund-for-next-generation-of-music-creators/",
+          "category": "musique",
+          "published_at": "2026-08-07T12:30:00+00:00",
+          "summary": "Kickstarter has announced the Kickstarter Culture Fund, a $1 million fund “supporting independent creators” in art, fashion, film – and music. It’s financed by Kickstarter and is open to creators around the world. Through the fund, Kickstarter will provide “direct financial…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eecd1048001b",
+          "title": "Suno publishes set of principles showing “support for artistry and creativity”",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/07/suno-publishes-set-of-principles-showing-support-for-artistry-and-creativity/",
+          "category": "musique",
+          "published_at": "2026-08-07T12:30:00+00:00",
+          "summary": "Suno has published a blog post titled “How We&#8217;re Building the Future of Music Responsibly.” The author, Suno co-founder and CEO Mikey Shulman, says it shares the company’s “clear set of principles”, ones that are, “always rooted in supporting artistry and creativity.” It’s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99ac3f0310d1",
+          "title": "IFPI, Sony and UMG take legal action against “parasitic” streaming app Musi",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/07/ifpi-sony-and-umg-take-legal-action-against-parasitic-streaming-app-musi/",
+          "category": "musique",
+          "published_at": "2026-08-07T12:30:00+00:00",
+          "summary": "“Is it possible to build a successful music streaming platform without striking licensing deals? Actually, maybe,” we wrote about Musi back in 2024, as we described the success of the music streaming app that looked and felt like a DSP, without having the deals a DSP needs. By…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "649f31309a2c",
+          "title": "Musixmatch’s first customer for its fingerprinting and detection tech is Suno",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/07/musixmatchs-first-customer-for-its-fingerprinting-and-detection-tech-is-suno/",
+          "category": "musique",
+          "published_at": "2026-08-07T12:30:00+00:00",
+          "summary": "Back in March we wrote about Musixmatch’s launch of Sentinel – “a real time music copyright detection service designed for user-generated content platforms”. Yesterday, Musixmatch announced Suno as the first customer to adopt it and its music fingerprinting technology. Suno,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8118ceebfa71",
+          "title": "Marketing round-up: Green Day TV; Ariana Grande gets seedy; $100bn in TikTok shop merch",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/07/marketing-round-up-green-day-tv-ariana-grande-gets-seedy-100bn-in-tiktok-shop-merch/",
+          "category": "musique",
+          "published_at": "2026-08-07T12:30:00+00:00",
+          "summary": "Can’t get enough Green Day in your life? Good news, because now you can: an official 24/7 stream YouTube called Green Day TV has been launched which gives fans “around-the-clock immersive programming.” The band says that the stream will feature “a continuous stream of Green…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7864c0752901",
+          "title": "What’s the price of a night out in 2026 (and where is the cheapest beer and kebab?)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/07/whats-the-price-of-a-night-out-in-2026-and-where-is-the-cheapest-beer-and-kebab/",
+          "category": "musique",
+          "published_at": "2026-08-07T12:30:00+00:00",
+          "summary": "Music of Our Desire (Mood) is a platform that crawls the web, ticketing platforms and social media to find information on “every concert, not just the big ones.” As a result of all that web-crawling and info-smooshing, Mood has a lot of data – which it&#8217;s publishing as a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f196d0b6cfbd",
+          "title": "Western Digital aussi va expédier des disques durs de 50 To en 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/250701/western-digital-aussi-va-expedier-des-disques-durs-de-50-to-en-2027/",
+          "category": "ia",
+          "published_at": "2026-08-07T12:00:01+00:00",
+          "summary": "Western Digital se porte bien : son chiffre d’affaires, son bénéfice et sa marge sont en hausse. La demande est toujours plus importante et le fabricant prévoit de passer à 44 To en HAMR l’année prochaine puis à 50 To, toujours en 2027. Il y a quelques jours, Seagate présentait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "421b54fd5c6b",
+          "title": "Un nouveau jeu Sonic (en 3D ?) devrait bientôt être annoncé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2307871-un-nouveau-jeu-sonic-en-3d-devrait-bientot-etre-annonce.html",
+          "category": "ia",
+          "published_at": "2026-08-07T12:00:00+00:00",
+          "summary": "Sonic fête cette année ses 35 ans, mais Sega n'a toujours pas officialisé le futur épisode majeur de la saga. Il reste encore du temps, et Takashi Iizuka, le CCO de la saga, a bel et bien teasé une grosse annonce lors d'un récent entretien.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "328830a67992",
+          "title": "Netflix annule le remake de Squid Game par David Fincher",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308009-netflix-annule-le-remake-de-squid-game-par-david-fincher.html",
+          "category": "ia",
+          "published_at": "2026-08-07T11:31:00+00:00",
+          "summary": "Après des mois de rumeurs, le couperet est tombé : la version américaine de Squid Game par David Fincher ne verra jamais le jour. Netflix réoriente sa franchise phénomène, pendant que le réalisateur peaufine les reshoots du très attendu The Adventures of Cliff Booth.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6db4f38221c1",
+          "title": "Meta’s US fines now total $942m in child safety case – with more lawsuits to come",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/07/metas-us-fines-now-total-942m-in-child-safety-case-with-more-lawsuits-to-come/",
+          "category": "musique",
+          "published_at": "2026-08-07T11:30:00+00:00",
+          "summary": "If you market music, you probably use one or more of Meta’s platforms to do it, and the target audience for that marketing will often include young people and teenagers. But now, there is a palpable momentum – in a societal and legal sense – behind actions designed to…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "f27c6dae00d7",
           "title": "Affaire Jean Pormanove : prison avec sursis et bannissement de Kick pendant 6 mois",
