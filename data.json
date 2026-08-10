@@ -1,9 +1,264 @@
 {
-  "generated_at": "2026-08-09T09:02:03.725682+00:00",
+  "generated_at": "2026-08-10T09:47:31.278422+00:00",
   "days": [
+    {
+      "date": "2026-08-10",
+      "articles": [
+        {
+          "id": "852ee7786774",
+          "title": "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/dpo-identifier-gerer-conflits-interets",
+          "category": "institutionnel",
+          "published_at": "2026-08-10T12:00:00+00:00",
+          "summary": "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fcfd7ff5300",
+          "title": "How Sam Fender & Olivia Dean’s ‘Rein Me In’ Became the U.K.’s Longest-Running No. 1 Single Ever",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/sam-fender-olivia-dean-rein-mein-uk-chart-records/",
+          "category": "ia",
+          "published_at": "2026-08-10T09:25:59+00:00",
+          "summary": "The song now holds the all-time record for the longest-running U.K. No. 1 single.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47e72bcb7639",
+          "title": "Frankie Grande Voices Support for Sister Ariana After Hiatus Announcement",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/ariana-grande-brother-frankie-support-1236312413/",
+          "category": "ia",
+          "published_at": "2026-08-10T09:25:05+00:00",
+          "summary": "\"Family forever. I will have your back until the end of time,\" Frankie wrote in a heartfelt post to Instagram.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca29ea67479c",
+          "title": "Ces chercheurs ont créé 8,3 milliards d’humains virtuels pour tester des produits à notre place",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2308727-ces-chercheurs-ont-cree-83-milliards-dhumains-virtuels-pour-tester-des-produits-a-notre-place.html",
+          "category": "ia",
+          "published_at": "2026-08-10T09:12:00+00:00",
+          "summary": "Avec MatrAIx, des chercheurs ont constitué une population virtuelle de 8,3 milliards de profils. Des modèles d’IA peuvent les incarner pour tester un chatbot, un site ou une application comme le feraient de véritables utilisateurs",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a936d87b2725",
+          "title": "Après des années d’attente, le film Naruto franchit (enfin) une étape cruciale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308765-apres-des-annees-dattente-le-film-naruto-franchit-enfin-une-etape-cruciale.html",
+          "category": "ia",
+          "published_at": "2026-08-10T09:02:00+00:00",
+          "summary": "Après des années à végéter dans l'enfer du développement hollywoodien, l'adaptation en prise de vues réelles de&nbsp;Naruto&nbsp;franchit enfin une étape décisive. Lionsgate cible un début de tournage pour la première moitié de l'année 2027, avec Destin Daniel Cretton aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cade9c1b485",
+          "title": "Suzi Quatro Announces 2026 Australian Tour With Baby Animals",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/suzi-quatro-australia-tour-2026-1236312409/",
+          "category": "ia",
+          "published_at": "2026-08-10T08:58:01+00:00",
+          "summary": "The tour continues a relationship with Australia that stretches back more than five decades.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d46b84662a36",
+          "title": "Eclipse solaire du 21 août : comment vérifier la qualité de ses lunettes en sécurité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2308717-eclipse-solaire-du-21-aout-comment-verifier-la-qualite-de-ses-lunettes-en-securite.html",
+          "category": "ia",
+          "published_at": "2026-08-10T08:30:00+00:00",
+          "summary": "À quelques jours de l'éclipse solaire du 12 août 2026, posséder des lunettes certifiées ne suffit pas : encore faut-il s'assurer qu'elles sont en parfait état. De la simple inspection visuelle aux tests sous la lampe, voici comment vérifier la fiabilité de votre équipement avant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6599aa3240f",
+          "title": "Éclipse solaire du 12 août : tout ce qu’il faut savoir, surtout pour les yeux",
+          "source": "Next INpact",
+          "url": "https://next.ink/250775/eclipse-solaire-du-12-aout-tout-ce-quil-faut-savoir-surtout-pour-les-yeux/",
+          "category": "ia",
+          "published_at": "2026-08-10T08:27:27+00:00",
+          "summary": "Dans deux jours aura lieu une éclipse totale du Soleil. Si elle ne sera pas totalement visible en France, son taux d’occultation sera élevé, surtout dans le sud-ouest, avec un maximum vers 20h30. Et avec ce genre d’évènement, mieux vaut rappeler quelques consignes pour ne pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef3c61a1277f",
+          "title": "Casque et gilet fluo en trottinette, mais pas à vélo : la nouvelle absurdité des pistes cyclables franciliennes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2308733-casque-et-gilet-fluo-en-trottinette-mais-pas-a-velo-la-nouvelle-absurdite-des-pistes-cyclables-franciliennes.html",
+          "category": "justice",
+          "published_at": "2026-08-10T08:14:13+00:00",
+          "summary": "Un arrêté préfectoral du 7 août 2026 impose le casque et les équipements réfléchissants pour les trottinettes (et autres EDPM) à Paris et en Petite Couronne. Une situation qui vire un peu à l’absurde sur les pistes cyclables alors que les vélos ne sont pas concernés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "26b1cf4522e9",
+          "title": "C’est officiel, Revolut devient une vraie banque française",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2308695-cest-officiel-revolut-devient-une-vraie-banque-francaise.html",
+          "category": "ia",
+          "published_at": "2026-08-10T07:45:50+00:00",
+          "summary": "Après un an d'instruction, Revolut annonce avoir obtenu son agrément bancaire français de plein exercice. Sa nouvelle entité Revolut Bank S.A. opérera depuis Paris pour toute l'Europe de l'Ouest. Ce nouveau statut ouvre la porte aux produits réglementés français, comme le Livret…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7212db3be098",
+          "title": "Et si les Dark Souls avaient été en vue FPS ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308685-et-si-les-dark-souls-avaient-ete-en-vue-fps.html",
+          "category": "ia",
+          "published_at": "2026-08-10T07:45:00+00:00",
+          "summary": "Une vieille présentation, attachée à un vieux prototype de Demon's Souls, montre que FromSoftware a un temps songé à proposer une vue à la première personne (FPS). Ce qui aurait pu changer le regard que l'on porte sur le RPG et ses héritiers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b99ee891c78d",
+          "title": "Le nouveau personnage d’Overwatch est D.Va 2.0, mais Blizzard assure que ce n’est pas D.Va 2.0",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308687-le-nouveau-personnage-doverwatch-est-d-va-2-0-mais-blizzard-assure-que-ce-nest-pas-d-va-2-0.html",
+          "category": "justice",
+          "published_at": "2026-08-10T07:32:39+00:00",
+          "summary": "Yuna « D.Mon » Lee sera le nouveau personnage qui rejoindra le casting très fourni d'Overwatch. Et si elle vous dit quelque chose, c'est normal : D.Mon&nbsp;est le deuxième héros pilotant un mécha après D.Va, et les ressemblances ne s'arrêtent pas là.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3df911bbed2b",
+          "title": "Microsoft Edge enterre à son tour Manifest V2",
+          "source": "Next INpact",
+          "url": "https://next.ink/250894/microsoft-edge-enterre-a-son-tour-manifest-v2/",
+          "category": "ia",
+          "published_at": "2026-08-10T06:56:00+00:00",
+          "summary": "Edge va marcher dans les pas de Chrome, en abandonnant Manifest V2 pour la version 3 du format technique des extensions de navigateur. La transition est programmée pour ce mois, ce qui signifie qu&#8217;uBlock Origin et quelques autres extensions ne pourront plus fonctionner…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0f2faa90301",
+          "title": "Blizzard Entertainment est une lueur d’espoir dans la période morose traversée par Xbox",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308677-blizzard-entertainment-est-une-lueur-despoir-dans-la-periode-morose-traversee-par-xbox.html",
+          "category": "ia",
+          "published_at": "2026-08-10T06:11:26+00:00",
+          "summary": "En s'offrant Activision il y a quelques années, Microsoft s'est aussi payé Blizzard Entertainment. Et l'entreprise derrière Diablo, Warcraft ou encore Overwatch est désormais le studio numéro 1 de la multinationale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fcd1bb51f7d",
+          "title": "Modernisation et performances de Windows 11 : Microsoft a encore des choses à dire",
+          "source": "Next INpact",
+          "url": "https://next.ink/250877/modernisation-et-performances-de-windows-11-microsoft-a-encore-des-choses-a-dire/",
+          "category": "ia",
+          "published_at": "2026-08-10T06:03:00+00:00",
+          "summary": "Plusieurs publications récentes montrent encore un peu plus la manière dont Microsoft négocie le virage actuel de Windows 11. Outre des explications sur la complexité d’une modernisation à marche forcée pour des raisons d’héritage, l’entreprise a lancé plusieurs composants…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02e85d76bf04",
+          "title": "Laneway Festival to Skip Adelaide and Perth for 2027 Return",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/laneway-festival-skip-adelaide-perth-2027-return-1236312403/",
+          "category": "ia",
+          "published_at": "2026-08-10T04:28:13+00:00",
+          "summary": "\"Adelaide and Perth, we love you! This isn't goodbye, just see you soon,\" the festival organizer's statement read.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dde22e450d4c",
+          "title": "Clementine Douglas Announces Debut Australian Headline Shows",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/clementine-douglas-debut-australian-headline-tour-1236312396/",
+          "category": "ia",
+          "published_at": "2026-08-10T04:25:24+00:00",
+          "summary": "Earlier this year, Douglas made her Madison Square Garden debut alongside Dom Dolla.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bdc48c921500",
+          "title": "Usher Reacts to Clone Conspiracy Theory Brewing After New Jersey Show With Chris Brown",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/usher-clone-tour-chris-brown-1236312389/",
+          "category": "ia",
+          "published_at": "2026-08-10T02:48:06+00:00",
+          "summary": "Claims that Usher was replaced with a clone on stage kept the R&#38;B star busy in the comments section.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05c6fb0eb055",
+          "title": "Fans Choose Stray Kids ‘This & That’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/stray-kids-this-and-that-best-new-music-poll-results-1236312374/",
+          "category": "musique",
+          "published_at": "2026-08-10T01:29:40+00:00",
+          "summary": "The mini album brought in more than 85% of the vote this week.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-09",
       "articles": [
+        {
+          "id": "236a7938d75a",
+          "title": "Ariana Grande Reacts to ‘Petal’ Debuting at No. 1 on Billboard 200",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-number-1-album-reaction-1236312364/",
+          "category": "musique",
+          "published_at": "2026-08-09T22:30:49+00:00",
+          "summary": "She also celebrated the making of the album, her seventh No. 1, with behind-the-scenes footage from the studio captioned \"petal forever.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8eee205b304",
+          "title": "Découvrez Letter Up, notre jeu de société de la semaine, mélange de deux genres que tout oppose",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308447-letter-up.html",
+          "category": "ia",
+          "published_at": "2026-08-09T17:31:00+00:00",
+          "summary": "Imaginez que le Scrabble et le Risk aient un bébé… Letter Up, c’est un peu ça. Un étonnant mélange entre jeu de lettres et conquête de territoires, le tout dans une version très, très légère. Un mariage des genres pour le moins surprenant ! Comment ça se joue ? Quel est notre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3320471db2d6",
+          "title": "On vous explique le RAG : la mécanique invisible derrière chaque source citée par une IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2308149-on-vous-explique-le-rag-la-mecanique-invisible-derriere-chaque-source-citee-par-une-ia.html",
+          "category": "ia",
+          "published_at": "2026-08-09T15:01:57+00:00",
+          "summary": "Il y a encore trois ans, une IA qui citait ses sources tenait de l'exception. Aujourd'hui, c'est presque devenu la norme. Entre les deux, l'avènement d'une technique née dans un labo de recherche : le RAG.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4372f8cdcbb7",
+          "title": "Quand la nuit tombe en plein jour : la folle histoire des éclipses qui ont révolutionné la science",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2307551-eclipse-solaire-du-12-aout-2026-fonctionnement-mythes-et-verites-dun-evenement-astronomique-rare.html",
+          "category": "ia",
+          "published_at": "2026-08-09T13:31:00+00:00",
+          "summary": "Une première depuis 1999, le 12 août 2026, une éclipse solaire totale sera visible en Europe. En France hexagonale, ce spectacle astronomique parmi les plus marquants sera observable jusqu’à 99 % selon les régions. Découvrez comment se produit ce phénomène et pourquoi on ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1dea6494669",
+          "title": "J’ai essayé la Volkswagen ID.3 Neo et je peux assurer que cette fois, c’est la bonne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2306439-jai-essaye-la-volkswagen-id-3-neo-et-je-peux-assurer-que-cette-fois-cest-la-bonne.html",
+          "category": "ia",
+          "published_at": "2026-08-09T11:35:00+00:00",
+          "summary": "Volkswagen a opéré une grosse refonte de sa compacte électrique ID.3. Nouvelles batteries, nouveau moteur, ergonomie corrigée ou encore info-divertissement plus moderne, elle change tout en 2026 pour séduire les foules. La recette semble enfin savoureuse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "799074086b7b",
+          "title": "Meilleurs mangas shônen : voici notre top 10 à lire de toute urgence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2305865-meilleurs-mangas-shonen-voici-notre-top-10-a-lire-de-toute-urgence.html",
+          "category": "ia",
+          "published_at": "2026-08-09T10:02:00+00:00",
+          "summary": "Le monde du manga regorge de titres qui valent le coup pour découvrir le genre, mais on peut rapidement se sentir noyé face au nombre de séries présentes chez les libraires, au point de ne plus savoir quoi lire. Le risque : commencer une série et finalement l'abandonner, faute…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "28d66c31728d",
           "title": "GoPro MAX2 : l’un des meilleures action-cams pour les vacances passe enfin sous les 300 €",
