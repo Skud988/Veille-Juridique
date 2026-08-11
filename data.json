@@ -1,9 +1,374 @@
 {
-  "generated_at": "2026-08-10T09:47:31.278422+00:00",
+  "generated_at": "2026-08-11T09:13:23.881007+00:00",
   "days": [
+    {
+      "date": "2026-08-11",
+      "articles": [
+        {
+          "id": "dc489a1c946d",
+          "title": "Pour ses 10 ans, No Man’s Sky nous prépare (encore) une grosse mise à jour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309355-pour-ses-10-ans-no-mans-sky-nous-prepare-encore-une-grosse-mise-a-jour.html",
+          "category": "ia",
+          "published_at": "2026-08-11T08:51:00+00:00",
+          "summary": "Dix ans après avoir connu l’un des lancements les plus controversés de l’histoire du jeu vidéo, No Man’s Sky va fêter l’anniversaire de sa première décennie avec une nouvelle mise à jour baptisée Cosmos, qui vient tout juste d’être teasée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8673ac7bfc10",
+          "title": "Les contenus passés par Claude pourront être repérés, même après un copier-coller",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2309337-claude-va-laisser-une-trace-detectable-dans-ses-contenus-jusque-dans-vos-e-mails.html",
+          "category": "ia",
+          "published_at": "2026-08-11T08:35:00+00:00",
+          "summary": "Anthropic a annoncé rendre les contenus générés par Claude plus facilement détectables. Sous l’effet d'une réglementation européenne (AI Act), les textes intégreront un filigrane invisible, jusque dans les e-mails. Les images ou fichiers compatibles recevront des métadonnées de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ebb9b7d1f771",
+          "title": "5G ou 5G+ : les iPhone pourraient bientôt afficher la différence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2309365-5g-ou-5g-les-iphone-pourraient-bientot-afficher-la-difference.html",
+          "category": "ia",
+          "published_at": "2026-08-11T08:15:00+00:00",
+          "summary": "Pour la première fois en France, une version bêta d'iOS distingue la 5G de la 5G+ dans la barre de statut. Rien ne dit qu'Apple conservera cet affichage d'ici la sortie d'iOS 27 en septembre, mais il marquerait une belle victoire marketing pour les opérateurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c8338912165",
+          "title": "Naoki Urasawa (Monster) lance The Last Manga Classroom, une série explorant la création face à l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309315-naoki-urasawa-monster-lance-the-last-manga-classroom-une-serie-explorant-la-creation-face-a-lia.html",
+          "category": "ia",
+          "published_at": "2026-08-11T08:01:20+00:00",
+          "summary": "Le nouveau manga de Naoki Urasawa s'interroge sur la signification de la créativité à l'ère où l'IA peut tout faire à notre place, et où de nombreux « artistes » l'utilisent pour générer des œuvres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f52d9993496e",
+          "title": "La sortie spatiale de Sophie Adenot est confirmée et surviendra plus tôt que prévu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2309339-la-sortie-spatiale-de-sophie-adenot-est-confirmee-et-surviendra-plus-tot-que-prevu.html",
+          "category": "ia",
+          "published_at": "2026-08-11T07:50:34+00:00",
+          "summary": "Sophie Adenot réalisera sa toute première sortie extravéhiculaire le 18 août 2026. L’astronaute française sera épaulée par l’Américain Anil Menon pour une mission de six heures autour de la Station spatiale internationale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4da917f709e4",
+          "title": "CD Projekt Red voulait que le héros de The Witcher n’ait aucune émotion",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309313-cd-projekt-red-voulait-que-le-heros-de-the-witcher-nait-aucune-emotion.html",
+          "category": "ia",
+          "published_at": "2026-08-11T06:51:10+00:00",
+          "summary": "Doug Cockle, doubleur de Geralt, héros de la saga The Witcher, depuis plus de 20 ans, est revenu sur son expérience avec la saga culte. Il est notamment revenu sur les exigences de CD Projekt Red, qui voulait un personnage dénué d'émotions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab28687da752",
+          "title": "Entre la version à 80 € et celle à 100 € de GTA 6, les fans ont fait leur choix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309305-entre-la-version-a-80-e-et-celle-a-100-e-de-gta-6-les-fans-ont-fait-leur-choix.html",
+          "category": "ia",
+          "published_at": "2026-08-11T05:58:25+00:00",
+          "summary": "Grand patron de Take-Two Interactive, Strauss Zelnick a révélé que la version la plus chère de GTA 6 a pour le moment les faveurs de celles et ceux ayant précommandé le jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5e0b1a616fe9",
+          "title": "Laufey Reveals the One Thing She’s Still Terrified of Doing Onstage",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/laufey-onstage-eye-contact-fear-1236313470/",
+          "category": "ia",
+          "published_at": "2026-08-11T05:10:33+00:00",
+          "summary": "\"I'm so scared of freaking people out! I'm always thinking about it,\" she said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e5fc5ae9cd4",
+          "title": "Nuit du 12 au 13 août 2026 : comment profiter du pic des Perséides, sans Lune pour gêner l’observation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/642009-comment-profiter-des-perseides-les-superbes-etoiles-filantes-du-ciel-de-lete.html",
+          "category": "ia",
+          "published_at": "2026-08-11T05:05:15+00:00",
+          "summary": "Les Perséides sont de retour dans le ciel, comme chaque été. Cette pluie d'étoiles filantes est active depuis la mi-juillet 2026. Mais beaucoup attendent son maximum d'activité pour voir ces météores. Cela tombe bien, il est imminent. Alors, comment observer les Perséides en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82e5bc68d490",
+          "title": "Limp Bizkit to Headline Australia’s Good Things Festival 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/limp-bizkit-good-things-festival-2026-1236313443/",
+          "category": "ia",
+          "published_at": "2026-08-11T01:42:50+00:00",
+          "summary": "The lineup also features Simple Plan, Spiritbox, Polaris, The All-American Rejects, Bad Religion, and more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20bb90a64ff6",
+          "title": "With Sophia Stepping Back From KATSEYE, Will the Global Girl Group Remain a Quartet?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/katseye-sophia-hiatus-quartet-pop-shop-podcast-1236313394/",
+          "category": "ia",
+          "published_at": "2026-08-11T01:05:11+00:00",
+          "summary": "On the new Billboard Pop Shop Podcast, Katie &#38; Keith are talking about the latest member taking a pause, following Manon's February exit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34a192c1e38f",
+          "title": "Travis Barker Told Son Landon Barker to Turn Down ‘The Voice’: ‘You’re Way Too Cool for That’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/travis-barker-told-landon-barker-reject-the-voice-1236313349/",
+          "category": "ia",
+          "published_at": "2026-08-11T01:02:37+00:00",
+          "summary": "“If your idol is Kurt Cobain, would he ever do The Voice? No,” the Blink-182 drummer advised his son.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fe739bcccb8",
+          "title": "Jon Glass appointed General Counsel at Merlin",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jon-glass-appointed-general-counsel-at-merlin/",
+          "category": "ia",
+          "published_at": "2026-08-11T00:18:32+00:00",
+          "summary": "Glass will lead its Business &#038; Legal Affairs function and take on responsibility for its Partnerships team.\nSource",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-10",
       "articles": [
+        {
+          "id": "d5335f5ffb5f",
+          "title": "Hilary Duff Pays Tribute to Late Ex Aaron Carter During Lucky Me Tour Stop in Philadelphia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/hilary-duff-aaron-carter-t-shirt-concert-philadelphia-1236313331/",
+          "category": "ia",
+          "published_at": "2026-08-10T23:57:07+00:00",
+          "summary": "The singer honored her young love by wearing a vintage Aaron Carter T-shirt.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c061cec9f35",
+          "title": "Pentatonix’s Scott Hoying & Husband Mark Bring Their Baby Girl Along for New Children’s Album ‘Little Birdie’s Big Symphony’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/scott-hoying-mark-daughter-birdie-childrens-album-1236313179/",
+          "category": "musique",
+          "published_at": "2026-08-10T23:37:16+00:00",
+          "summary": "The Aug. 20 album will feature Christina Perri, Kina Grannis &#38; Trout Fishing for America, plus the couple's newborn daughter Birdie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6d22eba187c",
+          "title": "Jon Glass Named General Counsel of Merlin, Leading Legal Affairs and Partnerships",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/merlin-hires-jon-glass-general-counsel/",
+          "category": "musique",
+          "published_at": "2026-08-10T23:01:00+00:00",
+          "summary": "Glass joins the indie licensing organization after 16 years with Warner Music Group.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cced40b89d2",
+          "title": "Une fusée chinoise explose en plein vol 85 secondes après son décollage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2309229-une-fusee-explose-en-plein-vol-peu-apres-son-decollage.html",
+          "category": "ia",
+          "published_at": "2026-08-10T18:43:11+00:00",
+          "summary": "Le lancement d'une fusée Longue Marche 7A a viré au fiasco ce 10 août 2026. Moins de deux minutes après s'être arraché du sol, le lanceur s'est brutalement désintégré dans le ciel de Wenchang, entraînant la perte de sa charge utile.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a8b8ad92089",
+          "title": "Plongée, nouvelle zone sous-marine… Le DLC de Pokémon Pokopia vaut-il le coup de débourser 34,99 euros ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308887-plongee-nouvelle-zone-sous-marine-le-dlc-de-pokemon-pokopia-vaut-il-ses-3499-euros.html",
+          "category": "ia",
+          "published_at": "2026-08-10T18:01:00+00:00",
+          "summary": "Avec les Fonds-Bulleux, Pokémon Pokopia nous invite à abandonner temporairement la terre ferme pour bâtir et explorer sous l’eau. Une première extension dépaysante et réussie, mais qui doit encore prouver que le pass à 34,99 euros vaut réellement le plongeon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95f913584672",
+          "title": "La prochaine grande exclusivité de la Switch 2 est maintenant en précommande",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309137-la-prochaine-grande-exclusivite-de-la-switch-2-est-maintenant-en-precommande.html",
+          "category": "ia",
+          "published_at": "2026-08-10T17:00:00+00:00",
+          "summary": "[Précommande] Chaque épisode de Fire Emblem est attendu et le prochain opus ne déroge pas à la règle. La série connaît succès sur succès depuis 1990, et Fortune’s Weave, dont la date de sortie est prévue pour le 17 septembre 2026, est déjà attendu comme peu de jeux avant lui sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9506a5fe83ec",
+          "title": "Apple asks court to rule its products don’t infringe Boomcloud 360’s spatial audio patents",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/apple-asks-court-to-rule-its-products-dont-infringe-boomcloud-360s-spatial-audio-patents/",
+          "category": "musique",
+          "published_at": "2026-08-10T16:18:20+00:00",
+          "summary": "Apple Music rolled out Spatial Audio with support for Dolby Atmos in June 2021\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15bc99de8ce5",
+          "title": "AI is capable of breaking the music industry. But it does not have to.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ai-is-capable-of-breaking-the-music-industry-but-it-does-not-have-to/",
+          "category": "musique",
+          "published_at": "2026-08-10T15:57:18+00:00",
+          "summary": "The following MBW op-ed comes from MusicInfra CEO and Co-founder Björn Lindvall\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a89db5b43d57",
+          "title": "Renault 5 : une optimisation matérielle offre des kilomètres supplémentaires",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2309177-renault-5-une-optimisation-materielle-offre-des-kilometres-supplementaires.html",
+          "category": "ia",
+          "published_at": "2026-08-10T15:56:57+00:00",
+          "summary": "Renault a discrètement mis à jour son configurateur pour afficher des autonomies supérieures pour plusieurs déclinaisons de la star des ventes électriques de la marque&nbsp;: la R5.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "509817796096",
+          "title": "Live Nation’s Merch Traffic sues online sellers over counterfeit Nirvana, Bruno Mars merch",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nations-merch-traffic-sues-online-sellers-over-counterfeit-nirvana-bruno-mars-merch/",
+          "category": "musique",
+          "published_at": "2026-08-10T15:56:07+00:00",
+          "summary": "The suit brings two counts under the Lanham Act: trademark infringement and counterfeiting, and false designation of origin.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3536765749c9",
+          "title": "Meta dévoile Muse Glimmer et Mark Zuckerberg en profite pour dérouler sa « philosophie » de l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2309129-meta-devoile-muse-glimmer-et-mark-zuckerberg-en-profite-pour-derouler-sa-philosophie-de-lia.html",
+          "category": "justice",
+          "published_at": "2026-08-10T15:46:00+00:00",
+          "summary": "Meta publie Muse Glimmer, un modèle d'agent de 30 milliards de paramètres conçu pour tourner en local, sous licence ouverte. L'occasion pour Mark Zuckerberg de publier un long texte définissant sa doctrine sur l'avenir de la superintelligence.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad7500078528",
+          "title": "UnitedMasters bolsters exec team as DIY competition heats up",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/unitedmasters-bolsters-exec-team-as-diy-competition-heats-up/",
+          "category": "musique",
+          "published_at": "2026-08-10T15:36:09+00:00",
+          "summary": "UnitedMasters built its brand on its claim to be the bridge between DIY distribution and major label-level infrastructure for artists.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94c7c11219fa",
+          "title": "How Angine de Poitrine keep growing their hype",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/how-angine-de-poitrine-keep-growing-their-hype/",
+          "category": "musique",
+          "published_at": "2026-08-10T15:35:22+00:00",
+          "summary": "Canada’s Angine de Poitrine have been one of the most discussed breakout stories of 2026. The experimental/math rock duo from Saguenay, Quebec gained widespread attention through their early 2026 KEPX performance, and stand out through their anonymous identities matched with…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63d5bd0d685e",
+          "title": "Quels sont les meilleurs smartphones en 2026 ? Voici ceux que nous achèterions vraiment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
+          "category": "ia",
+          "published_at": "2026-08-10T15:29:29+00:00",
+          "summary": "Après plusieurs mois à passer d’un iPhone à un Galaxy, puis d’un Pixel à un smartphone pliant, Numerama a fait le tri. Des modèles à 300 € aux appareils qui frôlent les 2 000 €, voici les smartphones qui méritent votre argent en 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5e5ee2d4d98",
+          "title": "On a vu Undertone : le film d’horreur A24 que vous n’aviez pas vu venir est une excellente surprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308999-on-a-vu-undertone-le-film-dhorreur-a24-que-vous-naviez-pas-vu-venir-est-une-excellente-surprise.html",
+          "category": "ia",
+          "published_at": "2026-08-10T15:26:48+00:00",
+          "summary": "Faire peur avec des images, c’est la méthode classique du cinéma d’horreur, qui a déjà fait ses preuves maintes et maintes fois. Mais faire peur avec des sons, seulement des sons, c’est déjà une autre paire de manches. Undertone tente le pari, et c’est une réussite, malgré…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27bd7edc6685",
+          "title": "Concord extends its five-year backing of Stax Music Academy",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/concord-extends-its-five-year-backing-of-stax-music-academy/",
+          "category": "musique",
+          "published_at": "2026-08-10T15:24:16+00:00",
+          "summary": "Credit to Concord’s long-term investment in the Stax Music Academy, which provides music education to young people in Memphis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ef6330c2589",
+          "title": "Zac Brown Band gifts free cruise vacations to 37K fans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/zac-brown-band-gifts-free-cruise-vacations-to-37k-fans/",
+          "category": "musique",
+          "published_at": "2026-08-10T15:20:45+00:00",
+          "summary": "Zac Brown band are currently touring the US with their Love &#038; Fear Tour and have partnered with cruise line Margaritaville at Sea for the largest audience gifting in live entertainment history. The band is giving away 4 cruises at each of their 27 shows. To make the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a63bac63567f",
+          "title": "Snapchat is demoting AI content from its spotlight feed",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/snapchat-is-demoting-ai-content-from-its-spotlight-feed/",
+          "category": "ia",
+          "published_at": "2026-08-10T15:15:08+00:00",
+          "summary": "Snapchat is officially putting its foot down on AI-generated content. The platform has updated its Spotlight algorithm (its short-form video feed) to demote wholly AI-generated videos, stripping them of recommendation eligibility to protect user experience from low-quality AI…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3686303bac7f",
+          "title": "Chappell Roan preps two-day trans-youth and LGBTQ+ charity event",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/chappell-roan-preps-two-day-trans-youth-and-lgbtq-charity-event/",
+          "category": "ia",
+          "published_at": "2026-08-10T12:30:00+00:00",
+          "summary": "Chappell Roan is following Olivia Rodrigo in launching her own festival. Well, a two-day charity drive in her case. It’s called The Super Graphic Spectacular and takes place in LA on 21-22 October.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3129c5b6e53",
+          "title": "Suno adds vocal-recording ‘Voices’ feature to its mobile app",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/suno-adds-vocal-recording-voices-feature-to-its-mobile-app/",
+          "category": "musique",
+          "published_at": "2026-08-10T12:30:00+00:00",
+          "summary": "It’s a busy month for AI-music startup Suno, and not just on the ‘declaring principles to show how supportive it is of human artistry’ front.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5af549ece812",
+          "title": "Tuide have 1.2m TikTok followers… before their first release",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/tuide-have-1-2m-tiktok-followers-before-their-first-release/",
+          "category": "musique",
+          "published_at": "2026-08-10T12:30:00+00:00",
+          "summary": "If you’re interested in how K-Pop marketing is evolving in 2026, we recommend keeping a close eye on Tuide, the latest group to emerge from the Hybe empire – in this case, one of its newest sub-labels, ABD.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17ff2dd918fd",
+          "title": "Whatnot bags $545m funding – ‘The largest raise in live shopping’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/whatnot-bags-545m-funding-the-largest-raise-in-live-shopping/",
+          "category": "musique",
+          "published_at": "2026-08-10T12:30:00+00:00",
+          "summary": "We linked to a Wall Street Journal profile of live-shopping startup Whatnot last week, and the claim that it was on course for more than $1bn of revenues in 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f71af5acb7e9",
+          "title": "Universal Music Group kicks off additional €250M share buyback program",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-kicks-off-additional-e250m-share-buyback-program/",
+          "category": "musique",
+          "published_at": "2026-08-10T12:00:33+00:00",
+          "summary": "UMG completed the first €500 million program, its first-ever share repurchase, in July\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "852ee7786774",
           "title": "Délégué à la protection des données : identifier et gérer les conflits d’intérêts liés à la fonction de DPO",
@@ -12,6 +377,46 @@
           "category": "institutionnel",
           "published_at": "2026-08-10T12:00:00+00:00",
           "summary": "Le RGPD autorise les organismes à confier d’autres missions à leur délégué à la protection des données (DPO). Ces missions ne doivent néanmoins pas faire obstacle à ses missions de DPO ou le placer en situation de conflit d’intérêts. Comment reconnaître un conflit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5e223efc781",
+          "title": "Big cuts at BrooklynVegan and other Veeps-owned music publications",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/10/big-cuts-at-brooklynvegan-and-other-veeps-owned-music-publications/",
+          "category": "musique",
+          "published_at": "2026-08-10T11:30:00+00:00",
+          "summary": "In the latest sad day in a long line of sad days for music journalism, there have reportedly been significant layoffs at US publications BrooklynVegan, Alternative Press, Revolver and Goldmine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3256708516e6",
+          "title": "Veeps lays off staff at BrooklynVegan, Revolver and other music publications (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-backed-veeps-lays-off-nearly-all-editorial-staff-at-brooklynvegan-revolver-and-other-music-publications-report/",
+          "category": "musique",
+          "published_at": "2026-08-10T10:58:35+00:00",
+          "summary": "Veeps is the ticketed livestream service in which Live Nation owns a majority stake.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ab67be687f6",
+          "title": "Judge tosses shoe retailer DSW’s preemptive copyright suit against Sony Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-tosses-shoe-retailer-dsws-preemptive-copyright-suit-against-sony-music/",
+          "category": "musique",
+          "published_at": "2026-08-10T10:58:26+00:00",
+          "summary": "A federal judge dismissed the part of DSW's declaratory judgment lawsuit that targeted Sony Music Entertainment and Sony Music Publishing.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b02a2b2c4258",
+          "title": "Live Nation acquires majority stake in three Prague venues as it expands across Central and Eastern Europe",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-acquires-majority-stake-in-three-prague-venues-as-it-expands-across-central-and-eastern-europe/",
+          "category": "musique",
+          "published_at": "2026-08-10T10:24:11+00:00",
+          "summary": "The agreement, struck with Czech investment group PPF, also covers the 5,000-capacity O2 Universum and the 4,000-capacity Forum Karlín.\nSource",
           "summary_type": "extrait source"
         },
         {
