@@ -1,9 +1,464 @@
 {
-  "generated_at": "2026-08-11T09:13:23.881007+00:00",
+  "generated_at": "2026-08-12T09:31:46.454851+00:00",
   "days": [
+    {
+      "date": "2026-08-12",
+      "articles": [
+        {
+          "id": "6af82987f3dc",
+          "title": "Suno preps download caps to ‘make it harder for bad actors’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/suno-preps-download-caps-to-make-it-harder-for-bad-actors/",
+          "category": "musique",
+          "published_at": "2026-08-12T09:30:17+00:00",
+          "summary": "Last week, AI-music firm Suno promised that it was about to introduce “a new downloads policy. Now we know the details.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "743a3de559c5",
+          "title": "[Tuto] Installer Proxmox en version Arm sur un Raspberry Pi",
+          "source": "Next INpact",
+          "url": "https://next.ink/251209/tuto-installer-proxmox-en-version-arm-sur-un-raspberry-pi/",
+          "category": "ia",
+          "published_at": "2026-08-12T09:29:38+00:00",
+          "summary": "Proxmox est disponible sur Arm, mais il faut un peu bidouiller pour le faire tourner sur un Raspberry Pi. Rien d’insurmontable pour autant, comme le montre notre tuto permettant ensuite de lancer plusieurs machines virtuelles depuis un simple Raspberry Pi. Attention, ce n’est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af67974cd5e4",
+          "title": "L’éclipse solaire peut-elle provoquer une panne de courant en Europe ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2309943-leclipse-solaire-peut-elle-provoquer-une-panne-de-courant-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-08-12T09:19:54+00:00",
+          "summary": "En masquant le Soleil, l’éclipse du 12 août va faire chuter brutalement la production photovoltaïque en Europe. Jusqu’à 9,7 GW pourraient disparaître temporairement du réseau. Un scénario auquel les gestionnaires européens se préparent depuis plusieurs mois.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3295b978fa6e",
+          "title": "‘We’re Trying to Bet Big on Human Artistry’: Spotify’s Sam Duboff Talks AI Initiatives",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/spotify-sam-duboff-ai-turn-up-aus-interview/",
+          "category": "ia",
+          "published_at": "2026-08-12T09:18:39+00:00",
+          "summary": "Duboff recently visited Australia to talk with artists and partners in the domestic industry about its own AI protections and initiatives.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6dc07c6ab52c",
+          "title": "L’éclipse arrive en France : le tome 6 de Berserk Prestige va vous faire revivre la plus terrifiante de toutes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310073-leclipse-arrive-en-france-le-tome-6-de-berserk-prestige-va-vous-faire-revivre-la-plus-terrifiante-de-toutes.html",
+          "category": "ia",
+          "published_at": "2026-08-12T09:18:31+00:00",
+          "summary": "[Précommande] Ce mercredi 12 août, la France assiste à une éclipse solaire spectaculaire. Un drôle de hasard, alors que le prochain tome de Berserk Prestige, prévu le 26 août, contient l’un des passages les plus mythiques et traumatisants du manga : l’Éclipse. Ce sixième volume…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e987986b441",
+          "title": "Billboard U.K. to Launch Inaugural 40 Under 40 List, Host Honors Event at Manchester’s Beyond The Music Festival",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/billboard-uk-40-under-40-list-2026-nominations/",
+          "category": "musique",
+          "published_at": "2026-08-12T09:00:00+00:00",
+          "summary": "The list will be celebrated with an exclusive event as part of the conference’s official programming.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52166a7f9591",
+          "title": "« 5 fois plus puissant » : la NASA achève les essais de son propulseur futuriste pour Mars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2309951-5-fois-plus-puissant-la-nasa-acheve-les-essais-de-son-propulseur-futuriste-pour-mars.html",
+          "category": "ia",
+          "published_at": "2026-08-12T08:40:00+00:00",
+          "summary": "L’agence spatiale américaine a publié d'impressionnantes images de son propulseur électromagnétique au lithium. Couplé au nucléaire, ce moteur futuriste promet de réduire drastiquement le temps de voyage vers Mars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d101079491d",
+          "title": "La saison 2 de la série Harry Potter accueille une star du cinéma",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310025-la-saison-2-de-la-serie-harry-potter-accueille-une-star-du-cinema.html",
+          "category": "ia",
+          "published_at": "2026-08-12T08:28:18+00:00",
+          "summary": "La grande adaptation télévisée de la saga Harry Potter prépare déjà sa suite et vient d'enrôler une grande figure du cinéma britannique. L'acteur Nicholas Hoult rejoint la distribution de la deuxième saison pour prêter ses traits au très narcissique professeur Gilderoy Lockhart,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "052857f87be8",
+          "title": "Arrêtez tout, The Elder Scrolls 6 est jouable !",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309931-arretez-tout-the-elder-scrolls-6-est-jouable.html",
+          "category": "justice",
+          "published_at": "2026-08-12T07:54:38+00:00",
+          "summary": "Il n'y a pas que GTA qui a un sixième épisode attendu de pied ferme. La saga The Elder Scrolls aussi va voir débarquer The Elder Scrolls VI dans pas longtemps (comprendre : dans quelques années, en temps Bethesda). Pour l'instant, Asha Sharma, la PDG de Xbox, a eu la chance d'y…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05df3a31626c",
+          "title": "Anthropic va tatouer les textes et les images générés par Claude",
+          "source": "Next INpact",
+          "url": "https://next.ink/251192/anthropic-va-tatouer-les-textes-et-les-images-generes-par-claude/",
+          "category": "ia",
+          "published_at": "2026-08-12T07:52:00+00:00",
+          "summary": "Anthropic va appliquer des watermarks sur les contenus générés par Claude, ce qui permettra de les repérer plus facilement. Cet engagement est aussi une obligation réglementaire en vertu de l&#8217;AI Act européen. Depuis le 2 août dans l&#8217;UE, les fournisseurs d&#8217;IA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f324bc12df90",
+          "title": "Pourquoi la survie des Porsche thermiques dépend désormais d’un constructeur chinois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2309949-pourquoi-la-survie-des-porsche-thermiques-depend-desormais-dun-constructeur-chinois.html",
+          "category": "ia",
+          "published_at": "2026-08-12T07:37:20+00:00",
+          "summary": "Porsche ne fera plus pool commun avec le groupe Volkswagen pour la réglementation CO₂ européenne. Un accord avec Xpeng permet à Porsche de soulager le groupe allemand.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "72dfe1ac9f44",
+          "title": "OpenAI rachète 7 milliards de dollars d’actions à ses salariés avant d’entrer en bourse",
+          "source": "Next INpact",
+          "url": "https://next.ink/251158/openai-rachete-7-milliards-de-dollars-dactions-a-ses-salaries-avant-dentrer-en-bourse/",
+          "category": "ia",
+          "published_at": "2026-08-12T07:27:00+00:00",
+          "summary": "Open AI a proposé le rachat de l’équivalent de 7 milliards de dollars d’actions à ses employés. Une manière pour l’entreprise de re-concentrer ses parts, et pour ses employés de pouvoir réellement profiter de cette partie de leur rémunération. OpenAI prépare son entrée en bourse…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe823b55ada5",
+          "title": "Où suivre en direct la grande éclipse solaire totale du 12 août 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2301395-suivez-en-direct-la-grande-eclipse-solaire-totale-du-12-aout-2026.html",
+          "category": "ia",
+          "published_at": "2026-08-12T07:14:41+00:00",
+          "summary": "L'Europe est aux premières loges de l'éclipse solaire du mercredi 12 août 2026. Cette éclipse de Soleil est totale. Pour les Français, l'éclipse est partielle, avec jusqu'à 99 % d'occultation à certains endroits. Ce phénomène astronomique magistral est aussi à vivre en direct et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22ba5e932366",
+          "title": "Warner Chappell Music Signs ‘Freaked Out’ Hitmakers Fat Papi and Prodshushy",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/warner-chappell-signs-freaked-out-fat-papi-prodshushy/",
+          "category": "musique",
+          "published_at": "2026-08-12T07:14:02+00:00",
+          "summary": "“Freaked Out” gave Fat Papi his first career entry on the Billboard Hot 100, debuting at No. 89 and lifting to No. 88 on the latest chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b82f8735473",
+          "title": "Pour le troisième film Mortal Kombat, ça sent le sapin",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309915-pour-le-troisieme-film-mortal-kombat-ca-sent-le-sapin.html",
+          "category": "ia",
+          "published_at": "2026-08-12T07:05:00+00:00",
+          "summary": "Le réalisateur Simon McQuoid a déclaré que l'avenir des films Mortal Kombat est hautement incertain. Le deuxième opus, sorti en 2026, a fait un four au box-office mondial.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b05674546acb",
+          "title": "Comment suivre la conférence Google Pixel 11 avec Trevor Noah à l’animation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2309913-comment-suivre-la-conference-google-pixel-11-avec-trevor-noah-a-lanimation.html",
+          "category": "ia",
+          "published_at": "2026-08-12T06:58:33+00:00",
+          "summary": "L'ex-animateur du Daily Show, qui s'était notamment fait connaître ici en attaquant l'Équipe de France en 2018, succède à Jimmy Fallon dans l'animation de la conférence Google Pixel. Le géant américain devrait dévoiler 4 nouveaux téléphones dans la soirée du 12 août.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95e0b562e49a",
+          "title": "☕️ Apple prépare un système pour prouver qu’une photo vient bien d’un iPhone",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-prepare-un-systeme-pour-prouver-quune-photo-vient-bien-dun-iphone/",
+          "category": "ia",
+          "published_at": "2026-08-12T06:47:00+00:00",
+          "summary": "Progrès de l&#8217;IA générative aidant, il est bien difficile désormais de distinguer à coup sûr une photo réelle d&#8217;une image photoréaliste générée par intelligence artificielle. Et même le vieux truc de compter les doigts ne marche plus : les IA ne font en effet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "823dc04d3969",
+          "title": "La toute première Nintendo Switch 2 collector risque de ravir les fans de Zelda",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309903-la-toute-premiere-nintendo-switch-2-collector-risque-de-ravir-les-fans-de-zelda.html",
+          "category": "ia",
+          "published_at": "2026-08-12T06:15:12+00:00",
+          "summary": "Une fuite massivement partagée sur le web montre des photos d'une possible Nintendo Switch 2 collector. Ce serait la toute première, et elle se mettrait aux couleurs de The Legend of Zelda.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2c0508d83ef",
+          "title": "Sur Spotify, les « artistes IA » vont gagner un badge et perdre des recommandations",
+          "source": "Next INpact",
+          "url": "https://next.ink/251258/sur-spotify-les-artistes-ia-vont-gagner-un-badge-et-perdre-des-recommandations/",
+          "category": "ia",
+          "published_at": "2026-08-12T06:12:52+00:00",
+          "summary": "Personne n&#8217;aime découvrir que son nouveau chanteur ou sa nouvelle chanteuse préférée se révèle être une IA. Spotify lance donc un nouveau badge, «&#160;AI Persona&#160;», qui sera accolé aux profils des artistes qui ne sont pas des humains. Les créateurs de ces personnages…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b86ae7b89bfd",
+          "title": "Bird & Byron Fly Into Live Rounds on ‘AGT’ With ‘Haunting’ Original Song: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bird-byron-live-rounds-agt-original-song-watch-1236314631/",
+          "category": "musique",
+          "published_at": "2026-08-12T04:40:04+00:00",
+          "summary": "Facing elimination, the pair performed an original number.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7bc340faab28",
+          "title": "Olivia Rodrigo’s Daisy Chain Fields Festival Has No Overlapping Sets: See the Full Schedule",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-daisy-chain-fields-no-overlapping-sets-1236314601/",
+          "category": "ia",
+          "published_at": "2026-08-12T02:33:46+00:00",
+          "summary": "The pop superstar will headline the all-women fest later this month, the schedule for which has been published.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8843370a83c9",
+          "title": "Olly Arkins to Exit Australian Festival Association",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/olly-arkins-exit-australian-festival-association/",
+          "category": "ia",
+          "published_at": "2026-08-12T02:00:02+00:00",
+          "summary": "Olly Arkins, chief executive officer of the AFA, will depart from the trade body with effect from Aug. 21.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eab7baecb421",
+          "title": "Chinese Singer Liu Yuning Expands His Musical World With New Music & Cross-Cultural Collaborations",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/liu-yuning-new-music-cross-cultural-collaborations-1236314585/",
+          "category": "musique",
+          "published_at": "2026-08-12T01:43:07+00:00",
+          "summary": "\"JUMP\" sees Liu Yuning teaming up with J Balvin on a track that blends rock with traditional Chinese instruments.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a93baee35c70",
+          "title": "AEG Presents Partners With Japanese Concert Promoter Creativeman",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/aeg-presents-partners-with-creativeman-productions/",
+          "category": "musique",
+          "published_at": "2026-08-12T01:00:00+00:00",
+          "summary": "The Japanese promotion giant's portfolio includes events like Summer Sonic, Sonicmania, Loud Park and Springroove.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "242725d1e1c9",
+          "title": "NCT 127 Release ‘Piñata’ Video Ahead of 5-Piece ‘BLINGY’ Album Release",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/nct-127-pinata-video-blingy-album-1236314556/",
+          "category": "musique",
+          "published_at": "2026-08-12T00:20:27+00:00",
+          "summary": "The group will be headlining KCON LA, where fans can get an early preview of the album this weekend.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-11",
       "articles": [
+        {
+          "id": "7bc5076b6f8e",
+          "title": "Suno limits Pro subscribers to 20 song downloads per month, while promising new models ‘developed in partnership with the music industry’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-limits-subscribers-downloads-per-month/",
+          "category": "musique",
+          "published_at": "2026-08-11T22:47:25+00:00",
+          "summary": "Suno stated in a blog post on Monday (August 10) that the download restrictions \"will make it harder for bad actors to mass-export music\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7e8d75727f9",
+          "title": "Exceleration Music strikes strategic partnership with Christian hip-hop label Reach Records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/exceleration-music-strikes-strategic-alliance-with-christian-hip-hop-label-reach-records/",
+          "category": "musique",
+          "published_at": "2026-08-11T18:52:26+00:00",
+          "summary": "Exceleration's distribution company Redeye Worldwide will handle global physical and digital distribution for Reach's new releases\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5197c570dd8",
+          "title": "« Compte tenu des dangers extrêmes » sur la Lune, les sorties d’astronautes seront très rares",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2309741-compte-tenu-des-dangers-extremes-sur-la-lune-les-sorties-dastronautes-seront-tres-rares.html",
+          "category": "ia",
+          "published_at": "2026-08-11T18:00:00+00:00",
+          "summary": "Fini le temps des longues balades en scaphandre sur la Lune. Face aux « dangers extrêmes » de la surface, le patron de la NASA Jared Isaacman veut réduire au strict minimum les sorties en combinaison pour confier l'essentiel des chantiers à la robotique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79fae6973178",
+          "title": "26 mois après le ticket de métro, le passe Navigo Annuel est disponible sur iPhone",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2309693-26-mois-apres-le-ticket-de-metro-le-passe-navigo-annuel-est-disponible-sur-iphone.html",
+          "category": "ia",
+          "published_at": "2026-08-11T17:01:00+00:00",
+          "summary": "Île-de-France Mobilités a publié le 11 août la version 10.0.0 de son application iOS, qui permet enfin de transférer un passe Navigo Annuel sur son iPhone. La fonction était promise pour septembre, elle arrive avec quelques semaines d'avance. Subtilité : il faut toujours…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b08c565bc5d",
+          "title": "L’arme Fatale 5 : Mel Gibson donne enfin des détails sur la suite de la saga culte",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309857-larme-fatale-5-mel-gibson-donne-enfin-des-details-sur-la-suite-de-la-saga-culte.html",
+          "category": "ia",
+          "published_at": "2026-08-11T16:30:00+00:00",
+          "summary": "Presque trente ans après avoir rangé le flingue, Riggs et Murtaugh ont toujours du service à revendre. En direct du Fan Expo de Boston, Mel Gibson a balancé du lourd sur l'état réel de&nbsp;L'Arme Fatale 5&nbsp;: script terminé, approche « low-tech » sans effets spéciaux baveux,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7dc82db6e307",
+          "title": "D23 2026 : films Marvel, séries Star Wars et parcs… Tout ce que Disney pourrait dévoiler ce week-end",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309751-d23-2026-films-marvel-series-star-wars-et-parcs-tout-ce-que-disney-pourrait-devoiler-ce-week-end.html",
+          "category": "ia",
+          "published_at": "2026-08-11T16:01:00+00:00",
+          "summary": "C'est le grand rituel biennal de la firme aux grandes oreilles : du 14 au 16 août 2026, la convention D23 pose ses valises à Anaheim pour une orgie d'annonces, de teasers et de promesses hollywoodiennes.&nbsp;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7518f79ee0f",
+          "title": "« Aperçus IA » de Google : l’Alliance de la presse saisit l’Autorité de la concurrence",
+          "source": "Next INpact",
+          "url": "https://next.ink/251155/apercus-ia-lalliance-de-la-presse-dinformation-generale-saisit-lautorite-de-la-concurrence/",
+          "category": "ia",
+          "published_at": "2026-08-11T15:36:06+00:00",
+          "summary": "Le lancement le mois dernier des aperçus IA dans les résultats d&#8217;une recherche Google est resté au travers de la gorge de l&#8217;Alliance de la presse d&#8217;information générale. L&#8217;organisation a saisi l&#8217;Autorité de la concurrence pour obtenir des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30b271f4ab62",
+          "title": "Chris Evans révèle comment Marvel a su garder le secret pour Captain America dans Avengers: Doomsday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309737-chris-evans-revele-comment-marvel-a-su-garder-le-secret-pour-captain-america-dans-avengers-doomsday.html",
+          "category": "ia",
+          "published_at": "2026-08-11T15:25:00+00:00",
+          "summary": "Chris Evans a révélé l'astuce qui a permis à Marvel Studios et à Disney d'éviter au maximum les fuites sur son retour dans Avengers: Doomsday, jusqu'à l'officialisation dans un premier teaser. Les scénaristes ont rusé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02ea4912a9a5",
+          "title": "☕️ Windows OEM, Microsoft 365 : des hausses de prix qui tombent mal pour l’industrie PC",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/windows-oem-microsoft-365-des-hausses-de-prix-qui-tombent-mal-pour-lindustrie-pc/",
+          "category": "justice",
+          "published_at": "2026-08-11T14:46:00+00:00",
+          "summary": "Les prix des ordinateurs n&#8217;en finissent plus de grimper en raison de la crise de la mémoire, mais voilà que Microsoft n&#8217;arrange pas la situation. Certains constructeurs de PC auraient en effet subi une hausse importante des frais de licence OEM pour Windows, selon le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c05127ede6df",
+          "title": "DSA : la transparence limitée et les oublis des audits de Pornhub, Stripchat et XVideos",
+          "source": "Next INpact",
+          "url": "https://next.ink/251027/dsa-la-transparence-limitee-et-les-oublis-des-audits-de-pornhub-stripchat-et-xvideos/",
+          "category": "institutionnel",
+          "published_at": "2026-08-11T14:14:40+00:00",
+          "summary": "Considérés par la Commission européenne comme de très grandes plateformes en ligne, ces trois sites pornographiques sont contraints par le DSA de rendre un rapport d&#8217;audit régulièrement. Une étude scientifique estime que ces rapports manquent de transparence et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22bb9361bc1a",
+          "title": "Global Music Rights and Music Choice settle 95-song copyright case",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/global-music-rights-and-music-choice-settle-95-song-copyright-case/",
+          "category": "musique",
+          "published_at": "2026-08-11T13:53:16+00:00",
+          "summary": "GMR filed the complaint on June 8, alleging that Music Choice continued performing songs from its catalog after the companies' license agreement lapsed.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ea7db2186cb",
+          "title": "☕️ Google Play Store accueille de nouveau la boutique tierce Aptoide aux États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-play-store-accueille-de-nouveau-la-boutique-tierce-aptoide-aux-etats-unis/",
+          "category": "ia",
+          "published_at": "2026-08-11T13:39:48+00:00",
+          "summary": "L&#8217;histoire repasse les plats. Aptoide, la boutique d&#8217;apps Android, est de retour dans le Play Store plus de 15 ans après en avoir été retirée. Il restait possible d&#8217;installer le magasin alternatif mais en sideloading, en téléchargeant l&#8217;APK de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7be0df9bae7",
+          "title": "‘The real debate isn’t AI versus artists – it’s whether innovation and rightsholder participation can coexist.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-real-debate-isnt-ai-versus-artists-its-whether-innovation-and-rightsholder-participation-can-coexist/",
+          "category": "ia",
+          "published_at": "2026-08-11T13:30:40+00:00",
+          "summary": "Hook founder and CEO Gaurav Sharma explains why fan-made creations and remixes on social media are becoming the music industry’s next major consumption category…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a6270d8c4f7",
+          "title": "Spotify will soon label AI-generated artists with an ‘AI Persona’ badge",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/11/spotify-ai-personas-music-artists/",
+          "category": "musique",
+          "published_at": "2026-08-11T13:21:32+00:00",
+          "summary": "Spotify&#8217;s work to tackle the challenge of an avalanche of AI-generated music continues with a new labelling system for AI artists.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa5e0b331860",
+          "title": "Australian Music Touring Network to connect artists and venues",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/11/australian-music-touring-network-to-connect-artists-and-venues/",
+          "category": "musique",
+          "published_at": "2026-08-11T12:30:00+00:00",
+          "summary": "Activity to support and grow Australia’s grassroots music scene continues to ramp up. The latest example is a new site called the Australian Music Touring Network.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c22058b9f93b",
+          "title": "YouTube raises thresholds for creators to start earning revenue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/11/youtube-raises-thresholds-for-creators-to-start-earning-revenue/",
+          "category": "ia",
+          "published_at": "2026-08-11T12:30:00+00:00",
+          "summary": "YouTube is making some changes to the way it YouTube Partner Program (YPP) works, including raising the thresholds at which creators can start earning a share of its revenues.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36712d2dd540",
+          "title": "Spotify to label AI artists with new ‘AI Persona’ badge – and keep their music out of recommendations by default",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotifys-ai-persona-label-ai-generated-artists-and-keeps-them-out-of-recommendations-by-default/",
+          "category": "musique",
+          "published_at": "2026-08-11T12:26:23+00:00",
+          "summary": "The badge is designed to tell listeners that an artist's identity \"may be AI-generated and does not represent a real person\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c03c0dd6a59",
+          "title": "Tencent Music generated $1.32B in Q2, up 5.8% YoY – driven by concert growth and the integration of Ximalaya",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tencent-music-generated-1-32b-in-q2-up-5-8-yoy-driven-by-concert-growth-and-the-integration-of-ximalaya/",
+          "category": "musique",
+          "published_at": "2026-08-11T11:00:16+00:00",
+          "summary": "Overall revenues were driven by an 11% YoY rise in the company's music-related services division\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "687b3e2db2fd",
+          "title": "Behind The Campaign with Raye",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/11/behind-the-campaign-with-raye/",
+          "category": "musique",
+          "published_at": "2026-08-11T10:09:22+00:00",
+          "summary": "British singer-songwriter Raye released her second studio album, This Music May Contain Hope, in March 2026. Lead single ‘Where Is My Husband!’ dropped over half a year prior to the album - a move that seemed like a gamble on paper, but ultimately built massive anticipation. We…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11fad172e074",
+          "title": "Synology lance quatre NAS neo+ : c’est comme la série Plus, mais avec moins de mémoire",
+          "source": "Next INpact",
+          "url": "https://next.ink/251045/synology-lance-quatre-nas-neo-cest-comme-la-serie-plus-mais-avec-moins-de-memoire/",
+          "category": "ia",
+          "published_at": "2026-08-11T10:06:42+00:00",
+          "summary": "Le prix de la mémoire explose à cause de la pénurie. Certains augmentent les prix et/ou baissent la quantité de mémoire vive. C’est le choix fait par Synology avec ses NAS « neo+ » qui laisse tomber la mémoire ECC et sont tous livrés avec 4 Go par défaut. Reste une inconnue de…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "dc489a1c946d",
           "title": "Pour ses 10 ans, No Man’s Sky nous prépare (encore) une grosse mise à jour",
@@ -22,6 +477,16 @@
           "category": "ia",
           "published_at": "2026-08-11T08:35:00+00:00",
           "summary": "Anthropic a annoncé rendre les contenus générés par Claude plus facilement détectables. Sous l’effet d'une réglementation européenne (AI Act), les textes intégreront un filigrane invisible, jusque dans les e-mails. Les images ou fichiers compatibles recevront des métadonnées de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67972bc90729",
+          "title": "☕️ Énergie : record d’indisponibilité des réacteurs à cause des vagues de canicule",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/energie-record-dindisponibilite-des-reacteurs-a-cause-des-vagues-de-canicule/",
+          "category": "ia",
+          "published_at": "2026-08-11T08:17:00+00:00",
+          "summary": "Nous vous l’expliquions il y a quelques semaines, la réalité vient le démontrer : en période de canicules, l’approvisionnement en électricité peut devenir une gageure jusque dans un pays à la production excédentaire, comme la France. À l’échelle de la planète, la température des…",
           "summary_type": "extrait source"
         },
         {
@@ -55,6 +520,16 @@
           "summary_type": "extrait source"
         },
         {
+          "id": "1d8017da1795",
+          "title": "Meta revient aux poids ouverts avec Muse Glimmer, un modèle IA local",
+          "source": "Next INpact",
+          "url": "https://next.ink/250997/meta-revient-aux-poids-ouverts-avec-muse-glimmer-un-modele-ia-local/",
+          "category": "justice",
+          "published_at": "2026-08-11T07:37:00+00:00",
+          "summary": "Meta reprend son bâton de pèlerin pour les poids ouverts, après l&#8217;avoir perdu suite au flop de Llama 4. Muse Glimmer est un nouveau modèle IA de 30 milliards de paramètres, installable sur un ordinateur personnel (assez costaud tout de même), assorti d&#8217;une licence…",
+          "summary_type": "extrait source"
+        },
+        {
           "id": "4da917f709e4",
           "title": "CD Projekt Red voulait que le héros de The Witcher n’ait aucune émotion",
           "source": "Numerama",
@@ -62,6 +537,26 @@
           "category": "ia",
           "published_at": "2026-08-11T06:51:10+00:00",
           "summary": "Doug Cockle, doubleur de Geralt, héros de la saga The Witcher, depuis plus de 20 ans, est revenu sur son expérience avec la saga culte. Il est notamment revenu sur les exigences de CD Projekt Red, qui voulait un personnage dénué d'émotions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40c6e8f64367",
+          "title": "Frères Tate arrêtés : dans la fabrique très publique d’influenceurs masculinistes mondiaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/250993/freres-tate-arretes-dans-la-fabrique-tres-publique-dinfluenceurs-masculinistes-mondiaux/",
+          "category": "ia",
+          "published_at": "2026-08-11T06:47:00+00:00",
+          "summary": "Depuis des années, des femmes alertent sur les actes et le fonctionnement d&#8217;Andrew Tate et de son frère, Tristan. L&#8217;influenceur a gagné en visibilité et son modèle s’est répandu le long d’une décennie pendant laquelle ni les systèmes judiciaires, ni les médias n’ont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e827502e3f5c",
+          "title": "Spotify teste un bouton pour zapper les pubs dans les podcasts",
+          "source": "Next INpact",
+          "url": "https://next.ink/251013/spotify-teste-un-bouton-pour-zapper-les-pubs-dans-les-podcasts/",
+          "category": "ia",
+          "published_at": "2026-08-11T06:08:00+00:00",
+          "summary": "Après y avoir beaucoup investi ces dernières années, Spotify est devenu une place forte du secteur du podcast. Mais sa dernière expérimentation risque de braquer une partie du secteur : la plateforme teste auprès de certains abonnés Premium un bouton permettant de sauter d’un…",
           "summary_type": "extrait source"
         },
         {
@@ -317,6 +812,26 @@
           "category": "ia",
           "published_at": "2026-08-10T15:15:08+00:00",
           "summary": "Snapchat is officially putting its foot down on AI-generated content. The platform has updated its Spotlight algorithm (its short-form video feed) to demote wholly AI-generated videos, stripping them of recommendation eligibility to protect user experience from low-quality AI…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac50e6b444fa",
+          "title": "Modération : on a testé Shieldstral de Mistral sur un million de commentaires Next",
+          "source": "Next INpact",
+          "url": "https://next.ink/250875/moderation-on-a-teste-shieldstral-de-mistral-sur-un-million-de-commentaires-next/",
+          "category": "ia",
+          "published_at": "2026-08-10T14:46:55+00:00",
+          "summary": "Mistral vient d’annoncer son modèle local (avec des poids ouverts) pour la modération. Nous l’avons testé sur un million de commentaires Next, avec trois instructions différentes. Les résultats sont riches en enseignements. Shieldstral (ou plus précisément Shieldstral-1.0-3B)…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2df4836763fd",
+          "title": "La France ouvre la route aux robots livreurs autonomes",
+          "source": "Next INpact",
+          "url": "https://next.ink/250965/la-france-ouvre-la-route-aux-robots-livreurs-autonomes/",
+          "category": "justice",
+          "published_at": "2026-08-10T13:42:00+00:00",
+          "summary": "Faudra-t-il un jour partager les routes avec les robots livreurs ? La voie est en tout cas libre, du moins du point de vue de la réglementation : le ministère des Transports a publié un arrêté qui homologue ces véhicules bien particuliers en France. Assurer la livraison du…",
           "summary_type": "extrait source"
         },
         {
