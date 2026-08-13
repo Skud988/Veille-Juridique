@@ -1,9 +1,484 @@
 {
-  "generated_at": "2026-08-12T09:31:46.454851+00:00",
+  "generated_at": "2026-08-13T09:33:09.269289+00:00",
   "days": [
+    {
+      "date": "2026-08-13",
+      "articles": [
+        {
+          "id": "98dac4c74c61",
+          "title": "Éclipse du 12 août : « mal aux yeux », « vision floue »… ces recherches explosent sur Google",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2310709-eclipse-du-12-aout-mal-aux-yeux-vision-floue-ces-recherches-explosent-sur-google.html",
+          "category": "ia",
+          "published_at": "2026-08-13T09:03:21+00:00",
+          "summary": "Au lendemain de l’éclipse solaire du 12 août 2026, plusieurs recherches liées aux douleurs et aux troubles de la vision ont atteint des niveaux records sur Google. « Mal aux yeux », « tache yeux » ou encore « urgence ophtalmo » : les requêtes racontent l’inquiétude de certains…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbf67a2e3929",
+          "title": "Où voir la prochaine éclipse solaire totale en 2027, l’une des plus longues du siècle ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2310695-ou-voir-la-prochaine-eclipse-solaire-totale-en-2027-lune-des-plus-longues-du-siecle.html",
+          "category": "ia",
+          "published_at": "2026-08-13T08:45:00+00:00",
+          "summary": "L’éclipse du 12 août 2026 est déjà un souvenir, mais fort heureusement, d’autres éclipses solaires encore plus impressionnantes nous attendent au cours des deux prochaines années (2027 et 2028). Pour les observer dans leur totalité, il faudra toutefois être prêt à voyager.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9f8acbff24f",
+          "title": "« Vous devriez revoir Mulder et Scully » : le duo iconique revient dans le reboot de X-Files",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310721-vous-devriez-revoir-mulder-et-scully-le-duo-iconique-revient-dans-le-reboot-de-x-files.html",
+          "category": "ia",
+          "published_at": "2026-08-13T08:24:37+00:00",
+          "summary": "Le créateur historique de la franchise X-Files a lâché l'information lors d'une interview : le projet de relance piloté par le réalisateur de&nbsp;Black Panther&nbsp;ne tirera pas un trait sur le passé. Gillian Anderson et David Duchovny devraient faire une apparition dans cette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51e4ed6db3e2",
+          "title": "Vous avez pris l’éclipse solaire en photo, mais avez-vous eu des clichés de cette qualité ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2310711-vous-avez-pris-leclipse-solaire-en-photo-mais-avez-vous-eu-des-cliches-de-cette-qualite.html",
+          "category": "ia",
+          "published_at": "2026-08-13T08:10:40+00:00",
+          "summary": "Dans la soirée du 12 août 2026, une éclipse solaire a traversé l’Europe, offrant un spectacle saisissant de la péninsule Ibérique aux quatre coins du continent. Du simple cliché au smartphone aux compositions spectaculaires d’astrophotographes, retour en images sur l’événement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b71ba95db9a",
+          "title": "[Édito] Quatre modèles d’IA « échappent » à leurs constructeurs : vous le faites exprès ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/251382/edito-quatre-modeles-dia-echappent-a-leurs-constructeurs-vous-le-faites-expres/",
+          "category": "ia",
+          "published_at": "2026-08-13T08:02:00+00:00",
+          "summary": "Après Anthropic, OpenAI et Meta, voilà qu’un modèle du chinois Moonshot AI aurait lui aussi réussi à accéder à internet aux dépens de ses constructeurs. Une démonstration supplémentaire des failles techniques et humaines existant chez les constructeurs d’IA générative et leurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8c4049aebf6",
+          "title": "From The Box to Blinding Talent: Mark Adams on 28 years shaping music TV and artist careers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/from-the-box-to-blinding-talent-mark-adams-on-28-years-shaping-music-tv-and-artist-careers/",
+          "category": "musique",
+          "published_at": "2026-08-13T08:00:00+00:00",
+          "summary": "Before he founded artist management and digital marketing consultancy Blinding Talent, Mark Adams spent close to two decades inside the machinery of music broadcasting. He launched Kerrang TV, The Hits [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2682be3cf3a4",
+          "title": "Fatboy Slim’s ‘Better Living Through Chemistry’ Gets 30th Anniversary Release",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/fatboy-slim-better-living-through-chemistry-30th-1236315614/",
+          "category": "musique",
+          "published_at": "2026-08-13T07:52:53+00:00",
+          "summary": "The debut album from Fatboy Slim will be reissued digitally on Sept. 25 via BMG, with special-edition LP and CD editions following on Oct. 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3da48d3f7aed",
+          "title": "Google DeepMind transforme la langue des signes en texte sur les Pixel 11",
+          "source": "Next INpact",
+          "url": "https://next.ink/251549/google-deepmind-transforme-la-langue-des-signes-en-texte-sur-les-pixel-11/",
+          "category": "ia",
+          "published_at": "2026-08-13T07:25:00+00:00",
+          "summary": "La réorganisation de Google DeepMind n&#8217;empêche pas le labo IA du géant du web de continuer à produire des technologies inédites. À l&#8217;occasion de la présentation de la nouvelle gamme Pixel 11, DeepMind a dévoilé un nouveau modèle qui transcrit le langage des signes en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ddcfaa71c8f",
+          "title": "Il existe une version plus sombre du film Hulk, avec Captain America et Iron Man",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310671-il-existe-une-version-plus-sombre-du-film-hulk-avec-captain-america-et-iron-man.html",
+          "category": "ia",
+          "published_at": "2026-08-13T07:20:00+00:00",
+          "summary": "Réalisateur de L'Incroyable Hulk, le deuxième film du Marvel Cinematic Universe, Louis Leterrier a révélé qu'il existe une version plus longue et sombre du blockbuster sorti en 2008, avec Edward Norton dans le rôle-titre. On y verrait même Iron Man et Captain America.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d2c19842d73",
+          "title": "L’extension de Ghost of Yotei arrive cet automne avec de nouvelles missions",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310673-lextension-de-ghost-of-yotei-arrive-cet-automne-avec-de-nouvelles-missions.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-13T07:00:35+00:00",
+          "summary": "Sorti en octobre 2025, Ghost of Yōtei va bénéficier d'une nouvelle extension majeure qui ajoutera une nouvelle zone, de nouvelles missions narratives, ainsi qu'un mode survie. Cette Complete Edition sera la bonne occasion de relancer le jeu, ou de le découvrir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "636ff8837bbf",
+          "title": "Taylor Swift’s ‘I Bet You Think About Me’ Is Her Latest Song Removed From a Trump TikTok Post",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-i-bet-you-think-about-me-removed-trump-tiktok-1236315607/",
+          "category": "musique",
+          "published_at": "2026-08-13T06:47:15+00:00",
+          "summary": "The White House TikTok account affiliated with Donald Trump has posted another video, soundbedded with TayTay’s music. And that music has been quietly scrubbed.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3bcfb7f3376",
+          "title": "☕️ La préfecture de Seine-et-Marne autorise l’installation de Campus IA à Fouju",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-prefecture-de-seine-et-marne-autorise-linstallation-de-campus-ia-a-fouju/",
+          "category": "ia",
+          "published_at": "2026-08-13T06:42:00+00:00",
+          "summary": "C’est fait. Sans grande surprise, le plus grand projet de data center de France, Campus IA, a obtenu le 29 juillet l’autorisation préfectorale de s’installer à Fouju, à 40 km au Sud-Est de Paris. Après une consultation publique organisée auprès de la population à l’automne, puis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d78073f8961d",
+          "title": "Le nom complet de The Elder Scrolls 6 a peut-être été trouvé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310661-le-nom-complet-de-the-elder-scrolls-6-a-peut-etre-ete-trouve.html",
+          "category": "ia",
+          "published_at": "2026-08-13T06:10:09+00:00",
+          "summary": "Des fans pensent avoir trouvé le nom complet de The Elder Scrolls 6. Le futur RPG de Bethesda pourrait s'appeler The Elder Scrolls 6: Sentinel. Le sous-titre renverrait au lieu où se déroulerait l'aventure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fc230185c5e",
+          "title": "La Pixel Watch 5 détecte les signes de résistance à l’insuline",
+          "source": "Next INpact",
+          "url": "https://next.ink/251538/la-pixel-watch-5-detecte-les-signes-de-resistance-a-linsuline/",
+          "category": "ia",
+          "published_at": "2026-08-13T06:08:00+00:00",
+          "summary": "S&#8217;il est bien difficile de développer de nouveaux capteurs de suivi de la santé, il est toujours possible d&#8217;exploiter au mieux ceux existants. La Pixel Watch 5 fraîchement annoncée par Google n&#8217;apporte pas grand chose de neuf dans le registre matériel. En…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f322937d470",
+          "title": "Ecca Vandal’s Trans-Atlantic Tour Is ‘A Beautiful Type of Chaos’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/ecca-vandal-trans-atlantic-tour-beautiful-type-of-chaos-1236315579/",
+          "category": "musique",
+          "published_at": "2026-08-13T04:39:59+00:00",
+          "summary": "Billboard caught up with Ecca Vandal ahead of her headline tours of the United Kingdom, Europe and North America.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d980db1ff62",
+          "title": "RÜFÜS DU SOL Plan to Lay Low For ‘A Solid Amount of Time’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/rufus-du-sol-lay-low-solid-amount-of-time-1236315572/",
+          "category": "musique",
+          "published_at": "2026-08-13T02:55:21+00:00",
+          "summary": "After completing their ongoing \"Inhale / Exhale World Tour,\" RDS will take a decent break until they have new music to share.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56467c36c105",
+          "title": "Inside KATSEYE on ‘Tonight Show’: Their Wild ‘Animal’ TV Debut, Thanking Fans for ‘Support’ During Sophia & Manon Hiatus (Exclusive Photos)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/katseye-tonight-show-photos-animal-performance-jimmy-fallon-inside-1236315527/",
+          "category": "ia",
+          "published_at": "2026-08-13T02:16:47+00:00",
+          "summary": "The current quartet return to 'The Tonight Show Starring Jimmy Fallon' to make their late-night performance debut.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9b7672fcf37",
+          "title": "The Neighbourhood’s ‘Sweater Weather’ Cozies Its Way Into YouTube’s Billion Views Club",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/the-neighbourhood-sweater-weather-billion-views-youtube-1236315500/",
+          "category": "musique",
+          "published_at": "2026-08-13T01:09:14+00:00",
+          "summary": "The Jesse Rutherford-fronted band released “Sweater Weather” as the lead single from their 2013 debut studio album, I Love You.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce01cd7a455b",
+          "title": "Jenna Ortega Recalls the ‘Espresso’-Inspired Name for the Chainsaw in Sabrina Carpenter’s ‘Taste’ Video",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/jenna-ortega-sabrina-carpenter-taste-music-video-chainsaw-1236315473/",
+          "category": "musique",
+          "published_at": "2026-08-13T01:04:28+00:00",
+          "summary": "The actress also reveals that nothing was choreographed in the horror-inspired music video.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "184409f2df0c",
+          "title": "Vanessa Williams Says Two Music Legends Passed on ‘Save the Best for Last’ Before It Came Her Way: ‘I Was Third One Up’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/vanessa-williams-save-the-best-for-last-barbra-bette-passed-1236315438/",
+          "category": "musique",
+          "published_at": "2026-08-13T00:50:37+00:00",
+          "summary": "The ballad became a career-defining hit for Williams, spending five weeks at No. 1 on the Hot 100.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "articles": [
+        {
+          "id": "7292444eb9c7",
+          "title": "Michael Jackson ‘Second Family’ Child Sex Trafficking Lawsuit Tossed Out of Court",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/michael-jackson-child-sex-trafficking-lawsuit-tossed-court/",
+          "category": "ia",
+          "published_at": "2026-08-12T23:58:00+00:00",
+          "summary": "A federal judge says the allegations, while “horrific,” belong in confidential arbitration.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a79b21efbd4",
+          "title": "Ticketmaster Users Can Now Prompt Google’s Gemini AI Chatbot to Find Live Events",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ticketmaster-google-gemini-ai-chatbot-event-discovery/",
+          "category": "musique",
+          "published_at": "2026-08-12T23:47:30+00:00",
+          "summary": "Gemini users can ask the AI platform to help find event tickets through Ticketmaster's connected app.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1857c5d1de55",
+          "title": "Pixel 11 : Google augmente les prix et ajoute une petite LED pour Gemini",
+          "source": "Next INpact",
+          "url": "https://next.ink/251497/pixel-11-google-augmente-les-prix-et-ajoute-une-petite-led-pour-gemini/",
+          "category": "ia",
+          "published_at": "2026-08-12T15:49:01+00:00",
+          "summary": "Comme depuis quelques années maintenant, Google révèle au cœur de l&#8217;été sa nouvelle gamme Pixel. Au menu de la fournée 2026 : de nouveaux smartphones et montres connectées, mais aussi un rival direct à l&#8217;AirTag d&#8217;Apple. On ne change pas une équipe qui gagne :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "593765fb56c9",
+          "title": "Éclipse solaire ce 12 août 2026 : suivez le spectacle minute par minute (en direct)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2310357-eclipse-ce-12-aout-2026-suivez-leclipse-solaire-etape-par-etape-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-08-12T15:08:54+00:00",
+          "summary": "Ce mercredi 12 août, la Lune passe devant le Soleil et offre une éclipse visible depuis la France. Suivez le phénomène en direct sur Numerama, de ses premières phases jusqu’à son point culminant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18f42d422654",
+          "title": "Baroud d’honneur pour Bloctel, avec la fuite de 600 000 numéros opposés au démarchage",
+          "source": "Next INpact",
+          "url": "https://next.ink/251482/baroud-dhonneur-pour-bloctel-avec-la-fuite-de-600-000-numeros-opposes-au-demarchage/",
+          "category": "ia",
+          "published_at": "2026-08-12T15:01:24+00:00",
+          "summary": "Bloctel devait protéger les utilisateurs opposés au démarchage téléphonique… mais ce n’était pas un franc succès. Bloctel a tiré officiellement sa révérence le 11 août, non sans un dernier fait d’arme : « Un accès frauduleux à un compte professionnel a permis à un cybercriminel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "befa4b48600d",
+          "title": "Dans notre coup de cœur PS5 de l’année (noté 9/10), l’éclipse transforme le monde en cauchemar",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310137-dans-notre-coup-de-coeur-ps5-de-lannee-note-9-10-leclipse-transforme-le-monde-en-cauchemar.html",
+          "category": "loi",
+          "published_at": "2026-08-12T15:00:00+00:00",
+          "summary": "[Deal du jour] Avec Saros, Housemarque reprend la formule de Returnal et la pousse encore plus loin. Plus beau, plus accessible et toujours aussi nerveux, ce jeu d’action envoie les joueuses et les joueurs sur une planète hostile où chaque partie peut tourner au cauchemar.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f622e338016",
+          "title": "☕️ Gemini dans le club très fermé des services Google au milliard d’utilisateurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/gemini-dans-le-club-tres-ferme-des-services-google-au-milliard-dutilisateurs/",
+          "category": "ia",
+          "published_at": "2026-08-12T14:47:00+00:00",
+          "summary": "Google peut s&#8217;enorgueillir de compter dans son catalogue 14 services et produits qui dépassent le milliard d&#8217;utilisateurs : Gemini fait désormais partie de ce club, comme s&#8217;en réjouit Sundar Pichai, le directeur général d&#8217;Alphabet et de Google. Le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7af068e1641e",
+          "title": "Il confie sa récolte à une IA, 10 hectares dépérissent en une nuit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2310375-il-confie-sa-recolte-a-une-ia-10-hectares-deperissent-en-une-nuit.html",
+          "category": "ia",
+          "published_at": "2026-08-12T14:27:17+00:00",
+          "summary": "En Chine, un agriculteur aurait perdu 10 hectares de plants de sésame après avoir suivi les recommandations d’une intelligence artificielle. Un traitement inadapté aurait détruit sa récolte en une seule nuit, rapporte The Independent.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e734dec1e82",
+          "title": "Evo 2 : le ChatGPT de l’ADN a « un potentiel énorme » pour François Rousset (CNRS)",
+          "source": "Next INpact",
+          "url": "https://next.ink/251303/evo-2-le-chatgpt-de-ladn-a-un-potentiel-enorme-pour-francois-rousset-cnrs/",
+          "category": "ia",
+          "published_at": "2026-08-12T14:16:00+00:00",
+          "summary": "Des chercheurs de Stanford ont créé un modèle de langage génomique puis l&#8217;ont utilisé pour générer le génome de 16 bactériophages viables, des virus de bactéries, proches du bactériophage naturel ΦX174 qui attaque la bactérie Escherichia coli. Une révolution pour son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0220edc22c7d",
+          "title": "☕️ Addiction aux réseaux sociaux : Meta et TikTok sous la menace de milliers de plaintes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/addiction-aux-reseaux-sociaux-meta-et-tiktok-sous-la-menace-de-milliers-de-plaintes/",
+          "category": "ia",
+          "published_at": "2026-08-12T13:49:36+00:00",
+          "summary": "Meta, TikTok, mais aussi Google et Snap devront faire face aux nombreuses plaintes qui visent leurs plateformes et l&#8217;addiction qu&#8217;elles provoquent chez les plus jeunes. Une cour d&#8217;appel a en effet rejeté les arguments de Meta et de TikTok qui ne voulaient pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65d3b56fa3bc",
+          "title": "Jeff le tueur : après Backrooms, un autre gros mythe d’Internet aura droit à son film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310407-jeff-le-tueur-apres-backrooms-un-autre-gros-mythe-dinternet-aura-droit-a-son-film.html",
+          "category": "ia",
+          "published_at": "2026-08-12T13:49:25+00:00",
+          "summary": "En plein bras de fer pour trouver le nouveau filon qui remplacera les formules essoufflées des studios, Hollywood va piocher directement dans la sous-culture du web. Vingt ans après sa naissance sur les forums, le phénomène creepypasta&nbsp;Jeff the Killer&nbsp;débarque…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e544e4cdc311",
+          "title": "La série HBO Harry Potter s’offre une énorme star d’Hollywood",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310025-la-saison-2-de-la-serie-harry-potter-accueille-une-star-du-cinema.html",
+          "category": "ia",
+          "published_at": "2026-08-12T13:20:00+00:00",
+          "summary": "La grande adaptation télévisée de la saga Harry Potter prépare déjà sa suite et vient d'enrôler une grande figure du cinéma britannique. L'acteur Nicholas Hoult rejoint la distribution de la deuxième saison pour prêter ses traits au très narcissique professeur Gilderoy Lockhart,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0190c21c97a7",
+          "title": "Un vieux RPG Le Seigneur des anneaux ressort par surprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2310003-un-vieux-rpg-le-seigneur-des-anneaux-ressort-par-surprise.html",
+          "category": "ia",
+          "published_at": "2026-08-12T12:54:38+00:00",
+          "summary": "Vous êtes en manque de jeux Le Seigneur des anneaux ? C’est normal : quand bien même la saga fleuve ne quitte jamais vraiment le paysage de la pop culture mondiale, il n’y a pas beaucoup de jeux vidéo à se mettre sous la dent récemment. Mais attendez, ne serait-ce pas Le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "953da393157d",
+          "title": "Tencent Music reveals 11% growth in its music-related revenues",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/tencent-music-reveals-11-growth-in-its-music-related-revenues/",
+          "category": "musique",
+          "published_at": "2026-08-12T12:30:00+00:00",
+          "summary": "In days of yore (well, up until earlier this year) our lead for stories on financial results from Chinese streaming giant Tencent Music would focus on how many paying users it had.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13834ee6f923",
+          "title": "Québec study warns of a slowdown in growth for music streams",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/quebec-study-warns-of-a-slowdown-in-growth-for-music-streams/",
+          "category": "musique",
+          "published_at": "2026-08-12T12:30:00+00:00",
+          "summary": "When the music industry frets about a ‘streaming slowdown’ it’s usually about subscriber numbers and revenues. A report from Canadian province Québec focuses on another metric: actual streams. “In 2025, there were 31.9 billion streams on on-demand streaming platforms in Québec,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b33aec4dd1f6",
+          "title": "Startup Riffle launches its ‘multiplayer music studio’ web-app",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/startup-riffle-launches-its-multiplayer-music-studio-web-app/",
+          "category": "musique",
+          "published_at": "2026-08-12T12:30:00+00:00",
+          "summary": "Riffle is the latest startup hoping to help people make music together online. Its browser-based “multiplayer music studio” has officially launched after a three-month early-access period with 7,000 musicians.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15235ba19400",
+          "title": "Bandsintown hails growth in fan activity around dance music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/bandsintown-hails-growth-in-fan-activity-around-dance-music/",
+          "category": "musique",
+          "published_at": "2026-08-12T12:30:00+00:00",
+          "summary": "Interesting things are afoot with live electronic music, according to Bandsintown, which has been digging into its data on how fans are following dance artists and clicking through to buy tickets.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "64d73897bc78",
+          "title": "Spotify and Depop team up for artist-curated fashion shops",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/spotify-and-depop-team-up-for-artist-curated-fashion-shops/",
+          "category": "musique",
+          "published_at": "2026-08-12T12:30:00+00:00",
+          "summary": "Artist-curated (online) shops is one of the trends we’re following in 2026, having covered Etsy’s ‘Festival Shop’ with Laufey, PinkPantheress and Willow Avalon, plus its partnership with Olivia Rodrigo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f3c72c07a63",
+          "title": "Google’s Gemini app now has more than 1bn monthly active users",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/googles-gemini-app-now-has-more-than-1bn-monthly-active-users/",
+          "category": "ia",
+          "published_at": "2026-08-12T12:30:00+00:00",
+          "summary": "If you use any Google services, it’s hard to avoid its Gemini AI assistant. Now there’s a new hard metric to quantify the impact of that push.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d8726b0e74f",
+          "title": "Taxe au kilomètre pour les voitures électriques : ce que dit un rapport de la Cour des comptes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2310341-taxe-au-kilometre-pour-les-voitures-electriques-ce-que-dit-un-rapport-de-la-cour-des-comptes.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-12T12:25:36+00:00",
+          "summary": "Face aux rumeurs d'une future « taxe au kilomètre », comme nos voisins britanniques, ou d'une surtaxe de la recharge à domicile, un rapport officiel apporte une réponse sans ambiguïté : taxer prématurément l'usage du véhicule électrique serait une erreur stratégique majeure.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aec744845c75",
+          "title": "Anghami co-founder Eddy Maroun launches Arabic music IP platform IPNation, targeting $100m with backing from Influence Media Partners",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/anghami-co-founder-eddy-maroun-launches-arabic-music-ip-platform-ipnation-targeting-100m-with-backing-from-influence-media-partners/",
+          "category": "ia",
+          "published_at": "2026-08-12T12:17:56+00:00",
+          "summary": "IPNation describes itself as the first investment platform dedicated exclusively to Arabic music catalogs and entertainment IP.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67a3e1a32ab3",
+          "title": "JYP Entertainment’s Q2 revenues fell 15.1% YoY, net profit down 40.3%, in the gap between Stray Kids’ world tours",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jyp-entertainments-q2-revenues-fell-15-1-yoy-net-profit-down-40-3-in-the-gap-between-stray-kids-world-tours/",
+          "category": "ia",
+          "published_at": "2026-08-12T11:53:01+00:00",
+          "summary": "That high base was the same quarter of 2025, when Stray Kids' dominATE world tour was still on the road.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "810e5ad0a9ba",
+          "title": "☕️ Flockerie d’été 🎵🚌 : pas facile de se comprendre avec le choc des générations",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flockerie-dete-%f0%9f%8e%b5%f0%9f%9a%8c-pas-facile-de-se-comprendre-avec-le-choc-des-generations/",
+          "category": "ia",
+          "published_at": "2026-08-12T11:37:00+00:00",
+          "summary": "Cet été, Next propose de vous divertir avec un cahier de vacances spécial geek. On vous a préparé des mini-jeux pour vous occuper sur la plage, à la montagne, en voyage… Cerise sur le gâteau, il y a des cadeaux à gagner. Deux fois par semaine, on se donne rendez-vous pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ddc519007c2c",
+          "title": "Excel Entertainment and Universal Music’s sub-label Excel Music is here",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/excel-entertainment-and-universal-musics-sub-label-excel-music-is-here/",
+          "category": "musique",
+          "published_at": "2026-08-12T10:20:19+00:00",
+          "summary": "In January, the Universal Music Group announced that it had acquired a 30% stake in Excel Entertainment, the Indian production house behind such hit Bollywood movies and soundtracks as Dil [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5c81feb196f",
+          "title": "Yash Raj Films launches independent music label Raah Records",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/yash-raj-films-launches-independent-music-label-raah-records/",
+          "category": "musique",
+          "published_at": "2026-08-12T10:05:37+00:00",
+          "summary": "Leading Indian entertainment studio Yash Raj Films (YRF) was among the first production houses in the country to launch an in-house label to release its movie soundtracks. That was back [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d32bf8b7f9cd",
+          "title": "Suno signs another music licensing deal – with BMG",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/12/suno-bmg-ai-music-licensing-deal/",
+          "category": "musique",
+          "published_at": "2026-08-12T10:00:00+00:00",
+          "summary": "Are the dominoes starting to fall for Suno when it comes to music licensing deals? Today the company has bagged BMG.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6a412b57ec8",
+          "title": "Suno inks global licensing deal with BMG, ahead of launching new music model",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-inks-global-licensing-deal-with-bmg/",
+          "category": "musique",
+          "published_at": "2026-08-12T09:58:34+00:00",
+          "summary": "BMG is the first significant rightsholder to ink a licensing deal with Suno since Warner Music Group announced an alliance with the AI company nine months ago.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "6af82987f3dc",
           "title": "Suno preps download caps to ‘make it harder for bad actors’",
