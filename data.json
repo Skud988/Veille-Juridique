@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-08-13T09:33:09.269289+00:00",
+  "generated_at": "2026-08-14T09:20:28.035522+00:00",
   "days": [
+    {
+      "date": "2026-08-14",
+      "articles": [
+        {
+          "id": "74a56d9e6efa",
+          "title": "Coyote vs. Acme, le film a failli disparaître et pourtant c’est l’un des meilleurs de l’année",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2311491-coyote-vs-acme-le-film-a-failli-disparaitre-et-pourtant-cest-lun-des-meilleurs-de-lannee.html",
+          "category": "ia",
+          "published_at": "2026-08-14T09:05:00+00:00",
+          "summary": "Envoyé au placard par des banquiers en costume pour gratter un chèque d'impôts, le film Coyote vs. Acme débarque enfin en salles après un sauvetage héroïque. Verdict de la presse ? Un camouflet monumental pour Warner Bros., qui a failli jeter à la poubelle l'un des meilleurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "415299492479",
+          "title": "Sortie spatiale de Sophie Adenot : heure de départ, rôle… comment va se dérouler la mission du 18 août",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2311471-sortie-spatiale-de-sophie-adenot-heure-de-depart-role-comment-va-se-derouler-la-mission-du-18-aout.html",
+          "category": "ia",
+          "published_at": "2026-08-14T08:41:00+00:00",
+          "summary": "Le 18 août prochain, Sophie Adenot deviendra la toute première Française à réaliser une sortie extravéhiculaire. À quelques jours de ce baptême du vide, la NASA a détaillé le scénario millimétré de cette mission de six heures, entre délicates réparations et préparation médicale…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b24e2ce58ddc",
+          "title": "Malgré son enthousiasme pour les jeux vidéo, Netflix fait encore n’importe quoi avec ses studios",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2311463-malgre-son-enthousiasme-pour-les-jeux-video-netflix-fait-encore-nimporte-quoi-avec-ses-studios.html",
+          "category": "ia",
+          "published_at": "2026-08-14T08:28:00+00:00",
+          "summary": "Netflix a beau croire au jeu vidéo, ça ne l’empêche pas de fermer le studio de développement Night School Studios, moins de deux mois après la sortie de son dernier jeu, ainsi qu’un deuxième studio dans la foulée, parce que pourquoi pas.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "319b9a9ab157",
+          "title": "There is huge demand for music podcasts… but not enough supply",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/14/there-is-huge-demand-for-music-podcasts-but-not-enough-supply/",
+          "category": "musique",
+          "published_at": "2026-08-14T08:22:50+00:00",
+          "summary": "Music podcasts score 77 on WhichPodcast&#8217;s &#8216;demand index&#8217;. 77 is high, but music podcasts only score 30 out of 100 for supply.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2fdb91400e31",
+          "title": "Intel pourrait renouer avec ses premières amours, la mémoire",
+          "source": "Next INpact",
+          "url": "https://next.ink/251697/intel-pourrait-renouer-avec-ses-premieres-amours-la-memoire/",
+          "category": "ia",
+          "published_at": "2026-08-14T08:11:00+00:00",
+          "summary": "L&#8217;explosion des prix de la mémoire donne des idées à Intel. Le directeur général du géant américain des processeurs laisse entendre que le groupe pourrait s&#8217;intéresser de nouveau à ce marché longtemps jugé trop banal, mais redevenu stratégique avec l&#8217;IA, la HBM…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01b148546eef",
+          "title": "ChatGPT enregistre tout ce que vous faites sur votre ordinateur, et c’est aussi pratique qu’inquiétant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2311469-chatgpt-enregistre-tout-ce-que-vous-faites-sur-votre-ordinateur-et-cest-aussi-pratique-quinquietant.html",
+          "category": "ia",
+          "published_at": "2026-08-14T08:10:00+00:00",
+          "summary": "OpenAI annonce Computer History, une fonction de l'application ChatGPT sur Mac qui enregistre votre activité dans vos applications et sur les sites web pour la transformer en mémoire et en frise chronologique. Techniquement parlant, ChatGPT sait donc tout de ses utilisateurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "684bab7e59a5",
+          "title": "Colorado’s Artist Company Act is all about enabling ‘A-Corps’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/14/colorados-artist-company-act-is-all-about-enabling-a-corps/",
+          "category": "musique",
+          "published_at": "2026-08-14T08:09:31+00:00",
+          "summary": "Talking about musicians being ‘CEOs of their own businesses’ has become a cliché, but that&#8217;s what the Colorado Artist Company Act is about.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c93dfed03517",
+          "title": "California’s AB 1720 ticketing bill is not moving forward",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/14/californias-ab-1720-ticketing-bill-is-not-moving-forward/",
+          "category": "musique",
+          "published_at": "2026-08-14T07:58:15+00:00",
+          "summary": "Legislation in California that would have capped resale prices for concert tickets at 10% more than their original price has bitten the dust.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13dd7d6b2203",
+          "title": "Tame Impala’s ‘Loser’ Lands on ARIA Chart Following ‘Spider-Man’ Sync",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/tame-impala-steve-lacy-aria-charts-spider-man-1236316493/",
+          "category": "ia",
+          "published_at": "2026-08-14T07:57:15+00:00",
+          "summary": "Thanks to the latest adventures of Peter Parker, Tame Impala and Steve Lacy enjoy chart climbs in Australia.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef2a10fc997a",
+          "title": "Le vélo de ville électrique Decathlon Elops 900 E est beau, et en promo de 300 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2311311-le-velo-de-ville-electrique-decathlon-elops-900-e-est-beau-et-en-promo-de-300-e.html",
+          "category": "ia",
+          "published_at": "2026-08-14T07:55:33+00:00",
+          "summary": "[Deal du jour] L’Elops 900 E de Decathlon est un vélo à assistance électrique idéal pour la ville, confortable, et qui a vraiment un bon style. Il profite en ce moment de 300 € de réduction chez Decathlon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec2ce08dc626",
+          "title": "Kobalt signs on for Spotify’s AI fan-made covers and remixes",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/14/kobalt-signs-on-for-spotifys-ai-fan-made-covers-and-remixes/",
+          "category": "musique",
+          "published_at": "2026-08-14T07:29:43+00:00",
+          "summary": "Kobalt has signed on for Spotify&#8217;s upcoming AI-powered &#8216;fan-made covers and remixes&#8217; features, with a licensing deal.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54d277363030",
+          "title": "Alors que les disques PlayStation s’arrêtent, l’exclusivité Marvel’s Wolverine sera 100 % jouable sans rien télécharger",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2311439-alors-que-les-disques-playstation-sarretent-lexclusivite-marvels-wolverine-sera-100-jouable-sans-rien-telecharger.html",
+          "category": "ia",
+          "published_at": "2026-08-14T07:14:52+00:00",
+          "summary": "Insomniac Games a annoncé que la version physique de Marvel's Wolverine sera bien 100 % jouable. Ce qui signifie qu'aucun téléchargement ne sera nécessaire pour en profiter. Un comble quand on connaît la stratégie de Sony sur les disques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd941c69ff3f",
+          "title": "Punjabi sample helps turns India into the second biggest market for Francis Mercier",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/14/punjabi-sample-helps-turns-india-into-the-second-biggest-market-for-francis-mercier/",
+          "category": "ia",
+          "published_at": "2026-08-14T07:10:28+00:00",
+          "summary": "‘Sadete’, Haitian electronic music DJ and producer Francis Mercier’s new collaboration with his Turkish counterpart Mahmut Orhan — which has sparked an AI “octopus rave” online trend — owes at [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc57b8cf0705",
+          "title": "Espace : la longue marche vers le réutilisable",
+          "source": "Next INpact",
+          "url": "https://next.ink/251651/espace-la-longue-marche-vers-le-reutilisable/",
+          "category": "ia",
+          "published_at": "2026-08-14T06:39:00+00:00",
+          "summary": "Cet été, Américains, Européens, Chinois et Russes continuent leur longue marche vers le spatial réutilisable, chacun à son rythme. Alors que SpaceX a fait des avancées importantes vers le tout réutilisable mais rencontre des difficultés, la Chine a réussi pour la première fois,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "000e35833268",
+          "title": "Phoebe Bridgers, KATSEYE, Troye Sivan, Ayra Starr & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/phoebe-bridgers-katseye-ayra-starr-new-music-friday-guide-1236316288/",
+          "category": "musique",
+          "published_at": "2026-08-14T06:06:43+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4124826abb0",
+          "title": "Microsoft fait le ménage dans Copilot et range la mascotte Mico au placard",
+          "source": "Next INpact",
+          "url": "https://next.ink/251713/microsoft-fait-le-menage-dans-copilot-et-range-la-mascotte-mico-au-placard/",
+          "category": "ia",
+          "published_at": "2026-08-14T06:05:08+00:00",
+          "summary": "Grand ménage en cours chez Microsoft. L&#8217;éditeur a annoncé un coup de balai pour Copilot, qui va perdre des fonctions jugées inutiles – comme la fameuse mascotte Mico oubliée de tous –, tout en se rapprochant du concept de «&#160;superapp&#160;». Les « superapps », tous les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82819721397d",
+          "title": "Johnny Young, ARIA Hall of Fame-Inducted Entertainer Who Nurtured Generations of Australian Stars, Dies at 79",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/johnny-young-obituary-1236316480/",
+          "category": "ia",
+          "published_at": "2026-08-14T06:04:52+00:00",
+          "summary": "The singer, songwriter and bandleader platformed scores of Australian artists through his long-running TV series, Young Talent Time.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08ec6e1b3b8c",
+          "title": "Pourquoi cette star d’Hollywood n’a pas joué Joel dans The Last of Us",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2311429-pourquoi-cette-star-dhollywood-na-pas-joue-joel-dans-the-last-of-us.html",
+          "category": "ia",
+          "published_at": "2026-08-14T06:01:01+00:00",
+          "summary": "Notamment connu pour ses rôles dans Interstellar et True Detective, Matthew McConaughey aurait pu être le Joel de la série The Last of Us. Il a préféré refuser le rôle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "314fc58fdde5",
+          "title": "Les sorties d’astronautes sur la Lune seront limitées aux interventions à très haute valeur ajoutée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2309741-les-sorties-dastronautes-sur-la-lune-seront-limitees-aux-interventions-a-tres-haute-valeur-ajoutee.html",
+          "category": "ia",
+          "published_at": "2026-08-14T05:19:31+00:00",
+          "summary": "Fini le temps des longues balades en scaphandre sur la Lune. Face aux « dangers extrêmes » de la surface, le patron de la NASA Jared Isaacman veut réduire au strict minimum les sorties en combinaison pour confier l'essentiel des chantiers à la robotique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89a2a1f96c65",
+          "title": "Phoebe Bridgers’ ‘Lost Weekend’: All 16 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/phoebe-bridgers-new-album-lost-weekend-tracks-ranked/",
+          "category": "musique",
+          "published_at": "2026-08-14T04:27:09+00:00",
+          "summary": "The indie-rocker returns with her first solo album in six years, with songs detailing love and loss.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b151c1bc540",
+          "title": "KATSEYE Goes ‘WILD’ For Third EP: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/katseye-wild-third-ep-stream-it-now-1236316421/",
+          "category": "musique",
+          "published_at": "2026-08-14T04:14:26+00:00",
+          "summary": "The K-pop act drops a third EP, WILD, led by the Billboard Hot 100 hits “PINKY UP” and “Animal,” co-written by Ed Sheeran.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6be20430e4bc",
+          "title": "Benny Blanco’s First Spanish-Language Album, ‘Hermoso’: All 8 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/benny-blancos-hermoso-album-all-tracks-ranked/",
+          "category": "musique",
+          "published_at": "2026-08-14T04:00:00+00:00",
+          "summary": "Featuring collaborations with Netón Vega, Myke Towers, The Marías and more, see how Billboard Español ranks each song on the new LP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24d35243bde9",
+          "title": "Becky G’s Eclectic New Album ‘Baraja Bendita’ Is Here: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/becky-g-baraja-bendita-stream-it-now-1236315811/",
+          "category": "musique",
+          "published_at": "2026-08-14T04:00:00+00:00",
+          "summary": "The Mexican-American artist bridged Becky G (the artist) and Rebbeca (her real name) in her new set.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c93cbc5c1d20",
+          "title": "The Deals: Influence Media Invests in MENA-Focused Catalog Buyer; Live Nation Makes Moves in Prague",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/influence-media-invests-mena-music-catalog-buyer-deals/",
+          "category": "ia",
+          "published_at": "2026-08-14T03:20:19+00:00",
+          "summary": "Also: Singapore live entertainment company Triangle Group raises $15 million, Ticketmaster acquires a Uruguayan ticketing platform and more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0359a726be0d",
+          "title": "Guy Sebastian Settles Federal Court Proceedings Against Former Manager",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/guy-sebastian-settles-federal-court-proceedings-ex-manager/",
+          "category": "ia",
+          "published_at": "2026-08-14T03:05:52+00:00",
+          "summary": "A confidential agreement is now in place to bring to an end the long-running dispute.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a6ec0ffa3a4",
+          "title": "John Farnham’s ‘Whispering Jack’ Gets Special 40th Anniversary Release",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/john-farnham-whispering-jack-40th-anniversary-release-1236316345/",
+          "category": "musique",
+          "published_at": "2026-08-14T02:04:18+00:00",
+          "summary": "A limited-edition version of the hit album is pressed on black and white vinyl, and individually numbered from one to 2,500.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "articles": [
+        {
+          "id": "fdd6a0ab3beb",
+          "title": "Suno launches Studio 2.0 with MIDI support, an AI chat bar… and no download limit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-launches-studio-2-0-with-midi-support/",
+          "category": "ia",
+          "published_at": "2026-08-13T21:21:27+00:00",
+          "summary": "Suno claims that \"Grammy-winning artists\" have used Suno Studio in the past to \"make chart-topping hits\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f09ea525c562",
+          "title": "Un pirate a accédé à la plateforme des impôts, des données fiscales compromises",
+          "source": "Next INpact",
+          "url": "https://next.ink/251702/un-pirate-a-accede-a-la-plateforme-des-impots-des-donnees-fiscales-compromises/",
+          "category": "ia",
+          "published_at": "2026-08-13T17:44:22+00:00",
+          "summary": "La Direction générale des Finances publiques (DGFiP) a confirmé les bruits de couloir qui circulaient depuis plusieurs heures sur les réseaux sociaux. Des données concernant des particuliers et des professionnels sont compromises, suite à l&#8217; « accès illégitime » d&#8217;un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7956ee448eaf",
+          "title": "+96 % en 2026 : comment le « reste du monde » est devenu le nouveau moteur de la voiture électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2311309-96-en-2026-comment-le-reste-du-monde-est-devenu-le-nouveau-moteur-de-la-voiture-electrique.html",
+          "category": "ia",
+          "published_at": "2026-08-13T16:30:00+00:00",
+          "summary": "Alors que les regards restent braqués sur la Chine et les États-Unis, la véritable accélération des véhicules électriques se joue peut-être ailleurs. En 2026, la catégorie « reste du monde » enregistre une croissance vertigineuse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4bf1cbec5d2",
+          "title": "Ticketmaster launches connected app in Google’s Gemini, a day after the AI assistant passed 1B monthly users",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ticketmaster-launches-connected-app-in-googles-gemini-a-day-after-the-ai-assistant-passed-1b-monthly-users/",
+          "category": "ia",
+          "published_at": "2026-08-13T15:55:24+00:00",
+          "summary": "Ticketmaster said eligible events are surfaced automatically based on relevant fan searches, with no additional implementation required from clients.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be58cf7b2297",
+          "title": "Instagram modernise son logo après 10 ans, mais le nouveau design divise déjà",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2311349-instagram-modernise-son-logo-apres-10-ans-mais-le-nouveau-design-divise-deja.html",
+          "category": "ia",
+          "published_at": "2026-08-13T15:49:31+00:00",
+          "summary": "Après dix ans sans changement, Instagram retouche son célèbre logo. Dévoilée ce 13 août 2026 par Adam Mosseri, le patron du service, cette nouvelle version se veut plus moderne, mais son mélange de styles ne convainc pas tout le monde.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec8322fbfd07",
+          "title": "After Universal and Merlin deals, Spotify inks agreement with Kobalt for AI-powered ‘fan-made’ covers and remixes",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-universal-and-merlin-deals-spotify-inks-agreement-with-kobalt-for-ai-powered-fan-made-covers-and-remixes/",
+          "category": "musique",
+          "published_at": "2026-08-13T15:44:07+00:00",
+          "summary": "It is the first deal for the tool with a music publisher outside Universal Music Group.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "838a4896b302",
+          "title": "Pendant que nous regardions le ciel, les satellites ont filmé l’ombre de la Lune glisser sur la Terre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2311207-pendant-que-nous-regardions-le-ciel-les-satellites-ont-filme-lombre-de-la-lune-glisser-sur-la-terre.html",
+          "category": "ia",
+          "published_at": "2026-08-13T15:35:36+00:00",
+          "summary": "Depuis la Terre, l’éclipse solaire du 12 août 2026 a offert un spectacle grandiose. Mais vu de l’espace, le phénomène était tout aussi vertigineux. Les satellites météorologiques ont filmé l’immense ombre de la Lune balayant la surface de la Terre à toute vitesse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7084d52ec095",
+          "title": "Virgin Music Group appoints Syaheed MSBI as Vice President of AMEA region",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/virgin-music-group-appoints-syaheed-msbi-as-vice-president-of-amea-region/",
+          "category": "musique",
+          "published_at": "2026-08-13T15:32:17+00:00",
+          "summary": "Syaheed joins from Believe to oversee Virgin’s operations across Africa, the Middle East and Asia\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db47d33dae3d",
+          "title": "With 60% revenue from post 2000-releases, Saregama is “now a new age IP company”",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/with-60-of-revenue-from-post-2020-releases-saregama-is-now-a-new-age-ip-company/",
+          "category": "musique",
+          "published_at": "2026-08-13T15:30:54+00:00",
+          "summary": "As the home of most of the Hindi film soundtracks released between the 1940s and ’70s, Saregama is perceived as a label best known for its vast catalogue of classic [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fe3ecc4ac64",
+          "title": "Les gains de productivité de l’IA provoquent une augmentation des émissions de CO2",
+          "source": "Next INpact",
+          "url": "https://next.ink/251669/les-gains-de-productivite-de-lia-provoquent-une-augmentation-des-emissions-de-co2/",
+          "category": "ia",
+          "published_at": "2026-08-13T15:02:32+00:00",
+          "summary": "En s’appuyant sur l’estimation des gains de productivité dans le secteur de l’énergie, une étude constate que l’IA sert aussi bien le sous-domaine de l’énergie fossile que celui du renouvelable. À défaut d’action politique, ce double aspect se traduit dans quasiment tous les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e539ffb00b94",
+          "title": "Hogwarts Legacy 2 est officiel : 4 défauts majeurs que la suite doit absolument corriger",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2311211-hogwarts-legacy-2-est-officiel-4-defauts-majeurs-que-la-suite-doit-absolument-corriger.html",
+          "category": "ia",
+          "published_at": "2026-08-13T14:25:00+00:00",
+          "summary": "C'est désormais gravé dans le marbre : Warner Bros. a officiellement confirmé le développement de la suite de son carton planétaire. Mais après les 40 millions d'exemplaires écoulés du premier volet, le studio Avalanche Software va devoir passer un cap décisif pour transformer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b566f03d4961",
+          "title": "Pluribus saison 2 passe enfin à la vitesse supérieure",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2311137-pluribus-saison-2-passe-enfin-a-la-vitesse-superieure.html",
+          "category": "ia",
+          "published_at": "2026-08-13T13:59:18+00:00",
+          "summary": "Succès critique et public incontestable dès sa première salve d'épisodes sur Apple TV, la nouvelle série signée par le papa de&nbsp;Breaking Bad&nbsp;franchit un cap décisif. Entre la fin de l'écriture et un tournage imminent, le retour de&nbsp;Pluribus&nbsp;se précise enfin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f83d980cce5",
+          "title": "Midea PortaSplit : la clim mobile revient en stock et en promo, mais il faut faire vite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2311215-midea-portasplit-la-clim-mobile-revient-en-stock-et-en-promo-mais-il-faut-faire-vite.html",
+          "category": "ia",
+          "published_at": "2026-08-13T13:58:49+00:00",
+          "summary": "[Deal du jour] La chaleur revient par épisode, et avec elle la grande question : comment rafraîchir son logement sans transformer son salon en chantier ni supporter le bruit d'un moteur pendant toute la nuit ? La Midea PortaSplit 12K entend apporter une réponse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2dc4c25464a0",
+          "title": "Vous avez mal aux yeux après l’éclipse ? La douleur n’est pas forcément le symptôme le plus inquiétant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2310979-vous-avez-mal-aux-yeux-apres-leclipse-la-douleur-nest-pas-forcement-le-symptome-le-plus-inquietant.html",
+          "category": "ia",
+          "published_at": "2026-08-13T13:58:20+00:00",
+          "summary": "L’éclipse solaire du 12 août 2026 est terminée, mais certains spectateurs examinent désormais avec inquiétude leur champ de vision, comme en témoignent les nombreuses recherches Google. Douleur, tache persistante ou vue brouillée : quels symptômes peuvent révéler une atteinte de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91309b0e4660",
+          "title": "Twitch regrette mais assume : les contenus des chaînes entraînent par défaut l’IA d’Amazon",
+          "source": "Next INpact",
+          "url": "https://next.ink/251653/twitch-regrette-mais-assume-les-contenus-des-chaines-entrainent-par-defaut-lia-damazon/",
+          "category": "ia",
+          "published_at": "2026-08-13T13:42:00+00:00",
+          "summary": "Twitch exploite les contenus des chaînes des créateurs de contenus pour entraîner les modèles IA d&#8217;Amazon. Rien de vraiment étonnant, la plateforme de streaming étant la propriété du géant du commerce en ligne, et puis bien d&#8217;autres entreprises font de même avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1419e424ca02",
+          "title": "NVIDIA s’allie à six grands financiers pour tenter de sécuriser 500 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/251642/nvidia-sallie-a-six-grands-financiers-pour-tenter-de-securiser-500-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-08-13T12:47:00+00:00",
+          "summary": "Nvidia annonce un partenariat encore hypothétique avec six acteurs de la finance pour proposer une «&#160;nouvelle classe d’actifs investissables&#160;», selon les mots de son PDG Jensen Huang. Si l’accord est conclu, il pourrait permettre l’entrée de financements extérieurs au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50a0c9241c4a",
+          "title": "Beatport bars tracks ‘wholly or substantially generated by AI’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/beatport-bars-tracks-wholly-or-substantially-generated-by-ai/",
+          "category": "ia",
+          "published_at": "2026-08-13T12:30:00+00:00",
+          "summary": "Beatport is the latest music service to clarify its policies on AI-generated music, and it’s leaning towards Bandcamp’s stance of barring it outright from the platform.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10e3074162c9",
+          "title": "Latest Gemini app connections include Ticketmaster and Pandora",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/latest-gemini-app-connections-include-ticketmaster-and-pandora/",
+          "category": "musique",
+          "published_at": "2026-08-13T12:30:00+00:00",
+          "summary": "Google has been unveiling its latest phones and AI features this week at its ‘Made by Google’ event, including some new music partnerships.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fcba6903bbaa",
+          "title": "Fairground wants fans to discover independent music via ‘scenes’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/fairground-wants-fans-to-discover-independent-music-via-scenes/",
+          "category": "ia",
+          "published_at": "2026-08-13T12:30:00+00:00",
+          "summary": "The latest startup hoping to point music listeners towards independent and grassroots artist is Fairground, based in the UK. It has launched its website and mobile apps this week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af83308327e7",
+          "title": "Artist-support update: FAC Step Up Fund, Martell’s Swift Academy",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/artist-support-update-fac-step-up-fund-martells-swift-academy/",
+          "category": "musique",
+          "published_at": "2026-08-13T12:30:00+00:00",
+          "summary": "Two organisations have announced their latest efforts to support emerging artists today: one a music-industry body from the UK, and the other&#8230; a storied cognac house, focusing on Africa.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7f43ed0b624",
+          "title": "TikTok’s ‘Music on Stage’ returns with August artist auditions",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/tiktoks-music-on-stage-returns-with-august-artist-auditions/",
+          "category": "musique",
+          "published_at": "2026-08-13T12:30:00+00:00",
+          "summary": "TikTok’s global take on X Factor is coming back for another talent-search contest this summer. ‘Music on Stage’ will kick off with an “all-day global relay concert” on 15 August.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6becc877c7d",
+          "title": "Twitch discusses opt-out system for Amazon AI-model training",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/twitch-discusses-opt-out-system-for-amazon-ai-model-training/",
+          "category": "musique",
+          "published_at": "2026-08-13T12:30:00+00:00",
+          "summary": "Music artists and songwriters are facing decisions right now about whether to opt in or out of the deals that their labels and publishers are striking with GenAI companies. But the same is true for other kinds of online creators.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b2744dbd469",
+          "title": "Spotify India launches premium rewards to draw subscribers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/13/spotify-india-launches-premium-rewards-to-draw-subscribers/",
+          "category": "musique",
+          "published_at": "2026-08-13T12:20:29+00:00",
+          "summary": "As rights holders across the Indian music industry strive to get more Indian customers to pay for music, there’s pressure for DSPs to double down on their efforts to draw [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ee6c9fefa12",
+          "title": "Trump enrôle le secteur privé pour les missions de cybersécurité des États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/251582/trump-enrole-le-secteur-prive-pour-les-missions-de-cybersecurite-des-etats-unis/",
+          "category": "ia",
+          "published_at": "2026-08-13T12:01:00+00:00",
+          "summary": "Via un mémo officiel, Donald Trump change la politique de cybersécurité de son pays. Il autorise, sous contrôle de l&#8217;État fédéral américain, des entreprises préalablement listées à mener des cyberattaques contre des «&#160;organisations criminelles transnationales&#160;».…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a748302f1aae",
+          "title": "Jules, wikimédien de l’année : « au lycée, j’avais trouvé ma vocation pour être utile »",
+          "source": "Next INpact",
+          "url": "https://next.ink/250916/jules-wikimedien-annee-vocation-journaliste-wikipedia/",
+          "category": "ia",
+          "published_at": "2026-08-13T09:33:00+00:00",
+          "summary": "Depuis ses 17 ans, Jules* est l&#8217;un des 147 administrateurs de Wikipédia (en français). 15 ans plus tard, il en est aussi l&#8217;un des 20 contributeurs les plus prolifiques en France et vient d&#8217;être désigné « wikimédien de l&#8217;année » à l&#8217;international. Il…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "98dac4c74c61",
           "title": "Éclipse du 12 août : « mal aux yeux », « vision floue »… ces recherches explosent sur Google",
@@ -227,6 +742,16 @@
           "category": "musique",
           "published_at": "2026-08-12T23:47:30+00:00",
           "summary": "Gemini users can ask the AI platform to help find event tickets through Ticketmaster's connected app.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d02f73c18924",
+          "title": "Weeks after Beyoncé’s ‘Alien Superstar’ sample suit was dismissed, a second one is filed – this time Beyoncé is a defendant",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/weeks-after-beyonces-alien-superstar-sample-suit-was-dismissed-a-second-one-is-filed-this-time-beyonce-is-a-defendant/",
+          "category": "musique",
+          "published_at": "2026-08-12T15:55:36+00:00",
+          "summary": "The other defendants are Parkwood Entertainment, Sony Music Entertainment, Sony Music Publishing, W Chappell Music Corp. and John Holiday.\nSource",
           "summary_type": "extrait source"
         },
         {
