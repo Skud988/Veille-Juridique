@@ -1,9 +1,194 @@
 {
-  "generated_at": "2026-08-15T08:45:03.367679+00:00",
+  "generated_at": "2026-08-16T08:46:27.408258+00:00",
   "days": [
+    {
+      "date": "2026-08-16",
+      "articles": [
+        {
+          "id": "7dc824a9f9ff",
+          "title": "Il y a un nouveau jeu cosy sur Steam qui cartonne dans lequel vous réparez de vieilles consoles",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2308771-il-y-a-un-nouveau-jeu-cosy-sur-steam-qui-cartonne-dans-lequel-vous-reparez-de-vieilles-consoles.html",
+          "category": "ia",
+          "published_at": "2026-08-16T07:42:00+00:00",
+          "summary": "Les jeux vidéo permettent de s'évader, le temps d'une poignée d'heures, en incarnant toutes sortes de personnages plongés dans des aventures épiques et spectaculaires, comme dans ce jeu où vous incarnez un réparateur amateur de vieilles consoles de jeux vidéo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d43ba9a18611",
+          "title": "Earth, Wind & Fire Drummer John Paris in Induced Coma Following Medical Emergency",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/earth-wind-fire-drummer-john-paris-induced-coma-1236317272/",
+          "category": "ia",
+          "published_at": "2026-08-16T06:41:41+00:00",
+          "summary": "A GoFundMe campaign established to support Paris and his family.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bf29f3fd9c7",
+          "title": "Les constructeurs automobiles ont trouvé une nouvelle façon de nous faire les poches",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2312061-les-constructeurs-automobiles-ont-trouve-une-nouvelle-facon-de-nous-faire-les-poches.html",
+          "category": "ia",
+          "published_at": "2026-08-16T06:31:00+00:00",
+          "summary": "Le Software-Defined Vehicle devait révolutionner l’automobile. Il pourrait surtout révolutionner la façon de nous faire payer toujours plus tous les mois.&nbsp;La voiture connectée inaugure quelques dérives des constructeurs, de quoi inspirer l'édito de la newsletter Watt Else…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c15d80db04a7",
+          "title": "Les plus belles photos de l’éclipse, date de la prochaine éclipse et le boss de la NASA qui flingue 20 ans de dérive – le récap’ sciences",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2312139-les-plus-belles-photos-de-leclipse-date-de-la-prochaine-eclipse-et-le-boss-de-la-nasa-qui-flingue-20-ans-de-derive-le-recap-sciences.html",
+          "category": "ia",
+          "published_at": "2026-08-16T05:30:00+00:00",
+          "summary": "Bien que la semaine scientifique sur Numerama a été écrasée par l'actualité autour de l'éclipse solaire du 12 août 2026. Mais en y regardant de plus près, il n'y avait pas que ça.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dce1ba2e927f",
+          "title": "Ariana Grande Reclaims the London Stage After 7 Years: 5 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/ariana-grande-london-live-review-the-o2-2026/",
+          "category": "ia",
+          "published_at": "2026-08-16T01:49:53+00:00",
+          "summary": "The pop star made a spectacular return to the capital for the first of 10 nights at The O2 (Aug. 15).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f857c84cb3fc",
+          "title": "Lisa Knowles-Smith, Darrel Walls & More Win Big at 2026 Stellar Gospel Music Awards: Full Winners List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/2026-stellar-gospel-music-awards-winners-list/",
+          "category": "musique",
+          "published_at": "2026-08-16T01:00:00+00:00",
+          "summary": "Vincent Bohanan &#38; SOV won three awards, all for their album Live in New York.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e470b7c1b205",
+          "title": "The Best Moments From KCON LA 2026 (So Far)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/kcon-2026-la-best-moments-recap/",
+          "category": "musique",
+          "published_at": "2026-08-16T00:51:25+00:00",
+          "summary": "Day 2 delivered unexpected covers of pop classics by Justin Timberlake and One Direction as ZEROBASEONE headlined the concert.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "articles": [
+        {
+          "id": "c961d9adccd9",
+          "title": "Selena Gomez’s Attorney Calls Investor Fraud Lawsuit Allegations ‘Meritless’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/selena-gomez-lawyer-investor-fraud-lawsuit-statement/",
+          "category": "ia",
+          "published_at": "2026-08-15T23:38:45+00:00",
+          "summary": "Her legal team is filing a motion to dismiss recent claims against Gomez involving Wondermind, the star's mental health startup.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe0a5d20c44f",
+          "title": "‘The Greatest Showman’ Musical Sets London’s West End Premiere for 2027",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-greatest-showman-musical-london-west-end-2027-1236317122/",
+          "category": "musique",
+          "published_at": "2026-08-15T20:01:26+00:00",
+          "summary": "Oliver Tompsett and Samantha Barks lead the cast of the stage adaptation of the hit 2017 film.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cac8c672c94f",
+          "title": "‘Frozen 3’ Stars Kristen Bell, Idina Menzel & Josh Gad Tease New Music at D23",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/frozen-3-kristen-bell-idina-menzel-josh-gad-new-music-d23-1236317103/",
+          "category": "musique",
+          "published_at": "2026-08-15T18:27:21+00:00",
+          "summary": "The third installment in Disney’s hit franchise will hit theaters in November 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1eecd0bf1c09",
+          "title": "Dave Marsh, Influential Critic, Activist, Broadcaster & Biographer of Bruce Springsteen, Dies at 76",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/dave-marsh-death-bruce-springsteen-biographer-dies-1236317094/",
+          "category": "musique",
+          "published_at": "2026-08-15T17:24:13+00:00",
+          "summary": "\"I admired Dave as a man of conscience and commitment. He lived and stuck by his values come hell or high water,\" Bruce Springsteen wrote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "968a5bc6efb4",
+          "title": "Here’s How to Watch UFC 330: Makhachev vs. Machado Garry Live Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/ufc-330-makhachev-machado-garry-watch-live-online-free-1236314045/",
+          "category": "musique",
+          "published_at": "2026-08-15T16:25:24+00:00",
+          "summary": "Live from Philadelphia on Aug. 15, you can watch the entire MMA event online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd6c753a59eb",
+          "title": "Ce RPG gratuit encore en pré-alpha m’a redonné envie de me perdre dans un monde ouvert",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2311465-ce-mmorpg-gratuit-encore-en-pre-alpha-ma-redonne-envie-de-me-perdre-dans-un-monde-ouvert.html",
+          "category": "ia",
+          "published_at": "2026-08-15T16:01:00+00:00",
+          "summary": "Je cherchais simplement un jeu capable de combler le vide laissé par Destiny 2. Je suis finalement tombé sur un monde ouvert que je n’avais plus envie de quitter. Son nom ? Soulframe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20084e0c2a63",
+          "title": "Piratage du fisc : 678 000 usagers touchés, enquête de l’Office anticybercriminalité",
+          "source": "Next INpact",
+          "url": "https://next.ink/251856/piratage-du-fisc-678-000-usagers-touches-enquete-de-loffice-anticybercriminalite/",
+          "category": "ia",
+          "published_at": "2026-08-15T15:12:04+00:00",
+          "summary": "Le piratage de la plateforme du fisc, confirmé par la DGFiP cette semaine, aboutit à l&#8217;ouverture d&#8217;une enquête de l&#8217;Office anticybercriminalité. Bercy a donné des détails supplémentaires sur cette attaque, qui touche 678&#160;000 contribuables et entreprises.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a005956dc840",
+          "title": "En 1989, deux chercheurs ont cru révolutionner l’énergie mondiale en bâclant une expérience",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2311889-en-1989-deux-chercheurs-ont-cru-revolutionner-lenergie-mondiale-en-baclant-une-experience.html",
+          "category": "ia",
+          "published_at": "2026-08-15T14:01:00+00:00",
+          "summary": "La fusion est la réaction qui a lieu à l’intérieur du Soleil et qui fournit une quantité d’énergie immense. Pour amorcer cette réaction, il faut atteindre des températures extrêmement élevées&nbsp;: 100&nbsp;millions de degrés Celsius, ce qui est très complexe sur Terre.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "729481397570",
+          "title": "Une « étoile trou noir ». Quel est ce mystérieux objet découvert par le télescope James Webb ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2311583-une-etoile-trou-noir-quel-est-ce-mysterieux-objet-decouvert-par-le-telescope-james-webb.html",
+          "category": "ia",
+          "published_at": "2026-08-15T12:31:00+00:00",
+          "summary": "Un astre jusqu'ici purement théorique vient d'être observé concrètement pour la première fois. Connu sous le nom de quasi-étoile, il s'agirait d'un élément clé pour comprendre certains phénomènes mystérieux qui se sont déroulés peu après le Big Bang.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f534dae2460",
+          "title": "Mots croisés, message caché : devinez ce que Flock essaye de vous dire",
+          "source": "Next INpact",
+          "url": "https://next.ink/249308/mots-croises-message-cache-devinez-ce-que-flock-essaye-de-vous-dire/",
+          "category": "ia",
+          "published_at": "2026-08-15T11:37:00+00:00",
+          "summary": "Cet été,&#160;Next vous propose des mini-jeux. Aujourd’hui, il va falloir faire travailler vos méninges pour essayer de comprendre les nôtres. Le jeu, tout le monde le connait : une définition (parfois hasardeuse) pour trouver un mot. Simple, basique… mais aurez-vous toutes les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a150c9c7f6d4",
+          "title": "Pixel 11, Navigo Annuel sur iPhone et la montée en puissance de Revolut – le récap’ tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2312155-pixel-11-navigo-annuel-sur-iphone-et-la-montee-en-puissance-de-revolut-le-recap-tech-de-la-semaine.html",
+          "category": "justice",
+          "published_at": "2026-08-15T09:40:00+00:00",
+          "summary": "Dans une semaine marquée par l'éclipse solaire et les vacances d'été, Google a été le seul géant à faire quelques annonces. Nouveaux Pixel 11, nouvelles Pixel Watch, nouveau modèle Gemini… Les autres grandes annonces tech concernent la France : Revolut a enfin obtenu sa licence…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "7fc674fc35ef",
           "title": "Courtney Love Says She ‘Almost Died’ in 2019",
