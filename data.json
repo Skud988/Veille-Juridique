@@ -1,9 +1,234 @@
 {
-  "generated_at": "2026-08-16T08:46:27.408258+00:00",
+  "generated_at": "2026-08-17T09:00:25.986585+00:00",
   "days": [
+    {
+      "date": "2026-08-17",
+      "articles": [
+        {
+          "id": "75002093620c",
+          "title": "Xiaomi franchit déjà les 500 000 ventes de SU7, un record pour une jeune marque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2312453-xiaomi-franchit-deja-les-500-000-ventes-de-su7-un-record-pour-une-jeune-marque.html",
+          "category": "ia",
+          "published_at": "2026-08-17T08:44:32+00:00",
+          "summary": "Xiaomi confirme son succès en atteignant déjà les 500 000 exemplaires livrés de sa berline SU7.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f6127bbb1d4",
+          "title": "Ce drôle d’accessoire USB-C promet de calmer les piqûres de moustiques en quelques secondes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2312367-ce-drole-daccessoire-usb-c-promet-de-calmer-les-piqures-de-moustiques-en-quelques-secondes.html",
+          "category": "ia",
+          "published_at": "2026-08-17T08:08:36+00:00",
+          "summary": "[Deal du jour] On connaissait les crèmes et les stylos chauffants à piles, moins cet étrange accessoire USB-C à brancher directement sur son smartphone. Le Beurer BiteX Go promet d’atténuer les démangeaisons provoquées par les piqûres de moustiques en quelques secondes,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db1b0a3e5489",
+          "title": "Spider-Man, Blade Runner 2049… ce site déniche les films à voir gratuitement (et légalement)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2312357-spider-man-blade-runner-2049-ce-site-deniche-les-films-a-voir-gratuitement-et-legalement.html",
+          "category": "ia",
+          "published_at": "2026-08-17T08:06:42+00:00",
+          "summary": "Films cultes, classiques ou sorties plus récentes : de nombreuses œuvres sont accessibles gratuitement sur les plateformes de replay françaises. CinéLibre les rassemble dans un même catalogue et indique où les regarder légalement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b765a30da8e",
+          "title": "iPhone Ultra et iPhone 18 Pro : nouveautés, design, date de sortie, prix… Toutes les infos sur les smartphones Apple",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2220091-iphone-18-pro-et-iphone-fold-nouveautes-date-prix-toutes-les-infos-sur-les-smartphones-apple.html",
+          "category": "ia",
+          "published_at": "2026-08-17T07:58:33+00:00",
+          "summary": "Neuf ans après l'iPhone X, Apple devrait annoncer son smartphone le plus ambitieux de la décennie en 2026 : l'iPhone Fold (qui pourrait s'appeler iPhone Ultra). Un smartphone pliant qui devrait être accompagné de l'iPhone 18 Pro et de l'iPhone 18 Pro Max, deux smartphones…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f80bb64a9e0",
+          "title": "Disneyland Paris va rebooter Space Mountain : c’est la fin de l’attraction version Star Wars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2312347-disneyland-paris-va-rebooter-space-mountain-cest-la-fin-de-lattraction-version-star-wars.html",
+          "category": "musique",
+          "published_at": "2026-08-17T07:50:04+00:00",
+          "summary": "Disney a profité de la convention D23 pour annoncer la fin de Star Wars Hyperspace Mountain à Disneyland Paris. L'attraction fermera fin 2027 pour retrouver son thème d'origine, celui de 1995 inspiré de Jules Verne, avec la musique de Steve Bramson remasterisée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e6de17a69f1",
+          "title": "Sophie Adenot : suivez en direct sa sortie spatiale historique hors de l’ISS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2312351-sophie-adenot-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss.html",
+          "category": "ia",
+          "published_at": "2026-08-17T07:47:27+00:00",
+          "summary": "L’astronaute française Sophie Adenot et l'Américain Anil Menon vont s'aventurer ce mardi 18 août 2026 hors de la Station spatiale internationale. Leur sortie extravéhiculaire est à suivre en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fa35cc28b2f",
+          "title": "☕️ Mozilla teste un bloqueur de pubs dans Firefox pour iOS",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/mozilla-teste-un-bloqueur-de-pubs-dans-firefox-pour-ios/",
+          "category": "ia",
+          "published_at": "2026-08-17T07:39:00+00:00",
+          "summary": "Actuellement en version 154, Firefox pour iOS intègre désormais une fonction expérimentale de blocage des publicités lors de la navigation Web. Cette dernière n&#8217;a pas fait l&#8217;objet d&#8217;une annonce formelle, mais elle est présentée par la fondation sur l&#8217;une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99478fcf612c",
+          "title": "Logiciels espions mercenaires : Apple renforce ses notifications de menace",
+          "source": "Next INpact",
+          "url": "https://next.ink/251842/logiciels-espions-mercenaires-apple-renforce-ses-notifications-de-menace/",
+          "category": "ia",
+          "published_at": "2026-08-17T06:57:00+00:00",
+          "summary": "Apple a envoyé une nouvelle vague de notifications de menace à des utilisateurs potentiellement visés par des logiciels espions mercenaires, dans 110 pays. Le constructeur a aussi revu sa manière de communiquer ces notifications aux victimes. Fin 2021, Apple portait plainte…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c26aa9a2a140",
+          "title": "Avant Avengers: Doomsday, Disney+ recommande de voir ces 15 films et séries",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2312337-avant-avengers-doomsday-disney-recommande-de-voir-ces-15-films-et-series.html",
+          "category": "ia",
+          "published_at": "2026-08-17T06:53:44+00:00",
+          "summary": "À quelques mois de la sortie dans les salles obscures d'Avengers: Doomsday, Disney+ dévoile les contenus qu'il faudra avoir vu pour bien se préparer. Il y en a une bonne dizaine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5b7681b47e4",
+          "title": "Cet héritier de The Witcher 3 s’est aussi inspiré de Guitar Hero",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2312331-cet-heritier-de-the-witcher-3-sest-aussi-inspire-de-guitar-hero.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-17T06:05:12+00:00",
+          "summary": "Les combats de The Blood of Dawnwalker, RPG attendu pour début septembre, sont inspirés de Guitar Hero, a révélé le directeur du jeu. Vous allez comprendre pourquoi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f89daa1da22",
+          "title": "Qualcomm détaille sa puce Snapdragon C pour PC Windows à 300 dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/251835/qualcomm-detaille-sa-puce-snapdragon-c-pour-pc-windows-a-300-dollars/",
+          "category": "ia",
+          "published_at": "2026-08-17T05:54:18+00:00",
+          "summary": "Les premiers PC «&#160;à 300&#160;dollars » équipés de la puce Snapdragon C sortiront dans les prochains mois. Des ordinateurs auxquels il ne faudra pas demander la Lune compte tenu de leur prix. Qualcomm promet néanmoins « un nouveau standard pour des performances PC…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b13a6e295baa",
+          "title": "Portugal. The Man Announces 2026 Australian East Coast Tour Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/portugal-the-man-announces-2026-australian-tour-dates-1236317476/",
+          "category": "musique",
+          "published_at": "2026-08-17T04:38:24+00:00",
+          "summary": "The shows follow the release of the group's tenth studio album, SHISH, out last November.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e90976ec4ddd",
+          "title": "Hayden Panettiere, ‘Nashville’ and ‘Heroes’ Star, Dies at 36",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/hayden-panettiere-nashville-and-heroes-star-dies-1236317477/",
+          "category": "ia",
+          "published_at": "2026-08-17T03:43:55+00:00",
+          "summary": "\"It is with profound sadness that we share the tragic passing of our beloved Hayden,\" her father said in a statement.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-16",
       "articles": [
+        {
+          "id": "045a9504eb17",
+          "title": "Fans Choose Ayra Starr’s ‘Starrgirl’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ayra-starrs-starrgirl-best-new-music-poll-results-1236317440/",
+          "category": "musique",
+          "published_at": "2026-08-16T23:27:11+00:00",
+          "summary": "The Nigerian singer's new album brought in more than 87% of the vote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3229e1f3ea6",
+          "title": "Olivia Dean at MSG: The 5 Best Moments From the Second of Her Four Sold-Out Shows",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/olivia-dean-msg-tour-dates-concert/",
+          "category": "ia",
+          "published_at": "2026-08-16T20:28:59+00:00",
+          "summary": "The English singer-songwriter proves she's at the peak of her powers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a85cf164715e",
+          "title": "Karol G Brings Out Bruno Mars for Surprise Live Debut of ‘Still’ at L.A. Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/karol-g-bruno-mars-perform-still-la-show-music-video-1236317332/",
+          "category": "musique",
+          "published_at": "2026-08-16T19:47:25+00:00",
+          "summary": "The pair performed the song as cameras rolled for its official music video.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7640ccebe6a5",
+          "title": "Stray Kids’ Latest Becomes Milestone 25th K-pop Album to Top Billboard 200: Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/k-pop-albums-number-one-billboard-200-albums-full-list/",
+          "category": "musique",
+          "published_at": "2026-08-16T19:28:36+00:00",
+          "summary": "BTS was the first K-pop act to top the all-genre chart; BLACKPINK was the first female K-pop act to do so.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f637634f1b4",
+          "title": "Stray Kids Score Ninth No. 1 on Billboard 200 With ‘THIS & THAT’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/stray-kids-this-and-that-number-one-billboard-200-chart-1236317298/",
+          "category": "musique",
+          "published_at": "2026-08-16T19:00:20+00:00",
+          "summary": "The act ties for the second-most No. 1 albums among groups, trailing only The Beatles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e31ce0b2616",
+          "title": "Le prix de la Nintendo Switch 2 chute de 100 € avant la hausse de prix de septembre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2312077-le-prix-de-la-nintendo-switch-2-chute-de-100-e-avant-la-hausse-de-prix-de-septembre.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-16T17:00:00+00:00",
+          "summary": "[Deal du jour] Nintendo a confirmé que le prix de la Switch 2 passera de 469,99 € à 499,99 € le 1ᵉʳ septembre 2026. Sur Aliexpress, un code promo fait descendre la console à 367,79 €, soit plus de 100 € d'économies par rapport au tarif actuel, et 130 € à son futur prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06b15f3868b0",
+          "title": "Pour la sortie de La fin d’Oak Street et ses dinosaures, on a classé les films Jurassic Park du pire au meilleur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2309747-pour-la-sortie-de-la-fin-doak-street-et-ses-dinosaures-on-a-classe-les-films-jurassic-park-du-pire-au-meilleur.html",
+          "category": "ia",
+          "published_at": "2026-08-16T16:30:00+00:00",
+          "summary": "La fin d’Oak Street est sortie en salles ce 12 août 2026, et avec elle, le plaisir de voir des dinosaures ailleurs que dans un film Jurassic Park. C’était pour nous l’excuse parfaite pour revenir sur l’heptalogie initiée en 1993 par Steven Spielberg et faire un classement des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e59a57cd04de",
+          "title": "Ce logiciel gratuit fait ronronner le trackpad de votre MacBook comme un chat",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2309089-ce-logiciel-gratuit-fait-ronronner-le-trackpad-de-votre-macbook-comme-un-chat.html",
+          "category": "ia",
+          "published_at": "2026-08-16T15:01:00+00:00",
+          "summary": "PurrPad détourne le retour haptique du trackpad des MacBook pour reproduire les vibrations d’un chat qui ronronne. Une expérience plutôt convaincante, mais qui peut devenir lassante.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d3ccd3d075a",
+          "title": "Quel smartphone choisir pour son ado en 2026 ? Le guide d’achat pour un premier téléphone pour la rentrée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2304581-quel-smartphone-choisir-pour-son-ado-en-2026-le-guide-dachat-pour-un-premier-telephone-pour-la-rentree.html",
+          "category": "ia",
+          "published_at": "2026-08-16T13:30:00+00:00",
+          "summary": "Dès l’entrée au collège, la plupart des adolescentes et adolescents formulent le désir d’avoir leur propre smartphone. L’arrivée en sixième est en effet une étape charnière dans leur vie, mais c'est aussi à ce moment qu’ils commencent à gagner en indépendance, notamment pour…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "7dc824a9f9ff",
           "title": "Il y a un nouveau jeu cosy sur Steam qui cartonne dans lequel vous réparez de vieilles consoles",
