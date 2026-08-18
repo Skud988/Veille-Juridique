@@ -1,9 +1,374 @@
 {
-  "generated_at": "2026-08-17T09:00:25.986585+00:00",
+  "generated_at": "2026-08-18T08:53:31.227462+00:00",
   "days": [
+    {
+      "date": "2026-08-18",
+      "articles": [
+        {
+          "id": "44d9f6e3f451",
+          "title": "Piratage du système d’information des impôts : les vérifications sont en cours",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/piratage-du-systeme-dinformation-des-impots-les-verifications-sont-en-cours",
+          "category": "ia",
+          "published_at": "2026-08-18T12:00:00+00:00",
+          "summary": "La CNIL a été notifiée de violations de données affectant le système d’information de la Direction générale des Finances publiques (DGFiP). Elle est donc d’ores et déjà saisie de ces violations et, dans ce contexte, il n’est plus nécessaire de lui adresser des plaintes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59f284b3e8f0",
+          "title": "Comment un agent IA a trouvé une faille, corrigé son propre bug, et fini par accéder au Jira de Snowflake",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2312989-comment-un-agent-ia-a-trouve-une-faille-corrige-son-propre-bug-et-fini-par-acceder-au-jira-de-snowflake.html",
+          "category": "ia",
+          "published_at": "2026-08-18T08:31:05+00:00",
+          "summary": "Dans un article publié le 17 août 2026, les chercheurs de Wiz racontent comment l'un de leurs agents IA est parvenu à s'introduire dans le Jira interne de Snowflake. La faute à une simple mise à jour d'un workflow GitHub.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2005531821a0",
+          "title": "Le Mac mini M4 à 699 € est enfin de retour sur Amazon (mais vous pourriez le recevoir après le M5)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2313009-le-mac-mini-m4-a-699-e-est-enfin-de-retour-sur-amazon-mais-vous-pourriez-le-recevoir-apres-le-m5.html",
+          "category": "ia",
+          "published_at": "2026-08-18T08:24:10+00:00",
+          "summary": "[Deal du jour] Depuis la hausse généralisée des prix d’Apple fin juin, le Mac mini M4 d’entrée de gamme avait disparu à 699 €. Amazon rouvre les commandes à ce tarif, contre 949 € sur l’Apple Store, même si sa disponibilité reste encore toute relative.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ca076bd6eb3",
+          "title": "Starship à la dérive : contre toute attente, SpaceX a tracté sa fusée géante jusqu’à une île",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2312997-starship-a-la-derive-contre-toute-attente-spacex-a-tracte-sa-fusee-geante-jusqua-une-ile.html",
+          "category": "ia",
+          "published_at": "2026-08-18T08:12:57+00:00",
+          "summary": "Alors qu'on craignait de la voir sombrer dans l’océan Indien, la fusée géante de SpaceX flotte toujours. Des clichés pris par un photographe sur l'île Christmas révèlent que le Ship 40 a été remorqué avec succès vers ce territoire australien.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f1ecb3f3b45",
+          "title": "Fontaines D.C. Share Pounding Comeback Single & Announce New Album: Here’s When It Arrives",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/fontaines-dc-new-album-dopamine-chamber-release-date-1236315620/",
+          "category": "musique",
+          "published_at": "2026-08-18T08:00:52+00:00",
+          "summary": "Dopamine Chamber will be the band's fifth full-length set.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cc90eeef058",
+          "title": "Lancement du Cybercab : Tesla envoie ses salariés jouer les cobayes dans des voitures sans volant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2312971-lancement-du-cybercab-tesla-envoie-ses-salaries-jouer-les-cobayes-dans-des-voitures-sans-volant.html",
+          "category": "ia",
+          "published_at": "2026-08-18T07:34:43+00:00",
+          "summary": "Tesla s'apprête à lancer son Cybercab dans les rues d'Austin. Et pour essuyer les plâtres de ce véhicule sans volant ni pédales, le constructeur américain compte sur ses propres employés pour tester la viabilité du service.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9cf30b816441",
+          "title": "Sophie Adenot : suivez en direct sa sortie spatiale historique hors de l’ISS aujourd’hui",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2312351-sophie-adenot-suivez-en-direct-sa-sortie-spatiale-historique-hors-de-liss-aujourdhui.html",
+          "category": "ia",
+          "published_at": "2026-08-18T07:23:31+00:00",
+          "summary": "L’astronaute française Sophie Adenot et l'Américain Anil Menon vont s'aventurer ce mardi 18 août 2026 hors de la Station spatiale internationale. Leur sortie extravéhiculaire est à suivre en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f9ed7d3df21",
+          "title": "Suivi publicitaire : Apple va revoir sa fenêtre de consentement en Allemagne",
+          "source": "Next INpact",
+          "url": "https://next.ink/251993/suivi-publicitaire-apple-va-revoir-sa-fenetre-de-consentement-en-allemagne/",
+          "category": "ia",
+          "published_at": "2026-08-18T07:07:00+00:00",
+          "summary": "Apple s&#8217;engage à modifier la demande de consentement de suivi publicitaire dans les applications iOS et iPadOS en Allemagne, et possiblement aussi partout dans l&#8217;Union européenne. Selon l&#8217;autorité de la concurrence allemande, le système du constructeur a été…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dd8269b26de",
+          "title": "Disney essore ses licences et confirme Zootopia 3 et la Reine des Neiges 3",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2312599-zootopie-3-confirme-disney-continue-dessorer-ses-bonnes-licences.html",
+          "category": "ia",
+          "published_at": "2026-08-18T06:50:00+00:00",
+          "summary": "Assommé par des choix créatifs douteux et une panne d'idées neuves, le géant américain Disney se raccroche désespérément à ses vieilles recettes. L'annonce de&nbsp;Zootopie 3&nbsp;et&nbsp;La Reine des Neiges 3&nbsp;lors du D23, couplée au retour négocié de Johnny Depp en Jack…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f991485b565",
+          "title": "☕️ Cursor (SpaceX) lance Origin, une alternative synchronisée à GitHub",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/cursor-spacex-lance-origin-une-alternative-synchronisee-a-github/",
+          "category": "ia",
+          "published_at": "2026-08-18T06:22:38+00:00",
+          "summary": "Cursor, désormais officiellement intégré à SpaceX, a ouvert lundi 17 août les portes d&#8217;un nouveau service baptisé Origin et dédié à l&#8217;hébergement de code. S&#8217;il est clairement présenté comme une alternative à l&#8217;incontournable GitHub (propriété de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f7e1a91b759",
+          "title": "Sony ne sait toujours pas quand la PS6 sera lancée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2312955-sony-ne-sait-toujours-pas-quand-la-ps6-sera-lancee.html",
+          "category": "ia",
+          "published_at": "2026-08-18T06:05:57+00:00",
+          "summary": "À l'occasion d'une interview accordée au Wall Street Journal, Hiroko Totoki, CEO de Sony, a révélé que la crise des composants avait logiquement un impact significatif sur ses activités. Le business PlayStation, particulièrement, est touché.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30a585d6134f",
+          "title": "☕️ Apple corrige des dizaines de failles, après une vulnérabilité critique exploitée sur Mac",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-corrige-des-dizaines-de-failles-apres-une-vulnerabilite-critique-exploitee-sur-mac/",
+          "category": "ia",
+          "published_at": "2026-08-18T05:20:58+00:00",
+          "summary": "Apple continue de livrer les mises à jour de sécurité à un rythme trépidant. iOS 26.6.1 et macOS Tahoe 26.6.2, disponibles depuis ce lundi 17 août, contiennent ainsi une trentaine de correctifs. Ces mises à jour sont nécessaires : macOS 26.6.1 fournie il y a dix jours corrigeait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d5031afe947",
+          "title": "Shakira Pledges $1.25 Million to Rebuild Colombia Schools After Earthquake",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/shakira-global-citizen-live-nation-rebuild-schools-1236318554/",
+          "category": "musique",
+          "published_at": "2026-08-18T04:22:37+00:00",
+          "summary": "Shakira has committed an initial $1.25 million — with Global Citizen, Live Nation and CAF — to rebuild schools damaged by the earthquake in Colombia's Chocó region.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb2dbb1f596e",
+          "title": "Hayden Panettiere’s Music Career, ‘Nashville’ & Beyond: 5 Things to Know",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/hayden-panettiere-music-career-five-facts-nashville/",
+          "category": "institutionnel",
+          "published_at": "2026-08-18T02:20:10+00:00",
+          "summary": "The actress charted country hits &#38; even earned a Grammy nomination.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d6f9810123d",
+          "title": "Karina in Control: She’s Headlining Festivals & Fronting Campaigns, But the K-Pop Starlet Isn’t Breaking a Sweat",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/karina-waterbomb-festival-seoul-interview-sprite-campaign-1236310030/",
+          "category": "ia",
+          "published_at": "2026-08-18T00:46:37+00:00",
+          "summary": "The singer &#38; rapper talks about her solo headlining performance at Waterbomb Festival and stepping into the spotlight as a global model for Sprite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "706b3fbf96c0",
+          "title": "Jonas Brothers Are ‘Burning Up’ Again With New 45-City Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jonas-brothers-burnin-up-all-over-again-tour-announced-1236318338/",
+          "category": "ia",
+          "published_at": "2026-08-18T00:42:33+00:00",
+          "summary": "\"The response was so overwhelming announcing the MSG shows that we knew we couldn't stop at New York,\" the band said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a94fc626748",
+          "title": "A Timeline of Cardi B & BIA’s Feud",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/cardi-b-bia-feud-timeline/",
+          "category": "ia",
+          "published_at": "2026-08-18T00:29:37+00:00",
+          "summary": "The rivalry was renewed on Thursday (Aug. 13).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9201108bf952",
+          "title": "Ellie Goulding Sues Former Managers Over Live Nation Conflict of Interest",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ellie-goulding-lawsuit-managers-live-nation-conflict/",
+          "category": "ia",
+          "published_at": "2026-08-18T00:16:33+00:00",
+          "summary": "The singer is bringing a breach of fiduciary duty lawsuit against Ben Mawson and Ed Millet of TaP Management.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "articles": [
+        {
+          "id": "7f4943e0e399",
+          "title": "Rick Ross Claims He Hasn’t Lost a Game of ‘Madden’ in ‘Maybe 8 or 9 Years’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/rick-ross-hasnt-lost-madden-years-1236318248/",
+          "category": "ia",
+          "published_at": "2026-08-17T23:53:19+00:00",
+          "summary": "Who's going to step up and challenge Ross to Madden?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5314702beb79",
+          "title": "Done deal: Jamen Capital and Merlin complete acquisition of Curve Royalty Systems from Virgin Music Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/done-deal-jamen-capital-and-merlin-complete-acquisition-of-curve-royalty-systems-from-virgin-music-group/",
+          "category": "institutionnel",
+          "published_at": "2026-08-17T23:01:12+00:00",
+          "summary": "The deal closed following final approval of the transaction by the European Commission, the companies said on Tuesday (August 18).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e0c77258b5f",
+          "title": "Robert Kyncl justifies Suno deal, as UMG and Sony press on with lawsuit: ‘In my opinion, you embrace it.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/robert-kyncl-justifies-suno-deal-as-umg-and-sony-press-on-with-lawsuit-in-my-opinion-you-embrace-it/",
+          "category": "musique",
+          "published_at": "2026-08-17T19:52:38+00:00",
+          "summary": "Kyncl appeared on Semafor's Mixed Signals podcast on Friday (August 14), where he discussed Suno – and why he'd start a music service at Netflix.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e0fd18fc9d8",
+          "title": "Live Nation settles lawsuit over injury at Luke Bryan concert",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-settles-lawsuit-over-injury-at-luke-bryan-concert/",
+          "category": "musique",
+          "published_at": "2026-08-17T18:41:21+00:00",
+          "summary": "A concertgoer sued Live Nation in 2024, alleging he suffered a traumatic brain injury during a Luke Bryan show at a US amphitheater the company operates.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff44f6a2c6e4",
+          "title": "Et s’il n’y avait pas un mais deux Dr Doom dans Avengers: Doomsday ? La folle théorie de certains fans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2312677-et-sil-ny-avait-pas-un-mais-deux-dr-doom-dans-avengers-doomsday-la-folle-theorie-de-certains-fans.html",
+          "category": "ia",
+          "published_at": "2026-08-17T17:30:00+00:00",
+          "summary": "Certains fans du MCU pensent que Marvel est en train de tromper tout le monde avec le retour de Robert Downey Jr. dans Avengers: Doomsday. Selon eux, ils seraient deux à incarner Dr Doom.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d43b0f2ddf15",
+          "title": "Jamendo drops its copyright infringement lawsuit against Suno, six weeks after filing it",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jamendo-drops-its-copyright-infringement-lawsuit-against-suno-six-weeks-after-filing-it/",
+          "category": "ia",
+          "published_at": "2026-08-17T16:24:18+00:00",
+          "summary": "The withdrawal arrives as Suno rewrites the rules of its platform, saying it will adopt audio watermarking and fingerprinting technology in the coming weeks.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4317ffb89c70",
+          "title": "Cartes Pokémon 30ᵉ anniversaire : tout savoir sur les précommandes (ETB et boosters)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293233-cartes-pokemon-30%e1%b5%89-anniversaire-tout-savoir-sur-les-precommandes-etb-et-boosters.html",
+          "category": "ia",
+          "published_at": "2026-08-17T16:20:00+00:00",
+          "summary": "Pour célébrer ses 30 ans, Pokémon prépare une collection de cartes qui s’annonce particulièrement convoitée. ETB, coffrets Ultra Premium, boosters… Numerama fait le point sur les différents produits annoncés et l'arrivée des précommandes en France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "faac27802b4b",
+          "title": "« L’IA devrait être comme le Wi-Fi » : dans ce bar chinois, DeepSeek est à volonté",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2312773-lia-devrait-etre-comme-le-wi-fi-dans-ce-bar-chinois-deepseek-est-a-volonte.html",
+          "category": "ia",
+          "published_at": "2026-08-17T16:00:00+00:00",
+          "summary": "À Pékin, un bar propose à ses clients d’utiliser gratuitement et sans limite le modèle d’intelligence artificielle DeepSeek, le tout autour d’une bière. Un concept repéré par Reuters, qui illustre la place prise par l’IA dans le quotidien chinois.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48bd3df0df79",
+          "title": "After BTS snub, the Grammys reconsiders new ‘Asian Pop’ category",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-bts-boycott-the-grammys-reconsiders-new-asian-pop-category/",
+          "category": "ia",
+          "published_at": "2026-08-17T15:52:25+00:00",
+          "summary": "Harvey Mason jr. and other Grammy leaders have been in talks with music communities across K-pop, J-pop, C-pop, India and more, the Academy said.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ffa64792f0d",
+          "title": "Megan Thee Stallion inks deal with UMG’s Interscope – and keeps ownership of her masters",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/megan-thee-stallion-inks-deal-with-umgs-interscope-and-keeps-ownership-of-her-masters/",
+          "category": "musique",
+          "published_at": "2026-08-17T15:50:40+00:00",
+          "summary": "Megan retains complete ownership of her masters and publishing, and will keep releasing music through her own company, Hot Girl Productions.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cde3fda3b86",
+          "title": "L’ère du ChatGPT gratuit et sans publicité touche officiellement à sa fin",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2312843-lere-du-chatgpt-gratuit-et-sans-publicite-touche-officiellement-a-sa-fin.html",
+          "category": "ia",
+          "published_at": "2026-08-17T15:44:00+00:00",
+          "summary": "Six mois après de premiers tests aux États-Unis, OpenAI annonce le déploiement global des bannières publicitaires dans la version gratuite de ChatGPT. Face aux inquiétudes sur la vie privée, la startup a ajusté ses plans initiaux à propos du ciblage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18b263d2de1e",
+          "title": "Let’s reinvent the Libera Awards as a platform for independent music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/lets-reinvent-the-libera-awards-as-a-platform-for-independent-music/",
+          "category": "musique",
+          "published_at": "2026-08-17T15:37:12+00:00",
+          "summary": "Bill Werde argues that while there is much to admire about The Libera Awards, there is also much, much more it could be doing with and for independent music...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c127cccbc79",
+          "title": "« Réparer au lieu de remplacer » : CATL installe un centre de réparation de batteries en Norvège",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2312821-reparer-au-lieu-de-remplacer-catl-installe-un-centre-de-reparation-de-batteries-en-norvege.html",
+          "category": "ia",
+          "published_at": "2026-08-17T15:13:31+00:00",
+          "summary": "Le géant chinois CATL déploie son réseau de réparation « Ning Service » à Oslo avec son partenaire YES-EU. L’objectif est clair&nbsp;: diviser par dix le coût de remise en état d'un pack batterie et en finir avec les mises à la casse abusives.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a54fdb96031a",
+          "title": "Anthropic : le tatouage de Claude se niche dans le choix des mots",
+          "source": "Next INpact",
+          "url": "https://next.ink/251980/anthropic-le-tatouage-de-claude-se-niche-dans-le-choix-des-mots/",
+          "category": "ia",
+          "published_at": "2026-08-17T14:53:43+00:00",
+          "summary": "Anthropic a annoncé mercredi dernier comment il allait répondre à l&#8217;exigence de l&#8217;AI Act européen de « tatouer » les contenus générés par Claude, images comme texte. L&#8217;entreprise en était restée aux grandes lignes sans entrer dans les détails techniques pour ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4362aef3302d",
+          "title": "Sur Pinterest, le bloqueur de pubs le plus simple serait… un gros mot",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2312681-sur-pinterest-le-bloqueur-de-pubs-le-plus-simple-serait-un-gros-mot.html",
+          "category": "ia",
+          "published_at": "2026-08-17T14:31:00+00:00",
+          "summary": "Une astuce insolite permet de faire disparaître les publications sponsorisées des résultats de Pinterest : ajouter un gros mot à sa recherche. Nous avons testé cette méthode, qui semble exploiter les mécanismes chargés de protéger l’image des annonceurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6b6eeaf84e8",
+          "title": "Grok aurait généré 7 000 deepfakes pédocriminels d’une mineure pour son beau-père",
+          "source": "Next INpact",
+          "url": "https://next.ink/251878/spacexai-accusee-de-7-000-contenus-pedocriminels-dune-mineure-generes-pour-son-beau-pere/",
+          "category": "ia",
+          "published_at": "2026-08-17T12:41:23+00:00",
+          "summary": "Après la vague de deepfakes sur Grok fin 2025-début 2026, des enquêtes ont été lancées et plusieurs adolescentes et jeunes femmes ont porté plainte contre SpaceXAI mais aussi Stability AI. Cinq plaignantes, toutes mineures au moment des faits, les accusent d&#8217;avoir produit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4fe224bf257",
+          "title": "Stripe s’apprête à racheter OpenRouter pour 7 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/251881/stripe-sapprete-a-racheter-openrouter-pour-7-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-08-17T10:33:00+00:00",
+          "summary": "Stripe a négocié l&#8217;acquisition d&#8217;OpenRouter pour 7 milliards de dollars, révèle Bloomberg. Le géant du paiement avance ainsi ses pions dans le monde de l&#8217;IA, en intégrant l&#8217;un des orchestrateurs les plus populaires du marché. Il poursuit en parallèle les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f53b5d5eee3f",
+          "title": "IA : séries d’achats « bizarres » auprès de librairies d’occasion anglaises et irlandaises",
+          "source": "Next INpact",
+          "url": "https://next.ink/251888/ia-series-dachats-bizarres-aupres-de-librairies-doccasion-anglaises-et-irlandaises/",
+          "category": "ia",
+          "published_at": "2026-08-17T09:58:04+00:00",
+          "summary": "Alors que les suspicions sur les méthodes d’entraînement des systèmes d’IA se multiplient, des libraires d’occasion du Royaume-Uni et d’Irlande signalent des séries d’achats de lots de livres sans cohérence éditoriale. Mise à jour 17.08 à 16:35 : ajout de la mention des…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "75002093620c",
           "title": "Xiaomi franchit déjà les 500 000 ventes de SU7, un record pour une jeune marque",
