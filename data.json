@@ -1,9 +1,434 @@
 {
-  "generated_at": "2026-08-19T08:54:20.996033+00:00",
+  "generated_at": "2026-08-20T08:56:34.267290+00:00",
   "days": [
+    {
+      "date": "2026-08-20",
+      "articles": [
+        {
+          "id": "2cc439a7d602",
+          "title": "India to have the third highest music subscribers by 2033, predicts Midia",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/20/india-to-have-the-third-highest-music-subscribers-by-2033-predicts-midia/",
+          "category": "musique",
+          "published_at": "2026-08-20T08:50:16+00:00",
+          "summary": "Last week, consultancy firm Midia Research shared its newest forecasts for the growth of the music industry. The big number? It predicts the global recorded music industry will be worth [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32f8080083df",
+          "title": "Ankur Tewari launches new album with dedicated hotline",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/20/ankur-tewari-launches-new-album-with-dedicated-hotline/",
+          "category": "musique",
+          "published_at": "2026-08-20T08:48:51+00:00",
+          "summary": "Since Tuesday, people in Mumbai have chanced upon graffiti in English and Hindi that asks if they’re “still procrastinating?” and then tells them to “stop scrolling” and “call Mr. Faarigh [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e89f342da826",
+          "title": "KKR to acquire minority stake in BookMyShow",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/20/kkr-to-acquire-minority-stake-in-bookmyshow/",
+          "category": "musique",
+          "published_at": "2026-08-20T08:45:31+00:00",
+          "summary": "Global investment firm KKR has signed an agreement to acquire a minority stake in Indian live entertainment and ticketing platform BookMyShow, for an undisclosed sum. The funds will be used [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe06aaaf5a66",
+          "title": "Starship : la capture du Ship par la tour s’éloigne-t-elle ? Le tweet ambigu d’Elon Musk",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2314475-starship-la-capture-du-vaisseau-par-la-tour-seloigne-t-elle-le-tweet-ambigu-delon-musk.html",
+          "category": "ia",
+          "published_at": "2026-08-20T08:35:00+00:00",
+          "summary": "Un tweet sibyllin d'Elon Musk jette le flou sur le calendrier de SpaceX. Alors qu'une capture inédite de l'étage supérieur par la tour Mechazilla était pressentie dès le prochain essai, la communauté s'interroge.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e95db9847f84",
+          "title": "☕️ Protection des mineurs : Mark Zuckerberg a menti, affirme un ancien ingénieur de Meta",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/protection-des-mineurs-mark-zuckerberg-a-menti-affirme-un-ancien-ingenieur-de-meta/",
+          "category": "ia",
+          "published_at": "2026-08-20T08:28:38+00:00",
+          "summary": "Meta connaissait les dangers que ses outils créaient pour les mineurs, affirme Arturo Béjar, ancien ingénieur de l’entreprise devenu spécialiste de la sécurité de ses produits. Premier témoin appelé à la barre dans le procès qui oppose la Californie, le Colorado, le Kentucky, le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06248f54d75b",
+          "title": "Après Problemos, Eric Judor parodie le Seigneur des anneaux dans son prochain film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314549-apres-problemos-eric-judor-parodie-le-seigneur-des-anneaux-dans-son-prochain-film.html",
+          "category": "ia",
+          "published_at": "2026-08-20T08:21:00+00:00",
+          "summary": "Presque dix ans après la satire post-apocalyptique Problemos, Éric Judor repasse derrière la caméra pour signer son troisième long-métrage, Le Roi du Game. En s'emparant de la sous-culture très fermée du jeu de rôle grandeur nature, le comédien prend le pari d'utiliser les elfes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf0f5ba301fc",
+          "title": "Un an de Gemini et 400 Go gratuits : l’offre de Google à ne pas manquer pour la rentrée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2314469-un-an-de-gemini-et-400-go-gratuits-loffre-de-google-a-ne-pas-manquer-pour-la-rentree.html",
+          "category": "ia",
+          "published_at": "2026-08-20T08:14:20+00:00",
+          "summary": "Google remet le couvert pour la rentrée : douze mois de Gemini sont offerts aux étudiants. Le cadeau est néanmoins un peu moins intéressant que l'année dernière : les étudiants français reçoivent Google AI Plus (400 Go de stockage, environ 60 euros de valeur sur douze mois), et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c5c421c4a2f",
+          "title": "Meta AI débarque sur Mac pour concurrencer ChatGPT et Claude (et on lui souhaite bon courage)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2314467-meta-ai-debarque-sur-mac-pour-concurrencer-chatgpt-et-claude-et-on-lui-souhaite-bon-courage.html",
+          "category": "ia",
+          "published_at": "2026-08-20T08:05:07+00:00",
+          "summary": "Quelques mois après avoir abandonné son application Messenger sur macOS, Meta lance une version bêta de Meta AI pour Mac, avec pour objectif de concurrencer Claude ou ChatGPT. Pour l'instant, ce sont surtout les créateurs et les entreprises qui sont sa cible.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b110fb112425",
+          "title": "C’est fini pour Swift : la mission de sauvetage du télescope spatial n’aura pas lieu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2314479-cest-fini-pour-swift-la-mission-de-sauvetage-du-telescope-spatial-naura-pas-lieu.html",
+          "category": "ia",
+          "published_at": "2026-08-20T07:43:07+00:00",
+          "summary": "Le remorqueur qui devait aller porter secours au satellite Swift ne pourra pas remplir sa mission. Développé en toute hâte, le projet a subi des problèmes techniques et ne pourra pas aller rehausser l'orbite du télescope spatial, en perdition, comme prévu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53a0d74aa628",
+          "title": "Fuites de GTA 6 : pourquoi le « pirate militant » ressemble surtout à une arnaque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314443-fuites-de-gta-6-pourquoi-le-pirate-militant-ressemble-surtout-a-une-arnaque.html",
+          "category": "ia",
+          "published_at": "2026-08-20T07:07:14+00:00",
+          "summary": "Le groupe CYBERLEEK continue de partager des vidéos extraites de GTA 6, alors que Rockstar Games et Take-Two Interactive n'ont toujours pas pris la parole. Mais des doutes persistent sur les intentions réelles du pirate.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "becba3e16bc7",
+          "title": "L’IA de Google testée pour éviter les traînées de condensation derrière les avions",
+          "source": "Next INpact",
+          "url": "https://next.ink/252435/lia-de-google-testee-pour-eviter-les-trainees-de-condensation-derriere-les-avions/",
+          "category": "ia",
+          "published_at": "2026-08-20T06:54:00+00:00",
+          "summary": "Les traînées blanches que l&#8217;on voit derrière les avions vont faire l&#8217;objet d&#8217;une étude au long cours menée dans le corridor aérien de l’Atlantique Nord, entre l&#8217;Europe et l&#8217;Amérique du Nord. Le gouvernement britannique et Google ont mis la main à la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1a65bd43c92",
+          "title": "« Tu… es Tony Stark », personne ne croit à ce spoiler d’un acteur d’Avengers: Doomsday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314437-tu-es-tony-stark-personne-ne-croit-a-ce-spoiler-dun-acteur-davengers-doomsday.html",
+          "category": "ia",
+          "published_at": "2026-08-20T06:06:19+00:00",
+          "summary": "L'acteur David Harbour, vu dans la série Stranger Things, sera prochainement à l'affiche d'Avengers: Doomsday. Il reprend son rôle du Red Guardian. Invité à partager une citation hors contexte, il a fait un drôle de choix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3799574046ef",
+          "title": "Ahsoka : l’étrange sabre laser du trailer cache une référence Star Wars vieille de 30 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314163-ahsoka-letrange-sabre-laser-du-trailer-cache-une-reference-star-wars-vieille-de-30-ans.html",
+          "category": "ia",
+          "published_at": "2026-08-20T06:01:00+00:00",
+          "summary": "Un étrange sabre laser à double lame séparée a intrigué les fans dans la dernière bande-annonce d’Ahsoka. Une arme inédite ? Pas vraiment : des internautes viennent de retrouver un design quasi identique dans un vieux magazine Star Wars de 1995, imaginé par un fan lors d’un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93d95d506c0e",
+          "title": "GeForce NOW en version finale pour Linux, GOG et l’Epic Games Store en approche",
+          "source": "Next INpact",
+          "url": "https://next.ink/252442/geforce-now-en-version-finale-pour-linux-gog-et-lepic-games-store-en-approche/",
+          "category": "ia",
+          "published_at": "2026-08-20T05:47:35+00:00",
+          "summary": "L&#8217;année 2026 sera celle de Linux… pour le jeu vidéo, du moins. Après GOG, Epic prépare son arrivée sur le système d&#8217;exploitation libre, tandis que NVIDIA vient d&#8217;y lancer la version finale de GeForce NOW. De quoi élargir sérieusement l&#8217;offre au-delà de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e938cde96eff",
+          "title": "Trade Republic lance le Livret A dans son application et dépasse 400 000 PEA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/business/2314127-trade-republic-lance-le-livret-a-dans-son-application-et-depasse-400-000-pea.html",
+          "category": "ia",
+          "published_at": "2026-08-20T05:30:00+00:00",
+          "summary": "Trade Republic ajoute le Livret A à son application et franchit les 400 000 PEA. La néobanque allemande veut passer du statut de courtier à celui de banque principale des Français.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1da5556e8bbb",
+          "title": "BMG Signs Anna Lunoe to Worldwide Publishing Deal",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/bmg-signs-anna-lunoe-worldwide-publishing-deal/",
+          "category": "musique",
+          "published_at": "2026-08-20T03:28:48+00:00",
+          "summary": "“Super excited to be kickstarting a new era for my music with the BMG family,” comments Lunoe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6bf8a7da49b8",
+          "title": "‘This Is Definitely An Up’: Evanescence’s Amy Lee Reflects on Latest Album ‘Sanctuary’ And World Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/evanescence-amy-lee-interview-sanctuary-world-tour-1236320633/",
+          "category": "musique",
+          "published_at": "2026-08-20T02:47:19+00:00",
+          "summary": "\"It's a lot to sum up, but it's been emotional in a very beautiful, connected way,\" Amy Lee says of this latest phase of Evanescence.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48342d579882",
+          "title": "Sam Smith Says Madonna ‘Made Sure She Got Through to Me’ During ‘Unholy’ Controversy: ‘Her Music Is a Lifeline to Queer People’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/pride/sam-smith-madonna-reached-out-unholy-controversy-1236320617/",
+          "category": "musique",
+          "published_at": "2026-08-20T01:39:46+00:00",
+          "summary": "Smith praised the pop star during a discussion on The Zane Lowe Show.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "262572f211f1",
+          "title": "Halsey Is Back to Blonde: See Her Latest Hairstyle",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/halsey-shows-off-new-hairstyle-looks-completely-different-1236320577/",
+          "category": "ia",
+          "published_at": "2026-08-20T00:41:38+00:00",
+          "summary": "Tinkerbell, is that you?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fe01528a2c5",
+          "title": "Melissa Manchester, Victoria Williams & The Smashing Pumpkins’ Kiki Wong Are First Honorees for 2027 She Rocks Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2027-she-rocks-awards-melissa-manchester-victoria-williams-1236320579/",
+          "category": "ia",
+          "published_at": "2026-08-20T00:35:40+00:00",
+          "summary": "Samantha Fish returns as co-host for show’s 15th anniversary.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bb314221a97",
+          "title": "Watch Madelyn Cline’s Reaction to Sabrina Carpenter’s ‘House Tour’ VMA Nomination: ‘I’m Sweating!’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/madelyn-cline-sabrina-carpenter-house-tour-vma-nomination-1236320531/",
+          "category": "institutionnel",
+          "published_at": "2026-08-20T00:05:54+00:00",
+          "summary": "The actress -- who co-starred in the video with Carpenter &#38; Margaret Qualley -- was informed of the 2026 nomination on Today.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "articles": [
+        {
+          "id": "4770bc7e0c06",
+          "title": "Joe Rogan Claims Rap Has ‘Fallen Off the Charts’ Because the ‘USAID Got Defunded’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/joe-rogan-rap-commercial-success-usaid-defund-1236320495/",
+          "category": "musique",
+          "published_at": "2026-08-19T23:23:25+00:00",
+          "summary": "Drake delivered hip-hop's only No. 1 hit atop the Billboard Hot 100 in 2026, but there's no evidence linking USAID and rap funding.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e66b68088ed0",
+          "title": "[MàJ] Stripe rachète OpenRouter pour 7,5 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/251881/stripe-sapprete-a-racheter-openrouter-pour-7-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-08-19T18:30:36+00:00",
+          "summary": "Stripe a négocié l&#8217;acquisition d&#8217;OpenRouter pour plus de 7 milliards de dollars, révèle Bloomberg. Le géant du paiement avance ainsi ses pions dans le monde de l&#8217;IA, en intégrant l&#8217;un des orchestrateurs les plus populaires du marché. Il poursuit en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6d430ae6f65",
+          "title": "KKR to acquire minority stake in BookMyShow, the company behind Coldplay and Ed Sheeran’s India concerts",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/kkr-to-acquire-minority-stake-in-bookmyshow-the-company-behind-coldplay-and-ed-sheerans-india-concerts/",
+          "category": "musique",
+          "published_at": "2026-08-19T18:03:10+00:00",
+          "summary": "The deal gives KKR a position in the business whose live division, BookMyShow Live, has staged concerts in India by Coldplay, Ed Sheeran, Travis Scott, Guns N' Roses and Post Malone.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bf651ad514d",
+          "title": "Il vend son compte Dofus pour aider à financer sa boulangerie : que prévoient les règles d’Ankama ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2313361-il-a-finance-une-partie-de-sa-boulangerie-avec-un-compte-dofus-quil-navait-pas-le-droit-de-vendre.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-19T17:31:21+00:00",
+          "summary": "Après vingt ans de jeu, Florent a vendu son compte Dofus pour compléter l’apport nécessaire à l’ouverture de sa boulangerie, rapporte la RTBF. Son histoire met en lumière un marché parallèle où comptes, kamas et services s’échangent contre de l’argent réel, malgré l’interdiction…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4344b2010df0",
+          "title": "Universal Music Group partners with Hook to license fan-created content across social media",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-partners-with-hook-to-license-fan-created-content-across-social-media/",
+          "category": "musique",
+          "published_at": "2026-08-19T17:12:01+00:00",
+          "summary": "The partnership gives fans new ways to create with major-label music while routing compensation back to UMG artists and rightsholders.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c61e5791e75",
+          "title": "MC Lyte receives SoundExchange Music Fairness Award for her advocacy on artist radio royalties",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/mc-lyte-receives-soundexchange-music-fairness-award-for-her-advocacy-on-artist-radio-royalties/",
+          "category": "musique",
+          "published_at": "2026-08-19T17:10:43+00:00",
+          "summary": "The honor recognizes the artist's advocacy for creators, including her push for passage of the American Music Fairness Act.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d37efa350f3",
+          "title": "Au fait, que devient le reboot de Wonder Woman par James Gunn ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314277-au-fait-que-devient-le-reboot-de-wonder-woman-par-james-gunn.html",
+          "category": "ia",
+          "published_at": "2026-08-19T17:00:00+00:00",
+          "summary": "Pendant que James Gunn valide des séries annexes sur Jimmy Olsen ou Gorilla Grodd, la plus grande icône de DC reste au placard. Quatorze mois après la dernière annonce, le reboot de&nbsp;Wonder Woman&nbsp;fait du surplace. Enlisée entre déclarations de façade et projets dérivés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff0a96acccbd",
+          "title": "Tyler Rake 3 recrute le meilleur James Bond pour la suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314213-tyler-rake-3-recrute-le-meilleur-james-bond-pour-la-suite.html",
+          "category": "ia",
+          "published_at": "2026-08-19T16:11:00+00:00",
+          "summary": "En officialisant l'arrivée de Pierce Brosnan au casting de&nbsp;Tyler Rake 3, Netflix s’offre l'ultime icône du film d'espionnage. Face à un Chris Hemsworth toujours aussi brutal, l’ancien agent 007 apporte une caution de classe britannique à une franchise bien décidée à rouler…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa854e497a15",
+          "title": "Microsoft 365 : de nombreuses données perdues après l’arrêt d’une offre gratuite",
+          "source": "Next INpact",
+          "url": "https://next.ink/252340/microsoft-365-de-nombreuses-donnees-perdues-apres-larret-dune-offre-gratuite/",
+          "category": "justice",
+          "published_at": "2026-08-19T16:06:00+00:00",
+          "summary": "Après l&#8217;arrêt de l&#8217;offre gratuite à 365 Business Premium et Office 365 E1 pour les organismes sans but lucratif, nombre d&#8217;entre eux ont perdu leurs données. Microsoft avait prévenu, mais la communication de l&#8217;entreprise a été bien confuse et les données…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa48c845a5d9",
+          "title": "☕️ OpenAI va ouvrir la publicité dans ChatGPT en France et en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openai-va-ouvrir-la-publicite-dans-chatgpt-en-france-et-en-europe/",
+          "category": "ia",
+          "published_at": "2026-08-19T15:42:02+00:00",
+          "summary": "La semaine prochaine, la version gratuite de ChatGPT et la déclinaison Go à 8&#160;euros par mois afficheront de la publicité en France, en Belgique, en Allemagne, en Italie et dans 31 pays européens. Les abonnés Plus, Pro et Enterprise seront épargnés. Le programme, lancé début…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c299533a1aa8",
+          "title": "Pour la première fois, un vaccin contre le cancer à base d’ARNm franchit une étape décisive",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2314221-cancer-de-la-peau-le-premier-vaccin-a-base-darnm-franchit-une-phase-decisive.html",
+          "category": "ia",
+          "published_at": "2026-08-19T15:09:35+00:00",
+          "summary": "Pour la première fois, une thérapie à ARNm conçue sur mesure franchit avec succès son grand test de phase 3, dans la perspective de la lutte contre le cancer de la peau. Développé par Moderna et Merck, ce traitement personnalisé réduit significativement le risque de récidive.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd3f8d0e3263",
+          "title": "« Les cartes zombies sont de retour en ligne » : comment une faille Visa permet de ressusciter des cartes expirées",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2314109-les-cartes-zombies-sont-de-retour-en-ligne-comment-une-faille-visa-permet-de-ressusciter-des-cartes-expirees.html",
+          "category": "ia",
+          "published_at": "2026-08-19T15:00:00+00:00",
+          "summary": "Trois chercheurs ont démontré qu'une carte bancaire périmée peut, dans certaines conditions, redevenir opérationnelle en paiement sans contact.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "25bac0bd4ab6",
+          "title": "GTA 6 : derrière la fuite, un groupe qui dit vouloir « protéger » les joueurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/252343/gta-6-derriere-la-fuite-un-groupe-qui-dit-vouloir-proteger-les-joueurs/",
+          "category": "loi",
+          "published_at": "2026-08-19T14:43:09+00:00",
+          "summary": "Le « large aperçu » de GTA 6 qui sera diffusé en exclusivité sur Netflix le 27 août marquera le lancement de la campagne marketing du plus grand événement vidéo-ludique de l&#8217;année auprès du grand public (les joueurs sont sur le qui-vive depuis des mois !). Hélas pour le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc5c735cc607",
+          "title": "C+C Music Factory co-founder Robert Clivillés sues Freedom Williams for $30M, seeking cancellation of the trademark on the group’s name",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/cc-music-factory-co-founder-robert-clivilles-sues-freedom-williams-for-30m-seeking-cancellation-of-the-trademark-on-the-groups-name/",
+          "category": "musique",
+          "published_at": "2026-08-19T14:18:04+00:00",
+          "summary": "Clivillés also wants the court to hand him administrative control of the longstanding C+C Music Factory Instagram account, which Williams runs.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3dafc6bf242b",
+          "title": "Universal’s Virgin Music Group signs global distribution deal with Bhojpuri label Sur Music World",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universals-virgin-music-group-signs-global-distribution-deal-with-bhojpuri-label-sur-music-world/",
+          "category": "musique",
+          "published_at": "2026-08-19T14:16:06+00:00",
+          "summary": "The Mumbai-based company started out in South Indian entertainment content, picking up Telugu, Tamil, Kannada and Malayalam film titles for digital release.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "339fdf192712",
+          "title": "Key Songs In The Life Of… Tyler Arnold",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/key-songs-in-the-life-of-tyler-arnold/",
+          "category": "ia",
+          "published_at": "2026-08-19T14:12:11+00:00",
+          "summary": "Mercury’s Chairman and CEO picks the seven tracks that  have soundtracked his existence on this planet so far…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4dd6e8503115",
+          "title": "Des chercheurs ont fait « revivre » des cartes VISA sans contact après expiration",
+          "source": "Next INpact",
+          "url": "https://next.ink/252238/des-chercheurs-ont-fait-revivre-des-cartes-visa-sans-contact-apres-expiration/",
+          "category": "ia",
+          "published_at": "2026-08-19T13:17:00+00:00",
+          "summary": "Grâce à des failles dans le protocole de paiement sans contact et à son implémentation par VISA, il est possible d&#8217;effectuer des paiements sans contact alors que les cartes ont expiré. Des cartes de crédits « zombies », c&#8217;est ainsi que des chercheurs de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f738e7b60cb9",
+          "title": "« Techno-diversités » : ce que les Écologistes envisagent pour le secteur du numérique",
+          "source": "Next INpact",
+          "url": "https://next.ink/252262/techno-diversites-ce-que-les-ecologistes-envisagent-pour-le-secteur-du-numerique/",
+          "category": "ia",
+          "published_at": "2026-08-19T12:27:45+00:00",
+          "summary": "Début juillet, les Écologistes publiaient un «&#160;carnet de doctrine numérique&#160;», qui doit servir de «&#160;cadre de pensée&#160;» à ses équipes et à sa secrétaire nationale, Marine Tondelier, candidate à la présidentielle. À la veille des journées d’été du parti, Next se…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b61ce3fb820",
+          "title": "☕️ Flockerie d’été : pas facile d’avoir une connexion satellite, aidez Jean-Luc à sauver sa soirée",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flockerie-dete-pas-facile-davoir-une-connexion-satellite-aidez-jean-luc-a-sauver-sa-soiree/",
+          "category": "ia",
+          "published_at": "2026-08-19T11:37:00+00:00",
+          "summary": "Cet été, Next propose de vous divertir avec un cahier de vacances spécial geek. On vous a préparé des mini-jeux pour vous occuper sur la plage, à la montagne, en voyage… Cerise sur le gâteau, il y a des cadeaux à gagner. Deux fois par semaine, on se donne rendez-vous pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f9d4503cd11",
+          "title": "Spotify’s playlist editors now explain their picks to listeners, and get their own public profiles",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotifys-playlist-editors-now-explain-their-picks-to-listeners-and-get-their-own-public-profiles/",
+          "category": "ia",
+          "published_at": "2026-08-19T11:29:53+00:00",
+          "summary": "Playlist Notes lets editors attach written context to individual tracks on playlists including Today's Top Hits and RapCaviar.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ae5d9b68507",
+          "title": "Apple baisse ses commissions dans l’UE et fait la paix avec Bruxelles",
+          "source": "Next INpact",
+          "url": "https://next.ink/252213/apple-baisse-ses-commissions-dans-lue-et-fait-la-paix-avec-bruxelles/",
+          "category": "ia",
+          "published_at": "2026-08-19T08:59:19+00:00",
+          "summary": "Après des années de dispute, Apple et la Commission européenne pourraient bien avoir enterré la hache de guerre sur une partie importante du dossier houleux du DMA. Le constructeur a en effet revu, une fois encore, les conditions commerciales applicables aux apps distribuées…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "a45bf7141794",
           "title": "Malgré des revendications similaires, le collectif Stop Killing Games se désolidarise du hack de GTA 6",
