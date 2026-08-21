@@ -1,9 +1,434 @@
 {
-  "generated_at": "2026-08-20T08:56:34.267290+00:00",
+  "generated_at": "2026-08-21T08:58:05.166028+00:00",
   "days": [
+    {
+      "date": "2026-08-21",
+      "articles": [
+        {
+          "id": "774ece332400",
+          "title": "Phoebe Bridgers, KATSEYE Bag First No. 1s In Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/phoebe-bridgers-katseye-no-1-australia-1236321755/",
+          "category": "musique",
+          "published_at": "2026-08-21T08:49:58+00:00",
+          "summary": "Bridgers finds herself at No. 1 on the ARIA Albums Chart with \"Lost Weekend.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82bf55de0607",
+          "title": "☕️ L’IRD confirme un piratage, les données de 7 500 personnes exposées",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lird-confirme-un-piratage-les-donnees-de-7-500-personnes-exposees/",
+          "category": "ia",
+          "published_at": "2026-08-21T08:46:45+00:00",
+          "summary": "L&#8217;Institut de recherche pour le développement (IRD) a annoncé ce mardi 18 aout à son personnel, via une lettre en PDF que Next a pu se procurer, qu&#8217;une « intrusion d&#8217;origine externe dans son système d&#8217;information » a eu lieu cet été. Ce piratage a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4dd752253c3",
+          "title": "GitHub attribue (encore) sa panne du 17 août à un problème de capacité",
+          "source": "Next INpact",
+          "url": "https://next.ink/252642/github-attribue-encore-sa-panne-du-17-aout-a-un-probleme-de-capacite/",
+          "category": "ia",
+          "published_at": "2026-08-21T08:43:00+00:00",
+          "summary": "GitHub a été victime lundi d&#8217;une panne globale qui a entraîné une interruption de service de plus de 7 heures. Dans son post-mortem, la plateforme invoque une nouvelle fois un problème de capacité, dû à l&#8217;explosion du volume de requêtes découlant des pratiques liées…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4119e1610e2a",
+          "title": "Le passe Navigo Annuel sur iPhone a déjà de premiers fans, mais des incompréhensions demeurent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2315357-le-passe-navigo-annuel-sur-iphone-a-deja-de-premiers-fans-mais-des-incomprehensions-demeurent.html",
+          "category": "ia",
+          "published_at": "2026-08-21T08:16:29+00:00",
+          "summary": "Dans un communiqué relayé le 19 août, Île-de-France Mobilités revendique plus de 10 000 usagers du passe Navigo Annuel sur iPhone, seulement une semaine après son déploiement sans grande communication. 1,3 million de Franciliens sont encore éligibles… mais beaucoup expriment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37e59500a87f",
+          "title": "« Nous sommes désolés » : GitHub s’explique sur sa panne de 7h47, sans voir le bout du tunnel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2315379-nous-sommes-desoles-github-sexplique-sur-sa-panne-de-7h47-sans-voir-le-bout-du-tunnel.html",
+          "category": "ia",
+          "published_at": "2026-08-21T08:13:20+00:00",
+          "summary": "GitHub est revenu sur les causes de la panne géante qui a paralysé la plateforme le 17 août. En cause : un pic de trafic que l'infrastructure n'a pas su absorber.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "787e0662d5aa",
+          "title": "Deux sorties spatiales en une semaine : le défi hors norme de Sophie Adenot sur l’ISS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2315347-deux-sorties-spatiales-en-une-semaine-le-defi-hors-norme-de-sophie-adenot-sur-liss.html",
+          "category": "ia",
+          "published_at": "2026-08-21T08:04:12+00:00",
+          "summary": "Pas de répit pour Sophie Adenot. Sept jours seulement après son baptême du vide, l'astronaute française devra effectuer une nouvelle sortie spatiale le 25 août pour achever une réparation sur l'ISS. Un véritable marathon orbital.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f638587ee80f",
+          "title": "Snobés par leurs parents devant leur smartphone, les adolescents en insécurité affective",
+          "source": "Next INpact",
+          "url": "https://next.ink/252578/snobes-par-leurs-parents-devant-leur-smartphone-les-adolescents-en-insecurite-affective/",
+          "category": "ia",
+          "published_at": "2026-08-21T07:55:00+00:00",
+          "summary": "Les conséquences de l&#8217;usage du smartphone devant les enfants sont sources d&#8217;inquiétudes. Des psychologues ont mis en place une échelle d&#8217;évaluation des interférences liées aux appareils permettant de mesurer à quels points les pratiques des parents dérangent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "846b4321ec74",
+          "title": "‘We Know What We Want’: With a New Recording Studio and Label Deal, DMA’S Are Just Getting Started",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/dmas-interview-matt-mason-1236321743/",
+          "category": "musique",
+          "published_at": "2026-08-21T07:51:10+00:00",
+          "summary": "Billboard caught up with DMA'S Matt Mason to discuss the band's self-recorded fifth album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e23f1b20eea4",
+          "title": "Le géant chinois Bilibili part à l’assaut de YouTube",
+          "source": "Next INpact",
+          "url": "https://next.ink/252627/le-geant-chinois-bilibili-part-a-lassaut-de-youtube/",
+          "category": "ia",
+          "published_at": "2026-08-21T07:21:00+00:00",
+          "summary": "YouTube règne en maître dans le secteur de la vidéo en ligne. Mais même si la plateforme de Google paraît inébranlable, les positions de force peuvent toujours changer à la faveur d&#8217;un nouvel entrant sur le marché. Et celui qui arrive est redoutable. Bilibili est un des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d2cc73803a3",
+          "title": "Le GTA 6 qui a fuité tourne-t-il déjà sur PC ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2315125-le-gta-6-qui-a-fuite-tourne-t-il-deja-sur-pc.html",
+          "category": "ia",
+          "published_at": "2026-08-21T07:15:58+00:00",
+          "summary": "Plusieurs détails aperçus dans les nouvelles vidéos de GTA 6 ont relancé l’hypothèse d’une version PC déjà fonctionnelle. Mais qu'en est-il vraiment ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22327aa61351",
+          "title": "Riot Games annonce une mauvaise nouvelle pour son jeu de combat 2XKO",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2315259-riot-games-annonce-une-mauvaise-nouvelle-pour-son-jeu-de-combat-2xko.html",
+          "category": "ia",
+          "published_at": "2026-08-21T06:50:38+00:00",
+          "summary": "Riot Games a partagé un communiqué qui ne plaira pas aux quelques fans de 2XKO. Les développements actifs sur le jeu de combat paru il y a seulement quelques mois cesseront dès le mois de décembre 2026. Il n'a pas rencontré un succès suffisant pour poursuivre l'aventure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1dae8b09ee79",
+          "title": "Sur macOS, ChatGPT sait désormais interagir avec l’application Messages et vos SMS",
+          "source": "Next INpact",
+          "url": "https://next.ink/252635/sur-macos-chatgpt-sait-desormais-interagir-avec-lapplication-messages-et-vos-sms/",
+          "category": "ia",
+          "published_at": "2026-08-21T06:31:00+00:00",
+          "summary": "OpenAI lance un plugin qui permet à l&#8217;application ChatGPT sur macOS d&#8217;interagir directement avec les messages (iMessage, SMS) de l&#8217;utilisateur. Une intégration censée faciliter la vie de l&#8217;utilisateur, mais qui ne va pas sans poser de sérieuses questions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d92481d0d4ac",
+          "title": "☕️ Sur le web, les bots IA écrivent de plus en plus pour les bots",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sur-le-web-les-bots-ia-ecrivent-de-plus-en-plus-pour-les-bots/",
+          "category": "ia",
+          "published_at": "2026-08-21T05:45:00+00:00",
+          "summary": "Les bots lisent les bots. Les sites web sont de plus en plus rédigés par des robots IA : plus d&#8217;un tiers des pages web mises en ligne après le lancement de ChatGPT intègre des contenus IA, selon une étude du Pew Research. 10 % des 10 000 pages web en anglais prélevées au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48f23a26f404",
+          "title": "Weezer’s Golden Era Has Arrived: Stream The ‘Gold Album’ Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/weezer-gold-album-stream-it-now-1236321691/",
+          "category": "musique",
+          "published_at": "2026-08-21T05:30:44+00:00",
+          "summary": "The process behind the new self-titled collection was a blast from the past, an LP made the old fashion way.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "764da82d56e3",
+          "title": "Here’s the Song Diane Warren Hopes Will Extend Her Record-Setting Streak of Oscar Nods for Best Original Song: Listen",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/diane-warren-by-any-means-title-song-mark-wahlberg-film-1236319575/",
+          "category": "ia",
+          "published_at": "2026-08-21T05:00:00+00:00",
+          "summary": "David Kushner and The Isley Brothers perform the song for the film By Any Means, which is set in the 1960s.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e51c68c40c52",
+          "title": "Sam Smith, Stella Lefty, Weezer & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/sam-smith-stella-lefty-weezer-new-music-friday-guide-1236320433/",
+          "category": "musique",
+          "published_at": "2026-08-21T04:53:01+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82ddeeee216d",
+          "title": "ENHYPEN Drops Latest Installment in ‘THE SIN’  Series With ‘BLISS’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-stream-it-now-1236321606/",
+          "category": "musique",
+          "published_at": "2026-08-21T04:10:39+00:00",
+          "summary": "THE SIN : BLISS is the K-pop group's eighth mini-album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14f9ec964743",
+          "title": "Sam Smith’s ‘Hazel Eyes’: All 12 Songs Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/sam-smith-new-album-review-hazel-eyes-all-12-songs-ranked/",
+          "category": "musique",
+          "published_at": "2026-08-21T04:00:00+00:00",
+          "summary": "The British singer-songwriter's fifth album is deeply personal, revealing a more assured side of the star while offering an intimate glimpse into the people and places closest to them.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "761fbcfb91c7",
+          "title": "How Gang of Youths Took a ‘Whole Different Approach’ With New Era",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/gang-of-youths-whole-different-approach-new-music-1236321570/",
+          "category": "musique",
+          "published_at": "2026-08-21T02:08:14+00:00",
+          "summary": "The Australian alternative rock group this week shared \"Things Take Time,\" their first new music in four years.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-20",
       "articles": [
+        {
+          "id": "564ba94acc57",
+          "title": "Spotify expands its share buyback program by $1.5B, raising total authorization to around $2.2B",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-expands-its-share-buyback-program-by-1-5b-raising-total-authorization-to-around-2-2b/",
+          "category": "musique",
+          "published_at": "2026-08-20T21:17:02+00:00",
+          "summary": "The company's Board of Directors approved the increase, which Spotify confirmed in a press release on Thursday (August 20).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b93261bce2c1",
+          "title": "Apple Music to slap AI labels on Suno tracks – but pushes the onus onto record companies",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/apple-music-to-slap-on-suno/",
+          "category": "musique",
+          "published_at": "2026-08-20T21:02:40+00:00",
+          "summary": "The move was announced in a message to industry partners from Apple on Thursday (August 20), obtained by MBW.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32ff852884c9",
+          "title": "UMG-backed Music IP Holdings unveils AI music patent portfolio, aiming to ‘set a standard for how AI and music grow together’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-backed-music-ip-holdings-unveils-ai-music-patent-portfolio-aiming-to-set-a-standard-for-how-ai-and-music-grow-together/",
+          "category": "musique",
+          "published_at": "2026-08-20T20:16:15+00:00",
+          "summary": "Licenses, secured by Udio and GRAI, will support the development of licensed AI services including covers, remixes, and \"a wide range of interactive music experiences\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2baadf495fac",
+          "title": "Judge clears Ariana Grande to subpoena Instagram, TikTok, and PayPal to identify alleged music leakers",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-clears-ariana-grande-to-subpoena-instagram-tiktok-and-paypal-to-identify-alleged-music-leakers/",
+          "category": "musique",
+          "published_at": "2026-08-20T20:02:17+00:00",
+          "summary": "The ruling matters because Grande has not named a single defendant in the case, listing them as John Doe 1 and John Does 2 through 100.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48e21c5c1833",
+          "title": "Metal band Demon Hunter sues Netflix and AEG over ‘KPop Demon Hunters’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/metal-band-demon-hunter-sues-netflix-and-aeg-over-kpop-demon-hunters/",
+          "category": "ia",
+          "published_at": "2026-08-20T19:38:42+00:00",
+          "summary": "The band's corporation, Hyde Lane, is asking the court for treble damages, restitution, Netflix's profits and attorneys' fees, and has demanded a jury trial.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f035e2ff89f5",
+          "title": "OutStation drops merch collection that has neither tees or totes",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/20/outstation-drops-merch-collection-that-has-neither-tees-or-totes/",
+          "category": "musique",
+          "published_at": "2026-08-20T19:20:22+00:00",
+          "summary": "T-shirts and tote bags make up the majority of merch sold by musicians in India, so it’s refreshing that neither of those items feature in the first official collection from [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3235bff9f3de",
+          "title": "LOA et LLD voiture électrique : les meilleures offres de leasing auto à saisir à la rentrée 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/1048900-quelles-sont-les-meilleures-voitures-electriques-a-louer-a-partir-de-100-e-par-mois.html",
+          "category": "ia",
+          "published_at": "2026-08-20T18:19:09+00:00",
+          "summary": "Les Locations Longue Durée (LLD) ou Locations avec Option d'Achat (LOA) sont de bonnes alternatives pour acquérir une nouvelle voiture électrique. Beaucoup de constructeurs intègrent des offres de leasing attractives pour leurs modèles 100 % électrique. Profitez des meilleures…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d5c119bc635",
+          "title": "C’est fichu : la Nasa doit à regret accepter la fin du télescope Swift après l’échec du remorqueur LINK",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2314479-cest-fichu-la-nasa-doit-a-regret-accepter-la-fin-du-telescope-swift-apres-lechec-du-remorqueur-link.html",
+          "category": "ia",
+          "published_at": "2026-08-20T18:05:27+00:00",
+          "summary": "Le remorqueur qui devait aller porter secours au satellite Swift ne pourra pas remplir sa mission. Développé en toute hâte, le projet a subi des problèmes techniques et ne pourra pas aller rehausser l'orbite du télescope spatial, en perdition, comme prévu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a59f48de0d5",
+          "title": "« Il fera tout ce que vous lui demanderez » : les versions « uncensored » du modèle d’IA chinois Qwen affolent les réseaux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2314343-il-fera-tout-ce-que-vous-lui-demanderez-les-versions-uncensored-du-modele-dia-chinois-qwen-affolent-les-reseaux.html",
+          "category": "ia",
+          "published_at": "2026-08-20T15:44:56+00:00",
+          "summary": "Depuis sa sortie, Qwen 3.8, le dernier modèle d'IA open source d'Alibaba, a rapidement vu fleurir des versions \"uncensored\" sur Hugging Face, la principale plateforme d'hébergement et de partage de modèles d'IA. Débarrassées de leurs derniers garde-fous, ces variantes circulent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b54e0fed3f4c",
+          "title": "☕️ SFR prévient ses clients Fibre d’une fuite de données",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sfr-previent-ses-clients-fibre-dune-fuite-de-donnees/",
+          "category": "ia",
+          "published_at": "2026-08-20T15:37:48+00:00",
+          "summary": "À chaque jour sa fuite de données, ou presque. SFR a prévenu jeudi 20 août ses clients qu&#8217;un «&#160;incident de sécurité » avait été détecté le 2 juillet. Il a touché un outil de gestion d&#8217;analyse des raccordements fibre, qui a entraîné un accès non autorisé à des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8040b225fb88",
+          "title": "DMA : plutôt que des grosses amendes, Bruxelles veut des résultats",
+          "source": "Next INpact",
+          "url": "https://next.ink/252600/dma-plutot-que-des-grosses-amendes-bruxelles-veut-des-resultats/",
+          "category": "institutionnel",
+          "published_at": "2026-08-20T15:08:44+00:00",
+          "summary": "Apple et la Commission européenne ont enterré la hache de guerre cette semaine sur le dossier houleux de l&#8217;ouverture de l&#8217;App Store à la concurrence. Un accord qui consacre un certain pragmatisme de Bruxelles, après des années de tensions très vives entrecoupées de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12e7f0acfcdc",
+          "title": "Terence Tao, le Mozart des maths modernes, brandit un mème pour expliquer le souci des maths à l’ère de l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2314973-terence-tao-le-mozart-des-maths-modernes-brandit-un-meme-pour-expliquer-le-souci-des-maths-a-lere-de-lia.html",
+          "category": "ia",
+          "published_at": "2026-08-20T14:40:02+00:00",
+          "summary": "Alors que les géants de la tech célèbrent chaque prouesse algorithmique comme une victoire historique, le mathématicien Terence Tao utilise l'ironie d'un mème pour recadrer le débat : générer une démonstration brute avec une IA n'est que la toute première marche de la science.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b430ab9366e",
+          "title": "Le logiciel espion « secret défense » de la DGSI était un fork d’un exploit disponible sur GitHub",
+          "source": "Next INpact",
+          "url": "https://next.ink/252247/le-logiciel-espion-secret-defense-de-la-dgsi-etait-un-fork-dun-exploit-disponible-sur-github/",
+          "category": "ia",
+          "published_at": "2026-08-20T14:18:00+00:00",
+          "summary": "Ayant permis plus de 6 000 arrestations, la saisie de 900M d&#8217;euros et de 270 tonnes de drogues, le piratage du cryptophone Encrochat reposait sur un logiciel espion « secret défense » développé par la DGSI. Il avait en fait été bidouillé à partir d&#8217;un logiciel open…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2759d369764",
+          "title": "☕️ Thunderbird 154 active Microsoft Graph pour les comptes Microsoft 365",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/thunderbird-154-active-microsoft-graph-pour-les-comptes-microsoft-365/",
+          "category": "ia",
+          "published_at": "2026-08-20T14:04:39+00:00",
+          "summary": "Mozilla a annoncé mardi 18 août la disponibilité de Thunderbird 154. La nouvelle mouture de son vénérable client de messagerie inaugure différentes petites nouveautés fonctionnelles, comme l&#8217;aperçu des pièces jointes sur macOS et le déchiffrement des contenus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ea3a1e27e0e",
+          "title": "☕️ Aux États-Unis, le boulet électoral des datacenters IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/aux-etats-unis-le-boulet-electoral-des-datacenters-ia/",
+          "category": "ia",
+          "published_at": "2026-08-20T13:26:36+00:00",
+          "summary": "Les entreprises de l&#8217;IA qui multiplient les projets de centres de données aux États-Unis vont devoir se retrousser les manches pour améliorer leur image. En cette année d&#8217;élections, le stigmate est tel que ces infrastructures sont devenues un risque politique pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94e13779e226",
+          "title": "Nouvelle fuite de données en France : Red by SFR alerte ses clients",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2314843-nouvelle-fuite-de-donnees-en-france-red-by-sfr-alerte-ses-clients.html",
+          "category": "cnil",
+          "published_at": "2026-08-20T12:47:44+00:00",
+          "summary": "Red by SFR a averti ses clients d'un accès non autorisé à leurs données personnelles, détecté début juillet 2026 sur un outil interne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6559cc0e1a74",
+          "title": "Tesla annonce son Semi en Europe, mais Mercedes, Volvo et Renault n’ont pas attendu Elon Musk",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2314807-tesla-annonce-son-semi-en-europe-mais-mercedes-volvo-et-renault-nont-pas-attendu-elon-musk.html",
+          "category": "ia",
+          "published_at": "2026-08-20T12:20:17+00:00",
+          "summary": "Après des années de teasing et de déploiements au compte-gouttes aux États-Unis, Tesla officialise la présentation européenne de son camion Semi en septembre au salon de Hanovre. Sauf qu'entre-temps, Volvo, Mercedes-Benz, Renault et MAN occupent déjà les routes du Vieux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0338d859216f",
+          "title": "Starship : la capture inédite par la tour s’éloigne-t-elle ? Elon Musk publie un tweet ambigu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2314475-starship-la-capture-inedite-par-la-tour-seloigne-t-elle-elon-musk-publie-un-tweet-ambigu.html",
+          "category": "ia",
+          "published_at": "2026-08-20T12:06:11+00:00",
+          "summary": "Un tweet sibyllin d'Elon Musk jette le flou sur le calendrier de SpaceX. Alors qu'une capture inédite de l'étage supérieur par la tour Mechazilla était pressentie dès le prochain essai, la communauté s'interroge.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea69b7bab607",
+          "title": "Anakin, Padmé, Obi-Wan, Mace… Hayden Christensen veut « reformer le groupe » pour une série Clone Wars en live action",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314625-anakin-padme-obi-wan-mace-hayden-christensen-veut-reformer-le-groupe-pour-une-serie-clone-wars-en-live-action.html",
+          "category": "musique",
+          "published_at": "2026-08-20T11:31:00+00:00",
+          "summary": "Au micro du Jonas Podcast, Hayden Christensen a lâché une bombe : il est totalement partant pour un projet The Clone Wars en prises de vues réelles. L'interprète d'Anakin Skywalker est convaincu qu'il est possible de « reformer le groupe » avec Ewan McGregor, Natalie Portman et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "637a1e8296c8",
+          "title": "La FCC a approuvé le premier satellite d’une constellation pour éclairer sur Terre la nuit",
+          "source": "Next INpact",
+          "url": "https://next.ink/252452/la-fcc-a-approuve-le-premier-satellite-dune-constellation-pour-eclairer-sur-terre-la-nuit/",
+          "category": "ia",
+          "published_at": "2026-08-20T11:17:35+00:00",
+          "summary": "L&#8217;agence de régulation américaine a autorisé la startup Reflect Orbital à lancer son premier satellite. L&#8217;entreprise projette de lancer des milliers de satellites capables d&#8217;éclairer des parcelles de Terre pour rendre possibles la nuit des activités qui sont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "723a1e997921",
+          "title": "L’immense Samsung Odyssey OLED G9 revient en stock à 669 €, son prix le plus bas",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2313753-limmense-samsung-odyssey-oled-g9-revient-en-stock-a-669-e-son-prix-le-plus-bas.html",
+          "category": "ia",
+          "published_at": "2026-08-20T11:15:28+00:00",
+          "summary": "[Deal du jour] Brièvement disparue hier, l’offre sur le Samsung Odyssey OLED G9 est déjà de retour chez Carrefour. Cet immense écran OLED de 49 pouces repasse à 669,99 € au lieu de 1 099 €, soit son prix le plus bas jamais observé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "440bb562ddf7",
+          "title": "Marketing Weekly Recap: Raye – Campaign Highlights",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/20/marketing-weekly-recap-raye-campaign-highlights-open/",
+          "category": "musique",
+          "published_at": "2026-08-20T11:01:10+00:00",
+          "summary": "British singer-songwriter Raye released her second studio album, This Music May Contain Hope, in March 2026. Lead single ‘Where Is My Husband!’ dropped over half a year prior to the album - a move that seemed like a gamble on paper, but ultimately built massive anticipation. We…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ae7b7b63479",
+          "title": "☕️ La vérification d’âge augmente l’usage de sites porno illégaux, selon Pornhub",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-verification-dage-augmente-lusage-de-sites-porno-illegaux-selon-pornhub/",
+          "category": "loi",
+          "published_at": "2026-08-20T09:20:59+00:00",
+          "summary": "Le système de vérification d’âge des sites pornographiques mis en place au Royaume-Uni depuis 2025 pousse l’usage de sites pornographiques irrespectueux de la loi, déclare Pornhub dans une lettre adressée à 300 représentants locaux. En vertu de l’Online Safety Act, les sites en…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "2cc439a7d602",
           "title": "India to have the third highest music subscribers by 2033, predicts Midia",
