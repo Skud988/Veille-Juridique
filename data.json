@@ -1,9 +1,204 @@
 {
-  "generated_at": "2026-08-22T08:47:22.609432+00:00",
+  "generated_at": "2026-08-23T08:50:35.696127+00:00",
   "days": [
+    {
+      "date": "2026-08-23",
+      "articles": [
+        {
+          "id": "b307de0de454",
+          "title": "À quoi ressemblait votre ville il y a des millions d’années ? Et en 3050 ? Cette IA tente de l’imaginer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2306433-a-quoi-ressemblait-votre-ville-il-y-a-des-millions-dannees-et-en-3050-cette-ia-tente-de-limaginer.html",
+          "category": "ia",
+          "published_at": "2026-08-23T07:17:00+00:00",
+          "summary": "Lancé fin juillet 2026, The Looking Glass permet de choisir un lieu et une époque pour générer avec l’IA une image du passé ou du futur. Une sorte de machine à voyager dans le temps, qui assume d’inventer ce qu’elle montre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d952d6f3e527",
+          "title": "Dolly Parton Says She’s Exploring ‘Avatar Performances’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/dolly-parton-health-update-1236322526/",
+          "category": "ia",
+          "published_at": "2026-08-23T07:07:43+00:00",
+          "summary": "\"I am dealing with some health issues that I just didn't pay attention to when I was watching over Carl,\" Parton said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4c37ea5c0a3",
+          "title": "Voiture électrique : payer sa recharge à l’aveugle, ça suffit !",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2315949-voiture-electrique-payer-sa-recharge-a-laveugle-ca-suffit.html",
+          "category": "ia",
+          "published_at": "2026-08-23T06:38:00+00:00",
+          "summary": "Le secteur de la recharge progresse, mais de grosses lacunes subsistent comme le simple fait de ne pas savoir ce qu'une recharge nous a coûté à l'instant T. Voilà de quoi inspirer un édito pour la newsletter Watt Else du 20 août 2026.&nbsp;",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-22",
       "articles": [
+        {
+          "id": "eddccbbe84cb",
+          "title": "Olivia Rodrigo Drops ‘Handmaid’s Tale’-Inspired ‘Serena Joy’ as CD Single at Indie Record Store",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-serena-joy-cd-single-indie-record-store-1236322505/",
+          "category": "ia",
+          "published_at": "2026-08-22T20:10:55+00:00",
+          "summary": "A limited number of copies were available at Analog Music Shop, near the site of her upcoming Daisy Chain Fields festival in SoCal.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9229a566fce0",
+          "title": "Kehlani Delivers Superstar Set at Brooklyn Stop of Triumphant World Tour: 5 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/kehlani-brooklyn-concert-best-moments-cardi-b/",
+          "category": "musique",
+          "published_at": "2026-08-22T18:25:37+00:00",
+          "summary": "The Oakland R&#38;B savant proved exactly why she's the cover star of Billboard's 2026 R&#38;B/Hip-Hop Power Players issue.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70525c87427e",
+          "title": "Gemini gratuit, ChatGPT avec des pubs et GTA 6 en fuite sur PC – le récap’ tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2316147-gemini-gratuit-chatgpt-avec-des-pubs-et-gta-6-en-fuite-sur-pc-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-08-22T17:49:00+00:00",
+          "summary": "Cette semaine, l'actualité numérique a surtout été rythmée par la multiplication des fuites sur GTA 6 : le leaker prétend posséder une build du jeu et menace Rockstar Games. Dans le monde de l'IA, Google a relancé sa promotion « Gemini gratuit » pour les étudiants et ChatGPT…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d5591c7e765",
+          "title": "‘The Vampire Lestat: One Night Only LIVE’: Here’s How to Watch the Concert Special Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/vampire-lestat-one-night-only-live-watch-stream-online-free-1236320217/",
+          "category": "musique",
+          "published_at": "2026-08-22T16:32:58+00:00",
+          "summary": "The actor took the stage in character as Lestat for a special performance featuring six songs written by the series’ composer Daniel Hart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9ce1ac69bd2",
+          "title": "Plus de 500 000 Xiaomi SU7, des salariés Tesla cobayes, des Geely produites par Volvo : le récap’ Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2315971-plus-de-500-000-xiaomi-su7-des-salaries-tesla-cobayes-des-geely-produites-par-volvo-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-08-22T16:28:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : Un nouveau cap franchi pour la jeune marque automobile Xiaomi, le Cybercab testé par les salariés Tesla et des Zeekr produites en Europe chez Volvo. Un édito exclusif, un guide, une reco de lecture et l&#8217;agenda de la rédaction :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c4c75d84424",
+          "title": "Here’s Where to Watch 2026 U.S. Open Tennis Championships: Best Ways to Livestream the Grand Slam Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/us-open-tennis-championships-2026-watch-online-free-1236318601/",
+          "category": "musique",
+          "published_at": "2026-08-22T15:42:21+00:00",
+          "summary": "The tennis tournament begins on Aug. 23. Here's how to watch the action online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc530a3dc50a",
+          "title": "Karol G, Maluma & More Unite for Colombia Earthquake Relief & More Uplifting Moments in Latin Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/karol-g-maluma-colombia-earthquake-relief-mana-apple-music-1236322398/",
+          "category": "musique",
+          "published_at": "2026-08-22T15:34:02+00:00",
+          "summary": "Plus, Maná becomes the first Latin act to perform for Apple Music's Rediscovered series, and Elvis Crespo returns to NYC for a free concert.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5764f99bc36",
+          "title": "De « Bordouse » à Bordeaux : cette carte de France montre les progrès de ChatGPT en un an et demi",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2314897-de-bordouse-a-bordeaux-cette-carte-de-france-montre-les-progres-de-chatgpt-en-un-an-et-demi.html",
+          "category": "ia",
+          "published_at": "2026-08-22T15:02:00+00:00",
+          "summary": "En mars 2025, ChatGPT produisait une carte de France complètement délirante, remplie de villes imaginaires. Dix-sept mois plus tard, le résultat est méconnaissable -- mais pas 100 % convaincant. L'occasion de ressortir un autre petit défi des générateurs d’images : le verre de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "49c4798e266a",
+          "title": "Avengers Doomsday : quelle est la vraie histoire de Doctor Doom ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314873-avengers-doomsday-mais-au-fait-cest-qui-le-docteur-fatalis-mechant-du-film.html",
+          "category": "ia",
+          "published_at": "2026-08-22T14:26:00+00:00",
+          "summary": "Alors que Robert Downey Jr. s'apprête à faire son grand retour dans le MCU sous le masque de Docteur Doom dans Avengers: Doomsday, le grand public se prépare à redécouvrir le souverain de la Latvérie. Bien loin des adaptations cinématographiques tièdes du passé, la véritable…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d189f247755",
+          "title": "Test du Dreame T16 Pro Heat : le lavage à 90 °C fait-il vraiment la différence ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2314649-test-du-dreame-t16-pro-heat-le-lavage-a-90-c-fait-il-vraiment-la-difference.html",
+          "category": "ia",
+          "published_at": "2026-08-22T13:32:00+00:00",
+          "summary": "J’ai troqué mon Dyson V15 Detect Absolute contre le dernier aspirateur-laveur de Dreame. Après plusieurs semaines d’utilisation, le T16 Pro Heat m’a convaincu que cette catégorie avait suffisamment progressé pour remplacer définitivement un aspirateur-balai traditionnel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4099725d7456",
+          "title": "Mortal Shell 2 me rappelle Elden Ring, et c’est quand même un sacré compliment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2315861-mortal-shell-2-me-rappelle-elden-ring-et-cest-quand-meme-un-sacre-compliment.html",
+          "category": "ia",
+          "published_at": "2026-08-22T12:02:00+00:00",
+          "summary": "Après un premier épisode méritant mais terriblement bancal, Cold Symmetry revient avec Mortal Shell 2, une suite qui porte terriblement bien son nom. Avec des ambitions et des finitions à la hausse, ce soulslike nous rappelle Elden Ring. On a connu pire comparaison.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2fe409e12ef",
+          "title": "La pub sur Next : aidez-nous à distinguer les vraies fausses pubs des fausses vraies pubs",
+          "source": "Next INpact",
+          "url": "https://next.ink/249402/la-pub-sur-next-aidez-nous-a-distinguer-les-vraies-fausses-pubs-des-fausses-vraies-pubs/",
+          "category": "ia",
+          "published_at": "2026-08-22T11:37:00+00:00",
+          "summary": "Cet été,&#160;Next vous propose des mini-jeux. Aujourd’hui, nous testons votre connaissance du site et plus particulièrement des fausses pubs créées de toutes pièces par Flock. Il a en effet créé de fausses fausses pubs et nous avons besoin de vous pour les identifier. Sur Next,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd84786cb09d",
+          "title": "Numerama+ vous offre un an de VPN Surfshark One, mais seulement aux 700 premiers",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2314871-numerama-vous-offre-un-an-de-vpn-surfshark-one-mais-seulement-aux-700-premiers.html",
+          "category": "ia",
+          "published_at": "2026-08-22T11:00:00+00:00",
+          "summary": "Aujourd’hui, le deal du jour vient directement de la maison. La rentrée approche avec son cortège de nouveaux abonnements, et Numerama+ vous permet de faire d’une pierre deux coups en vous offrant Surfshark One pendant un an.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd66e2c8ab24",
+          "title": "Cyberpunk Edgerunners 2 sur Netflix : date de sortie, trailer, histoire… tout savoir sur la suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2028387-cyberpunk-edgerunners-2-sur-netflix-sortie-episodes-histoire-tout-savoir-sur-la-suite.html",
+          "category": "ia",
+          "published_at": "2026-08-22T09:49:44+00:00",
+          "summary": "Netflix, CD Projekt Red et le studio Trigger préparent une nouvelle saison à la série d’animation à succès Edgerunners, issue de l’univers de Cyberpunk 2077. Date de sortie, histoire, équipe créative et bande-annonce : voici les points à retenir sur cette suite très attendue.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "170eb2dc3843",
+          "title": "Sophie Adenot : comment suivre la nouvelle sortie spatiale de l’astronaute française hors de l’ISS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2316355-sophie-adenot-comment-suivre-la-nouvelle-sortie-spatiale-de-lastronaute-francaise-hors-de-liss.html",
+          "category": "ia",
+          "published_at": "2026-08-22T09:41:00+00:00",
+          "summary": "Il y avait comme un sentiment d'inachevé à 400 km d'altitude. Une semaine après une première sortie historique, l'astronaute française Sophie Adenot va remettre le nez dehors le mardi 25 août. Objectif : terminer l'installation d'une antenne récalcitrante. Suivez l'opération en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0aad3b741597",
+          "title": "Il y a une bonne astuce sur WhatsApp pour éviter d’être ajouté dans des groupes suspects",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2316255-il-y-a-une-bonne-astuce-sur-whatsapp-pour-eviter-detre-ajoute-dans-des-groupes-suspects.html",
+          "category": "ia",
+          "published_at": "2026-08-22T09:02:39+00:00",
+          "summary": "Vous en avez marre d'être ajoutés à des groupes WhatsApp par de parfaits inconnus ? Entre les spams et les notifications abusives, ces invitations forcées sont un vrai fléau. Il y a un moyen simple et rapide de bloquer ces ajouts indésirables.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "8ab6e9e1072d",
           "title": "Holly Humberstone Sets Biggest Australian Tour Yet for 2027",
