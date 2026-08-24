@@ -1,9 +1,234 @@
 {
-  "generated_at": "2026-08-23T08:50:35.696127+00:00",
+  "generated_at": "2026-08-24T09:04:32.622428+00:00",
   "days": [
+    {
+      "date": "2026-08-24",
+      "articles": [
+        {
+          "id": "e0110c65b2da",
+          "title": "Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/decisions-automatisees-sanction-de-pres-de-825-millions-deuros-lencontre-duber",
+          "category": "ia",
+          "published_at": "2026-08-24T12:00:00+00:00",
+          "summary": "En coopération avec la CNIL, l’autorité néerlandaise de protection des données a prononcé à l’encontre des sociétés UBER B.V. et UBER TECHNOLOGIES INC. une amende de 824&amp;nbsp;990&amp;nbsp;000 euros pour avoir pris des décisions individuelles automatisées concernant les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8157eb7860cf",
+          "title": "GTA 6 : Take-Two traque l’auteur des fuites et son memecoin lucratif",
+          "source": "Next INpact",
+          "url": "https://next.ink/252841/gta-6-take-two-traque-lauteur-des-fuites-et-son-memecoin-lucratif/",
+          "category": "ia",
+          "published_at": "2026-08-24T08:55:05+00:00",
+          "summary": "Alors que plusieurs nouveaux extraits vidéo sont apparus sur les réseaux sociaux, Take-Two et Rockstar se tournent vers la justice états-unienne pour obtenir de Microsoft, Discord et X les informations qui permettraient d&#8217;identifier le responsable des fuites liées à GTA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9417fd2cc741",
+          "title": "« J’ai un problème étrange avec mon casque » : il découvre par hasard comment AliExpress trace ses clients avec un son",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2316473-jai-un-probleme-etrange-avec-mon-casque-il-decouvre-par-hasard-comment-aliexpress-trace-ses-clients-avec-un-son.html",
+          "category": "ia",
+          "published_at": "2026-08-24T08:39:00+00:00",
+          "summary": "Un internaute affirme avoir repéré un traitement audio invisible tournant sur la page d'accueil d'AliExpress. Ce mécanisme permettrait de ficher les visiteurs sans passer par les cookies.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a14800e73d72",
+          "title": "Benjamin Gates 3 : 20 ans après, Disney donne enfin des nouvelles de la suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2316513-benjamin-gates-3-20-ans-apres-disney-donne-enfin-des-nouvelles-de-la-suite.html",
+          "category": "ia",
+          "published_at": "2026-08-24T08:35:00+00:00",
+          "summary": "Près de vingt ans après la sortie du deuxième volet, le miracle a enfin lieu pour les chasseurs de trésors. Le réalisateur Jon Turteltaub vient de confirmer que&nbsp;Benjamin Gates 3&nbsp;(National Treasure 3) n'est plus un simple fantasme de fans : le projet est bel et bien sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d015a782db0",
+          "title": "L’attente pour de nouveaux Apple TV et HomePod est presque terminée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2316479-lattente-pour-de-nouveaux-apple-tv-et-homepod-est-presque-terminee.html",
+          "category": "ia",
+          "published_at": "2026-08-24T08:18:00+00:00",
+          "summary": "Apple préparerait ses magasins à accueillir de nouveaux rayons « maison connectée ». Les HomePod, HomePod mini, Apple TV et le fameux « HomePad », l'écran-hub d'Apple, pourraient enfin être dévoilés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21f2d88b454c",
+          "title": "Apple a payé 40 % de ses impôts mondiaux en Irlande en 2025",
+          "source": "Next INpact",
+          "url": "https://next.ink/252825/apple-a-paye-40-de-ses-impots-mondiaux-en-irlande-en-2025/",
+          "category": "ia",
+          "published_at": "2026-08-24T07:45:50+00:00",
+          "summary": "Les nouvelles obligations européennes de transparence fiscale permettent de regarder d’un peu plus près où les géants de la tech déclarent leurs bénéfices, et où ils paient leurs impôts. Pour Apple comme pour Microsoft, l’Irlande occupe une place considérable. 40&#160;% de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe2c8796835d",
+          "title": "Alex Warren Cancels Auckland Show Due to Illness",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/alex-warren-cancels-auckland-show-1236322785/",
+          "category": "musique",
+          "published_at": "2026-08-24T07:45:16+00:00",
+          "summary": "The \"Ordinary\" singer said he was \"bedridden sick\" hours before his Spark Arena concert, with the Sydney date next on the tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "095d5d814f86",
+          "title": "25 % du marché européen : la voiture électrique passe déjà un nouveau cap historique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2316459-25-du-marche-europeen-la-voiture-electrique-passe-deja-un-nouveau-cap-historique.html",
+          "category": "ia",
+          "published_at": "2026-08-24T07:31:44+00:00",
+          "summary": "En juillet 2026, les voitures 100 % électriques ont représenté 25,7 % des ventes sur 16 des principaux marchés européens. Mais l’écart entre les pays continue de se creuser.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "470d77b9fef8",
+          "title": "Les États-Unis abandonnent l’objectif d’un Internet à 1 Gbit/s pour tous",
+          "source": "Next INpact",
+          "url": "https://next.ink/252649/les-etats-unis-abandonnent-lobjectif-dun-internet-a-1-gbit-s-pour-tous/",
+          "category": "justice",
+          "published_at": "2026-08-24T06:04:20+00:00",
+          "summary": "La FCC a finalement abandonné l&#8217;objectif d&#8217;un Internet à 1&#160;Gbit/s qu&#8217;elle avait elle-même donné à son pays en 2024. Officiellement dans le but d&#8217;être « technologiquement neutre », cette décision enlève une épine dans le pied de Starlink. Le très haut…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78da573c136a",
+          "title": "Hilltop Hoods to Headline Castaway Festival Across Three Australian Cities",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/hilltop-hoods-castaway-festival-1236322667/",
+          "category": "ia",
+          "published_at": "2026-08-24T05:15:33+00:00",
+          "summary": "The Adelaide hip-hop trio tops a lineup with Violent Soho and Amy Shark across three Australian cities this November through March.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e747a0c6810",
+          "title": "Australian Promoter Fuzzy Rebrands for 30th Anniversary",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/fuzzy-30-years-rebrand/",
+          "category": "musique",
+          "published_at": "2026-08-24T03:47:22+00:00",
+          "summary": "“Thirty years is a huge milestone in live music, particularly when you think about how much the industry has changed since 1996,” said Fuzzy CEO Adelle Robinson.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "976c72e8c09f",
+          "title": "The Wallflowers Announce First-Ever Australian Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/the-wallflowers-australian-tour-1236322645/",
+          "category": "ia",
+          "published_at": "2026-08-24T03:27:30+00:00",
+          "summary": "The band will perform 1996 breakthrough Bringing Down the Horse in full for its 30th anniversary.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "294f82ea4052",
+          "title": "QMusic Confirms Kristy Ellis as New CEO",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/qmusic-appoints-kristy-ellis-new-ceo/",
+          "category": "musique",
+          "published_at": "2026-08-24T01:00:00+00:00",
+          "summary": "Ellis, who was appointed interim CEO of the trade body in April, steps into the position on a permanent basis, following a nationwide recruitment process.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-23",
       "articles": [
+        {
+          "id": "e8576fd8ae98",
+          "title": "Fans Choose ENHYPEN’s ‘THE SIN : BLISS’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/enhypen-the-sin-bliss-best-new-music-poll-results-1236322619/",
+          "category": "musique",
+          "published_at": "2026-08-23T22:02:17+00:00",
+          "summary": "The K-pop heavyweights’ eighth mini album brought in nearly 73% of the vote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d4a071b2952",
+          "title": "Here’s What Dr. Dre Really Thinks About AI in Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/dr-dre-ai-music-1236322613/",
+          "category": "musique",
+          "published_at": "2026-08-23T20:47:44+00:00",
+          "summary": "The legendary producer’s perspective may come as a surprise.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3e833cb8e89",
+          "title": "Drake’s Appearance at Ella Langley’s Show Has Fans Wondering About a Collab",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/drake-ella-langley-concert-collab-rumors-choosin-texas-1236322570/",
+          "category": "ia",
+          "published_at": "2026-08-23T19:14:25+00:00",
+          "summary": "Drizzy recently praised the country star on social media.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0bec27de2bf9",
+          "title": "KATSEYE Achieves First No. 1 Album on Billboard 200 With ‘WILD’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/katseye-wild-number-one-billboard-200-albums-chart-1236322567/",
+          "category": "musique",
+          "published_at": "2026-08-23T19:00:05+00:00",
+          "summary": "Plus, Phoebe Bridgers earns her first solo top 10 with Lost Weekend bowing at No. 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e96c15e1845a",
+          "title": "Les impôts piégés par un compte volé, un agent IA pirate des tickets Jira et des versions obscures de Qwen disent oui à tout : on vous raconte la semaine Cyberguerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2316139-les-impots-pieges-par-un-compte-vole-un-agent-ia-pirate-des-tickets-jira-et-des-versions-obscures-de-qwen-disent-oui-a-tout-on-vous-raconte-la-semaine-cyberguerre.html",
+          "category": "ia",
+          "published_at": "2026-08-23T17:32:00+00:00",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : une fuite de données qui touche près de 700 000 Français, un agent IA qui a exploité une faille par lui-même jusqu'à s'infiltrer dans les outils internes de Snowflake, et des versions « uncensored » de Qwen qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95077cdbaac4",
+          "title": "On a classé les films Pirates des Caraïbes, du pire au meilleur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2314853-on-a-classe-les-films-pirates-des-caraibes-du-pire-au-meilleur.html",
+          "category": "ia",
+          "published_at": "2026-08-23T14:00:00+00:00",
+          "summary": "Cela fait un petit moment que l'on entend parler d'un sixième film Pirates des Caraïbes. Il se murmure même que Johnny Depp pourrait revenir dans son rôle iconique de Jack Sparrow. En attendant des éléments plus concrets, voici un classement des cinq premiers épisodes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d485afaf3acf",
+          "title": "Le jour où une mission martienne s’est écrasée à cause du système métrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2311639-le-jour-ou-une-mission-martienne-sest-ecrasee-a-cause-du-systeme-metrique.html",
+          "category": "ia",
+          "published_at": "2026-08-23T12:31:00+00:00",
+          "summary": "Voir une mission spatiale échouer n'est pas forcément rare, mais lorsque cela est dû à de petites erreurs largement évitables, c'est un petit peu plus énervant. C'est le cas de Mars Climate Orbiter. Un projet de la Nasa raté suite à une confusion dans les unités de mesure…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17d757bbce82",
+          "title": "Tout le mystère de la physique quantique est résumé dans cette unique expérience",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2314847-tout-le-mystere-de-la-physique-quantique-est-resume-dans-cette-unique-experience.html",
+          "category": "ia",
+          "published_at": "2026-08-23T11:01:00+00:00",
+          "summary": "Quelle est l’expérience qui permet aux novices d’appréhender les mystères de la mécanique quantique et qui continue de faire vibrer les physiciens&nbsp;? Partons à la découverte de l’expérience de la «&nbsp;double fente&nbsp;»&nbsp;!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06b2c53b5fd1",
+          "title": "Il est le « port USB-C » de l’intelligence artificielle : on vous explique le MCP",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2315891-il-est-le-port-usb-c-de-lintelligence-artificielle-on-vous-explique-le-mcp.html",
+          "category": "ia",
+          "published_at": "2026-08-23T09:30:00+00:00",
+          "summary": "Adopté en un temps record, le Model Context Protocol (MCP) connecte les IA aux données et outils du monde réel. Comment ça marche ?",
+          "summary_type": "extrait source"
+        },
         {
           "id": "b307de0de454",
           "title": "À quoi ressemblait votre ville il y a des millions d’années ? Et en 3050 ? Cette IA tente de l’imaginer",
