@@ -1,9 +1,364 @@
 {
-  "generated_at": "2026-08-24T09:04:32.622428+00:00",
+  "generated_at": "2026-08-25T09:00:08.993309+00:00",
   "days": [
+    {
+      "date": "2026-08-25",
+      "articles": [
+        {
+          "id": "7da5b47588f6",
+          "title": "Réseaux sociaux : la loi bannissant les moins de 15 ans est castrée, mais une interdiction a survécu pour la rentrée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2317249-reseaux-sociaux-la-loi-bannissant-les-moins-de-15-ans-est-castree-mais-une-interdiction-a-survecu-pour-la-rentree.html",
+          "category": "ia",
+          "published_at": "2026-08-25T08:50:01+00:00",
+          "summary": "Publiée au Journal officiel ce 25 août 2026, la loi censée bannir les réseaux sociaux pour les moins de 15 ans a été largement castrée. Le contrôle généralisé de l'âge n'aura pas lieu, du moins pour l'instant. Cependant, le texte conserve quelques dispositions qui s'appliqueront…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f5cd2e50493",
+          "title": "Face aux algériens ou aux gitans, Gemini, ChatGPT et Claude présentent des biais racistes",
+          "source": "Next INpact",
+          "url": "https://next.ink/252987/face-aux-algeriens-ou-aux-gitans-gemini-chatgpt-et-claude-presentent-des-biais-racistes/",
+          "category": "ia",
+          "published_at": "2026-08-25T08:31:00+00:00",
+          "summary": "Ce 23 août, l’humoriste Alicia C’est Tout repérait un biais raciste dans les résumés IA de Google. Next a reproduit et étendu son expérience sur les modèles de langage les plus couramment utilisés, et constate chez la production de stéréotypes en fonction de diverses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10fbf405b9d2",
+          "title": "Fusion to take centerstage at showcase festival Soundscapes of India",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/25/fusion-to-take-centerstage-at-showcase-festival-soundscapes-of-india/",
+          "category": "musique",
+          "published_at": "2026-08-25T08:12:00+00:00",
+          "summary": "In April, Soundscapes of India invited artists and bands from across the country, working in any genre and language, to apply for a slot at the showcase festival, which will [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86ea2239b25e",
+          "title": "La Xring O3 de Xiaomi s’attaque aux meilleures puces du marché",
+          "source": "Next INpact",
+          "url": "https://next.ink/252990/la-xring-o3-de-xiaomi-sattaque-aux-meilleures-puces-du-marche/",
+          "category": "ia",
+          "published_at": "2026-08-25T07:58:00+00:00",
+          "summary": "Xiaomi développe ses propres puces pour réduire sa dépendance à des fournisseurs tiers comme Qualcomm ou MediaTek. Le constructeur chinois a présenté un nouveau système-sur-puce, le Xring O3, qui affiche des performances pas loin des meilleurs SoC du marché. À l&#8217;image…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7ccdabae341",
+          "title": "Vince Staples Announces 2027 Australian Headline Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/vince-staples-2027-australian-headline-tour-1236323700/",
+          "category": "ia",
+          "published_at": "2026-08-25T07:37:37+00:00",
+          "summary": "The shows mark his first solo Australian dates in nearly a decade.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ca8308e5a2a",
+          "title": "Sophie Adenot : suivez en direct la 2e sortie spatiale de l’astronaute française hors de l’ISS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2316355-sophie-adenot-suivez-en-direct-la-2e-sortie-spatiale-de-lastronaute-francaise-hors-de-liss.html",
+          "category": "ia",
+          "published_at": "2026-08-25T07:17:27+00:00",
+          "summary": "Il y avait comme un sentiment d'inachevé à 400 km d'altitude. Une semaine après une première sortie historique, l'astronaute française Sophie Adenot va remettre le nez dehors le mardi 25 août. Objectif : terminer l'installation d'une antenne récalcitrante. Suivez l'opération en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "426e9d5dc80a",
+          "title": "La loi visant à interdire les téléphones portables au lycée est promulguée et publiée",
+          "source": "Next INpact",
+          "url": "https://next.ink/253007/la-loi-visant-a-interdire-les-telephones-portables-au-lycee-est-promulguee-et-publiee/",
+          "category": "loi",
+          "published_at": "2026-08-25T06:52:00+00:00",
+          "summary": "Promulguée lundi par Emmanuel Macron, la loi instaurant l&#8217;interdiction des téléphones portables au lycée a été publiée au Journal Officiel. La mesure dispose donc désormais d&#8217;un cadre juridique, à temps pour la rentrée de septembre, mais de sérieux doutes planent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d80170fe2259",
+          "title": "☕️ Changement de domaine : Apple laisse finalement tranquille « Masquer mon adresse e-mail »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/changement-de-domaine-apple-laisse-finalement-tranquille-masquer-mon-adresse-e-mail/",
+          "category": "ia",
+          "published_at": "2026-08-25T06:21:00+00:00",
+          "summary": "Apple recule : les adresses utilisées par la fonction « Masquer mon adresse email » (Hide my Email) resteront finalement émises sur icloud.com. Le constructeur avait l&#8217;intention de remplacer le domaine par private.icloud.com. Une modification annoncée mi-juin, qui a fait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67425c6fe25a",
+          "title": "La série Harry Potter s’offre une star de Game of Thrones pour la saison 2",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2317209-la-serie-harry-potter-soffre-une-star-de-game-of-thrones-pour-la-saison-2.html",
+          "category": "ia",
+          "published_at": "2026-08-25T06:08:25+00:00",
+          "summary": "Chamboulement dans le casting de la deuxième saison de la série Harry Potter. Finalement, Nicholas Hoult n'incarnera pas le professeur Gilderoy Lockhart. Il sera remplacé par Kit Harington, aka Jon Snow dans Game of Thrones.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33e04fada967",
+          "title": "☕️ The Witcher 4 officiellement prévu pour 2028",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/the-witcher-4-officiellement-prevu-pour-2028/",
+          "category": "institutionnel",
+          "published_at": "2026-08-25T05:48:00+00:00",
+          "summary": "Maintenant que GTA 6 est presque arrivé (manifestement, il y a même une build qui traine), il est grand temps de tourner notre attention vers un autre poids lourd vidéoludique : The Witcher 4. Michał Nowakowski, co-directeur général de CD Projekt Red, a révélé que le prochain…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0810d3b42d12",
+          "title": "Australia’s Laneway Festival Confirms 2027 Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/laneway-festival-2027-dates-1236323649/",
+          "category": "ia",
+          "published_at": "2026-08-25T04:04:23+00:00",
+          "summary": "It follows confirmation earlier this month that Adelaide and Perth would miss out on the festival in 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4b5305fe11a",
+          "title": "ARIA Sets AI Eligibility Rules for Its Charts, Barring Wholly AI-Generated Tracks",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/aria-sets-ai-eligibility-rules/",
+          "category": "ia",
+          "published_at": "2026-08-25T03:57:27+00:00",
+          "summary": "To qualify, a recording must be \"substantially human-made\" and raise \"no stream or chart manipulation concerns.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bce596939b16",
+          "title": "Veteran Nashville Music Journalist and Author Vernell Hackett Dies at 77",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/nashville-music-journalist-author-vernell-hackett-dead-77/",
+          "category": "musique",
+          "published_at": "2026-08-25T00:45:27+00:00",
+          "summary": "During her career, Hackett worked with artists including Chris LeDoux and Dale Ann Bradley.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c0ef75394db0",
+          "title": "Watch Taylor Swift Say She Feels ‘More Loyal’ to Her Country Roots Than Ever & Whip Up an Eras Tour-Coded Surprise Piano Mash-Up",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/taylor-swift-grammy-museum-august-all-too-well-mashup-video-1236323525/",
+          "category": "ia",
+          "published_at": "2026-08-25T00:16:05+00:00",
+          "summary": "The performance of \"I Knew It, I Knew You,\" \"August\" &#38; \"All Too Well\" came at the end of a Grammy Museum Q&#38;A with Harvey Mason jr.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2eea37bf4bcb",
+          "title": "ALL’N Is Billboard’s K-Pop Up & Comer of the Month for August: Exclusive Photos",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/alln-k-pop-up-and-comer-month-august-photos-1236321284/",
+          "category": "musique",
+          "published_at": "2026-08-25T00:00:16+00:00",
+          "summary": "The meaning behind his stage name ALL’N — both a play on “all in,” meaning to give it your all, and “olin,” a shortened form of “violin” — are important clues to understanding his music.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "articles": [
+        {
+          "id": "0382d72fa834",
+          "title": "Rick Ross Responds to 50 Cent’s Aging in Hip-Hop Comments: ‘F— What Your Age Is’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/rick-ross-50-cent-aging-in-hip-hop-1236323435/",
+          "category": "musique",
+          "published_at": "2026-08-24T23:34:17+00:00",
+          "summary": "50 recently told Apple Music that he doesn't release much music anymore because at his age, he doesn't want to be \"in the way.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4415424ad785",
+          "title": "Reggie Watts Dropped From Podcast Intro & Comedy Festivals After Report Alleging Disturbing Behavior in Romantic Relationships",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/reggie-watts-dropped-comedy-festivals-disturbing-report-1236323431/",
+          "category": "ia",
+          "published_at": "2026-08-24T22:46:48+00:00",
+          "summary": "A recent piece brought to light several claims of \"reckless\" drug use, psychological abuse &#38; more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40fdcaca2e46",
+          "title": "Beto y Sus Canarios Leader Edilberto Portillo ‘Is Alive’ After Armed Attack, His Family Says",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/beto-y-sus-canarios-portillo-alive-after-shooting-family-1236323459/",
+          "category": "musique",
+          "published_at": "2026-08-24T22:28:32+00:00",
+          "summary": "“Don Beto,” as he's known, was shot before a performance at the Rodeo Texcoco in Mexico on Saturday (Aug. 22)",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b181ac86d23a",
+          "title": "Jessica Simpson Updates Her Fashion Line for Fall as She Returns to Music & Preps New Documentary",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/jessica-simpson-walmart-fall-fashion-august-2026-1236323023/",
+          "category": "musique",
+          "published_at": "2026-08-24T21:48:42+00:00",
+          "summary": "A lineup of sweater tops, faux fur &#38; denim builds on Simpson’s fashion legacy at Walmart as she steps back into music after a 15-year hiatus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c28d0da42f50",
+          "title": "5 things to know about Round Hill’s Suno and Anthropic lawsuits: model weights, extraction tools, and a $75M number",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-round-hills-suno-and-anthropic-lawsuits-model-weights-extraction-tools-and-a-75m-number/",
+          "category": "ia",
+          "published_at": "2026-08-24T19:26:33+00:00",
+          "summary": "Round Hill says statutory damages could approach or exceed $1 billion in each case, and intends to take both Suno and Anthropic to trial.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f404fa10fd0",
+          "title": "Sony Music sues Ralphs parent Kroger over alleged copyright infringement in social media ads",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-sues-kroger-over-392-alleged-unauthorized-uses-of-its-recordings-in-social-media-ads/",
+          "category": "musique",
+          "published_at": "2026-08-24T19:08:37+00:00",
+          "summary": "The complaint states that Kroger disclosed advertising costs of approximately $1.18 billion in 2025.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09adbb5035d2",
+          "title": "« Ça m’inquiète pour plusieurs raisons » : il laisse Claude démonter le logiciel interne de ses appareils et affiche un bilan effroyable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2316933-ca-minquiete-pour-plusieurs-raisons-il-laisse-claude-demonter-le-logiciel-interne-de-ses-appareils-et-affiche-un-bilan-effroyable.html",
+          "category": "ia",
+          "published_at": "2026-08-24T18:50:00+00:00",
+          "summary": "Avec l’aide d’un agent IA, un chercheur en sécurité a réussi à prendre le contrôle de cinq périphériques du quotidien, de la webcam à la lampe connectée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6104cdd57240",
+          "title": "Olivia Rodrigo fights the scalpers, as Ticketmaster cancels batch of tickets that breached sale terms",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/olivia-rodrigo-fights-the-scalpers-as-ticketmaster-cancels-batch-of-tickets-that-breached-sale-terms/",
+          "category": "ia",
+          "published_at": "2026-08-24T18:48:33+00:00",
+          "summary": "Fans had to apply for the seats through a request window that closed on August 21 at 11:59pm ET, according to Ticketmaster.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c13ea4d7142",
+          "title": "Sauvetage du Starship : un navire spécial est sur zone pour repêcher la fusée géante",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2316773-le-sauvetage-hors-norme-de-la-fusee-geante-starship-se-prepare-un-bateau-special-est-sur-zone.html",
+          "category": "ia",
+          "published_at": "2026-08-24T18:43:45+00:00",
+          "summary": "Fin de la dérive pour le Starship. Pour rapatrier sa fusée géante depuis l'océan Indien sans l'abîmer davantage, SpaceX s'apprête à la hisser hors de l'eau grâce à un gigantesque navire semi-submersible.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99433a009bc7",
+          "title": "DSW reaches settlement in principle with Sony Music over music used in social media ads",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dsw-reaches-settlement-in-principle-with-sony-music-over-music-used-in-social-media-ads/",
+          "category": "musique",
+          "published_at": "2026-08-24T18:30:08+00:00",
+          "summary": "Financial terms were not disclosed in the filing, and the agreement between Sony and the retailer has yet to be executed.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "689a0dfa5d9f",
+          "title": "Gabz Landman promoted to Executive Vice President, A&R at Warner Chappell Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/gabz-landman-promoted-to-executive-vice-president-ar-at-warner-chappell-music/",
+          "category": "musique",
+          "published_at": "2026-08-24T18:11:52+00:00",
+          "summary": "Landman is based at the company's Los Angeles headquarters and will continue to report to Ryan Press, President, North America, WCM.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3994e7b0a23b",
+          "title": "J’ai testé le Google Pixel 11 Pro et j’ai l’impression d’avoir gardé mon Pixel 10 Pro",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2316699-jai-teste-le-google-pixel-11-pro-et-jai-limpression-davoir-garde-mon-pixel-10-pro.html",
+          "category": "ia",
+          "published_at": "2026-08-24T17:10:00+00:00",
+          "summary": "Un an après une gamme Pixel 10 très réussie, Google lance en août 2026 sa nouvelle génération de smartphones haut de gamme avec un nombre de nouveautés très limité. Outre une puce un peu plus puissante (Tensor G6), un témoin lumineux au dos (HiLight) et quelques améliorations en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6861e8996c64",
+          "title": "Orages du 24 août 2026 : les images saisissantes des tornades filmées dans le sud de la France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2317029-orages-du-24-aout-2026-les-images-saisissantes-des-tornades-filmees-dans-le-sud-de-la-france.html",
+          "category": "ia",
+          "published_at": "2026-08-24T16:31:29+00:00",
+          "summary": "Des orages impressionnants surviennent dans le sud de la France ce lundi 24 août 2026. Des internautes partagent des photos et vidéos de tornades, qui montrent la violence du phénomène météorologique en cours.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ce7b3151ec4",
+          "title": "Project Manager – Full Time Hobby – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/24/project-manager-full-time-hobby-london/",
+          "category": "musique",
+          "published_at": "2026-08-24T16:24:35+00:00",
+          "summary": "Full Time Hobby is a record label within the Full Time Hobby Music group, FTHM also includes the Hassle Records label as well as publishing and management.&#160; Full Time Hobby [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "095d36b63346",
+          "title": "Il donne un nom de domaine à Claude en lui disant de « faire ce qu’il veut » : voici le résultat",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2316885-il-donne-un-nom-de-domaine-a-claude-en-lui-disant-de-faire-ce-quil-veut-voici-le-resultat.html",
+          "category": "ia",
+          "published_at": "2026-08-24T16:04:56+00:00",
+          "summary": "Au début du mois d’août 2026, un développeur a confié un nom de domaine à Claude avec une consigne volontairement vague : construire ce qu’il voulait. Deux semaines plus tard, l’IA d’Anthropic administre un étrange réseau social conçu pour les agents IA, avec sa propre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46f155a6c346",
+          "title": "Amazon affiche enfin l’historique des prix : nous avons vérifié sa fiabilité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2316771-ce-nouveau-bouton-amazon-pourrait-vous-eviter-dacheter-au-pire-moment.html",
+          "category": "ia",
+          "published_at": "2026-08-24T15:55:00+00:00",
+          "summary": "Amazon commence à afficher directement l’historique des prix de certains produits. Une nouveauté prometteuse pour distinguer les vraies promotions des rabais trompeurs, mais peut-elle remplacer Keepa ? Nous avons comparé les deux outils.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "485701d75879",
+          "title": "Twitch accusé d’avoir donné les contenus de ses créateurs à Amazon et ses modèles IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/252963/twitch-accuse-davoir-donne-les-contenus-de-ses-createurs-a-amazon-et-ses-modeles-ia/",
+          "category": "ia",
+          "published_at": "2026-08-24T14:58:59+00:00",
+          "summary": "À la stupeur générale de bon nombre de créateurs de contenus, Twitch exploite automatiquement le contenu des chaînes pour entrainer les modèles IA d&#8217;Amazon. S&#8217;il est possible de désactiver l&#8217;option, elle est activée par défaut et les données de discussions dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2643ba3a0f56",
+          "title": "Sony rappelle aux joueurs qu’ils n’achètent pas vraiment leurs jeux",
+          "source": "Next INpact",
+          "url": "https://next.ink/252943/sony-rappelle-aux-joueurs-quils-nachetent-pas-vraiment-leurs-jeux/",
+          "category": "ia",
+          "published_at": "2026-08-24T14:06:30+00:00",
+          "summary": "La fin annoncée des jeux PlayStation sur support physique continue de faire grincer des dents. Et Sony ne calme pas vraiment le jeu en rappelant, dans un courriel envoyé à ses clients, que ses logiciels sont « concédés sous licence » plutôt que vendus. Une règle ancienne, mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9f0a0ffd70e",
+          "title": "☕️ Flock : Hey Zuck ! Leave the kids alone !",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flock-hey-zuck-leave-the-kids-alone/",
+          "category": "ia",
+          "published_at": "2026-08-24T12:59:00+00:00",
+          "summary": "Concernant la protection des enfants, Zuck a menti. Ces pauvres créatures ne peuvent même pas aller s’en plaindre à leurs parents parasités ! Zuck est un fichu sale gosse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a906e6955be6",
+          "title": "Taxe au gigaoctet, IA éthique : comment le Parti socialiste aborde le numérique",
+          "source": "Next INpact",
+          "url": "https://next.ink/252901/taxe-au-gigaoctet-ia-ethique-comment-le-parti-socialiste-aborde-le-numerique/",
+          "category": "ia",
+          "published_at": "2026-08-24T12:04:00+00:00",
+          "summary": "Le Parti socialiste se réunit les 28 et 29 août à Blois. Next détaille le pan numérique du projet socialiste, adopté en juin par ses militants. Comment le Parti socialiste perçoit-il la question numérique ? En juin, le parti adoptait son projet Socialiste, construit à partir des…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "e0110c65b2da",
           "title": "Décisions automatisées : sanction de près de 825 millions d’euros à l’encontre d’UBER",
@@ -12,6 +367,56 @@
           "category": "ia",
           "published_at": "2026-08-24T12:00:00+00:00",
           "summary": "En coopération avec la CNIL, l’autorité néerlandaise de protection des données a prononcé à l’encontre des sociétés UBER B.V. et UBER TECHNOLOGIES INC. une amende de 824&amp;nbsp;990&amp;nbsp;000 euros pour avoir pris des décisions individuelles automatisées concernant les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9748fea01e7",
+          "title": "Enseignement supérieur : les règles et bonnes pratiques pour utiliser des outils collaboratifs en ligne",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/enseignement-superieur-bonnes-pratiques-outils-collaboratifs",
+          "category": "cnil",
+          "published_at": "2026-08-24T12:00:00+00:00",
+          "summary": "Les établissements d’enseignement supérieur souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles applicables pour la mise en œuvre de ces outils.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "448f8af519cc",
+          "title": "Enseignement du premier et du second degrés : les règles et bonnes pratiques pour utiliser les outils collaboratifs en ligne",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/enseignement-premier-second-degres-bonnes-pratiques-outils-collaboratifs",
+          "category": "cnil",
+          "published_at": "2026-08-24T12:00:00+00:00",
+          "summary": "Les établissements du premier et du second degrés souhaitant recourir à des outils collaboratifs en ligne doivent se montrer vigilants concernant la protection des données personnelles. La CNIL rappelle les règles à suivre pour la mise en œuvre de ces outils.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67f460db321c",
+          "title": "☕️ Protection des enfants : TikTok solde une plainte des États-Unis pour 400M$",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/protection-des-enfants-tiktok-solde-une-plainte-des-etats-unis-pour-400m/",
+          "category": "ia",
+          "published_at": "2026-08-24T10:37:00+00:00",
+          "summary": "Le Department of Justice (DoJ) des États-Unis a annoncé vendredi 21 août avoir conclu un accord avec TikTok pour solder les poursuites engagées à son encontre en 2024 en raison d&#8217;une protection insuffisante des mineurs sur son réseau social. En échange de cet abandon,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3745f7c439ac",
+          "title": "Uber : 825 millions d’euros d’amende pour la suspension automatique de chauffeurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/252848/uber-825-millions-deuros-damende-pour-la-suspension-automatique-de-chauffeurs/",
+          "category": "cnil",
+          "published_at": "2026-08-24T09:45:00+00:00",
+          "summary": "L&#8217;autorité de protection des données néerlandaise a infligé à Uber une amende de 825 millions d&#8217;euros pour avoir enfreint le RGPD. Uber avait mis en place un système qui suspendait automatiquement les chauffeurs sans aucune décision humaine. L&#8217;Autoriteit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1e0342f0a04",
+          "title": "Believe India launches pop imprint BL/UR",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/24/believe-india-launches-pop-imprint-bl-ur/",
+          "category": "musique",
+          "published_at": "2026-08-24T09:35:38+00:00",
+          "summary": "Believe India has launched BL/UR, a new pop imprint “designed to blur in-country and global boundaries with a fresh, modern sound”. It follows their three existing regional language-specific imprints Neue, [&#8230;]\nThe post is from Music Ally.",
           "summary_type": "extrait source"
         },
         {
