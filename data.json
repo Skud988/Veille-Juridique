@@ -1,9 +1,344 @@
 {
-  "generated_at": "2026-08-25T09:00:08.993309+00:00",
+  "generated_at": "2026-08-26T09:02:05.303670+00:00",
   "days": [
+    {
+      "date": "2026-08-26",
+      "articles": [
+        {
+          "id": "30233db3e398",
+          "title": "IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ia-la-cnil-met-jour-son-outil-de-tracabilite-des-modeles-publies-en-source-ouverte",
+          "category": "ia",
+          "published_at": "2026-08-26T12:00:00+00:00",
+          "summary": "La CNIL publie une nouvelle version de son démonstrateur permettant d’explorer la généalogie des modèles d’IA publiés en source ouverte. Cette mise à jour améliore notamment les performances de l’outil, son ergonomie et automatise l’actualisation des données. Une version en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a97078cd877",
+          "title": "2 minutes de bonus si vous êtes pauvres, 4 si vous êtes riches : la ressortie d’Avengers Endgame divise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2318493-2-minutes-de-bonus-si-vous-etes-pauvres-4-si-vous-etes-riches-la-ressortie-davengers-endgame-divise.html",
+          "category": "ia",
+          "published_at": "2026-08-26T08:35:59+00:00",
+          "summary": "Nouveau drame au rayon de l'exploitation cinématographique. Alors que la billetterie vient d'ouvrir en France pour la ressortie-événement d’Avengers: Endgame, une condition tarifaire pour le moins absurde fait enrager la communauté Marvel. Pour avoir droit à la totalité du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc69cf836c98",
+          "title": "Ce compte X raconte l’actualité avec 25 ans de retard et son apothéose approche",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2318515-ce-compte-x-raconte-lactualite-avec-25-ans-de-retard-et-son-apotheose-approche.html",
+          "category": "ia",
+          "published_at": "2026-08-26T08:30:44+00:00",
+          "summary": "Depuis septembre 2022, le compte X @25YearsAgoLive publie l'actualité mondiale avec exactement 25 ans de décalage, jour pour jour. Il vient de passer la mort d'Aaliyah et arrivera au 11 septembre 2001 dans un peu plus de deux semaines. Ses 400 000 abonnés voient défiler, en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3144c9d2ff2",
+          "title": "gTLD : de nouvelles extensions arrivent : .gram, .coin, .agent ou peut-être .meta ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/253163/gtld-de-nouvelles-extensions-arrivent-gram-coin-agent-ou-peut-etre-meta/",
+          "category": "ia",
+          "published_at": "2026-08-26T08:25:27+00:00",
+          "summary": "Après 14 ans d’attente, de nouvelles extensions, ou plutôt de nouveaux domaines génériques de premier niveau (gTLD), vont bientôt voir le jour. L&#8217;ICANN a fermé les inscriptions au nouveau round de demandes. On devrait connaître officiellement toutes les candidatures en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "763772ee3edf",
+          "title": "Cette nouvelle carte gratuite permet de suivre les trains qui circulent en France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2317541-cette-nouvelle-carte-gratuite-permet-de-suivre-les-trains-qui-circulent-en-france.html",
+          "category": "ia",
+          "published_at": "2026-08-26T07:55:00+00:00",
+          "summary": "Où se trouve votre train ? À partir de ce 26 août 2026, TrainTracker24 permet de suivre sur une carte les trains de voyageurs qui circulent en France, en Espagne et en Belgique. Leur position ne sera toutefois pas transmise par GPS, mais estimée à partir des données des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd9ac25c8aae",
+          "title": "Camilo’s ‘Vida de Rico’ Enters YouTube’s Billion Views Club",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/camilo-vida-de-rico-youtube-billion-views-club-1236324776/",
+          "category": "ia",
+          "published_at": "2026-08-26T07:51:28+00:00",
+          "summary": "The Colombian singer and songwriter passes one billion streams on YouTube with his feel-good 2020 single “Vida de Rico.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d99fba646e2d",
+          "title": "Après l’annonce des Pixel 11, le Google Pixel 10a perd 200 € et devient enfin une bonne affaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2242879-apres-lannonce-des-pixel-11-le-google-pixel-10a-devient-enfin-une-bonne-affaire.html",
+          "category": "ia",
+          "published_at": "2026-08-26T07:49:48+00:00",
+          "summary": "[Deal du jour] Les Pixel 11 viennent d’être dévoilés, mais leur arrivée rend surtout le Pixel 10a beaucoup plus intéressant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df3c48f1ce1b",
+          "title": "☕️ Apple fracasse le prix d’un de ses produits phare (sa chiffonnette)",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-fracasse-le-prix-dun-de-ses-produits-phare-sa-chiffonnette/",
+          "category": "ia",
+          "published_at": "2026-08-26T07:47:00+00:00",
+          "summary": "L&#8217;événement est tel qu&#8217;il mérite bien que nous nous autorisions un brin de clickbait : Apple vient de revoir à la baisse, et dans des proportions substantielles, le prix de sa célèbre «&#160;chiffonnette&#160;». Historiquement affiché à 25 euros dans la version…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2acbdb545e1",
+          "title": "Chez Meta, les outils de protection des ados auraient été conçus pour éviter les procès",
+          "source": "Next INpact",
+          "url": "https://next.ink/253160/chez-meta-les-outils-de-protection-des-ados-auraient-ete-concus-pour-eviter-les-proces/",
+          "category": "ia",
+          "published_at": "2026-08-26T07:25:00+00:00",
+          "summary": "Au procès de Meta en Californie, le témoignage d’un ancien data scientist met à mal la défense du groupe sur la protection des adolescents. Des outils censés limiter les usages problématiques d’Instagram étaient très peu utilisés, sans que leur faible adoption semble beaucoup…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4da93f8f92ce",
+          "title": "☕️ X contraint Nitter et XCancel à suspendre leur service alternatif",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/x-contraint-nitter-et-xcancel-a-suspendre-leur-service-alternatif/",
+          "category": "ia",
+          "published_at": "2026-08-26T06:39:01+00:00",
+          "summary": "Le projet open source Nitter et l&#8217;une de ses instances XCancel constituent une alternative pour tous les internautes qui souhaitent consulter ou partager des publications X (anciennement Twitter) sans renvoyer de trafic vers la plateforme sociale détenue par Elon Musk,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8ddc4d931e3",
+          "title": "‘It’s Hard to Imagine The World Without Her’: Australia’s Prime Minister Anthony Albanese Reflects on Dolly Parton",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/australia-prime-minister-anthony-albanese-dolly-parton-1236324767/",
+          "category": "ia",
+          "published_at": "2026-08-26T06:36:57+00:00",
+          "summary": "“Dolly Parton made our world a better place in so many ways,\" recounts Australia's leader.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "271bbbfdfa6c",
+          "title": "Draco, le satellite de l’ESA qui va filmer sa propre destruction pour la bonne cause",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2317953-draco-le-satellite-de-lesa-qui-va-filmer-sa-propre-destruction-pour-la-bonne-cause.html",
+          "category": "ia",
+          "published_at": "2026-08-26T06:30:00+00:00",
+          "summary": "L'Agence spatiale européenne construit Draco, un satellite conçu pour se désintégrer en rentrant dans l'atmosphère, tout en filmant sa propre destruction de l'intérieur. Le but&nbsp;: apprendre à fabriquer des engins qui brûlent plus proprement et polluent moins nos orbites.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "634cd85c3c3d",
+          "title": "☕️ Passkeys multiples, nouveaux mots de passe : la sécurité des comptes WhatsApp renforcée",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/passkeys-multiples-nouveaux-mots-de-passe-la-securite-des-comptes-whatsapp-renforcee/",
+          "category": "ia",
+          "published_at": "2026-08-26T05:39:14+00:00",
+          "summary": "WhatsApp renforce les mesures de sécurité pour ses utilisateurs. D&#8217;abord en leur permettant de configurer plusieurs clés d&#8217;accès (passkeys) à leur compte : ils pourront de la sorte se connecter à leurs appareils iOS ou Android avec une authentification biométrique…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92eea0519212",
+          "title": "Savage Garden’s Darren Hayes’ Career Celebrated at Music In The House Gala",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/darren-hayes-music-in-the-house-awards-1236324733/",
+          "category": "musique",
+          "published_at": "2026-08-26T04:19:36+00:00",
+          "summary": "The Australian singer and songwriter received two awards on the night.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9edd0b4d143",
+          "title": "Ralph Carr, Australian Talent Manager Convicted of Rape, Sentenced to 6 Years’ Jail",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ralph-carr-talent-manager-convicted-rape-jail-sentence/",
+          "category": "ia",
+          "published_at": "2026-08-26T04:08:18+00:00",
+          "summary": "The disgraced promoter and artist manager will serve at least four years behind bars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e42f9237e19a",
+          "title": "Dolly Parton Chose Her Funeral Song More Than a Decade Ago & Left an Unreleased Song to Be Heard in 2046",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/dolly-parton-funeral-song-unreleased-song-time-capsule-1236324683/",
+          "category": "ia",
+          "published_at": "2026-08-26T01:55:29+00:00",
+          "summary": "\"I'm sure they'll be playing 'I Will Always Love You' when I die, just like they did with Whitney Houston,\" she said in a 2015 interview -- but she had a different pick.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b65e1f6ef92",
+          "title": "Watch Jack White Cover ‘Jolene’ in London Hours After Dolly Parton’s Death: ‘Instant Sainthood’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/jack-white-jolene-dolly-parton-death-london-cover-video-1236324671/",
+          "category": "musique",
+          "published_at": "2026-08-26T01:37:09+00:00",
+          "summary": "The Whites Stripes released their \"Jolene\" cover as a B-side in 2000 &#38; a live single in 2004.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8d290911231",
+          "title": "Dolly Parton Dead at 80: Music Executives Remember the Country Icon",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/dolly-parton-death-music-industry-reactions/",
+          "category": "musique",
+          "published_at": "2026-08-26T01:14:00+00:00",
+          "summary": "Following the music legend's passing at the age of 80, industry executives are sharing their reactions and condolences",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2924ef69ac5",
+          "title": "‘KPop Demon Hunters’ Has Led Billboard’s Top Soundtracks Chart for 57 Weeks: Only One Soundtrack Has Led Longer (Full List)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
+          "category": "musique",
+          "published_at": "2026-08-26T01:00:00+00:00",
+          "summary": "Will the K-pop megahit take the lead? We'll soon see.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "articles": [
+        {
+          "id": "a39fe987f273",
+          "title": "Gamescom 2026 : The Witcher 3 Remastered, Final Fantasy VII… le récap des annonces de l’Opening Night Live",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2317219-gamescom-2026-the-witcher-3-remastered-final-fantasy-vii-le-recap-des-annonces-de-lopening-night-live.html",
+          "category": "musique",
+          "published_at": "2026-08-25T20:31:54+00:00",
+          "summary": "Geralt reviendra deux fois, Gears of War: E-Day a enfin montré sa campagne et Final Fantasy VII Revelation s’est offert une nouvelle bande-annonce. Voici les principales annonces qu'il ne fallait pas rater lors de la conférence d’ouverture de la gamescom 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2913d11d7f2a",
+          "title": "The Witcher 3 Remastered est officiel, une version sublimée et offerte gratuitement aux joueurs qui ont déjà le jeu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2318347-the-witcher-3-remastered-est-officiel-une-version-sublimee-et-offerte-gratuitement-aux-joueurs-qui-ont-deja-le-jeu.html",
+          "category": "ia",
+          "published_at": "2026-08-25T20:20:18+00:00",
+          "summary": "CD Projekt Red remasterise The Witcher 3 et l'offre gratuitement à qui possède déjà le jeu. Sortie le 29 septembre 2026 sur presque toutes les plateformes, les deux extensions comprises.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "230dfdb1a69f",
+          "title": "1666: Amsterdam, l’héritier spirituel d’Assassin’s Creed a encore du boulot",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2317787-1666-amsterdam-lheritier-spirituel-dassassins-creed-a-encore-du-boulot.html",
+          "category": "ia",
+          "published_at": "2026-08-25T19:30:00+00:00",
+          "summary": "Après un intrigant prologue dévoilé avant l'été (et toujours jouable gratuitement), 1666: Amsterdam est désormais disponible en early access sur PC. Sans doute en quête de cash pour finaliser le développement, Panache Digital a pris le risque de sortir du four un plat pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf9526f5f04b",
+          "title": "The Amazon Pain Forest",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-amazon-pain-forest/",
+          "category": "musique",
+          "published_at": "2026-08-25T18:15:56+00:00",
+          "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3c895ecfca0",
+          "title": "ChatGPT Plus : OpenAI rétablit la limite des cinq heures sur Codex et Work, six semaines après l’avoir supprimée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2317749-chatgpt-plus-openai-retablit-la-limite-des-cinq-heures-sur-codex-et-work-six-semaines-apres-lavoir-supprimee.html",
+          "category": "ia",
+          "published_at": "2026-08-25T17:02:00+00:00",
+          "summary": "Quelques semaines après l'avoir levée, OpenAI réactive sa limite des cinq heures sur Codex et ChatGPT Work pour les abonnés Plus, qui doivent de nouveau composer avec deux plafonds au lieu d'un.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef1e24c4fc06",
+          "title": "Universal, Sony, Warner join $76M funding round in Stability AI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-sony-warner-join-76m-funding-round-in-stability-ai/",
+          "category": "musique",
+          "published_at": "2026-08-25T16:22:20+00:00",
+          "summary": "The three major music companies have all just banked equity in Stability AI &#8211; by joining a USD $76 million Series B investment into the gen-AI company. Universal Music Group, Sony Music Group, and Warner Music Group join a Series B investor coalition that also includes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7eaec2171496",
+          "title": "☕️ OpenAI bannit les comptes ChatGPT d’une opération russe de désinformation",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openai-bannit-les-comptes-chatgpt-dune-operation-russe-de-desinformation/",
+          "category": "ia",
+          "published_at": "2026-08-25T15:33:38+00:00",
+          "summary": "OpenAI a supprimé un certain nombre de comptes ChatGPT connectés à une opération russe de désinformation. Ces derniers généraient des messages sur les réseaux sociaux pour faire la promotion de l&#8217;IBI (International Burke Institute), une soi-disant «&#160;communauté…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8feb9448c00c",
+          "title": "Les taxis autonomes Waymo arrivent en Allemagne : l’Europe va vivre cette révolution",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2317935-les-taxis-autonomes-waymo-arrivent-en-allemagne-leurope-va-vivre-cette-revolution.html",
+          "category": "ia",
+          "published_at": "2026-08-25T15:16:14+00:00",
+          "summary": "Dans un billet de blog, Waymo annonce son arrivée à Munich. Les premiers véhicules de la filiale d'Alphabet rouleront en conduite manuelle dans les prochaines semaines, avec pour objectif de lancer le service commercial sans chauffeur « vers la fin 2027 ». C'est le premier pays…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3781283edfb7",
+          "title": "Une éclipse de Lune est visible en France le 28 août 2026 : faut-il des lunettes spéciales pour la regarder ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2317755-une-eclipse-de-lune-est-visible-en-france-le-28-aout-2026-faut-il-des-lunettes-speciales-pour-la-regarder.html",
+          "category": "ia",
+          "published_at": "2026-08-25T14:45:07+00:00",
+          "summary": "Les Français se préparent à une nouvelle éclipse à la fin du mois d'août 2026. Quelques jours après l'éclipse solaire du 12 août, c'est la Lune qui passe dans l'ombre de la Terre. Mais faut-il protéger encore une fois ses yeux pour l'observer sans danger ? Devez-vous réutiliser…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b25a849d98e4",
+          "title": "Apple muscle les Mac mini et Mac Studio avec les puces M6 et M5 Ultra taillées pour l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/253101/apple-muscle-les-mac-mini-et-mac-studio-avec-les-puces-m6-et-m5-ultra-taillees-pour-lia/",
+          "category": "ia",
+          "published_at": "2026-08-25T14:34:23+00:00",
+          "summary": "Apple n&#8217;attend pas son événement de rentrée pour dévoiler dès à présent de nouveaux Mac mini et Studio, ainsi que de nouvelles puces M5 Ultra et M6 toutes taillées pour l&#8217;IA. Deux nouveaux Mac mini, deux nouveaux Mac Studio, deux nouvelles puces. La fin de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d59ed7513d8",
+          "title": "En moins de 12 mois, l’ambitieux projet automobile de Dreame tourne au fiasco (un record)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2317879-du-0-a-100-km-h-en-09-s-a-labandon-en-12-mois-le-fiasco-automobile-de-dreame.html",
+          "category": "ia",
+          "published_at": "2026-08-25T14:30:00+00:00",
+          "summary": "Le spécialiste des aspirateurs-robots Dreame a battu un nouveau record&nbsp;: celui du projet automobile le plus court de l’histoire récente. En 12 mois, l’entreprise a promis la lune avant de fermer sa division automobile, lestée de plusieurs casseroles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3361b279785",
+          "title": "« Un jeu acheté aujourd’hui sera-t-il encore jouable dans 30 ans ? »",
+          "source": "Next INpact",
+          "url": "https://next.ink/250892/un-jeu-achete-aujourdhui-sera-t-il-encore-jouable-dans-30-ans/",
+          "category": "ia",
+          "published_at": "2026-08-25T13:06:26+00:00",
+          "summary": "Il faut parfois fouiller un peu pour trouver un bouquin sorti il y a deux siècles, regarder un film de Méliès, admirer une toile de la Renaissance ou écouter de la pop-indus de l&#8217;underground finlandais des années 80… mais dans la plupart des cas, et avec un peu de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44417aaf537a",
+          "title": "Des chercheurs listent les centaines de jeux de données menacés par l’administration Trump",
+          "source": "Next INpact",
+          "url": "https://next.ink/252930/des-chercheurs-listent-les-centaines-de-jeux-de-donnees-menaces-par-ladministration-trump/",
+          "category": "justice",
+          "published_at": "2026-08-25T10:17:00+00:00",
+          "summary": "375 jeux de données ont été touchés par les décisions de l&#8217;administration Trump depuis son retour. La collecte de certains a été arrêtée, d&#8217;autres ont été altérés ou même tout simplement supprimés. Des chercheurs essayent de recenser les jeux de données concernés. Un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59fed6e12d13",
+          "title": "☕️ La mutuelle Solimut alerte sur une violation de données personnelles",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-mutuelle-solimut-alerte-sur-une-violation-de-donnees-personnelles/",
+          "category": "ia",
+          "published_at": "2026-08-25T09:04:00+00:00",
+          "summary": "La mutuelle Solimut, qui revendique 535 000 adhérents, a alerté lundi «&#160;sur une cyberattaque ayant entrainé une violation de données personnelles en début de journée ce dimanche 23 août 2026&#160;». Sur son site, elle indique que ses équipes ont rapidement mis un terme à…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "7da5b47588f6",
           "title": "Réseaux sociaux : la loi bannissant les moins de 15 ans est castrée, mais une interdiction a survécu pour la rentrée",
@@ -22,6 +357,16 @@
           "category": "ia",
           "published_at": "2026-08-25T08:31:00+00:00",
           "summary": "Ce 23 août, l’humoriste Alicia C’est Tout repérait un biais raciste dans les résumés IA de Google. Next a reproduit et étendu son expérience sur les modèles de langage les plus couramment utilisés, et constate chez la production de stéréotypes en fonction de diverses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14d1c9501614",
+          "title": "Face aux Algériens ou aux Gitans, Gemini, ChatGPT et Claude présentent des biais racistes",
+          "source": "Next INpact",
+          "url": "https://next.ink/252987/face-aux-algeriens-ou-aux-gitans-gemini-chatgpt-et-claude-presentent-des-biais-racistes/",
+          "category": "ia",
+          "published_at": "2026-08-25T08:31:00+00:00",
+          "summary": "Ce 23 août, l’humoriste Alicia C’est Tout repérait un biais raciste dans les résumés IA de Google. Next a reproduit et étendu son expérience sur les modèles de langage les plus couramment utilisés, et constate la production de stéréotypes en fonction de diverses nationalités ou…",
           "summary_type": "extrait source"
         },
         {
