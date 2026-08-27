@@ -1,9 +1,614 @@
 {
-  "generated_at": "2026-08-26T09:02:05.303670+00:00",
+  "generated_at": "2026-08-27T19:04:41.354320+00:00",
   "days": [
+    {
+      "date": "2026-08-27",
+      "articles": [
+        {
+          "id": "cb6d6f71a926",
+          "title": "Judge refuses to dismiss indie artist’s proposed class action against Suno, clearing AI output and stream-ripping claims for discovery",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-refuses-to-dismiss-indie-artists-proposed-class-action-against-suno-clearing-ai-output-and-stream-ripping-claims-for-discovery/",
+          "category": "ia",
+          "published_at": "2026-08-27T18:59:12+00:00",
+          "summary": "Only one count fell: a claim under the Tennessee Consumer Protection Act, which the plaintiffs told the court they had cited by mistake.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5062ce469975",
+          "title": "The Best Hilton Hotels for a Music-Filled Nashville Staycation",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/hilton-where-to-stay-nashville-book-hotels-online-1236321439/",
+          "category": "musique",
+          "published_at": "2026-08-27T18:28:45+00:00",
+          "summary": "From live music and rooftop cocktails to art-filled spaces and rooms designed for groups, these downtown Hilton hotels make it easy to experience Music City without leaving town.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fe64a6aa8d2",
+          "title": "How Dolly Parton’s Music Gave Whitney Houston & Beyoncé Milestone Chart Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/dolly-parton-whitney-houston-beyonce-chart-1236326426/",
+          "category": "musique",
+          "published_at": "2026-08-27T18:28:08+00:00",
+          "summary": "“I Will Always Love You” became a record-setting No. 1, while “Jolene” was reinterpreted 50 years after the original reigned at country.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff6df57d09ff",
+          "title": "Olivia Rodrigo Is Considering Covering a New Song From This Fellow Pop A-Lister",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-cover-ariana-grande-song-petal-1236326381/",
+          "category": "ia",
+          "published_at": "2026-08-27T18:13:05+00:00",
+          "summary": "The star also teased her Daisy Chain Fields festival.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8556f657421a",
+          "title": "Alex Warren on Honoring His Parents on ‘WILDCHILD’ & His Wife’s Reaction to Another Love Song: ‘She’s Like, ‘I Get It, You Like Me”",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/alex-warren-wildchild-album-interview-love-songs-wife-1236325949/",
+          "category": "musique",
+          "published_at": "2026-08-27T18:09:35+00:00",
+          "summary": "The \"Ordinary\" singer stops by the Billboard News studio to talk inspiration &#38; pending fatherhood.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bee6b2ba44a8",
+          "title": "See the Best Dolly Parton Musical Tributes, From Harry Styles, Katy Perry, John Mayer, Jack White & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/dolly-parton-covers-tributes-songs-death/",
+          "category": "musique",
+          "published_at": "2026-08-27T18:00:34+00:00",
+          "summary": "Even Vin Diesel got in on the outpouring of love for the late country icon, who died Aug. 25 at age 80.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ed6cf012df9",
+          "title": "Suivez en direct le 9e vol d’Ariane 6, en route vers une orbite que la fusée n’a jamais atteinte",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2319417-suivez-en-direct-le-vol-dariane-6-en-route-vers-une-orbite-que-la-fusee-na-jamais-atteinte.html",
+          "category": "ia",
+          "published_at": "2026-08-27T17:52:35+00:00",
+          "summary": "Ce soir, Ariane 6 s’attaque à une destination inédite pour son 9e vol : l'orbite de transfert géostationnaire. Un lancement stratégique pour l'Europe, à suivre en direct, qui doit prouver la capacité du nouveau lanceur à succéder dignement à Ariane 5.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31bd3c1dc3af",
+          "title": "A List of All the Guests in Rosalía’s Confessional on Her ‘LUX’ Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/list-all-guests-rosalias-confessional-lux-tour/",
+          "category": "musique",
+          "published_at": "2026-08-27T17:17:00+00:00",
+          "summary": "The singer has invited celebrities ranging from Aitana and Marcello Hernández to Yeri Mua and Chappell Roan to share secrets about their love lives onstage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dfbbbf0076ef",
+          "title": "Lauren Alaina Breaks Down 5 Essential Tracks From Her New Album ‘Stages’: ‘I Am in the Best Stage of My Life, Ever’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/lauren-alaina-stages-essential-tracks/",
+          "category": "ia",
+          "published_at": "2026-08-27T17:13:25+00:00",
+          "summary": "The country hitmaker reflects on the album that looks at life's highs and lows.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8fc85ce125c",
+          "title": "C’est le grand jour pour GTA 6 : suivez en direct la conférence de présentation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2319695-cest-le-grand-jour-pour-gta-6-suivez-en-direct-la-conference-de-presentation.html",
+          "category": "ia",
+          "published_at": "2026-08-27T17:01:00+00:00",
+          "summary": "13 ans après GTA 5, Rockstar Games s'apprête enfin à dévoiler GTA 6, son successeur en développement depuis plus d'une décennie lors d'un événement diffusé en direct sur Netflix. Après quatre ans de teasing, le jeu le plus attendu du siècle ne devrait plus avoir de secret.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a3922802642",
+          "title": "☕️ Operation Bluebird : la start-up qui voulait relancer Twitter (.now)",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/operation-bluebird-la-start-up-qui-voulait-relancer-twitter-now/",
+          "category": "institutionnel",
+          "published_at": "2026-08-27T15:45:58+00:00",
+          "summary": "La première alerte date de la fin 2025. En décembre, une start-up de l&#8217;État de Virginie, aux États-Unis, avait alors déposé un dossier devant le bureau fédéral des brevets et des marques, dans lequel elle affirmait que X avait abandonné les noms Twitter et Tweet et les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1f987a51080",
+          "title": "Compagnons IA : l’aboutissement du capitalisme de la solitude ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/253381/compagnons-ia-laboutissement-du-capitalisme-de-la-solitude/",
+          "category": "ia",
+          "published_at": "2026-08-27T15:34:00+00:00",
+          "summary": "Après la captation et la monétisation de l’attention, un rapport de la Fondation Jean Jaurès pointe les risques que les sociétés d’IA créent en matière de monétisation de la solitude. «&#160;Augmenter l’isolement, c’est augmenter la consommation numérique.&#160;» Et pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "966def9ba4a9",
+          "title": "« Voiture de course du quotidien » : Hyundai fait une surprise aux amateurs de sportives avec une berline de 650 ch",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2319831-voiture-de-course-du-quotidien-hyundai-fait-une-surprise-aux-amateurs-de-sportives-avec-une-berline-de-650-ch.html",
+          "category": "ia",
+          "published_at": "2026-08-27T14:59:00+00:00",
+          "summary": "Hyundai annonce l'arrivée en France de la Ioniq 6 N, la déclinaison hautes performances de sa berline électrique. Avec 650 chevaux, un 0 à 100 km/h en 3,2 secondes et une panoplie de technologies héritées du sport automobile, la marque coréenne entend transposer l'expérience de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dbf06482493c",
+          "title": "NVIDIA en passe de racheter Hugging Face pour 12,9 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/253379/nvidia-en-passe-de-racheter-hugging-face-pour-129-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-08-27T14:54:19+00:00",
+          "summary": "D&#8217;après plusieurs sources convergentes, NVIDIA est en passe de boucler l&#8217;acquisition de Hugging Face, le célèbre «&#160;GitHub des modèles IA&#160;», pour 12,9 milliards de dollars. Le géant des GPU s&#8217;apprête ainsi à mettre la main sur l&#8217;un des carrefours…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b1e7f364b86",
+          "title": "Éclipse lunaire du 28 août 2026 : 96 % de la Lune dans l’ombre de la Terre, comment la suivre en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2318993-eclipse-lunaire-du-28-aout-2026-96-de-la-lune-dans-lombre-de-la-terre-comment-la-suivre-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-08-27T14:50:26+00:00",
+          "summary": "L'éclipse de Soleil du 12 août 2026 vous a épatés ? Bonne nouvelle : une autre éclipse a lieu dans la nuit du 27 au 28 août ! Pour suivre cette éclipse de Lune, vous avez le choix : l'observer en vrai depuis la France, mais aussi la vivre en direct et en ligne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89e0aa9672cf",
+          "title": "La marque Carhartt au cœur d’un immense chantage : les données de 13 millions de clients jetées dans la nature",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2319807-la-marque-carhartt-au-coeur-dun-immense-chantage-les-donnees-de-13-millions-de-clients-jetees-dans-la-nature.html",
+          "category": "ia",
+          "published_at": "2026-08-27T14:39:00+00:00",
+          "summary": "Le groupe d'extorsion ShinyHunters a mis en ligne des données volées à la marque de vêtements américaine, après l'échec d'une tentative de rançon de 3,3 millions de dollars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d18ba572a45",
+          "title": "Hugging Face lance un mini robot-canard à entraîner soi-même",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2319771-hugging-face-lance-un-mini-robot-canard-a-entrainer-soi-meme.html",
+          "category": "ia",
+          "published_at": "2026-08-27T14:31:41+00:00",
+          "summary": "Le 27 août 2026, Hugging Face et sa filiale française Pollen Robotics ont dévoilé Microduck, un petit robot-canard open source à 399 dollars, capable de marcher, de saisir des objets et d’apprendre de nouveaux mouvements dans une simulation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3385b4211085",
+          "title": "Le film Michael est dispo dans votre salon, où le voir en streaming et VOD ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2319809-ou-voir-le-film-michael-en-streaming-en-france.html",
+          "category": "justice",
+          "published_at": "2026-08-27T14:22:00+00:00",
+          "summary": "Après avoir dépassé le milliard de dollars au box-office mondial – un record pour un biopic, le biopic-événement sur le roi de la pop débarque enfin sur nos écrans domestiques. Alors, où voir Michael en streaming et en VOD ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30252a7758c6",
+          "title": "« Deux ans et demi pour autoriser un data center IA en France » : le patron d’Iliad (Free) veut aller plus vite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2319805-deux-ans-et-demi-pour-autoriser-un-data-center-ia-en-france-le-patron-diliad-free-veut-aller-plus-vite.html",
+          "category": "ia",
+          "published_at": "2026-08-27T14:11:31+00:00",
+          "summary": "Iliad a profité de la présentation de ses résultats semestriels, le 27 août 2026, pour faire un point sur ses activités dans l'intelligence artificielle. Le groupe de Xavier Niel refuse de communiquer des chiffres précis sur Scaleway et Kyutai, mais revendique une croissance de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f5e9b47d418",
+          "title": "Si The Witcher 3 Remastered est aussi beau, et existe, c’est aussi grâce à ce fan",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2319787-si-the-witcher-3-remastered-est-aussi-beau-et-existe-cest-aussi-grace-a-ce-fan.html",
+          "category": "ia",
+          "published_at": "2026-08-27T14:09:51+00:00",
+          "summary": "Halk Hogan n'est pas salarié de CD Projekt Red, mais une bonne partie de son mod se retrouvera dans The Witcher 3 Remastered, prévu pour le 29 septembre 2026. La preuve qu'un fan passionné peut finir par co-signer un jeu officiel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed0755c83ae1",
+          "title": "Google interpose ses propres liens dans les résultats de recherche",
+          "source": "Next INpact",
+          "url": "https://next.ink/253403/google-interpose-ses-propres-liens-dans-les-resultats-de-recherche/",
+          "category": "ia",
+          "published_at": "2026-08-27T13:33:15+00:00",
+          "summary": "Google déploie discrètement un changement important sur son moteur de recherche. Les liens directs dans les résultats sont remplacés par des liens intermédiaires commençant par google.com/goto?. Une « mesure technique » pour se protéger des abus, explique l&#8217;entreprise. Les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dcf9930fad3c",
+          "title": "Alien : Ridley Scott veut faire un nouveau film  qui va encore faire râler les fans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2319645-alien-ridley-scott-veut-faire-un-nouveau-film-autour-de-david-et-tease-le-scenario.html",
+          "category": "ia",
+          "published_at": "2026-08-27T13:21:00+00:00",
+          "summary": "Ridley Scott n’en a visiblement pas terminé avec Alien. Le réalisateur veut développer un troisième préquel, avec David, l’androïde incarné par Michael Fassbender, au cœur de l’histoire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c02c6efbd35",
+          "title": "Pas de rappel massif de Tesla en Europe à cause des poignées de portes, comme l’a fait la Chine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2319615-pas-de-rappel-massif-de-tesla-en-europe-a-cause-des-poignees-de-portes-comme-la-fait-la-chine.html",
+          "category": "ia",
+          "published_at": "2026-08-27T13:00:57+00:00",
+          "summary": "Le régulateur néerlandais RDW affirme qu'aucune procédure de rappel pour Tesla n'est prévue en Europe concernant les poignées de portes. L'agence indique toutefois suivre le dossier de près, alors que la question de l'ouverture des portes en cas d'urgence fait toujours l'objet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6810b38ce320",
+          "title": "SeatGeek is the latest ticketing firm to add conversational AI",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/27/seatgeek-is-the-latest-ticketing-firm-to-add-conversational-ai/",
+          "category": "ia",
+          "published_at": "2026-08-27T12:30:00+00:00",
+          "summary": "Pretty much every major ticketing service wants customers to chat to it in 2026, whether through connections with Claude, ChatGPT and Gemini; integrations with Alexa+ and smart speakers; or their own chatbots.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c514f38b88a",
+          "title": "TikTok is livestreaming Alex Warren’s Sydney concert this week",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/27/tiktok-is-livestreaming-alex-warrens-sydney-concert-this-week/",
+          "category": "musique",
+          "published_at": "2026-08-27T12:30:00+00:00",
+          "summary": "TikTok is throwing its weight behind ‘Wildchild’, the new album from Alex Warren, while continuing its push into the concert-livestreaming space.\nWarren is due to play a gig at Sydney’s Afterpay Arena tomorrow (28 August) and the performance will now be streamed live on TikTok…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24786e18e088",
+          "title": "Wellbeing service Headspace is being acquired for up to $300m",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/27/wellbeing-service-headspace-is-being-acquired-for-up-to-300m/",
+          "category": "musique",
+          "published_at": "2026-08-27T12:30:00+00:00",
+          "summary": "Back in the day, we wrote quite regularly about Headspace, the meditation and mindfulness startup. Not least because it was doing some things around music. It launched a joint subscription with Spotify in 2016; appointed John Legend as its ‘chief music officer’ in 2020;…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "257fd878eb61",
+          "title": "SpaceX prévoit de créer une base de lancement gigantesque en Louisiane pour Starship",
+          "source": "Next INpact",
+          "url": "https://next.ink/253355/spacex-prevoit-de-creer-une-base-de-lancement-gigantesque-en-louisiane-pour-starship/",
+          "category": "ia",
+          "published_at": "2026-08-27T12:02:00+00:00",
+          "summary": "L&#8217;entreprise d&#8217;Elon Musk a promis d&#8217;investir 100 milliards de dollars dans une nouvelle base pour Starship située en Louisiane. Le gouverneur républicain de l&#8217;État s&#8217;en félicite mais l&#8217;entreprise doit encore obtenir certains permis pour lancer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03f25d952d75",
+          "title": "Prix de GTA 6, précommande, date de sortie, personnages… tout savoir sur le jeu de Rockstar",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1542136-gta-vi-ce-que-lon-sait-sur-le-prochain-jeu-de-rockstar-games.html",
+          "category": "ia",
+          "published_at": "2026-08-27T12:00:14+00:00",
+          "summary": "Après les précommandes de Grand Theft Auto 6, ouvertes le 25 juin 2026, place maintenant au large aperçu promis par Rockstar Games ce 27 août, sur Netflix. Prix, éditions de GTA 6, date de sortie : voici les principales informations à retenir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5cac990523e1",
+          "title": "Sensibiliser les élèves de CM2 à la protection des données",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/sensibiliser-les-eleves-de-cm2-la-protection-des-donnees",
+          "category": "cnil",
+          "published_at": "2026-08-27T12:00:00+00:00",
+          "summary": "En 2026, la CNIL a sensibilisé 2&amp;nbsp;500 élèves de CM2 du département de l’Oise aux enjeux du numérique et à la protection des données personnelles. Vous êtes enseignant(e)&amp;nbsp;? Retrouvez, dans cette page, les ressources pour reproduire ce projet pédagogique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32bb715d0f2c",
+          "title": "Rachat de SFR : Free promet de ne pas toucher aux forfaits existants",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2319703-rachat-de-sfr-free-promet-de-ne-pas-toucher-aux-forfaits-existants.html",
+          "category": "ia",
+          "published_at": "2026-08-27T11:40:00+00:00",
+          "summary": "Lors de la présentation de ses résultats semestriels le 27 août 2026, Free a donné des détails sur le rachat de SFR et sa récupération des abonnés Red by SFR. L'opérateur promet une migration « sans couture » et indique qu'aucun changement de tarification n'est prévu pendant la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8256e02a2ac",
+          "title": "Trois sorties en trois semaines : Sophie Adenot va commander une EVA 100 % féminine, une première",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2319475-trois-sorties-en-trois-semaines-sophie-adenot-va-commander-une-eva-100-feminine-une-premiere.html",
+          "category": "ia",
+          "published_at": "2026-08-27T11:09:26+00:00",
+          "summary": "Le 1er septembre, l'astronaute française Sophie Adenot boucle sa troisième sortie dans l'espace en trois semaines. Cette fois avec l'Américaine Jessica Meir&nbsp;: deux femmes seules dans le vide, une première pour une Française.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36ef2a19dd35",
+          "title": "Ring promet un chiffrement vidéo plus strict par défaut",
+          "source": "Next INpact",
+          "url": "https://next.ink/253325/ring-promet-un-chiffrement-video-plus-strict-par-defaut/",
+          "category": "ia",
+          "published_at": "2026-08-27T10:12:00+00:00",
+          "summary": "Ring veut renforcer la confidentialité de ses sonnettes et caméras connectées, sans sacrifier pour autant toutes ses fonctions de traitement infonuagique des images. La filiale d’Amazon va déployer TAKE, un nouveau chiffrement par défaut qui limite l’accès de ses serveurs aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "678384a1578a",
+          "title": "Meta draws YouTube and TikTok into $18bn child-safety settlement",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/27/meta-draws-youtube-and-tiktok-into-18bn-child-safety-settlement/",
+          "category": "ia",
+          "published_at": "2026-08-27T09:27:29+00:00",
+          "summary": "Earlier this month, a trial in a California federal court began that pitted Meta against state attorneys general. Now it&#8217;s been settled.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b64c10ee32e",
+          "title": "Un an après, l’efficacité de la vérification d’âge sur les sites pornos reste à prouver",
+          "source": "Next INpact",
+          "url": "https://next.ink/253305/un-an-apres-lefficacite-de-la-verification-dage-sur-les-sites-pornos-reste-a-prouver/",
+          "category": "loi",
+          "published_at": "2026-08-27T09:20:00+00:00",
+          "summary": "Un an après la mise en œuvre du dispositif de vérification de l&#8217;âge aux portes des sites pornographiques, un sondage permet de tirer un premier bilan pour le moins contrasté de ce dispositif de la loi SREN. Après bien des soubresauts, l&#8217;obligation de contrôle de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84f733cedb5b",
+          "title": "☕️ Garantie sans IA, LibreOffice 26.8 équilibre mieux les textes justifiés",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/garantie-sans-ia-libreoffice-26-8-equilibre-mieux-les-textes-justifies/",
+          "category": "ia",
+          "published_at": "2026-08-27T08:54:00+00:00",
+          "summary": "La Document Foundation a publié mercredi 26 août la version 26.8 de sa suite bureautique libre et gratuite, LibreOffice. Chacun de ses six outils (Writer, Calc, Draw, Base, Impress et Math) profite d&#8217;améliorations et d&#8217;optimisations diverses, avec des clients…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ae06707de4b",
+          "title": "2026 : l’été où les affiches IA ont inondé la France",
+          "source": "Next INpact",
+          "url": "https://next.ink/253290/2026-lete-ou-les-affiches-ia-ont-inonde-la-france/",
+          "category": "ia",
+          "published_at": "2026-08-27T08:18:02+00:00",
+          "summary": "Pour annoncer des fêtes de village, des promotions ou le prochain concours de pétanque, les affiches IA se multiplient partout en France. Au point, cet été, d’avoir suscité des débats sur leur bien-fondé. Celles et ceux qui ont pu partir en vacances s’en sont rendus compte en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79b2a409ee29",
+          "title": "☕️ La Norvège pourrait durcir sa législation sur les lunettes connectées",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-norvege-pourrait-durcir-sa-legislation-sur-les-lunettes-connectees/",
+          "category": "ia",
+          "published_at": "2026-08-27T07:09:43+00:00",
+          "summary": "Le gouvernement norvégien vient d&#8217;annoncer sa volonté d&#8217;encadrer plus strictement les lunettes connectées. Cette volonté arrive alors que la grogne s’amplifie contre les lunettes Meta un peu partout. « Nous constatons que la vie privée et la protection des données…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4369f174d4e3",
+          "title": "Meta : un plan de Zuckerberg pour licencier 60 % du personnel abandonné suite à une fronde",
+          "source": "Next INpact",
+          "url": "https://next.ink/253254/meta-un-plan-de-zuckerberg-pour-licencier-60-du-personnel-abandonne-suite-a-une-fronde/",
+          "category": "ia",
+          "published_at": "2026-08-27T06:35:51+00:00",
+          "summary": "Pendant tout le premier trimestre 2026, la direction de Meta, emmenée par Mark Zuckerberg, a imaginé un plan de restructuration dans lequel elle profitait de l&#8217;IA pour se débarrasser de 60 % de ses salariés. Face à la fronde des salariés, la direction a réduit son ambition…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "362afbc67d71",
+          "title": "Xbox numérise les jeux physiques sans enterrer les disques",
+          "source": "Next INpact",
+          "url": "https://next.ink/253318/xbox-numerise-les-jeux-physiques-sans-enterrer-les-disques/",
+          "category": "ia",
+          "published_at": "2026-08-27T05:10:09+00:00",
+          "summary": "Le futur du jeu vidéo sera dématérialisé (il l&#8217;est déjà largement), mais Xbox n&#8217;abandonne pas pour autant les bons vieux supports physiques au bord de l&#8217;autoroute du progrès. Le constructeur a lancé, après des mois de rumeurs, un nouveau service permettant en…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "articles": [
+        {
+          "id": "661108d25fa1",
+          "title": "Luminate launches AI music identification framework, with ‘AI Generated’ labels reaching CONNECT later this year",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/luminate-launches-ai-music-identification-framework-with-ai-generated-labels-reaching-connect-later-this-year/",
+          "category": "musique",
+          "published_at": "2026-08-26T17:49:31+00:00",
+          "summary": "Luminate says its CONNECT platform \"can now flag AI-generated songs and artists worldwide.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1098994a3f69",
+          "title": "Strategy Spotlight: Country Profile South Korea",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/strategy-spotlight-country-profile-south-korea/",
+          "category": "musique",
+          "published_at": "2026-08-26T17:34:43+00:00",
+          "summary": "South Korea remains a top-10 global recorded music market and a world leader in superfan monetization. In our latest Country Profile, we dive into the latest numbers, market insights and marketing strategies for artists trying to break into the market.\nThe post is from Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfae2da08a2a",
+          "title": "Zara Larsson’s push to sell out Bangkok show",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/zara-larssons-push-to-sell-out-bangkok-show/",
+          "category": "musique",
+          "published_at": "2026-08-26T17:31:29+00:00",
+          "summary": "There’s been a lot of noise around Zara Larsson this week. First, she started posting&#160;daily dance videos&#160;to her song “Midnight Sun” with the caption “Day X of doing the midnight [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5436d442652c",
+          "title": "How Trippie Redd creatively marketed his new album during release week",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/how-trippie-redd-creatively-marketed-his-new-album-during-release-week/",
+          "category": "musique",
+          "published_at": "2026-08-26T17:27:50+00:00",
+          "summary": "Experiential marketing has been a major trend in music marketing over the last 1–2 years. It seems like artists and their teams need to be ever more creative when it comes to announcing and marketing upcoming releases. As such, the industry is increasingly moving towards…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20144f08d808",
+          "title": "What artist teams need to know about X’s feed algorithm updates",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/what-artist-teams-need-to-know-about-xs-feed-algorithm-updates/",
+          "category": "musique",
+          "published_at": "2026-08-26T17:24:46+00:00",
+          "summary": "X, formerly Twitter, is certainly not as important for artist campaigns as it once was, though as Andre Benz, co-founder and CEO of broke Records, shared at Music Ally NEXT this year - it’s an important platform for creating conversation around an artist.\nThe post is from Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d877159063a4",
+          "title": "SoundCloud starts letting artists sell downloads direct from their profiles – and says it’s taking zero commission",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/soundcloud-starts-letting-artists-sell-downloads-direct-from-their-profiles-and-says-its-taking-zero-commission/",
+          "category": "institutionnel",
+          "published_at": "2026-08-26T17:05:02+00:00",
+          "summary": "The beta is starting with approximately 200 US-based Artist Pro creators who have Fan Support enabled.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8c14978d546",
+          "title": "UK Project Manager (Maternity Cover) – Stones Throw Records – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/uk-project-manager-maternity-cover-stones-throw-records-london/",
+          "category": "musique",
+          "published_at": "2026-08-26T16:43:45+00:00",
+          "summary": "Job Description: UK Project Manager (Maternity Cover) The Company Stones Throw Records is an independent record label founded in 1996 by DJ Peanut Butter Wolf with offices in Los Angeles [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5de48c461f9",
+          "title": "☕️ iPhone 18 Pro, iPhone pliant : Apple présentera ses nouveaux smartphones le 9 septembre",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/iphone-18-pro-iphone-pliant-apple-presentera-ses-nouveaux-smartphones-le-9-septembre/",
+          "category": "ia",
+          "published_at": "2026-08-26T16:39:40+00:00",
+          "summary": "C&#8217;est l&#8217;événement tech le plus prévisible de l&#8217;année : Apple vient d&#8217;annoncer sa traditionnelle keynote de rentrée, qui se tiendra le mercredi 9 septembre. Elle débutera à 19h, heure de Paris. Le slogan du carton d&#8217;invitation, « Surprise and shine…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d08e3a5be800",
+          "title": "UK D2C firm Fanfare is launching two independent-music charts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/uk-d2c-firm-fanfare-is-launching-two-independent-music-charts/",
+          "category": "musique",
+          "published_at": "2026-08-26T15:53:37+00:00",
+          "summary": "In fact, let&#8217;s not get ahead of ourselves: UK-based startup Fanfare is also launching itself next week, on 1 September.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4cf1fc4bb66f",
+          "title": "Youth Music Awards move to Liverpool and reveal 2026 nominees",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/youth-music-awards-move-to-liverpool-and-reveal-2026-nominees/",
+          "category": "musique",
+          "published_at": "2026-08-26T15:26:46+00:00",
+          "summary": "Music-industry awards shows getting out of London isn&#8217;t just a Brit Awards thing. Charity Youth Music is also escaping the UK capital in 2026.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c95c9a9a6e6f",
+          "title": "☕️ AWS rachète DuckLabs, l’équipe derrière le moteur SQL open source DuckDB",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/aws-rachete-ducklabs-lequipe-derriere-le-moteur-sql-open-source-duckdb/",
+          "category": "ia",
+          "published_at": "2026-08-26T15:22:07+00:00",
+          "summary": "Amazon a annoncé mercredi 26 août l&#8217;acquisition de DuckLabs, la société néerlandaise à qui l&#8217;on doit le moteur de base de données SQL DuckDB. À la fois léger et puissant, DuckDB s&#8217;est rapidement forgé une réputation d&#8217;efficacité pour les tâches liées à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb56ef8ad846",
+          "title": "SoundCloud tests feature for artists to sell music downloads from their profiles",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/soundcloud-tests-feature-for-artists-to-sell-music-downloads-from-their-profiles/",
+          "category": "musique",
+          "published_at": "2026-08-26T14:18:39+00:00",
+          "summary": "SoundCloud, one of the most prominent streaming services, is testing a feature to help artists sell music downloads to fans.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "149966b09fae",
+          "title": "Addiction aux plateformes de Meta : un accord à 18 milliards de dollars pour solder le procès",
+          "source": "Next INpact",
+          "url": "https://next.ink/253264/addiction-aux-plateformes-de-meta-un-accord-a-18-milliards-de-dollars-pour-solder-le-proces/",
+          "category": "ia",
+          "published_at": "2026-08-26T14:16:07+00:00",
+          "summary": "Meta a accepté de verser 18 milliards de dollars pour mettre fin aux plaintes de quatre États américains l’accusant d’avoir rendu Facebook et Instagram addictifs pour les mineurs. Deux semaines après l&#8217;ouverture du procès qui l&#8217;oppose à quatre États américains, Meta…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "742668e068d6",
+          "title": "ARIA blocks AI-generated recordings from Australia’s official charts",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/aria-blocks-ai-generated-recordings-from-australias-official-charts/",
+          "category": "ia",
+          "published_at": "2026-08-26T13:52:50+00:00",
+          "summary": "The updated ARIA Charts Code of Practice takes effect from the chart dated August 31, which is published on August 28.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c61ee8143044",
+          "title": "Gabe Simon: ‘If I do things I love, and I don’t put pressure on them, that’s the key’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/gabe-simon-if-i-do-things-i-love-and-i-dont-put-pressure-on-them-thats-the-key/",
+          "category": "musique",
+          "published_at": "2026-08-26T13:52:05+00:00",
+          "summary": "Gabe Simon, the writer and producer most famous for his work on Noah Kahan's two monster albums, talks big breakthroughs, getting inspired, putting family first, coping with success and why AI isn't for him\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccfc97aa37a3",
+          "title": "Tributes pour in for Dolly Parton: ‘Every superlative you could apply to her would be accurate.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tributes-pour-in-for-dolly-parton-every-superlative-you-could-apply-to-her-would-be-accurate/",
+          "category": "ia",
+          "published_at": "2026-08-26T13:51:09+00:00",
+          "summary": "Her publicist, Marcel Pariseau, said Parton died at the Vanderbilt-Ingram Cancer Center in Nashville \"after bravely facing a brief battle with cancer.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13c89db4ca2e",
+          "title": "Islam, judéité, chrétienté : les LLM en disent aussi long sur notre vision des religions",
+          "source": "Next INpact",
+          "url": "https://next.ink/253099/islam-judeite-chretiente-les-llm-en-disent-aussi-long-sur-notre-vision-des-religions/",
+          "category": "ia",
+          "published_at": "2026-08-26T13:45:00+00:00",
+          "summary": "Après de premières expérimentations en fonction de la nationalité, Next poursuit ses expérimentations pour voir quelle image les robots génératifs produisent de principaux groupes religieux ou athées présents en France. Au passage, nous constatons que les robots suggèrent un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a18d561dedef",
+          "title": "☕️ GTA 6 : Rockstar se plaint des fuites après avoir organisé la pénurie d’infos",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/gta-6-rockstar-se-plaint-des-fuites-apres-avoir-organise-la-penurie/",
+          "category": "ia",
+          "published_at": "2026-08-26T13:16:27+00:00",
+          "summary": "Rockstar a fini par communiquer publiquement sur les vidéos de GTA 6 distillées depuis une semaine par le (ou les) fuiteur(s) de CyberLeek. Sur ses réseaux sociaux, le studio a donc réagi : «&#160;Dire que voir des vidéos de gameplay de Grand Theft Auto VI fuiter de cette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb196c34e005",
+          "title": "ElevenMusic AI tool adds ‘section-by-section’ editing for songs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/elevenmusic-ai-tool-adds-section-by-section-editing-for-songs/",
+          "category": "musique",
+          "published_at": "2026-08-26T12:58:16+00:00",
+          "summary": "Stability AI may be raising big funding from the biggest music companies, but one of its rivals in the label-approved AI-music sector is rolling out new features this week.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87a87cacdec1",
+          "title": "Audiomack wants to help its African listeners cut download costs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/audiomack-wants-to-help-its-african-listeners-cut-download-costs/",
+          "category": "musique",
+          "published_at": "2026-08-26T12:42:58+00:00",
+          "summary": "Streaming service Audiomack has rolled out an inventive feature for its African listeners: Night Plan. It’s all about cutting their mobile-data costs.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a305982a59c2",
+          "title": "Stability AI raises $76m from investors including major labels",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/26/stability-ai-raises-76m-from-investors-including-major-labels/",
+          "category": "musique",
+          "published_at": "2026-08-26T12:30:00+00:00",
+          "summary": "The three major labels are no longer merely licensing AI startups: they’re also investing in them. Witness Stability AI’s announcement yesterday of a $76m Series B funding round from investors including UMG, Sony Music and WMG – as well as gaming giant Electronic Arts.\nThe post…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "30233db3e398",
           "title": "IA : la CNIL met à jour son outil de traçabilité des modèles publiés en source ouverte",
@@ -12,6 +617,26 @@
           "category": "ia",
           "published_at": "2026-08-26T12:00:00+00:00",
           "summary": "La CNIL publie une nouvelle version de son démonstrateur permettant d’explorer la généalogie des modèles d’IA publiés en source ouverte. Cette mise à jour améliore notamment les performances de l’outil, son ergonomie et automatise l’actualisation des données. Une version en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2427aa198dd",
+          "title": "Au Royaume-Uni aussi, les protestations contre les centres de données se multiplient",
+          "source": "Next INpact",
+          "url": "https://next.ink/253226/au-royaume-uni-aussi-les-protestations-contre-les-centres-de-donnees-se-multiplient/",
+          "category": "institutionnel",
+          "published_at": "2026-08-26T11:37:00+00:00",
+          "summary": "Comme aux États-Unis, en France et ailleurs, le Royaume-Uni est traversé de débats sur le bien-fondé de la multiplication des centres de données. Ceux-ci portent autant sur leurs impacts environnementaux que sur l’acceptation locale. En Écosse, l’opposition se fait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "23a04cf931cc",
+          "title": "Cowork et Claude font maintenant mémoire commune",
+          "source": "Next INpact",
+          "url": "https://next.ink/253206/cowork-et-claude-font-maintenant-memoire-commune/",
+          "category": "ia",
+          "published_at": "2026-08-26T10:08:05+00:00",
+          "summary": "Anthropic annonce que Cowork peut maintenant utiliser la mémoire de son chatbot. Les deux outils peuvent, par défaut, y enregistrer des informations automatiquement et les réutiliser. « À partir d&#8217;aujourd&#8217;hui, la mémoire utilisée dans le chat est la même que celle de…",
           "summary_type": "extrait source"
         },
         {
