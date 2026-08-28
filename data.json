@@ -1,9 +1,544 @@
 {
-  "generated_at": "2026-08-27T19:04:41.354320+00:00",
+  "generated_at": "2026-08-28T20:14:30.575332+00:00",
   "days": [
+    {
+      "date": "2026-08-28",
+      "articles": [
+        {
+          "id": "081008c48556",
+          "title": "The Warning Break Down 5 Essential Songs From New Album ‘Everything’s Falling’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/the-warning-everythings-falling-album-interview/",
+          "category": "musique",
+          "published_at": "2026-08-28T19:32:44+00:00",
+          "summary": "The Mexican hard rock trio release their fifth LP, further cementing their rise as one of the most exciting young acts on the global stage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a63d2022570e",
+          "title": "Executive Turntable: Anh Do Named Global Head of Music at TBWA\\Media Arts Lab",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/exec-turntable-anh-do-global-head-of-music-media-arts-lab/",
+          "category": "musique",
+          "published_at": "2026-08-28T18:52:25+00:00",
+          "summary": "In this week's column, PRG appoints two to the company's C-suite, WME has a new head of marketing and more music industry hires and promotions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "060e87f65cc3",
+          "title": "Beyond ‘Kawaii’: How ASOBISYSTEM Is Building a Global Future for Japanese Idol Culture",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/beyond-kawaii-asobisystem-future-japanese-idol-culture-1236327878/",
+          "category": "musique",
+          "published_at": "2026-08-28T18:50:06+00:00",
+          "summary": "Billboard JAPAN talked to ASOBISYSTEM CEO Yusuke Nakagawa about the chances of globalizing Japan’s “oshikatsu” culture.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfdb0fda56a8",
+          "title": "Jermaine Dupri Drops Lawsuit Claiming $18M in Unpaid Royalties on Mariah Carey & Usher Albums",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/jermaine-dupri-drops-lawsuit-claiming-18m-unpaid-royalties/",
+          "category": "musique",
+          "published_at": "2026-08-28T18:34:42+00:00",
+          "summary": "Less than two months after he filed it, the hitmaking producer and exec has dropped a case that claimed Sony Music owed him millions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7396618488cc",
+          "title": "Madeon’s First Official Remix Since 2012 Is a Shimmering Take on Ninajirachi’s ‘iPod Touch’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ninajirachi-ipod-touch-madeon-remix-1236327800/",
+          "category": "ia",
+          "published_at": "2026-08-28T18:15:42+00:00",
+          "summary": "The French producer's edit infuses her 2025 hit with his take on early 2010s dance nostalgia.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "011d32fa4a72",
+          "title": "Miguel Says He & His Partner Have Been Targets of ‘Racist, Anti-Asian Attacks’ & ‘Abusive’ Comments About Their Child",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/miguel-partner-attacks-statement-1236327632/",
+          "category": "ia",
+          "published_at": "2026-08-28T17:46:43+00:00",
+          "summary": "The R&#38;B singer spoke out about being subjected to racism, threats, harassment and stalking in a post on social media.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "821eebdb848e",
+          "title": "Tupac Trial Week 2 Recap: Murder Case Heads to Jury After Explosive Recording & More Testimony",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/tupac-trial-week-2-recap-murder-case-heads-to-jury/",
+          "category": "musique",
+          "published_at": "2026-08-28T17:37:56+00:00",
+          "summary": "Billboard is summing up the key moments from the second week of the epic murder trial over the hip-hop legend's 1996 killing.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b857195506fa",
+          "title": "Prince Estate Releases Funky, Career-Spanning ‘Timeless’ Vault Album Commemorating 10th Anniversary of Singer’s Death: Listen",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/prince-career-spanning-timeless-album-rare-unreleased-listen-1236327705/",
+          "category": "musique",
+          "published_at": "2026-08-28T17:34:32+00:00",
+          "summary": "The collection of rare and previously unreleased songs were recorded between 1977 and 2016, including material recorded when The Purple One was a teenager.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "49ac5897a6d0",
+          "title": "Post Malone’s ‘Immaculate’ 20-Carat Engagement Ring for Fiancée Christy Lee Revealed by Jeweler",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/post-malone-engagement-ring-fiancee-christy-lee-revealed-1236327642/",
+          "category": "ia",
+          "published_at": "2026-08-28T17:34:18+00:00",
+          "summary": "News of the couple's engagement arrived earlier in August.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a6de618e468",
+          "title": "Chart Rewind: In 1976, Ronnie Milsap Took a ‘Stand’ at No. 1",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/ronnie-milsap-chart-rewind-1976-1236327641/",
+          "category": "ia",
+          "published_at": "2026-08-28T17:27:58+00:00",
+          "summary": "The signature piano lick in “(I’m a) Stand by My Woman Man” generated a legal issue.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "359d60afcfd5",
+          "title": "Spotify promotes Joe Hadley to VP of Global Music Content, Partnerships; J.J. Italiano named Head of Editorial",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-promotes-joe-hadley-to-vp-of-global-music-content-partnerships-j-j-italiano-named-head-of-editorial/",
+          "category": "musique",
+          "published_at": "2026-08-28T17:15:38+00:00",
+          "summary": "Spotify says the new structure will preserve Editorial's \"distinct voice, expertise, and decision-making,\" while creating \"a more connected Music team.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4db799890335",
+          "title": "J’ai joué à Fable et le premier contact fut rassurant",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2320785-jai-joue-a-fable-et-le-premier-contact-fut-rassurant.html",
+          "category": "ia",
+          "published_at": "2026-08-28T16:38:00+00:00",
+          "summary": "Fable, RPG ultra-attendu développé sous l'égide de Xbox, était jouable pour la première fois à l'occasion de la Gamescom 2026. J'ai pu tester cette démo axée sur les combats.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fead50b58d70",
+          "title": "Des marques paient des milliers d’euros pour apparaître sur ce futur MacBook",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2320857-des-marques-paient-des-milliers-deuros-pour-apparaitre-sur-ce-futur-macbook.html",
+          "category": "ia",
+          "published_at": "2026-08-28T16:29:47+00:00",
+          "summary": "Pour financer son premier MacBook, un développeur a mis aux enchères dix espaces publicitaires sur son capot. Deux jours plus tard, les marques ont déjà misé près de trois fois le prix de l’ordinateur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e8b0b816abd",
+          "title": "À Singapour, de vrais neurones humains cultivés en labo font tourner l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2320745-a-singapour-de-vrais-neurones-humains-cultives-en-labo-font-tourner-lia.html",
+          "category": "ia",
+          "published_at": "2026-08-28T16:01:00+00:00",
+          "summary": "À Singapour, un rack de serveurs calcule désormais avec de vrais neurones humains cultivés en laboratoire, et non avec des puces en silicium. Derrière ce prototype, un pari : alléger la facture énergétique de l'intelligence artificielle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a1717a44eb5",
+          "title": "From the major labels’ $76M Stability AI bet to Universal and Sony’s Suno ‘stream ripping’ claim… it’s MBW’s Weekly Round-Up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-the-major-labels-76m-stability-ai-bet-to-universal-and-sonys-suno-stream-ripping-claim-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-08-28T15:41:28+00:00",
+          "summary": "The biggest headlines from the past few days...\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab664c5683cc",
+          "title": "Avant son lancement officiel, DLSS 5 apparaît dans la nature",
+          "source": "Next INpact",
+          "url": "https://next.ink/253648/avant-son-lancement-officiel-dlss-5-apparait-dans-la-nature/",
+          "category": "ia",
+          "published_at": "2026-08-28T15:02:00+00:00",
+          "summary": "Très critiqué lors de sa présentation au printemps, le DLSS 5 commence à apparaître dans les jeux avant même son lancement officiel. Une bibliothèque NVIDIA repérée dans NBA 2K27 a déjà permis à des moddeurs de tester le rendu neuronal avec des résultats encore très…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "297e95655b25",
+          "title": "SpaceXAI accusé d’avoir utilisé des photos pédocriminelles pour entrainer Grok",
+          "source": "Next INpact",
+          "url": "https://next.ink/253600/spacexai-accuse-davoir-utilise-des-photos-pedocriminelles-pour-entrainer-grok/",
+          "category": "ia",
+          "published_at": "2026-08-28T14:28:10+00:00",
+          "summary": "Dans une plainte déposée par une femme, l&#8217;entreprise d&#8217;Elon Musk est accusée d&#8217;avoir entrainé son IA générative Grok sur des photos et des images générées par IA pédocriminelles. Attention&#160;: le sujet de cet article est particulièrement difficile et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5218c4d15fb",
+          "title": "Boulanger brade l’iPad Air M3, pendant qu’Apple augmente ses prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2320781-boulanger-brade-lipad-air-m3-pendant-quapple-augmente-ses-prix.html",
+          "category": "ia",
+          "published_at": "2026-08-28T14:22:32+00:00",
+          "summary": "[Deal du jour] Alors qu'Apple vient de relever les prix de la quasi-totalité de son catalogue, l'iPad Air M3 fait le chemin inverse chez Boulanger. La tablette tombe à 539 €, contre 749,99 € au lancement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7bc967f24bb8",
+          "title": "Sandbox Guide :: Community & digital indie radio",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/sandbox-guide-community-digital-indie-radio/",
+          "category": "musique",
+          "published_at": "2026-08-28T14:13:28+00:00",
+          "summary": "How local, digital broadcasting is thriving – and how artist teams can tune in\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e8db9324ff5",
+          "title": "Éclipse solaire : quand aura lieu la prochaine éclipse de Soleil ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/642816-prochaine-eclipse-solaire-date-heure-et-lieux-dobservation.html",
+          "category": "ia",
+          "published_at": "2026-08-28T13:55:21+00:00",
+          "summary": "Les Français l'ont bien compris avec l'éclipse de Soleil du 12 août 2026 : pour admirer une éclipse solaire, il faut l'anticiper. Quand a lieu la prochaine éclipse de Soleil ? Il va maintenant falloir patienter jusqu'en 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d240efba80d3",
+          "title": "☕️ Meta veut éteindre l’incendie autour de ses lunettes connectées",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/meta-veut-eteindre-lincendie-autour-de-ses-lunettes-connectees/",
+          "category": "ia",
+          "published_at": "2026-08-28T13:20:37+00:00",
+          "summary": "Meta joue les pompiers pour sauver la réputation de ses lunettes connectées. Ces produits font l&#8217;objet d&#8217;un feu nourri de critiques en raison de leur capacité à enregistrer des photos et des vidéos en loucedé&#160;; la réputation catastrophique de l&#8217;entreprise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "596d20c3d50a",
+          "title": "The Witcher 3 : CD Projekt Red confirme la mise à niveau gratuite sur Switch 2, même en version boîte",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2320557-the-witcher-3-cd-projekt-red-confirme-la-mise-a-niveau-gratuite-sur-switch-2-meme-en-version-boite.html",
+          "category": "ia",
+          "published_at": "2026-08-28T13:06:53+00:00",
+          "summary": "Vous possédez The Witcher 3 sur Nintendo Switch&nbsp;? Le remaster attendu sur Switch 2 vous reviendra gratuitement, que votre jeu soit en boîte ou dématérialisé. CD Projekt Red vient de le confirmer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7ea8552f46e",
+          "title": "Navigateurs au temps du DMA : plus de choix, mais pas encore d’égalité avec Safari",
+          "source": "Next INpact",
+          "url": "https://next.ink/252821/navigateurs-au-temps-du-dma-plus-de-choix-mais-pas-encore-degalite-avec-safari/",
+          "category": "ia",
+          "published_at": "2026-08-28T12:36:00+00:00",
+          "summary": "Que reste-t-il du big bang des navigateurs web sur iOS ? Un peu plus de deux ans après l&#8217;intégration de l&#8217;écran de sélection sur l&#8217;iPhone dans iOS 17.4 puis dans l&#8217;iPad avec iPadOS 18.2, les éditeurs de navigateurs web que nous avons interrogés se…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09b64e869d78",
+          "title": "Report breaks down losses for UK touring sector caused by Brexit",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/report-breaks-down-losses-for-uk-touring-sector-caused-by-brexit/",
+          "category": "musique",
+          "published_at": "2026-08-28T12:30:00+00:00",
+          "summary": "The UK left the European Union at the end of January 2020, and in the years since there have been regular complaints from the music industry about the impact that ‘Brexit’ had on British artists touring Europe.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce1831a20fe3",
+          "title": "WMG / Blavatnik Family Foundation Social Justice Fund reveals 2026 grantees",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/wmg-blavatnik-family-foundation-social-justice-fund-reveals-2026-grantees/",
+          "category": "musique",
+          "published_at": "2026-08-28T12:30:00+00:00",
+          "summary": "The Warner Music Group / Blavatnik Family Foundation Social Justice Fund has unveiled its first batch of 2026 grantees: 17 organisations collectively receiving nearly $6m.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32dc3e6d91db",
+          "title": "Label and live firm Shake It Africa launches with global ambitions",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/label-and-live-firm-shake-it-africa-launches-with-global-ambitions/",
+          "category": "musique",
+          "published_at": "2026-08-28T12:30:00+00:00",
+          "summary": "Ugandan-born artist Jon Muq has partnered with veteran music executive Kevin Wommack to launch Shake It Africa, a new record label and live entertainment company.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12ba4f8ca4a5",
+          "title": "TikTok report trumpets its economic impact on ‘K-Culture 4.0’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/tiktok-report-trumpets-its-economic-impact-on-k-culture-4-0/",
+          "category": "institutionnel",
+          "published_at": "2026-08-28T12:30:00+00:00",
+          "summary": "TikTok has commissioned a new report to set out its value to South Korea’s cultural economy. The report, co-published with consultancy firm Kearney, also sketches out an argument that we’re in the time of ‘K-Culture 4.0’.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ababf6dafb6b",
+          "title": "Warner Music Austria and ADA Central Europe strike distribution and studio deal with Vienna indie label Tonherd",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-austria-and-ada-central-europe-strike-distribution-and-studio-deal-with-vienna-indie-label-tonherd/",
+          "category": "musique",
+          "published_at": "2026-08-28T11:54:35+00:00",
+          "summary": "Tonherd is described as a \"full-service, end-to-end music company offering everything from songwriting and production to release.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "550186017405",
+          "title": "[Tuto] Héberger un lecteur RSS et migrer depuis Feedly, avec astuces et Wallabag en bonus",
+          "source": "Next INpact",
+          "url": "https://next.ink/249466/tuto-heberger-un-lecteur-rss-et-migrer-depuis-feedly-avec-astuces-et-wallabag-en-bonus/",
+          "category": "ia",
+          "published_at": "2026-08-28T11:37:00+00:00",
+          "summary": "Installer un agrégateur de flux RSS sur un serveur maison est assez simple. Next vous détaille les étapes et vous donne quelques astuces pour en profiter au mieux, notamment avec une intégration Wallabag pour sauvegarder des articles à lire plus tard. Dans la série je récupère…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de7c1bdd6787",
+          "title": "Music features prominently in Grand Theft Auto VI ‘extended look’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/music-features-prominently-in-grand-theft-auto-vi-extended-look/",
+          "category": "musique",
+          "published_at": "2026-08-28T11:30:00+00:00",
+          "summary": "Birdman and Lil Wayne? Check. Kodak Black? Check. Sexxy Red and Tay Keith? Check? Depeche Mode, Phil Collins, Prefab Sprout, Def Leppard and the Bellamy Brothers? Check. !!!? Check. Cliff Richard? Wait, what?\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf729c9b66b5",
+          "title": "Volkswagen transforme enfin son ID. Buzz en camping-car",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2320517-volkswagen-transforme-enfin-son-id-buzz-en-camping-car.html",
+          "category": "ia",
+          "published_at": "2026-08-28T11:20:00+00:00",
+          "summary": "Volkswagen avait présenté l'ID. Buzz dès 2022, mais il aura fallu attendre 2026 pour voir naître sa déclinaison camping-car. Avec l'ID. California Cruise, la marque électrifie enfin l'un de ses modèles les plus emblématiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfe4f143907d",
+          "title": "☕️ En Europe, Google ne dévalorisera plus les contenus sponsorisés des sites de presse",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/en-europe-google-ne-devalorisera-plus-les-contenus-sponsorises-des-sites-de-presse/",
+          "category": "institutionnel",
+          "published_at": "2026-08-28T10:35:58+00:00",
+          "summary": "Pour se plier au DMA européen, Google vient d&#8217;annoncer que son moteur de recherche n&#8217;allait plus considérer les contenus sponsorisés publiés automatiquement sur les sites de presse comme du spam. En novembre 2025, la Commission européenne avait annoncé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a70e67b2a642",
+          "title": "Deux offres permettent de se procurer la PS5 à son ancien prix avant l’arrivée de GTA 6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2320525-deux-offres-permettent-de-se-procurer-la-ps5-a-son-ancien-prix-avant-larrivee-de-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-08-28T10:19:30+00:00",
+          "summary": "Si les 26 minutes de GTA 6 vous ont convaincu d’acheter une console, deux solutions permettent encore d’éviter le nouveau tarif de 649 €. La PS5 Standard se trouve toujours à son ancien prix, en neuf dans quelques magasins ou reconditionnée directement par Sony.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5a18891dfab",
+          "title": "Halo, Warcraft, Elder Scrolls… Microsoft vend ses gros jeux pour les adapter au ciné",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2320541-halo-warcraft-elder-scrolls-microsoft-vend-ses-gros-jeux-pour-les-adapter-au-cine.html",
+          "category": "justice",
+          "published_at": "2026-08-28T10:17:00+00:00",
+          "summary": "Gears of War, Halo, World of Warcraft, The Elder Scrolls, Diablo... Selon Puck, la division jeu vidéo de Microsoft démarche discrètement les mastodontes du cinéma et du streaming pour leur refourguer les droits d'adaptation de son catalogue dans un seul et même contrat global.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4095c3af157f",
+          "title": "GTA 6 : voici pourquoi la police sera beaucoup plus difficile à semer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2320357-gta-6-voici-pourquoi-la-police-sera-beaucoup-plus-difficile-a-semer.html",
+          "category": "ia",
+          "published_at": "2026-08-28T09:21:00+00:00",
+          "summary": "Dans GTA 6, échapper aux voitures de police ne suffira plus pour retrouver son anonymat. Les forces de l’ordre pourront mémoriser votre visage, vos vêtements, votre véhicule et même le fait que Jason et Lucia agissent ensemble.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4ff544c9d4a",
+          "title": "Pentagone contre Anthropic : la justice considère les mesures illégales et sans fondement",
+          "source": "Next INpact",
+          "url": "https://next.ink/253542/pentagone-contre-anthropic-la-justice-considere-les-mesures-illegales-et-sans-fondement/",
+          "category": "justice",
+          "published_at": "2026-08-28T09:09:00+00:00",
+          "summary": "L&#8217;administration de Donald Trump avait classé Anthropic dans la liste des entreprises à risque pour la chaîne d&#8217;approvisionnement du Pentagone. La justice états-unienne vient de déclarer cette décision illégale. Donald Trump ne peut pas imposer les sanctions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de988c27a5ae",
+          "title": "Éclipse lunaire : quand aura lieu la prochaine éclipse de Lune ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/644005-prochaine-eclipse-de-lune-date-visibilite.html",
+          "category": "ia",
+          "published_at": "2026-08-28T08:45:56+00:00",
+          "summary": "En 2026, deux éclipses de Lune ont eu lieu. Une éclipse totale de Lune, survenue début mars. Puis, une éclipse partielle, fin août. Il va falloir patienter un peu pour l'éclipse de Lune suivante. Quand aura-t-elle lieu exactement, et que pourra-t-on voir ? La France…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be6594f481e7",
+          "title": "Reservoir’s PopIndia acquires Vincey Productions catalog plus YouTube channels with 10M combined subscribers, and signs Kashmiri producer 30KEY!",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reservoirs-popindia-acquires-vincey-productions-catalog-plus-youtube-channels-with-10m-combined-subscribers-and-signs-kashmiri-producer-30key/",
+          "category": "musique",
+          "published_at": "2026-08-28T08:45:18+00:00",
+          "summary": "Vincey Productions' catalog spans more than three decades of South Indian music, with a focus on Tamil and Telugu Christian and devotional recordings\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6109ddb73d10",
+          "title": "Quantique : Pasqal se lance en bourse au Nasdaq",
+          "source": "Next INpact",
+          "url": "https://next.ink/253543/quantique-pasqal-se-lance-en-bourse-au-nasdaq/",
+          "category": "ia",
+          "published_at": "2026-08-28T08:23:00+00:00",
+          "summary": "Pasqal vient de boucler les formalités qui vont lui permettre de se lancer en bourse à New York. Cotée sur le Nasdaq, la startup française du quantique estime pouvoir compter sur 360 millions de dollars de trésorerie à l&#8217;issue de l&#8217;opération. L&#8217;introduction se…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4800a6fc10ba",
+          "title": "☕️ Bluesky inaugure une option pour diminuer la visibilité de ses posts dans l’algo de découverte",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/bluesky-inaugure-une-option-pour-diminuer-la-visibilite-de-ses-posts-dans-lalgo-de-decouverte/",
+          "category": "ia",
+          "published_at": "2026-08-28T07:46:00+00:00",
+          "summary": "Bluesky vient de mettre en place une option permettant de limiter la visibilité des publications d&#8217;un compte dans l&#8217;onglet Discover, nourri par l&#8217;algorithme de recommandation du réseau social. Accessible via la rubrique Confidentialité et sécurité du profil,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a57b0bce9b0",
+          "title": "Ten data points from Luminate’s India streaming report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/ten-data-points-from-luminates-india-streaming-report/",
+          "category": "musique",
+          "published_at": "2026-08-28T07:20:12+00:00",
+          "summary": "Adrian Sarosi, the vice president/general manager of international at Luminate, was among the speakers at the tenth edition of the All About Music conference in Mumbai this week. During the [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cea17856eb8d",
+          "title": "Mémoire : Google impose de nouvelles règles aux apps Android trop gourmandes",
+          "source": "Next INpact",
+          "url": "https://next.ink/253490/memoire-google-impose-de-nouvelles-regles-aux-apps-android-trop-gourmandes/",
+          "category": "ia",
+          "published_at": "2026-08-28T07:13:00+00:00",
+          "summary": "Et si la crise de la mémoire débouchait sur quelque chose de positif ? Les prix vertigineux des nouveaux ordinateurs et smartphones forcent une bonne partie des consommateurs à garder leurs appareils plus longtemps (merci pour la planète !) ou à opter pour des modèles plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09bbbf370d4d",
+          "title": "The Global Indian Music Academy Awards (GiMA) Awards are being revived",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/the-global-indian-music-academy-awards-gima-awards-are-being-revived/",
+          "category": "ia",
+          "published_at": "2026-08-28T07:10:29+00:00",
+          "summary": "Event management company Wizcraft Entertainment Agency is bringing back the Global Indian Music Academy (GiMA) Awards in 2027 in a new avatar. The awards show, which was launched in 2010 [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "100f6ae74460",
+          "title": "Coke Studio Pakistan slated to return in Nu.WAV avatar",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/28/coke-studio-pakistan-slated-to-return-in-nu-wav-avatar/",
+          "category": "musique",
+          "published_at": "2026-08-28T07:02:33+00:00",
+          "summary": "If you’ve been wondering why this year hasn’t yet seen the release of the sixteenth season of Coke Studio Pakistan, then know that it’s because the series is returning in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8837ec4c9d2",
+          "title": "☕️ Ariane 6 réussit son premier lancement géostationnaire",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ariane-6-reussit-son-premier-lancement-geostationnaire/",
+          "category": "ia",
+          "published_at": "2026-08-28T06:53:00+00:00",
+          "summary": "Ariane 6 a lancé avec succès le satellite MTG-I2, ce jeudi 27 août au soir depuis le port spatial européen de Guyane. Partie à 17h11 heure locale, la fusée européenne entamait son premier lancement géostationnaire pour déployer le 2ème satellite imageur Meteosat Troisième…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81168bdb2d0c",
+          "title": "Le FBI démantèle une infrastructure pirate ayant ciblé plusieurs agences US, la Chine accusée",
+          "source": "Next INpact",
+          "url": "https://next.ink/253399/le-fbi-demantele-une-infrastructure-pirate-ayant-cible-plusieurs-agences-us-la-chine-accusee/",
+          "category": "ia",
+          "published_at": "2026-08-28T06:28:00+00:00",
+          "summary": "Les États-Unis ont annoncé avoir démantelé plusieurs plateformes d&#8217;un groupe de pirates qu&#8217;ils associent à la Chine. Ces outils ont permis au groupe QTFY d&#8217;obfusquer ses attaques contre plusieurs agences fédérales états-uniennes comme la NASA, la Réserve…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "844243de4345",
+          "title": "☕️ Playdate : Panic rembourse aux joueurs les surtaxes Trump annulées",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/playdate-panic-rembourse-aux-joueurs-les-surtaxes-trump-annulees/",
+          "category": "ia",
+          "published_at": "2026-08-28T05:58:00+00:00",
+          "summary": "Les bonnes nouvelles sont rares pour le portefeuille des joueurs, alors saluons Panic, qui a décidé de rembourser aux clients américains de la Playdate les surtaxes douanières de Donald Trump depuis annulées. Les consommateurs qui ont acheté la console pendant que ces droits…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "330871d1b60c",
+          "title": "GTA 6 : à la découverte d’un monde plus grand et surtout plus réactif",
+          "source": "Next INpact",
+          "url": "https://next.ink/253500/gta-6-a-la-decouverte-dun-monde-plus-grand-et-surtout-plus-reactif/",
+          "category": "ia",
+          "published_at": "2026-08-28T05:10:00+00:00",
+          "summary": "Vu de très loin, GTA 6 ressemble à un jeu GTA en beaucoup plus joli. Vu d&#8217;un peu plus près, comme les abonnés Netflix ont pu en profiter avec le «&#160;large aperçu » diffusé hier (maintenant disponible sur YouTube), le futur blockbuster de Rockstar donne la pleine mesure…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "articles": [
+        {
+          "id": "77f525705fbd",
+          "title": "Judge clears UMG and Sony to accuse Suno of pirating YouTube via ‘stream ripping’ to train its AI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-and-sony-accuse-suno-of-pirating-youtube-via-stream-ripping-to-train-its-ai/",
+          "category": "ia",
+          "published_at": "2026-08-27T22:14:02+00:00",
+          "summary": "However, the judge denied the labels’ separate bid to add 61,026 recordings to the 560 already in suit\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0720bc1559b8",
+          "title": "Authentic Brands Group acquires majority stake in IP of Drake’s OVO brand",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/authentic-brands-group-acquires-majority-stake-in-ip-of-drakes-ovo-brand/",
+          "category": "ia",
+          "published_at": "2026-08-27T21:01:37+00:00",
+          "summary": "As part of the transaction, Authentic network partner Vince Holding Corp. (Nasdaq: VNCE) has acquired OVO's operating business and will oversee the brand's design, product development, merchandising, and retail stores.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b06f046b71e",
+          "title": "Sony Music Publishing wins Publisher of the Year at 2026 BMI R&B/Hip-Hop Awards",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-publishing-wins-publisher-of-the-year-at-2026-bmi-rb-hip-hop-awards/",
+          "category": "musique",
+          "published_at": "2026-08-27T20:58:51+00:00",
+          "summary": "The Sony-owned publisher landed the prize for representing 27 of the past awards year's most-performed R&#038;B and hip-hop songs in BMI's repertoire\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1764bb20ce68",
+          "title": "Warner Music/Blavatnik Social Justice Fund names 17 grantees in first 2026 docket, investing almost $6M",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-blavatnik-social-justice-fund-names-17-grantees-in-first-2026-docket-investing-almost-6m/",
+          "category": "musique",
+          "published_at": "2026-08-27T20:30:33+00:00",
+          "summary": "Eight music-focused organizations are among the fund’s 17 grantees, including four newcomers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63392ceb0f6c",
+          "title": "Beggars Group revenue hit $177M in 2025, as XL Recordings paid out $23M dividend to shareholders",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/beggars-group-revenue-hit-177m-in-2025-as-xl-recordings-paid-out-23m-dividend-to-shareholders/",
+          "category": "musique",
+          "published_at": "2026-08-27T20:29:22+00:00",
+          "summary": "XL released six new albums in 2025, with 82% of its turnover coming from outside the UK\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "cb6d6f71a926",
           "title": "Judge refuses to dismiss indie artist’s proposed class action against Suno, clearing AI output and stream-ripping claims for discovery",
