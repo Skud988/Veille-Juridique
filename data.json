@@ -1,9 +1,174 @@
 {
-  "generated_at": "2026-08-29T13:50:10.727090+00:00",
+  "generated_at": "2026-08-30T13:47:58.345260+00:00",
   "days": [
+    {
+      "date": "2026-08-30",
+      "articles": [
+        {
+          "id": "80f96b61872e",
+          "title": "Voici à quoi ressemble Mario dans la tête des IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2319077-voici-a-quoi-ressemble-mario-dans-la-tete-des-ia.html",
+          "category": "ia",
+          "published_at": "2026-08-30T13:30:00+00:00",
+          "summary": "Un internaute a demandé à des modèles de langage de dessiner Mario sur une grille de 32 × 32 pixels, sans leur fournir la moindre image. Leurs créations, parfois réussies et parfois méconnaissables, montrent ce que les IA retiennent du célèbre plombier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14b0a97c1ee0",
+          "title": "Claude fait ce qu’il veut, l’iPhone Fold arrive et rachat de SFR– le récap’ tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2320933-claude-fait-ce-quil-veut-liphone-fold-arrive-et-rachat-de-sfr-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-08-30T12:01:00+00:00",
+          "summary": "Cette semaine, Apple a envoyé son invitation pour la keynote du 9 septembre dédiée aux iPhone 18 Pro et iPhone Fold/Ultra. Xiaomi lui a vite répondu en lançant, après Huawei et Samsung, son premier téléphone format passeport. Le reste de l'actualité a été marqué par les nouveaux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4697483541a9",
+          "title": "Olivia Rodrigo’s Daisy Chain Fields Music Festival Proves There Is Hope For Us All: 13 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/olivia-rodrigo-daisy-chain-fields-music-festival-recap/",
+          "category": "ia",
+          "published_at": "2026-08-30T11:16:53+00:00",
+          "summary": "Inside the inaugural all-women festival founded and headlined by the pop superstar.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6513a2f19b3",
+          "title": "Le Falcon Heavy de SpaceX fait vrombir ses moteurs : suivez en direct le départ du télescope spatial Roman",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2316881-le-falcon-heavy-de-spacex-fait-vrombir-ses-moteurs-suivez-en-direct-le-depart-du-telescope-spatial-roman.html",
+          "category": "ia",
+          "published_at": "2026-08-30T10:30:26+00:00",
+          "summary": "Un champ de vision XXL pour percer les secrets de l'énergie noire. Avec huit mois d'avance sur son planning, la Nasa s'apprête à lancer son nouveau télescope géant à bord d'une fusée Falcon Heavy de SpaceX. Un décollage historique à ne pas manquer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07d6a767ae9b",
+          "title": "J’ai testé cette chaise Percko qui vous rappelle à l’ordre quand vous êtes mal assis",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2319003-jai-teste-cette-chaise-percko-qui-vous-rappelle-a-lordre-quand-vous-etes-mal-assis.html",
+          "category": "ia",
+          "published_at": "2026-08-30T10:25:00+00:00",
+          "summary": "J’ai troqué ma chaise habituelle en filet pour la Percko et son épaisse assise qui refuse de rester immobile. Une drôle d’idée sur le papier qui se présente finalement comme une bonne solution pour améliorer sa posture devant l'écran.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6a923659432",
+          "title": "Avez-vous démissionné sans le savoir ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2320593-avez-vous-demissionne-sans-le-savoir.html",
+          "category": "ia",
+          "published_at": "2026-08-30T08:33:00+00:00",
+          "summary": "Le meat proxy s'invite dans les débats autour de l'usage de l'IA dans un environnement professionnel. Si vous passez votre journée à copier/coller du texte qui vient d'une intelligence artificielle sans le relire, avez-vous quitté votre job sans vous en rendre compte ? Pour la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c0107c428032",
+          "title": "Olivia Rodrigo Recruits Alanis Morissette for a Surprise ‘Ironic’ Duet",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-alanis-morissette-rework-ironic-daisy-chain-fields-1236328211/",
+          "category": "ia",
+          "published_at": "2026-08-30T08:07:18+00:00",
+          "summary": "Rodrigo welcomed Morissette, and the two launched into \"Ironic,\" the enduring single from Morissette's 1995 landmark Jagged Little Pill.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f310e82a2bf3",
+          "title": "La guerre des prix met les constructeurs chinois au pied du mur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2320677-la-guerre-des-prix-met-les-constructeurs-chinois-au-pied-du-mur.html",
+          "category": "ia",
+          "published_at": "2026-08-30T06:28:00+00:00",
+          "summary": "Moins de subventions, moins de marges, plus de concurrence : en Chine, les constructeurs électriques courent désormais dans tous les sens pour trouver un nouvel eldorado. Voilà pour le sujet de l'édito de la newsletter Watt Else du 27 août 2026.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "articles": [
+        {
+          "id": "01386d029467",
+          "title": "KATSEYE Makes Brief Daisy Chain Fields Festival Appearance After Canceling Performance",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/katseye-daisy-chain-without-megan-devon-again-1236328192/",
+          "category": "ia",
+          "published_at": "2026-08-29T23:59:54+00:00",
+          "summary": "Three members of KATSEYE appeared on stage on Saturday (Aug. 29) even though Megan's injury forced the group to exit the fest's official lineup.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41dfa4ea244c",
+          "title": "Kacey Musgraves Pays Tribute to Dolly Parton With ‘Rainbow’ & ‘Here You Come Again’ Live in Boston",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kacey-musgraves-dolly-parton-tribute-videos-1236328163/",
+          "category": "musique",
+          "published_at": "2026-08-29T22:21:54+00:00",
+          "summary": "She remembered the beloved icon as \"someone always looking out for someone else, looking out for the underdog, even when it probably wasn't easy, even when it didn't benefit her career.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f64e848211d2",
+          "title": "Tim McGraw Pokes Fun at Himself After Onstage Fall at Cincinnati Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/tim-mcgraw-falls-onstage-cincinnati-concert-1236328143/",
+          "category": "musique",
+          "published_at": "2026-08-29T18:26:06+00:00",
+          "summary": "“Cincinnati, you started our weekend off on the right foot even if I couldn’t stay on mine,” the country star joked.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e89426acbaf",
+          "title": "Nashville Airport to Be Renamed for Dolly Parton, Tennessee Governor Announces",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/nashville-airport-dolly-parton-renamed-1236328139/",
+          "category": "ia",
+          "published_at": "2026-08-29T17:19:23+00:00",
+          "summary": "The news comes just days after the iconic singer’s passing.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d4166f48f67",
+          "title": "Gladiator, Alien… on a classé les  30 films de Ridley Scott du pire au meilleur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2319993-gladiator-alien-on-a-classe-les-30-films-de-ridley-scott-du-pire-au-meilleur.html",
+          "category": "ia",
+          "published_at": "2026-08-29T16:22:00+00:00",
+          "summary": "Écorché par la critique avec son thriller post-apocalyptique The Dog Stars (39 % sur Rotten Tomatoes), Ridley Scott rappelle qu'il reste l'artisan le plus imprévisible d'Hollywood. Capable du meilleur comme du pire depuis un demi-siècle, le cinéaste alterne chefs-d'œuvre et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29c372871e46",
+          "title": "Claude démonte cinq appareils, des hackers iraniens coupent une centrale électrique et votre autoradio rejoint un botnet : on vous raconte la semaine Cyberguerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2321065-claude-demonte-cinq-appareils-des-hackers-iraniens-coupent-une-centrale-electrique-et-votre-autoradio-rejoint-un-botnet-on-vous-raconte-la-semaine-cyberguerre.html",
+          "category": "ia",
+          "published_at": "2026-08-29T15:30:00+00:00",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : un chercheur qui a laissé une IA rétro-ingénierer ses propres appareils avec un bilan glaçant, une cyberattaque iranienne qui a mis à l'arrêt une centrale électrique britannique, et un malware inédit qui transforme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d332d60afaf3",
+          "title": "Charli xcx Makes a Striking Statement With Reading Festival Headline Set: 5 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/charli-xcx-reading-festival-2026-best-moments/",
+          "category": "musique",
+          "published_at": "2026-08-29T15:13:32+00:00",
+          "summary": "Charli gave her first U.K. performance since the release of her eighth studio album Music, Fashion, Film.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d792f181fd56",
+          "title": "Départ canon pour la Twingo, une app suit en direct les trains et une potentielle BYD Dolphin : le récap’ Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2320687-depart-canon-pour-la-twingo-une-app-suit-en-direct-les-trains-et-une-potentielle-byd-dolphin-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-08-29T14:17:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : la Renault Twingo assure déjà dans les ventes, une carte permet de suivre des trains en direct et BYD s'apprête à révéler une nouvelle BYD Dolphin.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "a9f63c747398",
           "title": "Le « Starlink russe » en difficulté : ses satellites tombent dans l’atmosphère",
