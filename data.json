@@ -1,6 +1,381 @@
 {
-  "generated_at": "2026-08-30T13:47:58.345260+00:00",
+  "generated_at": "2026-08-31T16:09:50.490419+00:00",
   "days": [
+    {
+      "date": "2026-08-31",
+      "articles": [
+        {
+          "id": "8a4ae6602a7e",
+          "title": "Olivia Rodrigo Calls Daisy Chain Fields Festival the ‘Greatest Joy of My Career,’ Shares First Thing She Did After It Ended",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-reflects-daisy-chain-fields-emotional-post-1236328848/",
+          "category": "ia",
+          "published_at": "2026-08-31T15:45:22+00:00",
+          "summary": "\"I am still in a bit of disbelief that it happened,\" the singer wrote of her inaugural one-day affair on Saturday (Aug. 29) in Irvine, Calif.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d68f0e29b608",
+          "title": "Sony & Warner Sue Anthropic in Latest AI Music Lawsuit: ‘Illegally Harvested to Fuel Claude’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/sony-and-warner-sue-anthropic-in-ai-copyright-suit/",
+          "category": "ia",
+          "published_at": "2026-08-31T15:44:17+00:00",
+          "summary": "In the newest case over AI music training, the two music giants claim Claude was \"built on copyright theft,\" ranging from iconic Christmas songs to Taylor Swift hits.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "062743757a85",
+          "title": "Debian dit oui à l’IA et divise la communauté",
+          "source": "Next INpact",
+          "url": "https://next.ink/253766/debian-dit-oui-a-lia-et-divise-la-communaute/",
+          "category": "ia",
+          "published_at": "2026-08-31T15:43:27+00:00",
+          "summary": "La communauté Debian devait voter sur la place que les grands modèles de langage (LLM) pouvaient tenir dans le développement de la distribution Linux. Parmi les axes proposés, elle a choisi un quasi-statu quo. La décision divise, ayant notamment provoqué le départ d’au moins un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10771b5fa021",
+          "title": "Howard Stern Sets Return From Summer Break, Announces Expansion of SiriusXM Show to HBO Max",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/streaming/howard-stern-return-summer-break-expansion-siriusxm-show-hbo-1236328825/",
+          "category": "ia",
+          "published_at": "2026-08-31T15:38:14+00:00",
+          "summary": "The Kind of All Media's live SiriusXM show will start airing on HOB Max on Sept. 17.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2fb52d53252",
+          "title": "☕️ Jamespot rachète Alinto pour intégrer le mail à son offre collaborative",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/jamespot-rachete-alinto-pour-integrer-le-mail-a-son-offre-collaborative/",
+          "category": "ia",
+          "published_at": "2026-08-31T15:26:00+00:00",
+          "summary": "Jamespot, éditeur français d&#8217;une suite collaborative en mode cloud, a annoncé lundi 31 août l&#8217;acquisition d&#8217;Alinto, l&#8217;un des vétérans français de la messagerie électronique. Fondée en 2000 et basée à Lyon, Alinto revendique un millier de clients…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5572c7819a81",
+          "title": "Dolly Parton To Be Honored With Two-Day DOLLYFEST in 2027",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/dolly-parton-honored-two-day-dollyfest-2027-london-nashville-1236328846/",
+          "category": "musique",
+          "published_at": "2026-08-31T15:17:21+00:00",
+          "summary": "The late music icon's estate has announced the two-day fest will take place in Nashville and London.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cac1fe82fa95",
+          "title": "Une fuite de données chez Steam exhume dix ans d’histoire du jeu vidéo PC",
+          "source": "Next INpact",
+          "url": "https://next.ink/253798/une-fuite-de-donnees-chez-steam-exhume-dix-ans-dhistoire-du-jeu-video-pc/",
+          "category": "ia",
+          "published_at": "2026-08-31T15:15:00+00:00",
+          "summary": "Valve subit une fuite de données, ce qui est déjà ironique vu le nom de l&#8217;entreprise, mais les 12 To en fuite (qui couvrent la période 2003-2013) sont aussi et surtout un coffre aux trésors pour les historiens du jeu vidéo. Builds anciennes, prototypes et contenus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da99ad2eab02",
+          "title": "Après leur fusion ratée, Nissan et Honda vont partager le logiciel de leurs voitures dès 2029",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2322079-apres-leur-fusion-ratee-nissan-et-honda-vont-partager-le-logiciel-de-leurs-voitures-des-2029.html",
+          "category": "ia",
+          "published_at": "2026-08-31T15:10:03+00:00",
+          "summary": "Nissan et Honda vont concevoir ensemble le cerveau logiciel de leurs futures voitures. C'est leur premier vrai chantier commun depuis l'échec de leur fusion, début 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80b83953622c",
+          "title": "The Blood of Dawnwalker mériterait des meilleurs combats",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2321545-test-de-the-blood-of-dawnwalker-sur-ps5-pro.html",
+          "category": "ia",
+          "published_at": "2026-08-31T15:00:00+00:00",
+          "summary": "Fils spirituel de la saga The Witcher, The Blood of Dawnwalker séduit par son concept et son écriture. Mais dès qu'il s'agit de sortir l'épée du fourreau, le bât blesse. Notre test.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d99abcd780d",
+          "title": "Licenses Versus Lawsuits: Why Suno’s Parallel Legal Strategies May Pose a ‘Conundrum’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/suno-parallel-licenses-lawsuits-analysis/",
+          "category": "ia",
+          "published_at": "2026-08-31T14:05:57+00:00",
+          "summary": "The AI music giant is simultaneously dealmaking with the music industry and fighting majors in court. Experts are split on whether those two legal fronts conflict.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "171843451ddb",
+          "title": "Universal Music Latino and YaBoyy Will Partner for New Reparto Music Platform & Series",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/universal-music-latino-yaboyywill-reparto-music/",
+          "category": "musique",
+          "published_at": "2026-08-31T14:00:00+00:00",
+          "summary": "The initiative, which aims to elevate the Cuban reparto scene, will kick off during Hispanic Heritage Month in Miami.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c26eca85347e",
+          "title": "Lancé avec succès, le télescope spatial Roman va étudier exoplanètes et énergie sombre",
+          "source": "Next INpact",
+          "url": "https://next.ink/253705/lance-avec-succes-le-telescope-spatial-roman-va-etudier-exoplanetes-et-energie-sombre/",
+          "category": "institutionnel",
+          "published_at": "2026-08-31T13:48:47+00:00",
+          "summary": "Le Nancy-Grace-Roman de la NASA a été lancé avec succès ce dimanche 30 aout. Il doit poursuivre la mission de Hubble aux côtés du télescope James Webb pour scruter l&#8217;espace afin de mieux comprendre l&#8217;énergie sombre et recenser et étudier des exoplanètes. Un nouveau…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7980768ff7b4",
+          "title": "ZEvent 2026, édition finale : dates, concert, streameurs, associations… tout ce qu’il faut savoir avant la fin",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2255125-zevent-2026-tout-savoir-sur-la-derniere-edition-du-marathon-caritatif-dates-concert-associations-fin.html",
+          "category": "musique",
+          "published_at": "2026-08-31T13:43:27+00:00",
+          "summary": "L'histoire du streaming français s'apprête à tourner une page majeure. À la suite de la finale de la ZLan, ZeratoR a fait savoir que le ZEvent 2026 sera le tout dernier. Après dix ans de records, de divertissements et de millions d'euros récoltés pour la bonne cause, le marathon…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ee0efcecc58",
+          "title": "Lancé à près de 2 000 €, ce téléviseur OLED de Samsung coûte désormais moins de 800 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2321895-lance-a-pres-de-2-000-e-ce-televiseur-qd-oled-de-samsung-coute-desormais-moins-de-800-e.html",
+          "category": "ia",
+          "published_at": "2026-08-31T13:00:03+00:00",
+          "summary": "[Deal du jour] Entre les soirées cinéma de la rentrée et GTA 6 qui approche, cet OLED de 55 pouces en promotion a un programme bien chargé devant lui.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5228ecef6652",
+          "title": "L’Europe classe ChatGPT parmi ses services les plus surveillés : voici les changements exigés par le DSA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2322007-leurope-classe-chatgpt-parmi-ses-services-les-plus-surveilles-voici-les-changements-exiges-par-le-dsa.html",
+          "category": "ia",
+          "published_at": "2026-08-31T12:56:08+00:00",
+          "summary": "La Commission européenne désigne ChatGPT comme un « très grand moteur de recherche en ligne » au titre du DSA, aux côtés de Reddit et Roblox, classés eux comme très grandes plateformes. OpenAI a quatre mois pour se conformer à une série d'obligations réservées aux services les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3857485b3894",
+          "title": "After a Tumultuous 2025, Drummer Zak Starkey Says He’s ‘Lookin’ Forward to Tearin’ It Up With The Who Again’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/drummer-zak-starkey-lookin-forward-playing-with-who-again-1236328795/",
+          "category": "ia",
+          "published_at": "2026-08-31T12:48:08+00:00",
+          "summary": "The timekeeper who was out, then in, then out again last year reported that rehearsals so far have been \"great.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "041b312e0ac5",
+          "title": "☕️ ChatGPT, Reddit et Roblox entrent dans le club très surveillé du DSA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/chatgpt-reddit-et-roblox-entrent-dans-le-club-tres-surveille-du-dsa/",
+          "category": "ia",
+          "published_at": "2026-08-31T12:34:30+00:00",
+          "summary": "La Commission européenne ajoute trois nouveaux membres dans le club du règlement pour les services numériques (DSA) : ChatGPT, Reddit et Roblox. Ces trois très grandes plateformes devront mettre en place des dispositifs pour répondre aux risques qu&#8217;elles font peser sur les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "821185ed7c45",
+          "title": "Avengers Doomsday : Les frères Russo forcent les fans à repasser à la caisse pour comprendre le film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2321909-avengers-doomsday-les-freres-russo-forcent-les-fans-a-repasser-a-la-caisse-pour-comprendre-le-film.html",
+          "category": "ia",
+          "published_at": "2026-08-31T12:21:00+00:00",
+          "summary": "Pour comprendre le prochain&nbsp;Avengers: Doomsday&nbsp;au cinéma en décembre 2026, Marvel exige que les fans revoient d'abord&nbsp;Avengers: Endgame&nbsp;en salles le 25 septembre 2026. Une ressortie agrémentée de scènes inédites qui fait déjà grincer des dents.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c44cb45a97d",
+          "title": "Dolly Parton Laid to Rest in Private Family Funeral in Nashville",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/dolly-parton-buried-private-family-funeral-nashville-1236328786/",
+          "category": "ia",
+          "published_at": "2026-08-31T12:10:19+00:00",
+          "summary": "Prior to her passing at 80 last week, Parton had requested that the traditional gospel hymn \"If We Never Meet Again\" be played at her funeral.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9eeae7174d3d",
+          "title": "Participez aux Rencontres Informatique & Libertés le 29 septembre 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ril-2026",
+          "category": "cnil",
+          "published_at": "2026-08-31T12:00:00+00:00",
+          "summary": "La CNIL organise la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée est l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a26f44a0227",
+          "title": "Ce livestream généré par IA peut durer éternellement, et c’est vous qui choisissez la suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2321717-ce-livestream-genere-par-ia-peut-durer-eternellement-et-cest-vous-qui-choisissez-la-suite.html",
+          "category": "ia",
+          "published_at": "2026-08-31T12:00:00+00:00",
+          "summary": "Une version accélérée du modèle vidéo MiniMax H3 peut générer certaines séquences plus rapidement qu’elles ne sont regardées. Cette avancée a déjà donné naissance à des livestreams théoriquement infinis, dont les spectateurs choisissent collectivement la suite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40ac21df042c",
+          "title": "Adopter un pixel du télescope Roman : la Nasa propose de se « partager » les premières images",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2321699-adopte-un-pixel-vous-pouvez-faire-un-peu-partie-de-la-mission-spatiale-roman.html",
+          "category": "institutionnel",
+          "published_at": "2026-08-31T11:32:00+00:00",
+          "summary": "La Nasa a lancé un appel à participation pour que tout un chacun puisse contribuer à sa manière à la mission du télescope Nancy Grace Roman. L'opération « Adopte un pixel » consiste à réclamer un pixel d'une des premières images de l'observatoire lorsqu'il sera opérationnel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f1e4700033c",
+          "title": "Jermaine Dupri’s So So Def drops $18m royalty lawsuit against Sony Music after parties ‘resolved the matter’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jermaine-dupris-so-so-def-drops-18m-royalty-lawsuit-against-sony-music-after-parties-resolved-the-matter/",
+          "category": "musique",
+          "published_at": "2026-08-31T11:29:06+00:00",
+          "summary": "The dismissal was without prejudice, leaving Dupri and his companies free to bring the claims again.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b441d82baf27",
+          "title": "L’iPhone 17 perd plus de 100 €, alors que l’iPhone 18 ne devrait pas arriver avant 2027",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2321771-liphone-17-perd-plus-de-100-e-alors-que-liphone-18-ne-devrait-pas-arriver-avant-2027.html",
+          "category": "ia",
+          "published_at": "2026-08-31T11:00:00+00:00",
+          "summary": "[Deal du jour]L’iPhone 17 perd 115 € sur Joybuy à quelques jours de la keynote Apple. Le calendrier pourrait faire hésiter, mais son successeur, l’iPhone 18 standard, ne devrait pas arriver de sitôt.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ef279351e98",
+          "title": "Comment retrouver son Cybercab ? Tesla mise sur un bandeau lumineux coloré (dommage pour les daltoniens)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2321827-comment-retrouver-son-cybercab-tesla-mise-sur-un-bandeau-lumineux-colore-dommage-pour-les-daltoniens.html",
+          "category": "ia",
+          "published_at": "2026-08-31T10:20:00+00:00",
+          "summary": "Pour éviter aux passagers de monter dans le mauvais Cybercab, Tesla mise sur un bandeau lumineux RGB dont la couleur s'aligne sur celle de votre smartphone. Une idée simple, qui se heurte pourtant à plusieurs limites.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d51a5b29341",
+          "title": "Sécurité : GrapheneOS fustige les Pixel 11",
+          "source": "Next INpact",
+          "url": "https://next.ink/253691/securite-grapheneos-fustige-les-pixel-11/",
+          "category": "loi",
+          "published_at": "2026-08-31T10:05:25+00:00",
+          "summary": "Le système d&#8217;exploitation mobile GrapheneOS, connu pour ses positions franches sur la sécurité, fera très probablement l&#8217;impasse sur les Pixel 11. La faute, selon les développeurs, à un choix inopportun de Google : l&#8217;absence de prise en charge de la Memory…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3e65f486984",
+          "title": "« Plus de pub, plus de lag, plus rien » : ce prompt sur Claude promet de redonner vie aux Android TV qui rament",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2321783-plus-de-pub-plus-de-lag-plus-rien-ce-prompt-sur-claude-promet-de-redonner-vie-aux-android-tv-qui-rament.html",
+          "category": "ia",
+          "published_at": "2026-08-31T10:00:57+00:00",
+          "summary": "Un prompt élaboré par un développeur permettrait de désactiver les applications inutiles préinstallées sur son téléviseur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b874a7a7a53e",
+          "title": "À cause d’une fuite sur la capsule Dragon de SpaceX, Sophie Adenot pourrait rester dans l’espace plus longtemps",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2321653-a-cause-dune-fuite-sur-la-capsule-dragon-de-spacex-sophie-adenot-pourrait-rester-dans-lespace-un-peu-plus-longtemps-que-prevu.html",
+          "category": "ia",
+          "published_at": "2026-08-31T09:58:00+00:00",
+          "summary": "La NASA repousse le lancement de la mission Crew-13 après avoir détecté une fuite sur la capsule Dragon de SpaceX. Un contretemps qui pourrait rallonger le séjour de la Française Sophie Adenot à bord de la Station spatiale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "057b7dc45119",
+          "title": "« Nous déconseillons fortement d’acheter un Pixel 11 » : GrapheneOS dénonce un changement opéré par Google",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2321753-nous-deconseillons-fortement-dacheter-un-pixel-11-grapheneos-denonce-un-changement-opere-par-google.html",
+          "category": "ia",
+          "published_at": "2026-08-31T09:30:00+00:00",
+          "summary": "Après une semaine de travail, les développeurs de GrapheneOS annoncent qu'ils n'arrivent pas à porter leur système sur les Pixel 11. En cause : l'absence du marquage mémoire matériel (MTE), une protection présente sur tous les Pixel depuis 2023. Le projet déconseille désormais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea76bf537e6d",
+          "title": "« La situation a vraiment dégénéré » : un ingénieur de Linux raconte comment les « bestioles » de l’IA épuisent les serveurs du noyau",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2321555-la-situation-a-vraiment-degenere-un-ingenieur-de-linux-raconte-comment-les-bestioles-de-lia-epuisent-les-serveurs-du-noyau.html",
+          "category": "ia",
+          "published_at": "2026-08-31T09:25:00+00:00",
+          "summary": "Git.kernel.org, la plateforme qui héberge le code source de Linux, est sous pression. En cause : les scrapers qui aspirent en masse le contenu des sites pour nourrir des IA. Le problème n'est pas tant leur présence que leur façon d'avaler ce contenu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "893552c183ed",
+          "title": "☕️ Flock : Apple, le changement révolutionnaire",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flock-apple-le-changement-revolutionnaire/",
+          "category": "ia",
+          "published_at": "2026-08-31T09:25:00+00:00",
+          "summary": "Tim Cook, lui aussi, attend la mise à jour du modèle Apple. Allez, plus qu’une journée à patienter…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4d71e8cfc0b",
+          "title": "How alternative music platforms are seeking solutions to streaming: curation, compensation, cooperation (guest column)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/08/31/how-alternative-music-platforms-are-seeking-solutions-to-streaming-curation-compensation-cooperation-guest-column/",
+          "category": "musique",
+          "published_at": "2026-08-31T09:00:00+00:00",
+          "summary": "How are alternative music platforms differentiating themselves from mainstream services, and how can they hope to hold their own? What do they tell us about what the future of music could and should look like? I’ll approach these questions through three lenses: curation,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae0262a48e63",
+          "title": "À son tour, Sony Music attaque Anthropic pour violation du droit d’auteur",
+          "source": "Next INpact",
+          "url": "https://next.ink/253701/a-son-tour-sony-music-attaque-anthropic-pour-violation-du-droit-dauteur/",
+          "category": "musique",
+          "published_at": "2026-08-31T08:53:18+00:00",
+          "summary": "Un consortium de maisons de disques emmené par Sony Music et Warner Chappell a déposé vendredi une plainte contre Anthropic et ses dirigeants. Il les accuse notamment d&#8217;avoir aspiré des paroles de chanson sur des sites spécialisés, en violation des conditions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd2bd801840c",
+          "title": "☕️ La Californie exclut les systèmes libres de sa loi sur la vérification d’âge",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-californie-exclut-les-systemes-libres-de-sa-loi-sur-la-verification-dage/",
+          "category": "ia",
+          "published_at": "2026-08-31T08:13:24+00:00",
+          "summary": "Depuis le mois d&#8217;octobre 2025, les législateurs californiens discutent d&#8217;une loi proposée par le gouverneur de Californie, Gavin Newsom, obligeant certains acteurs et notamment les « fournisseurs de système d&#8217;exploitation » à mettre en place une vérification…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "419219ccde4c",
+          "title": "C.L.A.Y. veut faire entrer l’informatique quantique dans le jeu vidéo",
+          "source": "Next INpact",
+          "url": "https://next.ink/253665/c-l-a-y-veut-faire-entrer-linformatique-quantique-dans-le-jeu-video/",
+          "category": "ia",
+          "published_at": "2026-08-31T06:52:19+00:00",
+          "summary": "L&#8217;informatique quantique est souvent associée aux domaines de la recherche, de la sécurité ou encore à l’optimisation de calculs complexes. Et pourquoi pas le jeu vidéo ? Le studio finlandais MiTale a présenté durant la Gamescom son futur jeu, en gestation depuis des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d355006c0e6",
+          "title": "Google Maps renomme le lac Ontario en lac d’Amérique pour les États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/253677/google-maps-renomme-le-lac-ontario-en-lac-damerique-pour-les-etats-unis/",
+          "category": "institutionnel",
+          "published_at": "2026-08-31T06:05:05+00:00",
+          "summary": "Donald Trump a ordonné par décret que le lac Ontario soit renommé lac d&#8217;Amérique (Lake America). Google a rapidement implémenté le changement dans son service Maps, mais uniquement pour les internautes basés aux États-Unis. Le lac apparaît toujours comme Lac Ontario pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "232e6d0b1f53",
+          "title": "En Corée du Sud, l’IA générative bientôt érigée en service public",
+          "source": "Next INpact",
+          "url": "https://next.ink/253678/en-coree-du-sud-lia-generative-bientot-erigee-en-service-public/",
+          "category": "ia",
+          "published_at": "2026-08-31T05:07:54+00:00",
+          "summary": "L&#8217;IA générative peut-elle devenir un service public ? La Corée du Sud s&#8217;apprête à répondre à cette question. Le pays va en effet proposer aux citoyens un accès gratuit à des services d&#8217;IA, avec la promesse de tokens illimités. Un moyen pour Séoul…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-08-30",
       "articles": [
