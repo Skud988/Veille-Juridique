@@ -1,9 +1,514 @@
 {
-  "generated_at": "2026-09-01T13:30:11.980750+00:00",
+  "generated_at": "2026-09-02T12:46:48.201387+00:00",
   "days": [
+    {
+      "date": "2026-09-02",
+      "articles": [
+        {
+          "id": "21aeb86c8e3c",
+          "title": "DMA : Opera perd devant le Tribunal de l’UE, Edge n’est pas un contrôleur d’accès",
+          "source": "Next INpact",
+          "url": "https://next.ink/254127/dma-opera-perd-devant-le-tribunal-de-lue-edge-nest-pas-un-controleur-dacces/",
+          "category": "justice",
+          "published_at": "2026-09-02T12:36:54+00:00",
+          "summary": "Dans la bataille des navigateurs web, Opera a essayé de mettre des bâtons dans les roues de Edge. L&#8217;entreprise norvégienne a insisté auprès de l&#8217;Europe pour que le navigateur de Microsoft soit désigné contrôleur d’accès au titre du DMA. La Commission a refusé et le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "097961c7d265",
+          "title": "Report explores AI’s indies impact and infrastructure erosion",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/02/report-explores-ais-indies-impact-and-infrastructure-erosion/",
+          "category": "musique",
+          "published_at": "2026-09-02T12:30:00+00:00",
+          "summary": "Research firm Stvdio and Secretly Distribution have published a report on the independent-music sector, billing it as “a fight for music’s infrastructure”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5a3766e3028",
+          "title": "NIVA slams amendments to California’s AB 1349 ticketing bill",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/02/niva-slams-amendments-to-californias-ab-1349-ticketing-bill/",
+          "category": "musique",
+          "published_at": "2026-09-02T12:30:00+00:00",
+          "summary": "In March last year, we wrote about a proposed bill in California that would ban ‘speculative’ ticketing – where people list tickets that they don’t actually own (yet) on secondary platforms.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f900e856938",
+          "title": "Sonos is opening its devices up to more AI assistants and agents",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/02/sonos-is-opening-its-devices-up-to-more-ai-assistants-and-agents/",
+          "category": "musique",
+          "published_at": "2026-09-02T12:30:00+00:00",
+          "summary": "2024 was Sonos’s annus horribilis and no mistake: privacy mis-steps; a widely-hated app update; delayed product launches and layoffs.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e2b73627611",
+          "title": "Musixmatch adds label hub as LyricFind debuts Verified Artist Program",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/02/musixmatch-adds-label-hub-as-lyricfind-debuts-verified-artist-program/",
+          "category": "musique",
+          "published_at": "2026-09-02T12:30:00+00:00",
+          "summary": "Given their bitter, ongoing legal battle, Musixmatch and LyricFind won’t enjoy being grouped into the same news story. However, both made announcements in the last 24 hours, and together they show the companies’ product direction.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f201db007d3",
+          "title": "Troye Sivan Makes Surprise Pop-In at Kacey Musgraves’ MSG Show For Live Debut of ‘Easy’ Collab",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/troye-sivan-kacey-musgraves-msg-show-live-debut-easy-watch-1236331261/",
+          "category": "musique",
+          "published_at": "2026-09-02T12:08:06+00:00",
+          "summary": "The song first appeared on Sivan's 2020 In a Dream EP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9c3215c9d6c",
+          "title": "Ces images prises depuis l’ISS sont bien réelles et il y a beaucoup de science derrière",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2323003-ces-images-prises-depuis-liss-sont-bien-reelles-et-il-y-a-beaucoup-de-science-derriere.html",
+          "category": "ia",
+          "published_at": "2026-09-02T12:00:00+00:00",
+          "summary": "Une vidéo prise depuis la Station spatiale internationale (ISS) et partagée sur les réseaux sociaux montre un paysage psychédélique qui semble factice. Et pourtant, tout est vrai : explications.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03c10aaf73ba",
+          "title": "Suno sued by musicians including David Lowery and Jason Isbell",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/02/suno-sued-by-musicians-including-david-lowery-and-jason-isbell/",
+          "category": "ia",
+          "published_at": "2026-09-02T11:30:00+00:00",
+          "summary": "The latest lawsuit filed against AI-music firm Suno comes from a group of US-based musicians: Jason Isbell, David Lowery, Guy Forsyth and Eduardo Calle.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a55e99b6e76",
+          "title": "Musixmatch launches Pro for Labels to help record companies manage and distribute lyrics at scale",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/musixmatch-launches-pro-for-labels-to-help-record-companies-manage-and-distribute-lyrics-at-scale/",
+          "category": "musique",
+          "published_at": "2026-09-02T10:31:24+00:00",
+          "summary": "The platform is aimed at labels ranging from independents managing a small roster to organizations managing thousands of artists and releases.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8600f613bb6",
+          "title": "États-Unis : les caméras Flock, détestées depuis tous les bords politiques",
+          "source": "Next INpact",
+          "url": "https://next.ink/254140/etats-unis-les-cameras-flock-detestees-depuis-tous-les-bords-politiques/",
+          "category": "ia",
+          "published_at": "2026-09-02T09:54:49+00:00",
+          "summary": "Déployées largement à travers le pays, plébiscitées par les forces de l&#8217;ordre mais critiquées pour leurs usages abusifs, les caméras de lecture de plaques minéralogiques et de reconnaissance de véhicules Flock sont devenues un nouveau sujet transpartisan de détestation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ce3ef493932",
+          "title": "La Chine ne veut plus que ses constructeurs cassent les prix à l’étranger",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2323551-la-chine-ne-veut-plus-que-ses-constructeurs-cassent-les-prix-a-letranger.html",
+          "category": "loi",
+          "published_at": "2026-09-02T09:15:00+00:00",
+          "summary": "La guerre des prix qui se déroule en Chine ne doit pas s’étendre hors des frontières nationales. Cette nouvelle directive émanant du gouvernement chinois à l’attention des constructeurs automobiles nationaux a de quoi surprendre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c083b4de94b1",
+          "title": "ChatGPT affiche des publicités : comment désactiver le ciblage publicitaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2322589-chatgpt-affiche-des-publicites-comment-desactiver-le-ciblage-publicitaire.html",
+          "category": "ia",
+          "published_at": "2026-09-02T09:10:06+00:00",
+          "summary": "La publicité arrive dans ChatGPT, et notamment les annonces personnalisées. Si ce modèle économique s'impose à tous (sauf à souscrire un abonnement Plus ou plus haut de gamme), il est possible de choisir si l'on veut avoir du ciblage publicitaire ou non. Voici où désactiver la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2776fade4188",
+          "title": "Sombr Sets 2027 Arena Tour of Australia and New Zealand",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/sombr-2027-arena-tour-australia-new-zealand-1236331137/",
+          "category": "ia",
+          "published_at": "2026-09-02T09:10:02+00:00",
+          "summary": "Frontier Touring is producing the five-city trek, which gets underway April 13 at Adelaide’s ​AEC Arena.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ea9b9971aba",
+          "title": "Si Gladiator 2 est une purge, c’est à cause de son acteur principal pour Ridley Scott",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2323251-si-gladiator-2-est-une-purge-cest-a-cause-de-son-acteur-principal-pour-ridley-scott.html",
+          "category": "ia",
+          "published_at": "2026-09-02T09:03:00+00:00",
+          "summary": "Chercher des boucs émissaires plutôt que de balayer devant sa porte : la spécialité des vétérans d'Hollywood en crise. Échaudé par le marasme financier de&nbsp;Gladiator 2, Ridley Scott aurait pris en grippe sa tête d'affiche Paul Mescal.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "155c6bab97c7",
+          "title": "Hybe India announces ‘Final Call’ for its girl group auditions",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/02/hybe-india-announces-final-call-for-its-girl-group-auditions/",
+          "category": "musique",
+          "published_at": "2026-09-02T08:50:41+00:00",
+          "summary": "Hybe isn’t done yet in its quest to find talent that will form its first Indian girl group. The K-Pop behemoth has announced that it’s expanding the search — which [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cecc8787c38a",
+          "title": "Le Range Rover 100 % électrique est enfin là : 550 ch, 599 km d’autonomie et un prix costaud",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2323459-le-range-rover-100-electrique-est-enfin-la-550-ch-599-km-dautonomie-et-un-prix-costaud.html",
+          "category": "ia",
+          "published_at": "2026-09-02T08:50:00+00:00",
+          "summary": "Après des années de teasing, Range Rover officialise son tout premier SUV 100 % électrique. Un mastodonte de 550 ch qui compte bien ne rien renier de l'ADN maison.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "486f4f08d3f1",
+          "title": "Spotify releases India data from its 2025 Loud & Clear report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/02/spotify-releases-india-data-from-its-2025-loud-clear-report/",
+          "category": "musique",
+          "published_at": "2026-09-02T08:45:36+00:00",
+          "summary": "Key Takeaways Spotify has put out a bunch of India-specific statistics from its annual Loud &#38; Clear report. Among the highlights: the royalties generated by Indian artists on the DSP [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c744a739a77d",
+          "title": "☕️ Capgemini continue de travailler pour l’ICE",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/capgemini-continue-de-travailler-pour-lice/",
+          "category": "ia",
+          "published_at": "2026-09-02T08:39:00+00:00",
+          "summary": "La filiale américaine Capgemini Government Solutions avait signé en 2025 plusieurs contrats avec l’ICE, l’agence américaine de l’immigration transformée par Trump en milice. Quelques jours après la révélation de ces accords, le groupe annonçait la mise en vente de sa filiale. Il…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1ceefaa02c8",
+          "title": "Dolly Parton’s Star on Hollywood Walk of Fame Is Vandalized, Will be Replaced",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/dolly-parton-star-hollywood-walk-of-fame-vandalised-1236331088/",
+          "category": "ia",
+          "published_at": "2026-09-02T08:38:16+00:00",
+          "summary": "Images and videos circulated on social media show that Parton’s name on the plaque has been obscured by multiple dark scratches.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0fa74915c97d",
+          "title": "Claude Fable et Mythos 5.1 : Anthropic dévoile ses modèles les plus puissants, mais marche sur des œufs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2323465-claude-fable-et-mythos-5-1-anthropic-devoile-ses-modeles-les-plus-puissants-mais-marche-sur-des-oeufs.html",
+          "category": "ia",
+          "published_at": "2026-09-02T08:36:35+00:00",
+          "summary": "Avec ses nouveaux modèles Fable 5.1 et Mythos 5.1, Anthropic revendique un nouveau palier de performance, mais déploie en parallèle tout un arsenal de contrôles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87b5aa7519ca",
+          "title": "IKEA lance des têtes thermostatiques Matter à seulement 15 euros",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2323491-ikea-lance-des-tetes-thermostatiques-matter-a-seulement-15-euros.html",
+          "category": "ia",
+          "published_at": "2026-09-02T08:19:34+00:00",
+          "summary": "En Allemagne, Ikea référence le LILJEBAGGE, une tête thermostatique connectée en Matter over Thread pour seulement 14,99 euros. Un tarif trois à cinq fois inférieur à celui de Tado, Netatmo ou Eve, sans passerelle maison obligatoire. Reste une inconnue de taille : la fiabilité…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "316707ff1882",
+          "title": "Un service pirate permettait de consulter 153 millions de permis de conduire américains",
+          "source": "Next INpact",
+          "url": "https://next.ink/254092/un-service-pirate-permettait-de-consulter-153-millions-de-permis-de-conduire-americains/",
+          "category": "ia",
+          "published_at": "2026-09-02T08:01:00+00:00",
+          "summary": "L&#8217;ancien journaliste spécialisé dans la cybersécurité Bryan Krebs raconte comment il a découvert un service illégal donnant accès à la bagatelle de 153 millions de permis de conduire enregistrés aux États-Unis et au Canada. Ses recherches indiquent que les données semblent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f550c1e9d2c",
+          "title": "Sophie Adenot réussit sa troisième sortie spatiale malgré un désagrément sur sa combinaison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2323461-sophie-adenot-reussit-sa-troisieme-sortie-spatiale-malgre-un-desagrement-sur-sa-combinaison.html",
+          "category": "ia",
+          "published_at": "2026-09-02T07:55:40+00:00",
+          "summary": "Sophie Adenot a bouclé sa troisième sortie dans l'espace en trois semaines, une EVA entièrement féminine et réussie, malgré un souci de mobilité de sa combinaison survenu en toute fin de parcours.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7736728ce04e",
+          "title": "Teen Lai Noelle Scores ‘AGT’ Golden Buzzer With ‘Incredible’ Elton John Cover: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/lai-noelle-agt-golden-buzzer-incredible-elton-john-cover-1236330983/",
+          "category": "musique",
+          "published_at": "2026-09-02T07:40:11+00:00",
+          "summary": "The 14-year-old made it count during the Season 21 Live Quarterfinal of \"America's Got Talent.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6170f45ae538",
+          "title": "Firefox 155 apporte sa Fenêtre intelligente en France, la version iOS bloque la publicité",
+          "source": "Next INpact",
+          "url": "https://next.ink/254095/firefox-155-apporte-sa-fenetre-intelligente-en-france-la-version-ios-bloque-la-publicite/",
+          "category": "ia",
+          "published_at": "2026-09-02T07:40:00+00:00",
+          "summary": "Mozilla vient de publier de nouvelles versions de son navigateur pour l&#8217;ensemble des plateformes. Certaines contiennent des nouveautés importantes, particulièrement sur ordinateur et iOS. Nouvelle mouture pour le navigateur de Mozilla, avec comme principale nouveauté la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbd9260c538d",
+          "title": "Ahsoka saison 2 : tournage, sortie en 2027, Rory McCann remplace Ray Stevenson",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1457172-ce-que-lon-sait-de-la-saison-2-de-la-serie-ahsoka.html",
+          "category": "ia",
+          "published_at": "2026-09-02T07:32:19+00:00",
+          "summary": "La saison 2 d'Ahsoka a été confirmée début 2024. Le tournage, entamé en avril 2025 au Royaume-Uni, s'est achevé en octobre 2025. Rosario Dawson, l'interprète d'Ahsoka Tano, a confirmé en mai 2026 que la saison 2 sortira le 20 janvier 2027 sur Disney+.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45dc049561c2",
+          "title": "Présidentielle 2027 : entre « censure » et redirections sauvages, les sites sous pression",
+          "source": "Next INpact",
+          "url": "https://next.ink/254056/presidentielle-2027-entre-censure-et-redirections-sauvages-les-sites-sous-pression/",
+          "category": "institutionnel",
+          "published_at": "2026-09-02T07:10:44+00:00",
+          "summary": "Sur Internet, les élections présidentielles de 2027 sont déjà la cible d’attaques et de détournements. Cette semaine, le site de campagne de Jean-Luc Mélenchon a été classé comme « dangereux ». Il y a aussi des redirections sur des noms de domaines qui ne sont pas sans rappeler…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3845f8a027bb",
+          "title": "Pourquoi The Witcher 3 Remastered est « gratuit »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2323437-pourquoi-the-witcher-3-remastered-est-gratuit.html",
+          "category": "ia",
+          "published_at": "2026-09-02T06:56:19+00:00",
+          "summary": "CD Projekt Red a expliqué qu'il n'avait jamais été question de facturer les améliorations de la future version de The Witcher 3: Wild Hunt. Une manière de remercier les fans, qui devront de toute façon repasser à la caisse avec la future extension.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1403080526b2",
+          "title": "DLSS 5 : NVIDIA promet (encore) une IA générative sous contrôle",
+          "source": "Next INpact",
+          "url": "https://next.ink/254026/dlss-5-nvidia-promet-encore-une-ia-generative-sous-controle/",
+          "category": "ia",
+          "published_at": "2026-09-02T06:08:00+00:00",
+          "summary": "Après la colère des joueurs puis les fuites, vient le temps du lancement officiel : le DLSS 5 de NVIDIA fera ses premiers pas le 4 septembre. Les joueurs de NBA 2K27 seront les premiers servis, pour peu qu&#8217;ils possèdent un PC équipé d&#8217;une carte graphique RTX 5000 (ou…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c99830f618bd",
+          "title": "Sans surprise, GTA 6 a réalisé un carton sur Netflix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2323419-sans-surprise-gta-6-a-realise-un-carton-sur-netflix.html",
+          "category": "ia",
+          "published_at": "2026-09-02T06:03:40+00:00",
+          "summary": "Le Large Aperçu de GTA 6 a réalisé plus de 31 millions de vues sur Netflix, qui bénéficiait de six heures d'exclusivité le jour de la diffusion. Un total suffisant pour se classer numéro 1 dans la majorité des pays.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2059e20e349b",
+          "title": "Bonne nouvelle, The Witcher 3 Remastered ne vous fera pas repartir de zéro",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2322991-the-witcher-3-remastered-ne-vous-fera-pas-repartir-de-zero.html",
+          "category": "ia",
+          "published_at": "2026-09-02T05:30:00+00:00",
+          "summary": "Le studio polonais CD Projekt Red a confirmé une bonne nouvelle pour The Witcher 3 Remastered : il ne sera pas nécessaire de reprendre une partie du début, si l'on désire garder sa progression. Les sauvegardes actuelles fonctionneront.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81707c2b9cd7",
+          "title": "‘Faith Tour’ Concert Film Trailer Captures George Michael at His Peak: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/george-michael-faith-tour-concert-film-trailer-1236330818/",
+          "category": "musique",
+          "published_at": "2026-09-02T05:20:28+00:00",
+          "summary": "Capturing previously unseen film documenting the singer’s landmark 1988 tour, \"The Faith Tour\" is due out in cinemas from Nov. 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "400de5c848c3",
+          "title": "☕️ GoPro rachetée par un fabricant de composants optiques pour les datacenters",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/gopro-rachetee-par-un-fabricant-de-composants-optiques-pour-les-datacenters/",
+          "category": "ia",
+          "published_at": "2026-09-02T05:19:25+00:00",
+          "summary": "GoPro va passer entre les mains de Starman Optical, une entreprise américaine spécialisée dans l&#8217;optique-photonique. Le prétendant met 285 millions de dollars en cash sur la table. Cela parait bien peu, surtout face au sommet des 4 milliards de capitalisation du fabricant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2b24a82e2a4",
+          "title": "6 Adéla Songs to Revisit (Or Discover) Before Her Debut Album ‘PRIMA’ Arrives",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/adela-songs-before-prima-debut-album/",
+          "category": "ia",
+          "published_at": "2026-09-02T01:23:01+00:00",
+          "summary": "From \"Superscar\" to \"Ain't in LA,\" here are a half-dozen essential Adéla songs to check out before the release of her first album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc1902cae358",
+          "title": "Tupac Shakur’s Family Reacts to Duane ‘Keffe D’ Davis’ Murder Conviction: ‘This Is Not the End of the Story’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/legal/tupac-shakur-family-duane-keffe-d-davis-murder-conviction-1236330663/",
+          "category": "ia",
+          "published_at": "2026-09-02T01:08:52+00:00",
+          "summary": "“The family of Tupac Amaru Shakur is elated and relieved by today’s verdict,” the family of the late rapper said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1723dc2aa47",
+          "title": "It’s a ‘Polaroid’ Moment for Eladio Carrión With Second Latin Airplay No. 1",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/eladio-carrion-polaroid-second-latin-airplay-number-1-1236330695/",
+          "category": "ia",
+          "published_at": "2026-09-02T00:32:05+00:00",
+          "summary": "Plus, La Arrolladora Banda El Limón banks 23rd chart-topper with “Si Las Miradas Mataran.”",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-01",
       "articles": [
+        {
+          "id": "fa9aa7b78d54",
+          "title": "YouTube Channel Strategy Manager – The Orchard – London",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/01/youtube-channel-strategy-manager-the-orchard-london/",
+          "category": "musique",
+          "published_at": "2026-09-01T21:09:18+00:00",
+          "summary": "We are seeking a motivated, forward thinking, and dynamic YouTube Channel Strategist to join our UK team. Ideally you will have&#160;experience advising artist and label clients on Youtube strategy. This [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b80d23195ca1",
+          "title": "[MàJ] Google et Apple renomment le lac Ontario en lac d’Amérique pour les États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/253677/google-maps-renomme-le-lac-ontario-en-lac-damerique-pour-les-etats-unis/",
+          "category": "institutionnel",
+          "published_at": "2026-09-01T20:59:49+00:00",
+          "summary": "Donald Trump a ordonné par décret que le lac Ontario soit renommé lac d&#8217;Amérique (Lake America). Google a rapidement implémenté le changement dans son service Maps, mais uniquement pour les internautes basés aux États-Unis. Le lac apparaît toujours comme Lac Ontario pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78cd97f92456",
+          "title": "Premium subscription streaming generated $3.1B for rightsholders in the US in H1 2026, up 7.8% YoY",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/subscription-streaming-generated-20216-riaa/",
+          "category": "justice",
+          "published_at": "2026-09-01T19:01:15+00:00",
+          "summary": "Industry wholesale revenues hit $5.97 billion, up 6.9% YoY\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e39efaa94496",
+          "title": "A 2011 Katy Perry track is TikTok’s global Song of the Summer 2026 – as catalog tracks claim the platform’s entire US Top 4",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/a-2011-katy-perry-track-is-tiktoks-global-song-of-the-summer-2026-as-catalog-tracks-claim-the-platforms-entire-us-top-4/",
+          "category": "ia",
+          "published_at": "2026-09-01T18:23:29+00:00",
+          "summary": "The song, which is 15 years old, was initially released as a single from Perry's Teenage Dream album in 2011\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bda945443aba",
+          "title": "Jason Isbell and David Lowery are suing Suno in a class action suit. Importantly, they’re hitting Mikey Shulman’s company with identity claims – not copyright.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jason-isbell-and-david-lowery-are-suing-suno-in-a-class-action-suit-importantly-theyre-hitting-mikey-shulmans-company-with-identity-claims-not-copyright/",
+          "category": "ia",
+          "published_at": "2026-09-01T17:52:27+00:00",
+          "summary": "The lawsuit accuses Suno of building a product that responds to a musician's name by generating a song, a written description, and a cover image evoking that person\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8dd480d377c0",
+          "title": "Udio continues to argue that its AI training was ‘quintessential fair use’ – and says, even if it infringed Sony Music’s recordings, damages should be ‘as low as $200 per work’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/udio-continues-to-argue-that-its-ai-training-was-quintessential-fair-use-and-says-even-if-it-infringed-sony-musics-recordings-damages-should-be-as-low-as-200-per-work/",
+          "category": "musique",
+          "published_at": "2026-09-01T16:21:18+00:00",
+          "summary": "Sony Music Entertainment and nine affiliated labels sued Udio on July 20, over 30k+ recordings the same court had refused to let the major add to its existing case against the company\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fe1112feb46",
+          "title": "Warner Music launches Warner Records Germany in Berlin, led by Lea Londa",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-launches-warner-records-germany-in-berlin-led-by-lea-londa/",
+          "category": "musique",
+          "published_at": "2026-09-01T16:12:52+00:00",
+          "summary": "Londa, who has worked on releases by Coldplay, Ed Sheeran, and Linkin Park, reports to Jean-Sebastien Permal, SVP of A&#038;R, EMEA and Central Europe.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e35ba140c6c7",
+          "title": "BMG and Concord are now officially merged under the BMG name",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/01/bmg-and-concord-are-now-officially-merged-under-the-bmg-name/",
+          "category": "musique",
+          "published_at": "2026-09-01T15:43:46+00:00",
+          "summary": "What was that we wrote this morning about BMG and Concord expecting to complete their merger this month? Within hours, it was signed off.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30d4409edbf5",
+          "title": "☕️ Ubisoft annonce que For Honor ne sera plus jouable sur Linux et Steam Deck",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ubisoft-annonce-que-for-honor-ne-sera-plus-jouable-sur-linux-et-steam-deck/",
+          "category": "ia",
+          "published_at": "2026-09-01T15:26:07+00:00",
+          "summary": "Ubisoft se prépare à introduire de nouveaux modes de jeu classés (ranked) au sein de For Honor, son champ de bataille virtuel dans lequel on peut gaiement s&#8217;étriper à grands coups de masse d&#8217;armes. La nouvelle est à première vue plutôt bonne pour les adeptes de ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7fbb1b6177b",
+          "title": "US recorded-music revenues grew by 6.9% in the first half of 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/01/us-recorded-music-revenues-grew-by-6-9-in-the-first-half-of-2026/",
+          "category": "musique",
+          "published_at": "2026-09-01T15:19:51+00:00",
+          "summary": "The RIAA has published its 2026 mid-year report, revealing total wholesale revenues of $5.97bn for recorded music in the US in the first half of this year.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "501eee3d1f19",
+          "title": "Les industriels s’opposent à fournir les plans 3D de pièces détachées indisponibles",
+          "source": "Next INpact",
+          "url": "https://next.ink/253980/les-industriels-sopposent-a-fournir-les-plans-3d-de-pieces-detachees-indisponibles/",
+          "category": "ia",
+          "published_at": "2026-09-01T15:06:43+00:00",
+          "summary": "Dans un projet de décret, le gouvernement français prévoit, sous certaines conditions, que le fabricant ou l&#8217;importateur devra fournir les plans 3D des pièces détachées indispensables à l&#8217;utilisation des produits qui sont indisponibles à la vente. Les industriels du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5301072a9b4f",
+          "title": "Soundplate acquires AI music-mastering company Stemmer",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/01/soundplate-acquires-ai-music-mastering-company-stemmer/",
+          "category": "musique",
+          "published_at": "2026-09-01T14:56:42+00:00",
+          "summary": "Soundplate started as a record label before evolving into a company that makes marketing tools for independent artists.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8bbbc1c60520",
+          "title": "Suno and Bright Data sued again by ‘Blurred Lines’ lawyer Richard Busch – this time for Regional Mexican label Gerencia 360",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-and-bright-data-sued-again-by-blurred-lines-lawyer-richard-busch-this-time-for-regional-mexican-label-gerencia-360/",
+          "category": "ia",
+          "published_at": "2026-09-01T14:42:03+00:00",
+          "summary": "Gerencia 360 alleges that Suno copied its Spanish-language works so that it could capture a significant share of the Spanish language AI user market.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "763751a8bf42",
+          "title": "Cartes graphiques : 10 ans de GPU, comment l’IA a jeté un froid",
+          "source": "Next INpact",
+          "url": "https://next.ink/248999/cartes-graphiques-10-ans-de-gpu-comment-lia-a-jete-un-froid/",
+          "category": "ia",
+          "published_at": "2026-09-01T13:58:16+00:00",
+          "summary": "Cela fait quasiment une éternité que NVIDIA lance de nouvelles cartes graphiques tous les ans. 2026 pourrait déroger à la règle et le fautif n’est pas à chercher bien loin : l’IA générative et ses insatiables besoins en GPU et mémoire. AMD et NVIDIA misent tout sur ce marché…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "963f0829f18a",
           "title": "The BMG and Concord merger is complete; Bob Valentine begins role as CEO of new company",
