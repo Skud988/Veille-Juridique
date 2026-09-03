@@ -1,9 +1,534 @@
 {
-  "generated_at": "2026-09-02T12:46:48.201387+00:00",
+  "generated_at": "2026-09-03T12:49:49.699676+00:00",
   "days": [
+    {
+      "date": "2026-09-03",
+      "articles": [
+        {
+          "id": "2ca11e0bc29c",
+          "title": "C’est officiel, Nvidia rachète Hugging Face et met la main sur la plateforme de référence de l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2324401-cest-officiel-nvidia-rachete-hugging-face-et-met-la-main-sur-la-plateforme-de-reference-de-lia.html",
+          "category": "ia",
+          "published_at": "2026-09-03T12:48:58+00:00",
+          "summary": "Nvidia officialise le rachat de Hugging Face pour 12,93 milliards de dollars, après une semaine de rumeurs. D'un Tamagotchi pour ados lancé en 2017 à un rachat par l'entreprise la plus valorisée du monde, la plateforme fondée par trois Français est devenue incontournable dans le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2c2cd0db87f",
+          "title": "Donald et Dingo devaient avoir des design bien différents dans Kingdom Hearts",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2324259-donald-et-dingo-devaient-avoir-des-design-bien-differents-dans-kingdom-hearts.html",
+          "category": "ia",
+          "published_at": "2026-09-03T12:37:46+00:00",
+          "summary": "Un développeur du premier Kingdom Hearts dévoile des illustrations conceptuelles des tenues pensées à l’origine pour Donald et Dingo. Deux looks bien éloignés de ceux du jeu, qui auraient donné une toute autre teinte à l’univers de Kingdom Hearts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c0c9fd3aa08c",
+          "title": "Olivia Dean, Limp Bizkit, KATSEYE Among Headliners For Lollapalooza India 2027",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/lollapalooza-india-2027-lineup-olivia-dean-limp-bizkit-katseye-1236332487/",
+          "category": "ia",
+          "published_at": "2026-09-03T12:31:51+00:00",
+          "summary": "The fifth edition of the festival will take place at the Mahalaxmi Race Course in Mumbai on Jan. 23-24.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdb837477127",
+          "title": "Canada’s Socan files latest music-industry lawsuit against Suno",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/03/canadas-socan-files-latest-music-industry-lawsuit-against-suno/",
+          "category": "ia",
+          "published_at": "2026-09-03T12:30:00+00:00",
+          "summary": "Suno’s legal team are certainly having a busy week. Hot on the heels of the lawsuit filed by four US-based artists against the company comes another legal action – this one from Canadian collecting society Socan.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da372688de33",
+          "title": "Ticketmaster app gets Dice-style update with more personalisation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/03/ticketmaster-app-gets-dice-style-update-with-more-personalisation/",
+          "category": "musique",
+          "published_at": "2026-09-03T12:30:00+00:00",
+          "summary": "Ticketmaster is giving its mobile app a refresh in 21 countries, with a bigger focus on recommendations and personalisation, including a ‘watchlist’ for keeping tabs on upcoming concerts and events.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d46b6726da0",
+          "title": "JO:LA Labs launches AI ‘business operating system’ Roster",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/03/jola-labs-launches-ai-business-operating-system-roster/",
+          "category": "musique",
+          "published_at": "2026-09-03T12:30:00+00:00",
+          "summary": "“No spreadsheets. No juggling apps. No guessing. Just ask,” is the pitch for Roster, which has just been launched by South African music-tech firm JO:LA Labs as “an end-to-end music business operating system” for artists and managers.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81313f78766d",
+          "title": "Captain & Tennille saw biggest Spotify spike from GTA VI trailer",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/03/captain-tennille-saw-biggest-spotify-spike-from-gta-vi-trailer/",
+          "category": "musique",
+          "published_at": "2026-09-03T12:30:00+00:00",
+          "summary": "We wrote about the songs featured in the ‘extended look’ trailer for Grand Theft Auto VI last week. Now Spotify has released some data on which tracks benefited the most from their inclusion.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3acd2a12af4a",
+          "title": "Violation de données en matière de santé : sanction de 500 000 euros à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/sanction-hopital-prive-loire",
+          "category": "cnil",
+          "published_at": "2026-09-03T12:00:00+00:00",
+          "summary": "Le 3 septembre 2026, la CNIL a prononcé une sanction de 500&amp;nbsp;000&amp;nbsp;€ à l’encontre de l’HÔPITAL PRIVÉ DE LA LOIRE, pour ne pas avoir pris des mesures adaptées pour assurer la sécurité des données de ses patients et de certains de leurs proches.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9fa47687836",
+          "title": "Avant de filer vers Mercure, la sonde BepiColombo envoie un ultime selfie d’adieu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2324227-avant-de-filer-vers-mercure-la-sonde-bepicolombo-envoie-un-ultime-selfie-dadieu.html",
+          "category": "institutionnel",
+          "published_at": "2026-09-03T11:53:45+00:00",
+          "summary": "Avant d'attaquer Mercure, la sonde BepiColombo a pris un dernier autoportrait, à 3,3 millions de kilomètres de la planète. Un vrai adieu, puisque les caméras qui l'ont réalisé partent avec le module que la mission vient de larguer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c52323a43abc",
+          "title": "PopIndia acquires Vincey Productions catalogue, signs 30KEY!",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/03/popindia-acquires-vincey-productions-catalogue-signs-30key/",
+          "category": "musique",
+          "published_at": "2026-09-03T11:45:02+00:00",
+          "summary": "Reservoir Media’s India-based subsidiary PopIndia has announced its newest deals in the country. It has acquired the catalogue of Vincey Productions, which specialises in Christian devotional music in south Indian [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "156f611c9e6f",
+          "title": "US DoJ says training AIs on copyrighted material should be ‘fair use’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/03/us-doj-says-training-ais-on-copyrighted-material-should-be-fair-use/",
+          "category": "ia",
+          "published_at": "2026-09-03T11:30:00+00:00",
+          "summary": "In the US, the big legal argument around generative AI is whether training models on copyrighted material qualifies as ‘fair use’ or not. If it does, AI firms don’t need to sign licensing deals and pay rightsholders. If it doesn’t, they do.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea378d655f4a",
+          "title": "Malgré ses difficultés, Lucid va vendre ses voitures électriques France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2324225-malgre-ses-difficultes-lucid-va-vendre-ses-voitures-electriques-france.html",
+          "category": "ia",
+          "published_at": "2026-09-03T11:00:00+00:00",
+          "summary": "Lucid s'associe au groupe Emil Frey pour vendre ses voitures électriques en France, avec une première apparition au Mondial de l'Auto en octobre. Un pari osé pour une marque qui n'écoule quasiment rien en Europe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9d03cc157a8",
+          "title": "☕️ Vivaldi prépare une version entreprise de son navigateur",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/vivaldi-prepare-une-version-entreprise-de-son-navigateur/",
+          "category": "ia",
+          "published_at": "2026-09-03T10:47:00+00:00",
+          "summary": "Vivaldi 8.2 vient tout juste de paraître.&#160;À son bord, plusieurs nouvelles fonctions, dont la simplification de la calculatrice, qui peut désormais s’utiliser directement dans la barre d’adresse. Les opérations y sont réalisées en temps réel, un appui sur Entrée envoyant les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa90eb5bdfef",
+          "title": "Wero dévoile son plan pour tuer les cartes bancaires : bouton Payer avec Wero, paiement NFC en magasin, nouvelle app…",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2324241-wero-devoile-son-plan-pour-tuer-les-cartes-bancaires-bouton-payer-avec-wero-paiement-nfc-en-magasin-nouvelle-app.html",
+          "category": "ia",
+          "published_at": "2026-09-03T10:45:04+00:00",
+          "summary": "À l'occasion d'une conférence de rentrée le 3 septembre 2026, le consortium EPI, qui réunit plusieurs banques européennes, a donné des détails sur sa feuille de route pour les prochaines années. Dès l'automne 2026, il sera possible de payer en ligne via Wero, sans carte…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de5a525a8538",
+          "title": "« Lac Ontario » vs « Lake America » : l’appli MapQuest tient tête à Donald Trump et grimpe en flèche sur l’App Store",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2324217-lac-ontario-vs-lake-america-lappli-mapquest-tient-tete-a-donald-trump-et-grimpe-en-fleche-sur-lapp-store.html",
+          "category": "ia",
+          "published_at": "2026-09-03T10:20:00+00:00",
+          "summary": "Une application de cartographie vient de doubler Google Maps et Apple Plans au classement des téléchargements aux États-Unis. Son seul argument : avoir refusé un ordre venu de la Maison-Blanche.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1386d57be172",
+          "title": "Un parc Dragon Ball en France ? Toei Animation « n’a connaissance d’aucun projet de ce type »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2324179-un-parc-dragon-ball-en-france-toei-animation-na-connaissance-daucun-projet-de-ce-type.html",
+          "category": "ia",
+          "published_at": "2026-09-03T10:08:57+00:00",
+          "summary": "Coup de théâtre après l’annonce officielle, ce 24 août 2026, de la construction d’un parc Dragon Ball en France : il semblerait que les ayants droit ne soient tout simplement pas au courant du projet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fe3e3914eda",
+          "title": "Généalogie des modèles d’IA ouverts : la CNIL propose un outil pour s’y retrouver",
+          "source": "Next INpact",
+          "url": "https://next.ink/254365/genealogie-des-modeles-dia-ouverts-la-cnil-propose-un-outil-pour-sy-retrouver/",
+          "category": "ia",
+          "published_at": "2026-09-03T10:02:00+00:00",
+          "summary": "Hugging Face déborde de modèles d&#8217;IA générative. Mais il est facile de se perdre dans les méandres de tous les modèles ouverts. La CNIL propose un outil permettant de s&#8217;y retrouver. Si on veut utiliser un modèle d&#8217;IA générative pour un projet, le premier…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3b3f5e3ca1d",
+          "title": "Decathlon casse le prix de son vélo de route électrique Van Rysel E-EDR AF de 1 200 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2324101-decathlon-casse-le-prix-de-son-velo-de-route-electrique-van-rysel-e-edr-af-de-1-200-e.html",
+          "category": "ia",
+          "published_at": "2026-09-03T10:00:00+00:00",
+          "summary": "[Deal du jour] Le vélo de route électrique Van Rysel E-EDR AF passe de 2 799,99 € à 1 599,99 € chez Decathlon. Une baisse de 1 200 € sur un modèle qui pèse moins de 14 kg et annonce 100 km d'autonomie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2e744a52a02",
+          "title": "Orano (ex-Areva) : données RH et salariales de 4 700 employés étaient open-bar en interne",
+          "source": "Next INpact",
+          "url": "https://next.ink/254321/orano-ex-areva-donnees-rh-et-salariales-de-4-700-employes-etaient-open-bar-en-interne/",
+          "category": "ia",
+          "published_at": "2026-09-03T09:30:12+00:00",
+          "summary": "Il y a toute une panoplie de types de fuites de données. Celle du jour n’était pas directement accessible depuis Internet, mais des « milliers de salariés » d’Orano pouvaient consulter les données RH et salariales très détaillées de leurs collègues. Elles étaient librement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ceebbf716c2c",
+          "title": "Hubble repère un décagone mystérieux au pôle Sud de Saturne, qui intrigue les astronomes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2324089-hubble-repere-un-decagone-mysterieux-au-pole-sud-de-saturne-qui-intrigue-les-astronomes.html",
+          "category": "ia",
+          "published_at": "2026-09-03T08:55:54+00:00",
+          "summary": "De nouvelles images de Saturne prises par Hubble révèlent une forme étonnante : une structure géométrique à dix côtés. Il pourrait s'agir d'un phénomène atmosphérique encore mal compris.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a4652ee0a69",
+          "title": "☕️ Le CERN va migrer ses ordinateurs industriels de Red Hat vers Debian 13",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-cern-va-migrer-ses-ordinateurs-industriels-vers-debian-13/",
+          "category": "ia",
+          "published_at": "2026-09-03T08:48:00+00:00",
+          "summary": "L’Organisation européenne pour la recherche nucléaire utilise Linux pour ses besoins depuis longtemps. Dès les années 1990, le CERN s’était créé sa propre distribution en se basant sur Red Hat. En 2004, il s’était associé au Fermilab pour créer Scientific Linux (également basée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eef911292936",
+          "title": "Tesla FSD : la France pourrait finalement approuver la conduite autonome",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2324027-tesla-fsd-la-france-pourrait-finalement-approuver-la-conduite-autonome.html",
+          "category": "ia",
+          "published_at": "2026-09-03T08:43:35+00:00",
+          "summary": "Et si le FSD de Tesla allait finalement être homologué en France ? Le ministre des Transports, Philippe Tabarot, s'est entretenu avec Elon Musk pour un échange autour de la technologie et annonce bientôt essayer le logiciel sur route.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "545827b80b03",
+          "title": "Un appel vidéo et un filtre : voici la faille qui donne accès à vos photos WhatsApp sans déverrouiller le téléphone",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2324081-un-appel-video-et-un-filtre-voici-la-faille-qui-donne-acces-a-vos-photos-whatsapp-sans-deverrouiller-le-telephone.html",
+          "category": "ia",
+          "published_at": "2026-09-03T08:38:56+00:00",
+          "summary": "Depuis quelques jours, une manipulation circule sur les réseaux sociaux : elle permettrait d'accéder à toute la galerie photo d'un téléphone Android via WhatsApp, sans même connaître le code de verrouillage. Nous l'avons testée, elle fonctionne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e10c28ed77ac",
+          "title": "« WoW 2 » : une ligne de code modifiée dans la boutique Blizzard relance les rumeurs sur l’avenir de World of Warcraft",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2324031-wow-2-une-ligne-de-code-modifiee-dans-la-boutique-blizzard-relance-les-rumeurs-sur-lavenir-de-world-of-warcraft.html",
+          "category": "ia",
+          "published_at": "2026-09-03T08:36:07+00:00",
+          "summary": "À deux semaines de la BlizzCon, une simple palette de couleurs cachée dans le code de la boutique Blizzard a relancé le vieux fantasme d’un « WoW 2 ».",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c40d6e27312c",
+          "title": "☕️ Google lance Gemini 3.8 Flash et sa déclinaison Cyber",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-lance-gemini-3-8-flash-et-sa-declinaison-cyber/",
+          "category": "institutionnel",
+          "published_at": "2026-09-03T08:31:00+00:00",
+          "summary": "Troisième sortie en seulement six semaines pour Google : la firme de Mountain View vient en effet de déployer la version 3.8 de son modèle Gemini Flash, la famille censée offrir le meilleur rapport entre rapidité et coût de traitement des requêtes. Cette nouvelle mouture succède…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1619718fab62",
+          "title": "Interfaces : le framework WinUI de Microsoft devient pleinement open source",
+          "source": "Next INpact",
+          "url": "https://next.ink/254347/interfaces-le-framework-winui-de-microsoft-devient-pleinement-open-source/",
+          "category": "ia",
+          "published_at": "2026-09-03T08:02:00+00:00",
+          "summary": "WinUI est désormais un projet entièrement hébergé dans un dépôt GitHub, les ingénieurs de Microsoft y travaillant directement. Les travaux devraient donc accélérer et les prétentions de l&#8217;entreprise sont nombreuses, mais elle a souvent agacé les développeurs avec sa…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81e596c097f9",
+          "title": "J’ai testé le Narwal Freo 20 et je passe beaucoup moins souvent la serpillière",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2322823-jai-teste-le-narwal-freo-20-et-je-passe-beaucoup-moins-souvent-la-serpilliere.html",
+          "category": "ia",
+          "published_at": "2026-09-03T08:00:00+00:00",
+          "summary": "Le Freo 20 est le nouvel aspirateur robot haut de gamme de Narwal. Encore assez méconnue en Europe, la marque chinoise avance pourtant une fiche technique particulièrement ambitieuse : 31 000 Pa d’aspiration, deux caméras pour éviter les obstacles, une station presque…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "957f0fd9f086",
+          "title": "Le développement du prochain StarCraft ne serait plus entre les mains de Blizzard",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2324011-le-developpement-du-prochain-starcraft-ne-serait-plus-entre-les-mains-de-blizzard.html",
+          "category": "ia",
+          "published_at": "2026-09-03T07:39:19+00:00",
+          "summary": "L’un des jeux cultes de Blizzard pourrait bien se retrouver confié à un autre studio. Les droits de développement de la franchise pourraient en effet être cédés à Nexon, le géant coréen.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8340dc042335",
+          "title": "RSF pointe le contournement facile des sanctions contre les médias russes via les chatbots",
+          "source": "Next INpact",
+          "url": "https://next.ink/254256/rsf-pointe-le-contournement-facile-des-sanctions-contre-les-medias-russes-via-les-chatbots/",
+          "category": "ia",
+          "published_at": "2026-09-03T07:29:00+00:00",
+          "summary": "L&#8217;ONG a constaté que les sanctions européennes contre les médias russes prises depuis 2022 sont facilement contournables en utilisant les divers chatbots IA existants sur le marché et pose la question de la régulation de ces outils sur ce terrain. Alors que les chatbots IA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85fc0e00d70b",
+          "title": "State of Play : comment suivre la présentation des jeux PS5 et de Final Fantasy 7 Revelation ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2324009-state-of-play-comment-suivre-la-presentation-des-jeux-ps5-et-de-final-fantasy-7-revelation.html",
+          "category": "ia",
+          "published_at": "2026-09-03T06:51:24+00:00",
+          "summary": "Maintenant que la gamescom 2026 est terminée et que la rentrée est déjà bien entamée, Sony convie les joueuses et les joueurs à un nouveau State of Play. Une présentation, prévue ce jeudi 3 septembre 2026, dont le contenu est difficile à anticiper, au-delà des minutes accordées…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8d6a81602ab",
+          "title": "Les IA médicales génèrent des erreurs dans les diagnostics et les noms de médicaments",
+          "source": "Next INpact",
+          "url": "https://next.ink/254301/les-ia-medicales-generent-des-erreurs-dans-les-diagnostics-et-les-noms-de-medicaments/",
+          "category": "ia",
+          "published_at": "2026-09-03T06:49:00+00:00",
+          "summary": "Alors qu&#8217;un nombre croissant de médecins recourent à l&#8217;IA pour enregistrer et retranscrire leurs consultations, un organisme de surveillance du système de santé publique britannique alerte sur la propension de ces dispositifs à générer des erreurs. Ces dernières…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "550c72bc8f72",
+          "title": "Propriété des jeux : le raisonnement par l’absurde de Sony",
+          "source": "Next INpact",
+          "url": "https://next.ink/254327/propriete-des-jeux-le-raisonnement-par-labsurde-de-sony/",
+          "category": "ia",
+          "published_at": "2026-09-03T06:15:00+00:00",
+          "summary": "PlayStation organise son traditionnel State of Play de rentrée ce mercredi. Ce sera l&#8217;occasion de dévoiler de nouveaux jeux PS5 ainsi que des dates de sortie pour plusieurs titres attendus. Sony en profitera-t-elle pour s&#8217;expliquer davantage sur la fin des supports…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a16eec749118",
+          "title": "Le gouvernement américain vole au secours d’OpenAI dans son litige avec le New York Times",
+          "source": "Next INpact",
+          "url": "https://next.ink/254333/le-gouvernement-americain-vole-au-secours-dopenai-dans-son-litige-avec-le-new-york-times/",
+          "category": "ia",
+          "published_at": "2026-09-03T05:48:19+00:00",
+          "summary": "OpenAI peut compter sur un allié de poids face au New York Times. Le gouvernement américain vole en effet au secours de l&#8217;entreprise d&#8217;IA, dans le litige sur les droits d&#8217;auteur qui l&#8217;oppose à l&#8217;éditeur du fameux quotidien. Le ministère de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fcaa6d642922",
+          "title": "Soapbox talks music, holograms and artists: ‘The glasses will change the game’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/03/soapbox-talks-music-holograms-and-artists-the-glasses-will-change-the-game/",
+          "category": "musique",
+          "published_at": "2026-09-03T05:30:00+00:00",
+          "summary": "Soapbox films artists performing and talking, then uses volumetric-video technology to turn that footage into &#8220;life-size holograms&#8221;.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54e9791b371e",
+          "title": "☕️ Pas de démantèlement pour Google dans la publicité en ligne",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/pas-de-demantelement-pour-google-dans-la-publicite-en-ligne/",
+          "category": "ia",
+          "published_at": "2026-09-03T05:01:45+00:00",
+          "summary": "Pas de scission, mais des engagements : aux États-Unis, Google échappe au démantèlement de son activité publicitaire en ligne. La justice estime que les changements proposés sont suffisants pour restaurer la concurrence sur un marché que l&#8217;entreprise a monopolisé.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfba829f0ff5",
+          "title": "Beabadoobee Sets First Arena Run of Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/beabadoobee-first-arena-run-australia-1236332197/",
+          "category": "ia",
+          "published_at": "2026-09-03T04:31:53+00:00",
+          "summary": "\"The Powerlines Tour\" will stop by for shows next March at the Brisbane Entertainment Centre, Rod Laver Arena (Melbourne) and Afterpay Arena (Sydney).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9969f0632b09",
+          "title": "MUNA & UGG’s Back-to-School Collab Is About More Than Fashion — It’s About Self-Expression",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/muna-ugg-2026-back-to-school-collab-shop-online-1236329950/",
+          "category": "ia",
+          "published_at": "2026-09-03T01:27:46+00:00",
+          "summary": "UGG’s back-to-school campaign puts authenticity front and center, tapping MUNA to encourage students to embrace their individuality as they head back to school.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-02",
       "articles": [
+        {
+          "id": "708400ea1e42",
+          "title": "Suno Sued by Canadian Music Rights Organization SOCAN for Copyright Infringement",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ai-music-platform-suno-sued-canadian-music-socan/",
+          "category": "ia",
+          "published_at": "2026-09-02T23:18:50+00:00",
+          "summary": "The organization filed a lawsuit against the AI music platform for allegedly infringing at least 150 songs within its repertoire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e1ae3db1ea18",
+          "title": "Colin Kaepernick Finally Responds to Jay-Z’s Yankee Stadium Freestyle: ‘I View That as Speaking to a Guilty Conscience’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/colin-kaepernick-responds-jay-z-yankee-stadium-freestyle-1236331837/",
+          "category": "ia",
+          "published_at": "2026-09-02T23:05:11+00:00",
+          "summary": "The former NFL quarterback talked to NBC about his initial reaction to being mentioned by the legendary rapper.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c75f377f6228",
+          "title": "UMusic Hotel Set to Open in London in 2026: Here’s Where It’ll Be Located",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/umusic-hotel-london-outernet-partnership-2026/",
+          "category": "musique",
+          "published_at": "2026-09-02T23:01:00+00:00",
+          "summary": "The deal also encompasses expanded hospitality and entertainment experiences across Denmark Street in Soho.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6ebb16a68d2",
+          "title": "Donald Trump’s administration just sided with OpenAI in a key ‘fair use’ case. Here’s what it means for music’s fight with Anthropic and Suno.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/donald-trumps-administration-just-sided-with-openai-in-a-key-fair-use-case-heres-what-it-means-for-musics-fight-with-anthropic-and-suno/",
+          "category": "musique",
+          "published_at": "2026-09-02T21:20:17+00:00",
+          "summary": "It appears to be the first time Washington has intervened in any of the copyright cases now stacked up against AI companies\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e67c94379e30",
+          "title": "SM Entertainment and Tencent Music establish Beijing joint venture STE, with Super Junior-M’s Zhoumi as CEO",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sm-entertainment-and-tencent-music-establish-beijing-joint-venture-ste-with-super-junior-ms-zhoumi-as-ceo/",
+          "category": "musique",
+          "published_at": "2026-09-02T19:37:28+00:00",
+          "summary": "STE will develop and manage artists for the Greater China market, and says it's preparing a new Chinese idol group for a debut within two to three years\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c60527a4ef6",
+          "title": "Mateusz Smółka named Managing Director of Warner Music Eastern Europe",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/mateusz-smolka-named-managing-director-of-warner-music-eastern-europe/",
+          "category": "musique",
+          "published_at": "2026-09-02T19:17:56+00:00",
+          "summary": "Smółka, who joins from Spotify after eight years at the company, will take up the newly created role on Monday (September 7).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d30e4db0a7c",
+          "title": "After two failed arrest bids, Korean police say HYBE Chairman Bang Si-hyuk will be referred to prosecutors this week – without detention",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-two-failed-arrest-bids-korean-police-say-hybe-chairman-bang-si-hyuk-will-be-referred-to-prosecutors-this-week-without-detention/",
+          "category": "ia",
+          "published_at": "2026-09-02T19:12:57+00:00",
+          "summary": "The move would close a police investigation into the K-pop company's 2020 stock market listing that has been running since December 2024.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5e9fe31edfff",
+          "title": "Bad Bunny wins crucial reggaeton ‘dembow’ rhythm ruling",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bad-bunny-wins-reggaeton-dembow-ruling/",
+          "category": "ia",
+          "published_at": "2026-09-02T19:00:50+00:00",
+          "summary": "Judge André Birotte Jr. ruled that plaintiffs failed to identify a single copyrighted work of their own combining the elements they say defendants took.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9110fe6fdf2a",
+          "title": "Now Canada’s SOCAN sues Suno, claiming it illegally copied hits like ‘Both Sides Now’ and ‘Sk8er Boi’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/now-canada-socan-sues-suno-claiming-it-illegally-copied-hits-like-both-sides-now-and-sk8er-boi/",
+          "category": "ia",
+          "published_at": "2026-09-02T18:48:16+00:00",
+          "summary": "SOCAN is the third collecting society to take Suno to court – and the first to file since one of them won\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab3e0f0cf317",
+          "title": "[Outil Next] Partez à la découverte des 10 millions de noms de domaine en .fr",
+          "source": "Next INpact",
+          "url": "https://next.ink/254212/outil-next-partez-a-la-decouverte-des-10-millions-de-noms-de-domaines-en-fr/",
+          "category": "institutionnel",
+          "published_at": "2026-09-02T15:21:00+00:00",
+          "summary": "Combien de noms de domaine contiennent les mots-clés présidentielle et 2027 ? Quels sont ceux avec plombiers ou encore avocat ? Cet outil développé par Next vous apporte les réponses, avec un traitement 100 % local dans votre navigateur. À l&#8217;occasion des 40 ans du .fr,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a53da2b4d7c2",
+          "title": "Le .fr fête ses 40 ans avec 4,6 millions de noms de domaine actifs",
+          "source": "Next INpact",
+          "url": "https://next.ink/254120/le-fr-fete-ses-40-ans-avec-46-millions-de-noms-de-domaine-actifs/",
+          "category": "ia",
+          "published_at": "2026-09-02T15:17:00+00:00",
+          "summary": "40 ans plus tard, le .fr est un succès avec 4,6 millions de noms de domaine actifs. Depuis sa création, plus de 10 millions de noms de domaine ont été enregistrés. Le .fr est né le 2 septembre 1986, il fête donc aujourd’hui ses 40 ans. Pour se situer, Arpanet basculait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3eebac029be",
+          "title": "☕️ Anthropic relance la course aux modèles avec Claude Fable 5.1",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/anthropic-relance-la-course-aux-modeles-avec-claude-fable-5-1/",
+          "category": "ia",
+          "published_at": "2026-09-02T14:59:30+00:00",
+          "summary": "Après un hiatus de quasiment deux mois, Anthropic relance la machine aux modèles IA avec les versions 5.1 de Claude Fable et Mythos. Il s&#8217;agit du même modèle, mais Mythos 5.1 abaisse ses garde-fous en matière de cybersécurité et en sciences de la vie&#160;; il n&#8217;est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e930ebfc2d52",
+          "title": "Nexus Mods met la main sur SteamDB",
+          "source": "Next INpact",
+          "url": "https://next.ink/254288/nexus-mods-met-la-main-sur-steamdb/",
+          "category": "ia",
+          "published_at": "2026-09-02T14:31:24+00:00",
+          "summary": "Tremblement de terre dans le petit monde du jeu vidéo PC. SteamDB, la célèbre base de données (non officielle) qui permet d&#8217;analyser le catalogue de Steam, a été achetée par Nexus Mods. Dans l&#8217;immédiat, rien ne change. Mais la plateforme de distribution et de gestion…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "969c17064412",
+          "title": "OpenAI : haute voltige marketing autour de l’attaque contre Hugging Face",
+          "source": "Next INpact",
+          "url": "https://next.ink/254141/openai-haute-voltige-marketing-autour-de-lattaque-contre-hugging-face/",
+          "category": "ia",
+          "published_at": "2026-09-02T13:52:37+00:00",
+          "summary": "La publication de plusieurs rapports techniques sur l’incident ayant conduit des agents IA d’OpenAI à attaquer Hugging Face permet aujourd’hui de mieux comprendre ce qui s’est passé. La chronologie est surprenante et pointe vers de nombreuses défaillances internes, mais le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d966cbe47fb",
+          "title": "☕️ Sur Mac, les développeurs tiers peuvent laisser tomber les machines Intel",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sur-mac-les-developpeurs-tiers-peuvent-laisser-tomber-les-machines-intel/",
+          "category": "ia",
+          "published_at": "2026-09-02T13:32:00+00:00",
+          "summary": "Apple a envoyé un e-mail aux développeurs tiers pour les avertir d’un changement&#160;: «&#160;Nous vous contactons pour vous informer que les apps universelles pour macOS proposées sur le Mac App Store et nécessitant macOS 13 ou une version ultérieure peuvent désormais…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "21aeb86c8e3c",
           "title": "DMA : Opera perd devant le Tribunal de l’UE, Edge n’est pas un contrôleur d’accès",
