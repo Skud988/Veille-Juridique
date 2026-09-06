@@ -1,9 +1,144 @@
 {
-  "generated_at": "2026-09-05T11:50:05.167489+00:00",
+  "generated_at": "2026-09-06T12:08:51.269193+00:00",
   "days": [
+    {
+      "date": "2026-09-06",
+      "articles": [
+        {
+          "id": "4e42c9d03d18",
+          "title": "40 000 milliards de km : cette mission spatiale arrivera à destination dans 80 000 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2323553-prevue-pour-2029-cette-mission-arrivera-a-destination-dans-80-000-ans.html",
+          "category": "ia",
+          "published_at": "2026-09-06T11:32:00+00:00",
+          "summary": "Une mission spatiale poussée par une organisation indépendante vise Alpha du Centaure, le système stellaire le plus proche du Système solaire. Mais le voyage est long, très, très long : il faudra des dizaines de milliers d'années pour y arriver.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4573b9f47bec",
+          "title": "Stowaway, le site qui vous fait « embarquer » dans les avions qui survolent votre maison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2323729-ce-site-permet-dembarquer-virtuellement-dans-les-avions-qui-passent-au-dessus-de-chez-vous.html",
+          "category": "ia",
+          "published_at": "2026-09-06T10:01:00+00:00",
+          "summary": "Un avion traverse le ciel au-dessus de votre logement ? Le site Stowaway permet de le suivre en temps réel, puis d’admirer le paysage depuis son « hublot ». Si l'expérience est assez bien faite, elle ne repose évidemment pas sur une caméra installée à bord.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8bd48bfaea54",
+          "title": "System of a Down Release ‘Johnny’ to Streaming for the First Time",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/system-of-a-down-1236335101/",
+          "category": "justice",
+          "published_at": "2026-09-06T09:03:02+00:00",
+          "summary": "The 25th anniversary Toxicity reissue also corrects a two-decade tracklist error and arrives alongside a run of stadium tour dates.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8ef36f91db4",
+          "title": "Les films et séries vous prennent pour des imbéciles, et c’est leur plus gros défaut",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2322189-les-films-et-series-vous-prennent-pour-des-imbeciles-et-cest-leurs-plus-gros-defauts.html",
+          "category": "ia",
+          "published_at": "2026-09-06T08:15:00+00:00",
+          "summary": "Entre dialogues sur-expliqués, sous-textes éliminés et consignes de révision forcée, la production audiovisuelle ne fait plus confiance à son public. Adaptées à des spectateurs le nez rivé sur leur smartphone, les créations actuelles cèdent à un nivellement par le bas généralisé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f722eb304024",
+          "title": "Cet éditorialiste qui critiquait l’électrique a changé d’avis. Enfin, presque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2325847-cet-editorialiste-qui-critiquait-lelectrique-a-change-davis-enfin-presque.html",
+          "category": "ia",
+          "published_at": "2026-09-06T06:58:00+00:00",
+          "summary": "Il n’aimait pas la voiture électrique. Il s’y est mis. Et puis...le premier long trajet ne l'a pas emballé. La chronique de François Lenglet sur RTL a été décortiqué dans l'édito Watt Else du 3 septembre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5f243fa00cd",
+          "title": "Le Final Fantasy en HD-2D est disponible en précommande : voici où le trouver au meilleur prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2325513-le-final-fantasy-en-hd-2d-est-disponible-en-precommande-voici-ou-le-trouver-au-meilleur-prix.html",
+          "category": "justice",
+          "published_at": "2026-09-06T06:30:00+00:00",
+          "summary": "[Précommande] Le prochain Final Fantasy veut renouer avec les racines de la saga, tout en profitant des technologies modernes. Final Fantasy Resonance, premier épisode de la licence à adopter le style HD-2D, est désormais disponible en précommande avant sa sortie prévue en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5848f2cad7d4",
+          "title": "Taylor Swift Talks ‘Double Meaning’ of ‘I Knew It, I Knew You’ Lyrics in Rare Country Radio Appearance",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/taylor-swift-i-knew-it-i-knew-you-meaning-country-radio-1236335029/",
+          "category": "ia",
+          "published_at": "2026-09-06T01:47:00+00:00",
+          "summary": "\"I love that the lyrics of this song are really being delved into by the fans. There are several lyrics that have more than one meaning to them,\" she said of \"I Knew It, I Knew You.\"",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-05",
       "articles": [
+        {
+          "id": "5075e8d3676c",
+          "title": "Duane ‘Keffe D’ Davis Gives First Interview After Tupac Shakur Murder Conviction",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/legal/keffe-d-duane-davis-first-interview-tupac-shakur-murder-1236334996/",
+          "category": "ia",
+          "published_at": "2026-09-05T19:13:11+00:00",
+          "summary": "The Compton, California, native was found guilty of first-degree murder on Sept. 1.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee5cc798fbf3",
+          "title": "J’ai vu Warlock, et Hogwarts Legacy ferait bien de s’en inspirer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2323725-jai-vu-warlock-et-hogwarts-legacy-ferait-bien-de-sen-inspirer.html",
+          "category": "justice",
+          "published_at": "2026-09-05T16:31:00+00:00",
+          "summary": "Wizards of the Coast continue de faire fructifier la licence Donjons et Dragons (D&amp;D pour les intimes) avec Warlock, un jeu d'action-aventure attendu pour 2027. On a assisté à une présentation à la gamescom, et ça s'annonce prometteur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae9b2795703b",
+          "title": "Lainey Wilson Set to Host 2026 CMA Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/lainey-wilson-host-2026-cma-awards-1236334600/",
+          "category": "musique",
+          "published_at": "2026-09-05T16:00:11+00:00",
+          "summary": "The announcement was made live on ESPN's College GameDay.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9cd2be54c64c",
+          "title": "C’est la plus grande carte des champs magnétiques cosmiques jamais réalisée, grâce à un radiotélescope australien",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2323279-cest-la-plus-grande-carte-des-champs-magnetiques-cosmiques-jamais-realisee-grace-a-un-radiotelescope-australien.html",
+          "category": "ia",
+          "published_at": "2026-09-05T13:31:00+00:00",
+          "summary": "Une carte des champs magnétiques cosmiques a été réalisée avec un télescope radio australien, le plus puissant du monde.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d75e24e9e78",
+          "title": "Ce Lego Star Wars TIE Fighter Smart Play perd plus de 20 € sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2325675-ce-lego-star-wars-tie-fighter-smart-play-perd-plus-de-20-e-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-09-05T12:15:00+00:00",
+          "summary": "[Deal du jour] Le Lego Star Wars TIE Fighter tombe à 47,22 € sur Amazon, contre 69,99 € habituellement. De quoi ajouter un chasseur impérial à la flotte sans trop entamer les crédits galactiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "726a624a173e",
+          "title": "« En clair, je disparais d’Internet » : une décision lui fait perdre le nom de domaine sur lequel il a bâti toute sa vie numérique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2325259-en-clair-je-disparais-dinternet-une-decision-lui-fait-perdre-le-nom-de-domaine-sur-lequel-il-a-construit-toute-sa-vie-numerique.html",
+          "category": "ia",
+          "published_at": "2026-09-05T12:00:00+00:00",
+          "summary": "Dans un témoignage partagé sur son blog, un ancien développeur de Google raconte comment le nom de domaine qu'il pensait détenir pour le reste de sa vie lui a échappé, et comment il pourrait finir entre de mauvaises mains.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "a2c9dfe8e0fe",
           "title": "Tu te mets combien, version Next ! Avez-vous les réponses aux 10 questions ?",
