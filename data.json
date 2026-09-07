@@ -1,9 +1,384 @@
 {
-  "generated_at": "2026-09-06T12:08:51.269193+00:00",
+  "generated_at": "2026-09-07T14:15:20.049254+00:00",
   "days": [
+    {
+      "date": "2026-09-07",
+      "articles": [
+        {
+          "id": "3e68a6e01863",
+          "title": "☕️ Nitter et XCancel reprennent du service",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/nitter-et-xcancel-reprennent-du-service/",
+          "category": "ia",
+          "published_at": "2026-09-07T14:12:00+00:00",
+          "summary": "Fin août, Nitter et Xcancel annonçaient la suspension de leurs activités de leurs services. Ces deux plateformes alternatives pour tous les internautes qui souhaitent consulter ou partager des publications du réseau social X reprennent finalement leurs activités. Sur le site de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1644ed366275",
+          "title": "☕️ Le gouvernement fédéral suisse teste l’abandon de Microsoft 365 sur 3 000 ordinateurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-gouvernement-federal-suisse-teste-labandon-de-microsoft-365-sur-3-000-ordinateurs/",
+          "category": "ia",
+          "published_at": "2026-09-07T13:37:59+00:00",
+          "summary": "Après une première expérimentation auprès de 172 agents volontaires, le gouvernement fédéral suisse test de remplacer la suite Microsoft 365 par une solution open source sur 3 000 ordinateurs. La Chancellerie prévoit que cette migration, qui concerne environ 7 % des postes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "658a9580e209",
+          "title": "Akira a failli être adapté en animé par Gainax, mais le studio d’Evangelion a eu peur de l’aura de Katsuhiro Otomo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2326861-akira-a-failli-etre-adapte-en-anime-par-gainax-mais-le-studio-devangelion-a-eu-peur-de-laura-de-katsuhiro-otomo.html",
+          "category": "musique",
+          "published_at": "2026-09-07T13:26:04+00:00",
+          "summary": "Alors qu’Akira ressort en salles le 9 septembre 2026 dans une version IMAX restaurée en 4K, un producteur japonais nous apprend que le manga de Katsuhiro Otomo aurait pu faire l'objet d'une autre adaptation animée. Un projet qui n’a finalement jamais vu le jour pour une raison…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7489fed582a",
+          "title": "Heidi O’Neill resigns from Spotify’s board after nearly nine years, days before starting as Lululemon CEO",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/heidi-oneill-resigns-from-spotifys-board-after-nearly-nine-years-days-before-starting-as-lululemon-ceo/",
+          "category": "musique",
+          "published_at": "2026-09-07T13:20:20+00:00",
+          "summary": "O'Neill becomes Chief Executive Officer of Lululemon on September 8, five days after her Spotify exit took effect. She will also join the Lululemon board.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19a7d5779f98",
+          "title": "Spain’s recorded music market grew 11.6% in H1 2026… with subscription streaming revenues up 15.1% YoY",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spains-recorded-music-market-grew-11-6-in-h1-2026-with-subscription-streaming-revenues-up-15-1-yoy/",
+          "category": "musique",
+          "published_at": "2026-09-07T13:08:03+00:00",
+          "summary": "Promusicae reported that paid subscription streaming generated €121 million ($141m) in the six months to the end of June, up 15.1% YoY.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e29afa7e912b",
+          "title": "« Elle a largement dépassé les prévisions initiales » : la Volkswagen ID. Polo déjà victime de son succès",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2326805-elle-a-largement-depasse-les-previsions-initiales-la-volkswagen-id-polo-deja-victime-de-son-succes.html",
+          "category": "ia",
+          "published_at": "2026-09-07T12:58:49+00:00",
+          "summary": "Alors que les Volkswagen ID. Polo arrivent tout juste en concession pour démarrer les essais clients, le modèle affiche déjà un carnet de commandes saturé avec des délais qui s’allongent.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "244522161b02",
+          "title": "L’Europe avance sur son autonomie spatiale, Donald Trump joue les trouble-fête",
+          "source": "Next INpact",
+          "url": "https://next.ink/255050/leurope-avance-sur-son-autonomie-spatiale-donald-trump-joue-les-trouble-fete/",
+          "category": "ia",
+          "published_at": "2026-09-07T12:42:00+00:00",
+          "summary": "Le Sommet international sur l’espace va se dérouler cette semaine. Si la fusée allemande Spectrum a bien réussi son lancement ce week-end en Norvège, des tensions entre la France et l&#8217;Allemagne montrent qu&#8217;il n&#8217;est pas sûr que l&#8217;Europe veuille…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f6045b97110",
+          "title": "Sonos CEO explains how ‘Custom Agents’ will work for listeners",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/07/sonos-ceo-explains-how-custom-agents-will-work-for-listeners/",
+          "category": "musique",
+          "published_at": "2026-09-07T12:30:00+00:00",
+          "summary": "Last week we reported on Sonos’s big software announcement, including a feature called ‘custom agents’ that would let people “create their own [AI] agents through the system, each with its own model, persona and voice”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1176e9c96f07",
+          "title": "Court issues mixed ruling in latest Spotify-MLC legal skirmish",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/07/court-issues-mixed-ruling-in-latest-spotify-mlc-legal-skirmish/",
+          "category": "musique",
+          "published_at": "2026-09-07T12:30:00+00:00",
+          "summary": "A federal court in New York has handed down a mixed ruling in the ongoing legal battle between Spotify and the Mechanical Licensing Collective (MLC) over mechanical royalties and ‘bundle’ subscriptions.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "152f2ea490ac",
+          "title": "Semi-finalists named for Swimming with Narwhals startups contest",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/07/semi-finalists-named-for-swimming-with-narwhals-startups-contest/",
+          "category": "musique",
+          "published_at": "2026-09-07T12:30:00+00:00",
+          "summary": "The first round of judging is over for the Music Tectonics conference’s annual ‘Swimming with Narwhals’ startups contest. 10 companies have been named as semi-finalists for this year’s event.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bcc83d94763",
+          "title": "Spotify’s Latin-focused playlist ‘Fuego’ gets its own Substack",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/07/spotifys-latin-focused-playlist-fuego-gets-its-own-substack/",
+          "category": "musique",
+          "published_at": "2026-09-07T12:30:00+00:00",
+          "summary": "If you don’t have a Substack in 2026, are you even on the internet? And seemingly that now applies to popular music-streaming playlist brands too.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "036745b127b4",
+          "title": "Release cycles are now ‘planning cycles’ in un:hurd 2.0 update",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/07/release-cycles-are-now-planning-cycles-in-unhurd-2-0-update/",
+          "category": "musique",
+          "published_at": "2026-09-07T12:30:00+00:00",
+          "summary": "Music-marketing startup un:hurd Music has rolled out a major update – version 2.0 – across its website and mobile apps.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfd867fa162d",
+          "title": "[Édito] Et si on arrêtait d’introduire des chevaux de Troie dans nos foyers ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/254639/edito-et-si-on-arretait-dintroduire-des-chevaux-de-troie-dans-nos-foyers/",
+          "category": "justice",
+          "published_at": "2026-09-07T11:57:38+00:00",
+          "summary": "Robots aspirateurs, tondeuses connectées, caméras, sonnettes, capteurs&#8230; le célèbre Internet des objets offre des possibilités fascinantes pour améliorer le confort du foyer au quotidien, mais il se gagne bien souvent au prix de compromis aussi inacceptables que passés sous…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "437249ea45c2",
+          "title": "La tenue Space Force rêvée par Trump puise dans deux films qui désignent les méchants de l’histoire, et la référence passe mal",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2326523-donald-trump-a-montre-une-tenue-space-force-qui-sinspire-de-starship-troopers-et-star-wars-et-la-reference-passe-mal.html",
+          "category": "ia",
+          "published_at": "2026-09-07T11:10:00+00:00",
+          "summary": "Donald Trump a dévoilé une tenue de la Space Force générée par IA, qu'il dit inspirée de Starship Troopers. Sauf que ce film est une satire du fascisme, et que le résultat évoque également l'Empire galactique de Star Wars, dont l'esthétique puise dans l'Allemagne nazie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ac650a80306",
+          "title": "Audi A2 e-tron : premier avis à bord de l’électrique qui promet 649 km d’autonomie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2326471-audi-a2-e-tron-premier-avis-a-bord-de-lelectrique-qui-promet-649-km-dautonomie.html",
+          "category": "ia",
+          "published_at": "2026-09-07T10:44:57+00:00",
+          "summary": "Vingt ans après la disparition de la première A2, Audi ressuscite le nom sur une compacte 100 % électrique. Je suis monté à bord de ce qui pourrait bien être la bonne surprise de la marque.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "098de687dd27",
+          "title": "Autistici/Inventati annonce sa dissolution, et la fermeture prochaine de ses services",
+          "source": "Next INpact",
+          "url": "https://next.ink/255087/autistici-inventati-annonce-sa-dissolution-et-la-fermeture-prochaine-de-ses-services/",
+          "category": "ia",
+          "published_at": "2026-09-07T10:41:16+00:00",
+          "summary": "Onze jours après avoir été désigné comme organisation terroriste par l&#8217;administration Trump, le collectif hacktiviste d&#8217;origine italienne Autistici/Inventati a annoncé mettre un terme à ses activités. Il explique ne plus pouvoir garantir la sécurité de ses membres,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "685b77a7c97b",
+          "title": "Switch 2 collector, date pour Ocarina of Time, film… : tout ce que l’on attend au Ninendo Direct centré sur Zelda",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2326485-switch-2-collector-date-pour-ocarina-of-time-film-tout-ce-que-lon-attend-au-ninendo-direct-centre-sur-zelda.html",
+          "category": "ia",
+          "published_at": "2026-09-07T10:30:00+00:00",
+          "summary": "Nintendo a donné un double rendez-vous aux joueuses et aux joueurs cette semaine, à commencer par un Direct dédié aux 40 ans de Zelda. Au programme, 30 minutes d'annonces en lien avec la saga phare. Et il n'y aura pas que des jeux vidéo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a56f61a00eb",
+          "title": "La Fnac et Darty commencent les French Days avec de nombreuses promotions : voici les meilleures offres",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2326441-la-fnac-et-darty-commencent-les-french-days-avec-de-nombreuses-promotions-voici-les-meilleures-offres.html",
+          "category": "ia",
+          "published_at": "2026-09-07T10:20:10+00:00",
+          "summary": "Les French Days sont de retour, et avec eux une avalanche de promotions dans les rayons high-tech. Mais entre les vraies bonnes affaires, les remises gonflées et les produits simplement affichés comme « en promotion », difficile de s'y retrouver. Pour vous aider à faire le tri,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9173e2c6946",
+          "title": "Les French Days démarrent fort : voici les premières promos qui nous font hésiter à sortir la carte",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2326349-french-days-les-meilleures-offres-du-7-septembre.html",
+          "category": "ia",
+          "published_at": "2026-09-07T09:53:19+00:00",
+          "summary": "Les French Days viennent de commencer et on a déjà repéré quelques offres. Un grand écran OLED pour jouer à GTA 6, une console pour les nostalgiques en précommande, des écouteurs qu’on trouvait trop chers à leur sortie… Suivez nos trouvailles en direct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ace44fc36b9",
+          "title": "Quand un bug d’implémentation coûte 320 millions de dollars : ce que l’on sait du piratage de Liquid Network",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2326469-quand-un-bug-dimplementation-coute-320-millions-de-dollars-ce-que-lon-sait-du-piratage-de-liquid-network.html",
+          "category": "ia",
+          "published_at": "2026-09-07T09:35:52+00:00",
+          "summary": "Liquid Network a perdu près de 320 millions de dollars en Bitcoin en l'espace de quelques heures, sans qu'aucune clé n'ait été volée. Explications.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f418db5edaf8",
+          "title": "Asahi Linux progresse sur les Mac Apple Silicon avec le support de la puce M3",
+          "source": "Next INpact",
+          "url": "https://next.ink/255060/asahi-linux-progresse-sur-les-mac-apple-silicon-avec-le-support-de-la-puce-m3/",
+          "category": "ia",
+          "published_at": "2026-09-07T09:20:38+00:00",
+          "summary": "Cette distribution Linux se destine avant tout aux Mac équipés de puces Apple Silicon, que l’entreprise a inaugurées il y a six ans avec sa puce M1. Alors que les premières machines M6 sont depuis peu sur le marché,&#160;Asahi annonce la prise en charge des puces M3. Mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85f1aa2f8a8f",
+          "title": "Radiohead Announce First Australian Tour in 15 Years With 16 Arena Shows",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/radiohead-announce-australia-tour-2027-1236335276/",
+          "category": "ia",
+          "published_at": "2026-09-07T09:06:19+00:00",
+          "summary": "The run marks Radiohead's first Australian tour since 2012.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d1e42b0368f",
+          "title": "☕️ La start-up qui veut relancer Twitter modifie le nom de son service pour Tweet.app",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-start-up-qui-veut-relancer-twitter-modifie-le-nom-de-son-service-pour-tweet-app/",
+          "category": "justice",
+          "published_at": "2026-09-07T08:50:13+00:00",
+          "summary": "L’évolution n’a pas tardé. Alors que le projet Opération Bluebird, monté par deux salariés de Twitter, époque pré-rachat par Elon Musk, lançait fin août le service Twitter.now, les voilà forcés de le renommer pour tweet.app. Le changement fait suite à la décision écrite du juge…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9690a9d456eb",
+          "title": "Pour Nicolas Cage, une seule saison de Spider-Noir suffit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2326403-pour-nicolas-cage-une-seule-saison-de-spider-noir-suffit.html",
+          "category": "ia",
+          "published_at": "2026-09-07T08:36:48+00:00",
+          "summary": "Nicolas Cage s'est exprimé sur l'annulation de la série Spider-Noir, dans laquelle il tient le rôle-titre. Il n'a pas l'air plus attristé que cela.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b21af494761",
+          "title": "C’est historique pour l’Europe : une fusée a réussi à rejoindre l’orbite dès son 2e vol et depuis le sol européen",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2326373-cest-historique-pour-leurope-une-fusee-a-reussi-a-rejoindre-lorbite-des-son-2e-vol-et-depuis-le-sol-europeen.html",
+          "category": "ia",
+          "published_at": "2026-09-07T08:10:18+00:00",
+          "summary": "Isar Aerospace vient de réussir ce qu'aucune société privée européenne n'avait fait&nbsp;: placer des satellites en orbite depuis le sol du Vieux Continent. Et la start-up allemande y est parvenue dès le deuxième vol de sa fusée Spectrum.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f033dfba6828",
+          "title": "Leasing social 2026 : Renault n’a presque plus de stock disponible",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2326411-leasing-social-2026-renault-na-presque-plus-de-stock-disponible.html",
+          "category": "ia",
+          "published_at": "2026-09-07T08:10:16+00:00",
+          "summary": "Le leasing social a encore environ 20 000 dossiers éligibles sur les 50 000 prévus cette année. Renault est en revanche déjà en rupture de stock sur certains modèles particulièrement demandés dans le cadre du dispositif.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c89a39c079ed",
+          "title": "GPT-6 Astra : jusqu’à 33 dollars pour un prompt (et ce n’est pas le plus cher d’OpenAI)",
+          "source": "Next INpact",
+          "url": "https://next.ink/255028/gpt-6-astra-jusqua-33-dollars-pour-un-prompt-et-ce-nest-pas-le-plus-cher-dopenai/",
+          "category": "ia",
+          "published_at": "2026-09-07T07:57:31+00:00",
+          "summary": "Astra est présenté comme une nouvelle étape dans la quête de l’AGI (intelligence artificielle générale). Disponible depuis peu, il dévore les limites d’utilisation à vitesse grand V selon de nombreux retours. Qu’en est-il du coût réel pour les utilisateurs ? La semaine dernière,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9191bee11c91",
+          "title": "Après avoir dit non, la France entrouvre la porte au FSD de Tesla",
+          "source": "Next INpact",
+          "url": "https://next.ink/254987/apres-avoir-dit-non-la-france-entrouvre-la-porte-au-fsd-de-tesla/",
+          "category": "ia",
+          "published_at": "2026-09-07T07:23:59+00:00",
+          "summary": "Deux véhicules Tesla équipés du FSD, le dispositif de conduite autonome du constructeur automobile, vont être testés sur route en France. Le ministre des Transports, Philippe Tabarot, avait pourtant dit non au FSD en juillet&#160;; une discussion avec Elon Musk a arrondi les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d6923e159ed",
+          "title": "Projet Zenith : Microsoft drague les développeurs IA avec un Windows 11 prémâché",
+          "source": "Next INpact",
+          "url": "https://next.ink/254973/projet-zenith-microsoft-drague-les-developpeurs-ia-avec-un-windows-11-premache/",
+          "category": "ia",
+          "published_at": "2026-09-07T05:49:26+00:00",
+          "summary": "Microsoft veut catalyser le marché des développeurs travaillant avec l&#8217;IA. L&#8217;éditeur a dévoilé le «&#160;projet Zenith », un Windows 11 spécialement configuré pour répondre aux besoins de cette clientèle, sur des PC ultra-gonflés. Était-ce bien nécessaire ? Microsoft…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d82d04f7cd69",
+          "title": "ARIA Award for Best Music Festival Returns for Second Year",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/aria-award-best-music-festival-returns/",
+          "category": "musique",
+          "published_at": "2026-09-07T05:10:11+00:00",
+          "summary": "Laneway Festival won the inaugural award in 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4dc64dd96d3",
+          "title": "Here Are All the Winners in the 7 Music Categories at the 2026 Primetime Emmys: Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2026-primetime-emmys-music-categories-winners-full-list-1236335210/",
+          "category": "musique",
+          "published_at": "2026-09-07T03:22:15+00:00",
+          "summary": "Gavin Brivik and Andrew Bird were giant-slayers, beating both Lady Gaga and South Park's Trey Parker.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "adb8d9b28f07",
+          "title": "Ciara Is Pregnant, Expecting Baby No. 5 With Russell Wilson",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/lifestyle/ciara-pregnant-baby-5-russell-wilson-1236335251/",
+          "category": "ia",
+          "published_at": "2026-09-07T01:42:30+00:00",
+          "summary": "\"One more person to love,\" she captioned her pregnancy announcement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c95478393400",
+          "title": "Kid Cudi Responds to Criticism of Ye Support After Chicago Stage Reunion",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kid-cudi-kanye-west-reunion-chicago-reaction-1236335224/",
+          "category": "ia",
+          "published_at": "2026-09-07T00:13:46+00:00",
+          "summary": "The pair, whose relationship spans two decades, performed \"Father Stretch My Hands, Pt. 1\" and \"Ghost Town,\" plus \"Pursuit of Happiness (Nightmare),\" at Soldier Field this weekend.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "articles": [
+        {
+          "id": "a6c92588b0cb",
+          "title": "Le ZEvent 2026 fait ses adieux et pulvérise l’édition 2025, en doublant le record absolu de dons",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2326171-le-zevent-2026-fait-ses-adieux-et-pulverise-ledition-2025-en-doublant-le-record-absolu-de-dons.html",
+          "category": "ia",
+          "published_at": "2026-09-06T22:49:22+00:00",
+          "summary": "Le ZEvent vient de battre son record absolu de dons, à quelques heures de refermer dix ans d’histoire. Pour sa dixième et dernière édition, le marathon caritatif a largement battu le record précédént, avant de s'établir à un plus de 32 millions dans la nuit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87f513965a8c",
+          "title": "Rauw Alejandro Turns His Past, Present & Future Into a Three-Act Spectacle at Forest Hills Stadium: ‘2027 Will Be Completely Raúl’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/rauw-alejandro-red-bull-chapters-forest-hills-stadium-interview-1236335190/",
+          "category": "musique",
+          "published_at": "2026-09-06T20:43:42+00:00",
+          "summary": "The Puerto Rican star discussed Red Bull Chapters, a production that fused his personal history with an athletic approach to live performance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03589ad7fcfb",
+          "title": "Andy Williams, Every Time I Die Guitarist & Professional Wrestler, Dies at 48",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/andy-williams-death-pro-wrestler-every-time-i-die-guitarist-1236335182/",
+          "category": "ia",
+          "published_at": "2026-09-06T19:26:15+00:00",
+          "summary": "His passing was announced after he suffered a medical episode following a tag-team wrestling match.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "843cca7596b8",
+          "title": "Rod Wave Achieves Fourth No. 1 Album on Billboard 200 With ‘Don’t Look Down’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/rod-wave-dont-look-down-number-one-billboard-200-chart-1236335185/",
+          "category": "musique",
+          "published_at": "2026-09-06T19:03:39+00:00",
+          "summary": "Plus, Alex Warren’s WILDCHILD debuts at No. 2.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "4e42c9d03d18",
           "title": "40 000 milliards de km : cette mission spatiale arrivera à destination dans 80 000 ans",
