@@ -1,9 +1,404 @@
 {
-  "generated_at": "2026-09-07T14:15:20.049254+00:00",
+  "generated_at": "2026-09-08T12:52:32.173866+00:00",
   "days": [
+    {
+      "date": "2026-09-08",
+      "articles": [
+        {
+          "id": "738b56bc54f3",
+          "title": "John Legend Announces Pharrell-Produced Album ‘Muse,’ Led by New Song ‘Daylight’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/john-legend-muse-album-daylight-song-pharrell-1236335492/",
+          "category": "ia",
+          "published_at": "2026-09-08T12:45:00+00:00",
+          "summary": "\"Daylight,\" available to stream today, is the first listen from Legend's upcoming full-length release, out Oct. 23 via Republic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f1f35f887b0",
+          "title": "Distraction passive, impact des chatbots : sous l’effondrement des scores, ce que révèle l’étude PISA 2025 sur l’IA et le numérique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2327619-distraction-passive-impact-des-chatbots-sous-leffondrement-des-scores-ce-que-revele-letude-pisa-2025-sur-lia-et-le-numerique.html",
+          "category": "ia",
+          "published_at": "2026-09-08T12:35:35+00:00",
+          "summary": "Le 8 septembre 2026, l'OCDE a publié son enquête PISA 2025. On y trouve notamment un tableau statistique inédit, le premier à mesurer l'usage scolaire de l'IA générative.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd49ff26c88a",
+          "title": "‘Pay It Forward’ fund launches for artists and crew on tours",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/08/pay-it-forward-fund-launches-for-artists-and-crew-on-tours/",
+          "category": "musique",
+          "published_at": "2026-09-08T12:30:00+00:00",
+          "summary": "The wellbeing challenges on tours for artists and crew alike are well understood now, and there is more support available. The latest example is the ‘Pay It Forward’ fund.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96e53dec0fd1",
+          "title": "iMeetStand app wants to make music practice much less lonely",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/08/imeetstand-app-wants-to-make-music-practice-much-less-lonely/",
+          "category": "musique",
+          "published_at": "2026-09-08T12:30:00+00:00",
+          "summary": "“Why are millions of musicians around the world still practising alone?”\nThat’s the question posed by cellist Amit Peled, who is also professor of cello at the Peabody Institute of Johns Hopkins University. And he’s answering that question with a new iPad app…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "867ce7a8ad9a",
+          "title": "Raye’s new single is playing across London… from Lime bikes",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/08/rayes-new-single-is-playing-across-london-from-lime-bikes/",
+          "category": "musique",
+          "published_at": "2026-09-08T12:30:00+00:00",
+          "summary": "For Londoners, the most common sound associated with Lime bikes is the ‘Hackney birdsong’ of the rentable cycles beeping when they’ve been hacked and unlocked for free. But this week there’s some different audio coming out of them.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a0270b2447d",
+          "title": "Deathcore veterans All Shall Perish return with a Kickstarter",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/08/deathcore-veterans-all-shall-perish-return-with-a-kickstarter/",
+          "category": "musique",
+          "published_at": "2026-09-08T12:30:00+00:00",
+          "summary": "US deathcore band All Shall Perish released their last album in 2011, but having reunited in 2024 are now crowdfunding their next album on Kickstarter.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "755a2c659151",
+          "title": "Avant la fabrication à Dunkerque, ProLogium lance la production de sa batterie solide à Taïwan",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2327539-avant-la-fabrication-a-dunkerque-prologium-lance-la-production-de-sa-batterie-solide-a-taiwan.html",
+          "category": "ia",
+          "published_at": "2026-09-08T12:13:00+00:00",
+          "summary": "ProLogium, le fabricant taïwanais de batteries solides soutenu par Mercedes, a lancé la production en série de ses cellules. De quoi faire sortir du laboratoire une technologie censée offrir plus d'autonomie aux voitures électriques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5cc8e1d05142",
+          "title": "Des simulations montrent que la Lune aurait pu se former en seulement 5 heures après un impact géant sur la Terre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2327437-des-simulations-montrent-que-la-lune-aurait-pu-se-former-en-seulement-5-heures-apres-un-impact-geant-sur-la-terre.html",
+          "category": "ia",
+          "published_at": "2026-09-08T12:01:00+00:00",
+          "summary": "De nouvelles simulations informatiques montrent que la Lune aurait pu se former en à peine quelques heures, à la suite d'un impact géant sur la Terre. Une période extrêmement courte qui a bouleversé notre monde à jamais.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d1a06b4643e",
+          "title": "BLACKPINK’s JISOO to Star as 4 Different ‘Cinematic Characters’ in Conceptual Fashion Campaign",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/blackpink-jisoo-self-portrait-short-film-series-1236334491/",
+          "category": "ia",
+          "published_at": "2026-09-08T11:45:00+00:00",
+          "summary": "\"Maybe we're not supposed to have everything figured out,\" the K-pop star muses in the first clip.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f883bb548880",
+          "title": "Ariana Grande Surprise Releases 12-Track ‘Petal (The Complete Live Album)’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/ariana-grande-surprise-release-petal-complete-live-album-1236335556/",
+          "category": "musique",
+          "published_at": "2026-09-08T11:39:18+00:00",
+          "summary": "The companion to the singer's most recent studio album features in-concert versions of all of its tracks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8575e760d24",
+          "title": "A tale of two countries: Spain and France’s first-half music figures",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/08/a-tale-of-two-countries-spain-and-frances-first-half-music-figures/",
+          "category": "musique",
+          "published_at": "2026-09-08T11:30:00+00:00",
+          "summary": "Label bodies in Spain and France have published their figures for recorded-music in the first half of 2026. It’s an interesting contrast for two of Europe’s key markets.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98b473277a71",
+          "title": "HYBE’s Weverse confirms data leak affecting 422,584 accounts, including payment and refund details",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybes-weverse-confirms-data-leak-affecting-422584-accounts-including-payment-and-refund-details/",
+          "category": "ia",
+          "published_at": "2026-09-08T11:24:41+00:00",
+          "summary": "Names, contact details, and card numbers do not appear among the items Weverse Company listed.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ccf7883636f",
+          "title": "Un mathématicien accuse OpenAI d’avoir tenté de lui voler sa découverte sur un problème à un million de dollars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2327463-un-mathematicien-accuse-openai-davoir-tente-de-lui-voler-sa-decouverte-sur-un-probleme-a-un-million-de-dollars.html",
+          "category": "ia",
+          "published_at": "2026-09-08T11:20:00+00:00",
+          "summary": "Un mathématicien dit avoir approché la résolution d'un problème à un million de dollars avec l'aide de l'IA, celui concernant les fameuses équations de Navier-Stokes. Mais dans l'affaire, il pense que la société d'intelligence artificielle OpenAI a tenté de lui rafler la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77494e851196",
+          "title": "Chartmetric launches AI agent Flow, priced from $60 per month: ‘Not just another AI chatbot’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/chartmetric-launches-ai-agent-flow-priced-from-60-per-month-not-just-another-ai-chatbot/",
+          "category": "ia",
+          "published_at": "2026-09-08T11:13:06+00:00",
+          "summary": "Data specialist says new offering will significantly enhance subscribers' analytical options\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d2075626679",
+          "title": "La licence Matrix est-elle morte et enterrée ? Sa créatrice répond",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2327607-la-licence-matrix-est-elle-morte-et-enterree-sa-creatrice-repond.html",
+          "category": "ia",
+          "published_at": "2026-09-08T10:45:00+00:00",
+          "summary": "Lilly Wachowski en a « à peu près fini » avec Matrix. La cocréatrice de la saga a fait savoir qu'elle ne voulait plus y participer, alors que Warner Bros. développe un cinquième film, Matrix 5, dont l'écriture et la réalisation ont été confiées à Drew Goddard – malgré les échecs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71f005cdff9f",
+          "title": "Samantha Juneman named Head of Music at Mattel, arriving from Irving Azoff’s Iconic Artists Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/samantha-juneman-named-head-of-music-at-mattel-arriving-from-irving-azoffs-iconic-artists-group/",
+          "category": "musique",
+          "published_at": "2026-09-08T10:22:11+00:00",
+          "summary": "Juneman will lead Mattel's effort to \"build music into a more strategic franchise and commercial platform.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fade95ffbf0",
+          "title": "Mistral lève 3 milliards d’euros et revendique une approche « full stack » de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/255355/mistral-leve-3-milliards-deuros-et-revendique-une-approche-full-stack-de-lia/",
+          "category": "ia",
+          "published_at": "2026-09-08T10:05:38+00:00",
+          "summary": "Mistral AI a annoncé mardi avoir réuni 3 milliards de dollars lors d&#8217;un tour de table emmené notamment par Samsung et d&#8217;autres investisseurs étrangers. L&#8217;entreprise profite de l&#8217;occasion pour affirmer qu&#8217;elle n&#8217;a pas renoncé au développement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4d3ea1358bc",
+          "title": "Le HP OmniBook 5 avec écran OLED et 30 h d’autonomie perd 220 € pour les French Days",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2327565-le-hp-omnibook-5-avec-ecran-oled-et-30-h-dautonomie-perd-220-e-pour-les-french-days.html",
+          "category": "ia",
+          "published_at": "2026-09-08T10:03:32+00:00",
+          "summary": "[Deal du jour] Les French Days battent leur plein chez Boulanger, qui fait passer le HP OmniBook 5 de 749,99 € à 529,99 € en cumulant deux codes promo. Un portable 16 pouces OLED taillé pour le travail nomade, avec une autonomie annoncée jusqu'à 34 heures.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a10b3608e8e",
+          "title": "AEG Presents opens Berlin office, hires Sina Hall to build its country music business in Germany",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/aeg-presents-opens-berlin-office-hires-sina-hall-to-build-its-country-music-business-in-germany/",
+          "category": "musique",
+          "published_at": "2026-09-08T09:56:16+00:00",
+          "summary": "Sina Hall joins as Senior Promoter from Semmel Concerts, and will report to Adam Wilkes, President and CEO, AEG Presents Europe and Asia-Pacific.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd985594e3f7",
+          "title": "Final Fantasy VII Revelation : pourquoi Square Enix a pris le film Advent Children pour modèle graphique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2327335-final-fantasy-vii-revelation-pourquoi-square-enix-a-pris-le-film-advent-children-pour-modele-graphique.html",
+          "category": "ia",
+          "published_at": "2026-09-08T09:40:00+00:00",
+          "summary": "Alors qu'on connaît désormais la date de sortie de Final Fantasy VII Revelation, troisième et dernier volet de la trilogie du remake du RPG culte, Square Enix est revenu sur les ambitions graphiques initiales.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f41cc2b208b2",
+          "title": "Billy Joel Mourns Death of Early Bandmate Jon Small",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/billy-joel-mourns-death-jon-small-1236335547/",
+          "category": "ia",
+          "published_at": "2026-09-08T09:23:28+00:00",
+          "summary": "Joel announced Small’s death in a tribute shared on social media.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9d83312c485",
+          "title": "Les conférences développeurs appellent les entreprises à ne pas les laisser disparaitre",
+          "source": "Next INpact",
+          "url": "https://next.ink/255239/les-conferences-developpeurs-appellent-les-entreprises-a-ne-pas-les-laisser-disparaitre/",
+          "category": "ia",
+          "published_at": "2026-09-08T09:16:55+00:00",
+          "summary": "33 collectifs et associations engagés dans l&#8217;organisation d&#8217;événements techniques pour développeurs lancent un appel collectif. Entre budgets de sponsoring et achats de billets en baisse, ils redoutent que leurs conférences ne soient plus économiquement viables et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7ebf86fc708",
+          "title": "Final Fantasy Resonance est le jeu idéal pour découvrir la licence selon Square Enix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2327327-final-fantasy-resonance-est-le-jeu-ideal-pour-decouvrir-la-licence-selon-square-enix.html",
+          "category": "justice",
+          "published_at": "2026-09-08T09:10:00+00:00",
+          "summary": "Square Enix veut faire de Final Fantasy Resonance le jeu parfait pour découvrir la saga Final Fantasy. Un choix important pour l'éditeur et logique, au moment où le RPG au tour par tour revient à la mode.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4ca2ddb79ad",
+          "title": "Après Spider-Noir, Amazon et Sony préparent déjà un autre projet Marvel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2327347-spider-noir-annulee-apres-une-saison-mais-amazon-et-sony-preparent-deja-un-autre-projet-marvel.html",
+          "category": "institutionnel",
+          "published_at": "2026-09-08T09:10:00+00:00",
+          "summary": "On le sait, malgré des critiques dithyrambiques, 11 nominations aux Emmys et la présence au casting d'un Nicolas Cage en grande forme, Prime Video vient d'acter la fin de&nbsp;Spider-Noir&nbsp;après seulement une petite saison. Mais que les amoureux du Tisseur se rassurent, la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07aeacb9d443",
+          "title": "Le jet supersonique silencieux X-59 est prêt à abattre l’un des grands interdits de l’aviation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2327341-le-jet-supersonique-silencieux-x-59-est-pret-a-abattre-lun-des-grands-interdits-de-laviation.html",
+          "category": "ia",
+          "published_at": "2026-09-08T08:39:00+00:00",
+          "summary": "Après 25 vols d'essai bouclés sans encombre, l'avion expérimental X-59 de la NASA a validé toutes ses caractéristiques de vol. L'agence spatiale américaine s'apprête à lancer la phase décisive de sa mission Quesst : mesurer son empreinte sonore pour faire sauter un verrou…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d2f2e09c713",
+          "title": "Cyber Resilience Act : les obligations de signalement entrent en vigueur le 11 septembre",
+          "source": "Next INpact",
+          "url": "https://next.ink/255197/cyber-resilience-act-les-obligations-de-signalement-entrent-en-vigueur-le-11-septembre/",
+          "category": "loi",
+          "published_at": "2026-09-08T08:36:08+00:00",
+          "summary": "Le Cyber Resilience Act, un important règlement pour la cybersécurité en Europe, entrera dans une nouvelle phase le 11 septembre. À cette date, les fabricants auront l’obligation de signaler les failles activement exploitées et les incidents graves à l’ENISA, l’agence centrale…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec4543451a6d",
+          "title": "Vinfast VF 2 : une arrivée en Europe « pas totalement incongrue » (mais assez improbable)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2327361-vinfast-vf-2-une-arrivee-en-europe-pas-totalement-incongrue-mais-assez-improbable.html",
+          "category": "ia",
+          "published_at": "2026-09-08T08:35:00+00:00",
+          "summary": "Avec un prix de lancement d'environ 6 200 € au Vietnam, VinFast laisse aussi entrevoir la possibilité d'une commercialisation de la VF 2 en Europe et aux États-Unis. Derrière la promesse d’une voiture à petit prix sur le papier, son arrivée en Europe paraît pourtant très…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3adfa4ea8be1",
+          "title": "Dacia nous explique pourquoi le coffre avant coûte 150 € en option sur la nouvelle Spring",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2327339-dacia-nous-explique-pourquoi-le-coffre-avant-coute-150-e-en-option-sur-la-nouvelle-spring.html",
+          "category": "ia",
+          "published_at": "2026-09-08T08:22:28+00:00",
+          "summary": "Contrairement à la Renault Twingo, le capot de la Dacia Spring peut s'ouvrir et il est possible d'avoir un frunk, ou coffre avant. En revanche, il est en option, Dacia nous explique pourquoi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "49ef29401ceb",
+          "title": "Mistral lève 3 milliards d’euros pour imposer l’IA souveraine comme « nouvelle frontière technologique »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2327337-mistral-leve-3-milliards-deuros-pour-imposer-lia-souveraine-comme-nouvelle-frontiere-technologique.html",
+          "category": "ia",
+          "published_at": "2026-09-08T08:15:35+00:00",
+          "summary": "Mistral AI vient de boucler le plus gros tour de table jamais réalisé par une entreprise tech européenne : une levée de 3 milliards d'euros, portant sa valorisation au-delà des 21 milliards.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86a4cb5490f6",
+          "title": "Le prix du remake de Zelda Ocarina of Time laisse craindre un jeu moins ambitieux que prévu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2327329-le-prix-du-remake-de-zelda-ocarina-of-time-laisse-craindre-un-jeu-moins-ambitieux-que-prevu.html",
+          "category": "ia",
+          "published_at": "2026-09-08T07:57:24+00:00",
+          "summary": "Le remake de The Legend of Zelda: Ocarina of Time est l’autre jeu le plus attendu de cette fin d’année, avec vous savez qui. Un Nintendo Direct lui est d’ailleurs entièrement consacré ce mardi 8 septembre. En attendant d’en voir enfin plus sur le jeu, on peut déjà se faire une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "584db8bf4362",
+          "title": "[Comparatif Next] 30 algorithmes de compression passés au crible",
+          "source": "Next INpact",
+          "url": "https://next.ink/255244/comparatif-next-30-algorithmes-de-compression-passes-au-crible/",
+          "category": "ia",
+          "published_at": "2026-09-08T07:50:43+00:00",
+          "summary": "Ce n’est pas facile de choisir le bon algorithme de compression, cela dépend de vos données et de vos attentes (compression maximum, vitesse de décompression…). Next vous propose un gros comparatif avec 30 algorithmes, plusieurs niveaux de compression et la possibilité d’ajuster…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05242470b175",
+          "title": "Australian Crawl and Men at Work Expand 2026 Australian Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/australian-crawl-men-at-work-2026-australian-run-1236335544/",
+          "category": "ia",
+          "published_at": "2026-09-08T07:08:53+00:00",
+          "summary": "The co-headline dates add to a wider summer schedule for both acts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28f18c989299",
+          "title": "IA : NVIDIA a investi 99 milliards de dollars, pour l’essentiel chez ses clients",
+          "source": "Next INpact",
+          "url": "https://next.ink/255220/ia-nvidia-a-investi-99-milliards-de-dollars-pour-lessentiel-chez-ses-clients/",
+          "category": "ia",
+          "published_at": "2026-09-08T06:31:00+00:00",
+          "summary": "En un an, le portefeuille d’investissement de NVIDIA a été multiplié par 14. En deux ans, par 45. L’essentiel des 99 milliards de dollars investis l’est dans des sociétés de la chaîne de valeur de l’intelligence artificielle, alimentant les alertes sur le risque d’explosion…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1722f6c38773",
+          "title": "Armand Van Helden Set for Sydney’s THE WORKS Warehouse Series",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/armand-van-helden-sydney-the-works-warehouse-series-1236335266/",
+          "category": "ia",
+          "published_at": "2026-09-08T06:00:00+00:00",
+          "summary": "The Grammy-nominated house pioneer joins Overmono, Jayda G and KI/KI on the 2026/27 lineup for the Carriageworks event series.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "72041f476e11",
+          "title": "☕️ Le serveur multimédia Jellyfin passe en version 12.0",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-serveur-multimedia-jellyfin-passe-en-version-12-0/",
+          "category": "justice",
+          "published_at": "2026-09-08T05:42:00+00:00",
+          "summary": "Destiné à la gestion d&#8217;un serveur multimédia local (hébergé par exemple sur un NAS), le projet Jellyfin passe en version 12.0. Les amateurs de cette alternative open source (licence GPL 2.0) à Plex noteront immédiatement que cette nouvelle mouture s&#8217;accompagne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be94aca9883a",
+          "title": "Musique enregistrée : Bilan du marché français au 1er semestre 2026",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/communiques-dossiers-de-presse/bilan-1er-semestre-2026/",
+          "category": "ia",
+          "published_at": "2026-09-08T03:55:01+00:00",
+          "summary": "Le Snep annonce un nouveau semestre de croissance pour la musique enregistrée et les critères d’exclusion des titres générés par IA Téléchargez le dossier de presse ici &#160; Bilan du marché français de la musique enregistrée au 1er semestre 2026 Le marché français de la…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-07",
       "articles": [
+        {
+          "id": "fbed433f60c8",
+          "title": "Tencent Music prices USD $1B bond offering, with proceeds earmarked for refinancing and buybacks",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tencent-music-prices-usd-1bn-bond-offering-with-proceeds-earmarked-for-refinancing-and-buybacks/",
+          "category": "musique",
+          "published_at": "2026-09-07T17:29:47+00:00",
+          "summary": "TME is selling $500 million of 5.050% senior unsecured notes due 2031 and $500 million of 5.650% senior unsecured notes due 2036.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c425dba82b8",
+          "title": "AEG and SeatGeek ask court to reject Live Nation’s DOJ settlement, with AEG warning it ‘does not break Ticketmaster’s grip; it tightens it’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/aeg-and-seatgeek-ask-court-to-reject-live-nations-doj-settlement-with-aeg-warning-it-does-not-break-ticketmasters-grip-it-tightens-it/",
+          "category": "musique",
+          "published_at": "2026-09-07T16:06:19+00:00",
+          "summary": "AEG wants a court-ordered sale of Ticketmaster, and a ban on the long-term exclusive contracts Ticketmaster signs with major concert venues.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81c20eccf4d6",
+          "title": "Non, les agents IA d’OpenAI et Anthropic ne menacent pas vraiment la cybersécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/254325/non-les-agents-ia-dopenai-et-anthropic-ne-menacent-pas-vraiment-la-cybersecurite/",
+          "category": "ia",
+          "published_at": "2026-09-07T14:22:31+00:00",
+          "summary": "Un nombre croissant de professionnels de la cybersécurité déplorent la façon « IApocalyptique » qu&#8217;ont OpenAI, Anthropic et de nombreuses entreprises des Big Tech&#8217; de présenter les capacités des agents IA en matière de cyberattaques. À l&#8217;instar de la NSA, ils…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3e68a6e01863",
           "title": "☕️ Nitter et XCancel reprennent du service",
