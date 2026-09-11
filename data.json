@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-09-10T12:55:20.649426+00:00",
+  "generated_at": "2026-09-11T12:49:51.254692+00:00",
   "days": [
+    {
+      "date": "2026-09-11",
+      "articles": [
+        {
+          "id": "cbb15fb8dbf4",
+          "title": "A-Listers In Paris: Jay-Z Joined By Justin Timberlake and Pharrell at Stade de France Show: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jay-z-joined-justin-timberlake-pharrell-paris-show-1236338133/",
+          "category": "ia",
+          "published_at": "2026-09-11T12:47:12+00:00",
+          "summary": "The gig celebrating the 30th anniversary of Jay's Reasonable Doubt found JT popping out for the pair's duet on \"Holy Grail\" and his own \"Until the End of Time.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "42c9ffc489b6",
+          "title": "Après de nombreux signalements, Dyson retire déjà sa brosse à dents CameraJet de la vente",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2330911-apres-de-nombreux-signalements-dyson-retirerait-deja-de-la-vente-sa-brosse-a-dents-camerajet-a-479-e.html",
+          "category": "justice",
+          "published_at": "2026-09-11T12:39:50+00:00",
+          "summary": "La Dyson CameraJet n&#8217;est plus commandable sur le site de la marque, et plusieurs distributeurs, dont Darty et Boulanger, ont reçu la consigne de l&#8217;écarter de leurs rayons et de rembourser les clients. Plusieurs témoignages font état d&#8217;une brosse à dents à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d63fc607997",
+          "title": "IFPI urges EU countries to fully implement AI Act’s new rules",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/ifpi-urges-eu-countries-to-fully-implement-ai-acts-new-rules/",
+          "category": "musique",
+          "published_at": "2026-09-11T12:30:00+00:00",
+          "summary": "Yesterday was clearly the day for giving governments a kick up the backside when it comes to AI regulation.\nWhile AIM boss Gee Davy was addressing the UK government in London, global labels body the IFPI was holding an event in Brussels to launch the 2026 edition of its ‘Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fe5342aff0d",
+          "title": "Yoto reveals its fourth-generation audio players for children",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/yoto-reveals-its-fourth-generation-audio-players-for-children/",
+          "category": "musique",
+          "published_at": "2026-09-11T12:30:00+00:00",
+          "summary": "British startup Yoto has come a long way since launching its first speaker for kids on Kickstarter in 2017. This week sees the debut of two fourth-generation versions of its Yoto Player and Yoto Mini.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "776c3801fe51",
+          "title": "Music-fintech roundup: beatBread’s new CEO, Notes·fm x Stripe",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/music-fintech-roundup-beatbreads-new-ceo-notes%c2%b7fm-x-stripe/",
+          "category": "musique",
+          "published_at": "2026-09-11T12:30:00+00:00",
+          "summary": "Music-financing firm beatBread suffered a tragic loss when its CEO Peter Sinclair died just over a year ago. It continued his work under interim CEO Tracy Maddux, and now it has appointed a permanent chief.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b6d28baa133",
+          "title": "bbno$ follows up Roblox concert with Subway Surfers activation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/bbno-follows-up-roblox-concert-with-subway-surfers-activation/",
+          "category": "musique",
+          "published_at": "2026-09-11T12:30:00+00:00",
+          "summary": "When artist bbno$ played a concert in popular Roblox game +1 Speed Keyboard Escape in July, it attracted 28m unique viewers over a weekend – including a peak of 8.5 million.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b83520a5969f",
+          "title": "Et si les cartes Pokémon devenaient la nouvelle monnaie en cas d’apocalypse ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331021-et-si-les-cartes-pokemon-devenaient-la-nouvelle-monnaie-en-cas-dapocalypse.html",
+          "category": "ia",
+          "published_at": "2026-09-11T12:24:00+00:00",
+          "summary": "Selon un expert financier, les cartes Pokémon pourraient devenir la nouvelle monnaie mondiale si une apocalypse avait lieu. Ne vendez pas les vôtres sur Le Bon Coin, on ne sait jamais.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bc9794bd1730",
+          "title": "iPhone 18 Pro Max : finalement, le modem Apple C2 n’est pas réservé au petit modèle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2331231-iphone-18-pro-max-finalement-le-modem-apple-c2-nest-pas-reserve-au-petit-modele.html",
+          "category": "ia",
+          "published_at": "2026-09-11T12:08:20+00:00",
+          "summary": "La fiche technique des iPhone 18 Pro et iPhone 18 Pro Max indique que les deux téléphones n'ont pas le même modem : seul le petit 18 Pro a le droit à la puce C2 fraîchement annoncée par Apple. Selon nos informations à Cupertino, il pourrait s'agir d'une simple erreur de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afb85497cec0",
+          "title": "Étiquette énergie des smartphones et tablettes : quel bordel !",
+          "source": "Next INpact",
+          "url": "https://next.ink/255896/etiquette-energie-des-smartphones-et-tablettes-quel-bordel/",
+          "category": "ia",
+          "published_at": "2026-09-11T11:37:00+00:00",
+          "summary": "Des fabricants de smartphones et tablettes ont transformé l’étiquette énergie et la fiche d’information en vaste blague. Nous avons analysé plus de 2 400 fiches avec des erreurs plus que grossières : 48 ans de mises à jour, 23 minutes d’autonomie, un écran aussi résistant que le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "446ddc0cc560",
+          "title": "UMG’s ElevenLabs deal is latest move to AI remix experiences",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/umgs-elevenlabs-deal-is-latest-move-to-ai-remix-experiences/",
+          "category": "musique",
+          "published_at": "2026-09-11T11:30:00+00:00",
+          "summary": "Another day, another AI-music deal for Universal Music Group. This time it’s ElevenLabs signing on the dotted line – its first agreement with a major following Kobalt and Merlin.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7eaae261748f",
+          "title": "The Office de retour ? Son créateur répond et ça ne va pas plaire aux fans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331121-the-office-de-retour-son-createur-repond-et-ca-ne-va-pas-plaire-aux-fans.html",
+          "category": "justice",
+          "published_at": "2026-09-11T11:05:00+00:00",
+          "summary": "À l'heure où Hollywood recycle la moindre franchise usée jusqu'à la corde, les fans de Dunder Mifflin espéraient encore un miracle. Mais Greg Daniels vient de porter le coup de grâce. Honoré d'une étoile sur le Walk of Fame, le créateur de la série The Office a définitivement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f7b5e6ed4a0",
+          "title": "How the Music for ‘Dancing With the Stars’ Comes Together Every Week",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/features/how-music-dancing-with-the-stars-comes-together-1236337640/",
+          "category": "musique",
+          "published_at": "2026-09-11T11:00:00+00:00",
+          "summary": "On the latest episode of Billboard On the Record, DWTS music director Ray Chew joins to talk about how the show is \"unicorn\" for live TV music.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2c300290604",
+          "title": "Spotify co-founder Martin Lorentzon says he’ll leave Sweden ‘immediately’ if a wealth tax is introduced (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-co-founder-martin-lorentzon-says-hell-leave-sweden-immediately-if-a-wealth-tax-is-introduced-report/",
+          "category": "musique",
+          "published_at": "2026-09-11T10:57:55+00:00",
+          "summary": "Sweden votes in a general election on Sunday (September 13), with taxation of the country’s wealthiest one of the campaign’s live issues.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0cf738a63ca3",
+          "title": "[PIAS] relaunches Source – the Anglo-French label behind Air, Phoenix, and Kings of Convenience",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/pias-relaunches-source-the-anglo-french-label-behind-air-phoenix-and-kings-of-convenience/",
+          "category": "ia",
+          "published_at": "2026-09-11T10:54:20+00:00",
+          "summary": "Ifulki, Disgusting Sisters, Epal, and HINA are the relaunched label's first signings.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f15bd3cd4a56",
+          "title": "Strategy Spotlight: Behind The Campaign recap: Deki Alem",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/strategy-spotlight-behind-the-campaign-recap-deki-alem/",
+          "category": "musique",
+          "published_at": "2026-09-11T10:40:23+00:00",
+          "summary": "Deki Alem - the Gothenburg twin brothers Sammy and Johnny Bennett - teamed up with Amuse to launch their debut studio album, Forget In Mass. Blending hip-hop, drum ’n’ bass, and post-punk, the campaign heavily focused on underground street activations, character actors, and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ca255a9fcc9",
+          "title": "Music marketing takeaways from Pinterest’s 2026 Men’s Trend Report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/music-marketing-takeaways-from-pinterests-2026-mens-trend-report/",
+          "category": "musique",
+          "published_at": "2026-09-11T10:37:41+00:00",
+          "summary": "Pinterest frequently shares trend reports about what its users search for on the platform - which is valuable for marketers because they capture cultural and lifestyle shifts around the kind of styles, hobbies and activities people are interested in looking forward. For music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2e539174c8d",
+          "title": "What do YouTube’s new viewcount rules mean for music and creator partnerships?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/what-do-youtubes-new-viewcount-rules-mean-for-music-and-creator-partnerships/",
+          "category": "musique",
+          "published_at": "2026-09-11T10:33:27+00:00",
+          "summary": "We recently reported about a significant change on YouTube regarding long-form content - the fact that the platform now counts a view as soon as a video’s first frame is loaded. In the past, users had to watch for a certain amount of time which was never disclosed but widely…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22f24da06dad",
+          "title": "Smart album formats now chart-eligible in the US",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/smart-album-formats-now-chart-eligible-in-the-us/",
+          "category": "musique",
+          "published_at": "2026-09-11T10:30:05+00:00",
+          "summary": "There are several companies who have been at the forefront of smart albums and phygital formats - helping artists to sell various types of physical products which allow fans to unlock album content by using QR codes, NFC technology and more. Now there are some good news for…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bc781ddd452",
+          "title": "À Zagreb, des robotaxis roulent sans superviseur à bord pour la première fois en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2331067-a-zagreb-des-robotaxis-roulent-sans-personne-a-bord-pour-la-premiere-fois-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-09-11T10:13:52+00:00",
+          "summary": "Depuis ce jeudi 10 septembre, des taxis autonomes circulent à Zagreb sans personne au volant pour reprendre la main. Une première européenne, mais encore réservée à quelques passagers invités.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ddf40cedfc30",
+          "title": "F1 en streaming : où voir le GP d’Espagne de la saison 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/704990-comment-regarder-le-gp-d-espagne-de-f1-en-direct.html",
+          "category": "justice",
+          "published_at": "2026-09-11T09:56:04+00:00",
+          "summary": "Après des mois et des mois d'attente, la Formule 1 a repris ses droits. Et cette saison 2026 s'annonce particulièrement indécise en raison d'une nouvelle réglementation. Pour le moment, c'est l'écurie Mercedes qui domine, mais gare au réveil de McLaren.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae682921381c",
+          "title": "COMMUNIQUÉ DE PRESSE – Alain Veille élu Président du Snep",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/communique-de-presse-alain-veille-elu-president-du-snep/",
+          "category": "musique",
+          "published_at": "2026-09-11T09:55:06+00:00",
+          "summary": "Alain Veille élu Président du Snep Une nouvelle présidence pour porter la voix des producteurs de musique enregistrée face aux grands enjeux qui redessinent l’avenir du secteur, dans la continuité du mandat de Bertrand Burgalat.   Le Conseil d’administration du Snep a élu Alain…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ba1958aa10a",
+          "title": "Apple : l’essentiel des nouveautés pour les nouveaux systèmes 27",
+          "source": "Next INpact",
+          "url": "https://next.ink/255760/apple-lessentiel-des-nouveautes-pour-les-nouveaux-systemes-27/",
+          "category": "ia",
+          "published_at": "2026-09-11T09:43:03+00:00",
+          "summary": "Le 14 septembre sortiront tous les nouveaux systèmes d’exploitation d’Apple. Portant tous la mention «&#160;27&#160;», ils intègrent une longue liste d’améliorations et de nouveautés. En voici les principales. Avant de plonger dans les nouvelles fonctions proprement dites,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec46d0a4d763",
+          "title": "The Witcher 3: Songs of the Past n’aurait pas existé sans la remasterisation du jeu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2330933-the-witcher-3-comment-lextension-songs-of-the-past-a-failli-ne-jamais-voir-le-jour.html",
+          "category": "ia",
+          "published_at": "2026-09-11T09:40:00+00:00",
+          "summary": "CD Projekt Red a révélé que les étoiles ont dû s'aligner pour qu'une troisième extension de The Witcher 3: Wild Hunt voit le jour. La mise en chantier d'une version Remastered a aidé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d8210fb60ce",
+          "title": "Volvo à la rescousse de Lynk & co en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2331029-volvo-a-la-rescousse-de-lynk-co-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-09-11T09:21:05+00:00",
+          "summary": "Les ventes de Lynk &amp; Co patinent toujours en Europe. Alors le groupe Geely a décidé de confier sa distribution commerciale en Europe à sa marque sœur Volvo pour accélérer le mouvement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e17f97d8111",
+          "title": "Distillation illicite, trafic détourné, missile yéménite : ce qu’il faut retenir du rapport de menace d’Anthropic",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2330955-distillation-illicite-trafic-detourne-missile-yemenite-ce-quil-faut-retenir-du-rapport-de-menace-danthropic.html",
+          "category": "institutionnel",
+          "published_at": "2026-09-11T09:13:54+00:00",
+          "summary": "Le 10 septembre 2026, Anthropic, l'entreprise à l'origine de Claude, a publié son rapport sur la menace. Un document de 154 pages où l'on peut lire les différents usages détournés de Claude à travers le monde, interceptés par les équipes en interne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60941f717fd4",
+          "title": "Official Charts Company Launches New Homegrown Albums Chart Celebrating British Artists",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/official-charts-company-new-homegrown-albums-chart-1236338105/",
+          "category": "musique",
+          "published_at": "2026-09-11T08:56:20+00:00",
+          "summary": "The new chart offers a weekly snapshot of the British acts making the biggest impact on the domestic albums market.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16e9f1cc6c4a",
+          "title": "« À peine une soixantaine au mois d’août » : faute de commandes, Alpine réduit la production de son A390 électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2330929-a-peine-une-soixantaine-au-mois-daout-faute-de-commandes-alpine-reduit-la-production-de-son-a390-electrique.html",
+          "category": "ia",
+          "published_at": "2026-09-11T08:52:41+00:00",
+          "summary": "La direction de l'usine Alpine de Dieppe a prévenu ses salariés&nbsp;: la production de l'A390 va ralentir, faute de commandes. Le premier grand pari électrique de la marque cale sur son prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0990c8017fe5",
+          "title": "Les Anneaux de Pouvoir, Mercredi… Les chiffres sont là, l’attente entre les saisons tue les séries",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2330945-les-anneaux-de-pouvoir-mercredi-les-chiffres-sont-la-lattente-entre-les-saisons-tue-les-series.html",
+          "category": "musique",
+          "published_at": "2026-09-11T08:50:19+00:00",
+          "summary": "Autrefois réglé comme du papier à musique avec un rendez-vous annuel, le calendrier de la télévision a complètement explosé à l'ère du streaming. Aujourd'hui, il faut couramment attendre deux, trois, voire trois ans et demi pour découvrir la suite d'une série. Problème, cette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eafbf1401521",
+          "title": "Plusieurs associations appellent la Commission européenne à tuer les bannières de cookies",
+          "source": "Next INpact",
+          "url": "https://next.ink/255920/plusieurs-associations-appellent-la-commission-europeenne-a-tuer-les-bannieres-de-cookies/",
+          "category": "ia",
+          "published_at": "2026-09-11T08:20:37+00:00",
+          "summary": "noyb, l&#8217;EFF, Que Choisir et d&#8217;autres associations veulent profiter de la proposition d&#8217; « omnibus numérique » de simplification des règles européennes pour introduire l&#8217;obligation de prendre en compte des mécanismes standards d&#8217;automatisation de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff98b349de69",
+          "title": "Est-ce que le studio derrière Professeur Layton et Yo-kai Watch a recours à l’IA pour créer ses jeux ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2330907-est-ce-que-le-studio-derriere-professeur-layton-et-yo-kai-watch-a-recours-a-lia-pour-creer-ses-jeux.html",
+          "category": "ia",
+          "published_at": "2026-09-11T08:10:45+00:00",
+          "summary": "Level-5, le studio japonais derrière Professeur Layton et Yo-kai Watch, est au cœur de discussions autour de son utilisation de l'intelligence artificielle. Alors que le développeur vient d'annoncer le remake de Professeur Layton et l'Étrange Village, ainsi qu'un nouvel épisode…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "900fb73754a4",
+          "title": "Angus & Julia Stone’s ‘Karaoke Bar’ Opens at No. 1 on ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/angus-julia-stone-karaoke-bar-no-1-aria-chart-1236338086/",
+          "category": "musique",
+          "published_at": "2026-09-11T07:24:52+00:00",
+          "summary": "\"Karaoke Bar\" is the sibling act’s third album to go all the way to the top of the national chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef736decd9b2",
+          "title": "Call of Duty: Modern Warfare 4 propose un skin de précommande que seuls les joueurs Xbox peuvent voir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2330897-call-of-duty-modern-warfare-4-invente-une-arme-que-seuls-les-joueurs-xbox-pourront-voir.html",
+          "category": "ia",
+          "published_at": "2026-09-11T07:05:49+00:00",
+          "summary": "Activision propose un bonus de précommande atypique avec Call of Duty: Modern Warfare 4. Il prend la forme d'un skin d'arme que seuls les propriétaires d'une copie Xbox pourront voir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9bf052005b4",
+          "title": "Apple s’attaque aux images truquées avec Reference Image et SynthID",
+          "source": "Next INpact",
+          "url": "https://next.ink/255892/apple-sattaque-aux-images-truquees-avec-reference-image-et-synthid/",
+          "category": "ia",
+          "published_at": "2026-09-11T06:54:00+00:00",
+          "summary": "Apple apporte sa contribution pour régler le problème de détection des images générées ou altérées par IA. Le constructeur a imaginé une fonction qui permet de vérifier l&#8217;authenticité d&#8217;une photo à coup sûr – c&#8217;est du moins la promesse d&#8217;Apple Reference…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6542b2b578d2",
+          "title": "Jhené Aiko with Kendrick Lamar, Bleachers, Dove Cameron & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jhene-aiko-bleachers-dove-cameron-new-music-friday-guide-1236337648/",
+          "category": "musique",
+          "published_at": "2026-09-11T06:53:18+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40cb9e985121",
+          "title": "☕️ Vivaldi sur Android prend en charge les extensions Desktop du Chrome Web Store",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/vivaldi-sur-android-prend-en-charge-les-extensions-desktop-du-chrome-web-store/",
+          "category": "ia",
+          "published_at": "2026-09-11T06:28:00+00:00",
+          "summary": "La version Android de Vivaldi s&#8217;offre le support des extensions Desktop disponibles sur le Chrome Web Store. Une fonction finalement peu commune sur la plateforme mobile de Google, et qui pourra donner aux utilisateurs du navigateur un coup de main appréciable. Une semaine…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92eb1c16255d",
+          "title": "Final Fantasy VII Revelation aura une version physique, mais une partie du jeu sera à télécharger",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2330881-pourquoi-la-version-physique-de-final-fantasy-vii-revelation-est-incomplete.html",
+          "category": "ia",
+          "published_at": "2026-09-11T06:05:41+00:00",
+          "summary": "La version physique de Final Fantasy VII Revelation ne contiendra pas l'intégralité du jeu. Il faudra passer par la case téléchargement. Square Enix a expliqué ce choix, qui contraste avec les deux précédents opus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8e59ea23032",
+          "title": "Baisse de prix inattendue pour le Framework Laptop 13 Pro",
+          "source": "Next INpact",
+          "url": "https://next.ink/255899/baisse-de-prix-inattendue-pour-le-framework-laptop-13-pro/",
+          "category": "ia",
+          "published_at": "2026-09-11T05:45:29+00:00",
+          "summary": "Comme tous les constructeurs de produits électroniques, Framework est frappé de plein fouet par la crise de la mémoire. La situation l&#8217;a obligé à relever les prix de plusieurs de ses ordinateurs, mais tout n&#8217;est pas complètement désespéré : l&#8217;entreprise procède…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "articles": [
+        {
+          "id": "13c01d47c7a1",
+          "title": "AI Will Test Music’s Infrastructure, Not Just Its Creativity",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ai-will-test-musics-infrastructure-not-just-its-creativity/",
+          "category": "musique",
+          "published_at": "2026-09-10T19:34:34+00:00",
+          "summary": "The following MBW op/ed comes from Jorge Brea, CEO of Symphonic\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e116aa2c4c3f",
+          "title": "US musicians’ union files opposition to Universal and Warner motions to dismiss, saying members’ recordings were ‘fed into AI systems for commercial exploitation’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-musicians-union-files-opposition-to-universal-and-warner-motions-to-dismiss-saying-members-recordings-were-fed-into-ai-systems-for-commercial-exploitation/",
+          "category": "musique",
+          "published_at": "2026-09-10T19:33:31+00:00",
+          "summary": "The American Federation of Musicians has filed its opposition to the motions to dismiss brought by Universal Music Group, Inc., Warner Records, Inc., and Atlantic Recording Corp. in its lawsuit over the labels&#8217; licensing deals with AI companies. In the filing, submitted to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9ca9d8f2fce",
+          "title": "Judge throws out copyright claims in Wixen’s $102M lawsuit against Meta",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-throws-out-copyright-claims-in-wixens-102m-lawsuit-against-meta/",
+          "category": "ia",
+          "published_at": "2026-09-10T19:31:33+00:00",
+          "summary": "A judge ruled that Wixen has not shown it holds the rights that would let it sue over the 681 works it says Meta used without a license.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15474f6e5fca",
+          "title": "Universal Music and Warner Chappell partner on launch of Ecuadorian music company Sonido Distrito Sur, led by Juan Fernando Velasco",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-and-warner-chappell-partner-on-launch-of-ecuadorian-music-company-sonido-distrito-sur-led-by-juan-fernando-velasco/",
+          "category": "musique",
+          "published_at": "2026-09-10T19:30:25+00:00",
+          "summary": "Ecuadorian singer-songwriter Juan Fernando Velasco is also president of SAYCE, the Ecuadorian authors' and composers' society.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7c605f962bc",
+          "title": "ElevenLabs’ $11B valuation is more than twice the size of Suno’s. It just struck a global AI music deal with UMG.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elevenlabss-11b-valuation-is-more-than-twice-the-size-of-sunos-its-just-struck-a-global-ai-music-deal-with-umg/",
+          "category": "musique",
+          "published_at": "2026-09-10T19:25:50+00:00",
+          "summary": "ElevenLabs will launch an AI-powered music platform for fans under the deal, with the two companies also jointly developing AI audio products for artists and songwriters\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90739265f1a8",
+          "title": "District announces Gorillaz gig in Guwahati",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/10/district-announces-gorillaz-gig-in-guwahati/",
+          "category": "ia",
+          "published_at": "2026-09-10T18:15:14+00:00",
+          "summary": "“Going-out platform” District by Zomato has added Guwahati to the Gorillaz’s 2027 tour of India. The virtual band will perform at the Sarusajai Sports Complex (aka the Indira Gandhi Athletic [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56c510f41b71",
+          "title": "L’Apple Watch peut écouter toutes vos conversations, mais promet de ne rien garder",
+          "source": "Next INpact",
+          "url": "https://next.ink/255874/lapple-watch-peut-ecouter-toutes-vos-conversations-mais-promet-de-ne-rien-garder/",
+          "category": "ia",
+          "published_at": "2026-09-10T14:59:28+00:00",
+          "summary": "Apple a-t-elle ouvert la boîte de Pandore avec Audio Intelligence ? Les nouvelles montres connectées du constructeur sont équipées d&#8217;un nouveau bouquet de fonctionnalités IA regroupées sous la bannière Audio Intelligence. Certaines sont inoffensives, d&#8217;autres posent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "782e6ed548c6",
+          "title": "Time to go private? On Warner, Universal, and dissatisfaction with public market valuations.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/time-to-go-private-on-warner-universal-and-the-widening-gap-between-public-and-private-music-valuations/",
+          "category": "musique",
+          "published_at": "2026-09-10T14:58:24+00:00",
+          "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c55af29cc659",
+          "title": "☕️ OpenAI ouvre les pubs dans ChatGPT aux clients d’Amazon Ads",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openai-ouvre-les-pubs-dans-chatgpt-aux-clients-damazon-ads/",
+          "category": "ia",
+          "published_at": "2026-09-10T14:41:20+00:00",
+          "summary": "Après avoir introduit la publicité dans son chatbot, OpenAI la booste en signant un accord avec Amazon. Celui-ci va permettre aux clients d&#8217;Amazon Ads, le service de publicité du groupe de Jeff Bezos, d&#8217;insérer leur pub dans ChatGPT via la plateforme de marketing…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e779c7dbb2ca",
+          "title": "☕️ L’agence de cybersécurité de la Commission européenne peut maintenant utiliser Mythos",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lagence-de-cybersecurite-de-la-commission-europeenne-peut-maintenant-utiliser-mythos/",
+          "category": "institutionnel",
+          "published_at": "2026-09-10T13:37:00+00:00",
+          "summary": "L&#8217;ENISA, agence de cybersécurité de l&#8217;Union européenne, vient d&#8217;obtenir un accès à Mythos. En mai, OpenAI lui avait donné accès à GPT-5.5-Cyber mais elle n&#8217;avait pas accès au modèle présenté d&#8217;Anthropic le plus puissant côté cybersécurité notamment.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17b820ae5241",
+          "title": "L’humanité n’a pas attendu l’IA pour « jouer avec nos vies »",
+          "source": "Next INpact",
+          "url": "https://next.ink/255580/lhumanite-na-pas-attendu-lia-pour-jouer-avec-nos-vies/",
+          "category": "ia",
+          "published_at": "2026-09-10T13:15:00+00:00",
+          "summary": "« L’IA va tous nous tuer ». C’est la crainte du moment de certains spécialistes. Le risque est réel, mais il doit être remis en perspective ; d’autant que l’humanité n’a pas besoin de l’IA pour se mettre en danger. L’humain reste au cœur des décisions pouvant changer le cours du…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "93655082a69a",
           "title": "AC/DC Show at Toronto’s Rogers Stadium Canceled Due to ‘Significant Damage’ From Massive Thunderstorm",
