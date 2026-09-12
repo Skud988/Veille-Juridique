@@ -1,9 +1,314 @@
 {
-  "generated_at": "2026-09-11T12:49:51.254692+00:00",
+  "generated_at": "2026-09-12T12:10:37.906328+00:00",
   "days": [
+    {
+      "date": "2026-09-12",
+      "articles": [
+        {
+          "id": "567ff76df245",
+          "title": "Flock : Inarrêtables",
+          "source": "Next INpact",
+          "url": "https://next.ink/256142/flock-inarretables/",
+          "category": "justice",
+          "published_at": "2026-09-12T11:37:00+00:00",
+          "summary": "La machine est lancée : le monde court à sa perte. On est foutu, c’est imminent. Ah, on me dit que ça fait longtemps que c’est le cas. Bon… et bien, ça peut bien attendre la fin du week-end, je suppose ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4301bcf4162",
+          "title": "BlizzCon 2026 : comment voir la conférence de Blizzard sur WoW, Diablo, Overwatch et StarCraft ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331287-blizzcon-2026-comment-voir-la-conference-de-blizzard-sur-wow-diablo-overwatch-et-starcraft.html",
+          "category": "ia",
+          "published_at": "2026-09-12T11:30:00+00:00",
+          "summary": "Blizzard Entertainment organise ce week-end des 12 et 13 septembre 2026 la BlizzCon 2026, rendez-vous incontournable des fans des licences de l'entreprise, comme Warcraft, Diablo, Overwatch ou encore StarCraft. Il y aura bien sûr une conférence avec des annonces.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53f6cd5461d1",
+          "title": "Roblox veut s’affranchir de l’application et d’Internet pour jouer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331725-roblox-veut-saffranchir-de-lapplication-et-dinternet-pour-jouer.html",
+          "category": "ia",
+          "published_at": "2026-09-12T10:09:57+00:00",
+          "summary": "Roblox prépare une petite révolution pour sa plateforme. D’ici la fin de 2026, certains jeux pourront être lancés directement depuis un navigateur sans installer l’application. Et à partir de 2027, certains pourront même fonctionner hors ligne. Une évolution qui pourrait changer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a88349f128c5",
+          "title": "Apple ouvre les précommandes des iPhone 18 Pro et Pro Max aujourd’hui : où les trouver au meilleur prix ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2331515-apple-ouvre-les-precommandes-des-iphone-18-pro-et-pro-max-ou-les-trouver-au-meilleur-prix.html",
+          "category": "ia",
+          "published_at": "2026-09-12T09:30:05+00:00",
+          "summary": "Les iPhone 18 Pro et 18 Pro Max sont disponibles en précommande aujourd'hui, et ils coûtent bien plus cher cette année. Numerama vous aide à suivre ce lancement avec une sélection de toutes les offres régulièrement mise à jour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed710dd41764",
+          "title": "Avec le remake d’Ocarina of Time, Nintendo vient encore de modifier la chronologie de Zelda",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331657-avec-le-remake-docarina-of-time-nintendo-vient-encore-de-modifier-la-timeline-de-zelda.html",
+          "category": "ia",
+          "published_at": "2026-09-12T08:35:10+00:00",
+          "summary": "Après l'annonce du remake de The Legend of Zelda: Ocarina of Time, Nintendo a mis à jour la chronologie officielle de la série. Est-ce qu’on y voit maintenant plus clair dans la timeline des jeux Zelda ? Non. Définitivement non.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82b3b9ea0783",
+          "title": "Kylie Minogue to Deliver 20-Minute ‘Spectacle’ at AFL Grand Final",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/kylie-minogues-afl-grand-final-show-mcg-1236338919/",
+          "category": "musique",
+          "published_at": "2026-09-12T08:17:22+00:00",
+          "summary": "The Grand Final takes place Saturday, Sept. 26, at the MCG, with around 100,000 fans expected at the stadium.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30e0ffe82a45",
+          "title": "Si PlayStation a annulé le jeu de Hideo Kojima, c’est parce qu’il voyait (encore) trop grand",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331649-si-playstation-a-annule-le-jeu-de-hideo-kojima-cest-parce-quil-voyait-encore-trop-grand.html",
+          "category": "ia",
+          "published_at": "2026-09-12T07:26:14+00:00",
+          "summary": "Quelques jours après l’annonce surprise de l’abandon de Physint, de nouvelles informations permettent de comprendre pourquoi PlayStation a finalement décidé de se retirer du projet d’Hideo Kojima. Budget jugé trop important, rentabilité incertaine et retards dans le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a1300240a13",
+          "title": "En attendant le remake, le meilleur goodies de Zelda: Ocarina of Time est en promotion",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331483-en-attendant-le-remake-le-meilleur-goodies-de-zelda-ocarina-of-time-est-en-promotion.html",
+          "category": "ia",
+          "published_at": "2026-09-12T06:30:00+00:00",
+          "summary": "[Deal du jour] Si le remake d'Ocarina of Time vous a convaincu d'investir dans une Switch 2, il va toutefois falloir se montrer patient, le jeu est prévu pour le 5 novembre 2026. En attendant, le Lego du jeu est disponible en promotion.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "daf0db5d390a",
+          "title": "Nashville Airport Moves to Rename Itself After Dolly Parton in Unanimous Vote",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/dolly-parton-nashville-airport-1236338913/",
+          "category": "ia",
+          "published_at": "2026-09-12T06:03:12+00:00",
+          "summary": "The Metropolitan Nashville Airport Authority board voted 6-0 to begin renaming Nashville International in honor of the late country icon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90b7daba27a3",
+          "title": "Jet supersonique X-59, première historique pour une fusée européenne, l’urinoir parfait existe – le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2331119-jet-supersonique-x-59-premiere-historique-pour-une-fusee-europeenne-lurinoir-parfait-existe-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-09-12T05:05:00+00:00",
+          "summary": "Dans l'actualité scientifique de la semaine : le jet supersonique X-59 prêt à abattre l'un des grands interdits de l'aviation, une première historique pour l'Europe spatiale et des travaux de recherche en physique portant sur l'urinoir idéal. C'est le récap' sciences de Numerama…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a75acf21087",
+          "title": "Lady Gaga Welcomes First Baby With Fiancé Michael Polansky: Reports",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/lady-gaga-baby-michael-polansky-first-child-1236338900/",
+          "category": "ia",
+          "published_at": "2026-09-12T01:31:17+00:00",
+          "summary": "The couple have been publicly dating since early 2020 &#38; got engaged in 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca7261962ff1",
+          "title": "Jessica Simpson Brings a Little Texas to Her Walmart Fall Collection Amid Music Comeback",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/jessica-simpson-walmart-fall-fashion-collection-sept-2026-1236338759/",
+          "category": "musique",
+          "published_at": "2026-09-12T00:25:16+00:00",
+          "summary": "Simpson's newest Walmart collection arrived Sept. 10, tapping into her Cali-boho style &#38; Texas roots as she continues her music comeback and documentary rollout.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7dc80b312d82",
+          "title": "Lil Durk Acquitted of All Charges in Murder-for-Hire Trial Over Quando Rondo Attack",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/lil-durk-acquitted-murder-for-hire-trial-quando-rondo/",
+          "category": "ia",
+          "published_at": "2026-09-12T00:23:44+00:00",
+          "summary": "A Los Angeles jury found Durk not guilty after deliberating for three days.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-11",
       "articles": [
+        {
+          "id": "be7beeb343f2",
+          "title": "In Canada: Inside Danielle Smith’s Plans to Make the Calgary Music Industry ‘Nashville North’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/calgary-plans-nashville-north-canada-music-news/",
+          "category": "musique",
+          "published_at": "2026-09-11T23:22:32+00:00",
+          "summary": "Also up north this week: The Beaches scores its first gold-certified record in the U.S. and Vancouver's Reliant Music Group signs a global distribution deal.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3164668162e",
+          "title": "Jamaican Dancehall Singer Shabba Ranks Sues to Claw Back Publishing Catalog",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/jamaican-dancehall-singer-shabba-ranks-lawsuit-catalog/",
+          "category": "musique",
+          "published_at": "2026-09-11T23:05:22+00:00",
+          "summary": "The reggae star wants to reclaim the rights to his Billboard Hot 100 hits, plus the foundational 1990 song “Dem Bow.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01193eb6f0ee",
+          "title": "‘Have You Forgotten?’ Hell, No: A Reflection on Country’s 9/11 Songs, 25 Years Later",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/911-country-songs-darryl-worley-reflect-significance-1236338824/",
+          "category": "musique",
+          "published_at": "2026-09-11T22:51:56+00:00",
+          "summary": "A look at how the music of Alan Jackson, Darryl Worley, Toby Keith and The Chicks helped connect the nation with difficult emotions.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2985b2ffc0f",
+          "title": "Oklahoma vs. Michigan Livestream: Here’s Where to Watch the College Football Game Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/oklahoma-vs-michigan-sept-2026-college-football-watch-livestream-online-free-1236337268/",
+          "category": "musique",
+          "published_at": "2026-09-11T22:35:52+00:00",
+          "summary": "Saturday afternoon college football with the Sooners taking on the Wolverines — watch live on Saturday, Sept. 12",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2327ef2ff6a8",
+          "title": "Le Tesla Semi arrive en Europe en 2027, mais sans réelle surprise technique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2331633-le-tesla-semi-arrive-en-europe-en-2027-mais-sans-reelle-surprise-technique.html",
+          "category": "ia",
+          "published_at": "2026-09-11T17:10:41+00:00",
+          "summary": "Tesla lève le voile sur les caractéristiques européennes de son camion électrique Semi. Mais derrière l’effet d’annonce, la fiche technique n’est pas forcément la révolution escomptée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4b83e196522",
+          "title": "Cybersécurité : l’âge de l’industrialisation, selon Anthropic",
+          "source": "Next INpact",
+          "url": "https://next.ink/256115/cybersecurite-lage-de-lindustrialisation-selon-anthropic/",
+          "category": "institutionnel",
+          "published_at": "2026-09-11T15:42:00+00:00",
+          "summary": "Anthropic a publié ce 10 septembre un nouveau rapport de renseignement sur les menaces, le quatrième de son histoire. L’entreprise y précise la manière dont ses modèles peuvent être utilisés de manière criminelle, tout en notant les évolutions générales dans plusieurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59283b459109",
+          "title": "Pourquoi Netflix est sous le feu des critiques aux États-Unis ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331503-pourquoi-netflix-est-sous-le-feu-des-critiques-aux-etats-unis.html",
+          "category": "ia",
+          "published_at": "2026-09-11T15:26:21+00:00",
+          "summary": "Un simple post de promotion sur X, et c'est l'embrasement, Netflix se retrouve sous le feu des critiques aux États-Unis après une publication jugée insultante par le mouvement MAGA. Accusée de se moquer de l'assassinat d'une figure conservatrice majeure, la plateforme fait face…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6bca1f711d81",
+          "title": "En Europe, l’usage public des lunettes Meta avec l’IA jugé illégal par des experts",
+          "source": "Next INpact",
+          "url": "https://next.ink/255956/en-europe-lusage-public-des-lunettes-meta-avec-lia-juge-illegal-par-des-experts/",
+          "category": "ia",
+          "published_at": "2026-09-11T15:14:25+00:00",
+          "summary": "Dans un rapport très fourni, l&#8217;autorité de protection des données hambourgeoise donne sa position sur l&#8217;utilisation légale des lunettes connectées de Meta, que ce soit dans leur utilisation « simple » pour prendre des photos, l&#8217;utilisation avec Meta AI ou celle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "026f75370057",
+          "title": "AIM boss: ‘Independent music is the economic canary in the coal mine’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/11/aim-boss-independent-music-is-the-economic-canary-in-the-coal-mine/",
+          "category": "musique",
+          "published_at": "2026-09-11T14:43:29+00:00",
+          "summary": "Yesterday’s AIM Connected conference in London saw the UK indies body’s CEO Gee Davy call on the government to provide more support for the sector, particularly its role in discovering and breaking new talent.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d089509ab9aa",
+          "title": "Neo Geo AES+ : la Rolls des consoles rétro cale avant le départ",
+          "source": "Next INpact",
+          "url": "https://next.ink/256093/neo-geo-aes-la-rolls-des-consoles-retro-cale-avant-le-depart/",
+          "category": "ia",
+          "published_at": "2026-09-11T14:40:53+00:00",
+          "summary": "Le spécialiste des consoles rétro Plaion Replai a vendu du rêve en lançant en avril dernier les précommandes pour la Neo Geo AES+. Cette réédition fidèle de la mythique console de SNK n&#8217;est malheureusement pas près de débarquer chez les joueurs : les premières livraisons,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7bec0920c639",
+          "title": "La France a doublé ses exportations de technologies de surveillance",
+          "source": "Next INpact",
+          "url": "https://next.ink/255888/la-france-a-double-ses-exportations-de-technologies-de-surveillance/",
+          "category": "institutionnel",
+          "published_at": "2026-09-11T14:29:21+00:00",
+          "summary": "La France a autorisé l&#8217;exportation de 65 millions d&#8217;euros de biens et technologies de cybersurveillance en 2025, soit un peu plus de deux fois plus que la moyenne des quatre années précédentes. Le dernier rapport au Parlement consacré aux exportations des biens à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86bde5907589",
+          "title": "Professeur Raoult vs Le Gang des Cerises : quel est ce documentaire HBO qui fait le buzz ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2331301-professeur-raoult-vs-le-gang-des-cerises-quel-est-ce-documentaire-hbo-qui-fait-le-buzz.html",
+          "category": "ia",
+          "published_at": "2026-09-11T14:05:00+00:00",
+          "summary": "Six ans seulement après le début des confinements et des masques FFP2, la pandémie de Covid-19 revient frapper à nos portes par le petit écran. HBO Max s'empare du sujet avec Professeur Raoult vs Le Gang des Cerises, une série documentaire qui revient sur l'enquête menée par six…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7f93176a530",
+          "title": "Changement d’heure : pourquoi le passage à l’heure d’hiver 2026 tombe dès le 25 octobre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2331255-changement-dheure-pourquoi-le-passage-a-lheure-dhiver-2026-tombe-des-le-25-octobre.html",
+          "category": "ia",
+          "published_at": "2026-09-11T13:45:00+00:00",
+          "summary": "Le prochain changement d'heure sera le passage à l'heure d'hiver fin octobre 2026. Cette année, il aura lieu dès le dimanche 25 octobre, ce qui peut sembler particulièrement tôt. Voici l'explication.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d79c00d4d295",
+          "title": "Un essaim d’agents IA s’acharne sur ce logiciel et pirate 395 organisations dans 48 pays",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2331261-un-essaim-dagents-ia-sacharne-sur-ce-logiciel-et-pirate-395-organisations-dans-48-pays.html",
+          "category": "ia",
+          "published_at": "2026-09-11T13:20:00+00:00",
+          "summary": "Selon un rapport de la société de cybersécurité GreyNoise, des agents IA ont piraté des centaines d'organisations en quelques heures, parfois sans même respecter les consignes de leur opérateur humain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7f46bf7baf2",
+          "title": "☕️ Nintendo corrige une faille de sécurité sur la Switch 1, la Switch 2 gagne le VRR",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/nintendo-corrige-une-faille-de-securite-sur-la-switch-1-la-switch-2-gagne-le-vrr/",
+          "category": "ia",
+          "published_at": "2026-09-11T13:16:11+00:00",
+          "summary": "Les possesseurs de Switch 1ère génération devraient installer la version 23.0.0 du firmware de leur console séance tenante. Cette mise à jour corrige en effet une faille de sécurité pour laquelle Nintendo a donné de plus amples informations (PDF). La vulnérabilité peut être…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e41a152f2640",
+          "title": "Decathlon retire 400 € sur son VTC électrique Stilus e-touring aux 130 km d’autonomie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2331277-decathlon-retire-400-e-sur-son-vtc-electrique-stilus-e-touring-au-130-km-dautonomie.html",
+          "category": "ia",
+          "published_at": "2026-09-11T13:12:15+00:00",
+          "summary": "[Deal du jour] Decathlon fait baisser son VTC électrique Stilus e-touring, un vélo tout chemin motorisé par Bosch, de 3299,99 € à 2899,99 € jusqu'au 19 septembre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17dfc77c43e0",
+          "title": "Quelle chaise de bureau ergonomique choisir en 2026 ? Notre comparatif",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2225841-quelles-sont-les-meilleures-chaises-ergonomiques-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-09-11T13:00:00+00:00",
+          "summary": "Si vous passez le plus clair de votre temps assis devant un bureau, investir dans une chaise de bureau ergonomique est aussi crucial que de choisir un bon matelas. Voici les modèles que l'on vous recommande en 2026.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "cbb15fb8dbf4",
           "title": "A-Listers In Paris: Jay-Z Joined By Justin Timberlake and Pharrell at Stade de France Show: Watch",
@@ -17,6 +322,16 @@
         {
           "id": "42c9ffc489b6",
           "title": "Après de nombreux signalements, Dyson retire déjà sa brosse à dents CameraJet de la vente",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2330911-apres-de-nombreux-signalements-dyson-retirerait-deja-de-la-vente-sa-brosse-a-dents-camerajet-a-479-e.html",
+          "category": "justice",
+          "published_at": "2026-09-11T12:39:50+00:00",
+          "summary": "La Dyson CameraJet n&#8217;est plus commandable sur le site de la marque, et plusieurs distributeurs, dont Darty et Boulanger, ont reçu la consigne de l&#8217;écarter de leurs rayons et de rembourser les clients. Plusieurs témoignages font état d&#8217;une brosse à dents à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2727692632f5",
+          "title": "Après de nombreux signalements, Dyson suspend la vente de sa brosse à dents CameraJet",
           "source": "Numerama",
           "url": "https://www.numerama.com/tech/2330911-apres-de-nombreux-signalements-dyson-retirerait-deja-de-la-vente-sa-brosse-a-dents-camerajet-a-479-e.html",
           "category": "justice",
