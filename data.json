@@ -1,9 +1,394 @@
 {
-  "generated_at": "2026-09-14T15:01:17.729250+00:00",
+  "generated_at": "2026-09-15T13:33:17.761059+00:00",
   "days": [
+    {
+      "date": "2026-09-15",
+      "articles": [
+        {
+          "id": "4fbd2e37d5f9",
+          "title": "‘BTS Recipe Book’: K-Pop Superstars Break Down Their Favorite Korean Dishes in a New Cookbook",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/bts-recipe-book-cookbook-shop-online-1236272996/",
+          "category": "ia",
+          "published_at": "2026-09-15T13:30:08+00:00",
+          "summary": "Available for right now, BTS Recipe Book is a must for BTS ARMYs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fe029fd52a9",
+          "title": "Bouygues fait tomber la PS5 à 101 € aujourd’hui (ou 1 €, mais sous conditions)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2333427-bouygues-fait-tomber-la-ps5-a-101-e-aujourdhui-ou-1-e-mais-sous-conditions.html",
+          "category": "ia",
+          "published_at": "2026-09-15T13:29:04+00:00",
+          "summary": "[Deal du jour] Bouygues Telecom propose la PS5 à partir de 101 € pour toute souscription à l’une de ses box fibre Gaming, avec engagement de 24 mois. La console peut même revenir à 1 € après reprise d’une PS4 ou d’un smartphone éligible, grâce à la valeur de reprise.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6563e1793bb",
+          "title": "☕️ Apple intègre TV et Arcade à iCloud+ dans les marchés émergents",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-integre-tv-et-arcade-a-icloud-dans-les-marches-emergents/",
+          "category": "institutionnel",
+          "published_at": "2026-09-15T13:25:47+00:00",
+          "summary": "C&#8217;est probablement la meilleure affaire Apple du moment, mais malheureusement elle n&#8217;est pas disponible en France. L&#8217;abonnement payant iCloud+ inclut désormais les services Apple TV et Apple Arcade dans une centaine de pays. Et ce, dès le premier palier…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba27fdd733bd",
+          "title": "Producers Cancel ‘Sunday in the Park With George’ After Ariana Grande and Jonathan Bailey Exits",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/producers-cancel-sunday-in-park-with-george-grande-bailey-exits-1236340344/",
+          "category": "ia",
+          "published_at": "2026-09-15T13:15:06+00:00",
+          "summary": "The planned 2027 production initially promised to soldier on despite losing its two marquee stars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3e5b8d3e412",
+          "title": "Bye-Bye, ‘Baby Shark’: Spotify Lets Parents Keep Kids’ Music From Taking Over Year-End ‘Wrapped’ Recap",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/spotify-parents-exclude-kids-music-wrapped-recap-1236339922/",
+          "category": "musique",
+          "published_at": "2026-09-15T13:00:00+00:00",
+          "summary": "The platform has a new setting that won't let family listening sessions influence an account's insights or personalized recommendations.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b884c522c72",
+          "title": "Quelle plateforme de streaming choisir pour voir les séries les plus récompensées en 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2333373-quelle-plateforme-de-streaming-choisir-pour-voir-les-series-les-plus-recompensees-en-2026.html",
+          "category": "justice",
+          "published_at": "2026-09-15T12:47:14+00:00",
+          "summary": "Les Emmy Awards 2026 rebattent les cartes du streaming, et cela pèse sur le budget des abonnés. Quelle plateforme est la meilleure pour s'abonner ? Netflix ? Prime Video ? Apple TV ? Voici celles qui vous permettent de regarder les séries les plus récompensées cette année.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6709d80885c1",
+          "title": "Noel Gallagher Reveals the Exact Moment Oasis Knew They Were Going to Tour Again in 2027",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/noel-gallagher-moment-oasis-knew-going-back-on-tour-new-music-1236340326/",
+          "category": "ia",
+          "published_at": "2026-09-15T12:39:51+00:00",
+          "summary": "As for why they're hitting Boston and Las Vegas this time around, the guitarist/songwriter said they \"meant\" to hit them last time but just didn't.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bc0ddde7b19",
+          "title": "EU Kids Act set to restrict social media, video, games and AI",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/15/eu-kids-act-set-to-restrict-social-media-video-games-and-ai/",
+          "category": "ia",
+          "published_at": "2026-09-15T12:32:00+00:00",
+          "summary": "There have been rumours recently of imminent legislation introducing a social-media ban for children in the European Union. It seems the bill will now debut on Thursday (17 September).\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3178b4e818b1",
+          "title": "Macklemore removed from Ed Sheeran tour over ‘Free Palestine’ comments",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/15/macklemore-removed-from-ed-sheeran-tour-over-free-palestine-comments/",
+          "category": "musique",
+          "published_at": "2026-09-15T12:30:00+00:00",
+          "summary": "The bubbling controversy around Macklemore’s support slot on Ed Sheeran’s US stadium dates erupted yesterday. The American rapper was removed from the tour after several venues said that they would not allow the shows to go on if Macklemore remained on the bill\nThe post is from…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01d05754c755",
+          "title": "UK roundup: Diversity survey, Music Venue Trust patrons, Marshall tour",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/15/uk-roundup-diversity-survey-music-venue-trust-patrons-marshall-tour/",
+          "category": "musique",
+          "published_at": "2026-09-15T12:30:00+00:00",
+          "summary": "There’s a flurry of news from the UK music industry today, starting with umbrella body UK Music’s launch of its latest workforce diversity survey.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d5dbd7ace08",
+          "title": "Sessionography gives Apple Music listeners a better jazz experience",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/15/sessionography-gives-apple-music-listeners-a-better-jazz-experience/",
+          "category": "musique",
+          "published_at": "2026-09-15T12:30:00+00:00",
+          "summary": "Apple Music launched its own standalone app to give classical-music listeners a better experience with its streaming service. Now an independent developer is doing the same thing for jazz.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e7945fba9cea",
+          "title": "Hybe India to hold on-ground girl group auditions at four new pop-up parks",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/15/hybe-india-to-hold-on-ground-girl-group-auditions-at-four-new-pop-up-parks/",
+          "category": "musique",
+          "published_at": "2026-09-15T12:06:55+00:00",
+          "summary": "It turns out Hybe India’s final call was not a final call. Earlier this month, the K-Pop behemoth announced that it was making a ‘final call’ for auditions to put [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca3d30090278",
+          "title": "Jason Kelce Talks Taylor Swift & Travis Kelce Wedding Before Chiefs ‘MNF’ Victory: ‘The Ceremony Was Gorgeous’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/jason-kelce-taylor-swift-travis-kelce-wedding-ceremony-gorgeous-1236340304/",
+          "category": "ia",
+          "published_at": "2026-09-15T11:58:08+00:00",
+          "summary": "The former NFL player shouted out all the \"awesome\" people from all walks of life who attended his younger brother's July nuptials at MSG.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "49fc60f5c777",
+          "title": "Spotify’s former Head of Innovation raises $5.5m pre-seed for music app startup, A Vinyl Bar in Shibuya; Dawn Ostroff among the backers",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotifys-former-head-of-innovation-raises-5-5m-pre-seed-for-music-app-startup-a-vinyl-bar-in-shibuya-dawn-ostroff-among-the-backers/",
+          "category": "musique",
+          "published_at": "2026-09-15T11:31:17+00:00",
+          "summary": "The company, which builds apps that let people take apart and rebuild recorded music, was founded in 2024, the same year Zonoozy left Spotify.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "675a29996604",
+          "title": "Amazon fait baisser le prix de la première batterie Ugreen à refroidissement liquide",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2333337-amazon-fait-baisser-le-prix-de-la-premiere-batterie-ugreen-a-refroidissement-liquide.html",
+          "category": "ia",
+          "published_at": "2026-09-15T10:27:37+00:00",
+          "summary": "[Deal du jour] Sortie début septembre 2026, la batterie externe magnétique Ugreen MagFlow Pro mise sur un refroidissement liquide visible pour tenir la charge rapide. Elle passe à 105,99 € au lieu de 129,99 € sur Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "093226001242",
+          "title": "5 things You Need to Know About ElevenLabs, the UMG AI partner with an $11B valuation – and big ambitions in music.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/5-things-you-need-to-know-about-elevenlabs-the-umg-ai-partner-with-an-11b-valuation-and-big-ambitions-in-music/",
+          "category": "musique",
+          "published_at": "2026-09-15T10:19:44+00:00",
+          "summary": "UMG and ElevenLabs announced a licensing agreement, which will see the latter build a fan platform for remixes, mashups, and \"new track interpretations.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3b51c93c908",
+          "title": "PS5 Slim, FAT ou PS5 Pro : laquelle acheter en 2026 avant GTA 6 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1822552-ps5-pro-vs-ps5-slim-quelle-console-acheter.html",
+          "category": "ia",
+          "published_at": "2026-09-15T10:05:43+00:00",
+          "summary": "Les PS5 coûtent plus cher, certains stocks se tendent et GTA 6 arrive le 19 novembre. Entre la Slim numérique, le modèle avec lecteur et une Pro à 900 € : voici où mettre votre argent -- et ce que chaque console change vraiment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7634f075bf25",
+          "title": "Télescope Roman : une manœuvre si précise que la Nasa espère désormais 22 ans de mission",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2333179-la-nasa-vient-deconomiser-des-annees-de-carburant-pour-son-telescope-roman-grace-a-une-manoeuvre-ultra-precise.html",
+          "category": "ia",
+          "published_at": "2026-09-15T09:50:25+00:00",
+          "summary": "La première manœuvre corrigeant la trajectoire du télescope Nancy Grace Roman dans l'espace s'est très bien passée. Tellement bien que la Nasa a économisé énormément de carburant, ce qui devrait rallonger la durée de la mission de cet observatoire spatial.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31c0582602e0",
+          "title": "Samsung moves to dismiss Dua Lipa’s $15M lawsuit, arguing she holds no trademark in her own image",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/samsung-moves-to-dismiss-dua-lipas-15m-lawsuit-arguing-she-holds-no-trademark-in-her-own-image/",
+          "category": "ia",
+          "published_at": "2026-09-15T09:24:08+00:00",
+          "summary": "The motion is scheduled to be heard on December 14 in the US District Court for the Central District of California.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e78fe6efd69a",
+          "title": "Le suivi mondial des météores et des bolides est paralysé par une cyberattaque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2333191-une-cyberattaque-foudroyante-perturbe-le-suivi-mondial-des-meteores-et-des-bolides.html",
+          "category": "ia",
+          "published_at": "2026-09-15T09:20:00+00:00",
+          "summary": "L'Organisation internationale des météores (IMO), qui fédère les observateurs de météores du monde entier, reste partiellement hors ligne après une cyberattaque. Elle annonce plusieurs semaines avant un retour complet à la normale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b139ffc5262",
+          "title": "Face à Volvo, MAN et Mercedes, le Tesla Semi n’aura pas le monopole de l’autonomie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2333189-face-a-volvo-man-et-mercedes-le-tesla-semi-naura-pas-le-monopole-de-lautonomie.html",
+          "category": "ia",
+          "published_at": "2026-09-15T09:10:00+00:00",
+          "summary": "Tesla lance enfin son Semi en Europe, avec des livraisons prévues pour 2027. Mais à l'IAA de Hanovre, Mercedes, MAN et Volvo viennent de dévoiler des camions électriques qui rivalisent déjà avec le modèle américain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ab4e71eb0d0",
+          "title": "Homebrew 7.0, le gestionnaire de paquets pour Mac, a son application graphique",
+          "source": "Next INpact",
+          "url": "https://next.ink/256340/homebrew-7-0-le-gestionnaire-de-paquets-pour-mac-a-son-application-graphique/",
+          "category": "ia",
+          "published_at": "2026-09-15T09:01:00+00:00",
+          "summary": "Après de nombreuses années d&#8217;existence, Homebrew se dote d&#8217;une application maison, avec interface graphique. Elle est cependant réservée à macOS 26 et 27. Les Mac Intel, eux, tombent en désuétude. Homebrew est un gestionnaire de paquets pour macOS. Existant depuis de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80c3c3784dba",
+          "title": "Le Magicien d’Oz serait au coeur de la suite de Lies of P",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2333159-apres-pinocchio-la-suite-de-lies-of-p-pourrait-sinteresser-au-magicien-doz.html",
+          "category": "ia",
+          "published_at": "2026-09-15T08:59:21+00:00",
+          "summary": "Lies of P figure parmi les belles surprises de ces dernières années. Une scène post-générique laissait déjà entrevoir la voie choisie pour cette suite. Un nouvel indice vient aujourd’hui la confirmer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6203b201775",
+          "title": "Des armes spatiales déployées en orbite pour la première fois dans l’histoire américaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2333177-etats-unis-des-armes-en-orbite-premiere-etape-concrete-du-golden-dome-de-trump.html",
+          "category": "ia",
+          "published_at": "2026-09-15T08:40:42+00:00",
+          "summary": "Depuis maintenant des années, Donald Trump évoque la construction d'un « Golden Dome », un ensemble de systèmes de protection anti-missiles avec un volet spatial encore mal défini. Les prémices apparaissent aujourd'hui avec, pour la première fois, des armes déployées en orbite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af4242e94623",
+          "title": "ElevenLabs launched Music v2.5 – shortly after announcing its UMG licensing deal.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elevenlabs-launched-music-v2-5-shortly-after-announcing-its-umg-licensing-deal/",
+          "category": "musique",
+          "published_at": "2026-09-15T08:36:19+00:00",
+          "summary": "The model went live on September 11 and is now the default “for prompted and reference generation” in ElevenMusic, the company said.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "898ba9c31d85",
+          "title": "Suno hires ex-Hightouch CFO Cherry Miao as its first finance chief: ‘Music is one of the things that makes humans human’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-hires-ex-hightouch-cfo-cherry-miao-as-its-first-finance-chief-music-is-one-of-the-things-that-makes-humans-human/",
+          "category": "musique",
+          "published_at": "2026-09-15T08:35:48+00:00",
+          "summary": "Miao oversaw finance, legal, data and revenue operations at Hightouch, and had been both a customer and an angel investor in the company before joining it.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71d8181bb7db",
+          "title": "Le Moustache Lundi 27 devient plus léger et moins cher : le daily idéal ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2298733-le-moustache-lundi-27-devient-plus-leger-et-moins-cher-le-daily-ideal.html",
+          "category": "ia",
+          "published_at": "2026-09-15T08:00:00+00:00",
+          "summary": "Ce titre dithyrambique pour une prise en main vélo n'est pas une pub déguisée. Mais il faut appeler un chat un chat, et dans ce cas précis, c'est un bon achat. Car ce nouveau Lundi 27 est réussi. Pas parfait, mais réussi. Laissez-moi vous expliquer pourquoi.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "015d69f4a952",
+          "title": "Remboursement du passe Navigo : jusqu’à 90,80 € dédommagés, la plateforme ouvre aujourd’hui",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-jusqua-9080-dedommages-la-plateforme-ouvre-aujourdhui.html",
+          "category": "ia",
+          "published_at": "2026-09-15T07:25:24+00:00",
+          "summary": "Certains voyageurs peuvent demander le remboursement de leur passe Navigo. Une nouvelle campagne de dédommagement d'Île-de-France Mobilités est ouverte à partir de la mi-septembre 2026. Voici les détails pratiques, et comment savoir si vous êtes concernés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0dba091c6722",
+          "title": "☕️ Des correctifs de sécurité comme s’il en pleuvait dans les nouveaux logiciels d’Apple",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/des-correctifs-de-securite-comme-sil-en-pleuvait-dans-les-nouveaux-logiciels-dapple/",
+          "category": "ia",
+          "published_at": "2026-09-15T07:15:00+00:00",
+          "summary": "Les réfractaires aux nouveautés d&#8217;iOS 27 et consorts, dont la version finale a été livrée ce lundi 14 septembre, devraient tout de même installer les mises à jour 26.7 d&#8217;iOS et d&#8217;iPadOS. Quant à ceux qui ne veulent pas (encore) entendre parler de macOS Golden…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b996e53590e",
+          "title": "Après la censure, le gouvernement affine l’interdiction des réseaux sociaux aux -15 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/256286/apres-la-censure-le-gouvernement-affine-linterdiction-des-reseaux-sociaux-aux-15-ans/",
+          "category": "justice",
+          "published_at": "2026-09-15T06:03:00+00:00",
+          "summary": "Le gouvernement n&#8217;a pas traîné à revoir sa copie. Après la censure du Conseil constitutionnel de la disposition interdisant les réseaux sociaux aux moins de 15 ans, l&#8217;exécutif a planché sur de nouveaux aménagements notifiés à la Commission européenne. Stupeur et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a87f9c87e7f",
+          "title": "☕️ iOS 27 et macOS 27 pourraient permettre de remplacer Siri AI",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ios-27-macos-27-claude-et-gpt-5-6-peuvent-se-glisser-derriere-siri/",
+          "category": "ia",
+          "published_at": "2026-09-15T05:43:00+00:00",
+          "summary": "Il n&#8217;y a pas que Siri AI dans la vie, y compris sur les appareils d&#8217;Apple. Des mécanismes sont présents dans iOS 27 et macOS Golden Gate pour remplacer l&#8217;IA maison par une autre. Un fouineur, pdfu, a trouvé comment remplacer Siri AI par un autre modèle au sein…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "479bb5baef68",
+          "title": "Charli xcx’s Music, Fashion, Film Tour in New York: 5 Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/charli-xcx-music-fashion-film-tour-brooklyn-best-moments/",
+          "category": "musique",
+          "published_at": "2026-09-15T04:39:50+00:00",
+          "summary": "The much-anticipated new trek stopped for its first of two nights at Brooklyn's Barclays Center on Monday (Sept. 14)",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56fb4394d3ce",
+          "title": "Quinta Brunson, Shabana Azeez Say Which Concerts Their Characters Would Go To At Emmys Red Carpet | Emmys Red Carpet 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/2026-emmys-which-concerts-their-characters-would-attend/",
+          "category": "musique",
+          "published_at": "2026-09-15T02:54:55+00:00",
+          "summary": "&#8216;Abbott Elementary&#8217; star Quinta Brunson, &#8216;The Pitt&#8217; Shabana Azeez and more share which concerts their characters would attend if they could on the 2026 Emmys red carpet.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-14",
       "articles": [
+        {
+          "id": "f3a3edd71436",
+          "title": "Non-English-speaking artists now account for 30% of Live Nation’s top 50 tours – but 47 of the top 75 international markets lack modern arenas to host them",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/non-english-speaking-artists-account-for-30-of-live-nations-top-50-tours-up-from-8-pre-covid-and-47-of-the-top-75-international-markets-lack-the-arenas-to-host-them/",
+          "category": "musique",
+          "published_at": "2026-09-14T19:18:00+00:00",
+          "summary": "\"It's not going to be that long where I'm sitting here saying now over half of our artists are not U.S., U.K. English-speaking artists,\" Berchtold told Goldman analyst Stephen Laszczyk\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35a599da8bfd",
+          "title": "Matt Serletic – Grammy-winning producer, ex-Virgin Records, Amazon Music exec – named Dean of the University of Miami’s Frost School of Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/matt-serletic-grammy-winning-producer-ex-virgin-records-amazon-music-exec-named-dean-of-the-university-of-miamis-frost-school-of-music/",
+          "category": "musique",
+          "published_at": "2026-09-14T18:34:01+00:00",
+          "summary": "Serletic is the sixth person to serve as dean of the Frost School of Music, which was established in 1926 and recently marked its 100th anniversary.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c9888b49a7c",
+          "title": "Spotify promotes Mia Nygren to Vice President and General Manager for Europe and Latin America",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-promotes-mia-nygren-to-vice-president-and-general-manager-for-europe-and-latin-america/",
+          "category": "musique",
+          "published_at": "2026-09-14T18:23:20+00:00",
+          "summary": "Nygren stepped into the role over the summer, having previously served as the streaming company’s General Manager for Latin America.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4f538768a20",
+          "title": "Apple lance iOS 27, macOS 27 et tous ses systèmes d’exploitation en 27",
+          "source": "Next INpact",
+          "url": "https://next.ink/255760/apple-lessentiel-des-nouveautes-pour-les-nouveaux-systemes-27/",
+          "category": "loi",
+          "published_at": "2026-09-14T17:09:11+00:00",
+          "summary": "C&#8217;est le grand soir pour les nouveaux systèmes d’exploitation d’Apple. Portant tous la mention «&#160;27&#160;», et intégrant une longue liste d’améliorations et de nouveautés, ces mises à jour sont disponibles. Mise à jour 14/09, 19h – Apple vient de mettre en ligne les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8b52aea1a60",
+          "title": "Anthropic, OpenAI et Elon Musk veulent ralentir sur l’IA, la Maison-Blanche dit non",
+          "source": "Next INpact",
+          "url": "https://next.ink/256165/anthropic-openai-et-elon-musk-veulent-ralentir-sur-lia-la-maison-blanche-dit-non/",
+          "category": "ia",
+          "published_at": "2026-09-14T15:28:21+00:00",
+          "summary": "Dans le sillage de Dario Amodei, patron d’Anthropic, toute l’industrie de l’IA générative semble réclamer à l’unisson un ralentissement du développement sur les modèles frontières. Si la sécurité est largement mise en avant, les intérêts géopolitiques et économiques ne sont pas…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "86b80fe201f5",
           "title": "On a essayé à World of Warcraft Forever en avant-première à la BlizzCon 2026",
