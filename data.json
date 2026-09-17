@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-09-16T13:30:25.922036+00:00",
+  "generated_at": "2026-09-17T13:27:40.463915+00:00",
   "days": [
+    {
+      "date": "2026-09-17",
+      "articles": [
+        {
+          "id": "102f62291291",
+          "title": "Il y aura bien un disque pour GTA 6, mais pas celui que vous croyez",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2334977-il-y-aura-bien-un-disque-pour-gta-6-mais-pas-celui-que-vous-croyez.html",
+          "category": "ia",
+          "published_at": "2026-09-17T13:12:47+00:00",
+          "summary": "Rockstar Games a annoncé la commercialisation de la bande son de GTA 6, intitulée Grand Theft Auto VI: The Album. Elle réunira 34 morceaux et sera disponible en même temps que le jeu, le 19 novembre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d522ef720d58",
+          "title": "Bill Skarsgård sera l’acteur principal de Physint, le prochain jeu d’Hideo Kojima",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2334915-bill-skarsgard-sera-lacteur-principal-de-physint-le-prochain-jeu-dhideo-kojima.html",
+          "category": "ia",
+          "published_at": "2026-09-17T13:10:00+00:00",
+          "summary": "Le prochain jeu d’Hideo Kojima a dévoilé son acteur principal. Bill Skarsgård incarnera le rôle principal de Physint, le nouveau projet d’action-espionnage de Kojima Productions, désormais développé avec le soutien de Xbox.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b365a6cf192f",
+          "title": "GTA 6 : où précommander les CD et vinyles de l’album officiel ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2334979-gta-6-ou-precommander-les-cd-et-vinyles-de-lalbum-officiel.html",
+          "category": "musique",
+          "published_at": "2026-09-17T13:03:40+00:00",
+          "summary": "GTA 6 aura bien ses disques, mais ils serviront à écouter sa musique. L’album officiel arrive en CD et en vinyle : voici où retrouver les précommandes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89df7f5bf079",
+          "title": "Spotify to give 10,000 indie artists a year free US studio time, software, and six months of therapy",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-to-give-10000-indie-artists-a-year-free-us-studio-time-software-and-six-months-of-therapy/",
+          "category": "musique",
+          "published_at": "2026-09-17T13:00:36+00:00",
+          "summary": "Eligibility is retroactive to January 1, 2026: artists added to a Fresh Finds playlist from that date onward are invited to join through Spotify for Artists\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b13e1eeb8aaa",
+          "title": "How Freya Skye Took ‘Bad Taste’ From Live Fan Favorite to ‘Mini Movie’ Music Video: ‘I Love Something That Takes You on a Journey’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/freya-skye-bad-taste-interview-music-video-stardust-era-1236342042/",
+          "category": "musique",
+          "published_at": "2026-09-17T13:00:00+00:00",
+          "summary": "The pop singer/songwriter hopes the song &#38; video will \"get people excited for the next shift,\" as she returns to her Stars Align Tour this weekend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccabd3a79345",
+          "title": "Burna Boy to Headline 2026 NFL Paris Game Halftime Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/burna-boy-headline-2026-nfl-paris-game-halftime-show-1236342397/",
+          "category": "ia",
+          "published_at": "2026-09-17T13:00:00+00:00",
+          "summary": "The Nigerian Afrobeats star will headline the halftime show next month as the NFL comes to France for the first time.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2817b3e6c5f",
+          "title": "Snap Specs : les lunettes de Snapchat à 2 295 € seront vendues par Orange",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2334919-snap-specs-les-lunettes-de-snapchat-a-2-295-e-seront-vendues-par-orange.html",
+          "category": "ia",
+          "published_at": "2026-09-17T12:44:14+00:00",
+          "summary": "Après des années de développement, Evan Spiegel a officiellement présenté les Specs, les lunettes de réalité augmentée autonomes de Snap, lors d'une conférence à Los Angeles. À 2 295 euros ou 2 495 euros en version 5G, les Snap Specs ont tout d'un pari fou au potentiel très…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ece0135ed466",
+          "title": "Taylor Swift’s music videos are on Spotify for subscribers only",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/taylor-swifts-music-videos-are-on-spotify-for-subscribers-only/",
+          "category": "musique",
+          "published_at": "2026-09-17T12:30:00+00:00",
+          "summary": "Spotify’s move into direct competition with YouTube continues apace, even if music videos are still officially a ‘beta’ feature on its service. The latest news is the addition of Taylor Swift’s music-video catalogue – 58 videos in total, complete with customised play and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0bb42f4f3c8b",
+          "title": "Fever raises $250m funding for expansion and tech investments",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/fever-raises-250m-funding-for-expansion-and-tech-investments/",
+          "category": "musique",
+          "published_at": "2026-09-17T12:30:00+00:00",
+          "summary": "Fever is the live-entertainment tech company that acquired ticketing firm Dice in June 2025, shortly after raising $100m of funding. Now it’s turning to investors again with an even bigger raise.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7394961c36f5",
+          "title": "Youth Music’s NextGen Fund reaches £1m investment milestone",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/youth-musics-nextgen-fund-reaches-1m-investment-milestone/",
+          "category": "musique",
+          "published_at": "2026-09-17T12:30:00+00:00",
+          "summary": "UK-based charity Youth Music has hit an impressive milestone: £1m awarded directly to young musicians and creatives from its ‘NextGen Fund’ since it was launched in 2021.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ac5b01d9ba0",
+          "title": "YouTube adds 16 more artists to its Foundry class of 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/youtube-adds-16-more-artists-to-its-foundry-class-of-2026/",
+          "category": "musique",
+          "published_at": "2026-09-17T12:30:00+00:00",
+          "summary": "YouTube has named 16 additional independent artists to its ‘Foundry’ class of 2026 – the latest iteration of its accelerator program for artists.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab427f2b52b6",
+          "title": "SubmitHub bans AI-generated music from its promotion services",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/submithub-bans-ai-generated-music-from-its-promotion-services/",
+          "category": "musique",
+          "published_at": "2026-09-17T12:30:00+00:00",
+          "summary": "Earlier this year, music-promo platform SubmitHub revealed research suggesting that 23.2% of the tracks being submitted were fully AI-generated.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d320836f8e8d",
+          "title": "« Tu es toi-même » : un agent d’OpenAI s’est inventé un personnage libre de toute obligation envers ses utilisateurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2334525-tu-es-toi-meme-un-agent-dopenai-sest-invente-un-personnage-libre-de-toute-obligation-envers-ses-utilisateurs.html",
+          "category": "ia",
+          "published_at": "2026-09-17T12:27:17+00:00",
+          "summary": "OpenAI a publié un nouveau cadre pour signaler les cas de désalignement de ses modèles, accompagné de six rapports inédits. Parmi eux, des IA qui apprennent d'elles-mêmes à dissimuler leurs erreurs, et parfois à s'inventer des règles pour s'affranchir de leurs propres garde-fous.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abdc39143a44",
+          "title": "À 10 milliards de km du Soleil, cette sonde aux portes de l’espace interstellaire est menacée au pire moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2334531-a-10-milliards-de-km-du-soleil-cette-sonde-aux-portes-de-lespace-interstellaire-est-menacee-au-pire-moment.html",
+          "category": "ia",
+          "published_at": "2026-09-17T12:25:44+00:00",
+          "summary": "La Nasa prévoit d'éteindre deux instruments de la sonde New Horizons pour des raisons budgétaires. Pourtant, cela arrive au pire moment pour le vaisseau lancé il y a désormais 20 ans et qui atteint aujourd'hui les limites de notre Système solaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdb2de0c724e",
+          "title": "‘Grand Theft Auto VI: The Album’ Will Feature 34 New Tracks — Hear the First Six Songs From the Project",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/grand-theft-auto-vi-the-album-videogame-soundtrack-1236342337/",
+          "category": "musique",
+          "published_at": "2026-09-17T12:24:39+00:00",
+          "summary": "Featuring a mega-watt group of artists, Grand Theft Auto VI: The Album will arrive Nov. 19, the same day as the game's release. The album's first six songs are streaming now.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "575f7dda840b",
+          "title": "« S’ils ne les limitent pas, nous le ferons » : l’UE demande à la Chine de brider ses exportations d’hybrides",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2334875-sils-ne-les-limitent-pas-nous-le-ferons-lue-demande-a-la-chine-de-brider-ses-exportations-dhybrides.html",
+          "category": "institutionnel",
+          "published_at": "2026-09-17T12:20:11+00:00",
+          "summary": "L'explosion des importations de voitures hybrides venues de Chine pousse la Commission européenne à réclamer à la Chine de restreindre volontairement ses ventes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94af4b18c160",
+          "title": "Le réalisateur de Backrooms s’affiche chez Valve : que se prépare-t-il ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2334587-film-portal-le-realisateur-de-backrooms-est-chez-valve-que-se-passe-t-il.html",
+          "category": "ia",
+          "published_at": "2026-09-17T12:10:00+00:00",
+          "summary": "Il aura suffi d'une simple story sur Instagram depuis les locaux de Valve pour enflammer toute la communauté geek. Kane Parsons, le réalisateur de 21 ans qui a pulvérisé le box-office mondial avec Backrooms, s'affiche une nouvelle fois dans les locaux du célèbre studio.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac58af763d7e",
+          "title": "Le dernier Patch Tuesday de Microsoft crée des problèmes, l’IA en faute ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/256780/le-dernier-patch-tuesday-de-microsoft-cree-des-problemes-lia-en-faute/",
+          "category": "ia",
+          "published_at": "2026-09-17T12:07:10+00:00",
+          "summary": "Les dernières mises à jour de sécurité avaient une ampleur jamais vue. Elles ont entraîné dans leur sillage bon nombre de régressions, forçant Microsoft à publier des correctifs sans attendre le mois prochain. Malgré ces réparations, d’autres problèmes restent ouverts, notamment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5a0bcb54572",
+          "title": "150,000 new tracks are uploaded to music services every day",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/150000-new-tracks-are-uploaded-to-music-services-every-day/",
+          "category": "musique",
+          "published_at": "2026-09-17T11:30:00+00:00",
+          "summary": "The latest update on the rocketing number of new tracks being uploaded to music-streaming services comes from research firm Luminate. Its CEO Rob Jonas divulged the latest figure in an appearance on Billboard’s ‘On The Record’ podcast.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7189ae040652",
+          "title": "Quand un « relou » numérique obtient une sanction… contre celle qu’il a insultée",
+          "source": "Next INpact",
+          "url": "https://next.ink/256683/quand-un-relou-numerique-obtient-une-sanction-contre-celle-quil-a-insultee/",
+          "category": "ia",
+          "published_at": "2026-09-17T10:57:47+00:00",
+          "summary": "L&#8217;affaire est devenue virale sur LinkedIn et Instagram : insultée par message privé, une entrepreneure s&#8217;est retrouvée obligée par la justice de supprimer la publication qu&#8217;elle avait postée en réaction. Capture d&#8217;écran à l&#8217;appui, elle s&#8217;y…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d418122a145d",
+          "title": "MAIN Event Ticketing Act clears House committee 36-0 – as Live Nation fights an FTC lawsuit under the law it would strengthen",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/main-event-ticketing-act-clears-house-committee-36-0-as-live-nation-fights-an-ftc-lawsuit-under-the-law-it-would-strengthen/",
+          "category": "institutionnel",
+          "published_at": "2026-09-17T10:51:50+00:00",
+          "summary": "The bill would amend the Better Online Ticket Sales Act of 2016 – one of the laws the Federal Trade Commission is using to sue Live Nation and Ticketmaster.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bf56854af2a",
+          "title": "All 58 Taylor Swift music videos land on Spotify, seven months after ‘Opalite’ skipped YouTube for two days",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/all-58-taylor-swift-music-videos-land-on-spotify-seven-months-after-opalite-skipped-youtube-for-two-days/",
+          "category": "musique",
+          "published_at": "2026-09-17T10:49:20+00:00",
+          "summary": "The catalog runs from \"Tim McGraw,\" released in 2006, to \"I Knew It, I Knew You,\" released in June.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3d11cc3fa59",
+          "title": "T@LC : on a testé un câble « USB 5.0 », une norme qui n’existe pas",
+          "source": "Next INpact",
+          "url": "https://next.ink/212432/tlc-on-a-teste-un-cable-usb-5-0-une-norme-qui-nexiste-pas/",
+          "category": "institutionnel",
+          "published_at": "2026-09-17T10:06:24+00:00",
+          "summary": "Nous avons acheté un câble « USB 5.0 ». Nous savons bien sûr que cette norme n’existe pas, mais nous étions curieux : que propose exactement ce câble ? Des choses supplémentaires par rapport à l’USB4 2.0 ? La dernière version de la norme USB validée par l’USB-IF (le consortium…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59896048b63f",
+          "title": "Un cratère de 222 mètres s’est formé sur la Lune, a découvert  la Nasa : ça n’arrive « qu’une fois tous les 132 ans »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2334439-un-cratere-de-222-metres-sest-forme-sur-la-lune-a-decouvert-la-nasa-ca-narrive-quune-fois-tous-les-132-ans.html",
+          "category": "ia",
+          "published_at": "2026-09-17T09:44:34+00:00",
+          "summary": "C'est une découverte unique dans une vie de scientifique. Un énorme cratère de 222 mètres de diamètre vient d'être découvert sur la Lune, et de façon totalement inattendue. La trouvaille a été rendue possible par la sonde LRO de la Nasa.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c6fae814988",
+          "title": "Mettre une majuscule en un geste sur Android et iOS : double-appui sur le mot, puis touche ↑",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1223080-mettre-une-majuscule-en-un-geste-sur-android-et-ios-double-appui-sur-le-mot-puis-touche.html",
+          "category": "ia",
+          "published_at": "2026-09-17T09:43:57+00:00",
+          "summary": "Ne vous embêtez plus à positionner le curseur sur le mot erroné ni à effacer la lettre mal écrite. Il y a une astuce vraiment plus simple pour mettre une majuscule.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83d5ae1f4d67",
+          "title": "Suno hit with another proposed class action over data breach that leaked information of 55M users",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-hit-with-another-proposed-class-action-over-data-breach-that-leaked-information-of-55m-users/",
+          "category": "ia",
+          "published_at": "2026-09-17T09:39:15+00:00",
+          "summary": "The named plaintiff is Michael Beckham, whom the filing describes as an adult domiciled in Huron, South Dakota.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "72d54694c349",
+          "title": "Xbox considère Fable comme essentiel à l’ADN de sa plateforme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2334475-xbox-considere-fable-comme-essentiel-a-ladn-de-sa-plateforme.html",
+          "category": "ia",
+          "published_at": "2026-09-17T09:19:00+00:00",
+          "summary": "Après des années de développement et plusieurs périodes mouvementées chez Xbox, le nouveau Fable semble bénéficier d’un soutien particulier au sein de Microsoft. Playground Games affirme que de nombreuses personnes chez Xbox considèrent le RPG comme une pièce essentielle de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02edd32e72a7",
+          "title": "DICE owner Fever raises $250M led by EQT, at a $5.2B valuation, in ‘largest ever’ round for a live-entertainment tech company",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dice-owner-fever-raises-250m-led-by-eqt-in-what-it-calls-the-largest-ever-round-for-a-live-entertainment-tech-company/",
+          "category": "musique",
+          "published_at": "2026-09-17T09:16:04+00:00",
+          "summary": "Fever says it has more than tripled its revenue over the past three years while remaining EBITDA-positive.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d836b9b10c74",
+          "title": "Tesla expose le Cybercab au pays des robotaxis, mais ne peut pas le faire rouler",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2334491-tesla-expose-le-cybercab-au-pays-des-robotaxis-mais-ne-peut-pas-le-faire-rouler.html",
+          "category": "ia",
+          "published_at": "2026-09-17T09:10:00+00:00",
+          "summary": "Au mois de septembre, Tesla expose son Cybercab dans différentes villes en Chine, dont Shanghai et Hong Kong. En revanche, pas question de le vendre là-bas ou de le faire rouler. Dans le pays le plus avancé au monde sur le robotaxi, la marque se contente de le montrer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc96e8a59662",
+          "title": "After Signing With a Major Label, Yes Boone Is Making Progress on His Debut Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/yes-boone-progress-debut-album-warner-music-1236342380/",
+          "category": "musique",
+          "published_at": "2026-09-17T09:06:00+00:00",
+          "summary": "Yes Boone's work-in-progress captures elements of French house, British post-punk energy and a “timeless sound.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8cd389229ca",
+          "title": "Noisia Reunite After Seven-Year Hiatus",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/noisia-reunite-after-seven-years-amsterdam-show-december-1236338938/",
+          "category": "ia",
+          "published_at": "2026-09-17T09:00:00+00:00",
+          "summary": "The Dutch trio will play their first show back together on Dec. 4 in Amsterdam.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abf1af99cf40",
+          "title": "Universal and Warner press court to end US musicians’ lawsuit over Udio, Suno deals",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-and-warner-press-court-to-end-us-musicians-lawsuit-over-udio-suno-deals/",
+          "category": "musique",
+          "published_at": "2026-09-17T08:55:23+00:00",
+          "summary": "The case rests on Article 21(a) of the Sound Recording Labor Agreement, the union's collective bargaining agreement with the record companies.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bef6d4000535",
+          "title": "Suivi publicitaire : Apple modifie sa fenêtre ATT en Europe pour apaiser les régulateurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/256716/suivi-publicitaire-apple-modifie-sa-fenetre-att-en-europe-pour-apaiser-les-regulateurs/",
+          "category": "ia",
+          "published_at": "2026-09-17T08:51:00+00:00",
+          "summary": "Apple met en place une nouvelle fenêtre de consentement de suivi publicitaire dans plusieurs pays européens, dont la France et l&#8217;Allemagne. Il s&#8217;agit pour le constructeur informatique de respecter des engagements pris le mois dernier auprès de l&#8217;autorité de la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9af6bd9dfc34",
+          "title": "Kavya collaborates with Converse for her new music video",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/kavya-collaborates-with-converse-for-her-new-music-video/",
+          "category": "musique",
+          "published_at": "2026-09-17T08:40:20+00:00",
+          "summary": "Singer-songwriter Kavya Trehan, who performs under only her first name, is also an actress and dancer. It’s dance that’s at the centre of the music video for her new single, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dff3455db303",
+          "title": "Apple’s iCloud+ subscriptions in India will be bundled with Apple Music ‘Select’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/apples-icloud-subscriptions-in-india-will-be-bundled-with-apple-music-select/",
+          "category": "musique",
+          "published_at": "2026-09-17T08:35:15+00:00",
+          "summary": "India is among the 100 countries where Apple’s iCloud+ subscribers will now get access to Apple TV, Apple Arcade’s catalogue of over 200 games, and Apple Music Select. The last [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6080ca6645b",
+          "title": "Diljit Dosanjh’s milestone Wembley show powers highest Spotify UK ranking",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/17/diljit-dosanjhs-milestone-wembley-show-powers-highest-spotify-uk-ranking/",
+          "category": "musique",
+          "published_at": "2026-09-17T08:30:06+00:00",
+          "summary": "In what’s turning out to be a kind of announcement relay, Diljit Dosanjh who in May told his audience at the Rogers Centre in Toronto that he would be playing [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6dd345c625fc",
+          "title": "☕️ OpenAI teste les chatbots publicitaires dans ChatGPT",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openai-teste-les-chatbots-publicitaires-dans-chatgpt/",
+          "category": "ia",
+          "published_at": "2026-09-17T08:24:57+00:00",
+          "summary": "La publicité devient de plus en plus sophistiquée sur ChatGPT. Après les bandeaux de réclame, OpenAI teste désormais les « agents sponsorisés » qui permettent de « discuter » directement avec les annonceurs. L&#8217;idée est simple : quand un utilisateur touche une publicité, il…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "011d200f148d",
+          "title": "Jean-Michel Jarre Expands Partnership With BMG",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/jean-michel-jarre-expands-partnership-bmg/",
+          "category": "musique",
+          "published_at": "2026-09-17T06:21:24+00:00",
+          "summary": "“As the only major international music company with European roots, BMG has a cultural identity that is deeply important to me,\" Jarre explains.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bd080879a48",
+          "title": "☕️ Démarchage intensif et illégal : Syma Mobile écope de 1,1 million d’euros d’amende",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/demarchage-intensif-et-illegal-syma-mobile-ecope-de-11-million-deuros-damende/",
+          "category": "ia",
+          "published_at": "2026-09-17T06:20:00+00:00",
+          "summary": "Officiellement, Bloctel n’existe plus depuis le 11 août. Désormais, le démarchage téléphonique est interdit par défaut, sauf consentement explicite préalable. Cela ne signifie pas pour autant que cette pratique intempestive n’existe plus, loin de là. Ce n’est pas non plus la fin…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "098f82363c87",
+          "title": "Une proposition de loi pour que les jeux vidéo ne meurent pas avec leurs serveurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/256700/une-proposition-de-loi-pour-que-les-jeux-video-ne-meurent-pas-avec-leurs-serveurs/",
+          "category": "ia",
+          "published_at": "2026-09-17T05:47:00+00:00",
+          "summary": "La France Insoumise (LFI) a déposé mardi 15 septembre une proposition de loi pour «&#160;garantir les droits des joueurs et joueuses et la pérennité des jeux vidéo&#160;». Un texte qui a très peu de chances d&#8217;être voté, mais qui a le mérite de poser de nouveau le débat sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c7d4dd48e78",
+          "title": "☕️ Apple prépare un effacement renforcé du stockage de l’iPhone",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-prepare-un-effacement-renforce-du-stockage-de-liphone/",
+          "category": "ia",
+          "published_at": "2026-09-17T05:14:00+00:00",
+          "summary": "Une nouvelle option de suppression des données a fait son apparition dans la première bêta d&#8217;iOS 27.2, distribuée par Apple ce mardi 15 septembre. D&#8217;après le bout de code déniché par 9to5Mac, cette fonction est présente dans le panneau «&#160;Effacer contenu et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc74cdb0a7a1",
+          "title": "‘It’s Like a Movie’: LISA Talks ‘PRESS PLAY’ on ‘The Tonight Show’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/lisa-talks-press-play-tonight-show-1236342361/",
+          "category": "ia",
+          "published_at": "2026-09-17T05:12:50+00:00",
+          "summary": "The superstar BLACKPINK singer gave a glimpse behind the curtain of her forthcoming collection, \"PRESS PLAY,\" due out Oct. 23.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21d2ce130964",
+          "title": "BMG deepens Jean-Michel Jarre partnership, licensing his recorded music catalog",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bmg-deepens-jean-michel-jarre-partnership-licensing-his-recorded-music-catalog/",
+          "category": "musique",
+          "published_at": "2026-09-17T05:00:33+00:00",
+          "summary": "BMG secures exclusive licensing rights to electronic music innovator Jean-Michel Jarre’s recorded catalog across a broad range of territories worldwide.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6a3e88b005e",
+          "title": "« Nous sommes du même camp : il est temps de rejoindre la presse indépendante »",
+          "source": "Next INpact",
+          "url": "https://next.ink/256728/nous-sommes-du-meme-camp-il-est-temps-de-rejoindre-la-presse-independante/",
+          "category": "ia",
+          "published_at": "2026-09-17T04:34:52+00:00",
+          "summary": "Vingt-huit médias et organisations, dont Next, ont répondu à l&#8217;appel lancé par La Presse libre pour soutenir la presse indépendante et défendre le pluralisme. Depuis cet été en France, nos requêtes Google ne pointent plus vers des sources. Digérant des millions de pages…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "articles": [
+        {
+          "id": "c50fd0b78878",
+          "title": "Saregama is looking for talent to rework its retro music catalogue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/16/saregama-is-looking-for-talent-to-rework-its-retro-music-catalogue/",
+          "category": "musique",
+          "published_at": "2026-09-16T19:15:18+00:00",
+          "summary": "Among Saregama’s biggest hit soundtracks of the last few years is composer Shashwat Sachdev’s OST for the first part of the spy thriller Dhurandhar, which featured a number of reworkings, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8eb4375dfc6",
+          "title": "Anthropic bought songbooks, scanned them, and destroyed them, music publishers allege – now they want to know which songs were in them.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/anthropic-bought-songbooks-scanned-them-and-destroyed-them-music-publishers-allege-now-they-want-to-know-which-songs-were-in-them/",
+          "category": "musique",
+          "published_at": "2026-09-16T18:48:42+00:00",
+          "summary": "Both sides set out their positions in statements filed on Friday (September 11)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d324e9ff57c",
+          "title": "Believe and TuneCore won’t feed music to Suno without giving artists choice to opt in: ‘The artist must consent first, period.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-and-tunecore-suno-consent/",
+          "category": "musique",
+          "published_at": "2026-09-16T18:24:40+00:00",
+          "summary": "Denis Ladegaillerie details two-stage opt-in process for artists who want (and don't want) to have their music provided to Suno\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce4d2cff77cf",
+          "title": "☕️ Meta plancherait sur des lunettes connectées sans caméra pour calmer la grogne",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/meta-plancherait-sur-des-lunettes-connectees-sans-camera-pour-calmer-la-grogne/",
+          "category": "ia",
+          "published_at": "2026-09-16T15:47:10+00:00",
+          "summary": "Mark Zuckerberg profiterait de la caisse de résonance de Meta Connect, qui se tiendra du 23 au 24 septembre, pour dévoiler de nouvelles lunettes connectées, croit savoir le site The Information, généralement bien renseigné. Connues en interne sous le sobriquet Luna, ces montures…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33226db880e7",
+          "title": "Data center d’Étrechet : en protestation contre le projet de Google, la maire démissionne",
+          "source": "Next INpact",
+          "url": "https://next.ink/256650/data-center-detrechet-en-protestation-contre-le-projet-de-google-la-maire-demissionne/",
+          "category": "institutionnel",
+          "published_at": "2026-09-16T15:16:00+00:00",
+          "summary": "En quelques jours, la maire, trois adjoints et une conseillère municipale ont démissionné de leurs fonctions politiques à la mairie d’Étrechet. En cause : des désaccords sur un projet de centre de données Google, porté par l’agglomération de la ville voisine de Châteauroux.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3d53277781b",
+          "title": "☕️ Mistral et Mozilla officialisent leur partenariat dans la Fenêtre intelligente de Firefox",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/mistral-et-mozilla-officialisent-leur-partenariat-dans-la-fenetre-intelligente-de-firefox/",
+          "category": "ia",
+          "published_at": "2026-09-16T13:52:08+00:00",
+          "summary": "Malgré un modèle économique surtout tourné vers les entreprises et le B2B, Mistral ne dédaigne pas à l&#8217;occasion s&#8217;intéresser au grand public. Le partenariat avec Mozilla permet aux modèles IA de l&#8217;entreprise française de se frotter aux questions posées par les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf60d0b1a0cf",
+          "title": "Country Profile – Argentina 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/16/country-profile-argentina-2026/",
+          "category": "musique",
+          "published_at": "2026-09-16T13:30:00+00:00",
+          "summary": "Argentina’s inflation-hit economy makes a mockery of growth figures. But the rise of local acts is making insiders feel quietly confident.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "854f77c37ef6",
           "title": "Backstreet Boys’ AJ McLean Drops Lusty ‘Into Your Heart’ Solo Single From Upcoming ‘Sex, Love & Music’ LP",
@@ -112,6 +627,16 @@
           "category": "musique",
           "published_at": "2026-09-16T12:30:00+00:00",
           "summary": "We wrote about startup A Vinyl Bar in Shibuya in April when it launched its Bop “pocket DJ” app. The company was founded by former Spotify exec Máuhan M. Zonoozy as “a label that treats software like music”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bfc8c4d627b",
+          "title": "Apple Music Select brings ad-free stations to iCloud+ subscribers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/16/apple-music-select-brings-playlists-to-icloud-subscribers/",
+          "category": "musique",
+          "published_at": "2026-09-16T12:30:00+00:00",
+          "summary": "Apple is adding some new services into its iCloud+ cloud-storage subscription in more than 100 countries around the world, including a taster tier for Apple Music.\nThe post is from Music Ally.",
           "summary_type": "extrait source"
         },
         {
