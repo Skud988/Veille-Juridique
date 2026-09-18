@@ -1,9 +1,534 @@
 {
-  "generated_at": "2026-09-17T13:27:40.463915+00:00",
+  "generated_at": "2026-09-18T12:58:16.696323+00:00",
   "days": [
+    {
+      "date": "2026-09-18",
+      "articles": [
+        {
+          "id": "98ce1393278a",
+          "title": "Devinez quel personnage joue Madds mikkelsen dans le prochain Call of Duty",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2335755-devinez-quel-personnage-joue-madds-mikkelsen-dans-le-prochain-call-of-duty.html",
+          "category": "ia",
+          "published_at": "2026-09-18T12:37:21+00:00",
+          "summary": "Mads Mikkelsen s’apprête à reprendre du service dans un jeu vidéo. Après Death Stranding, l’acteur danois rejoint la campagne de Call of Duty: Modern Warfare 4 dans le rôle d’un mystérieux antagoniste.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20d97d0c9613",
+          "title": "Le géant de la batterie CATL perd de son emprise sur les constructeurs chinois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2335713-le-geant-de-la-batterie-catl-perd-de-son-emprise-sur-les-constructeurs-chinois.html",
+          "category": "ia",
+          "published_at": "2026-09-18T12:30:00+00:00",
+          "summary": "C'était le partenaire incontournable et omnipotent de la batterie électrique à l’échelle du monde. Mais depuis quelques mois, CATL voit plusieurs constructeurs filer vers la concurrence, et cela se ressent dans les résultats financiers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db915e1c413a",
+          "title": "Grand Theft Auto VI: The Album set to include 34 original tracks",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/18/grand-theft-auto-vi-the-album-set-to-include-34-original-tracks/",
+          "category": "musique",
+          "published_at": "2026-09-18T12:30:00+00:00",
+          "summary": "Grand Theft Auto publisher Rockstar Games has unveiled an official soundtrack album for the upcoming GTA VI. Released through Atlantic Records, it’ll feature 34 original tracks.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76b65699a9a5",
+          "title": "BMG and Concord’s merger was backed by $1.25bn from Apollo",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/18/bmg-and-concords-merger-was-backed-by-1-25bn-from-apollo/",
+          "category": "musique",
+          "published_at": "2026-09-18T12:30:00+00:00",
+          "summary": "BMG and Concord successfully completed their merger early this month. Now more information has emerged about the finances behind the deal, courtesy of alternative asset-management firm Apollo.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c814d1be673f",
+          "title": "Artists and industry veterans chip in to Notes·fm’s $5m funding",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/18/artists-and-industry-veterans-chip-in-to-notes%c2%b7fms-5m-funding/",
+          "category": "musique",
+          "published_at": "2026-09-18T12:30:00+00:00",
+          "summary": "We’ve been covering the recent news from music-fintech startup Notes·fm: its launch of financial accounts for artists using Stripe, for example, and its open music-credits database.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61aa7bd8766d",
+          "title": "Lunacy wants to help people build their own virtual instruments",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/18/lunacy-wants-to-help-people-build-their-own-virtual-instruments/",
+          "category": "musique",
+          "published_at": "2026-09-18T12:30:00+00:00",
+          "summary": "Lunacy is the company behind audio plugins Cube and Beam, but its latest launch is something different: a browser-based marketplace for a larger collection of plugins.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bfb8fb5c591",
+          "title": "Amazon Music’s latest originals are remixes of dance classics",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/18/amazon-musics-latest-originals-are-remixes-of-dance-classics/",
+          "category": "musique",
+          "published_at": "2026-09-18T12:30:00+00:00",
+          "summary": "British trip-hop group Olive’s 1996 single ‘You’re Not Alone’ is a certified dance classic, and now it’s been remixed by German DJ Marlon Hoffstadt 20 years later.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cda5a55e464d",
+          "title": "Audiomack Pro rolls out globally including ‘Song Pulse’ feature",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/18/audiomack-pro-rolls-out-globally-including-song-pulse-feature/",
+          "category": "musique",
+          "published_at": "2026-09-18T12:30:00+00:00",
+          "summary": "As promised earlier this year, streaming service Audiomack has launched its Audiomack Pro subscription for artists globally.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71c3e67e0eef",
+          "title": "No one’s ‘Part of the Queue’: Oasis have scrapped the general onsale for Live ’27. Here’s 5 things to know.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/no-ones-part-of-the-queue-oasis-have-scrapped-the-general-onsale-for-live-27-heres-5-things-to-know/",
+          "category": "musique",
+          "published_at": "2026-09-18T12:26:49+00:00",
+          "summary": "The only public route to a ticket was a registration window that opened at oasisinet.com on September 14 and closed on September 17.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c990f73b30c5",
+          "title": "Sound designers and SFX libraries launch Professional Sound Alliance to fight AI scraping: ‘Now sound will have protection of our own’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sound-designers-and-sfx-libraries-launch-professional-sound-alliance-to-fight-ai-scraping-now-sound-will-have-protection-of-our-own/",
+          "category": "ia",
+          "published_at": "2026-09-18T12:22:54+00:00",
+          "summary": "The Alliance says it was formed in response to two forms of unauthorized use, which it calls Data Piracy and Sync Piracy.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6c74c614f2f",
+          "title": "SoundExchange strikes reciprocal agreement with the UAE’s MusicNation, opening neighboring rights royalty flows in both markets",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/soundexchange-strikes-reciprocal-agreement-with-the-uaes-musicnation-opening-neighboring-rights-royalty-flows-in-both-markets/",
+          "category": "ia",
+          "published_at": "2026-09-18T12:21:31+00:00",
+          "summary": "SoundExchange-affiliated artists will collect royalties for broadcasts in the UAE, while Emirati creators will receive payouts for US airplay.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83d29d5c2d8c",
+          "title": "Symphonic adds MassiveMusic audio delivery to its TransferTrack migration tech, removing what it calls one of the last manual steps for labels switching distributors",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/symphonic-adds-massivemusic-audio-delivery-to-its-transfertrack-migration-tech-removing-what-it-calls-one-of-the-last-manual-steps-for-labels-switching-distributors/",
+          "category": "musique",
+          "published_at": "2026-09-18T12:21:08+00:00",
+          "summary": "The deal allows Symphonic to pull audio files and metadata out of MassiveMusic's catalog infrastructure when a label transfers its releases.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "72b6fc3ab4c5",
+          "title": "25 000 taxis autonomes en Europe : Bolt et Lucid veulent couper l’herbe sous le pied à Waymo",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2335711-25-000-taxis-autonomes-en-europe-bolt-et-lucid-veulent-couper-lherbe-sous-le-pied-a-waymo.html",
+          "category": "loi",
+          "published_at": "2026-09-18T12:11:12+00:00",
+          "summary": "Lucid et Bolt ont annoncé vouloir déployer 25 000 taxis autonomes sur les routes européennes. D'ici à 2035, la firme de VTC entend atteindre les 100 000 robotaxis. Ni le calendrier de déploiement ni le budget n'ont toutefois été communiqués.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48133bdb11ce",
+          "title": "Gibson Honors Gustavo Cerati With Ultra-Limited Guitar Available Exclusively at Gibson Garage Miami",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/gibson-custom-gustavo-cerati-limited-edition-guitar-es-335-1236342122/",
+          "category": "ia",
+          "published_at": "2026-09-18T12:00:00+00:00",
+          "summary": "The custom Gustavo Cerati ES-335 is limited to just 60 instruments worldwide via in-store purchase or phone orders, starting Friday (Sept. 18).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ee0b8124b92",
+          "title": "Miley Cyrus and Fiancé Maxx Morando Are Blissfully Alone in a Beautiful Crowd in Loved-Up ‘Let’s Get Married’ Video: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/miley-cyrus-fiance-maxx-morando-lets-get-married-video-watch-1236343264/",
+          "category": "ia",
+          "published_at": "2026-09-18T11:44:54+00:00",
+          "summary": "The couple are surrounded by the most glamorous, barely clothed pals in the Mert Alas-directed video shot at L.A.'s famous Chateau Marmont.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d3ab3632be3",
+          "title": "Spotify ‘Fresh Finds Forward’ will support 10,000 artists a year",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/18/spotify-fresh-finds-forward-will-support-10000-artists-a-year/",
+          "category": "musique",
+          "published_at": "2026-09-18T11:32:51+00:00",
+          "summary": "Spotify’s ‘Fresh Finds’ family of playlists have traditionally supported emerging artists by putting their tracks in front of listeners who are seeking out new music.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "767ce81e1bd8",
+          "title": "Miami Vice 85  : après Michael B. Jordan et Austin Butler, le film pioche dans le casting de L’Odyssée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2335553-miami-vice-85-apres-michael-b-jordan-et-austin-butler-le-film-pioche-dans-le-casting-de-lodyssee.html",
+          "category": "ia",
+          "published_at": "2026-09-18T11:30:00+00:00",
+          "summary": "Universal continue d'empiler les pièces maîtresses pour son reboot le plus ambitieux de la décennie. Après avoir verrouillé son duo de choc sous les traits de Michael B. Jordan et Austin Butler, la relecture de&nbsp;Miami Vice&nbsp;dirigée par Joseph Kosinski vient de dégoter…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c45827a2c8a4",
+          "title": "Après avoir fâché les mathématiciens, OpenAI s’attaque à un autre problème mythique, mais jure d’y aller avec des gants",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2335481-apres-la-polemique-navier-stokes-openai-sattaque-a-un-nouveau-probleme-du-millenaire.html",
+          "category": "ia",
+          "published_at": "2026-09-18T10:47:00+00:00",
+          "summary": "OpenAI n'a pas fini avec les mathématiques. À peine sortie d'une percée très contestée sur les équations de Navier-Stokes, l'entreprise dit plancher sur un autre problème à un million de dollars, en promettant cette fois d'y aller avec des gants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27c0e177b478",
+          "title": "Comment Claude Opus 5 a aidé des chercheurs à accéder aux dépôts internes d’OpenAI",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2335357-comment-claude-opus-5-a-aide-des-chercheurs-a-acceder-aux-depots-internes-dopenai.html",
+          "category": "ia",
+          "published_at": "2026-09-18T10:15:00+00:00",
+          "summary": "Une équipe de recherche en cybersécurité a exploité deux failles combinées pour accéder à des comptes d’employés d’OpenAI et atteindre les dépôts de code internes de l'entreprise, avec l'assistance de Claude Opus 5.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17e9892ec7cc",
+          "title": "Remboursement du passe Navigo : voici la date limite pour récupérer jusqu’à 90,80 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-jusqua-9080-dedommages-voici-jusqua-quand-la-plateforme-est-ouverte.html",
+          "category": "ia",
+          "published_at": "2026-09-18T09:55:49+00:00",
+          "summary": "Certains voyageurs peuvent demander le remboursement de leur passe Navigo. Une campagne de dédommagement d'Île-de-France Mobilités est ouverte depuis la mi-septembre 2026. Voici les détails pratiques, et comment savoir si vous êtes concernés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d89b2c13001a",
+          "title": "« Je ne suis pas emballé » : le réalisateur de The Last of US tacle les jeux AAA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2335273-je-ne-suis-pas-emballe-le-realisateur-de-the-last-of-us-tacle-les-jeux-aaa.html",
+          "category": "ia",
+          "published_at": "2026-09-18T09:55:26+00:00",
+          "summary": "Bruce Straley, co-créateur et réalisateur de The Last of Us et d’Uncharted 4, a travaillé sur de nombreux titres AAA. Tellement qu’il a fini par prendre ses distances avec les grosses productions. Cela ne l’empêche toutefois pas de partager son ressenti sur l’industrie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dbebab18619d",
+          "title": "Ella Langley’s ‘Choosin’ Texas’ Notches 14th Week Atop ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/ella-langley-choosin-texas-14th-week-atop-aria-chart-1236343254/",
+          "category": "musique",
+          "published_at": "2026-09-18T09:29:59+00:00",
+          "summary": "Olivia Rodrigo’s \"You Seem Pretty Sad For A Girl So In Love\" returns to No. 1 on the albums tally after a four-week break.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2ff2794dacf",
+          "title": "Figure lâche son robot dans 30 maisons inconnues pour faire le ménage : voici ce qu’il y parvient à faire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2335285-figure-lache-son-robot-dans-30-maisons-inconnues-pour-faire-le-menage-voici-ce-quil-y-parvient-a-faire.html",
+          "category": "ia",
+          "published_at": "2026-09-18T09:02:11+00:00",
+          "summary": "Figure a fait entrer son robot humanoïde dans 30 maisons qu'il n'avait jamais vues, sans réentraînement, pour ranger, plier des serviettes et faire des lits. Le résultat, environ 56&nbsp;% de réussite, marque une avancée notable et rappelle qu'un robot majordome n'est pas pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "707ed33ff476",
+          "title": "Cartes Pokémon 30ᵉ anniversaire : tous les liens pour surveiller les réassorts des coffrets",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2293233-cartes-pokemon-30%e1%b5%89-anniversaire-tous-les-liens-pour-precommander-les-premiers-coffrets-de-lextension.html",
+          "category": "ia",
+          "published_at": "2026-09-18T08:49:22+00:00",
+          "summary": "Les premiers coffrets Pokémon des 30 ans, sortis le 16 septembre, n’ont tenu, sans grande surprise, que quelques minutes en rayon comme en ligne. Vous avez manqué cette première vague ? Numerama regroupe les liens des marchands à surveiller pour tenter d'acheter les prochains…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76224a6124e7",
+          "title": "Un nouveau chat sauvage identifié en Bolivie, une première depuis un siècle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2335275-un-nouveau-chat-sauvage-identifie-en-bolivie-une-premiere-depuis-un-siecle.html",
+          "category": "ia",
+          "published_at": "2026-09-18T08:37:00+00:00",
+          "summary": "Un nouveau type de chat sauvage a pu être identifié en Amérique du Sud. Une analyse génétique a déterminé que ce chat-tigre était bien une espèce à part entière, ce qui lève le voile sur l'ensemble de cette grande famille.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9ba70f3a078",
+          "title": "Le reboot Netflix de Narnia, déjà jugé trop woke, enrage les puristes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2335261-le-reboot-netflix-de-narnia-deja-juge-trop-woke-enrage-les-puristes.html",
+          "category": "ia",
+          "published_at": "2026-09-18T08:32:21+00:00",
+          "summary": "Alors que le public espérait désespérément retrouver la magie féerique et l'innocence des premiers films des années 2000, Greta Gerwig vient d'asséner le coup de grâce à la franchise pour de nombreux fans.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a55dc8ee64a6",
+          "title": "Un de nos serveurs a subi 800 000 attaques en six mois, on vous raconte",
+          "source": "Next INpact",
+          "url": "https://next.ink/256946/un-de-nos-serveurs-a-subi-800-000-attaques-en-six-mois-on-vous-raconte/",
+          "category": "ia",
+          "published_at": "2026-09-18T08:13:00+00:00",
+          "summary": "Sur Internet, les serveurs subissent des attaques non stop, 24/7. Nous en avons laissé un pendant six mois en enregistrant – heure par heure – toutes les tentatives de connexion à distance : plus de 800 000 au total. Nous avons également compilé la liste des mots de passe et des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b6cda510f75",
+          "title": "Volkswagen ne sera peut-être plus le seul à profiter du savoir-faire de Xpeng",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2335279-volkswagen-ne-sera-peut-etre-plus-le-seul-a-profiter-du-savoir-faire-de-xpeng.html",
+          "category": "ia",
+          "published_at": "2026-09-18T08:12:37+00:00",
+          "summary": "Fort de son alliance avec Volkswagen, le constructeur chinois Xpeng pourrait désormais proposer ses technologies à d'autres marques étrangères.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea69981a2e6d",
+          "title": "La suite de Ni no Kuni, le jeu du studio Ghibli et de Level-5, arrive un peu par surprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2335243-la-suite-de-ni-no-kuni-le-jeu-du-studio-ghibli-et-de-level-5-arrive-un-peu-par-surprise.html",
+          "category": "justice",
+          "published_at": "2026-09-18T08:00:21+00:00",
+          "summary": "Il y a des studios qui copient Pokémon et voient débarquer les avocats de Nintendo. Et puis il y en a d’autres qui s’inspirent tellement de Ghibli qu’ils finissent par être invités dans la famille Ni no Kuni. C’est un peu ce qui vient d’arriver à Bloomwalker, le jeu d’aventure…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d27f21e1ab5",
+          "title": "Carly Rae Jepsen Drops Double Album ‘Day and Night’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/carly-rae-jepsen-double-album-day-and-night-stream-1236343240/",
+          "category": "musique",
+          "published_at": "2026-09-18T07:49:59+00:00",
+          "summary": "The Canadian pop artist's eighth and latest studio album spans 24 songs and clocks in at more than 100 minutes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53c3dfc92609",
+          "title": "☕️ Linux Mint 23 renforcera sa suite d’applications avec un calendrier et une liseuse",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/linux-mint-23-renforcera-sa-suite-dapplications-avec-un-calendrier-et-une-liseuse/",
+          "category": "ia",
+          "published_at": "2026-09-18T07:47:00+00:00",
+          "summary": "Dans un billet, le développeur principal de Linux Mint, Clément Lefebvre, annonce plusieurs nouveautés, dont la création d’un site dédié aux XApp. Ces dernières sont initialement les applications prévues pour Linux Mint, en reprenant une organisation et une esthétique communes.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bff86ca61ca",
+          "title": "Chez OpenAI, six nouveaux exemples d’agents « désalignés », dont un s’est servi de Gofile",
+          "source": "Next INpact",
+          "url": "https://next.ink/256928/chez-openai-six-nouveaux-exemples-dagents-desalignes-dont-un-sest-servi-de-gofile/",
+          "category": "institutionnel",
+          "published_at": "2026-09-18T07:15:00+00:00",
+          "summary": "Dans une nouvelle publication, OpenAI évoque de nouveaux engagements sur sa manière de communiquer. L’entreprise promet ainsi de publier systématiquement des rapports quand la situation l’exigera, pour remédier à son irrégularité. Elle commence avec six nouveaux exemples…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63942df8f58c",
+          "title": "Meta ajoute de l’IA dans ses abonnements payants avec Meta One",
+          "source": "Next INpact",
+          "url": "https://next.ink/256935/meta-ajoute-de-lia-dans-ses-abonnements-payants-avec-meta-one/",
+          "category": "ia",
+          "published_at": "2026-09-18T06:35:00+00:00",
+          "summary": "Pas besoin de se soucier des finances de Meta, qui vit très bien de la publicité. Mais le mastodonte des réseaux sociaux aimerait bien créer une autre source de revenus, et les abonnements payants pourraient être cette solution. Beaucoup d&#8217;abonnements payants avec de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b91895fa82d",
+          "title": "☕️ Google ouvre la porte de sa maison connectée aux agents IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-ouvre-la-porte-de-sa-maison-connectee-aux-agents-ia/",
+          "category": "ia",
+          "published_at": "2026-09-18T06:02:00+00:00",
+          "summary": "Voyons voir, qu&#8217;est-ce qui pourrait mal tourner ? Google a annoncé l&#8217;ouverture de sa plateforme domotique Home aux agents IA compatibles avec le Model Context Protocol (MCP). Cela signifie qu&#8217;un agent autre que Gemini (Claude, OpenClaw, Hermes, un agent conçu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2b0e4b23689",
+          "title": "Miley Cyrus’ ‘Bass Persuades’: All 10 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/miley-cyrus-bass-persuades-best-songs-tracks-ranked/",
+          "category": "musique",
+          "published_at": "2026-09-18T05:40:46+00:00",
+          "summary": "See how Billboard ranks the new songs from the pop great's first album with her new label (and without her last name).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a5f0c6df9fb",
+          "title": "☕️ Pour entraîner Grok, SpaceXAI voudrait racheter les données de startups en difficulté",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/pour-entrainer-grok-spacexai-voudrait-racheter-les-donnees-de-startups-en-difficulte/",
+          "category": "ia",
+          "published_at": "2026-09-18T05:30:24+00:00",
+          "summary": "Maintenant que les acteurs de l&#8217;IA ont consciencieusement collecté (certains diront pillé) tous les contenus possibles et imaginables sur le web ouvert et même fermé, il faut bien trouver des données ailleurs pour continuer à entraîner les modèles IA. SpaceXAI pourrait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87b760996139",
+          "title": "Miley, Carly Rae Jepsen, Riley Green, Rosé & More: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/miley-carly-rae-jepsen-riley-green-new-music-friday-guide-1236342631/",
+          "category": "musique",
+          "published_at": "2026-09-18T05:13:21+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bbd87b4d8a8a",
+          "title": "Rosé Is a Rock Star In ‘New Trick’ Music Video: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/rose-rock-star-new-trick-music-video-watch-1236343199/",
+          "category": "musique",
+          "published_at": "2026-09-18T05:06:21+00:00",
+          "summary": "Dave Meyers filmed the energetic new clip entirely on Apple’s newly unveiled iPhone 18 Pro.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5e8c3ec8cef",
+          "title": "Maroon 5 and Wiz Khalifa’s ‘Payphone’ Dials Up 1 Billion Views on YouTube",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/maroon-5-wiz-khalifa-payphone-1-billion-views-youtube-1236343159/",
+          "category": "ia",
+          "published_at": "2026-09-18T04:19:01+00:00",
+          "summary": "Released back in April 2012, \"Payphone\" gives Maroon 5 a sixth entry into YouTube's Billion Views Club.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f92e28b698d",
+          "title": "Shakira and Maluma Reunite on Steamy New Merengue-Fueled Collaboration ‘Agua’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/shakira-maluma-agua-music-video-stream-it-now-1236343114/",
+          "category": "musique",
+          "published_at": "2026-09-18T04:11:56+00:00",
+          "summary": "The Colombian superstars return to their shared musical universe with a sensual merengue fueled by desire, chemistry and tropical heat.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-17",
       "articles": [
+        {
+          "id": "edd9316b5cd2",
+          "title": "Atlantic Records to release Grand Theft Auto VI: The Album, featuring Travis Scott, PinkPantheress, Morgan Wallen, and Keith Richards",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/atlantic-records-to-release-grand-theft-auto-vi-the-album-featuring-travis-scott-pinkpantheress-morgan-wallen-and-keith-richards/",
+          "category": "musique",
+          "published_at": "2026-09-17T18:48:43+00:00",
+          "summary": "The LP contains 34 original tracks, six of which were issued as singles on Thursday (September 17).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c63f3331988",
+          "title": "AI artists will somehow play ‘live’ at their own awards ceremony in November",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ai-artists-will-somehow-play-live-at-their-own-awards-ceremony-in-november/",
+          "category": "musique",
+          "published_at": "2026-09-17T18:36:39+00:00",
+          "summary": "AI-generated 'artists' including Xania Monet will 'perform' live on stage at the first AI Music Awards in Los Angeles in November.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d16ec9ee858",
+          "title": "‘You want your songs playing everywhere in 50 years – not just 50 weeks.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/you-want-your-songs-playing-everywhere-in-50-years-not-just-50-weeks/",
+          "category": "ia",
+          "published_at": "2026-09-17T16:24:28+00:00",
+          "summary": "Gregg Alexander wrote one of the biggest songs of the '90s, then pretty much completely withdrew from public life, opting instead to stay behind-the-scenes and write hits for other people. Here he tells is remarkable story, and explains why he's bring New Radicals back...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d15c464b791",
+          "title": "Flockerie et jeux d’été : envie de gagner des cadeaux ? Participez à notre concours !",
+          "source": "Next INpact",
+          "url": "https://next.ink/256504/flockerie-et-jeux-dete-envie-de-gagner-des-cadeaux-participez-a-notre-concours/",
+          "category": "ia",
+          "published_at": "2026-09-17T15:31:56+00:00",
+          "summary": "Si vous étiez avec nous tout au long de cet été, vous avez forcément vu nos petits jeux pour vous évader quelque peu de l’actualité, et vous abreuver d’un peu de fraîcheur pendant la grande fournaise. Ils n’étaient pas là que pour la beauté du sport cérébral ou rigoler un bon…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8abfb836c6ba",
+          "title": "☕️ [MàJ] Pas de démantèlement pour Google dans la publicité en ligne",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/pas-de-demantelement-pour-google-dans-la-publicite-en-ligne/",
+          "category": "ia",
+          "published_at": "2026-09-17T15:24:34+00:00",
+          "summary": "Mise à jour 17/09 – La décision judiciaire sur les mesures correctrices est désormais publique [PDF], 15 jours après le jugement qui écartait le démantèlement des activités publicitaires de Google. Comme prévu, il s&#8217;agit surtout de mesures techniques pour ouvrir la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b0d5afefc30",
+          "title": "Réseaux sociaux, jeux, IA : ce que l’EU KIDS Act va changer pour les mineurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/256899/reseaux-sociaux-jeux-ia-ce-que-leu-kids-act-va-changer-pour-les-mineurs/",
+          "category": "ia",
+          "published_at": "2026-09-17T15:16:56+00:00",
+          "summary": "La Commission européenne veut interdire les réseaux sociaux aux moins de 13 ans et encadrer leur utilisation jusqu’à 15 ans. Vérification de l’âge, contrôle parental, fin du scroll infini, algorithmes sous surveillance et compagnons IA bridés : l&#8217;EU KIDS Act impose aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ecfd086c2d11",
+          "title": "Apollo invests $1.25B in BMG subsidiary behind legacy Concord bonds, taking a minority stake",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bmg-and-concord-apollo-bond-debt/",
+          "category": "ia",
+          "published_at": "2026-09-17T15:06:13+00:00",
+          "summary": "Apollo-managed funds and affiliates have acquired what Apollo describes as a \"noncontrolling interest\" in a subsidiary of BMG that holds the legacy Concord asset-backed securities, backed by a catalog of over 1 million songs\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ec0ffe7ec31",
+          "title": "☕️ Jacqueline Bloch : médaille d’or du CNRS pour ses travaux sur les polaritons",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/jacqueline-bloch-medaille-dor-du-cnrs-pour-ses-travaux-sur-les-polaritons/",
+          "category": "ia",
+          "published_at": "2026-09-17T15:06:00+00:00",
+          "summary": "Jacqueline Bloch, directrice de recherche au Centre de nanosciences et de nanotechnologies, succède donc à Stéphane Mallat. En 2017, elle avait déjà obtenu la médaille d’argent du CNRS. « Elle est récompensée pour ses travaux pionniers consacrés aux polaritons, des particules…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2c333e84c8e",
+          "title": "☕️ Flock : too fast and too furious",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flock-too-fast-and-too-furious/",
+          "category": "justice",
+          "published_at": "2026-09-17T14:44:00+00:00",
+          "summary": "Demain j’arrête, je me calme, c’est ce que disent tous les drogués, même ceux qui sont addict au flouze. En attendant le crash…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29113da7a07d",
+          "title": "Les deux « trucs » de la police allemande pour accéder aux messageries chiffrées",
+          "source": "Next INpact",
+          "url": "https://next.ink/256830/les-deux-trucs-de-la-police-allemande-pour-acceder-aux-messageries-chiffrees/",
+          "category": "ia",
+          "published_at": "2026-09-17T14:14:27+00:00",
+          "summary": "Des enquêteurs de la douane et de la police allemande accèdent régulièrement à des communications échangées sur les applications de messagerie WhatsApp, Telegram, Threema et Signal sans avoir besoin de recourir à des chevaux de Troie gouvernementaux. Auditionné à l’Assemblée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57414ec43a18",
+          "title": "Stem co-founder Tim Luckow raises $5M for royalty platform Notes.fm; Zach Bryan, Benny Blanco and Ari Emanuel among the backers",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/stem-co-founder-tim-luckow-raises-5m-for-royalty-platform-notes-fm-zach-bryan-benny-blanco-and-ari-emanuel-among-the-backers/",
+          "category": "ia",
+          "published_at": "2026-09-17T14:00:48+00:00",
+          "summary": "Notes says the money will fund \"continued platform development and scaled marketing efforts\" as it takes its offering to artists globally.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5654e95ae6ea",
+          "title": "☕️ GNOME 51 gagne en fluidité et en fonctionnalités",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/gnome-51-gagne-en-fluidite-et-en-fonctionnalites/",
+          "category": "ia",
+          "published_at": "2026-09-17T13:43:33+00:00",
+          "summary": "La fondation GNOME a bouclé dans les temps le chantier de la version 51 de son environnement de bureau, livrée et annoncée mercredi 16 septembre. Six mois après la sortie de GNOME 50, qui signait l&#8217;abandon de X11 au profit de Wayland, GNOME 51 mêle améliorations de…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "102f62291291",
           "title": "Il y aura bien un disque pour GTA 6, mais pas celui que vous croyez",
@@ -39,6 +564,16 @@
           "title": "Spotify to give 10,000 indie artists a year free US studio time, software, and six months of therapy",
           "source": "Music Business Worldwide",
           "url": "https://www.musicbusinessworldwide.com/spotify-to-give-10000-indie-artists-a-year-free-us-studio-time-software-and-six-months-of-therapy/",
+          "category": "musique",
+          "published_at": "2026-09-17T13:00:36+00:00",
+          "summary": "Eligibility is retroactive to January 1, 2026: artists added to a Fresh Finds playlist from that date onward are invited to join through Spotify for Artists\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc292477fc7c",
+          "title": "Spotify to induct 10,000 indie artists a year into ‘Fresh Finds Forward’ program, with benefits including free studio time, software, and therapy sessions",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-to-induct-10000-indie-artists-a-year-into-fresh-finds-program-with-benefits-including-free-studio-time-software-and-therapy-sessions/",
           "category": "musique",
           "published_at": "2026-09-17T13:00:36+00:00",
           "summary": "Eligibility is retroactive to January 1, 2026: artists added to a Fresh Finds playlist from that date onward are invited to join through Spotify for Artists\nSource",
@@ -182,6 +717,16 @@
           "category": "ia",
           "published_at": "2026-09-17T12:07:10+00:00",
           "summary": "Les dernières mises à jour de sécurité avaient une ampleur jamais vue. Elles ont entraîné dans leur sillage bon nombre de régressions, forçant Microsoft à publier des correctifs sans attendre le mois prochain. Malgré ces réparations, d’autres problèmes restent ouverts, notamment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2278ba1d4a43",
+          "title": "Ordre du jour de la séance plénière du 17 septembre 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-17-septembre-2026",
+          "category": "institutionnel",
+          "published_at": "2026-09-17T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 17 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
           "summary_type": "extrait source"
         },
         {
