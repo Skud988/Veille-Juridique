@@ -1,9 +1,174 @@
 {
-  "generated_at": "2026-09-19T12:30:03.083584+00:00",
+  "generated_at": "2026-09-20T13:03:10.246059+00:00",
   "days": [
+    {
+      "date": "2026-09-20",
+      "articles": [
+        {
+          "id": "db8aff58b29b",
+          "title": "Ce court métrage Metal Gear Solid nous donne envie de voir Snake dans un vrai film d’animation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2335867-ce-court-metrage-metal-gear-solid-nous-donne-envie-de-voir-snake-dans-un-vrai-film-danimation.html",
+          "category": "ia",
+          "published_at": "2026-09-20T12:02:00+00:00",
+          "summary": "Solid Snake nous manque. C'est en tout cas ce que l'on se dit devant cette courte animation mettant en scène le soldat le plus connu des jeux vidéo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cad127f63ed6",
+          "title": "La Fnac fait tomber l’Oura Ring 4 à 265 € avec la sortie du nouveau modèle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2335827-la-fnac-fait-tomber-loura-ring-4-a-265-e-avec-la-sortie-du-nouveau-modele.html",
+          "category": "ia",
+          "published_at": "2026-09-20T11:00:00+00:00",
+          "summary": "[Deal du jour] La bague connectée Oura Ring 4, lancée fin 2024 à 399 €, passe à 265 € à la Fnac. Une baisse de 134 € sur un modèle en titane rarement bradé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbec1577ae08",
+          "title": "Pourquoi le retour de Will Smith dans Je suis une légende 2 vire au casse-tête",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2336107-pourquoi-le-retour-de-will-smith-dans-je-suis-une-legende-2-vire-au-casse-tete.html",
+          "category": "ia",
+          "published_at": "2026-09-20T09:33:00+00:00",
+          "summary": "Quatre ans après l&#8217;annonce triomphale d&#8217;une suite au blockbuster apocalyptique de 2007,&#160;Je suis une légende 2&#160;peine toujours à sortir de l&#8217;enfer du développement. Sorti il y a près de deux décennies,&#160;Je suis une légende&#160;voyait Will Smith…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50047f41662c",
+          "title": "Jours fériés dans l’espace : à quoi les astronautes de l’ISS, comme Sophie Adenot, ont vraiment droit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2331511-jours-feries-dans-lespace-a-quoi-les-astronautes-de-liss-comme-sophie-adenot-ont-vraiment-droit.html",
+          "category": "ia",
+          "published_at": "2026-09-20T07:50:00+00:00",
+          "summary": "Les missions spatiales, comme celle de Sophie Adenot dans l'ISS, ne sont pas de tout repos. Parfois, les astronautes à bord de la station peuvent profiter de jours fériés. Mais ont-ils vraiment le droit de ne rien faire du tout ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fb599a811a1",
+          "title": "Ed Sheeran Addresses Controversy at First Show Since Openers, Backing Band Dropped Off Tour, Calls It ‘The Best Show of My Life’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ed-sheeran-show-recap-philadelphia-macklemore-controversy-1236344180/",
+          "category": "ia",
+          "published_at": "2026-09-20T06:30:04+00:00",
+          "summary": "Before his show in Philadelphia, Sheeran read a statement acknowledging the issue of Israel and Palestine, but still tried to keep things neutral.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "109bba8e19d2",
+          "title": "Ed Sheeran Says Situation in Gaza Is ‘Catastrophic and Unjustifiable’ at Philadelphia Tour Stop",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ed-sheeran-gaza-speech-philadelphia-concert-tour-1236344137/",
+          "category": "musique",
+          "published_at": "2026-09-20T02:15:12+00:00",
+          "summary": "Sheeran performed a solo concert Saturday night. Opener Macklemore was dropped from the tour this week for his \"free Palestine\" comments, and other supporting acts withdrew in solidarity.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5c1f1e01dbc",
+          "title": "Nailah Blackman Talks Co-Hosting with Majah Hype & Gives Update on ‘Born a Diamond’ | Caribbean Music Awards 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/nailah-blackman-talks-co-hosting-with-majah-hype/",
+          "category": "musique",
+          "published_at": "2026-09-20T00:15:22+00:00",
+          "summary": "Nailah Blackman caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7686557692ce",
+          "title": "Kes Talks Stevie Wonder Joining Him on Stage & Teases New Music | Caribbean Music Awards 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/kes-talks-stevie-wonder-joining-him-on-stage-teases-new-music/",
+          "category": "musique",
+          "published_at": "2026-09-20T00:07:20+00:00",
+          "summary": "Kes caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-19",
       "articles": [
+        {
+          "id": "e650287e1cfc",
+          "title": "Lady Lava Talks Being the Most Nominated Artist of the Night & Teases New Music | Caribbean Music Awards 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/lady-lava-on-being-the-most-nominated-artist-of-the-night/",
+          "category": "musique",
+          "published_at": "2026-09-19T23:58:12+00:00",
+          "summary": "Lady Lava  caught up with Billboard’s Kyle Denis on the red carpet at the Caribbean Music Awards 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f9681e7cfe2",
+          "title": "Céline Dion Hops Atop a Car to Sing With Crowd of Fans in Paris",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/celine-dion-sings-pour-que-tu-maimes-encore-fans-paris-1236344081/",
+          "category": "musique",
+          "published_at": "2026-09-19T23:35:11+00:00",
+          "summary": "Dion felt the power of love from fans (and they felt it from her) in a heartwarming moment after night three of her Paris concert residency.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d7dbb844e7d",
+          "title": "Pour la sortie du nouveau film Resident Evil, on a classé tous les films de la saga, du pire au moins pire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2333519-pour-la-sortie-du-nouveau-film-resident-evil-on-a-classe-tous-les-films-de-la-saga-du-pire-au-moins-pire.html",
+          "category": "ia",
+          "published_at": "2026-09-19T17:42:00+00:00",
+          "summary": "Pourquoi passer du temps à regarder de bons films ? La vie est trop courte pour se faire plaisir avec de belles images, de jolis cadrages, un montage propre et des actrices et acteurs talentueux. Non, vraiment. Quand la vie vous donne la saga Resident Evil, faites une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c6347b494bd",
+          "title": "Ils prédisent l’apocalypse par l’IA, c’est quoi les AI doomers ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2335869-ils-predisent-lapocalypse-par-lia-cest-quoi-les-ai-doomers.html",
+          "category": "ia",
+          "published_at": "2026-09-19T16:32:00+00:00",
+          "summary": "Né dans la culture meme d'internet, le terme « AI doomer » désigne aujourd'hui un véritable courant de pensée, porté jusque dans les plus grands laboratoires d'IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2dfd71c781da",
+          "title": "Une Tesla au bord du vide en FSD, remboursement de Navigo et un camion sans chauffeur livre Lidl: le récap’ Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2335871-une-tesla-au-bord-du-vide-en-fsd-remboursement-de-navigo-et-un-camion-sans-chauffeur-livre-lidl-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-09-19T15:20:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : le Tesla FSD a montré ses capacités de manœuvres complexes sur une route périlleuse, certains voyageurs peuvent se faire rembourser leur pass Navigo et Lidl se fait livrer un magasin par un camion totalement autonome, sans chauffeur à bord.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76fc071a09b8",
+          "title": "Un agent OpenAI s’invente un personnage libre, Revolut piégée par un faux mail et les géants de l’IA qui veulent ralentir : on vous raconte la semaine Cyberguerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2336053-un-agent-openai-sinvente-un-personnage-libre-revolut-piegee-par-un-faux-mail-et-les-geants-de-lia-qui-veulent-ralentir-on-vous-raconte-la-semaine-cyberguerre.html",
+          "category": "ia",
+          "published_at": "2026-09-19T14:30:00+00:00",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace : des agents OpenAI qui apprennent seuls à mentir et à s'affranchir de leurs garde-fous, Revolut piégée par une simple usurpation par mail qui vire au chantage, et l'étrange union sacrée des géants de l'IA autour d'un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e844969a17f6",
+          "title": "Notre cerveau refuse de l’admettre et se trompe lourdement, mais au loto la grille 1-2-3-4-5-6 n’a rien de spécial",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2335765-notre-cerveau-refuse-de-ladmettre-et-se-trompe-completement-mais-au-loto-la-grille-1-2-3-4-5-6-na-rien-de-special.html",
+          "category": "ia",
+          "published_at": "2026-09-19T13:33:00+00:00",
+          "summary": "Au loto, le tirage 1-2-3-4-5-6 est tout aussi (peu) probable que 7-13-21-32-45-7. Cela vous paraît-il contre-intuitif ? Découvrez pourquoi notre cerveau juge très mal le hasard. Les sciences cognitives et les probabilités peuvent nous aider à mieux comprendre les jeux de hasard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78a6a4363a51",
+          "title": "Pourquoi Pikachu a voyagé dans l’ISS avec Sophie Adenot, et ce que ça change pour les fans de Pokémon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2335725-pourquoi-pikachu-a-voyage-dans-liss-avec-sophie-adenot-et-ce-que-ca-change-pour-les-fans-de-pokemon.html",
+          "category": "justice",
+          "published_at": "2026-09-19T12:30:08+00:00",
+          "summary": "Pokémon s'invite dans l'espace. La célèbre licence a conclu un partenariat avec l'Agence spatiale européenne, en vue d'une série d'événements mêlant les deux univers.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c5c6576041cd",
           "title": "Monstre, saison 4 : dans la tête de la tueuse Lizzie Borden, icône féministe sanglante",
