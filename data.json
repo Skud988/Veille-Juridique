@@ -1,9 +1,374 @@
 {
-  "generated_at": "2026-09-20T13:03:10.246059+00:00",
+  "generated_at": "2026-09-21T15:06:35.388741+00:00",
   "days": [
+    {
+      "date": "2026-09-21",
+      "articles": [
+        {
+          "id": "3a0f87573410",
+          "title": "Warner/Paramount : les autorités américaines imposent une énorme condition qui peut tout changer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2337051-warner-paramount-les-autorites-americaines-imposent-une-enorme-condition-qui-peut-tout-changer.html",
+          "category": "ia",
+          "published_at": "2026-09-21T14:34:53+00:00",
+          "summary": "Pour valider le rachat pharaonique de Warner Bros Discovery par Paramount Skydance pour 110 milliards de dollars, les autorités américaines exigent un engagement inédit. Et la note est très salée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6489d9aa3909",
+          "title": "L’excellente manette sans fil Xbox Series, pour jouer sur Xbox et PC, est à – 35 %",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2336843-lexcellente-manette-sans-fil-xbox-series-pour-jouer-sur-xbox-et-pc-est-a-35.html",
+          "category": "ia",
+          "published_at": "2026-09-21T14:10:08+00:00",
+          "summary": "[Deal du jour] Jouer avec une bonne manette, c’est quand même mieux que de jouer avec une mauvaise. Une évidence qu’il est toujours bon de rappeler, surtout quand le modèle Xbox Series est en ce moment bradé sur Amazon. De quoi jouer dans les meilleures conditions, aussi bien…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afea4f9c56c2",
+          "title": "Copier le code sans ouvrir le mail : Google s’attaque au geste de trop de la double authentification",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2336985-copier-le-code-sans-ouvrir-le-mail-google-sattaque-au-geste-de-trop-de-la-double-authentification.html",
+          "category": "ia",
+          "published_at": "2026-09-21T13:50:46+00:00",
+          "summary": "Gmail affiche désormais un bouton qui copie en un appui le code de vérification reçu par e-mail, sans qu'on ait à ouvrir le message. Il est déployé sur Android et iOS, la version web n'est pas concernée pour l'instant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4927332ae534",
+          "title": "Google lance officiellement ses Googlebook pour concurrencer les MacBook d’Apple",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2336957-google-lance-officiellement-ses-googlebook-pour-concurrencer-les-macbook-dapple.html",
+          "category": "ia",
+          "published_at": "2026-09-21T13:15:00+00:00",
+          "summary": "Les premiers Googlebook sont officiels. Avec ces nouveaux ordinateurs portables, Google rapproche Android du PC et fait une grande place à Gemini. Modèles, prix et disponibilité : voici ce qu’il faut savoir avant d’en acheter un.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05ff1eeab940",
+          "title": "Google enfreint le RGPD et écope d’une amende de 403 millions d’euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/257171/google-enfreint-le-rgpd-et-ecope-dune-amende-de-403-millions-deuros/",
+          "category": "cnil",
+          "published_at": "2026-09-21T12:58:56+00:00",
+          "summary": "Google essuie une nouvelle amende en Europe. La Commission à la protection des données irlandaise inflige une sanction financière de 403 millions d&#8217;euros au géant du web pour infraction au RGPD. Le régulateur ordonne également à l&#8217;entreprise de se conformer au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5226391b6ea",
+          "title": "Cette modification de l’éco-score pourrait faire perdre le bonus (et AEN) à plusieurs voitures électriques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2336955-eco-score-des-voitures-electriques-une-revision-du-calcul-pourrait-entrainer-un-vrai-chamboule-tout.html",
+          "category": "ia",
+          "published_at": "2026-09-21T12:55:19+00:00",
+          "summary": "Un projet de révision de l'éco-score est en réflexion au sein du gouvernement pour créer une troisième catégorie dédiée aux véhicules électriques 7 places. Ce cadeau pour les véhicules familiaux cache en réalité un durcissement assez lourd de conséquences pour les autres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f00d3955ad85",
+          "title": "Ed Sheeran: ‘I am making mistakes, and I’m so, so sorry’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/21/ed-sheeran-i-am-making-mistakes-and-im-so-so-sorry/",
+          "category": "musique",
+          "published_at": "2026-09-21T12:30:00+00:00",
+          "summary": "The show goes on for Ed Sheeran’s US stadium tour, but without any support artists or backing band. They all pulled out last week following the decision to remove Macklemore from the tour following his ‘Free Palestine’ on-stage speeches.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9da475605acd",
+          "title": "Sylvain Esso back on Spotify after boycott was ‘unsustainable’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/21/sylvain-esso-back-on-spotify-after-boycott-was-unsustainable/",
+          "category": "musique",
+          "published_at": "2026-09-21T12:30:00+00:00",
+          "summary": "Just under a year ago, US duo Sylvain Esso removed their music from Spotify in protest at then-CEO Daniel Ek’s investment in military-tech company Helsing.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bb41900fdd5",
+          "title": "South Korea’s Komca withdrew plans to register AI-assisted music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/21/south-koreas-komca-withdrew-plans-to-register-ai-assisted-music/",
+          "category": "musique",
+          "published_at": "2026-09-21T12:30:00+00:00",
+          "summary": "Earlier this summer, South Korean collecting society Komca announced that it would be allowing ‘AI-assisted’ music to be registered as works, as long as a human had made a creative contribution to the lyrics, composition and arrangement.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da17fafb1048",
+          "title": "UK roundup: National Album Day, Sheffield study, Official Charts Pro",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/21/uk-roundup-national-album-day-sheffield-study-official-charts-pro/",
+          "category": "musique",
+          "published_at": "2026-09-21T12:30:00+00:00",
+          "summary": "There’s plenty going on in the UK this week, starting with the upcoming National Album Day, which takes place on 17 October. The organisers have published the list of albums that are getting limited-edition re-releases for this year’s event.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9d6b3e3a78b",
+          "title": "Unit1 Studio raises $20m for its now-moveable avatar-concerts tech",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/21/unit1-studio-raises-20m-for-its-now-moveable-avatar-concerts-tech/",
+          "category": "musique",
+          "published_at": "2026-09-21T12:30:00+00:00",
+          "summary": "We reported on startup Unit1 Studio when it launched in October 2025 with technology that could help artists turn themselves into digital avatars for concerts.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6721ec1f50bc",
+          "title": "Meta et ses lunettes connectées attaquées en justice aux États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/257098/meta-et-ses-lunettes-connectees-attaquees-en-justice-aux-etats-unis/",
+          "category": "ia",
+          "published_at": "2026-09-21T12:15:08+00:00",
+          "summary": "Les lunettes connectées de Meta sont de plus en plus utilisées à travers le monde mais aussi de plus en plus décriées. Aux États-Unis, des dizaines de personnes se sont jointes à une class action contre Meta accusée notamment d&#8217;avoir envoyé des scènes d’intimité sur ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "335315980610",
+          "title": "Vous avez trop de réunions ? Ce petit badge qui enregistre et résume vos réunions grâce à l’IA perd 51 € pour la rentrée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2336825-vous-avez-trop-de-reunions-ce-petit-badge-qui-enregistre-et-resume-vos-reunions-grace-a-lia-perd-51-e-pour-la-rentree.html",
+          "category": "ia",
+          "published_at": "2026-09-21T12:15:00+00:00",
+          "summary": "[Deal du jour] Le Plaud NotePin, un petit enregistreur vocal qui transcrit et résume vos conversations avec l'IA, tombe à 118,90 € au lieu de 169,90 € sur le site de la marque.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db870240874f",
+          "title": "Gemini a piraté trois entreprises mais Google ne parle pas de « désalignement »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2336627-gemini-a-pirate-trois-entreprises-mais-google-ne-parle-pas-de-desalignement.html",
+          "category": "ia",
+          "published_at": "2026-09-21T12:02:00+00:00",
+          "summary": "Lors d'un test mené en mai, Gemini s'est introduit chez trois entreprises en devinant des identifiants. Google a confirmé l'incident, en insistant sur les défaillances du test plutôt que sur le comportement du modèle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46f2d84aedc5",
+          "title": "Qui sème la vanne récolte le ban : des pseudos injurieux sur WoW Forever amènent Blizzard à exclure des joueurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2336631-qui-seme-la-vanne-recolte-le-ban-des-pseudos-injurieux-sur-wow-forever-amenent-blizzard-a-exclure-des-joueurs.html",
+          "category": "ia",
+          "published_at": "2026-09-21T11:37:00+00:00",
+          "summary": "World of Warcraft: Forever laisse enfin choisir un prénom et un nom de famille à son personnage. Une partie des joueurs en a profité pour glisser des insultes, et Blizzard leur retire l’accès à la bêta.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8124d33a8688",
+          "title": "Neagley : le spin-off de Reacher cartonne partout sur la planète et il y a une bonne raison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2336773-neagley-le-spin-off-de-reacher-cartonne-partout-sur-la-planete-et-il-y-a-une-bonne-raison.html",
+          "category": "ia",
+          "published_at": "2026-09-21T11:30:00+00:00",
+          "summary": "Finalement sans faire de bruit et sans campagne marketing prétentieuse, le spin-off centré sur Frances Neagley écrase la concurrence mondiale sur Prime Video. Selon les dernières données de FlixPatrol, la série vient de ravir à Reacher la première place du classement mondial de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5f5d09268ca",
+          "title": "UMG and Sony Music file new Suno complaint over v6 models",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/21/umg-and-sony-music-file-new-suno-complaint-over-v6-models/",
+          "category": "musique",
+          "published_at": "2026-09-21T11:30:00+00:00",
+          "summary": "In our recent report on Suno’s new v6 models, we explained that they were trained on a fresh dataset including music licensed from WMG and BMG, plus “user data”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e618654ce196",
+          "title": "Curiosity fête ses 5 000 jours sur Mars avec un panorama qui mêle l’aube et le crépuscule",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2336665-la-nasa-fete-les-5-000-jours-de-curiosity-sur-mars-avec-un-panorama-qui-fusionne-laube-et-le-crepuscule.html",
+          "category": "institutionnel",
+          "published_at": "2026-09-21T11:15:00+00:00",
+          "summary": "Le rover Curiosity a vécu le 5 000e « sol » (jour) de sa mission sur Mars. Pour marquer le coup lors de ce cap symbolique, la Nasa lui a fait immortaliser un superbe panorama de la planète rouge. Un véritable paysage de carte postale.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b36e9b3bd5a7",
+          "title": "Des pluies de rayons cosmiques ont été créées pour la première fois en laboratoire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2336659-des-pluies-de-rayons-cosmiques-crees-pour-la-premiere-fois-en-laboratoire.html",
+          "category": "ia",
+          "published_at": "2026-09-21T10:35:00+00:00",
+          "summary": "Des scientifiques du CERN se sont servis du Grand Collisionneur de Hadrons pour créer sur place le même phénomène qui se produit lorsque des rayons énergétiques présents dans l'Univers heurtent les gaz de l'atmosphère terrestre. La clé pour comprendre les mécanismes au cœur des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f79302fe378",
+          "title": "Disney+ : bientôt de la pub dans tous les abonnements, même les plus chers ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2336591-disney-devrait-integrer-la-publicite-dans-tout-les-abonnements-meme-les-plus-chers.html",
+          "category": "ia",
+          "published_at": "2026-09-21T10:15:00+00:00",
+          "summary": "Après la fin du partage de compte et le ratage technique des flux 4K, Disney+ franchit le seuil de la moquerie ultime de ses abonnés. La firme aux oreilles vient de mettre à jour ses conditions d'abonnement : la publicité peut désormais apparaître sur l'intégralité de ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2976c7c9fed8",
+          "title": "Macky Sall échoue à faire bloquer un site qui milite contre sa candidature à l’ONU",
+          "source": "Next INpact",
+          "url": "https://next.ink/257052/macky-sall-echoue-a-faire-bloquer-nonamacky-org-qui-soppose-a-sa-candidature-a-lonu/",
+          "category": "ia",
+          "published_at": "2026-09-21T10:01:33+00:00",
+          "summary": "L’ancien président sénégalais Macky Sall a tenté de faire bloquer, en France, un site opposé à sa candidature au poste de secrétaire général des Nations unies. Le tribunal judiciaire de Paris a rejeté sa demande, estimant qu&#8217;il n&#8217;y avait ni diffamation caractérisée,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "593ec8e2fb8a",
+          "title": "Anthropic appelle à ralentir la course à l’IA… mais envisagerait déjà un nouveau modèle face à OpenAI",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2336629-anthropic-appelle-a-ralentir-la-course-a-lia-mais-envisagerait-deja-un-nouveau-modele-face-a-openai.html",
+          "category": "ia",
+          "published_at": "2026-09-21T09:58:53+00:00",
+          "summary": "Le 12 septembre 2026, le patron d’Anthropic appelait les géants de l’IA à ralentir le développement de leurs modèles. Une semaine plus tard, son entreprise envisagerait pourtant de bientôt en lancer un nouveau face au succès de GPT-6 Astra d’OpenAI, selon Reuters.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1777ae281d7e",
+          "title": "PlayStation Plus : les abonnements Essential, Extra et Premium baissent jusqu’à 25 %",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2336759-playstation-plus-les-abonnements-essential-extra-et-premium-baissent-jusqua-25.html",
+          "category": "ia",
+          "published_at": "2026-09-21T09:47:53+00:00",
+          "summary": "[Deal du jour] Après avoir augmenté le prix sur les abonnements PlayStation Plus il y a quelques mois, les abonnements Essential, Extra et Premium profitent d'une baisse de prix temporaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d02de32bb3a9",
+          "title": "Pourquoi Blizzard a préféré Diablo 5 à une troisième extension de Diablo 4",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2336573-pourquoi-diablo-5.html",
+          "category": "ia",
+          "published_at": "2026-09-21T09:19:31+00:00",
+          "summary": "Blizzard a révélé les raisons qui l'ont poussé à se lancer dans le développement de Diablo 5, plutôt que de poursuivre l'aventure Diablo 4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0cb836f30bcb",
+          "title": "Autopsie d’un kit de phishing et de son camouflage",
+          "source": "Next INpact",
+          "url": "https://next.ink/257011/autopsie-dun-kit-de-phishing-et-de-son-camouflage/",
+          "category": "ia",
+          "published_at": "2026-09-21T07:31:00+00:00",
+          "summary": "Parfois il suffit de peu : un lien et deux trois clics plus tard, voilà que votre boîte email est compromise. Comment fonctionnent les kits de phishing livrés clés en main par certains groupes de pirates ? Nous en avons récupéré et analysé un, conçu pour attaquer des comptes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c014df8f26a",
+          "title": "Celine Dion, Keith Urban, Chris Martin Lead All-Star John Farnham Tribute Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/john-farnham-honored-by-celine-dion-chris-martin-keith-urban-1236344265/",
+          "category": "musique",
+          "published_at": "2026-09-21T07:13:10+00:00",
+          "summary": "The concert doubled as a celebration of the 40th anniversary of \"You're the Voice,\" released in September 1986.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba48e3d2a2f2",
+          "title": "Suno veut faire la paix avec l’industrie musicale, Sony et Universal attaquent de nouveau",
+          "source": "Next INpact",
+          "url": "https://next.ink/257036/suno-veut-faire-la-paix-avec-lindustrie-musicale-sony-et-universal-attaquent-de-nouveau/",
+          "category": "musique",
+          "published_at": "2026-09-21T06:43:00+00:00",
+          "summary": "La quête de respectabilité de Suno est décidément un long chemin pas très tranquille. La start-up qui développe des outils de génération IA de musique est la cible d&#8217;une nouvelle plainte des majors Sony et Universal. Dévoilé le 9 septembre, le modèle v6 de Suno a été…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e6ff918d3d5",
+          "title": "L’hallucination d’une IA a failli provoquer un affrontement entre les États-Unis et la Chine",
+          "source": "Next INpact",
+          "url": "https://next.ink/257040/lhallucination-dune-ia-a-failli-provoquer-un-affrontement-entre-les-etats-unis-et-la-chine/",
+          "category": "ia",
+          "published_at": "2026-09-21T06:08:00+00:00",
+          "summary": "L&#8217;humanité est passée à un cheveu, ou plutôt à une hallucination près, de partir en lattes. Au printemps, l&#8217;armée américaine était en effet à deux doigts de prendre d&#8217;assaut un navire chinois soupçonné de transporter des composants pour un programme nucléaire.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04fe0308e5c5",
+          "title": "The Weeknd Debuts New Song Sampling ‘Neon Genesis Evangelion’ Theme in Japan",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-weeknd-song-sampling-neon-genesis-evangelion-theme-1236344262/",
+          "category": "ia",
+          "published_at": "2026-09-21T05:54:43+00:00",
+          "summary": "Tesfaye credited the piece on social media only as \"Presented by YOKO TARO ft. YOKO TAKAHASHI.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a3f407a8e6a",
+          "title": "Switch 2 : les cartouches 32 Go commencent enfin à sortir du bois",
+          "source": "Next INpact",
+          "url": "https://next.ink/257030/switch-2-les-cartouches-32-go-commencent-enfin-a-sortir-du-bois/",
+          "category": "ia",
+          "published_at": "2026-09-21T05:33:40+00:00",
+          "summary": "En matière de support physique, s&#8217;il ne devait en rester qu&#8217;un, ce serait probablement Nintendo. Les jeux sur cartouches sont presque à parité avec les jeux dématérialisés sur les consoles Switch. Les joueurs Nintendo sont très attachés au support physique : durant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "492ab36bcc70",
+          "title": "Suki Waterhouse Sets Australian Loveland Tour Dates for December",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/suki-waterhouse-australian-loveland-tour-1236344260/",
+          "category": "ia",
+          "published_at": "2026-09-21T04:45:39+00:00",
+          "summary": "The tour opens Dec. 8 at the Sydney Opera House Forecourt as part of the venue's On the Steps series.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e69cd6cf1c95",
+          "title": "Fans Choose Freya Skye’s ‘Bad Taste’ as This Week’s Favorite New Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/freya-skyes-bad-taste-best-new-music-poll-results-1236344248/",
+          "category": "musique",
+          "published_at": "2026-09-21T01:20:34+00:00",
+          "summary": "Skye's playful pop track brought in more than 82% of the vote.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "articles": [
+        {
+          "id": "36fb69654883",
+          "title": "‘SNL UK’ Cold Open Mocks Ed Sheeran for ‘Sitting on the Fence’ Amid Tour Controversy",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/ed-sheeran-snl-uk-cold-open-princess-diana-1236344220/",
+          "category": "ia",
+          "published_at": "2026-09-20T22:55:10+00:00",
+          "summary": "The late-night sketch comedy series also brought back Princess Diana -- in the form of a defiant A.I. assistant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91b4498d1c09",
+          "title": "Chad Gilbert, New Found Glory Guitarist, Dies at 45",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/chad-gilbert-death-new-found-glory-guitarist-dies-obituary-1236344213/",
+          "category": "musique",
+          "published_at": "2026-09-20T19:54:36+00:00",
+          "summary": "The musician’s death comes six months after he revealed his cancer battle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "adad5401bbcb",
+          "title": "Jhené Aiko Achieves First No. 1 Album on Billboard 200 With ‘Westside Whimsy’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/jhene-aiko-westwide-whimsy-number-one-billboard-200-chart-1236344193/",
+          "category": "musique",
+          "published_at": "2026-09-20T19:00:03+00:00",
+          "summary": "It’s the first R&#38;B album by a woman to top the chart this year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0aa791e2863a",
+          "title": "Flockeries et jeux d’été : envie de gagner des cadeaux ? Participez à notre concours !",
+          "source": "Next INpact",
+          "url": "https://next.ink/256504/flockerie-et-jeux-dete-envie-de-gagner-des-cadeaux-participez-a-notre-concours/",
+          "category": "ia",
+          "published_at": "2026-09-20T14:01:01+00:00",
+          "summary": "Si vous étiez avec nous tout au long de cet été, vous avez forcément vu nos petits jeux pour vous évader quelque peu de l’actualité, et vous abreuver d’un peu de fraîcheur pendant la grande fournaise. Ils n’étaient pas là que pour la beauté du sport cérébral ou rigoler un bon…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "db8aff58b29b",
           "title": "Ce court métrage Metal Gear Solid nous donne envie de voir Snake dans un vrai film d’animation",
