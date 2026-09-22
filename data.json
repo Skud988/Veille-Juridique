@@ -1,9 +1,464 @@
 {
-  "generated_at": "2026-09-21T15:06:35.388741+00:00",
+  "generated_at": "2026-09-22T13:24:48.669518+00:00",
   "days": [
+    {
+      "date": "2026-09-22",
+      "articles": [
+        {
+          "id": "c46c36e5bc14",
+          "title": "Khosla Ventures-backed AI music company GRAI acquires social music platform Hangout",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/khosla-ventures-backed-ai-music-company-grai-acquires-social-music-platform-hangout/",
+          "category": "musique",
+          "published_at": "2026-09-22T13:00:28+00:00",
+          "summary": "Hangout launched in November 2024 with a catalog of over 100 million tracks, licensed from Sony Music Entertainment, Universal Music Group, Warner Music Group, and Merlin.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdca211c7654",
+          "title": "Suno hits back at ‘fundamentally flawed’ UMG and Sony Music claims",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/22/suno-hits-back-at-fundamentally-flawed-umg-and-sony-music-claims/",
+          "category": "musique",
+          "published_at": "2026-09-22T12:30:00+00:00",
+          "summary": "We reported yesterday on Universal Music Group and Sony Music’s new legal complaint against Suno, with a filing that attacked its latest v6 models as “the fruit of the same poisoned tree”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d7479d32804",
+          "title": "Italy’s Sanremo Music Festival bars AI if it replaces human creativity",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/22/italys-sanremo-music-festival-bars-ai-if-it-replaces-human-creativity/",
+          "category": "musique",
+          "published_at": "2026-09-22T12:30:00+00:00",
+          "summary": "The Sanremo Music Festival is a veritable institution in Italy: an annual music contest and TV broadcast that’s often had a secondary purpose of choosing Italy’s entry for the next Eurovision Song Contest.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c06cae365d29",
+          "title": "Snapchat has a new GenAI-powered ‘Chat to Song’ feature",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/22/snapchat-has-a-new-genai-powered-chat-to-song-feature/",
+          "category": "musique",
+          "published_at": "2026-09-22T12:30:00+00:00",
+          "summary": "Earlier this year, we wrote about the ‘text-to-song’ craze on TikTok, where people were feeding their message-threads into Suno to generate songs – some of which went viral.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff50bd414d02",
+          "title": "Drowned in Sound and Music Venue Trust reveal new music magazine",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/22/drowned-in-sound-and-music-venue-trust-reveal-new-music-magazine/",
+          "category": "musique",
+          "published_at": "2026-09-22T12:30:00+00:00",
+          "summary": "It’s not often we get to write about the launch of a new print magazine focused on music: the recent past has seen plenty of them shut down or go online-only (then shut down or dwindle).\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5e7c100dc011",
+          "title": "Vinyl counterfeiter who made $3.6M from fake Taylor Swift and Kendrick Lamar records jailed for 3.5 years in the UK",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/vinyl-counterfeiter-who-made-3-6m-from-fake-taylor-swift-and-kendrick-lamar-records-jailed-for-3-5-years-after-bpi-referral/",
+          "category": "ia",
+          "published_at": "2026-09-22T11:54:32+00:00",
+          "summary": "Rehan Ahmed generated £2.7M (USD $3.6M) from counterfeit vinyl pressed at a west London plant, in a case referred to police by the BPI.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ef3e1f481a4",
+          "title": "Judge explains StubHub arbitration ruling: ticket buyer agreed to terms barring class actions when he clicked ‘Buy Now’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-explains-stubhub-arbitration-ruling-ticket-buyer-agreed-to-terms-barring-class-actions-when-he-clicked-buy-now/",
+          "category": "ia",
+          "published_at": "2026-09-22T11:36:28+00:00",
+          "summary": "Judge Jed S. Rakoff explained the one-page order issued over a week ago, which sent the case to private arbitration.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3e6411d5286",
+          "title": "La belle dynamique des vols d’Ariane 6 risque de dérailler avant la fin de l’année",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2337513-la-belle-dynamique-des-vols-dariane-6-risque-de-derailler-avant-la-fin-de-lannee.html",
+          "category": "ia",
+          "published_at": "2026-09-22T11:31:00+00:00",
+          "summary": "Une turbopompe défaillante, repérée cet été, va forcer l'Europe à revoir à la baisse le nombre de vols d'Ariane 6 en 2026. Un contretemps qui tombe au pire moment pour un lanceur censé prouver qu'il peut voler seul et vite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27fb3f18c3ea",
+          "title": "UK-based avatar concert producer Unit1 Studio raises $20M led by Balderton Capital",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/uk-based-avatar-concert-producer-unit1-studio-raises-20m-led-by-balderton-capital/",
+          "category": "musique",
+          "published_at": "2026-09-22T11:21:28+00:00",
+          "summary": "The fundraise lands alongside what Unit1 calls a world first: the transfer of an avatar concert production from one venue to another.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "642932558365",
+          "title": "Le cerveau serait deux organes, pas un seul, selon une étude de l’université Stanford",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2337303-le-cerveau-serait-deux-organes-pas-un-seul-selon-une-etude-de-luniversite-stanford.html",
+          "category": "ia",
+          "published_at": "2026-09-22T11:05:00+00:00",
+          "summary": "De nouvelles recherches invitent à repenser la façon dont nous imaginons le cerveau. Il ne serait pas un seul et même organe, mais plutôt un organe « composite », formé de deux organes différents.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a9bc0e718d1",
+          "title": "Apple to open 600-capacity live music venue in London, with two recording studios and a broadcast control room built in",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/apple-to-open-600-capacity-live-music-venue-in-london-with-two-recording-studios-and-a-broadcast-control-room-built-in/",
+          "category": "musique",
+          "published_at": "2026-09-22T11:03:39+00:00",
+          "summary": "Artists who play the new Apple Music Hall can leave with a Spatial Audio recording, a mix ready for broadcast, and multi-camera video of the same show.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca93c200d49a",
+          "title": "Final Fantasy VII Revelation pourra monter vos personnages de niveau automatiquement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2337501-final-fantasy-vii-revelation-pourra-monter-vos-personnages-de-niveau-automatiquement.html",
+          "category": "ia",
+          "published_at": "2026-09-22T10:58:00+00:00",
+          "summary": "Final Fantasy VII Revelation compte bien faciliter la progression des joueuses et des joueurs qui souhaitent avant tout découvrir son histoire. Square Enix a révélé la présence d'une option afin de faire automatiquement monter les personnages de niveau.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f9a0d93c48d",
+          "title": "Orgueil et Préjugés (2005) : où revoir le film culte avant la mini-série Netflix du 3 décembre ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2337563-orgueil-et-prejuges-2005-ou-revoir-le-film-culte-avant-la-mini-serie-netflix-du-3-decembre.html",
+          "category": "justice",
+          "published_at": "2026-09-22T10:35:00+00:00",
+          "summary": "Le géant du streaming Netflix s'apprête à lancer sa propre version du chef-d'œuvre de Jane Austen, Orgueil et Préjugés, en fin d'année 2026. Pour vous faire votre propre avis ou réviser vos classiques, voici exactement où visionner le long-métrage porté par Keira Knightley et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cded1e8b5a8",
+          "title": "Le roman phénomène de la rentrée littéraire est accusé d’être généré par IA : pourquoi on ne pourra jamais savoir ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2337345-le-roman-phenomene-de-la-rentree-litteraire-est-accuse-detre-genere-par-ia-pourquoi-on-ne-pourra-jamais-savoir.html",
+          "category": "ia",
+          "published_at": "2026-09-22T10:15:15+00:00",
+          "summary": "C'était ça ou mourir, le roman de Thélyson Orélien, est accusé d'avoir été rédigé par IA. En cause : plusieurs passages classés « 100% IA » par le détecteur Pangram.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68dd8a1811df",
+          "title": "SpaceXAI lance son modèle Grok 4.7, dont les performances déçoivent",
+          "source": "Next INpact",
+          "url": "https://next.ink/257288/spacexai-lance-son-modele-grok-4-7-dont-les-performances-decoivent/",
+          "category": "ia",
+          "published_at": "2026-09-22T09:54:00+00:00",
+          "summary": "SpaceXAI a lancé son nouveau modèle Grok 4.7 ce 21&#160;septembre. Si Elon Musk vantait l’arrivée de cette version, les résultats indépendants ne semblent pas à la hauteur des attentes. En revanche, le LLM garde pour lui l’avantage d’une tarification plus douce que certains des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1daf93a435d",
+          "title": "Petal de Meta : 1 000 Tb/s entre les États-Unis et la France grâce à des fibres à deux cœurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/257308/petal-de-meta-1-000-tb-s-entre-les-etats-unis-et-la-france-grace-a-des-fibres-a-deux-coeurs/",
+          "category": "ia",
+          "published_at": "2026-09-22T09:32:00+00:00",
+          "summary": "Au lieu de doubler les fibres dans les câbles sous-marins, Meta double le nombre de cœurs dans chaque fibre. Résultat des courses, en 2029, un nouveau câble transatlantique de 7 000 km avec 24 paires de fibre optique proposera une bande passante de 1 Pb/s (ou 1 000 Tb/s). Ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f69c2e09fd95",
+          "title": "Face à la colère des médaillés Fields, OpenAI s’entoure de neuf grands chercheurs pour tenter d’apaiser les mathématiciens",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2337267-face-a-la-colere-des-medailles-fields-openai-sentoure-de-neuf-grands-chercheurs-pour-tenter-dapaiser-les-mathematiciens.html",
+          "category": "ia",
+          "published_at": "2026-09-22T09:20:00+00:00",
+          "summary": "OpenAI a annoncé ce lundi 21 septembre 2026 la création d'un groupe consultatif de mathématiciens de renom, chargé de l'aider à publier ses résultats sans froisser la profession. Une main tendue après des semaines de tensions autour de ses annonces en maths.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16c0cd356b22",
+          "title": "Decathlon fait baisser de 300 € son vélo électrique Elops 500 longue distance",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2337401-decathlon-fait-baisser-de-300-e-son-velo-electrique-elops-500-longue-distance.html",
+          "category": "ia",
+          "published_at": "2026-09-22T09:18:36+00:00",
+          "summary": "[Deal du jour] Decathlon fait passer son vélo électrique Elops 500 longue distance de 1 499,99 € à 1 199,99 €, soit 300 € de moins jusqu'au 1 novembre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "573b4dd126ed",
+          "title": "Le jeu Marvel’s Wolverine censurerait la relation lesbienne de Mystique dans certains pays",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2337289-le-jeu-marvels-wolverine-censurerait-la-relation-lesbienne-de-mystique-dans-certains-pays.html",
+          "category": "ia",
+          "published_at": "2026-09-22T09:08:02+00:00",
+          "summary": "Dans Marvel's Wolverine, la mutante Mystique est en couple avec une femme. Cette relation, évoquée dans le récit à plusieurs reprises, serait censurée dans certains pays.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "527a526e1380",
+          "title": "Pour la première fois, on a capté des signaux radio sur une exoplanète",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2337333-pour-la-premiere-fois-on-a-capte-des-signaux-radios-sur-une-exoplanete.html",
+          "category": "ia",
+          "published_at": "2026-09-22T09:06:51+00:00",
+          "summary": "Une planète gazeuse géante située à 63 années-lumière de la Terre a émis des signaux radio qui ont pu être captés. Une première qui n'est pas l'œuvre d'une quelconque civilisation extraterrestre, mais qui nous vient des aurores.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b0e1b30c81a",
+          "title": "Europe : menace sur le consentement pour entrainer des IA sur des données personnelles",
+          "source": "Next INpact",
+          "url": "https://next.ink/257186/europe-menace-sur-le-consentement-pour-lentrainement-des-ia-sur-des-donnees-personnelles/",
+          "category": "ia",
+          "published_at": "2026-09-22T09:06:51+00:00",
+          "summary": "L&#8217;Irlande a proposé de nouvelles modifications au texte européen du « digital omnibus » qui doit « simplifier » le droit numérique européen. Le pays qui préside actuellement le Conseil veut que l&#8217;Europe considère comme «&#160;légitime&#160;» l&#8217;entraînement des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0e2a8ef551d",
+          "title": "De 300 à 2 000 €, voici les meilleurs smartphones que nous achèterions en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/712919-meilleurs-smartphones-guide-achat.html",
+          "category": "ia",
+          "published_at": "2026-09-22T09:00:00+00:00",
+          "summary": "Dépenser plus de 1 000 € dans un smartphone peut se justifier, mais certainement pas pour tout le monde. De la photo à l’autonomie, nos tests révèlent des compromis à tous les prix. Voici les meilleurs smartphones à acheter en 2026 selon votre budget et ce qui compte vraiment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f946f97676d7",
+          "title": "Harry Potter : la musique culte sera t-elle de retour dans la série HBO ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2337375-harry-potter-la-musique-culte-sera-t-elle-de-retour-dans-la-serie-hbo.html",
+          "category": "musique",
+          "published_at": "2026-09-22T08:43:25+00:00",
+          "summary": "Pas de nostalgie facile au menu du retour à Poudlard. Pour la très ambitieuse réadaptation sérielle des romans Harry Potter de J.K. Rowling, le compositeur oscarisé Hans Zimmer prend le pari risqué de faire table rase du passé musical.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c3c3cc743e8",
+          "title": "Apple Music secretly built a 600-capacity venue in its London HQ",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/22/apple-music-secretly-built-a-600-capacity-venue-in-its-london-hq/",
+          "category": "musique",
+          "published_at": "2026-09-22T08:42:34+00:00",
+          "summary": "Apple Music Hall is being unveiled this morning: a 600-cap venue in the Battersea Power Station complex. Apple plans to host a range of artists for concerts, up to superstar level,  with the venue fully hardwired for livestreams and spatial audio. It&#8217;s a return to live…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51de088f6b58",
+          "title": "Meta va relier la France et les États-Unis avec un câble sous-marin à 1 pétabit par seconde, un record absolu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2337359-meta-va-relier-la-france-et-les-etats-unis-avec-un-cable-sous-marin-a-1-petabit-par-seconde-un-record-absolu.html",
+          "category": "ia",
+          "published_at": "2026-09-22T08:31:42+00:00",
+          "summary": "Meta annonce Petal, un câble sous-marin de 7 000 km entre la France et les États-Unis capable de transporter 1 pétabit par seconde. C'est une première pour un câble transocéanique, rendue possible par une fibre optique à deux cœurs. La mise en service est prévue en 2029, avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32d821b4f6f8",
+          "title": "La prochaine Xbox lira-t-elle encore les jeux physiques ? Microsoft consulte ses joueurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2337277-la-prochaine-xbox-lira-t-elle-encore-les-jeux-physiques-microsoft-consulte-ses-joueurs.html",
+          "category": "ia",
+          "published_at": "2026-09-22T08:17:26+00:00",
+          "summary": "Microsoft aurait intégré la prise en charge des disques physiques à un questionnaire consacré à sa prochaine génération de consoles. Un indice supplémentaire sur les hésitations de Xbox, quelques semaines après le lancement de son système Disc-to-Digital.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3db63974bbbc",
+          "title": "Xbox préparerait une nouvelle vague de licenciements et un regroupement de ses studios",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2337255-xbox-preparerait-une-nouvelle-vague-de-licenciements-et-un-regroupement-de-ses-studios.html",
+          "category": "ia",
+          "published_at": "2026-09-22T07:23:13+00:00",
+          "summary": "Selon un rapport du média The Information, Xbox serait à nouveau sur le point de supprimer plusieurs centaines de postes cette semaine, ainsi que de regrouper plusieurs de ses studios de jeux vidéo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47c515e18a24",
+          "title": "L’assourdissant bruit de fond d’Internet",
+          "source": "Next INpact",
+          "url": "https://next.ink/257059/lassourdissant-bruit-de-fond-dinternet/",
+          "category": "ia",
+          "published_at": "2026-09-22T07:07:00+00:00",
+          "summary": "Assourdissant, c’est le mot : un serveur privé fraîchement installé et branché à Internet reçoit près de 100 000 visites par jour. Le chiffre est vertigineux et montre bien ce que l’on appelle le «&#160;bruit de fond d’Internet », c’est-à-dire ce qui se passe même quand on n’a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7283d86596e",
+          "title": "Deepfakes haineux : les règles de Meta ne sont pas à la hauteur",
+          "source": "Next INpact",
+          "url": "https://next.ink/257281/deepfakes-haineux-les-regles-de-meta-ne-sont-pas-a-la-hauteur/",
+          "category": "ia",
+          "published_at": "2026-09-22T06:43:00+00:00",
+          "summary": "Meta doit en faire plus contre les deepfakes diffusant des discours haineux. Cet appel à agir ne vient pas d&#8217;une organisation opposée au mastodonte des réseaux sociaux, mais de l&#8217;Oversight Board, le conseil de surveillance indépendant de l&#8217;entreprise chargé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73f226ac4363",
+          "title": "☕️ OpenAI tente de renouer le dialogue avec les mathématiciens",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openai-tente-de-renouer-le-dialogue-avec-les-mathematiciens/",
+          "category": "ia",
+          "published_at": "2026-09-22T06:13:18+00:00",
+          "summary": "Du rififi chez les matheux. OpenAI a affirmé ces derniers mois que ses modèles résolvaient des problèmes mathématiques sur lesquels les spécialistes se cassent les dents et la tête depuis des années — dont certains du mathématicien Paul Erdős ou plus récemment, les équations de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f41d9e970a33",
+          "title": "Apple Music to Open State-of-the-Art Live Music Venue in London",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/apple-music-new-live-music-venue-london-battersea/",
+          "category": "musique",
+          "published_at": "2026-09-22T06:00:00+00:00",
+          "summary": "The facility will be situated at the company's London HQ in Battersea Power Station.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41e668ddc7c6",
+          "title": "Muse, l’agent IA de Meta, est interdit de faire les courses chez Amazon",
+          "source": "Next INpact",
+          "url": "https://next.ink/257274/muse-lagent-ia-de-meta-est-interdit-de-faire-les-courses-chez-amazon/",
+          "category": "ia",
+          "published_at": "2026-09-22T05:30:00+00:00",
+          "summary": "Amazon ferme la porte de son magasin à Muse, l&#8217;agent IA de Meta. Ce dernier est capable de fureter dans les allées virtuelles du géant du commerce en ligne pour y faire les emplettes de l&#8217;utilisateur. Mais Amazon n&#8217;a jamais donné son accord. Le client est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdcd776aaf3a",
+          "title": "NCT 127 Open 10th-Anniversary ‘Neo City: The Redline’ Tour With Sold-Out Seoul Run",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/nct-127-neo-city-the-redline-tour-sold-out-opener-1236344395/",
+          "category": "ia",
+          "published_at": "2026-09-22T04:47:58+00:00",
+          "summary": "The 'Neo City: The Redline' tour continues across Asia through January 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a89e6f08740",
+          "title": "Ninajirachi Adds 12 North American Dates to ‘I Love My Computer’ Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/ninajirachi-adds-north-american-dates-i-love-my-computer-tour-1236344393/",
+          "category": "ia",
+          "published_at": "2026-09-22T04:39:31+00:00",
+          "summary": "The award-winning Australian producer extends her North American run into 2027 amid surging demand",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-21",
       "articles": [
+        {
+          "id": "977d4029a491",
+          "title": "Here’s Where to Watch ‘The Voice’ Season 30 Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/the-voice-season-30-2026-watch-stream-online-free-1236342581/",
+          "category": "ia",
+          "published_at": "2026-09-21T20:38:10+00:00",
+          "summary": "The reality competition premieres with a special three-night event starting on Monday, Sept. 21.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7dfd5fa80f7",
+          "title": "‘Monday Night Football’ 2026-2027: How to Watch the New York Giants vs. Los Angeles Rams Game Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/monday-night-football-2026-2027-watch-nfl-live-online-free-1236339452/",
+          "category": "musique",
+          "published_at": "2026-09-21T19:49:06+00:00",
+          "summary": "Watch the Giants take on the Rams on Monday, Sept. 21 — keep an eye out for possible Kendrick Lamar and Snoop Dogg sightings at the game too.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0005be73b65",
+          "title": "Madonna & Charli xcx Set ‘Danceteria Afterhours’ Release Date",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/madonna-charli-xcx-danceteria-afterhours-release-date-1236344326/",
+          "category": "musique",
+          "published_at": "2026-09-21T19:45:00+00:00",
+          "summary": "The new track marks the pop stars’ first musical collaboration.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5b481b60bec",
+          "title": "Tuboleta owner BeatHub buys out Chile’s BeLive to take 100% of Bogotá’s Movistar Arena",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tuboleta-owner-beathub-buys-out-chiles-belive-to-take-100-of-bogotas-movistar-arena/",
+          "category": "ia",
+          "published_at": "2026-09-21T18:34:24+00:00",
+          "summary": "BeLive Entertainment retains 100% control of Colombiana de Escenarios, which runs the venue under a concession.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "916a7e87e484",
+          "title": "American Music Tourism Act heads to Trump’s desk after House vote",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/american-music-tourism-act-heads-to-trumps-desk-after-house-vote/",
+          "category": "musique",
+          "published_at": "2026-09-21T18:33:17+00:00",
+          "summary": "The bill would add music to the tourism-promotion duties the Commerce Department already carries under the Visit America Act.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6029d83c818e",
+          "title": "Erica Campbell’s label sues distributor SRG/ILS Group, claiming it never sent a single royalty statement",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/erica-campbells-label-sues-distributor-srg-ils-group-claiming-it-never-sent-a-single-royalty-statement/",
+          "category": "ia",
+          "published_at": "2026-09-21T18:30:27+00:00",
+          "summary": "My Block Records is seeking damages in excess of USD $1 million, plus interest and legal fees, and has demanded a jury trial.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fc85c873887",
+          "title": "HYBE’s CEO and Musicow’s Chair named vice chairs of the Korea Venture Business Association",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybes-ceo-and-musicows-chair-named-vice-chairs-of-the-korea-venture-business-association/",
+          "category": "ia",
+          "published_at": "2026-09-21T18:30:10+00:00",
+          "summary": "KOVA said it expects HYBE's arrival as a vice chair company to widen the connections between the content industry and Korea's venture ecosystem.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92dc23602701",
+          "title": "T.J. Martell Foundation raises more than $3.2M at gala honoring Red Light Management’s Coran Capshaw – with Dave Matthews, Chris Stapleton, and Trey Anastasio performing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/t-j-martell-foundation-raises-more-than-3-2m-at-gala-honoring-red-light-managements-coran-capshaw-with-dave-matthews-chris-stapleton-and-trey-anastasio-performing/",
+          "category": "musique",
+          "published_at": "2026-09-21T16:57:05+00:00",
+          "summary": "The sold-out gala honored Red Light Management founder Coran Capshaw with its Lifetime Music Industry Award.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60b5a3dbb716",
+          "title": "Google combine Android, ChromeOS et Gemini pour les portables Googlebook",
+          "source": "Next INpact",
+          "url": "https://next.ink/257229/google-combine-android-chromeos-et-gemini-pour-les-portables-googlebook/",
+          "category": "ia",
+          "published_at": "2026-09-21T16:22:40+00:00",
+          "summary": "Après avoir échoué à imposer le Chromebook auprès du grand public – même si ces appareils restent populaires dans certains marchés comme celui de l&#8217;éducation –, Google remet donc une pièce dans la machine avec sa toute nouvelle famille Googlebook. Des portables fabriqués…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d93ddba556ed",
+          "title": "IA : le nouveau modèle Jev se veut le champion des « décisions typées »",
+          "source": "Next INpact",
+          "url": "https://next.ink/257219/ia-le-nouveau-modele-jev-se-veut-le-champion-des-decisions-typees/",
+          "category": "ia",
+          "published_at": "2026-09-21T15:41:35+00:00",
+          "summary": "La société TypeSafe AI a présenté il y a quelques jours un nouveau modèle d’IA. Baptisé Jev, il se propose de traiter certaines opérations bien plus rapidement que les LLM «&#160;traditionnels&#160;», pour beaucoup moins cher. La comparaison reste cependant délicate. L’annonce a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2fbf5e86b361",
+          "title": "L’IA est un défi environnemental pour la planète et une « opportunité pour la France »",
+          "source": "Next INpact",
+          "url": "https://next.ink/257111/lia-est-un-defi-environnemental-pour-la-planete-et-une-opportunite-pour-la-france/",
+          "category": "institutionnel",
+          "published_at": "2026-09-21T15:13:50+00:00",
+          "summary": "Pour réduire l’empreinte environnementale des IA (génératives), un rapport du Sénat préconise une IA « française ». Pas tant dans le sens souverain (et respectueux), mais dans le sens d&#8217;implantation des datacenters et de consommation des ressources, notamment d’électricité…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3a0f87573410",
           "title": "Warner/Paramount : les autorités américaines imposent une énorme condition qui peut tout changer",
@@ -112,6 +567,16 @@
           "category": "musique",
           "published_at": "2026-09-21T12:30:00+00:00",
           "summary": "We reported on startup Unit1 Studio when it launched in October 2025 with technology that could help artists turn themselves into digital avatars for concerts.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8bac7b66f7fb",
+          "title": "Sylvan Esso back on Spotify after boycott was ‘unsustainable’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/21/sylvain-esso-back-on-spotify-after-boycott-was-unsustainable/",
+          "category": "musique",
+          "published_at": "2026-09-21T12:30:00+00:00",
+          "summary": "Just under a year ago, US duo Sylvain Esso removed their music from Spotify in protest at then-CEO Daniel Ek’s investment in military-tech company Helsing.\nThe post is from Music Ally.",
           "summary_type": "extrait source"
         },
         {
