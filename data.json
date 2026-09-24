@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-09-23T13:41:05.847578+00:00",
+  "generated_at": "2026-09-24T13:33:25.016706+00:00",
   "days": [
+    {
+      "date": "2026-09-24",
+      "articles": [
+        {
+          "id": "c259a069310c",
+          "title": "The case for small catalogues – when 50 songs are better than 50 million (guest column)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/the-case-for-small-catalogues-when-50-songs-are-better-than-50-million-guest-column/",
+          "category": "musique",
+          "published_at": "2026-09-24T13:25:21+00:00",
+          "summary": "Guest column: Music Ally publishes guest columns voicing the opinions of notable authors, or advancing specific perspectives on important issues. These are chosen at the Editorial team’s discretion, are not [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5d3e79f908a",
+          "title": "India is adding more ‘Superstar’ artists on Chartmetric than any other country",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/india-is-adding-more-superstar-artists-on-chartmetric-than-any-other-country/",
+          "category": "musique",
+          "published_at": "2026-09-24T13:16:15+00:00",
+          "summary": "Data analytics platform Chartmetric has released The New Sound of Global Music, a report that examines how five of the world&#8217;s most dynamic music markets, Brazil, Mexico, India, Nigeria and [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aad85fd1f021",
+          "title": "Amazon brade l’un des tout premiers Lego Pokémon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2264025-amazon-brade-lun-des-tout-premiers-lego-pokemon.html",
+          "category": "ia",
+          "published_at": "2026-09-24T13:12:35+00:00",
+          "summary": "[Deal du jour] En février 2026, Lego lançait ses premiers sets Pokémon, dont un Évoli à construire. Sept mois plus tard, Amazon ramène son prix à 35,99 €, soit 24 € de moins qu’à sa sortie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8de4f3f2e30d",
+          "title": "Dis Next, c’est quoi un paquet reproductible ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/257754/dis-next-cest-quoi-un-paquet-reproductible/",
+          "category": "ia",
+          "published_at": "2026-09-24T13:03:13+00:00",
+          "summary": "Dans le domaine du libre, particulièrement des distributions Linux, la notion de «&#160;paquets reproductibles&#160;» est souvent présente. De quoi parle-t-on ? À quoi ça sert ? Quels sont les avantages, les limites ? On vous explique, en toute simplicité. Vous venez d’installer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89b5340c593f",
+          "title": "Spotify’s ‘Reserved’ Concert Ticket Feature Now Includes Setlists, Share Cards & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/spotify-concert-ticket-feature-reserved-setlists/",
+          "category": "musique",
+          "published_at": "2026-09-24T13:00:00+00:00",
+          "summary": "The initiative, which began rolling out over the summer, sets aside a pair of concert tickets for Premium users deemed to be dedicated fans.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9344ac6ace33",
+          "title": "La fusée géante Starship est assemblée et prête pour son premier vol orbital, et attend le « go » final",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2339581-la-fusee-geante-starship-est-assemblee-et-prete-pour-son-premier-vol-orbital-et-attend-le-go-final.html",
+          "category": "ia",
+          "published_at": "2026-09-24T12:48:38+00:00",
+          "summary": "SpaceX a posé son vaisseau Starship sur le propulseur Super Heavy dans la nuit de mardi à mercredi au Texas. La fusée de 124 mètres de haut est désormais pratiquement prête pour son premier vol orbital, prévu au plus tôt le lundi 28 septembre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "559573f5c4b0",
+          "title": "Elon Musk chez Paramount-Warner ? Le projet fou qui fait trembler Hollywood",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2339385-elon-musk-au-capital-de-paramount-le-projet-financier-qui-fait-trembler-hollywood.html",
+          "category": "ia",
+          "published_at": "2026-09-24T12:40:00+00:00",
+          "summary": "Alors que David Ellison, CEO de Paramount, cherche de l'argent frais pour boucler le rachat de Warner Bros. Discovery, son groupe envisage de faire entrer Elon Musk au capital.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d0a934ec493",
+          "title": "Spotify is first music service to connect to Meta Muse AI agent",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/spotify-is-first-music-service-to-connect-to-meta-muse-ai-agent/",
+          "category": "musique",
+          "published_at": "2026-09-24T12:30:00+00:00",
+          "summary": "Fresh from adding Ticketmaster as the first music-related ‘connector’ for its new Muse AI agent, Meta has now bagged its first streaming service: Spotify.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abf81bb292d9",
+          "title": "Sony Music group joins ‘responsible AI’ policy coalition Ariam",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/sony-music-group-joins-responsible-ai-policy-coalition-ariam/",
+          "category": "musique",
+          "published_at": "2026-09-24T12:30:00+00:00",
+          "summary": "Ariam? It’s new to us, but that’s no surprise: the Alliance for Responsible Innovation in the Arts &#038; Media didn’t have any music-industry members until this week.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8263eb151c6e",
+          "title": "Country streams on Spotify have more than doubled since 2020",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/country-streams-on-spotify-have-more-than-doubled-since-2020/",
+          "category": "musique",
+          "published_at": "2026-09-24T12:30:00+00:00",
+          "summary": "It’s no secret that country music has been having a surge globally in recent years, but now Spotify has provided some stats for the genre’s growth on its platform.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e46a32ce36b7",
+          "title": "AI roundup: Landr talks fraud while Qobuz tags GenAI tracks",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/ai-roundup-landr-talks-fraud-while-qobuz-tags-genai-tracks/",
+          "category": "musique",
+          "published_at": "2026-09-24T12:30:00+00:00",
+          "summary": "Landr started life as an AI-mastering tool, but has since expanded into other areas including distribution. That puts it on the front line of pressure to spot and clamp down on streaming fraud if any of its clients try their luck.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2154250103e",
+          "title": "Indies update: Partisan x OTM Music, Ace Records’ Proper deal",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/indies-update-partisan-x-otm-music-ace-records-proper-deal/",
+          "category": "musique",
+          "published_at": "2026-09-24T12:30:00+00:00",
+          "summary": "Independent label Partisan Music is expanding its publishing business through a merger with OTM Music. Partisan has bought out Firebird Music Holdings’ stake in OTM as part of the deal.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4df521cab448",
+          "title": "Madison Beer is Fortnite’s latest icon – including her own cup",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/madison-beer-is-fortnites-latest-icon-including-her-own-cup/",
+          "category": "musique",
+          "published_at": "2026-09-24T12:30:00+00:00",
+          "summary": "Epic Games has revealed that pop artist Madison Beer is the latest ‘icon’ for Fortnite, with a range of branded virtual items debuting in its in-game store later today (24 September).\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2960f049b844",
+          "title": "Chartmetric’s new Top 50 charts track streaming AND socials",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/chartmetrics-new-top-50-charts-track-streaming-and-socials/",
+          "category": "musique",
+          "published_at": "2026-09-24T12:30:00+00:00",
+          "summary": "Analytics platform Chartmetric has always ranked artists, but now it’s launching two public-facing daily charts of the top 50 artists and tracks globally – based on its metrics.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f4edb3551b86",
+          "title": "Karan Aujla previews EP artwork at a one-day pop-up exhibition in New Delhi",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/karan-aujla-previews-ep-artwork-at-a-one-day-pop-up-exhibition-in-new-delhi/",
+          "category": "musique",
+          "published_at": "2026-09-24T12:05:30+00:00",
+          "summary": "New Delhi is Karan Aujla’s top city on both Spotify and YouTube, and it’s also where he drew his largest concert audience to date. Over 75,000 people attended the Canadian-Punjabi [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "411d6eb7eec4",
+          "title": "Talent management agency Cornerstone launches music vertical",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/talent-management-agency-cornerstone-launches-music-vertical/",
+          "category": "ia",
+          "published_at": "2026-09-24T12:00:47+00:00",
+          "summary": "Indian sports and entertainment talent management agency Cornerstone has started a new music vertical, with an initial roster of two hip-hop acts, Raja Kumari and Quake, who primarily rap in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29b97b55efc8",
+          "title": "Ordre du jour de la séance plénière du 24 septembre 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-24-septembre-2026",
+          "category": "institutionnel",
+          "published_at": "2026-09-24T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 24 septembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87e206cb9201",
+          "title": "Clôture de l’injonction prononcée à l’encontre de la société SOLOCAL MARKETING SERVICES",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/cloture-injonction-solocal-marketing-services",
+          "category": "cnil",
+          "published_at": "2026-09-24T12:00:00+00:00",
+          "summary": "Par délibération du 17 septembre 2026, la CNIL a clôturé l’injonction prononcée le 15&amp;nbsp;mai 2025 à l’encontre de la société SOLOCAL MARKETING SERVICES.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b9d932561cf",
+          "title": "YouTube reveals new music features, Coachella extension and more",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/youtube-reveals-new-music-features-coachella-extension-and-more/",
+          "category": "musique",
+          "published_at": "2026-09-24T11:30:00+00:00",
+          "summary": "Last night saw YouTube hold its ‘Made on YouTube’ event, announcing its latest features, business partnerships and tools for creators. There were plenty of points of interest for artists and the music industry, too.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02e144fb7b2b",
+          "title": "☕️ Ubuntu : un noyau toutes les deux semaines pour suivre la cadence des correctifs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ubuntu-un-noyau-toutes-les-deux-semaines-pour-suivre-la-cadence-des-correctifs/",
+          "category": "ia",
+          "published_at": "2026-09-24T11:12:00+00:00",
+          "summary": "Dans le schéma actuel d’Ubuntu, estampillé «&#160;4/2&#160;», les nouveaux noyaux sont fournis toutes les quatre semaines. C’est le cycle stable classique, en place depuis 2023. À mi-chemin, donc deux semaines après la dernière publication ordinaire, il peut y avoir une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9225634a762",
+          "title": "Partisan acquires Firebird’s interest in indie pubco OTM Music, merges it with its Left Music publishing arm",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/partisan-acquires-firebirds-interest-in-indie-pubco-otm-music-merges-it-with-its-left-music-publishing-arm/",
+          "category": "musique",
+          "published_at": "2026-09-24T10:55:40+00:00",
+          "summary": "As part of the merger, OTM will incorporate the team and roster of Left Music, the publishing company Partisan set up with Craig Michie in 2022.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e9802e333d9",
+          "title": "Avec Muse, Meta est en train de réussir sa remontada face à OpenAI et Anthropic",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2339225-avec-muse-meta-est-en-train-de-reussir-sa-remontada-face-a-openai-et-anthropic.html",
+          "category": "ia",
+          "published_at": "2026-09-24T10:35:00+00:00",
+          "summary": "Lancé le 8 septembre 2026 aux États-Unis, Muse est un agent IA façon OpenClaw, mais en beaucoup plus simple à configurer. Muse n'est pas qu'un chatbot, il peut remplir des formulaires, surveiller des boîtes mail, commander des courses ou prendre des rendez-vous en téléphonant à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f99b0ddab13",
+          "title": "Une station au sol de Starlink servant de relais à l’Ukraine incendiée en Pologne, la piste d’un sabotage russe évoquée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2339413-une-station-au-sol-de-starlink-servant-de-relais-a-lukraine-incendiee-en-pologne-la-piste-dun-sabotage-russe-evoquee.html",
+          "category": "ia",
+          "published_at": "2026-09-24T10:20:06+00:00",
+          "summary": "Un incendie a endommagé ce mercredi 23 septembre au soir la station au sol de Starlink à Wola Krobowska. Cette installation relaie Internet par satellite vers l'Europe centrale et l'Ukraine. La piste d’un incendie volontaire se renforce, tandis que le vice-Premier ministre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d8f1e458c7d",
+          "title": "Après l’annonce des AirPods 5 par Apple, Cdiscount déstocke les AirPods 4 avec ANC",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2339417-apres-lannonce-des-airpods-5-par-apple-cdiscount-destocke-les-airpods-4-avec-anc.html",
+          "category": "ia",
+          "published_at": "2026-09-24T10:05:47+00:00",
+          "summary": "[Deal du jour] À peine les AirPods 5 annoncés, les AirPods 4 avec réduction active du bruit voient leur prix fondre chez Cdiscount. Avec un code promo, les écouteurs sans fil d’Apple passent sous les 125 €, contre 199 € à leur lancement en 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea623e83455e",
+          "title": "Questionnaire sur l’Australie, site gouvernemental infiltré, mail générique : ce que l’on sait de la nouvelle dérive agentique d’OpenAI",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2339277-questionnaire-sur-laustralie-site-gouvernemental-infiltre-mail-generique-ce-que-lon-sait-de-la-nouvelle-derive-agentique-dopenai.html",
+          "category": "ia",
+          "published_at": "2026-09-24T09:35:32+00:00",
+          "summary": "Un agent d'IA d'OpenAI a accédé sans autorisation à un portail de statistiques lié à Medicare, l'assurance maladie australienne. Le Premier ministre Anthony Albanese vient de rendre l'affaire publique et dénonce la façon dont l'entreprise l'a prévenu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1dd7ebe99278",
+          "title": "Ex-AFA CEO Olly Arkins Appointed Deputy Lord Mayor of Sydney",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ex-afa-ceo-olly-arkins-voted-deputy-lord-mayor-sydney/",
+          "category": "musique",
+          "published_at": "2026-09-24T09:31:22+00:00",
+          "summary": "“I’m ready to get to work on making Sydney a city that’s easy and enjoyable to live in, and one people around the world are desperate to visit,\" Arkins remarks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48b08168b292",
+          "title": "On a trouvé un vélo électrique bradé à moins de 930 € chez Lidl grâce à deux promos cumulées",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/1984369-on-a-trouve-un-velo-electrique-brade-a-moins-de-930-e-chez-lidl-grace-a-deux-promos-cumulees.html",
+          "category": "ia",
+          "published_at": "2026-09-24T09:30:34+00:00",
+          "summary": "[Deal du jour] Un vélo électrique pour aller travailler ou faire ses courses sans dépenser quatre chiffres, c’est encore possible chez Lidl en ce moment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f14639e5be0",
+          "title": "☕️ arXiv annonce 17 millions de dollars de financement venant de fondations et de XTX Markets",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/arxiv-annonce-17-millions-de-dollars-de-financement-venant-de-fondations-et-de-xtx-markets/",
+          "category": "ia",
+          "published_at": "2026-09-24T09:29:45+00:00",
+          "summary": "En mars dernier, la plateforme de prépublication d&#8217;articles scientifiques arXiv avait annoncé devenir une « organisation indépendante à but non lucratif », avec son CEO et son propre budget. Elle vient d&#8217;officialiser un financement total de 17,2 millions de dollars…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3411851a182b",
+          "title": "Qualcomm promet le support Linux pour ses puces Snapdragon X2, une préversion disponible",
+          "source": "Next INpact",
+          "url": "https://next.ink/258075/qualcomm-promet-le-support-linux-pour-ses-puces-snapdragon-x2-une-preversion-disponible/",
+          "category": "ia",
+          "published_at": "2026-09-24T09:11:46+00:00",
+          "summary": "En plus des annonces autour de ses produits, Qualcomm a annoncé des progrès à venir sur la prise en charge de ses puces Snapdragon X2 par Linux. Le constructeur l’assure, le support de Linux fait désormais partie de ses plans, avec des étapes majeures au cours des prochains…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b47b3166ea2c",
+          "title": "Bientôt une catastrophe en orbite ? L’Europe est très pessimiste car l’atmosphère se remplit trop vite de satellites",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2339253-bientot-une-catastrophe-en-orbite-leurope-est-tres-pessimiste-car-latmosphere-se-remplit-trop-vite-de-satellites.html",
+          "category": "ia",
+          "published_at": "2026-09-24T09:07:33+00:00",
+          "summary": "Alors que les projets de constellations de satellites se multiplient et se concrétisent, le rapport annuel de l'Agence spatiale européenne, publié le 14 septembre, s'inquiète de l'explosion du nombre d'objets en orbite. La surpopulation orbitale pourrait entraver les activités…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1407bb90790",
+          "title": "Meta dévoile un « Tamagotchi » pour emporter Muse (son IA) partout avec vous",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2339199-meta-devoile-un-tamagotchi-pour-emporter-muse-son-ia-partout-avec-vous.html",
+          "category": "ia",
+          "published_at": "2026-09-24T08:47:35+00:00",
+          "summary": "Le 23 septembre 2026, Meta a présenté le Muse Charm, un petit appareil pour discuter avec son assistant IA. Derrière son allure de Tamagotchi, une bataille se dessine : celle des objets qui pourraient nous faire moins sortir notre smartphone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a712605b712b",
+          "title": "Forza Horizon 6 est maintenant accusé de ne pas respecter la culture japonaise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2339187-forza-horizon-6-est-maintenant-accuse-de-ne-pas-respecter-la-culture-japonaise.html",
+          "category": "ia",
+          "published_at": "2026-09-24T08:45:00+00:00",
+          "summary": "Vous vous souvenez quand Forza Horizon 6 était plébiscité pour son respect de la culture japonaise ? Plusieurs créateurs japonais de voitures décorées font désormais l'objet de bannissements.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18d723863a0e",
+          "title": "Des drones russes lancés contre la France depuis la mer ? La CIA aurait alerté l’Europe d’une future attaque hybride",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2339197-des-drones-russes-lances-contre-la-france-depuis-la-mer-la-cia-aurait-alerte-leurope-dune-future-attaque-hybride.html",
+          "category": "ia",
+          "published_at": "2026-09-24T08:43:00+00:00",
+          "summary": "Les renseignements américains auraient prévenu l'Espagne, la France et l'Italie d'une possible opération russe menée avec des drones lancés depuis des navires marchands.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aed78105703c",
+          "title": "GAC arrive en France et veut éviter les erreurs des autres marques chinoises, vraiment ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2339259-gac-arrive-en-france-et-veut-eviter-les-erreurs-des-autres-marques-chinoises-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-09-24T08:35:00+00:00",
+          "summary": "Le géant chinois GAC vient à son tour de se lancer en France. La marque a dévoilé une stratégie claire pour les prochaines années, en débutant par deux véhicules électriques. Est-ce suffisant pour faire la différence ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fd1c9894680",
+          "title": "☕️ Schneider Electric lance une OPA sur Shelly et ses capteurs connectés",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/schneider-electric-lance-une-opa-sur-shelly-et-ses-capteurs-connectes/",
+          "category": "ia",
+          "published_at": "2026-09-24T08:31:00+00:00",
+          "summary": "L&#8217;entreprise bulgare Shelly, bien connue des amateurs de domotique pour ses capteurs et interrupteurs connectés, devrait passer sous pavillon français. L&#8217;industriel Schneider Electric vient en effet d&#8217;annoncer (PDF) une offre publique d&#8217;achat (OPA)…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "006947d1e92f",
+          "title": "Steven Spielberg et Chris Columbus vont bien faire Gremlins 3… mais il y a un problème",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2339229-steven-spielberg-et-chris-columbus-vont-bien-faire-gremlins-3-mais-il-y-a-un-probleme.html",
+          "category": "ia",
+          "published_at": "2026-09-24T08:28:51+00:00",
+          "summary": "Le retour de la franchise culte, réalisé par Chris Columbus avec Steven Spielberg à la production, reste au programme, mais Warner Bros. repousse Gremlins 3 de près d'un an, au 6 octobre 2028 aux États-Unis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b5abfeab78e",
+          "title": "☕️ Internet Explorer n’est pas tout à fait mort, mais Microsoft prépare la fin",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/internet-explorer-nest-pas-tout-a-fait-mort-mais-microsoft-prepare-la-fin/",
+          "category": "ia",
+          "published_at": "2026-09-24T08:07:00+00:00",
+          "summary": "Internet Explorer, c&#8217;est comme le pansement du capitaine Haddock : on croit s&#8217;en être débarrassé, et puis finalement il est toujours là, collé au bout du doigt. Depuis belle lurette (juin 2022, pour être précis), Microsoft n&#8217;assure plus aucun support…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "facb67930e11",
+          "title": "Nouvelles extensions Internet : 1 616 demandes payées, joyeux Hunger Games à tous",
+          "source": "Next INpact",
+          "url": "https://next.ink/258018/nouvelles-extensions-internet-1-616-demandes-payees-joyeux-hunger-games-a-tous/",
+          "category": "ia",
+          "published_at": "2026-09-24T07:43:00+00:00",
+          "summary": "L’ICANN vient de confirmer que 1 616 demandes ont été payées pour de nouvelles extensions de premier niveau sur Internet. La liste n’est pas encore connue, mais devrait l’être dans les prochaines semaines, ce qui permettra de savoir quelles sont les extensions demandées…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78df1365c69b",
+          "title": "Eau, électricité : la consommation de 770 datacenters en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/257795/eau-electricite-la-consommation-de-770-datacenters-en-europe/",
+          "category": "institutionnel",
+          "published_at": "2026-09-24T07:09:00+00:00",
+          "summary": "La Commission européenne propose un bilan des indicateurs environnementaux des datacenters en Europe… Du moins des 36 % qui ont répondu au questionnaire, pourtant obligatoire. On y trouve de fortes disparités suivant les pays, notamment en Belgique… où Google pourrait peser très…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c2db68ebcad",
+          "title": "The Strokes Set 2027 Tour of Australia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/the-strokes-2027-tour-australia-1236346119/",
+          "category": "ia",
+          "published_at": "2026-09-24T06:46:28+00:00",
+          "summary": "The U.S. rockers will embark on a three-city, four-date east coast tour of Australia early next year in support of \"Reality Awaits.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d8a36458ba4",
+          "title": "Triche dans les jeux vidéo : un business qui pèse des milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/257993/triche-dans-les-jeux-video-un-business-qui-pese-des-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-09-24T06:26:13+00:00",
+          "summary": "Les tricheurs pourrissent la vie des joueurs honnêtes et rapportent gros à tout un écosystème opaque. Deux études mises en lumière par l&#8217;Agence française pour le jeu vidéo permettent d&#8217;évaluer à la louche la valeur générée par cette nébuleuse du cheat. Dans les jeux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4990b15da8e2",
+          "title": "☕️ France Travail publie sa plateforme dédiée aux métiers du numérique",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/france-travail-publie-sa-plateforme-dediee-aux-metiers-du-numerique/",
+          "category": "ia",
+          "published_at": "2026-09-24T06:01:00+00:00",
+          "summary": "Trouver un emploi dans le numérique via France Travail, c’est désormais possible, et même fléché. Ce 21 septembre, l’établissement public mettait en ligne sa plateforme numerique.francetravail.fr, dédiée à informer et centraliser les ressources sur les emplois de l’industrie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be60d86cb666",
+          "title": "VR Glasses, nouvelle tentative de Meta pour la réalité virtuelle",
+          "source": "Next INpact",
+          "url": "https://next.ink/258000/vr-glasses-nouvelle-tentative-de-meta-pour-la-realite-virtuelle/",
+          "category": "ia",
+          "published_at": "2026-09-24T05:31:00+00:00",
+          "summary": "Contre toute attente, Meta n&#8217;en a pas terminé avec le métavers. Mais pas question cette fois de vendre le rêve (ou le cauchemar) d&#8217;une deuxième vie dans des mondes virtuels. Les VR Glasses sont des lunettes de réalité virtuelle pour regarder la télé, travailler et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c8ac0ecf110",
+          "title": "‘KPop Demon Hunters’ Has Led Billboard’s Top Soundtracks Chart for 61 Weeks: Only One Soundtrack Has Led Longer (Full List)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
+          "category": "musique",
+          "published_at": "2026-09-24T03:35:00+00:00",
+          "summary": "Will the K-pop megahit take the lead? We'll soon see.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "articles": [
+        {
+          "id": "97b331756047",
+          "title": "‘As an industry, we’ve confused  followers with community.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ian-montone-manager-of-jack-white-vampire-weekend-lcd-soundsystem-as-an-industry-weve-confused-followers-with-community/",
+          "category": "ia",
+          "published_at": "2026-09-23T18:13:35+00:00",
+          "summary": "Monotone founder Ian Montone – manager of Jack White, Vampire Weekend, LCD Soundsystem, and more – on the flattening of culture, the catalog gold rush, the impact of AI, and what humankind is actually searching for...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d7817833bac",
+          "title": "Operation LUMEN targets 317 music piracy sites reaching 5.4 million visitors across Latin America",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/operation-lumen-targets-317-music-piracy-sites-reaching-5-4-million-visitors-across-latin-america/",
+          "category": "musique",
+          "published_at": "2026-09-23T16:55:04+00:00",
+          "summary": "IFPI says the operation brings together authorities from Peru, Paraguay, Brazil, the Dominican Republic, and Ecuador\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af48a03ce9da",
+          "title": "L’agent Muse de Meta s’appuie sur des humains pour sa fonction d’appels téléphoniques",
+          "source": "Next INpact",
+          "url": "https://next.ink/257880/lagent-muse-de-meta-appuie-sur-des-humains-sa-fonction-en-beta-dappels-telephoniques/",
+          "category": "ia",
+          "published_at": "2026-09-23T15:42:00+00:00",
+          "summary": "L&#8217;agent IA de Meta qui propose aux internautes de faire leurs emplettes et de prendre leur rendez-vous à leur place est grandement inspiré d&#8217;OpenClaw, avoue l&#8217;un des responsables de l&#8217;entreprise. Mais la fonction d&#8217;appels ajoutée le 17 septembre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09db36210502",
+          "title": "Deux Snapdragon 8 Elite Gen 6 pour faire tourner l’IA sans saturer la mémoire",
+          "source": "Next INpact",
+          "url": "https://next.ink/257932/deux-snapdragon-8-elite-gen-6-pour-faire-tourner-lia-sans-saturer-la-memoire/",
+          "category": "ia",
+          "published_at": "2026-09-23T15:17:00+00:00",
+          "summary": "Qualcomm a dévoilé la puce annuelle des futurs smartphones Android haut de gamme. Elle se décline en deux versions : Snapdragon 8 Elite Gen 6 et une version Extreme. Les deux SoC mettent l&#8217;accent sur le traitement IA en local, et signe des temps, sur l&#8217;optimisation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f7a20559f3db",
+          "title": "Robert Palmer estate strikes deal with Primary Wave covering publishing and recording catalogs, plus name, image & likeness rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/robert-palmer-estate-strikes-deal-with-primary-wave-covering-publishing-and-recording-catalogs-plus-name-image-likeness-rights/",
+          "category": "musique",
+          "published_at": "2026-09-23T15:03:25+00:00",
+          "summary": "Palmer recorded 14 studio albums and three live albums\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4842f9c488c7",
+          "title": "YouTube extends exclusive Coachella livestream deal with Goldenvoice through 2030",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/coachella-stays-exclusive-to-youtube-through-2030-as-goldenvoice-renews-livestream-deal/",
+          "category": "musique",
+          "published_at": "2026-09-23T14:30:31+00:00",
+          "summary": "Alphabet-owned platform and festival promoter Goldenvoice have renewed their exclusive livestream and content partnership\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4fff81c4eaf3",
+          "title": "« Les IA n’ont ni droits, ni sentiments, ni conscience », plaide le patron de Microsoft AI",
+          "source": "Next INpact",
+          "url": "https://next.ink/257097/les-ia-nont-ni-droits-ni-sentiments-ni-conscience-plaide-le-patron-de-microsoft-ai/",
+          "category": "ia",
+          "published_at": "2026-09-23T13:58:05+00:00",
+          "summary": "Le choix fait par Anthropic d&#8217;entraîner son robot conversationnel Claude de façon anthropomorphique en s&#8217;attachant au « bien-être » du modèle de langage, en lui imputant la possibilité d&#8217;avoir des « émotions », lui prêtant une «&#160;conscience&#160;» éthique…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c6591e1a6399",
           "title": "Taylor Swift Announces ‘The Life of a Showgirl: The Encore’ Album Featuring Newly Recorded Tracks",
@@ -72,6 +587,16 @@
           "category": "musique",
           "published_at": "2026-09-23T13:00:22+00:00",
           "summary": "It is the first music company to join the group, which launched in June 2026 with members drawn from film, TV, journalism and more.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac7d5ae431a5",
+          "title": "The US and UK’s share of the world’s ‘Superstar’ artists has fallen from 55.7% to 40.7% since 2021, shows Chartmetric data",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-uk-share-of-worlds-superstar-artists-has-fallen-from-55-7-to-40-7-since-2021-chartmetric-data/",
+          "category": "musique",
+          "published_at": "2026-09-23T13:00:18+00:00",
+          "summary": "Figures come from Global Music Pulse, a new report from Chartmetric, which tracks 14m artists across streaming and social services\nSource",
           "summary_type": "extrait source"
         },
         {
@@ -442,6 +967,16 @@
         {
           "id": "257448f2becf",
           "title": "Les pirates de ShinyHunters affirment détenir les données de milliers d’employés du FBI",
+          "source": "Next INpact",
+          "url": "https://next.ink/257640/les-pirates-de-shinyhunters-affirment-detenir-les-donnees-de-milliers-demployes-du-fbi/",
+          "category": "ia",
+          "published_at": "2026-09-22T19:16:13+00:00",
+          "summary": "Le FBI a été visé par une attaque de ShinyHunters. Le groupe de pirates serait en possession de données concernant des milliers d&#8217;employés de l&#8217;Agence fédérale. Parmi les informations volées : noms, adresses, numéros de téléphone et des données sur la famille des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "801a200e2a3e",
+          "title": "[màj] Les pirates de ShinyHunters affirment détenir les données de milliers d’employés du FBI",
           "source": "Next INpact",
           "url": "https://next.ink/257640/les-pirates-de-shinyhunters-affirment-detenir-les-donnees-de-milliers-demployes-du-fbi/",
           "category": "ia",
