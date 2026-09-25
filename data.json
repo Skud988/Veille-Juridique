@@ -1,9 +1,624 @@
 {
-  "generated_at": "2026-09-24T13:33:25.016706+00:00",
+  "generated_at": "2026-09-25T13:47:37.529964+00:00",
   "days": [
+    {
+      "date": "2026-09-25",
+      "articles": [
+        {
+          "id": "d554a7b45a7b",
+          "title": "Des agents IA d’OpenAI ont tenté de pirater deux sites gouvernementaux australiens",
+          "source": "Next INpact",
+          "url": "https://next.ink/258303/des-agents-ia-dopenai-ont-tente-de-pirater-deux-sites-gouvernementaux-australiens/",
+          "category": "ia",
+          "published_at": "2026-09-25T13:44:00+00:00",
+          "summary": "Quatre nouveaux incidents impliquent des agents IA d&#8217;OpenAI. Ils ont tenté, en vain, d&#8217;exploiter des failles de sécurité et de pirater des sites web (dont deux sites de statistiques du ministère de la Santé australien), alors qu&#8217;ils effectuaient des tâches…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68fb779a8e0e",
+          "title": "Elton John to Perform Surprise Show to Open London’s Apple Music Hall: See Opening Season Lineup",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/elton-john-apple-music-hall-opening-season-lineup-1236347425/",
+          "category": "musique",
+          "published_at": "2026-09-25T13:40:00+00:00",
+          "summary": "John's will christen the new London venue with a performance on Monday (Sept. 28) followed by shows from Charli xcx, Burna Boy &#38; more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3488479f672",
+          "title": "Elton John, Charli XCX and Burna Boy among first artists to play at Apple Music Hall",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/elton-john-charli-xcx-apple-music-hall/",
+          "category": "musique",
+          "published_at": "2026-09-25T13:40:00+00:00",
+          "summary": "Monday night&#8217;s alright for&#8230; lighting up Apple&#8217;s new music venue? Elton John will be the first artist to play Apple Music Hall in London.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad74cb11b541",
+          "title": "Latin music revenues grew by 8.6% in the US in the first half of 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/latin-music-revenues-grew-by-8-6-in-the-us-in-the-first-half-of-2026/",
+          "category": "musique",
+          "published_at": "2026-09-25T13:31:12+00:00",
+          "summary": "US labels body the RIAA has published its mid-year report on US Latin recorded-music revenues, and it shows healthy growth for the sector.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cb15bc0063a",
+          "title": "ASCAP names Jackson Wagener as Senior Vice President and Head of General Licensing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ascap-names-jackson-wagener-as-senior-vice-president-and-head-of-general-licensing/",
+          "category": "musique",
+          "published_at": "2026-09-25T13:25:56+00:00",
+          "summary": "He will oversee the team that licenses the organization's repertory of over 20 million musical works to restaurants, bars, fitness studios, live music venues, and other establishments that use music.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9294500f99ab",
+          "title": "BMG’s Jim Selby elected to ASCAP Board of Directors",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bmgs-jim-selby-elected-to-ascap-board-of-directors/",
+          "category": "ia",
+          "published_at": "2026-09-25T13:25:39+00:00",
+          "summary": "Selby has joined the board as a publisher member, ASCAP President and Chairman of the Board Paul Williams.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f0669aade50",
+          "title": "Man who pocketed $8m using AI songs and bot streams asks for no prison time, arguing ‘no artist suffered any perceptible harm’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/man-who-pocketed-8m-using-ai-songs-and-bot-streams-asks-for-no-prison-time-arguing-no-artist-suffered-any-perceptible-harm/",
+          "category": "musique",
+          "published_at": "2026-09-25T13:25:18+00:00",
+          "summary": "Michael Smith's lawyers argued that his scheme caused only \"tiny, immeasurable losses\" spread across millions of songwriters and artists, Billboard reported.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c75ca9515bca",
+          "title": "☕️ Le gestionnaire de tâches TMOG s’élance sur Windows et Linux",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-gestionnaire-de-taches-tmog-selance-sur-windows-et-linux/",
+          "category": "ia",
+          "published_at": "2026-09-25T13:21:39+00:00",
+          "summary": "En août, nous relevions la sortie d’un drôle d’oiseau : TMOG. Ce gestionnaire de tâches, semblable à ce que l’on peut trouver dans Windows 11, a été développé par Dave Plummer, ancien ingénieur chez Microsoft qui a notamment travaillé sur Windows NT 4.0. Surtout, il est l’auteur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c3bc6c824f3",
+          "title": "Cartes Pokémon 30ᵉ anniversaire : de nouveaux coffrets sont disponibles, voici où tenter votre chance",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2340671-cartes-pokemon-30%e1%b5%89-anniversaire-de-nouveaux-coffrets-sont-disponibles-voici-ou-tenter-votre-chance.html",
+          "category": "ia",
+          "published_at": "2026-09-25T13:20:45+00:00",
+          "summary": "Les premiers coffrets Pokémon des 30 ans vous ont échappé ? D’autres produits arrivent et les prochaines ventes se préparent. Voici les liens à surveiller pour tenter d’acheter les coffrets de la collection anniversaire, avec de premières invitations déjà ouvertes chez Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "462341a8eb1c",
+          "title": "1 338 kilomètres en une seule charge : Audi bat le record du monde d’autonomie, mais attention à la vitesse moyenne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2340459-1-338-kilometres-en-une-seule-charge-audi-bat-le-record-du-monde-dautonomie-mais-attention-a-la-vitesse-moyenne.html",
+          "category": "ia",
+          "published_at": "2026-09-25T13:15:00+00:00",
+          "summary": "Audi a annoncé qu'une A6 Sportback e-tron performance avait parcouru 1 338 kilomètres en Pologne avec une seule charge, un record homologué par le Guinness World Records. La berline efface ainsi les 1 205 kilomètres de la Lucid Air, qui tenaient depuis juillet 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "357b3cbed598",
+          "title": "Ryzen 7 9800X3D et RX 9070 XT : pourquoi le PC Gungnir de Cybertek mise sur le 100 % AMD [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2338857-ryzen-7-9800x3d-et-rx-9070-xt-pourquoi-le-pc-gungnir-de-cybertek-mise-sur-le-100-amd.html",
+          "category": "justice",
+          "published_at": "2026-09-25T13:15:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec Cybertek\n\nAvec la configuration Gungnir, Cybertek fait le choix d’une fiche technique unifiée autour de composants AMD. Une décision pragmatique qui vise à tirer pleinement parti des interactions poussées entre CPU, GPU et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08f9005cd7a2",
+          "title": "Latin Music Revenue Grows 8.6% to $542M at Mid-Year, Outpacing Overall U.S. Market: RIAA",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/latin-music-riaa-mid-year-report-revenue-rises/",
+          "category": "ia",
+          "published_at": "2026-09-25T13:15:00+00:00",
+          "summary": "This marks the genre's 13th consecutive mid-year gain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48ba947fc29d",
+          "title": "Le vrai test dans l’espace arrive : Google envoie ses premières puces IA en orbite à bord d’une fusée SpaceX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2340107-le-vrai-test-dans-lespace-arrive-google-envoie-ses-premieres-puces-ia-en-orbite-a-bord-dune-fusee-spacex.html",
+          "category": "ia",
+          "published_at": "2026-09-25T13:10:24+00:00",
+          "summary": "Google enverra quatre de ses puces d'intelligence artificielle en orbite le jeudi 1er octobre, à bord d'une fusée Falcon 9 de SpaceX. Il s'agit du premier test en conditions réelles de Project Suncatcher, son projet de data centers spatiaux présenté en novembre 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e18694a0ee4b",
+          "title": "Bébés gladiateurs et crapauds mutants : le retour complètement déjanté d’Adventure Time",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2340645-bebes-gladiateurs-et-crapauds-mutants-le-retour-completement-dejante-dadventure-time.html",
+          "category": "ia",
+          "published_at": "2026-09-25T13:05:21+00:00",
+          "summary": "Marre des reboots tièdes qui essorent la nostalgie jusqu'à la dernière goutte ? Finn et Jake reviennent le 2 octobre aux États-Unis pour une deuxième saison de Side Quests sur Disney+ et Hulu. En France, la première saison arrive le 5 octobre sur Cartoon Network et HBO Max, mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c0a81a42155",
+          "title": "Today Is Dolly Parton Day – It’s 9/25",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/today-is-dolly-parton-day-9-25-1236346775/",
+          "category": "ia",
+          "published_at": "2026-09-25T13:00:00+00:00",
+          "summary": "\"We could all afford to live a little more like Dolly,\" California Gov. Gavin Newsom said in announcing the passage of a bill declaring Sept. 25 Dolly Parton Day in the state.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b393f8a7cf16",
+          "title": "Hermanos Gutiérrez’s ‘Los Ojos Del Cóndor’ Album Is an Ode to South America’s Andes Mountains: ‘It Felt Like a Dedication to This Whole Region’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/hermanos-gutierrez-interview-los-ojos-del-condor-1236347148/",
+          "category": "musique",
+          "published_at": "2026-09-25T13:00:00+00:00",
+          "summary": "It marks the brothers’ third project produced by The Black Keys’ Dan Auerbach.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6d043f47ab7",
+          "title": "☕️ Ubuntu 26.10 : du retard pour la bêta et un « snapping » à la Windows 11",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ubuntu-26-10-du-retard-pour-la-beta-et-un-snapping-a-la-windows-11/",
+          "category": "ia",
+          "published_at": "2026-09-25T12:59:25+00:00",
+          "summary": "La bêta publique d’Ubuntu 26.10, alias Stonking Stingray, devait arriver le 24 septembre. Elle a finalement été reportée au 1ᵉʳ&#160;octobre, comme l’indique le développeur Matthieu Clemenceau de Canonical&#160;: «&#160;En raison de problèmes d’infrastructure imprévus, la bêta…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f751ae50d32",
+          "title": "Gnarls Barkley Clarify That Upcoming Reunion Tour Will Only Feature Danger Mouse ‘In Spirit’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/gnarls-barkley-clarify-reunion-tour-not-feature-danger-mouse-1236347444/",
+          "category": "ia",
+          "published_at": "2026-09-25T12:41:56+00:00",
+          "summary": "According to Cee Lo, the producer born Brian Burton will not appear on the upcoming dates.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4ad882087ab",
+          "title": "Macklemore: ‘Being apolitical during a genocide doesn’t work anymore’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/macklemore-being-apolitical-during-a-genocide-doesnt-work-anymore/",
+          "category": "musique",
+          "published_at": "2026-09-25T12:30:00+00:00",
+          "summary": "Having been removed from Ed Sheeran’s ‘Loop’ tour in the US, Macklemore found himself with some white space in his live schedule. He’s moved to fill that quickly.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb9ec7346343",
+          "title": "AI-assisted streaming fraudster hopes to avoid jail sentence",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/ai-assisted-streaming-fraudster-hopes-to-avoid-jail-sentence/",
+          "category": "musique",
+          "published_at": "2026-09-25T12:30:00+00:00",
+          "summary": "In March, American producer Michael Smith pleaded guilty to one count of conspiracy to commit wire fraud, following accusations that he had botted his way to more than $10m in royalties for his AI-generated music.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "450d796fc81f",
+          "title": "MCPS reveals plans to work with more ‘specialist partners’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/mcps-reveals-plans-to-work-with-more-specialist-partners/",
+          "category": "musique",
+          "published_at": "2026-09-25T12:30:00+00:00",
+          "summary": "The UK’s Mechanical Copyright Protection Society (MCPS) has historically had a close relationship with PRS for Music. Now it’s making some changes, with plans to start working “directly with an expanded network of specialist partners”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d73af54e8e59",
+          "title": "Spotify ‘Reserved’ feature adds setlists and share cards for fans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/spotify-reserved-feature-adds-setlists-and-share-cards-for-fans/",
+          "category": "musique",
+          "published_at": "2026-09-25T12:30:00+00:00",
+          "summary": "Spotify announced its new ’Reserved’ feature in May, with plans to identify the keenest fans of participating artists, then reserve them tickets for upcoming concerts.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f957bf38348",
+          "title": "Apple Music to livestream Head Trip electronic-music festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/apple-music-to-livestream-head-trip-electronic-music-festival/",
+          "category": "musique",
+          "published_at": "2026-09-25T12:30:00+00:00",
+          "summary": "You certainly can’t accuse promoter Goldenvoice of putting all its festival-livestream eggs in the same streaming service’s basket.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38180e230eec",
+          "title": "Premier match de Zidane : où voir le match Turquie-France en direct et en streaming ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2340403-premier-match-de-zidane-ou-voir-le-match-turquie-france-en-direct-et-en-streaming.html",
+          "category": "justice",
+          "published_at": "2026-09-25T12:01:00+00:00",
+          "summary": "Vendredi 25 septembre à 20h45, Zinédine Zidane dirigera pour la première fois l'équipe de France en tant que nouveau sélectionneur. Son premier match a lieu en Turquie pour la première journée de la Ligue des nations.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48d3d216d756",
+          "title": "Massive Nor’Easter Storm Cancels First Day of Ocean Calling Festival in Maryland",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/ocean-calling-festival-noreaster-storm-first-day-canceled-1236347430/",
+          "category": "ia",
+          "published_at": "2026-09-25T11:54:15+00:00",
+          "summary": "Sets by the Dave Matthews Band, Ludacris, O.A.R., Yellowcard, Shaggy and Liz Phair were wiped out due to predictions of strong winds and heavy rain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d11d771cfb59",
+          "title": "Avant de partir pour Vénus, la sonde DAVINCI a traversé l’enfer sur Terre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2340235-avant-de-partir-pour-venus-la-sonde-davinci-a-traverse-lenfer-sur-terre.html",
+          "category": "ia",
+          "published_at": "2026-09-25T11:32:00+00:00",
+          "summary": "Le vaisseau de la Nasa DAVINCI doit aller explorer l'atmosphère vénusienne, un environnement particulièrement hostile et dangereux. Pour s'y préparer, un modèle de la sonde a passé six cycles dans un four industriel chauffé jusqu'à 465 degrés Celsius. Il en est sorti indemne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae824937e403",
+          "title": "WikiMasters, le jeu qui voulait changer Wikipédia en cartes à collectionner",
+          "source": "Next INpact",
+          "url": "https://next.ink/258293/wikimasters-le-jeu-qui-voulait-changer-wikipedia-en-cartes-a-collectionner/",
+          "category": "ia",
+          "published_at": "2026-09-25T11:23:00+00:00",
+          "summary": "Lancé au printemps, le jeu WikiMasters a déclenché un phénomène viral sur le web francophone, jusqu&#8217;à attirer 215 000 utilisateurs quotidiens selon son créateur. Son principe, associé à des options payantes, est d&#8217;une efficacité redoutable : il transforme les fiches…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b091d5933448",
+          "title": "Music Venue Trust Teams Up With Drowned In Sound to Launch Live Music Title",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/music-venue-trust-shownotes-drowned-in-sound/",
+          "category": "musique",
+          "published_at": "2026-09-25T11:20:09+00:00",
+          "summary": "Shownotes will be distributed at grassroots and independent music titles across the U.K.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8dca6ca7acbf",
+          "title": "L’IA va-t-elle détruire Hollywood ? La réponse de la légende Katzenberg qui a relancé Disney et Pixar",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2340477-lia-va-t-elle-detruire-hollywood-la-reponse-de-la-legende-katzenberg-qui-a-relance-disney-et-pixar.html",
+          "category": "ia",
+          "published_at": "2026-09-25T11:05:00+00:00",
+          "summary": "Ce mercredi 23 septembre 2026, l'ancien patron des studios Disney et cofondateur de DreamWorks a publié un long essai sur X. Jeffrey Katzenberg y demande à Hollywood d'accepter l'IA générative et d'en négocier les conditions, et rappelle à la Silicon Valley qu'elle a besoin des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3bb49844fee",
+          "title": "Beyond Good & Evil 2 est toujours en vie et intègre un scénariste d’Assassin’s Creed Shadow",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2340325-beyond-good-evil-2-est-toujours-en-vie-et-integre-un-scenariste-dassassins-creed-shadow.html",
+          "category": "ia",
+          "published_at": "2026-09-25T10:45:00+00:00",
+          "summary": "Beyond Good &amp; Evil 2, c'est un peu comme la pluie un soir d'été : on voit les nuages, on voit les éclairs, on sent l'odeur, mais elle n'arrive jamais. Sauf que la pluie finit toujours par arriver, tôt ou tard. En fait, Beyond Good &amp; Evil 2 ne ressemble pas tant que ça à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc266164cd80",
+          "title": "World of Warcraft Forever : la prochaine quête légendaire a peut-être été dévoilée en partie avec le data mining de la bêta",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2340457-world-of-warcraft-forever-la-prochaine-quete-legendaire-a-peut-etre-ete-devoilee-en-partie-avec-le-data-mining-de-la-beta.html",
+          "category": "ia",
+          "published_at": "2026-09-25T10:31:00+00:00",
+          "summary": "Blizzard a promis une nouvelle suite de quêtes légendaire pour le printemps 2027 dans World of Warcraft: Forever, sans rien dire de son contenu. Ce mercredi 23 septembre, le site Wowhead a publié ce qu'il a trouvé dans les fichiers de la bêta.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8ed22b9471b",
+          "title": "Où payer son carburant moins cher ? Voici 5 applications gratuites pour économiser sur son plein",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1898780-carburant-moins-cher-les-meilleures-applications-gratuites-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-09-25T10:12:05+00:00",
+          "summary": "D’une station-service à l’autre, l’écart de prix peut représenter plusieurs euros sur un plein pendant cette période difficile. Ces cinq applications gratuites vous aident à comparer les tarifs autour de vous et à repérer les pompes les moins chères.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85052a6bec32",
+          "title": "STRATEGY SPOTLIGHT: Tools – SymphonyOS V2",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/strategy-spotlight-tools-symphonyos-v2/",
+          "category": "musique",
+          "published_at": "2026-09-25T10:09:48+00:00",
+          "summary": "SymphonyOS has launched SymphonyOS V2, its biggest update since launch. Billing itself as \"the agent company of music\", the platform has rebuilt its marketing suite around six specialised AI agents, each dedicated to a different part of an artist's career or a label's…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a60ef911d43d",
+          "title": "Le tout nouveau Xiaomi Redmi 17 5G avec son grand écran passe déjà sous les 220 euros",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2340425-le-tout-nouveau-xiaomi-redmi-17-5g-avec-son-grand-ecran-passe-deja-sous-les-220-euros.html",
+          "category": "ia",
+          "published_at": "2026-09-25T10:07:48+00:00",
+          "summary": "[Deal du jour] E.Leclerc fait passer le tout récent Xiaomi Redmi 17 5G de 249,90 € à 219,90 €. Avec son écran de 6,9 pouces et sa batterie de 7 500 mAh, ce smartphone vise ceux qui veulent s'équiper sans trop dépenser.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c0b49f28b385",
+          "title": "London Records partners with DJ Sophie Lloyd to reimagine parties",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/london-records-partners-with-dj-sophie-lloyd-to-reimagine-parties/",
+          "category": "musique",
+          "published_at": "2026-09-25T10:07:14+00:00",
+          "summary": "Catalogue campaigns usually need an excuse: a 25th anniversary, a deluxe box set, a viral TikTok moment. London Records' \"London Revisited\" has none of these. The label gave Glitterbox resident Sophie Lloyd free rein over its back catalogue, and she skipped the obvious hits in…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86058a617f5b",
+          "title": "Apple Music launches new profile features for artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/apple-music-launches-new-profile-features-for-artists/",
+          "category": "musique",
+          "published_at": "2026-09-25T10:04:29+00:00",
+          "summary": "Hot off the heels of its newly unveiled 600-capacity Apple Music Hall venue in London, Apple Music for Artists has just announced a series of new artist profile customisation features - coinciding with the public rollout of iOS 27. What’s new?\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3f145876cde",
+          "title": "Tokio Hotel launch anniversary podcast in 3 languages",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/tokio-hotel-launch-anniversary-podcast-in-3-languages/",
+          "category": "musique",
+          "published_at": "2026-09-25T10:02:24+00:00",
+          "summary": "The German band Tokio Hotel are set to release their new album Encore next month. To promote the record and celebrate 25 years of being a band, they just announced their first-ever band podcast sharing the album name. Twin brothers Bill and Tom Kaulitz (singer and guitarist…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "749d484d9c80",
+          "title": "La 2G s’éteint dans trois mois… mais il y a encore 1,7 million de cartes SIM actives",
+          "source": "Next INpact",
+          "url": "https://next.ink/258284/la-2g-seteint-dans-trois-mois-mais-il-y-a-encore-17-million-de-cartes-sim-actives/",
+          "category": "ia",
+          "published_at": "2026-09-25T10:02:00+00:00",
+          "summary": "Fin juin 2026, plus d’un million de cartes SIM 2G étaient encore actives dans des smartphones et des tablettes 2G compatibles 2G seulement. Il y en avait aussi plus de 600 000 pour des communications Machine to Machine. Problème, dans trois mois la 2G sera définitivement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a9289a05630",
+          "title": "Moins chères que Tesla : Lucid dévoile les tarifs français de la berline Air et du SUV Gravity",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2340137-moins-cheres-que-tesla-lucid-devoile-les-tarifs-francais-de-la-berline-air-et-du-suv-gravity.html",
+          "category": "justice",
+          "published_at": "2026-09-25T09:34:00+00:00",
+          "summary": "Lucid a publié ses prix français&nbsp;: la berline Air démarre à 86&nbsp;900 €, le SUV Gravity à 95&nbsp;900 €. La marque américaine arrive quelques mois après l'arrêt de production des Tesla Model S et Model X, ses rivales directes depuis ses débuts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b384724e8974",
+          "title": "From Top of the Australian Airplay Chart to the AFL Final: How G Flip Got Hot With ‘Bed On Fire’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/g-flip-got-hot-with-bed-on-fire/",
+          "category": "ia",
+          "published_at": "2026-09-25T09:25:11+00:00",
+          "summary": "“Bed On Fire” was ignited by a TV sync, and has claimed some prized scalps on the way to the top of the Australia's airplay chart -- where it has stayed for the past two months.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb56f7e873a4",
+          "title": "Plus de 200 prépublications en 2026 : un chercheur utilisant l’IA désespère ses collègues",
+          "source": "Next INpact",
+          "url": "https://next.ink/258093/plus-de-200-prepublications-en-2026-un-chercheur-utilisant-lia-desespere-ses-collegues/",
+          "category": "ia",
+          "published_at": "2026-09-25T09:18:00+00:00",
+          "summary": "Depuis le début de l&#8217;année, un statisticien de l&#8217;université de Chicago, Nicholas Polson, a mis en ligne plus de 200 prépublications. Assumant d&#8217;utiliser l&#8217;IA générative pour augmenter sa productivité, il soulève l&#8217;indignation de ses consœurs et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed3bbe3daafa",
+          "title": "FanFair Alliance and Viagogo clash over Manchester ticket listings",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/fanfair-alliance-and-viagogo-clash-over-manchester-ticket-listings/",
+          "category": "ia",
+          "published_at": "2026-09-25T09:16:26+00:00",
+          "summary": "Campaigning organisation the FanFair Alliance has published a report targeting Viagogo, on the eve of the Labour Party conference.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b286f98d3151",
+          "title": "On a vu la Nissan Pixo : l’alternative moderne à la Twingo pour ceux qui n’aiment pas le néo-rétro",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2340237-on-a-vu-la-nissan-pixo-lalternative-moderne-a-la-twingo-pour-ceux-qui-naiment-pas-le-neo-retro.html",
+          "category": "institutionnel",
+          "published_at": "2026-09-25T09:14:04+00:00",
+          "summary": "La Nissan Pixo partage sa base technique et une partie de sa carrosserie avec la Renault Twingo. Mais plutôt que de céder à la vague nostalgique qui déferle, la citadine japonaise opte pour une autre philosophie. Mission réussie&nbsp;?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5c8b6f99b92",
+          "title": "Zee Live to turn Sa Re Ga Ma Pa and Kerala Underground into concert series",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/25/zee-live-to-turn-sa-re-ga-ma-pa-and-kerala-underground-into-concert-series/",
+          "category": "musique",
+          "published_at": "2026-09-25T09:00:10+00:00",
+          "summary": "India’s longest-running reality TV singing talent competition series Sa Re Ga Ma Pa — not to be confused with the label Saregama — returned to screens last weekend. The show, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1995e4b2af0",
+          "title": "☕️ KeePass XC 2.8 va proposer le remplissage automatique sur les sessions Wayland",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/keepass-xc-2-8-va-proposer-le-remplissage-automatique-sur-les-sessions-wayland/",
+          "category": "ia",
+          "published_at": "2026-09-25T08:50:13+00:00",
+          "summary": "Le gestionnaire de mots de passe KeePass XC est une variante multiplateforme de KeePass, avec comme objectif une plus grande richesse fonctionnelle de base, sans passer par des plugins. La version 2.8, en préparation et dont une bêta vient de paraitre, s’annonce déjà comme une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "258cce488376",
+          "title": "« Ils se défendent plus et mieux » : l’IA générative s’invite dans les litiges en .fr",
+          "source": "Next INpact",
+          "url": "https://next.ink/258071/ils-se-defendent-plus-et-mieux-lia-generative-sinvite-dans-les-litiges-en-fr/",
+          "category": "ia",
+          "published_at": "2026-09-25T08:09:40+00:00",
+          "summary": "Depuis plusieurs années maintenant, l’Afnic (organisme en charge des noms de domaine en .fr) organise des rencontres juridiques. C’est l’occasion de faire le point sur les demandes de blocages, les abus et de parler d’un nouvel arrivant : l’IA générative. Next était présent.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1f52cd6bcfa",
+          "title": "Washington vole au secours de X face à son amende européenne",
+          "source": "Next INpact",
+          "url": "https://next.ink/258227/washington-vole-au-secours-de-x-face-a-son-amende-europeenne/",
+          "category": "ia",
+          "published_at": "2026-09-25T07:41:00+00:00",
+          "summary": "Elon Musk peut compter sur l&#8217;administration Trump, dont il est très proche, pour des coups de main. Le dernier en date concerne l&#8217;épineux dossier de l&#8217;amende de 120 millions d&#8217;euros infligée à X qui a enfreint le règlement sur les services numériques. Les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c9ab405bca9",
+          "title": "Beabadobee Blasts to No. 1 on ARIA Chart With ‘Pylon’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/beabadobee-no-1-aria-chart-pylon-1236347389/",
+          "category": "musique",
+          "published_at": "2026-09-25T07:37:00+00:00",
+          "summary": "\"Pylon\" is the Filipino-British singer and songwriter’s fourth studio album and first leader.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22e89943468f",
+          "title": "Mistral met GLM 5.3 par défaut dans Vibe Code et relance le procès en renoncement",
+          "source": "Next INpact",
+          "url": "https://next.ink/257689/mistral-met-glm-5-3-par-defaut-dans-vibe-code-et-relance-le-proces-en-renoncement/",
+          "category": "justice",
+          "published_at": "2026-09-25T07:07:00+00:00",
+          "summary": "Mistral AI intègre désormais le modèle d&#8217;origine chinoise GLM 5.3 à son assistant dédié au code, et annonce le proposer par défaut dans la version Web de ce dernier. La décision fait réagir de nombreux commentateurs, qui s&#8217;interrogent sur la stratégie à long terme de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27b3908e4ff9",
+          "title": "☕️ Les utilisateurs de lunettes Meta pourront refuser que leurs vidéos entraînent l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/les-utilisateurs-de-lunettes-meta-pourront-refuser-que-leurs-videos-entrainent-lia/",
+          "category": "ia",
+          "published_at": "2026-09-25T06:33:00+00:00",
+          "summary": "Les utilisateurs de lunettes Meta pourront refuser de partager des extraits vidéo enregistrés par leurs montures pour entraîner l&#8217;IA de l&#8217;entreprise. Les images ne seront plus, non plus, susceptibles d&#8217;être utilisées par des sous-traitants pour les annoter.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a8648dba14a",
+          "title": "Le prix de la mémoire complique vraiment l’achat de matériel informatique dans les labos",
+          "source": "Next INpact",
+          "url": "https://next.ink/258103/le-prix-de-la-memoire-complique-vraiment-lachat-de-materiel-informatique-dans-les-labos/",
+          "category": "ia",
+          "published_at": "2026-09-25T06:05:00+00:00",
+          "summary": "La course à l&#8217;IA générative a créé une pénurie de mémoire RAM et de stockage SSD et leurs prix se sont envolés. Conséquence : en respectant le code des marchés publics, l&#8217;enseignement supérieur et la recherche français peinent à acheter de nouveaux matériels…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e9a9d4e7146",
+          "title": "Calvin Harris’ 2027 Tour of Australia Is Already a Record-Smasher",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/calvin-harris-2027-tour-australia-record-smasher-1236347312/",
+          "category": "ia",
+          "published_at": "2026-09-25T05:54:38+00:00",
+          "summary": "The Scottish DJ's tour of Australia has sold more than 330,000 tickets, a national record for a headline DJ.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12a52608435c",
+          "title": "☕️ L’éditeur de Norton et Avast lorgne le géant des noms de domaine GoDaddy",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lediteur-de-norton-et-avast-lorgne-le-geant-des-noms-de-domaine-godaddy/",
+          "category": "ia",
+          "published_at": "2026-09-25T05:32:37+00:00",
+          "summary": "L&#8217;éditeur de Norton 360 veut explorer de nouveaux horizons, et ils sont plutôt inattendus : Gen Digital a formulé une offre préliminaire de rachat pour GoDaddy, le géant américain des noms de domaine. Deux métiers très différents donc, mais les deux entreprises sont…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-24",
       "articles": [
+        {
+          "id": "ef8e8101ce13",
+          "title": "LANDR expands AI fraud detection built with machine learning lab Mila – and says artificial streams flagged by Spotify for music it distributes fell 95% between Q1 2025 and Q2 2026",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/landr-expands-ai-fraud-detection-built-with-machine-learning-lab-mila-and-says-artificial-streams-flagged-by-spotify-for-music-it-distributes-fell-95-between-q1-2025-and-q2-2026/",
+          "category": "musique",
+          "published_at": "2026-09-24T15:44:52+00:00",
+          "summary": "Distribution and music creation platform expands streaming fraud detection system\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54e15e4b2400",
+          "title": "À l’ONU, les patrons de l’IA réclament une régulation mondiale",
+          "source": "Next INpact",
+          "url": "https://next.ink/258152/a-lonu-les-patrons-de-lia-reclament-une-regulation-mondiale/",
+          "category": "ia",
+          "published_at": "2026-09-24T15:36:28+00:00",
+          "summary": "Les modèles IA doivent être régulés au niveau international, ont plaidé Sam Altman et Dario Amodei devant le Conseil de sécurité de l&#8217;ONU, en marge de la semaine de l&#8217;Assemblée générale annuelle des Nations-Unies. Plusieurs dirigeants soutiennent la création d’un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f115304911fe",
+          "title": "Semiconducteurs : ASML ne vend aucune machine en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/258148/semiconducteurs-asml-ne-vend-aucune-machine-en-europe/",
+          "category": "ia",
+          "published_at": "2026-09-24T15:23:57+00:00",
+          "summary": "Frank Heemskerk, responsable des affaires publiques mondiales d&#8217;ASML, a déclaré que le groupe ne vend actuellement aucune machine en Europe, faute d&#8217;usines de semi-conducteurs en construction. Un constat que confirment les résultats trimestriels d&#8217;ASML, alors…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdfd2e9f5822",
+          "title": "Over 50% of a major streaming service’s tracks come from DistroKid – and other revelations from UMG’s lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/over-50-of-a-major-streaming-services-tracks-come-from-distrokid/",
+          "category": "justice",
+          "published_at": "2026-09-24T15:22:02+00:00",
+          "summary": "UMG's lawsuit accuses the DIY distributor of \"deceptive trade practices and blatant copyright infringement\", and of flooding streaming services with AI-generated \"slop.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "437b7784d293",
+          "title": "Spotify has set out how it works inside Muse, Meta’s personal AI agent",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-has-set-out-how-it-works-inside-muse-metas-personal-ai-agent/",
+          "category": "musique",
+          "published_at": "2026-09-24T14:31:15+00:00",
+          "summary": "Listeners who connect the two services can ask Muse to play audio, save songs, and build playlists on Spotify through a conversation with the agent.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07d2a4dc360f",
+          "title": "Spotify adds share cards, setlist playlists, and a new in-app destination to its Reserved ticketing feature",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-adds-share-cards-setlist-playlists-and-a-new-in-app-destination-to-its-reserved-ticketing-feature/",
+          "category": "musique",
+          "published_at": "2026-09-24T14:30:11+00:00",
+          "summary": "Ticket holders will get pre- and post-show setlist playlists and a single in-app destination for their Reserved content.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92e9a611c159",
+          "title": "Sam Smith and Normani must face a jury over Dancing with a Stranger as judge refuses to end copyright case",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sam-smith-and-normani-must-face-a-jury-over-dancing-with-a-stranger-as-judge-refuses-to-end-copyright-case/",
+          "category": "ia",
+          "published_at": "2026-09-24T14:29:41+00:00",
+          "summary": "The decision points the case toward a jury trial, four and a half years after it was filed by Sound and Color, LLC.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a46b4ae8d75",
+          "title": "THE SANDBOX GUIDE TO… Marketing trends of 2026 (so far)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/24/the-sandbox-guide-to-the-smartest-campaigns-so-far-in-2026/",
+          "category": "musique",
+          "published_at": "2026-09-24T14:00:00+00:00",
+          "summary": "Sandbox Guides&#160;are for music marketers: They explain how you can use new platforms, create new strategies, and build new audiences. The Guides feature cutting-edge case studies, expert interviews, benchmark data, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c259a069310c",
           "title": "The case for small catalogues – when 50 songs are better than 50 million (guest column)",
