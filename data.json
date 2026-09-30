@@ -1,6 +1,676 @@
 {
-  "generated_at": "2026-09-28T16:45:27.943083+00:00",
+  "generated_at": "2026-09-30T14:55:33.964526+00:00",
   "days": [
+    {
+      "date": "2026-09-30",
+      "articles": [
+        {
+          "id": "fa75337f7c56",
+          "title": "Oasis Sues to Block Auction of Unheard Recordings Held by Former Sound Engineer",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/oasis-sues-to-block-auction-of-unheard-recordings/",
+          "category": "ia",
+          "published_at": "2026-09-30T14:52:45+00:00",
+          "summary": "The recordings by Huw Richards hold more than 100 hours of rare Oasis material, reportedly including “unfiltered dialogue” between Noel and Liam Gallagher.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "adb1e4819b39",
+          "title": "Jeux vidéo : Bruxelles passe de la persuasion à l’action coordonnée sur les monnaies virtuelles",
+          "source": "Next INpact",
+          "url": "https://next.ink/259154/jeux-video-bruxelles-passe-de-la-persuasion-a-laction-coordonnee-sur-les-monnaies-virtuelles/",
+          "category": "ia",
+          "published_at": "2026-09-30T14:44:21+00:00",
+          "summary": "Placé sous l&#8217;égide de Bruxelles, le réseau européen des autorités nationales de protection des consommateurs lance une série d&#8217;actions coordonnées contre dix éditeurs de jeux vidéo dont Blizzard, Ubisoft, Riot et Supercell. Elles ciblent principalement les monnaies…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f10447b0174",
+          "title": "Questlove on Sampling, Earth, Wind & Fire and the Evolution of Hip-Hop | Billboard On The Record",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/questlove-sampling-earth-wind-and-fire-billboard-on-the-record/",
+          "category": "musique",
+          "published_at": "2026-09-30T14:41:40+00:00",
+          "summary": "Sampling has shaped some of the most influential music of the last 50 years — and Questlove has been there for much of its evolution. The musician and music historian joins Billboard’s Kristin Robinson for Billboard On The Record for a conversation about his Earth, Wind &#38;…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e1c0791c6cb3",
+          "title": "How Much Is Garth Brooks’ Music Catalog Worth?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/garth-brooks-music-catalog-how-much-worth/",
+          "category": "musique",
+          "published_at": "2026-09-30T14:39:46+00:00",
+          "summary": "News broke in June that the star was seeking at least $1 billion — far less than what Billboard estimated Dolly Parton’s catalog to be worth. Could it be that high?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5001af57f257",
+          "title": "Taylor Swift Holds Top Movie Songs No. 1 Ahead of ‘Spider-Man’ Challengers",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/taylor-swift-number-1-top-movie-songs-chart-august-2026-1236350754/",
+          "category": "musique",
+          "published_at": "2026-09-30T14:34:32+00:00",
+          "summary": "“I Knew It, I Knew You” from Toy Story 5 stays at No. 1, followed by music from Spider-Man: Brand New Day.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a08a8023aea",
+          "title": "Mayor Zohran Mamdani Wants to Restore NYC’s Rap Capital Status: ‘We Can’t Be Content With … Simply Being the Birthplace’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/nyc-mayor-zohran-mamdani-nas-state-of-hip-hop-video-1236350632/",
+          "category": "ia",
+          "published_at": "2026-09-30T14:29:03+00:00",
+          "summary": "The politician sat down with Nas to discuss the state of NYC hip-hop and more in a new documentary.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5acf6fbc1536",
+          "title": "Icebreaker, le rival ultime d’Off-Campus se prépare sur Netflix et présente son casting",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2344149-icebreaker-le-rival-ultime-doff-campus-se-prepare-sur-netflix-et-presente-son-casting.html",
+          "category": "ia",
+          "published_at": "2026-09-30T14:03:52+00:00",
+          "summary": "Netflix a officialisé ce lundi 28&nbsp;septembre 2026 le couple vedette d’Icebreaker, son adaptation en-série du best&nbsp;seller de Hannah Grace. Daisy Jelley et Connor Simos incarneront la patineuse Anastasia Allen et le hockeyeur Nate Hawkins, une histoire qui parlera aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc727f177e25",
+          "title": "Ivan Chen named CEO of BandLab Technologies as co-founder Meng Ru Kuok transitions to Executive Chairman",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bandlab-technologies-appoints-ivan-chen-ceo-as-co-founder-meng-ru-kuok-transitions-to-executive-chairman/",
+          "category": "musique",
+          "published_at": "2026-09-30T14:00:47+00:00",
+          "summary": "Kuok remains Group CEO of parent company Caldecott Music Group, where Chen also continues as Group President.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3896b7535cb",
+          "title": "Galaxy Tab S12 Ultra, SmartTag 3… Samsung fait le plein de nouveautés pour la rentrée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2344151-galaxy-tab-s12-ultra-smarttag-3-samsung-fait-le-plein-de-nouveautes-pour-la-rentree.html",
+          "category": "ia",
+          "published_at": "2026-09-30T13:57:19+00:00",
+          "summary": "Samsung présente le 30 septembre 2026 deux nouvelles tablettes haut de gamme : les Galaxy Tab S12 Ultra et Galaxy Tab S12+. Le constructeur coréen dévoile aussi une nouvelle version de son traqueur Bluetooth, le Galaxy SmartTag 3, qui améliore sa portée et gagne le support des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27a62a50356e",
+          "title": "Trump rebaptise l’IA « Super Intelligence », les noms de domaine slovènes s’arrachent et les soupçons de délit d’initié fleurissent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2344141-trump-rebaptise-lia-super-intelligence-les-noms-de-domaine-slovenes-sarrachent-et-les-soupcons-de-delit-dinitie-fleurissent.html",
+          "category": "ia",
+          "published_at": "2026-09-30T13:29:08+00:00",
+          "summary": "Dans la nuit du 29 au 30 septembre, le président américain a signé un décret imposant le terme « Super Intelligence » à son administration. Une décision qui fait déjà exploser les enregistrements en .si et nourrit les soupçons d'une partie des internautes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c0e4a57f8d5",
+          "title": "☕️ Ubuntu 24.04 LTS peut maintenant migrer vers la version 26.04",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ubuntu-24-04-lts-peut-maintenant-migrer-vers-la-version-26-04/",
+          "category": "ia",
+          "published_at": "2026-09-30T13:22:13+00:00",
+          "summary": "Ce 29 septembre, Canonical a officiellement ouvert la mise à niveau directe d&#8217;Ubuntu 24.04 LTS (Noble Numbat) vers Ubuntu 26.04.1 LTS (Resolute Raccoon). L’information peut surprendre, Ubuntu 26.04 ayant près de six mois déjà. Pourtant, ce chemin de migration n’a en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c137d038bbea",
+          "title": "SpaceX lance pour la première fois une Falcon Heavy pour une mission secrète du renseignement américain",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2344135-spacex-lance-pour-la-premiere-fois-une-falcon-heavy-pour-une-mission-secrete-du-renseignement-americain.html",
+          "category": "institutionnel",
+          "published_at": "2026-09-30T13:00:13+00:00",
+          "summary": "Une fusée Falcon Heavy de SpaceX doit décoller de Floride dans la nuit du 1er au 2 octobre 2026 pour le NRO, l'agence américaine des satellites espions. C'est la première mission de cette agence confiée au lanceur lourd de SpaceX.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7dca45642e8",
+          "title": "Voyeurisme sordide ou science ? La nouvelle série de Netflix choque les spectateurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2343967-voyeurisme-sordide-ou-science-la-nouvelle-serie-choc-de-netflix-fait-peter-un-cable-aux-reseaux.html",
+          "category": "ia",
+          "published_at": "2026-09-30T12:35:00+00:00",
+          "summary": "Cinquante-cinq ans après l'expérience traumatique de Philip Zimbardo, Netflix mettra en ligne le 21 octobre 2026 The New Stanford Prison Experiment, une série de téléréalité dont la bande-annonce est sortie ce mardi 29 septembre. Trente volontaires y sont tirés au sort pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "72e7b5cc3bb7",
+          "title": "Amazon brade sa Kindle 2024 à moins de 90 € avant l’arrivée de sa remplaçante",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2343805-amazon-brade-sa-kindle-2024-a-moins-de-90-e-avant-larrivee-de-sa-remplacante.html",
+          "category": "ia",
+          "published_at": "2026-09-30T12:30:00+00:00",
+          "summary": "[Deal du jour] Des visuels de la prochaine Kindle d'entrée de gamme ont fuité le 28 septembre 2026. En attendant son annonce officielle, Amazon fait passer la Kindle 2024 à 89,99 € au lieu de 154,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52ac70849f8c",
+          "title": "IFPI sees X as ‘a significant concern for the music industry’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/30/ifpi-sees-x-as-a-significant-concern-for-the-music-industry/",
+          "category": "musique",
+          "published_at": "2026-09-30T12:30:00+00:00",
+          "summary": "Global recorded-music body the IFPI has made its latest submission to the EU Counterfeit and Piracy Watchlist consultation: a document listing the biggest sources of infringement it sees in 2026. Published by TorrentFreak, the filing ranges across stream-ripping services,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0776c0e3cb8",
+          "title": "Ditto study identifies key pain points for independent artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/30/ditto-study-identifies-key-pain-points-for-independent-artists/",
+          "category": "musique",
+          "published_at": "2026-09-30T12:30:00+00:00",
+          "summary": "Distributor Ditto Music has been surveying more than 5,000 independent artists, with the findings zeroing in on some of their main pain points when trying to sustain their careers. 74% said they earned less than $1k from music last year; 64% work a full or part-time job outside…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c8d8ee2e467",
+          "title": "Impel and IMPF want AI licensing to value songs and recordings equally",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/30/impel-and-impf-want-ai-licensing-to-value-songs-and-recordings-equally/",
+          "category": "musique",
+          "published_at": "2026-09-30T12:30:00+00:00",
+          "summary": "Independent-publishing bodies Impel and IMPF are the latest music-industry orgs to set out some principles for how AI-music licensing should work. One of the key points is aimed as much at labels as at AI companies. “One principle is non-negotiable: the song must be properly…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b09680eb2619",
+          "title": "Best Music: ‘The Ukrainian music industry has not put itself on pause’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/30/best-music-the-ukrainian-music-industry-has-not-put-itself-on-pause/",
+          "category": "musique",
+          "published_at": "2026-09-30T12:30:00+00:00",
+          "summary": "Independent label Best Music’s CEO Mariana Voronina has been talking about the challenges facing Ukraine’s music industry since the country was invaded by Russia. “It affects literally every part of our work. We work through daily shelling and power cuts. We rebuild teams when…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90b9e325da66",
+          "title": "Mrs. Green Apple have 2.1m TikTok followers – and now an in-app hub",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/30/mrs-green-apple-have-2-1m-tiktok-followers-and-now-an-in-app-hub/",
+          "category": "musique",
+          "published_at": "2026-09-30T12:30:00+00:00",
+          "summary": "Japanese band Mrs. Green Apple’s global prominence continues with an activation on TikTok this week. The group are getting the platform’s signature ‘in-app hub’ campaign for the release of their new album ‘Pops’. The hub will feature the album tracklisting plus sounds and videos…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0428ccd21b18",
+          "title": "OpenAI’s Dots are ‘always-on agents built to handle everything’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/30/openais-dots-are-always-on-agents-built-to-handle-everything/",
+          "category": "ia",
+          "published_at": "2026-09-30T12:30:00+00:00",
+          "summary": "Meta has been making a big noise about its Muse AI agent, but now ChatGPT-maker OpenAI has unveiled its competitor, Dots, at its DevDay 2026 event. The company described Dots as “remarkably capable, always-on agents built to handle everything&#8230; frontier intelligence that…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6254f8512f0",
+          "title": "TAEMIN Forced to Pull Plug on Entire North American Tour Due to Visa Issues: ‘No Clear Timeline For Issuance’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/taemin-cancels-2026-north-american-tour-visa-issues-1236350678/",
+          "category": "ia",
+          "published_at": "2026-09-30T12:21:30+00:00",
+          "summary": "The former SHINee singer and solo star cited \"continued uncertainty\" around the participation of \"essential personnel\" on the tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e675d655041e",
+          "title": "☕️ Droit d’auteur et IA générative : la Commission européenne lance une consultation",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/droit-dauteur-et-ia-generative-la-commission-europeenne-lance-une-consultation/",
+          "category": "ia",
+          "published_at": "2026-09-30T12:15:00+00:00",
+          "summary": "À défaut de bouger en France, les lignes entre droit d&#8217;auteur et intelligence artificielle générative pourraient-elles se déplacer à l&#8217;échelle européenne ? Bruxelles vient de donner un signe allant dans le sens d&#8217;une possible évolution du cadre réglementaire.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68133d9d213f",
+          "title": "Absolute Label Services opens AI-powered Anthology business management ‘Music OS’ to indie sector: ‘Infrastructure is the next logical thing to democratize’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/absolute-label-services-opens-ai-powered-anthology-business-management-music-os-to-indie-sector-infrastructure-is-the-next-logical-thing-to-democratize/",
+          "category": "musique",
+          "published_at": "2026-09-30T12:10:48+00:00",
+          "summary": "White label business management platform launches with Cherry Red Records and Blue Raincoat Music as its first named customers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77fe9a5c83c6",
+          "title": "Avex expands stake in S10 Entertainment and targets full ownership",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/30/avex-expands-stake-in-s10-entertainment-and-targets-full-ownership/",
+          "category": "musique",
+          "published_at": "2026-09-30T11:30:00+00:00",
+          "summary": "Japanese music company Avex has expanded its stake in management firm S10 Entertainment by acquiring 85% of the company from founder Brandon Silverstein (pictured) and his partners. However, Avex said that it has agreed to take full ownership of S10 “over time”, building on a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39202655ca21",
+          "title": "OpenAI a été pris de court, l’adresse dot.com ne mène pas chez eux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2343965-openai-a-ete-pris-de-court-ladresse-dot-com-ne-mene-pas-chez-eux.html",
+          "category": "ia",
+          "published_at": "2026-09-30T11:27:00+00:00",
+          "summary": "Le lancement des agents « dots » d'OpenAI a droit à un couac inattendu : l'adresse dot.com, partagée sur X, ne redirige pas vers OpenAI.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88d2c128d1f2",
+          "title": "US prosecutors want man who pocketed $8M using AI songs imprisoned for 4 years, saying he stole from ‘hard-working’ songwriters",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/prosecutors-want-man-who-pocketed-8m-using-ai-songs-and-bot-streams-imprisoned-for-at-least-46-months-saying-he-stole-from-hard-working-songwriters/",
+          "category": "ia",
+          "published_at": "2026-09-30T11:22:41+00:00",
+          "summary": "Prosecutors have put Smith's emails in front of Judge Koeltl, and say they show a man who knew from the start that his scheme was fraud.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08ce130ff0ec",
+          "title": "Trump enterre toute régulation de l’IA, misant sur… la « responsabilité » des acteurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/259042/trump-enterre-toute-regulation-de-lia-misant-sur-la-responsabilite-des-acteurs/",
+          "category": "ia",
+          "published_at": "2026-09-30T11:03:00+00:00",
+          "summary": "Donald Trump veut assurer à l&#8217;écosystème de la tech états-unienne qu&#8217;il n&#8217;y aura pas de régulation juridique de l&#8217;IA. Rassemblant les CEO milliardaires de la tech pour un déjeuner, il leur a fait signer à la place un accord « contraignant moralement »…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e00f55299b1",
+          "title": "US appeals court rejects ‘fair use’ defense over AI training – as Thomson Reuters wins copyright case backed by RIAA and NMPA",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/us-appeals-court-rejects-fair-use-defense-over-ai-training-as-thomson-reuters-wins-copyright-case-backed-by-riaa-and-nmpa/",
+          "category": "ia",
+          "published_at": "2026-09-30T10:19:48+00:00",
+          "summary": "US federal appeals court has upheld a ruling that an AI company's copying of protected material to build its training data was not fair use.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e05e56fc1b6",
+          "title": "NoCopyrightSounds wins £1.4M interim payment from former distributor AEI Music, as High Court orders interim accounts",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/nocopyrightsounds-wins-1-4m-interim-payment-from-former-distributor-aei-music-as-high-court-orders-interim-accounts/",
+          "category": "musique",
+          "published_at": "2026-09-30T10:17:42+00:00",
+          "summary": "The High Court in London also ordered AEI and the label's former sub-publisher to provide interim accounts setting out the debt owed to NCS.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a991aeacc725",
+          "title": "Windows 11 : la mise à jour « majeure » 26H2 est disponible",
+          "source": "Next INpact",
+          "url": "https://next.ink/259037/windows-11-la-mise-a-jour-majeure-26h2-est-disponible/",
+          "category": "ia",
+          "published_at": "2026-09-30T10:12:00+00:00",
+          "summary": "Microsoft a lancé ce 29 septembre sa nouvelle mise à jour annuelle. Contrairement aux années précédentes cependant, la 26H2 est surtout là pour prolonger le support, Microsoft ayant choisi une approche plus souple. L’automne est toujours pour Windows synonyme de mise à jour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c62aa89ba82",
+          "title": "Indie publishers set out seven principles for AI licensing: ‘The song must be properly valued.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/indie-publishers-set-out-seven-principles-for-ai-licensing-the-song-must-be-properly-valued/",
+          "category": "ia",
+          "published_at": "2026-09-30T10:10:02+00:00",
+          "summary": "The two organizations are now calling on collective management organizations (CMOs) and other licensors to support the principles.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88fade17376e",
+          "title": "Un joueur de Metal Gear Solid 2 a fait une découverte historique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2343777-un-joueur-de-metal-gear-solid-2-a-fait-une-decouverte-historique.html",
+          "category": "ia",
+          "published_at": "2026-09-30T10:00:00+00:00",
+          "summary": "Grosse découverte pour les speedrunners de Metal Gear Solid 2: Sons of Liberty, qui tentent de finir le jeu le plus vite possible. Le speedrunner apel a trouvé une faille qui permet d'éviter Olga, le tout premier boss du jeu. En 25 ans, personne n'avait réussi à sauter un combat…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02c629b6e480",
+          "title": "Sony a un problème : certaines PS5 peuvent désormais être jailbreakées en quelques secondes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2343721-sony-a-un-probleme-certaines-ps5-peuvent-desormais-etre-jailbreakees-en-quelques-secondes.html",
+          "category": "ia",
+          "published_at": "2026-09-30T09:52:18+00:00",
+          "summary": "Un nouveau jailbreak permet de contourner certaines protections des PS5, y compris Slim et Pro, sous des versions récentes du système. Cette fois, la manipulation devient beaucoup plus simple et rapide, de quoi poser un sérieux problème à Sony.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "644557aa90ed",
+          "title": "Une nouvelle espèce de manchot inconnue a été découverte, une première en plus d’un siècle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2343861-une-nouvelle-espece-de-manchot-inconnue-a-ete-decouverte-une-premiere-en-plus-dun-siecle.html",
+          "category": "ia",
+          "published_at": "2026-09-30T09:44:10+00:00",
+          "summary": "Des biologistes ont décrit une nouvelle espèce de manchot sur les îles Kerguelen. Cette branche des manchots papous, déjà repérée par des analyses génétiques, n'avait encore jamais été reconnue comme une espèce à part. Aucune nouvelle espèce de manchot n'avait été décrite depuis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "115dd5b658ac",
+          "title": "‘Such a Dream Come True’: Hailee Steinfeld Talks New Disney Project ‘Hexed’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/hailee-steinfeld-talks-new-disney-project-hexed-1236350645/",
+          "category": "ia",
+          "published_at": "2026-09-30T09:43:50+00:00",
+          "summary": "Steinfeld stopped by NBC's \"The Tonight Show Starring Jimmy Fallon\" to promote her next project, the Walt Disney Animation Studios' film \"Hexed.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2143c5a393a",
+          "title": "Amazon fait déjà baisser le prix de la Garmin Forerunner 70, la nouvelle montre running d’entrée de gamme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2343799-amazon-fait-deja-baisser-le-prix-de-la-garmin-forerunner-70-la-nouvelle-montre-running-dentree-de-gamme.html",
+          "category": "ia",
+          "published_at": "2026-09-30T09:33:12+00:00",
+          "summary": "[Deal du jour] Sortie au printemps 2026 pour succéder à la Forerunner 55, la Garmin Forerunner 70 connaît déjà une baisse de prix sur Amazon. La montre de running passe à 229 € au lieu de 249 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86f3afb2c78e",
+          "title": "Spider-Man va avoir une nouvelle série live-action à base de clones",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2343811-une-nouvelle-serie-spider-man-va-sattaquer-a-la-saga-la-plus-folle-des-comics.html",
+          "category": "justice",
+          "published_at": "2026-09-30T09:30:00+00:00",
+          "summary": "Alors que la série Spider-Noir a été arrêtée début septembre après une seule saison, Prime Video et Sony Pictures Television ajustent déjà leur stratégie. Une nouvelle série en prise de vues réelles, centrée sur les clones de Peter Parker, est en préparation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2d46e1451c9",
+          "title": "Audio AI firm Modulate, which runs an AI music detection tool, raises $25M",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/audio-ai-firm-modulate-which-runs-an-ai-music-detection-tool-raises-25m/",
+          "category": "musique",
+          "published_at": "2026-09-30T09:29:18+00:00",
+          "summary": "Boston-headquartered startup has raised $60 million to date\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3c4eff64986",
+          "title": "☕️ Opera sur Android propose désormais d’acheter une eSIM pour les séjours à l’étranger",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/opera-sur-android-propose-desormais-dacheter-une-esim-pour-les-sejours-a-letranger/",
+          "category": "ia",
+          "published_at": "2026-09-30T09:29:00+00:00",
+          "summary": "Nouvelle diversification inattendue pour Opera : dans sa version Android, le navigateur permet désormais d&#8217;acheter une carte SIM virtuelle (eSIM) dédiée aux données mobiles lors des séjours à l&#8217;étranger (roaming). L&#8217;option s&#8217;active directement depuis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "836ae4495e20",
+          "title": "Code d’urgence, alerte au détournement : le mystère du vol flydubai FZ1073 qui a affolé Flightradar24",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2343803-code-durgence-alerte-au-detournement-le-mystere-du-vol-flydubai-fz1073-qui-a-affole-flightradar24.html",
+          "category": "ia",
+          "published_at": "2026-09-30T09:16:15+00:00",
+          "summary": "Parti de Dubaï pour Tel-Aviv ce mercredi 30 septembre, le vol flydubai FZ1073 a émis un code de détournement avant de se poser en Arabie saoudite. Sur Flightradar24, il est devenu le vol le plus suivi du moment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1f02802d485",
+          "title": "Sony-backed blockchain Soneium partners with K-pop company DayOneDream to tokenize artist IP",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-backed-blockchain-soneium-partners-with-k-pop-company-dayonedream-to-tokenize-artist-ip/",
+          "category": "ia",
+          "published_at": "2026-09-30T09:11:50+00:00",
+          "summary": "The agency behind BTOB and Lee Chae Yeon will put concert and content IP onchain via its WAVIST platform, which has until now run on rival chain Story.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb07634b7112",
+          "title": "Piratage de la DGFiP : pas d’attaque sophistiquée, mais une série de défaillances techniques",
+          "source": "Next INpact",
+          "url": "https://next.ink/259041/piratage-de-la-dgfip-pas-dattaque-sophistiquee-mais-une-serie-de-defaillances-techniques/",
+          "category": "ia",
+          "published_at": "2026-09-30T09:01:00+00:00",
+          "summary": "Cet été, la Direction générale des Finances publiques (DGFiP) reconnaissait une intrusion dans ses systèmes informatiques avec l&#8217;accès à des données concernant pas moins de 678 000 contribuables et entreprises. Deux suspects de 16 et 18 ans ont été interpellés fin août,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95566146f042",
+          "title": "SESAC Music Group’s Music Services division appoints Nick LaPointe Senior Director of Business Development – Jay Sudarma promoted to VP of Marketing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sesac-music-groups-music-services-division-appoints-nick-lapointe-senior-director-of-business-development-jay-sudarma-promoted-to-vp-of-marketing/",
+          "category": "ia",
+          "published_at": "2026-09-30T08:56:09+00:00",
+          "summary": "Both appointments are effective immediately, Music Services said on Tuesday (September 29).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5dbe0aed48ff",
+          "title": "Le vrai prix de Gemini 3.1 à 3.8 : coût, tokens et performances face à nos prompts",
+          "source": "Next INpact",
+          "url": "https://next.ink/258837/le-vrai-prix-de-gemini-3-1-a-3-8-cout-tokens-et-performances-face-a-nos-prompts/",
+          "category": "ia",
+          "published_at": "2026-09-30T08:32:00+00:00",
+          "summary": "Gemini, l’intelligence artificielle de Google, consomme bien moins de tokens que ses concurrents, tout en coûtant moins cher. Le prix moyen d’une requête sur les derniers modèles n’est que de 1,2 centime environ. Que des bonnes nouvelles&#160;? Non, car elle ne parvient pas à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c020c177381",
+          "title": "☕️ Flock : au pied l’agent ! Au pied !",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flock-au-pied-lagent-au-pied/",
+          "category": "ia",
+          "published_at": "2026-09-30T08:26:40+00:00",
+          "summary": "Nvidia veut tenir les agents ia en laisse, grand bien leur fasse : ils font bien plus que grignoter nos vieilles charentaises !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "deead32684fe",
+          "title": "Rakuten France ferme ses portes ce soir à minuit",
+          "source": "Next INpact",
+          "url": "https://next.ink/259045/rakuten-france-ferme-ses-portes-ce-soir-a-minuit/",
+          "category": "ia",
+          "published_at": "2026-09-30T07:25:02+00:00",
+          "summary": "La place de marché française de Rakuten (ex PriceMinister) fermera ses portes le 30 septembre à 23h59. Les acheteurs ou vendeurs conserveront un accès leur permettant de récupérer les sommes dues ou l&#8217;historique de leurs transactions jusqu&#8217;au 10 novembre. Fin de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb77602f749b",
+          "title": "Apple nie avoir retiré ICEBlock sous la pression de l’administration Trump",
+          "source": "Next INpact",
+          "url": "https://next.ink/259018/apple-nie-avoir-retire-iceblock-sous-la-pression-de-ladministration-trump/",
+          "category": "justice",
+          "published_at": "2026-09-30T06:37:00+00:00",
+          "summary": "Apple n&#8217;a pas supprimé l&#8217;application ICEBlock sous la pression de l&#8217;administration Trump, affirme l&#8217;entreprise. Il s’agissait, selon elle, de protéger les agents de la police de l’immigration américaine après une fusillade dans un centre de détention de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2cac20a2ceed",
+          "title": "☕️ Le maire RN de Vierzon interdit une pièce décrivant les conditions de travail chez Amazon",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-maire-rn-de-vierzon-interdit-une-piece-decrivant-les-conditions-de-travail-chez-amazon/",
+          "category": "ia",
+          "published_at": "2026-09-30T06:04:53+00:00",
+          "summary": "Critiquer les conditions de travail dans les entrepôts d’Amazon, pour l’art, trop clivant ? C’est l’avis de Yannick Le Roux, maire d’extrême droite de la ville de Vierzon, dans le Cher. Le 1er avril 2027, le comédien Aurélien Labruyère, coauteur du seul en scène Amazonia, devait…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "articles": [
+        {
+          "id": "d29e5a24a211",
+          "title": "Dots, Spaces, Codex, GPT-6.1 Sol : OpenAI vide son sac au DevDay",
+          "source": "Next INpact",
+          "url": "https://next.ink/259022/dots-spaces-codex-gpt-6-1-sol-openai-vide-son-sac-au-devday/",
+          "category": "ia",
+          "published_at": "2026-09-29T19:29:47+00:00",
+          "summary": "Dans le petit monde de l&#8217;IA, beaucoup se demandaient quand OpenAI allait réagir face à l&#8217;offensive de Meta avec son agent Muse. C&#8217;est chose faite ce soir avec la présentation de Dots, un agent qui accomplit des tâches au nom de l&#8217;utilisateur et qui prend…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "163c600a590a",
+          "title": "Red Light Management and The Very Good launch Red Light Management Scandinavia",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/red-light-management-and-the-very-good-launch-red-light-management-scandinavia/",
+          "category": "ia",
+          "published_at": "2026-09-29T16:47:03+00:00",
+          "summary": "It will be headed by Red Light Management UK founder James Sandom and The Very Good founder and CEO Jakob Emtestam.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73538fc61d11",
+          "title": "Agents IA : des « dizaines de milliers d’incidents » sont en cours d’examen",
+          "source": "Next INpact",
+          "url": "https://next.ink/258705/agents-ia-des-dizaines-de-milliers-dincidents-sont-en-cours-dexamen/",
+          "category": "ia",
+          "published_at": "2026-09-29T15:42:00+00:00",
+          "summary": "OpenAI a reconnu que des sites du gouvernement états-unien avaient été attaqués par certains de ses agents IA, portant le nombre d&#8217;incidents documentés à plus de quinze. En élargissant le spectre à Anthropic et aux découvertes faites par des chercheurs extérieurs, le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b63ac04ab428",
+          "title": "☕️ Firefox 157 et son interface Nova sont disponibles",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/firefox-157-et-son-interface-nova-sont-disponibles/",
+          "category": "ia",
+          "published_at": "2026-09-29T15:25:00+00:00",
+          "summary": "Firefox 157 est désormais disponible au téléchargement, y compris en mise à jour. La nouveauté la plus visible littéralement est sa nouvelle interface. Baptisée Nova, elle ambitionne de moderniser le navigateur, en tablant largement sur les arrondis et des couleurs plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "23cd5499ae4c",
+          "title": "Muse peut donner votre adresse à n’importe qui ou fouiller vos messages sans permission",
+          "source": "Next INpact",
+          "url": "https://next.ink/258912/muse-peut-donner-votre-adresse-a-nimporte-qui-ou-fouiller-vos-messages-sans-permission/",
+          "category": "ia",
+          "published_at": "2026-09-29T15:05:06+00:00",
+          "summary": "Meta a récemment lancé son agent IA, Muse. Mais des utilisateurs se plaignent qu&#8217;il agit de façon problématique concernant leurs données personnelles, en livrant par exemple une adresse postale ou en analysant des messages auxquels il ne devrait pas avoir accès. Muse, qui,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e54e958b1cb8",
+          "title": "Discord : un « mode jeu » pour réduire l’empreinte CPU/GPU, mais quid de la RAM ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/258943/discord-un-mode-jeu-pour-reduire-lempreinte-cpu-gpu-mais-quid-de-la-ram/",
+          "category": "ia",
+          "published_at": "2026-09-29T14:43:00+00:00",
+          "summary": "Discord travaillerait sur un mode jeu pour réduire son empreinte sur le processeur et la carte graphique. Si l&#8217;information reste à confirmer, elle laisse sur le carreau la question de la mémoire vive, inévitablement associée aux applications Electron. La pression actuelle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d249a7fbedfc",
+          "title": "India’s festive season leads to rise in shared listening and chart placements on Spotify",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/29/indias-festive-season-leads-to-rise-in-shared-listening-and-chart-placements-on-spotify/",
+          "category": "musique",
+          "published_at": "2026-09-29T14:30:54+00:00",
+          "summary": "September typically heralds the start of the festive season in India. The last four months of the year are when such major Hindu religious festivals such as Ganesh Chaturthi, Navratri, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e188321fe160",
+          "title": "☕️ UE : Google conteste l’ouverture d’Android aux bots IA rivaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ue-google-conteste-louverture-dandroid-aux-bots-ia-rivaux/",
+          "category": "justice",
+          "published_at": "2026-09-29T14:19:00+00:00",
+          "summary": "Sans surprise, Google a formé un recours auprès du Tribunal de l&#8217;Union européenne concernant des mesures contraignantes décidées par la Commission le 16 juillet. Cet appel concerne deux décisions de Bruxelles. Google doit partager ses données de recherche avec ses rivaux,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ccd516933a6",
+          "title": "☕️ Oura reporte son introduction en Bourse, une semaine après l’avoir annoncée",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/oura-reporte-son-introduction-en-bourse-une-semaine-apres-lavoir-annoncee/",
+          "category": "ia",
+          "published_at": "2026-09-29T13:39:00+00:00",
+          "summary": "Oura reporte son introduction en Bourse (IPO). Le constructeur de bagues connectées préparait depuis quelques mois son lancement au Nasdaq, l&#8217;indice américain des technologies. Mais «&#160;malgré une forte demande », un délai est nécessaire en raison des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78c761182cc8",
+          "title": "☕️ Au Brésil comme en Europe, l’impartialité de la modération publicitaire de Meta questionnée",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/au-bresil-comme-en-europe-limpartialite-de-la-moderation-publicitaire-de-meta-questionnee/",
+          "category": "ia",
+          "published_at": "2026-09-29T12:28:00+00:00",
+          "summary": "Les systèmes publicitaires de Meta font de nouveau des leurs. Ce 25 septembre, au Brésil, Meta a brièvement suspendu le recours à la publicité de la page Facebook de Luis Inácio Lula da Silva. À 80 ans, ce dernier fait campagne pour un quatrième et dernier mandat électoral face…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9c2f7c0cff2",
+          "title": "☕️ Apple corrige en urgence une faille critique exploitée dans iOS, iPadOS et macOS",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-corrige-en-urgence-une-faille-critique-exploitee-dans-ios-ipados-et-macos/",
+          "category": "ia",
+          "published_at": "2026-09-29T12:00:00+00:00",
+          "summary": "Apple a déployé ce 28 septembre des mises à jour pour l’ensemble de ses plateformes 26 pour les iPhone, iPad et Mac. Ces mises à jour sont estampillées «&#160;26.7.1&#160;», mais macOS Sequoia a également droit à une version 15.8.1. Le rapport est laconique&#160;: «&#160;Traiter…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "460c85ddf818",
+          "title": "Even expands its D2C tools for musicians with Even Studio launch",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/29/even-expands-its-d2c-tools-for-musicians-with-even-studio-launch/",
+          "category": "musique",
+          "published_at": "2026-09-29T12:00:00+00:00",
+          "summary": "Music D2C platform Even has launched a white-label version called Even Studio, available today to artists on an invitation-only basis.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c73aba8ee6c",
+          "title": "Face à l’e-facturation, agriculteurs, petits commerçants et auto-entrepreneurs protestent",
+          "source": "Next INpact",
+          "url": "https://next.ink/258839/face-a-le-facturation-agriculteurs-petits-commercants-et-auto-entrepreneurs-protestent/",
+          "category": "loi",
+          "published_at": "2026-09-29T10:47:00+00:00",
+          "summary": "Dans plusieurs villes de France, des mobilisations s’organisent contre l’obligation de passage à la facturation électronique. LFI a déposé une proposition de loi pour imposer un moratoire sur cette évolution à destination des plus petites structures économiques. L’évolution ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b7e7e99a187",
+          "title": "Sacem to launch a Deezer-powered music service for businesses",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/29/sacem-to-launch-a-deezer-powered-music-service-for-businesses/",
+          "category": "musique",
+          "published_at": "2026-09-29T09:53:53+00:00",
+          "summary": "Deezer’s efforts to grow its B2B streaming business have an unexpected new partner: French collecting society Sacem. \nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57d0edcca825",
+          "title": "Global music-publishing revenues grew by 9.6% in 2025 says Midia",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/29/global-music-publishing-revenues-grew-by-9-6-in-2025-says-midia/",
+          "category": "musique",
+          "published_at": "2026-09-29T09:48:21+00:00",
+          "summary": "2025 was a bumper year for the music-publishing sector according to Midia Research’s latest report, tracking growth of 9.6%.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5b85013e1ab",
+          "title": "Meta condamnée pour le scandale Cambridge Analytica : amende record en vue",
+          "source": "Next INpact",
+          "url": "https://next.ink/258765/meta-condamnee-pour-le-scandale-cambridge-analytica-amende-record-en-vue/",
+          "category": "ia",
+          "published_at": "2026-09-29T09:47:00+00:00",
+          "summary": "Le fantôme de Cambridge Analytica continue de hanter Meta. Un tribunal du Nouveau Mexique a condamné le géant des réseaux sociaux pour avoir trompé les utilisateurs de l&#8217;État américain sur la manière dont il collecte, protège, partage et exploite leurs informations…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7afc704d9397",
+          "title": "Pangram sait-il vraiment détecter les textes IA ? Notre test sur plus de 1 000 articles",
+          "source": "Next INpact",
+          "url": "https://next.ink/258677/pangram-sait-il-vraiment-detecter-les-textes-ia-notre-test-sur-plus-de-1-000-articles/",
+          "category": "ia",
+          "published_at": "2026-09-29T09:01:00+00:00",
+          "summary": "Après les tests sur les détecteurs à poids ouverts, passons à un modèle commercial qui fait beaucoup parler de lui : Pangram. Nous lui avons envoyé des centaines d’articles, soit rédigés à 100 % par des humains (depuis notre base de données), soit générés par des IA. Quasiment…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5bffcbc3e383",
+          "title": "NCS wins £1.4m interim payment in battle with former partners",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/09/29/ncs-wins-1-4m-interim-payment-in-battle-with-former-partners/",
+          "category": "musique",
+          "published_at": "2026-09-29T07:37:31+00:00",
+          "summary": "Independent label NCS (formerly NoCopyrightSounds) is involved in a high-court battle with former partners AEI Music and Featherstone Music.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "articles": [
