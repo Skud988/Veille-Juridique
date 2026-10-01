@@ -1,9 +1,594 @@
 {
-  "generated_at": "2026-09-30T14:55:33.964526+00:00",
+  "generated_at": "2026-10-01T15:27:21.701915+00:00",
   "days": [
+    {
+      "date": "2026-10-01",
+      "articles": [
+        {
+          "id": "22af8a698a20",
+          "title": "Universal Music Group Promotes Frank Briegmann to Chairman & CEO Europe, Australia, New Zealand, Canada & Deutsche Grammophon",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/universal-music-group-promotes-frank-briegmann/",
+          "category": "musique",
+          "published_at": "2026-10-01T15:25:37+00:00",
+          "summary": "Briegmann will continue reporting to UMG chairman and CEO Sir Lucian Grainge and will work alongside UMG's European leadership teams.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6de944391f54",
+          "title": "Carly Rae Jepsen Announces 2027 North American Tour Dates: ‘WE GO HARD IN THIS FAMILY!’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/carly-rae-jepsen-2027-tour-dates-north-america-1236351775/",
+          "category": "musique",
+          "published_at": "2026-10-01T15:22:05+00:00",
+          "summary": "The trek will support her new album, Day and Night.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0aa288079005",
+          "title": "Pour Octave Klaba, il est « trop risqué de ne pas investir » dans l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/259208/pour-octave-klaba-il-est-trop-risque-de-ne-pas-investir-dans-lia/",
+          "category": "ia",
+          "published_at": "2026-10-01T15:20:15+00:00",
+          "summary": "Hier, Octave Klaba – PDG d’OVHcloud – était auditionné par la commission des affaires économiques de l’Assemblée nationale. Les questions tournaient autour de son entreprise, mais aussi des enjeux de souveraineté, des datacenters et de l’intelligence artificielle générative, en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed40f80efd8e",
+          "title": "Rick Ross Arrested on Battery & Domestic Violence Charges in Miami Beach",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/rick-ross-arrested-battery-domestic-violence-charges-1236351749/",
+          "category": "ia",
+          "published_at": "2026-10-01T15:15:43+00:00",
+          "summary": "Miami-Dade jail records show Rozay was booked the morning of Oct. 1.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63015dce41e5",
+          "title": "Meet the Producers Who United to Help Noah Kahan Craft ‘The Great Divide’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/aaron-dessner-gabe-simon-noah-kahan-great-divide-interview-1236350303/",
+          "category": "musique",
+          "published_at": "2026-10-01T15:05:16+00:00",
+          "summary": "Aaron Dessner and Gabe Simon open up about why it was \"brilliant\" of the singer-songwriter to get them together for his blockbuster 2026 album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8221f5482f11",
+          "title": "Suivez en direct le décollage de SpaceX Crew-13, en attendant le retour de Sophie Adenot",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2344325-suivez-en-direct-le-decollage-de-spacex-crew-13-en-attendant-le-retour-de-sophie-adenot.html",
+          "category": "ia",
+          "published_at": "2026-10-01T14:52:52+00:00",
+          "summary": "SpaceX doit lancer la mission Crew-13 vers la Station spatiale internationale ce jeudi 1er octobre à 17h10, heure de Paris. Le décollage arrive avec près de trois semaines de retard, à cause d'une fuite sur la capsule Dragon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc4888a84117",
+          "title": "The Hits With the Most Weeks at No. 1 on Billboard’s ‘Hot’ Songs Charts: ‘You Say,’ ‘Choosin’ Texas’ & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/songs-most-weeks-number-1-hot-songs-charts/",
+          "category": "musique",
+          "published_at": "2026-10-01T14:43:46+00:00",
+          "summary": "Ella Langley has the Hot 100 record with “Choosin’ Texas.” What about Billboard’s other multimetric song surveys?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5de23c5bbab0",
+          "title": "Il déchiffre une lettre de 217 ans adressée à un général de Napoléon grâce à l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2344971-il-dechiffre-une-lettre-de-217-ans-adressee-a-un-general-de-napoleon-grace-a-lia.html",
+          "category": "ia",
+          "published_at": "2026-10-01T14:40:00+00:00",
+          "summary": "Un ingénieur a utilisé GPT-6 Astra pour déchiffrer une lettre de 1809 destinée à un général de Napoléon. Selon lui, environ six heures ont suffi à l’IA pour transcrire les signes manuscrits et reconstituer le message en s’appuyant sur des travaux existants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9714375a85e",
+          "title": "Apple Home Hub : tout ce que l’on sait de l’écran pour la maison attendu en octobre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2344991-apple-home-hub-tout-ce-que-lon-sait-de-lecran-pour-la-maison-attendu-en-octobre.html",
+          "category": "ia",
+          "published_at": "2026-10-01T14:28:17+00:00",
+          "summary": "Après des années de rumeurs et de reports, Apple serait sur le point de lancer son premier écran connecté pour la maison. Selon Bloomberg, il pourrait être annoncé le 13 octobre avec un nouveau HomePod mini et une nouvelle Apple TV. L'idée serait de proposer une sorte d'iPad…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fee73e366071",
+          "title": "Comment OpenAI et Anthropic se voient en futurs financeurs de la recherche mondiale",
+          "source": "Next INpact",
+          "url": "https://next.ink/259280/comment-openai-et-anthropic-se-voient-en-futurs-financeurs-de-la-recherche-mondiale/",
+          "category": "ia",
+          "published_at": "2026-10-01T14:28:00+00:00",
+          "summary": "Via la création de fondations « philantropiques » et de « financements sur projet », les entreprises d&#8217;IA générative et notamment OpenAI se présentent comme les futurs financeurs de la recherche mondiale, alors qu&#8217;elles ne font paradoxalement pas de profits. Les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0ffd3decc2a",
+          "title": "Linking songs to recordings is music data’s ‘single biggest unsolved problem.’ Expect it to come up at DDEX’s Meta-backed summit next month.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/linking-songs-to-recordings-is-music-datas-single-biggest-unsolved-problem-expect-it-to-come-up-at-ddexs-meta-backed-summit-next-month/",
+          "category": "ia",
+          "published_at": "2026-10-01T14:11:08+00:00",
+          "summary": "Mark Isherwood, who heads DDEX's Secretariat, explains his views on music data – and where we're headed\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ddf72b212c91",
+          "title": "Uncharted 5 : Naughty Dog préparerait un nouveau jeu avec le retour de Nathan Drake",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2345037-uncharted-5-naughty-dog-preparerait-un-nouveau-jeu-avec-le-retour-de-nathan-drake.html",
+          "category": "ia",
+          "published_at": "2026-10-01T14:05:02+00:00",
+          "summary": "Dix ans après Uncharted 4, Naughty Dog travaillerait sur un nouvel épisode de sa saga d’aventure. Selon le site MP1st, Nathan Drake serait bien présent dans le jeu, sans que l'on sache encore s'il en serait le héros.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90cb6d56f5af",
+          "title": "Diablo 5 ne sera pas prêt pour 2029, selon le créateur de Path of Exile",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2344941-diablo-5-ne-sera-pas-pret-pour-2029-selon-le-createur-de-path-of-exile.html",
+          "category": "ia",
+          "published_at": "2026-10-01T14:03:58+00:00",
+          "summary": "Co-créateur de Path of Exile, Chris Wilson s'est exprimé sur l'officialisation de Diablo V. Selon lui, Blizzard a peut-être été trop optimiste en planifiant une sortie au printemps 2029. Il parle d'expérience.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0c73adae2b1",
+          "title": "Ex-Capitol A&R exec Carter Gregory strikes JV for Plot Twist Records with 10K Projects and Atlantic Records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ex-capitol-ar-exec-carter-gregory-strikes-jv-for-plot-twist-records-with-10k-projects-and-atlantic-records/",
+          "category": "musique",
+          "published_at": "2026-10-01T14:00:08+00:00",
+          "summary": "Founded by A&#038;R executive and media personality Carter Gregory, the label’s first signings are singer Alabama Barker and DJ Nic Vans.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99411c91abc1",
+          "title": "Kylie Minogue’s ‘Fever’ at 25: Songs Ranked Worst to Best",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/kylie-minogue-fever-album-songs-ranked-worst-to-best/",
+          "category": "musique",
+          "published_at": "2026-10-01T14:00:00+00:00",
+          "summary": "A look at the 2001 electro-pop album that cemented the Aussie’s remarkable Y2K renaissance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "054d60e6ac5f",
+          "title": "Noah Kahan: Photos From the Billboard Cover Shoot",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/noah-kahan-photos-billboard-cover-shoot-1236350363/",
+          "category": "musique",
+          "published_at": "2026-10-01T13:58:38+00:00",
+          "summary": "Check out pics of the singer-songwriter.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "330dc58dee5d",
+          "title": "Sécurité : le premier point de situation REACTIV de l’ANSSI illustre l’ampleur du problème",
+          "source": "Next INpact",
+          "url": "https://next.ink/259353/securite-le-premier-point-de-situation-reactiv-de-lanssi-illustre-lampleur-du-probleme/",
+          "category": "institutionnel",
+          "published_at": "2026-10-01T13:55:00+00:00",
+          "summary": "L’ANSSI a publié le premier point de situation de son dispositif REACTIV. Le rapport est sobre et direct, alignant les causes des différents incidents cyber des deux derniers mois contre les ministères, avec des chiffres éloquents. Le dispositif REACTIV (pour REponse &#38;…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "237ba53a7ed0",
+          "title": "Rosalía to Receive Billboard Hall of Fame Award at the 2026 Billboard Latin Music Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/rosalia-billboard-hall-of-fame-award-2026-latin-awards-1236351316/",
+          "category": "musique",
+          "published_at": "2026-10-01T13:45:00+00:00",
+          "summary": "The global superstar will attend the live show to accept the honor Oct. 22 in Miami.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71422cbd31e5",
+          "title": "Kpop Demon Hunter 2 va voir très grand avec une sortie prévue au cinéma",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2344961-kpop-demon-hunter-2-va-voir-tres-grand-avec-une-sortie-prevue-au-cinema.html",
+          "category": "ia",
+          "published_at": "2026-10-01T13:36:33+00:00",
+          "summary": "Pendant plus d’une décennie, Netflix a martelé la même doctrine : ses films se regardent sur la plateforme, depuis son canapé. Le succès record de KPop Demon Hunters l'oblige à revoir sa copie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ebf286a71c40",
+          "title": "Paul Shaver joins SoundExchange as SVP of Business Development",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/paul-shaver-joins-soundexchange-as-svp-of-business-development/",
+          "category": "musique",
+          "published_at": "2026-10-01T13:00:36+00:00",
+          "summary": "Shaver joins from the Canadian Musical Reproduction Rights Agency (CMRRA), where he was President of both CMRRA and SX Works.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63a53021de64",
+          "title": "Test de Gears of War: E-Day, un pur plaisir en coopération",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2344127-test-de-gears-of-war-e-day-un-pur-plaisir-en-cooperation.html",
+          "category": "ia",
+          "published_at": "2026-10-01T13:00:00+00:00",
+          "summary": "La saga Gears of War signe enfin son grand retour. Vitrine visuelle de la marque Xbox, elle opère un retour aux sources avec Gears of War: E-Day, épisode qui a bien failli ne pas être exclusif. Notre test, après avoir joué à la campagne en coopération.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ec892d45887",
+          "title": "As Final-Round Voting Opens Today for the 2026 CMA Awards, Here Are the Races We’re Watching",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/2026-cma-awards-races-to-watch/",
+          "category": "ia",
+          "published_at": "2026-10-01T13:00:00+00:00",
+          "summary": "Lainey Wilson, Tim McGraw, Jack Antonoff and more could set records.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63b3738949fb",
+          "title": "Bono Said When U2 Worked With Ed Sheeran on ‘Yours Eternally,’ Singer Asked, ‘You’re Not Going To Get Me Into Politics, Are You?’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/bono-ed-sheeran-u2-yours-eternally-avoid-politics-macklemore-1236351737/",
+          "category": "ia",
+          "published_at": "2026-10-01T12:55:22+00:00",
+          "summary": "The Rock Hall of Famer said he didn't want to \"personalize\" the recent fallout between Sheeran and Macklemore over the rapper's pro-Palestine statements.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21f3b15c773d",
+          "title": "KickFlip join Spotify’s ever-growing roster of K-Pop podcasts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/kickflip-join-spotifys-ever-growing-roster-of-k-pop-podcasts/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:41:38+00:00",
+          "summary": "In the time-honoured tradition of three things making a trend, Spotify is very much up to something with K-Pop podcasts in 2026. This week, the company has announced a new video show featuring boy-band KickFlip called ‘Flip the Language’.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c068079c8333",
+          "title": "Report quantifies Brit Awards boost for new host-city Manchester",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/report-quantifies-brit-awards-boost-for-new-host-city-manchester/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:35:51+00:00",
+          "summary": "When the Brit Awards moved out of London for the first time in their history this year, it was a big deal for the UK music industry (not to mention hoteliers in the new host city, Manchester).\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1dc0b88383ed",
+          "title": "BeatStars’ new feature tracks credits and splits as songs are made",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/beatstars-new-feature-tracks-credits-and-splits-as-songs-are-made/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:30:46+00:00",
+          "summary": "With shonky metadata and unagreed splits an enduring problem for the music industry, attention has turned in recent times to recording information from the earliest parts of the songwriting and recording processes.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6a28b57f2de",
+          "title": "Données de Marine Le Pen exposées : pourquoi il ne faut jamais tester le moteur de recherche cité sur X",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2344733-donnees-de-marine-le-pen-exposees-pourquoi-il-ne-faut-jamais-tester-le-moteur-de-recherche-cite-sur-x.html",
+          "category": "ia",
+          "published_at": "2026-10-01T12:30:10+00:00",
+          "summary": "Les « lookups », ces moteurs de recherche alimentés par des données volées, refont régulièrement surface dans l'espace médiatique en France, attisant mécaniquement la curiosité. Ceux qui les consultent s'exposent pourtant à de très nombreux risques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb98b8343a4a",
+          "title": "Study explores the impact of ‘the Spotify playlist cleanup’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/study-explores-the-impact-of-the-spotify-playlist-cleanup/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:30:00+00:00",
+          "summary": "News that some of Spotify’s flagship playlists have been losing followers might usually be seen as bad news for the streaming service. However, it may actually be evidence of Spotify’s ongoing crackdown on streaming fraud.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "860111bccdf5",
+          "title": "Music finance roundup: MLC figures, Ahdritz Capital, Sia sale",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/music-finance-roundup-mlc-figures-ahdritz-capital-sia-sale/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:30:00+00:00",
+          "summary": "The US-based Mechanical Licensing Collective (MLC) has held its annual membership meeting, including publishing some new stats on its work.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b092245a3c0a",
+          "title": "Warner Music Group has sold EMP Merchandise to Whynow Media",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/warner-music-group-has-sold-emp-merchandise-to-whynow-media/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:30:00+00:00",
+          "summary": "WMG’s strategic reorganisation continues with news this morning that it has sold its European merch division, EMP Merchandise, to Whynow Media.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33d6b0ec241e",
+          "title": "New York attorney general sues Evolutions Festival promoters",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/new-york-attorney-general-sues-evolutions-festival-promoters/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:30:00+00:00",
+          "summary": "Unfortunately, short-notice festival cancellations have become increasingly common in recent years, and one example was the EDM-focused Evolutions Festival in September 2025.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79f76b4b0d15",
+          "title": "Indies update: Absolute Anthology, Believe Japan, 7cult Records",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/indies-update-absolute-anthology-believe-japan-7cult-records/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:30:00+00:00",
+          "summary": "There is plenty happening today in the independent-music sector. We’ll start with the official opening up of Absolute Label Services’ Anthology to independent clients.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1f3cfe83fac",
+          "title": "Cybermois 2026 : la CNIL et Cybermalveillance.gouv.fr publient une nouvelle ressource pour adopter les bons réflexes face à une violation de données",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/cybermois-2026",
+          "category": "cnil",
+          "published_at": "2026-10-01T12:00:00+00:00",
+          "summary": "À l’occasion du Mois européen de la cybersécurité, Cybermois en France, la CNIL et Cybermalveillance.gouv.fr s’associent autour d’un nouveau support pratique pour aider les particuliers à réagir en cas de violation de données personnelles et à adopter les bons réflexes pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6801e2614fda",
+          "title": "ElevenLabs has doubled its valuation to $22bn since February",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/elevenlabs-has-doubled-its-valuation-to-22bn-since-february/",
+          "category": "musique",
+          "published_at": "2026-10-01T12:00:00+00:00",
+          "summary": "Imminent AI bubble-burst? What imminent AI bubble-burst? The investors in AI company ElevenLabs – the firm behind the Eleven Music which is also working on a separate project with UMG – don’t seem worried.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c513d510c174",
+          "title": "Pourquoi tout le monde ne parle que du spécial LEGO One Piece débarqué sur Netflix ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2344789-pourquoi-tout-le-monde-ne-parle-que-du-special-lego-one-piece-debarque-sur-netflix.html",
+          "category": "ia",
+          "published_at": "2026-10-01T11:31:00+00:00",
+          "summary": "Pendant que la quatrième saison de l'anthologie&nbsp;Monster&nbsp;(The Lizzie Borden Story) trône au sommet des séries les plus vues de la plateforme, Netflix diffuse depuis ce mardi 29 septembre un OVNI, One Piece version Lego.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae4c48f1189c",
+          "title": "On dirait vraiment l’Étoile noire, mais ce sont d’incroyables aurores boréales (vidéo)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2344653-non-ce-nest-pas-letoile-noire-mais-incroyables-aurores-boreales-video.html",
+          "category": "ia",
+          "published_at": "2026-10-01T11:02:00+00:00",
+          "summary": "Le satellite Smile a commencé ses observations scientifiques et propose une vue de la Terre très inhabituelle, où des aurores boréales apparaissent. Une vision qui rappelle beaucoup un monstrueux vaisseau de Star Wars mais qui a pourtant une explication scientifique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b6b23373df1",
+          "title": "Voitures électriques : les chiffres de septembre valident la grande bascule du marché français",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2344803-voitures-electriques-les-chiffres-de-septembre-valident-la-grande-bascule-du-marche-francais.html",
+          "category": "ia",
+          "published_at": "2026-10-01T10:48:00+00:00",
+          "summary": "Alors que les chiffres officiels des immatriculations du mois de septembre 2026 viennent de tomber, le marché du 100 % électrique confirme sa dynamique impressionnante. Porté par un duel au sommet entre Tesla et Renault, le secteur franchit une nouvelle étape symbolique face aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ae3b98ddca23",
+          "title": "Le public a-t-il lâché Tom Cruise ? Son nouveau film risque de briser un triste record",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2344637-le-public-a-t-il-lache-tom-cruise-son-nouveau-film-risque-de-briser-un-triste-record.html",
+          "category": "ia",
+          "published_at": "2026-10-01T10:30:00+00:00",
+          "summary": "On le croyait intouchable, sauveur ultime du cinéma en salles et dernier dinosaure d'un Hollywood révolu. Pourtant, Tom Cruise est sur le point d'essuyer le plus lourd revers financier de sa carrière récente avec Digger, sorti ce mercredi 30 septembre en France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "630fc16b7468",
+          "title": "IA générative : pour réduire vos coûts et votre empreinte, parlez anglais",
+          "source": "Next INpact",
+          "url": "https://next.ink/259212/ia-generative-pour-reduire-vos-couts-et-votre-empreinte-parlez-anglais/",
+          "category": "ia",
+          "published_at": "2026-10-01T10:22:01+00:00",
+          "summary": "Changer de langue permet de consommer moins de tokens, c’est un fait et nous l’avons mesuré aussi bien chez Anthropic, OpenAI et Google. Moins de tokens, c’est un coût de revient plus faible et moins de calcul, donc une empreinte écologique plus faible. Les IA génératives ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb95f62ec029",
+          "title": "Sia sells 50% of music catalog to Pophouse in $180M deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sia-sells-50-of-music-catalog-to-pophouse-for-a-reported-180m/",
+          "category": "musique",
+          "published_at": "2026-10-01T10:20:00+00:00",
+          "summary": "Pophouse says it's acquired Sia's \"publishing and master music rights\"; the pricetag suggests a $360M valuation for the full set\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed6cd0be4727",
+          "title": "Vol Flydubai FZ1073 : Trump félicite Boeing après la terrible plongée du 737 MAX, et vante sa résistance, mais attention aux conclusions hâtives",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2344649-vol-flydubai-fz1073-trump-felicite-boeing-apres-la-terrible-plongee-du-737-max-et-vante-sa-resistance-mais-attention-aux-conclusions-hatives.html",
+          "category": "ia",
+          "published_at": "2026-10-01T10:15:43+00:00",
+          "summary": "Le Boeing 737 MAX 8 du vol Flydubai FZ1073 a perdu plus de 4 200 mètres d'altitude en moins de trente secondes ce mercredi 30 septembre, après une altercation violente dans le cockpit, avant de se poser à Tabouk, en Arabie saoudite. Les 174 personnes à bord ont survécu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf9e1f7db7ce",
+          "title": "Tokyo court rules that a person’s voice can be protected by publicity rights – a first for Japan",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tokyo-court-rules-that-a-persons-voice-can-be-protected-by-publicity-rights-a-first-for-japan/",
+          "category": "ia",
+          "published_at": "2026-10-01T10:15:21+00:00",
+          "summary": "Kenjiro Tsuda lost his takedown claim against TikTok, and won something better: Japan's first ruling placing the human voice inside publicity rights.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f4e072c9663",
+          "title": "TikTok launches global in-app campaign for ‘POPS,’ the new album from Japan’s top-selling act Mrs. GREEN APPLE",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktok-launches-global-in-app-campaign-for-pops-the-new-album-from-japans-top-selling-act-mrs-green-apple/",
+          "category": "musique",
+          "published_at": "2026-10-01T10:14:59+00:00",
+          "summary": "According to TikTok, the band is the first Japanese artist to be selected for one of the platform's artist-specific global campaigns, which it runs with top artists worldwide.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ba1000e456c",
+          "title": "TikTok builds a Taylor Swift ‘Patient Zero’ hub – as her video rollout keeps skipping YouTube",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktok-builds-a-taylor-swift-patient-zero-hub-as-her-video-rollout-keeps-skipping-youtube/",
+          "category": "musique",
+          "published_at": "2026-10-01T10:14:21+00:00",
+          "summary": "\"Patient Zero\" went to the VMAs, Spotify, Apple Music and Amazon Music before YouTube got it on September 29. TikTok's hub followed a day later.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c474d0e0acc",
+          "title": "MGMH launches Good Vibrations mental wellbeing sessions for musicians",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/mgmh-launches-good-vibrations-mental-wellbeing-sessions-for-musicians/",
+          "category": "musique",
+          "published_at": "2026-10-01T08:45:05+00:00",
+          "summary": "A series of recent surveys, from The Cost of A Dream to It’s Time to Talk, have highlighted the challenges faced by Indian musicians and music industry professionals. Indian artist [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d253ebdc909a",
+          "title": "Spotify’s Rap 91 Live to return as a subscriber-exclusive event",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/spotifys-rap-91-live-to-return-as-an-subscriber-exclusive-event/",
+          "category": "musique",
+          "published_at": "2026-10-01T08:35:16+00:00",
+          "summary": "Spotify India’s annual hip-hop festival Rap 91 Live — named after its flagship playlist for the genre — will return for its fifth edition on 24 October. Like every year, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb7bb406c954",
+          "title": "Novex’s new music-tech arm launches tools for Indian venues",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/novexs-new-music-tech-arm-launches-indian-venue-platforms/",
+          "category": "musique",
+          "published_at": "2026-10-01T08:30:39+00:00",
+          "summary": "Indian music licensing company Novex has launched Velvet Labs, a company that designs and builds music technology products. It arrives with a line of three products for venues that use [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "557094a29939",
+          "title": "Lila launches Live Academy for UK South Asian music professionals",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/01/lila-launches-live-academy-for-uk-south-asian-music-producers/",
+          "category": "musique",
+          "published_at": "2026-10-01T08:26:01+00:00",
+          "summary": "Among the key findings of UK-based non-profit Lila’s Soundcheck report — which surveyed almost 350 South Asian music professionals working in the country — was that 68% of the respondents [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f22f2fa66af",
+          "title": "[Màj] Après 5 mois de pause, Grokipedia bouge à nouveau",
+          "source": "Next INpact",
+          "url": "https://next.ink/250414/grokipedia-nest-plus-mise-a-jour-depuis-3-mois/",
+          "category": "ia",
+          "published_at": "2026-10-01T08:24:33+00:00",
+          "summary": "Aucune des pages du projet d&#8217;encyclopédie lancé par Elon Musk fin octobre 2025 n&#8217;a été modifiée par du contenu généré par IA depuis avril. Aucune édition proposée par des humains n&#8217;a été prise en compte non plus. Mise à jour le 1er octobre 2026 : Finalement,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fe77b977914",
+          "title": "Google veut revenir dans la course avec Gemini 4 Argon et son million de tokens en sortie",
+          "source": "Next INpact",
+          "url": "https://next.ink/259219/google-veut-revenir-dans-la-course-avec-gemini-4-argon-et-son-million-de-tokens-en-sortie/",
+          "category": "ia",
+          "published_at": "2026-10-01T08:08:00+00:00",
+          "summary": "Alors que les deux mastodontes Anthropic et OpenAI sont lancés dans une course à l&#8217;échalote sur les performances (et la désobéissance) de leurs modèles, Google veut revenir dans la course avec Gemini 4 Argon. La cybersécurité et le code sont particulièrement mis en avant.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0acf35cd357",
+          "title": "Les serveurs e-mail Zimbra visés par l’exploitation très active d’une faille critique",
+          "source": "Next INpact",
+          "url": "https://next.ink/259249/les-serveurs-e-mail-zimbra-vises-par-lexploitation-tres-active-dune-faille-critique/",
+          "category": "ia",
+          "published_at": "2026-10-01T07:36:06+00:00",
+          "summary": "Les personnes et organisations disposant de serveurs équipés de Zimbra pour la gestion de leurs e-mails doivent mettre à jour aussi rapidement que possible les composants logiciels. Une faille est exploitée depuis plus de deux mois, alors que le correctif existe depuis le 20…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2d487ed3ae3",
+          "title": "☕️ [MàJ] Sur LinkedIn, drôle de passe d’armes entre J-B Kempf (VLC) et Gérald Darmanin",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sur-linkedin-drole-de-passe-darmes-entre-jean-baptiste-vlc-et-gerald-darmanin/",
+          "category": "loi",
+          "published_at": "2026-10-01T06:45:00+00:00",
+          "summary": "Mise à jour, 1er octobre 2026, 8h45, complété à 10h00 pour préciser la chronologie : L&#8217;appel public lancé par Jean-Baptiste Kempf semble avoir porté ses fruits. Le Journal Officiel du 30 septembre révèle en effet qu&#8217;Audrey Prévost et trois autres candidats sont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e1b729b2657",
+          "title": "Discord accusée d’être un « terrain de chasse de mineurs » et de ne pas les protéger",
+          "source": "Next INpact",
+          "url": "https://next.ink/259150/discord-accusee-detre-un-terrain-de-chasse-de-mineurs-et-de-ne-pas-les-proteger/",
+          "category": "ia",
+          "published_at": "2026-10-01T06:28:00+00:00",
+          "summary": "Alors que le procès d&#8217;un membre du réseau 764 va s&#8217;ouvrir à Paris la semaine prochaine, l&#8217;association e-Enfance pointe l&#8217;explosion des violences faites aux mineurs sur la plateforme Discord. Attention : le sujet de cet article est particulièrement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3154a2ff758",
+          "title": "Microsoft dégaine ses conteneurs WSL (Linux) en version finale",
+          "source": "Next INpact",
+          "url": "https://next.ink/259181/microsoft-degaine-ses-conteneurs-wsl-linux-en-version-finale/",
+          "category": "ia",
+          "published_at": "2026-10-01T05:59:26+00:00",
+          "summary": "Microsoft a donné le coup d’envoi officiel pour ses conteneurs WSL. Ils permettent de créer, exécuter et gérer des conteneurs Linux directement depuis Windows. Au début de l’été, Microsoft a profité de sa conférence Build pour présenter un nouveau projet baptisé «&#160;WSL…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "articles": [
+        {
+          "id": "8fc325976e05",
+          "title": "Oasis archive recordings pulled from auction as band take legal action against former sound engineer",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/oasis-live-recordings-pulled-from-auction-as-band-take-legal-action-against-former-sound-engineer/",
+          "category": "ia",
+          "published_at": "2026-09-30T18:56:04+00:00",
+          "summary": "The claim was filed in the High Court in London on Tuesday (September 29)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82f3f0409bfd",
+          "title": "Key Songs In The Life Of… Michael Nash",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/key-songs-in-the-life-of-michael-nash/",
+          "category": "musique",
+          "published_at": "2026-09-30T17:11:35+00:00",
+          "summary": "Universal Music’s EVP and Chief Digital Officer Michael Nash tells us the tracks that influenced and inspired him…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3bc6fe681b4",
+          "title": "Warner sells EMP, the merch business it acquired for $180M in 2018, to whynow, owned by Mick Jagger’s son Gabe Jagger",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/embargoed-warner-sells-emp-the-merch-business-it-acquired-for-180m-in-2018-to-whynow-owned-by-mick-jaggers-son-gabe-jagger/",
+          "category": "ia",
+          "published_at": "2026-09-30T16:51:48+00:00",
+          "summary": "whynow is a London-headquartered media and commerce company\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c53a6b8e447",
+          "title": "Datacenters : de l’Europe aux États membres, personne n’impose la transparence",
+          "source": "Next INpact",
+          "url": "https://next.ink/259160/datacenters-de-leurope-aux-etats-membres-personne-nimpose-la-transparence/",
+          "category": "institutionnel",
+          "published_at": "2026-09-30T15:51:21+00:00",
+          "summary": "Malgré les dispositions de la directive relative à l’efficacité énergétique, un consortium de journalistes démontre l’incapacité, voire la mauvaise volonté de la Commission européenne et des États membres à faire la transparence sur les impacts environnementaux des centres de…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "fa75337f7c56",
           "title": "Oasis Sues to Block Auction of Unheard Recordings Held by Former Sound Engineer",
