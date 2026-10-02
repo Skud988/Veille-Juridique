@@ -1,9 +1,484 @@
 {
-  "generated_at": "2026-10-01T15:27:21.701915+00:00",
+  "generated_at": "2026-10-02T14:44:36.446135+00:00",
   "days": [
+    {
+      "date": "2026-10-02",
+      "articles": [
+        {
+          "id": "041964ef1cf4",
+          "title": "Brandi Carlile Played a Stonewall Fundraiser – and Stuck Around to Sing Celine Dion & Madonna Karaoke",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/brandi-carlile-stonewall-sad-gay-version-1236352204/",
+          "category": "ia",
+          "published_at": "2026-10-02T14:44:20+00:00",
+          "summary": "The Grammy winner toasted Returning to Myself (Sad Gay Version) at ground zero for the modern LGBTQ rights movement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a7da47c8592",
+          "title": "☕️ Fuite de données : et de quatre pour LDLC",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/fuite-de-donnees-et-de-quatre-pour-ldlc/",
+          "category": "ia",
+          "published_at": "2026-10-02T14:29:46+00:00",
+          "summary": "LDLC envoie actuellement des e-mails pour prévenir ses clients d’une nouvelle fuite de données. «&#160;Nous vous informons qu&#8217;un acte malveillant a permis un accès non autorisé à l&#8217;un de nos systèmes d&#8217;information, susceptible d&#8217;avoir entraîné la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5bfe1c08276",
+          "title": "Sienna Spiro: Photos From the Billboard Shoot",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/sienna-spiro-photos-billboard-shoot-1236350401/",
+          "category": "musique",
+          "published_at": "2026-10-02T14:00:02+00:00",
+          "summary": "Check out pics of the rising singer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cc9096ced7e",
+          "title": "Press Play on LISA’s New Highly Limited PlayStation Controller Designed With the Star’s Input",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/lisa-playstation-controller-limited-edition-shop-online-1236352092/",
+          "category": "ia",
+          "published_at": "2026-10-02T14:00:00+00:00",
+          "summary": "The wireless controller and accompanying merch will be available for preoder on Oct. 2 ahead of their releases later this month. Shop online here.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59761e88b683",
+          "title": "Mass Appeal & Whatnot Partner to Bring Hip-Hop to New York Comic Con Featuring Nas, Lauryn Hill, Busta Rhymes & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/events/mass-appeal-whatnot-hip-hop-new-york-comic-con-nas-fugees-1236352187/",
+          "category": "musique",
+          "published_at": "2026-10-02T14:00:00+00:00",
+          "summary": "The 5,000-square-foot shopping mall-inspired Whatnot Liveplex will be the \"Home of Hip-Hop Collectibles.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b589b678867",
+          "title": "The Intimacy Economy: Why Music Stars Are Going Small",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-intimacy-economy-why-music-stars-are-going-small/",
+          "category": "musique",
+          "published_at": "2026-10-02T13:53:25+00:00",
+          "summary": "Charli XCX called it “anti-marketing.” MBW columnist Diana Umana argues it’s a structural shift that the biggest artists have already caught on to…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e48d7a4ab40",
+          "title": "Alexander Skarsgård Has All the Slick Moves, But No Shirt in Video For Rolling Stones’ ‘Mr. Charm’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/alexander-skarsgard-video-rolling-stones-mr-charm-watch-1236352896/",
+          "category": "musique",
+          "published_at": "2026-10-02T13:35:10+00:00",
+          "summary": "The clip for the song from the band's Foreign Tongues album finds the Pillion star showing off some different kinds of sweaty maneuvers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fcd9fb30f7a",
+          "title": "La bêta d’Ubuntu 26.10 est disponible avec GNOME 51 et un noyau Linux 7.3",
+          "source": "Next INpact",
+          "url": "https://next.ink/259478/la-beta-dubuntu-26-10-est-disponible-avec-gnome-51-et-un-noyau-linux-7-3/",
+          "category": "ia",
+          "published_at": "2026-10-02T13:28:08+00:00",
+          "summary": "La bêta publique d’Ubuntu 26.10 peut maintenant être téléchargée et testée. Canonical a fait quelques choix «&#160;audacieux&#160;» dans le choix des composants, avec notamment un noyau Linux 7.3 non finalisé. Canonical avait prévenu que la bêta d’Ubuntu 26.10 serait en retard.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08ae7bf29a9d",
+          "title": "LDLC a été piraté : gare aux faux messages dans les prochaines semaines",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2345779-ldlc-a-ete-pirate-gare-aux-faux-messages-dans-les-prochaines-semaines.html",
+          "category": "ia",
+          "published_at": "2026-10-02T13:26:35+00:00",
+          "summary": "Le revendeur informatique lyonnais a prévenu ses clients qu'un acteur malveillant avait pu consulter une partie de leurs données personnelles. Les mots de passe et les informations bancaires ne sont pas concernés, selon l'entreprise, mais les données exposées suffisent à rendre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ee59d1dd858",
+          "title": "Austin City Limits 2026: Here’s Where to Watch the Three-Day Music Festival Live Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/austin-city-limits-festival-2026-watch-livestream-online-free-1236352339/",
+          "category": "musique",
+          "published_at": "2026-10-02T13:00:14+00:00",
+          "summary": "Starting on Friday (Oct. 2), you can watch the Austin-based festival with performances by Charli xcx, Skrillex, Twenty One Pilots, Lorde and others — online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "251e57763272",
+          "title": "Becky G to Join 2026 Billboard Latin Music Week for Exclusive Superstar Q&A",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/becky-g-2026-latin-music-week-superstar-q-and-a-1236352524/",
+          "category": "musique",
+          "published_at": "2026-10-02T13:00:00+00:00",
+          "summary": "Registration is now open for the Oct. 19-22 event at Faena Forum Miami Beach.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3684d497ce93",
+          "title": "Sienna Spiro Breaks Down Her ’60s Glam Inspiration, Insecurity & Finding Confidence | Billboard News Special",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/sienna-spiro-billboard-news-special/",
+          "category": "musique",
+          "published_at": "2026-10-02T13:00:00+00:00",
+          "summary": "Sienna Spiro gets real about insecurity, confidence, and building an “elevated” version of herself to step onstage. In this Billboard interview, Sienna Spiro talks glam, songwriting, and protecting her voice while gearing up for tour. Sienna shares how her love of ’60s glamour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62d31b2ce2de",
+          "title": "Live Nation backs new firm Creator Nation’s plans for a roll-up",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/live-nation-backs-new-firm-creator-nations-plans-for-a-roll-up/",
+          "category": "musique",
+          "published_at": "2026-10-02T12:30:00+00:00",
+          "summary": "Live Nation’s latest corporate move isn’t about music: it’s about the creatorsphere. The company has announced a new firm called Creator Nation, for which it is a “capital partner and strategic backer”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c268034060b",
+          "title": "Canadian report breaks down the climate risks for live music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/canadian-report-breaks-down-the-climate-risks-for-live-music/",
+          "category": "musique",
+          "published_at": "2026-10-02T12:30:00+00:00",
+          "summary": "The latest research into the climate emergency’s impact on live music comes from the Canadian Live Music Association with its ‘Sound Check: Climate Risk and Resilience in Canada&#8217;s Live Music Sector’ report.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f63e82ec54d",
+          "title": "Grammy Awards to press on with controversial ‘Asian Pop’ category",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/grammy-awards-to-press-on-with-controversial-asian-pop-category/",
+          "category": "musique",
+          "published_at": "2026-10-02T12:30:00+00:00",
+          "summary": "The Recording Academy has been fighting a fire in recent weeks after BTS declined to submit their latest music to the Grammy Awards in protest at the event’s new ‘Asian Pop’ category.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b30c7278b2a8",
+          "title": "Christmas music is already getting 36.2m daily Spotify streams",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/christmas-music-is-already-getting-36-2m-daily-spotify-streams/",
+          "category": "musique",
+          "published_at": "2026-10-02T12:30:00+00:00",
+          "summary": "A Santa-hat tip this morning to music-streamers in the Philippines, who are famously early to popping on their holiday playlists. 2026 is no exception.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b28eaad1e89b",
+          "title": "Billionaires can buy The Empty Pockets’ new album for $285k",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/billionaires-can-buy-the-empty-pockets-new-album-for-285k/",
+          "category": "musique",
+          "published_at": "2026-10-02T12:30:00+00:00",
+          "summary": "Who would pay $285,000 for a CD album? Billionaires, that’s who! Well, that’s the hope for Chicago band The Empty Pockets, with a special edition of their new album ‘Dear Billionaires’.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "498713071794",
+          "title": "YouTube Shorts algorithm will now ‘prioritise original content’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/youtube-shorts-algorithm-will-now-prioritise-original-content/",
+          "category": "musique",
+          "published_at": "2026-10-02T12:30:00+00:00",
+          "summary": "The ‘our algorithm is now recommending less unoriginal slop’ seems to have become a rite of passage for every big social or video platform. Even if boasting about this begs the question of why they didn’t adopt that policy earlier.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5f605ff7ce0",
+          "title": "TikTok report claims it helped generate $81bn in US GDP in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/tiktok-report-claims-it-helped-generate-81bn-in-us-gdp-in-2025/",
+          "category": "ia",
+          "published_at": "2026-10-02T12:30:00+00:00",
+          "summary": "Reports about how brilliant you are for the economy have long been a standard part of the lobbying process. YouTube does it, music industry bodies do it&#8230; and TikTok isn’t shirking the tactic either.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba291bdd456d",
+          "title": "France-Italie : où voir le match de foot en direct et en streaming ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2345395-france-italie-ou-voir-le-match-de-foot-en-direct-et-en-streaming.html",
+          "category": "justice",
+          "published_at": "2026-10-02T12:03:00+00:00",
+          "summary": "Après deux victoires en autant de matchs de Ligue des nations, Zinédine Zidane dirige les Bleus pour la première fois au Stade de France, ce vendredi 2 octobre à 20h45, face à l'Italie. Le match est diffusé en clair sur TF1 et en streaming sur TF1+.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4115a2a94451",
+          "title": "Violations de données personnelles : dans quels cas peut-on être indemnisé ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/violations-de-donnees-personnelles-cas-indemnite",
+          "category": "cnil",
+          "published_at": "2026-10-02T12:00:00+00:00",
+          "summary": "Une fuite ou un vol de données peut causer un préjudice pour les personnes concernées. Si l’incident résulte d’un manquement au RGPD, elles peuvent, sous certaines conditions, demander une indemnisation. C’est au juge, et non à la CNIL, de l’accorder.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea9bcc8b0d90",
+          "title": "Strategy Spotlight: Sandbox Guide – The smartest campaigns (so far!) in 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/strategy-spotlight-sandbox-guide-the-smartest-campaigns-so-far-in-2026/",
+          "category": "musique",
+          "published_at": "2026-10-02T11:48:21+00:00",
+          "summary": "If you’re a regular Music Ally reader, you know that it’s the time of the year where many music marketing teams around the world submit their proudest work of the year to us for our annual Music Ally Best’s Marketing Campaigns of the Year report (the deadline is on October 5,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b0b24698463",
+          "title": "Instagram adds in-app boosting for artist livestreams",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/instagram-adds-in-app-boosting-for-artist-livestreams/",
+          "category": "musique",
+          "published_at": "2026-10-02T11:45:23+00:00",
+          "summary": "Instagram has rolled out a new option this week that lets artist teams boost Instagram Live broadcasts directly from the app. It joins the existing boost options for posts, Stories and Reels.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "745cbbfbfe68",
+          "title": "What’s new in TikTok’s Taylor Swift in-app experience",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/whats-new-in-tiktoks-taylor-swift-in-app-experience/",
+          "category": "musique",
+          "published_at": "2026-10-02T11:42:00+00:00",
+          "summary": "TikTok frequently partners with artists on in-app experiences, helping to promote albums across its platform. It’s no surprise that they are giving Taylor Swift’s newly released The Life Of A Showgirl: The Encore such a treatment, but we’re much more interested in what the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab17d2962356",
+          "title": "Meta launches Forum, a dedicated app for Facebook groups",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/meta-launches-forum-a-dedicated-app-for-facebook-groups/",
+          "category": "ia",
+          "published_at": "2026-10-02T11:38:58+00:00",
+          "summary": "Meta has officially launched Forum, a standalone home for Facebook Groups that it has been testing since May. Rather than digging through the main Facebook app, users get every group they belong to in a single feed, plus a way to find new communities that match their…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff835a2a893f",
+          "title": "Écran 16 pouces, nouvelles jantes et V2L : la Tesla Model 3 progresse en Chine, la France est prochaine sur la liste",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2345537-ecran-16-pouces-nouvelles-jantes-et-v2l-la-tesla-model-3-progresse-en-chine-la-france-est-prochaine-sur-la-liste.html",
+          "category": "ia",
+          "published_at": "2026-10-02T11:30:00+00:00",
+          "summary": "Tesla a équipé toutes les Model 3 vendues en Chine d'un écran de 16 pouces et de la possibilité d'alimenter des appareils électriques jusqu'à 2,2 kW. Les États-Unis ont reçu le nouvel écran 24 heures plus tard. L'Europe, pourtant livrée par la même usine de Shanghai, n'a encore…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de96700b2471",
+          "title": "Suno is ‘far beyond’ 2m subscribers and $300m of annual revenue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/02/suno-is-far-beyond-2m-subscribers-and-300m-of-annual-revenue/",
+          "category": "musique",
+          "published_at": "2026-10-02T11:30:00+00:00",
+          "summary": "It’s been a little while since AI-music firm Suno announced its user and revenue stats. We’re not getting new figures just yet, but CEO Mikey Shulman provided an update of sorts in an interview with Bloomberg.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b11843fb67a",
+          "title": "8 heures pour rejoindre l’ISS : Crew-13 bat un record américain, mais ce n’est pas un exploit calculé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2345501-un-record-de-vitesse-pour-les-etats-unis-comment-crew-13-a-rejoint-liss-en-seulement-8-heures.html",
+          "category": "ia",
+          "published_at": "2026-10-02T11:02:00+00:00",
+          "summary": "Le vaisseau transportant l'équipage Crew-13 a rejoint la Station spatiale internationale après tout juste huit heures de vol. Du jamais vu pour les États-Unis, mais une réussite qui tient avant tout à la chance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "743c93a3dfc1",
+          "title": "Bradley Cooper s’empare de G.I. Joe avec un reboot complet et la fin du cross-over Transformers",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2345585-bradley-cooper-sempare-de-g-i-joe-avec-un-reboot-complet-et-la-fin-du-cross-over-transformers.html",
+          "category": "justice",
+          "published_at": "2026-10-02T10:44:00+00:00",
+          "summary": "Le rouleau compresseur d'Hollywood tente une nouvelle fois de ressusciter les figurines Hasbro. Paramount relance la licence G.I. Joe de zéro. Le studio a annoncé ce jeudi 1er octobre que Bradley Cooper jouera Duke dans un film réalisé par Danny McBride, sans lien avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c08f6123a76",
+          "title": "Avant la capture de Maduro, Trump a demandé à Grok comment les Vénézuéliens réagiraient",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2345489-avant-la-capture-de-maduro-trump-a-demande-a-grok-comment-les-venezueliens-reagiraient.html",
+          "category": "ia",
+          "published_at": "2026-10-02T10:30:00+00:00",
+          "summary": "En décembre 2025, un mois avant la capture de Nicolás Maduro, Donald Trump a demandé à Grok, le chatbot d'Elon Musk, comment les Vénézuéliens réagiraient, d'après le magazine Time. Le président en serait ressorti convaincu que cette IA était « ingénieuse ».",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e6ed53f260b8",
+          "title": "Pi, le petit agent IA autrichien qui veut tenir tête à Claude Code et Codex",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2345455-pi-le-petit-agent-ia-autrichien-qui-veut-tenir-tete-a-claude-code-et-codex.html",
+          "category": "ia",
+          "published_at": "2026-10-02T10:12:38+00:00",
+          "summary": "La société Earendil a publié le 1er octobre la première version stable de Pi, un agent d'IA open source qui a fait sensation sur Hacker News. Derrière ce lancement se joue une bataille moins visible que celle des modèles, mais tout aussi stratégique, celle de la couche…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a63d9955c217",
+          "title": "Deepfakes sexuels : Cloudflare, Google et Namecheap accusés de ne pas agir suffisamment",
+          "source": "Next INpact",
+          "url": "https://next.ink/259482/deepfakes-sexuels-cloudflare-google-et-namecheap-accuses-de-ne-pas-agir-suffisamment/",
+          "category": "ia",
+          "published_at": "2026-10-02T09:47:00+00:00",
+          "summary": "Depuis quelques années, la création et diffusion de deepfakes pornographiques ont explosé sur Internet. Trois chercheurs pointent la responsabilité des fournisseurs de services comme Cloudflare, Namecheap et Google dans la diffusion de ces images violentes qui poussent souvent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c91f0c37ac49",
+          "title": "Le harnais Pi passe en 1.0 : une alternative open source à Codex et Claude Code",
+          "source": "Next INpact",
+          "url": "https://next.ink/259487/le-harnais-pi-passe-en-1-0-une-alternative-open-source-a-codex-et-claude-code/",
+          "category": "ia",
+          "published_at": "2026-10-02T09:09:00+00:00",
+          "summary": "Pi est un harnais minimaliste open source, compatible avec plus de 1 500 modèles et variantes. C’est une alternative à Claude Code ou Codex, sans dépendre des modèles d’Anthropic ou d’OpenAI. Il vient de passer en version 1.0.0, signe de maturité selon ses développeurs. Pi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9461449b781d",
+          "title": "Les nouveaux AirPods 5 avec réduction de bruit sont déjà bradés sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2342485-les-nouveaux-airpods-5-avec-reduction-de-bruit-sont-deja-brades-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-10-02T08:45:47+00:00",
+          "summary": "[Deal du jour] Deux semaines après leur sortie, les AirPods 5 passent à 119 € sur Amazon, au lieu de 149 €. La version avec boîtier de charge sans fil descend à 139 € au lieu de 169 €. Dans les deux cas, la réduction active du bruit est incluse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08723ed7cf99",
+          "title": "Présidentielle 2027 : un débat sur l’IA entre souveraineté et clivages rejoués",
+          "source": "Next INpact",
+          "url": "https://next.ink/258927/presidentielle-2027-un-debat-sur-lia-entre-souverainete-et-clivages-rejoues/",
+          "category": "ia",
+          "published_at": "2026-10-02T08:41:26+00:00",
+          "summary": "À Marseille, huit représentants des candidats à l&#8217;élection présidentielle ont débattu de l&#8217;intelligence artificielle sous l&#8217;égide des médias du groupe CMA-CGM. Entre souveraineté, réglementation et investissements dans les datacenters, les échanges ont surtout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7619e765ecff",
+          "title": "Bridgerton : Eloise Bridgerton au cœur d’une fuite majeure pour la saison 6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2345389-bridgerton-eloise-bridgerton-au-coeur-dune-fuite-majeure-pour-la-saison-6.html",
+          "category": "ia",
+          "published_at": "2026-10-02T08:38:02+00:00",
+          "summary": "Alors que le tournage de la saison 5 de Bridgerton touche à sa fin, l'équipe de la série Netflix prépare déjà la suite. Une assistante des scénaristes a révélé par mégarde sur TikTok que l'écriture de la saison 6, consacrée à Eloise, avait commencé. Netflix ne l'a pas encore…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "543c1b64df3c",
+          "title": "Après une fusillade mortelle, Tesla permet de fuir les Superchargeurs en urgence sans se débrancher",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2345375-apres-une-fusillade-mortelle-tesla-permet-de-fuir-les-superchargeurs-en-urgence-sans-se-debrancher.html",
+          "category": "ia",
+          "published_at": "2026-10-02T08:27:15+00:00",
+          "summary": "Depuis ce jeudi 1er octobre, Tesla permet aux conducteurs américains de démarrer leur voiture encore branchée à un Superchargeur, en cas d'urgence. La fonction arrive deux mois après une fusillade meurtrière sur une station de recharge de Twin Falls, dans l'Idaho.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0f517eb2852",
+          "title": "Cette IA a discuté avec eux en visio : près de la moitié l’ont prise pour un humain",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2345381-cette-ia-a-discute-avec-eux-en-visio-pres-de-la-moitie-lont-prise-pour-un-humain.html",
+          "category": "ia",
+          "published_at": "2026-10-02T08:25:56+00:00",
+          "summary": "Tavus a présenté ce jeudi 1er octobre une IA capable de dialoguer en visioconférence et de réagir aux gestes comme aux silences. Dans un test mené par l’entreprise, près de la moitié des participants ont cru parler à un humain après une minute d’échange.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ca7978136d3",
+          "title": "Quatre tirs en quatre jours : SpaceX fait décoller toutes ses fusées, avec des misions inédites",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2345361-quatre-tirs-en-quatre-jours-spacex-fait-decoller-toutes-ses-fusees-avec-des-misions-inedites.html",
+          "category": "ia",
+          "published_at": "2026-10-02T08:18:01+00:00",
+          "summary": "SpaceX a lancé ses trois modèles de fusées en moins de quatre jours. Le Starship est parti ce lundi 28 septembre, puis deux Falcon 9 et une Falcon Heavy ont décollé en moins de 13 heures, entre ce jeudi 1er octobre et la nuit suivante. Pour la première fois, le Starship a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32bde89077a9",
+          "title": "Messages antisémites de Jordan Bardella : comment Mediapart a récupéré des données supprimées auprès de Facebook",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2345369-messages-antisemites-de-jordan-bardella-comment-mediapart-a-recupere-des-donnees-supprimees-aupres-de-facebook.html",
+          "category": "cnil",
+          "published_at": "2026-10-02T08:16:16+00:00",
+          "summary": "En plus de captures d'écran d'une conversation avec un utilisateur qui n'existe plus (et que l'on suppose être Jordan Bardella), Mediapart a récupéré des archives Facebook auprès de Meta pour prouver l'authenticité des captures d'écran et des messages antisémites. Une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b15835ee9eca",
+          "title": "Elon Musk va évaluer les futurs visages de la guerre pour le Pentagone",
+          "source": "Next INpact",
+          "url": "https://next.ink/259459/elon-musk-va-evaluer-les-futurs-visages-de-la-guerre-pour-le-pentagone/",
+          "category": "ia",
+          "published_at": "2026-10-02T07:12:00+00:00",
+          "summary": "Le patron de SpaceXAI va participer à la création d’un important rapport prospectif sur les futurs visages de la guerre. Outre son retour officiel dans les sphères du pouvoir, plusieurs médias pointent les risques de conflits d’intérêt. Le 30 septembre, le secrétaire américain à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32177e38db6f",
+          "title": "Clément Le Ludec : « Ne pas voir le travail de données nécessaire à l’IA nous arrange »",
+          "source": "Next INpact",
+          "url": "https://next.ink/259143/clement-le-ludec-ne-pas-voir-le-travail-de-donnees-necessaire-a-lia-nous-arrange/",
+          "category": "ia",
+          "published_at": "2026-10-02T06:37:00+00:00",
+          "summary": "Dans son essai Les damnés de la donnée, publié ce 2 octobre chez Raisons d’Agir, le sociologue Clément Le Ludec explore les conditions de travail des annotateurs de données destinées au marché français. Il argumente pour une réelle valorisation de leur expertise dans la chaîne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "419150eff9fc",
+          "title": "☕️ Hausse de prix pour les Raspberry Pi 4 et 5 de 2 Go, qui passent à 66 et 76 euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/hausse-de-prix-pour-les-raspberry-pi-4-et-5-de-2-go-qui-passent-a-66-et-76-euros/",
+          "category": "ia",
+          "published_at": "2026-10-02T06:19:17+00:00",
+          "summary": "C’est déjà la troisième hausse cette année. La première remonte à février et quasiment tous les modèles étaient touchés, la seconde en avril. La fondation expliquait alors avoir pu maintenir le prix des Raspberry Pi 4 et 5 avec 1 Go et 2 Go de mémoire, entre 35 et 65 dollars : «…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "articles": [
+        {
+          "id": "c56b19120893",
+          "title": "Less than three months after exiting Kobalt, Willard Ahdritz officially launches Ahdritz Capital Partners",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/less-than-three-months-after-exiting-kobalt-willard-ahdritz-officially-launches-ahdritz-capital-partners/",
+          "category": "ia",
+          "published_at": "2026-10-01T18:19:41+00:00",
+          "summary": "Ex-Lazard banker Stephen Langer and former SSE Ventures CEO Isabel Keulen join the Kobalt founder's new firm.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46315e149765",
+          "title": "ElevenLabs valuation doubles to $22B – four times that of AI music rival Suno",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elevenlabs-valuation-doubles-to-22b-four-times-that-of-ai-music-rival-suno/",
+          "category": "musique",
+          "published_at": "2026-10-01T18:04:43+00:00",
+          "summary": "ElevenLabs completed a USD $300 million employee tender offer at a valuation of $22 billion.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9bb3f6933f0",
+          "title": "Frank Briegmann promoted to Chairman & CEO of Universal Music Europe, Australia, New Zealand, Canada & Deutsche Grammophon",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/frank-briegmann-promoted-to-chairman-ceo-of-universal-music-europe-australia-new-zealand-canada-deutsche-grammophon/",
+          "category": "musique",
+          "published_at": "2026-10-01T17:01:02+00:00",
+          "summary": "The appointment expands the remit of Briegmann, who will continue to report to Sir Lucian Grainge, Chairman &#038; CEO of Universal Music Group.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db2449839e65",
+          "title": "Warner Music Central Europe appoints former Adidas exec Nici Ochmann as Head of Culture & Creator Marketing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-central-europe-appoints-former-adidas-exec-nici-ochmann-as-head-of-culture-creator-marketing/",
+          "category": "musique",
+          "published_at": "2026-10-01T16:12:14+00:00",
+          "summary": "Nici  Ochmann joins Warner Music (WM) Central Europe after a 10-year tenure at Adidas, where she most recently served as Global Culture Marketing Cluster Lead for GSA.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "22af8a698a20",
           "title": "Universal Music Group Promotes Frank Briegmann to Chairman & CEO Europe, Australia, New Zealand, Canada & Deutsche Grammophon",
@@ -342,6 +817,16 @@
           "category": "musique",
           "published_at": "2026-10-01T12:00:00+00:00",
           "summary": "Imminent AI bubble-burst? What imminent AI bubble-burst? The investors in AI company ElevenLabs – the firm behind the Eleven Music which is also working on a separate project with UMG – don’t seem worried.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a44f8dec99e3",
+          "title": "Ordre du jour de la séance plénière du 1er octobre 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-1er-octobre-2026",
+          "category": "institutionnel",
+          "published_at": "2026-10-01T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 1er octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
           "summary_type": "extrait source"
         },
         {
