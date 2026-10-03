@@ -1,9 +1,294 @@
 {
-  "generated_at": "2026-10-02T14:44:36.446135+00:00",
+  "generated_at": "2026-10-03T13:23:25.053617+00:00",
   "days": [
+    {
+      "date": "2026-10-03",
+      "articles": [
+        {
+          "id": "17a707b4dcb5",
+          "title": "Sur Dofus, ce joueur relève un défi fou : atteindre le niveau 200 sans quitter Incarnam (il y est presque)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2345491-sur-dofus-ce-joueur-releve-un-defi-fou-atteindre-le-niveau-200-sans-quitter-incarnam-il-y-est-presque.html",
+          "category": "ia",
+          "published_at": "2026-10-03T12:04:00+00:00",
+          "summary": "Sur Dofus, « le fou d'Incarnam » s’est lancé un défi : atteindre le niveau 200 sans jamais quitter la zone des débutants. Déjà niveau 195, il raconte sa progression sur X.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d75d0c9d37e",
+          "title": "Flock : prose à hic",
+          "source": "Next INpact",
+          "url": "https://next.ink/259731/flock-prose-a-hic/",
+          "category": "ia",
+          "published_at": "2026-10-03T11:37:00+00:00",
+          "summary": "Ah, je ne suis pas critique littéraire… Tout ce que je sais : la littérature faite avec ses mains, c’est bien. Faite avec ses pieds, avec ou sans IA, c’est plus dur, faut être une pointure ! Sinon gare à ne pas se faire griller les doigts de pied. Quoi qu&#8217;il arrive avec…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c99e9d1689c",
+          "title": "Mondial de l’Auto 2026 : les voitures électriques attendues sur les stands, marque par marque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2289973-mondial-de-lauto-2026-toutes-les-voitures-electriques-attendues.html",
+          "category": "ia",
+          "published_at": "2026-10-03T11:05:27+00:00",
+          "summary": "Quelles seront les voitures électriques à découvrir au Mondial de l'Auto de Paris 2026 ? Cette édition devrait être l'endroit choisi par de nombreuses marques pour exposer leurs nouveautés et des concepts plus ou moins proches d'une version finale. Voici les modèles attendus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7fa9a5b5ff0",
+          "title": "0,17 € le kWh : la guerre des centimes entre E.Leclerc et Lidl pour la recharge la moins chère de France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2346141-017-e-le-kwh-la-guerre-des-centimes-entre-e-leclerc-et-lidl-pour-la-recharge-la-moins-chere-de-france.html",
+          "category": "ia",
+          "published_at": "2026-10-03T10:10:58+00:00",
+          "summary": "Après le coup d'éclat de Lidl abaissant son tarif de recharge AC à 0,18 €/kWh, E.Leclerc riposte immédiatement en dégainant une offre à 0,17 €/kWh sur ses bornes 22 kW. Que cache cette bataille sur le prix de la recharge&nbsp;?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51d309f5b632",
+          "title": "Abandon de l’EQE aux États-Unis ? Mercedes prépare juste l’arrivée de son successeur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2346131-abandon-de-leqe-aux-etats-unis-mercedes-prepare-juste-larrivee-de-son-successeur.html",
+          "category": "ia",
+          "published_at": "2026-10-03T08:52:01+00:00",
+          "summary": "Le retrait de la berline EQE du marché américain était un bon indice pour se pencher sur l’avenir de ce modèle. Alors que les ventes du modèle s’effondrent à l’échelle mondiale, Mercedes prépare en fait déjà sa succession pour 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f47889483445",
+          "title": "The Witcher 3 Remastered a un problème de cheveux, Mercredi a déjà sa saison 3, et le speedrun de Metal Gear Solid 2 évolue : c’est le récap pop culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2345851-the-witcher-3-remastered-a-un-probleme-de-cheveux-la-saison-3-de-mercredi-est-deja-tournee-et-le-speedrun-de-metal-gear-solid-2-evolue-ca-va-vite-dans-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-10-03T08:00:00+00:00",
+          "summary": "Cette semaine, il est question de poils et de vitesse dans le récap pop culture hebdomadaire de Numerama. Du côté de CD Projekt Red, on vous conseille de désactiver l'option Nvidia HairWorks dans la version Remastered de The Witcher 3. La saison 3 de Mercredi, quant à elle, a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01fdd3b88944",
+          "title": "Jimmy Barnes Pays Tribute to Angry Anderson With Rose Tattoo Cover",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/jimmy-barnes-angry-anderson-tribute-rose-tattoo-cover-1236353768/",
+          "category": "ia",
+          "published_at": "2026-10-03T07:56:45+00:00",
+          "summary": "The Australian rock icon released his version of “Rock ’n’ Roll Is King,” with all proceeds to charity, following the Rose Tattoo frontman’s death.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d55f4b2c70c2",
+          "title": "Tesla vend plus de voitures que prévu, mais BYD creuse l’écart sur l’électrique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2346123-tesla-vend-plus-de-voitures-que-prevu-mais-byd-creuse-lecart-sur-lelectrique.html",
+          "category": "ia",
+          "published_at": "2026-10-03T07:07:03+00:00",
+          "summary": "Avec 486 532 véhicules électriques livrés au troisième trimestre 2026, Tesla dépasse les prévisions des analystes de Wall Street et s'offre un bilan solide. Pour autant, la marque américaine a perdu son statut de leader de l’électrique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c457dacd79d",
+          "title": "Zach Bryan Wears ‘Free Palestine’ Shirt at Robert Kraft’s Gillette Stadium",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/zach-bryan-free-palestine-shirt-gillette-stadium-robert-kraft-macklemore-1236353748/",
+          "category": "ia",
+          "published_at": "2026-10-03T04:04:05+00:00",
+          "summary": "It comes after Macklemore was dropped from the remaining U.S. dates of Ed Sheeran’s Loop Tour over the rapper’s pro-Palestinian statements.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8661f5d5e271",
+          "title": "Ye’s Two Russian Stadium Concerts Canceled, Promoters Announce: ‘Sincere Regret’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/kanye-west-russian-stadium-concerts-canceled-1236351799/",
+          "category": "musique",
+          "published_at": "2026-10-03T00:36:09+00:00",
+          "summary": "The two announced gigs at St. Peterburg's Gazprom Arena were in limbo from the start after the venue stated that it had not signed a rental agreement.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "articles": [
+        {
+          "id": "dc2e786e6b02",
+          "title": "Drake Responds to Karol G Starring as Bruno Mars’ ‘Juliet’ in Romantic ‘Dance With Me’ Video: ‘This Guy Works Fast’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/drake-karol-g-bruno-mars-back-forth-dance-with-me-video-1236353602/",
+          "category": "ia",
+          "published_at": "2026-10-02T23:55:15+00:00",
+          "summary": "The love triangle mystery continues.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "578d1d908b32",
+          "title": "Watch Panteón Rococó Bring Pro-Immigrant Struggle to Tiny Desk Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/panteon-rococo-tiny-desk-concert-pro-immigrant-struggle-1236353681/",
+          "category": "musique",
+          "published_at": "2026-10-02T22:48:44+00:00",
+          "summary": "The iconic Mexican ska-rock band joins the famous NPR series during Hispanic Heritage Month.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "072775395c73",
+          "title": "Are You an Independent Artist? Here Are 6 Billboard Latin Music Week 2026 Panels You Can’t Miss",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/latin-music-week-2026-key-panels-independent-artists/",
+          "category": "musique",
+          "published_at": "2026-10-02T22:01:27+00:00",
+          "summary": "If you're starting your career and will be attending the event this month, these conversations are key for you.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98a2b44b3252",
+          "title": "In Canada: Universal Music Canada Lays Off Staff Across Several Departments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/universal-music-canada-lays-off-employees-canada-news/",
+          "category": "musique",
+          "published_at": "2026-10-02T22:00:59+00:00",
+          "summary": "Also this week: Billboard Canada 40 Under 40 is returning in November.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef7fa1d6a301",
+          "title": "Is Role Model the Most Famous Person From Maine? Here’s What He Said on ‘Chicken Shop Date’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/role-model-maine-most-famous-chicken-shop-date-video-1236353593/",
+          "category": "ia",
+          "published_at": "2026-10-02T21:37:31+00:00",
+          "summary": "Stephen King &#38; Anna Kendrick are also from the Pine Tree State.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74ac0dbcf948",
+          "title": "From Warner’s EMP sell-off to Universal Music’s Briegmann promotion… it’s MBW’s Weekly Round-Up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-warners-emp-sell-off-to-universal-musics-briegmann-promotion-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-10-02T16:52:54+00:00",
+          "summary": "The biggest headlines from the past few days...\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf4db839f95f",
+          "title": "Bill Withers’ publisher sues UMG, Sony, and Kobalt, claiming Olivia Dean’s ‘I’ve Seen It’ copies ‘Just the Two of Us’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bill-withers-publisher-sues-umg-sony-and-kobalt-claiming-olivia-deans-ive-seen-it-copies-just-the-two-of-us/",
+          "category": "ia",
+          "published_at": "2026-10-02T16:51:23+00:00",
+          "summary": "The plaintiff says its representatives came to what they considered to be the \"obvious and inescapable conclusion\" that Dean's song copied the Withers track.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8576551eea58",
+          "title": "‘I would rather have 1% of a hit record than 100% of a record that wasn’t.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tyler-brown-i-would-rather-have-1-of-a-hit-record-than-100-of-a-record-that-wasnt/",
+          "category": "ia",
+          "published_at": "2026-10-02T16:49:40+00:00",
+          "summary": "Tyler Brown, founder of London-based Funfair, on hits, loyalty, and why songwriters should be taking a share of master income\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2aa2e89b4fa9",
+          "title": "Minecraft dans GTA, Call of Duty dans Skyrim… les jeux commencent à fusionner dans tous les sens à cause des agents IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2345701-minecraft-dans-gta-call-of-duty-dans-skyrim-les-jeux-commencent-a-fusionner-dans-tous-les-sens-a-cause-des-agents-ia.html",
+          "category": "ia",
+          "published_at": "2026-10-02T16:45:00+00:00",
+          "summary": "De la TNT Minecraft qui explose dans GTA, des armes et des zombies de Call of Duty dans Skyrim, des séquences relayées sur les réseaux sociaux montrent des jeux qui fusionnent parfaitement. Plusieurs de ces vidéos ont été réalisées avec des agents IA, qui écrivent désormais une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77809b9dc392",
+          "title": "Suno is ‘far beyond’ 2m subscribers and $300m in revenue, says Mikey Shulman – who argues it’s ‘good’ that AI music has no ‘firm rules of the road’ yet",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
+          "category": "musique",
+          "published_at": "2026-10-02T16:42:55+00:00",
+          "summary": "Shulman also set out what WMG and BMG get from their deals, and who should be setting AI's rules.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a8631347c4b",
+          "title": "An $8M streaming fraud, two plays a day. Here’s the pro-rata math behind the bot scheme – and the rule change that would have killed it.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/an-8m-streaming-fraud-two-plays-a-day-heres-the-pro-rata-math-behind-the-bot-scheme-and-the-rule-change-that-would-have-killed-it/",
+          "category": "justice",
+          "published_at": "2026-10-02T16:42:39+00:00",
+          "summary": "Ahead of Tuesday's sentencing in the first US criminal streaming fraud case, MBW breaks down the pro-rata arithmetic behind Michael Smith's bot scheme.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d8d603c031e",
+          "title": "Yusim Aladro promoted to General Manager at Warner Music Mexico",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/yusim-aladro-promoted-to-general-manager-at-warner-music-mexico/",
+          "category": "musique",
+          "published_at": "2026-10-02T16:42:21+00:00",
+          "summary": "She reports to Tomas Rodríguez, President of Warner Music Mexico and Música Mexicana.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e493da70552e",
+          "title": "La liseuse couleur Kindle Colorsoft d’Amazon baisse son prix avec l’arrivée du nouveau modèle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2345873-la-liseuse-couleur-kindle-colorsoft-damazon-baisse-son-prix-avec-larrivee-du-nouveau-modele.html",
+          "category": "ia",
+          "published_at": "2026-10-02T15:08:04+00:00",
+          "summary": "[Deal du jour] La Kindle Colorsoft permet d’avoir plusieurs milliers de romans et BD avec soi, et de les lire en couleur. Son prix baisse après l'annonce de la nouvelle génération, attendue le 11 novembre en France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6915ef44da7",
+          "title": "Datacenters : Google affirme prélever 72 % de son eau en zone peu stressée… vraiment ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/259609/datacenters-google-affirme-prelever-72-de-son-eau-en-zone-peu-stressee-vraiment/",
+          "category": "institutionnel",
+          "published_at": "2026-10-02T15:04:43+00:00",
+          "summary": "Cela fait maintenant trois ans que Google fait cavalier seul sur ses pourcentages d’eau douce prélevée dans des zones avec un niveau de stress hydrique faible, moyen ou élevé. Nous avons décidé de recalculer ses propres chiffres par rapport au standard du secteur, le WRI. Le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f38db41d415",
+          "title": "C’est un signe de plus de la guerre du futur : les USA créent un commandement militaire dédié aux drones, robots et systèmes autonomes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2345717-cest-un-signe-de-plus-de-la-guerre-du-futur-les-usa-creent-un-commandement-militaire-dedie-aux-drones-robots-et-systemes-autonomes.html",
+          "category": "ia",
+          "published_at": "2026-10-02T15:00:00+00:00",
+          "summary": "Pete Hegseth, secrétaire américain à la Guerre, a annoncé ce mercredi 30 septembre 2026 la création d'un commandement à quatre étoiles consacré aux drones et aux systèmes autonomes, prévu pour le 1er octobre 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87f585ed1b4a",
+          "title": "Changan doit faire des économies chez Deepal et Avatr avant même leur offensive en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2345885-changan-doit-faire-des-economies-chez-deepal-et-avatr-avant-meme-leur-offensive-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-10-02T14:58:25+00:00",
+          "summary": "En Chine, l'heure n'est plus à la multiplication effrénée des marques électriques, mais plutôt aux fusions. Cette fois, c’est dans le groupe Changan que Deepal et Avatr travaillent à regrouper leurs opérations et limiter le gaspillage de ressources.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52cd41377fc1",
+          "title": "arXiv limite les soumissions à 2 par mois pour faire face à la submersion due à la genAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/259620/arxiv-limite-les-soumissions-a-2-par-mois-pour-faire-face-a-la-submersion-due-a-la-genai/",
+          "category": "ia",
+          "published_at": "2026-10-02T14:53:24+00:00",
+          "summary": "Submergée par les propositions d&#8217;articles générés par IA, la plus ancienne et populaire des plateformes de prépublication scientifique resserre encore ses restrictions de soumissions. La soumission incessante d&#8217;articles générés par IA commence à épuiser les équipes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85b4b9e5793b",
+          "title": "La semaine intense de SpaceX : toutes ses fusées utilisées, première orbite du Starship, record américain de vitesse vers l’ISS et mission top secrète",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2345361-la-semaine-intense-de-spacex-toutes-ses-fusees-utilisees-premiere-orbite-du-starship-record-americain-de-vitesse-vers-liss-et-mission-top-secrete.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-02T14:48:40+00:00",
+          "summary": "SpaceX a lancé ses trois modèles de fusées en moins de quatre jours. Le Starship est parti ce lundi 28 septembre, puis deux Falcon 9 et une Falcon Heavy ont décollé en moins de 13 heures, entre ce jeudi 1er octobre et la nuit suivante. Pour la première fois, le Starship a…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "041964ef1cf4",
           "title": "Brandi Carlile Played a Stonewall Fundraiser – and Stuck Around to Sing Celine Dion & Madonna Karaoke",
@@ -22,6 +307,16 @@
           "category": "ia",
           "published_at": "2026-10-02T14:29:46+00:00",
           "summary": "LDLC envoie actuellement des e-mails pour prévenir ses clients d’une nouvelle fuite de données. «&#160;Nous vous informons qu&#8217;un acte malveillant a permis un accès non autorisé à l&#8217;un de nos systèmes d&#8217;information, susceptible d&#8217;avoir entraîné la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8a18e46e6df",
+          "title": "Donald Trump a interrogé Grok sur les effets d’une capture de Maduro au Venezuela, un mois avant de l’ordonner",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2345489-donald-trump-a-interroge-grok-sur-les-effets-dune-capture-de-maduro-au-venezuela-un-mois-avant-de-lordonner.html",
+          "category": "ia",
+          "published_at": "2026-10-02T14:20:00+00:00",
+          "summary": "En décembre 2025, un mois avant la capture de Nicolás Maduro, Donald Trump a demandé à Grok, le chatbot d'Elon Musk, comment les Vénézuéliens réagiraient, d'après le magazine Time. Le président en serait ressorti convaincu que cette IA était « ingénieuse ».",
           "summary_type": "extrait source"
         },
         {
