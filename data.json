@@ -1,9 +1,204 @@
 {
-  "generated_at": "2026-10-03T13:23:25.053617+00:00",
+  "generated_at": "2026-10-04T14:05:16.267271+00:00",
   "days": [
+    {
+      "date": "2026-10-04",
+      "articles": [
+        {
+          "id": "3fbfdd85a5f0",
+          "title": "J’ai quitté ma chaise ergonomique pour voir ce que valait cette chaise gaming XL de DXRacer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2341547-jai-quitte-ma-chaise-ergonomique-pour-voir-ce-que-valait-cette-chaise-gaming-xl-de-dxracer.html",
+          "category": "ia",
+          "published_at": "2026-10-04T14:02:00+00:00",
+          "summary": "Pendant trois semaines, j’ai remplacé ma chaise de bureau habituelle par une DXRacer Master XL en tissu. Un fauteuil généreux, bien fini et particulièrement agréable lorsque vient le moment d’incliner le dossier. Son assise ferme m’a toutefois moins convaincu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad087402a6e7",
+          "title": "Le fléau cyber prend de l’ampleur et deux scénarios se distinguent : c’est quoi le LLM-jacking ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2345263-le-fleau-cyber-prend-de-lampleur-et-deux-scenarios-se-distinguent-cest-quoi-le-llm-jacking.html",
+          "category": "ia",
+          "published_at": "2026-10-04T12:01:00+00:00",
+          "summary": "Revente de comptes d'IA volés à prix cassés, détournement discret de serveurs cloud… Un analyste de Google a alerté fin septembre sur l'essor du LLM-jacking.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2b9d6412650",
+          "title": "NFL London Game 2026: Where to Watch Indianapolis Colts vs. Washington Commanders Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-colts-commanders-watch-live-online-free-1236352881/",
+          "category": "musique",
+          "published_at": "2026-10-04T10:30:00+00:00",
+          "summary": "Livestream the Colts take on the Commanders live from London on Oct. 4 — plus, watch Jordyn Simone and Mimi Webb perform their country's national anthems, ahead of kickoff.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5da1fdf00722",
+          "title": "6 films qui vont secouer le cinéma en octobre 2026, avec un blockbuster français qui succède à De Gaulle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2342029-6-films-qui-vont-secouer-le-cinema-en-octobre-2026-avec-un-blockbuster-francais-qui-succede-a-de-gaulle.html",
+          "category": "ia",
+          "published_at": "2026-10-04T10:02:00+00:00",
+          "summary": "Entre suites spirituelles attendues au tournant, classiques de la littérature française relookés et propositions de genre bien barrées, le calendrier des sorties s'annonce particulièrement dense en octobre 2026. Voici la sélection des six sorties grand écran qui méritent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f80170ecff5",
+          "title": "Test de Well Dweller, un digne héritier d’Hollow Knight",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2345525-test-de-well-dweller-un-digne-heritier-dhollow-knight.html",
+          "category": "ia",
+          "published_at": "2026-10-04T08:02:00+00:00",
+          "summary": "Articulé autour d'un oiseau mignon qui se défend avec une allumette, Well Dweller emprunte aux meilleurs metroidvania, Hollow Knight en tête, tout en imposant sa propre identité. Notre test.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d7eff93eafd",
+          "title": "Polaris on Honoring Ryan Siew With ‘Without You’ & Their Good Things Return",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/polaris-ryan-siew-good-things-festival-1236343902/",
+          "category": "ia",
+          "published_at": "2026-10-04T06:46:11+00:00",
+          "summary": "The Australian band reflects on its first new song in three years, the decision to keep touring and a milestone Good Things Festival set.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77923a2325a8",
+          "title": "Renault et Stellantis traînent des pieds pour le leasing social, et ce n’est pas sans raison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2345959-renault-et-stellantis-trainent-des-pieds-pour-le-leasing-social-et-ce-nest-pas-sans-raison.html",
+          "category": "ia",
+          "published_at": "2026-10-04T06:38:00+00:00",
+          "summary": "Le gouvernement veut des voitures électriques à moins de 150 € par mois. Les constructeurs, eux, ont quelques objections. Le vaudeville joué par le gouvernement contre les constructeurs français a été au cœur de l'édito Watt Else du 1er octobre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70cb3d3c7332",
+          "title": "Ne dites plus meme coin, mais cyberjeton mème",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2345973-ne-dites-plus-meme-coin-mais-cyberjeton-meme.html",
+          "category": "ia",
+          "published_at": "2026-10-04T06:01:00+00:00",
+          "summary": "Le Journal officiel du mardi 29 septembre 2026 a donné un équivalent français à meme coin : « jeton mème », ou « cyberjeton mème » dans sa forme longue. Sa définition officielle précise que ces jetons se prêtent particulièrement aux escroqueries.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb0be976a4a3",
+          "title": "Taylor Swift Makes Surprise ‘SNL’ Cameo in Dakota Johnson’s Monologue",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/taylor-swift-dakota-johnson-snl-monologue-1236353893/",
+          "category": "ia",
+          "published_at": "2026-10-04T04:24:47+00:00",
+          "summary": "The bit ended with Swift noting she sends Johnson home with \"a Pedialyte\" and a security escort.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a92f1a2769d5",
+          "title": "Dakota Johnson & Turnstile on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-dakota-johnson-turnstile-watch-live-online-free-1236352925/",
+          "category": "musique",
+          "published_at": "2026-10-04T00:30:00+00:00",
+          "summary": "Livestream the Fifty Shades of Grey actress host and Baltimore hardcore punk band perform on Saturday, Oct. 3 — watch live online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9567c33d79d",
+          "title": "Nostalgic Board Game ‘Guess Who?’ Drops NFL Edition Featuring Travis Kelce: Buy It Here",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/guess-who-nfl-edition-board-game-travis-kelce-buy-online-1236064196/",
+          "category": "ia",
+          "published_at": "2026-10-04T00:04:00+00:00",
+          "summary": "The NFL Guess Who? board game is an officially-licensed collaboration between the league and toymaker Hasbro.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-03",
       "articles": [
+        {
+          "id": "11c25f4189a2",
+          "title": "How Paul McCartney Wound Up Performing at Taylor Swift’s Wedding",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/paul-mccartney-taylor-swift-wedding-song-performance-1236353877/",
+          "category": "musique",
+          "published_at": "2026-10-03T23:55:36+00:00",
+          "summary": "The music legend shared his perspective from Swift and Travis Kelce's summer event at Madison Square Garden.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f59ef0392570",
+          "title": "AC/DC Brings Out Foo Fighters’ Dave Grohl for ‘Highway to Hell’ at MetLife Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/acdc-dave-grohl-highway-to-hell-metlife-stadium-1236353873/",
+          "category": "musique",
+          "published_at": "2026-10-03T20:08:34+00:00",
+          "summary": "The iconic rockers played the final concert of their Power Up Tour on Oct. 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf5e60774656",
+          "title": "Le secret de Renault face aux Chinois, la Dacia électrique à 11 000 € et la nouvelle BMW i3 impressionne : le récap Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2345791-le-secret-de-renault-face-aux-chinois-la-dacia-electrique-a-11-000-e-et-la-nouvelle-bmw-i3-impressionne-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-10-03T17:02:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : Renault nous explique comment son patrimoine automobile l'aide face à la concurrence chinoise, Dacia va produire une petite voiture électrique à 11 000 € et nos impressions à bord de la nouvelle BMW i3.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eba5de1ef2a8",
+          "title": "Après l’affaire de Thélyson Orélien et l’IA, Voici les meilleurs romans de S-F qui parlent d’intelligence artificielle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2342835-voici-les-meilleurs-romans-de-science-fiction-sur-lintelligence-artificielle-a-lire.html",
+          "category": "ia",
+          "published_at": "2026-10-03T16:30:00+00:00",
+          "summary": "Vous n'êtes sans doute pas passé à côté de la polémique autour de C'était ça ou mourir. Le roman de Thélyson Orélien a été accusé d'avoir été écrit à l'aide de l'intelligence artificielle. À l'heure où l'IA s'immisce partout, le soupçon qu'un auteur en ait usé pour écrire son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33f737bdd3a6",
+          "title": "Lebara propose un forfait 200 Go à moins de 10 € par mois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2345965-lebara-propose-un-forfait-200-go-a-moins-de-10-e-par-mois.html",
+          "category": "ia",
+          "published_at": "2026-10-03T16:00:36+00:00",
+          "summary": "[Deal du jour] Lebara vient de remanier sa gamme de forfaits mobiles. Son forfait 5G 200 Go sur le réseau SFR est à 9,99 € par mois et sans engagement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5cce45b9feba",
+          "title": "Canal+ : les meilleures séries à voir en octobre 2026 pour se changer les idées",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2343121-canal-les-meilleures-series-a-voir-en-octobre-2026-pour-se-changer-les-idees.html",
+          "category": "ia",
+          "published_at": "2026-10-03T15:02:00+00:00",
+          "summary": "Marre des comédies françaises poussives et des thrillers tièdes taillés pour le prime time ? Canal+ multiplie les formules d'abonnement, mais sa sélection de séries exige de séparer le grain de l'ivraie. Entre polars, fresques criminelles sans concession et reconstitutions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba92df66dde5",
+          "title": "Jailbreak de la PS5, conférence OpenAI et Facebook de Jordan Bardella– le récap’ tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2345895-jailbreak-de-la-ps5-conference-openai-et-facebook-de-jordan-bardella-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-10-03T14:10:00+00:00",
+          "summary": "Cette semaine, Sony a une nouvelle fois fait parler de lui avec l'annonce de l'upscaling QSSR pour les PS5… mais aussi le jailbreak de sa console, devenu plus simple que jamais. On a aussi beaucoup parlé d'intelligence artificielle et d'OpenAI avec la grande conférence du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ecd9d98a6455",
+          "title": "L’IA pourrait-elle vraiment provoquer la disparition de l’humanité ? 5 scénarios passés au crible",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2344183-lia-pourrait-elle-vraiment-provoquer-la-disparition-de-lhumanite-5-scenarios-passes-au-crible.html",
+          "category": "ia",
+          "published_at": "2026-10-03T13:31:00+00:00",
+          "summary": "Une IA surpuissante pourrait poursuivre ses objectifs au mépris de la survie humaine. Elle pourrait aussi faciliter la création d’armes biologiques ou contribuer au déclenchement d’une guerre nucléaire. Le danger le plus crédible tient peut-être à ses effets sur nos sociétés :…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "17a707b4dcb5",
           "title": "Sur Dofus, ce joueur relève un défi fou : atteindre le niveau 200 sans quitter Incarnam (il y est presque)",
@@ -37,6 +232,16 @@
         {
           "id": "a7fa9a5b5ff0",
           "title": "0,17 € le kWh : la guerre des centimes entre E.Leclerc et Lidl pour la recharge la moins chère de France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2346141-017-e-le-kwh-la-guerre-des-centimes-entre-e-leclerc-et-lidl-pour-la-recharge-la-moins-chere-de-france.html",
+          "category": "ia",
+          "published_at": "2026-10-03T10:10:58+00:00",
+          "summary": "Après le coup d'éclat de Lidl abaissant son tarif de recharge AC à 0,18 €/kWh, E.Leclerc riposte immédiatement en dégainant une offre à 0,17 €/kWh sur ses bornes 22 kW. Que cache cette bataille sur le prix de la recharge&nbsp;?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ab3657e3c22",
+          "title": "La guerre des centimes entre E.Leclerc et Lidl pour la recharge la moins chère de France",
           "source": "Numerama",
           "url": "https://www.numerama.com/vroom/2346141-017-e-le-kwh-la-guerre-des-centimes-entre-e-leclerc-et-lidl-pour-la-recharge-la-moins-chere-de-france.html",
           "category": "ia",
