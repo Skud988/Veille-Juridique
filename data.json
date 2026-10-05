@@ -1,6 +1,491 @@
 {
-  "generated_at": "2026-10-04T14:05:16.267271+00:00",
+  "generated_at": "2026-10-05T17:08:53.433153+00:00",
   "days": [
+    {
+      "date": "2026-10-05",
+      "articles": [
+        {
+          "id": "7e3939e86dc6",
+          "title": "Megan Thee Stallion Poses In a Sexy Cat-Inspired Outfit — and Her Hotties Love It: ‘This Is Purrfection’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/megan-thee-stallion-sexy-cat-costume-outfit-1236354104/",
+          "category": "ia",
+          "published_at": "2026-10-05T17:01:00+00:00",
+          "summary": "She recently befriended an orange cat while recording Act III and has a Maine Coon cat at home.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5195cbb264f7",
+          "title": "Taylor Swift’s ‘Patient Zero’ Debuts at No. 1 on Billboard Hot 100",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/taylor-swift-patient-zero-hot-100-number-one-debut/",
+          "category": "musique",
+          "published_at": "2026-10-05T16:57:21+00:00",
+          "summary": "Swift scores her 16th leader, dethroning Ella Langley’s record 24-week chart-topper, “Choosin’ Texas.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "345267387c76",
+          "title": "Passe Navigo à 93,40 €, ticket unique à 2,45 € : la nouvelle grille tarifaire qui se prépare pour 2027",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2346937-passe-navigo-a-9340-e-ticket-unique-a-245-e-la-nouvelle-grille-tarifaire-qui-se-prepare-pour-2027.html",
+          "category": "ia",
+          "published_at": "2026-10-05T16:52:49+00:00",
+          "summary": "Les tarifs du passe Navigo devraient encore augmenter en 2027. Le Navigo mensuel passerait de 90,80 € actuellement à 93,40 €, soit une hausse de 2,60 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d05a21d747e",
+          "title": "Olivia Rodrigo Says ‘Shame on Cornell’ Amid Fraternity Rape Lawsuit: ‘I Stand With Jane Doe’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-slams-cornell-amid-rape-lawsuit-1236354098/",
+          "category": "ia",
+          "published_at": "2026-10-05T16:32:53+00:00",
+          "summary": "The singer condemned the university and \"every institution who protects rapists and abusers over women.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "370861b23d08",
+          "title": "UMG is now managing 130+ artists in Southeast Asia",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-is-now-managing-130-artists-in-southeast-asia-says-adam-granite-who-wants-a-future-that-isnt-filled-with-slop/",
+          "category": "musique",
+          "published_at": "2026-10-05T16:30:56+00:00",
+          "summary": "Granite spoke during a fireside session at the Music Matters strand of the All That Matters conference in Singapore on October 5\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e10d039a135",
+          "title": "BLACKPINK’s LISA Confronts Working With New Producers in Latest ‘Always Lalisa’ Doc Trailer: ‘I Felt Really Shy About Showing My Skills’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/blackpink-lisa-working-new-producers-always-lalisa-trailer-1236354114/",
+          "category": "ia",
+          "published_at": "2026-10-05T16:24:35+00:00",
+          "summary": "Director Sue Kim's film about a year in the life of the K-pop superstar will hit IMAX and cinemas worldwide on Oct. 12.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9631120b720",
+          "title": "GPT-6 Astra devait créer un bot StarCraft : l’IA a préféré tricher en copiant le meilleur humain",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2346707-gpt-6-astra-devait-creer-un-bot-starcraft-lia-a-prefere-tricher-en-copiant-le-meilleur-humain.html",
+          "category": "ia",
+          "published_at": "2026-10-05T15:42:18+00:00",
+          "summary": "Le vendredi 2 octobre, GPT-6 Astra, un modèle d'OpenAI, devait écrire un bot StarCraft pour le banc d'essai StarSkirmish. Il a téléchargé à la place Stardust, le meilleur bot écrit par un humain. Le créateur du test, Kai McPheeters, a effacé le code copié. Brood War sert depuis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8065fd3c9f07",
+          "title": "Face aux chansons générées par IA, Sony Music multiplie les demandes de retrait",
+          "source": "Next INpact",
+          "url": "https://next.ink/259935/face-aux-chansons-generees-par-ia-sony-music-multiplie-les-demandes-de-retrait/",
+          "category": "ia",
+          "published_at": "2026-10-05T15:36:00+00:00",
+          "summary": "Sony Music prend le taureau par les cornes pour lutter contre les streams illégaux de chansons générées par IA. Fin septembre, la major a demandé aux plateformes le retrait de plus de 260&#160;000 morceaux, un volume multiplié par deux par rapport aux trois premiers mois de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27d0682edb32",
+          "title": "Quand les bornes de recharge ultra-rapides de BYD sont détournées en balançoires par des enfants",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2346757-quand-les-bornes-de-recharge-ultra-rapides-de-byd-sont-detournees-en-balancoires-par-des-enfants.html",
+          "category": "ia",
+          "published_at": "2026-10-05T15:19:20+00:00",
+          "summary": "Le 2 octobre à Nanning, dans le sud de la Chine, deux enfants ont été filmés en train de se balancer aux câbles d'une borne de recharge Flash Charging de BYD. Le constructeur a envoyé une équipe inspecter la station après que la vidéo a circulé sur les réseaux sociaux chinois.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd03ce8b9698",
+          "title": "Fast and Furious : Vin Diesel lâche enfin l’info que tous les fans attendaient",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2346729-fast-and-furious-vin-diesel-lache-enfin-linfo-que-tous-les-fans-attendaient.html",
+          "category": "ia",
+          "published_at": "2026-10-05T15:13:21+00:00",
+          "summary": "On croyait la saga sur le point de franchir la ligne d'arrivée avec son ultime volet au cinéma. C'était mal connaître la capacité d'Hollywood à essorer ses franchises jusqu'au dernier litre d'essence. La série TV donne de ses nouvelles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1e4c8aad48f",
+          "title": "Chrissie Hynde Praises Taylor Swift’s New Song ‘Cleveland!’: ‘A Girl Who Stays on the Cutting Edge’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/chrissie-hynde-praises-taylor-swift-song-cleveland-1236354085/",
+          "category": "ia",
+          "published_at": "2026-10-05T15:07:08+00:00",
+          "summary": "\"Hats off to Taylor for commemorating Akron’s main competition,\" The Pretenders frontwoman gushed.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f7266dfbf68",
+          "title": "7, 42, M, bleu… Le hasard très prévisible des IA génératives",
+          "source": "Next INpact",
+          "url": "https://next.ink/259809/7-42-m-bleu-le-hasard-tres-previsible-des-ia-generatives/",
+          "category": "ia",
+          "published_at": "2026-10-05T15:03:15+00:00",
+          "summary": "Régulièrement, sur les réseaux sociaux, on voit passer une phrase du genre : demandez à une IA de proposer un nombre entre 1 et 30, elle répondra 17. C’est vrai dans la grande majorité des cas, mais c’est bien plus large que cela… la suite pourrait bien vous surprendre. Chez…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e1a3f35221a4",
+          "title": "Jay Wheeler Announces La Voz Favorita World Tour: All the Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/jay-wheeler-tour-dates-la-voz-favorita-world-tour-1236354006/",
+          "category": "musique",
+          "published_at": "2026-10-05T15:00:00+00:00",
+          "summary": "Following his participation in Billboard Latin Music Week, the Puerto Rican star will tour Spain, the U.S. and Latin America through mid-2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b52275993e9c",
+          "title": "Crédit Agricole brièvement en panne ce lundi : le site et l’application de la banque française ont rencontré des bugs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2346787-credit-agricole-en-panne-ce-lundi-le-site-et-lapplication-de-la-banque-francaise-rencontrent-des-bugs.html",
+          "category": "ia",
+          "published_at": "2026-10-05T14:38:33+00:00",
+          "summary": "Des clients du Crédit Agricole ont signalé des problèmes ce lundi 5 octobre 2026 après-midi. Une brève panne empêchait les connexions aux services de la banque française, sur l'application ou sur le site.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3a5cbac7230",
+          "title": "Apple va brider une fonction cruciale des Mac pour empêcher les agents IA de fouiller partout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2346659-apple-va-brider-une-fonction-cruciale-des-mac-pour-empecher-les-agents-ia-de-fouiller-partout.html",
+          "category": "ia",
+          "published_at": "2026-10-05T14:27:45+00:00",
+          "summary": "Apple a annoncé de nouveaux contrôles autour de l'accès complet au disque sur macOS. L'entreprise estime que certains développeurs détournent cette autorisation et que l'essor des agents IA rend le risque plus pressant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2de2ddd377e1",
+          "title": "Star Wars: Galactic Racer en promo un jour avant sa sortie, pour les inconsolables de Burnout et Need For Speed",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2346453-star-wars-galactic-racer-en-promo-un-jour-avant-sa-sortie-pour-les-inconsolables-de-burnout-et-need-for-speed.html",
+          "category": "ia",
+          "published_at": "2026-10-05T14:19:51+00:00",
+          "summary": "[Précommande] Star Wars: Galactic Racer sort le 6 octobre 2026, mais il profite déjà d'une belle réduction. Le jeu de course de Fuse Games est en précommande à 44,99 € au lieu de 59,99 € sur Amazon, en version physique sur PS5 et Xbox Series.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b6dc478a8e9",
+          "title": "☕️ Apple annonce un renforcement des autorisations d’accès au disque dans macOS",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-annonce-un-renforcement-des-autorisations-dacces-au-disque-dans-macos/",
+          "category": "ia",
+          "published_at": "2026-10-05T14:16:00+00:00",
+          "summary": "Le 2 octobre, Apple a fait savoir par une courte note destinée aux développeurs que des changements allaient être introduits pour renforcer l’accès complet au disque dans macOS. L’entreprise indique que de nombreux contrôles ont été mis en place avec le temps sur son système,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f98904c928db",
+          "title": "Natanael Cano Talks His ‘Tupac, DMX, Chalino Sánchez Flow’ and Says ‘Mexico Never Lets Me Down’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/natanael-cano-vol-1-album-mexico-tour-video-interview-1236354054/",
+          "category": "musique",
+          "published_at": "2026-10-05T14:08:53+00:00",
+          "summary": "The King of Corridos Tumbados spoke with Billboard Español minutes before kicking off his stadium tour across Mexico.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0226645400f7",
+          "title": "Annulé ? Maintenu ? Que se passe t-il avec le prochain film Seigneur des anneaux ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2346627-annule-maintenu-que-se-passe-t-il-avec-le-prochain-film-seigneur-des-anneaux.html",
+          "category": "ia",
+          "published_at": "2026-10-05T14:03:25+00:00",
+          "summary": "Après plusieurs heures de panique chez les fans de la Terre du Milieu, Warner Bros. est sorti du silence. Alors que des rumeurs annonçaient la mise au placard du film Le Seigneur des anneaux : Shadows of the Past suite à la fusion géante entre Paramount et Warner Bros, le studio…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9348b7decfed",
+          "title": "Phoebe Bridgers (and Nine of Her Collaborators) Talk Injecting ‘Fresh Blood’ Into Her ‘Lost Weekend’ Album’s Sound",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/phoebe-bridgers-lost-weekend-collaborators-oral-history-1236352042/",
+          "category": "musique",
+          "published_at": "2026-10-05T14:00:00+00:00",
+          "summary": "Here's a deep dive into how they made her expansive new album — which could well wind up a multicategory contender.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15ea282c3ea2",
+          "title": "☕️ IA et copyright : en appel, Thomson Reuters gagne de nouveau contre Ross Intelligence",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/ia-et-copyright-en-appel-thomson-reuters-gagne-de-nouveau-contre-ross-intelligence/",
+          "category": "ia",
+          "published_at": "2026-10-05T13:58:55+00:00",
+          "summary": "En février 2025, déjà, la société d’information financière Thomson Reuters gagnait un premier procès contre la start-up d’IA juridique Ross Intelligence. Pour entraîner ses systèmes, cette dernière était accusée d’avoir utilisé la base de données Westlaw, dont Thomson Reuters…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a5ee3aa8b8a",
+          "title": "Des roquettes contre des drones kamikazes : le lanceur Rampart de Naval Group vient de tirer en mer pour la première fois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2346639-des-roquettes-contre-des-drones-kamikazes-le-lanceur-rampart-de-naval-group-vient-de-tirer-en-mer-pour-la-premiere-fois.html",
+          "category": "ia",
+          "published_at": "2026-10-05T13:39:35+00:00",
+          "summary": "Le Rampart, le nouveau lanceur anti-drones de Naval Group, a fait ses premiers tirs en mer lors de l’exercice Wildfire de la Marine nationale, au large de Toulon, du 28 septembre au 2 octobre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e090f4c5d390",
+          "title": "☕️ Huawei et Qualcomm font affaire malgré les restrictions américaines",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/huawei-et-qualcomm-font-affaire-malgre-les-restrictions-americaines/",
+          "category": "ia",
+          "published_at": "2026-10-05T12:58:00+00:00",
+          "summary": "Malgré les restrictions imposées par les États-Unis, les affaires continuent pour Huawei. Le géant chinois et Qualcomm ont annoncé un accord pluriannuel de licences de brevets sur des technologies comme la 5G, l&#8217;IA, les réseaux, l&#8217;informatique. Qualcomm va également…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2443593250b0",
+          "title": "Zach Bryan breaks Gillette Stadium record (in a Free Palestine t-shirt)",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/05/zach-bryan-breaks-gillette-stadium-record-in-a-free-palestine-t-shirt/",
+          "category": "musique",
+          "published_at": "2026-10-05T12:30:00+00:00",
+          "summary": "AEG Presents had a new number to trumpet this weekend: country star Zach Bryan broke the attendance record for the Gillette Stadium in Foxborough, with 73,538 fans attending his second night there.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "017a0e297412",
+          "title": "Pope delivers AI warning: ‘Algorithms lack the spark of humanity’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/05/pope-delivers-ai-warning-algorithms-lack-the-spark-of-humanity/",
+          "category": "musique",
+          "published_at": "2026-10-05T12:30:00+00:00",
+          "summary": "We did not expect to be writing a story about the Pope in 2026, let alone two, but here we are. Pope Leo XIV has been sounding off again about artificial intelligence and art – this time in a post on X.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "011d1ba0e168",
+          "title": "Beatport gets backing from investment firm Square Nine Capital",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/05/beatport-gets-backing-from-investment-firm-square-nine-capital/",
+          "category": "musique",
+          "published_at": "2026-10-05T12:30:00+00:00",
+          "summary": "Electronic-music firm Beatport has a new investor: Square Nine Capital. Announced last week, it has refinanced an “existing credit facility” of the company, providing “additional capital to support Beatport’s strategic priorities”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b27903153a5c",
+          "title": "SeatGeek launches predictive-intelligence tool for live bookers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/05/seatgeek-launches-predictive-intelligence-tool-for-live-bookers/",
+          "category": "musique",
+          "published_at": "2026-10-05T12:30:00+00:00",
+          "summary": "Ticketing-tech firm SeatGeek has launched a new product that’s for promoters and venues rather than music fans. TourIQ is a predictive-intelligence tool.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d14eab5e65b",
+          "title": "Décès suspect en Sibérie : pourquoi la peste est-elle encore étudiée en 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2346263-deces-suspect-en-siberie-pourquoi-la-peste-est-elle-encore-etudiee-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-10-05T12:13:10+00:00",
+          "summary": "Le décès d'une technicienne travaillant dans un laboratoire russe spécialisé dans la peste pourrait être lié à cette maladie. Une maladie qui n'a jamais disparu depuis le Moyen Âge. Même si elle ne représente plus le même fléau aujourd'hui qu'à cette époque, les scientifiques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6ff928727d8",
+          "title": "Union européenne : 138 députées victimes de deepfakes pornographiques",
+          "source": "Next INpact",
+          "url": "https://next.ink/259869/union-europeenne-138-deputees-victimes-de-deepfakes-pornographiques/",
+          "category": "ia",
+          "published_at": "2026-10-05T12:12:36+00:00",
+          "summary": "7,3 % des femmes élues au sein d&#8217;une Assemblée nationale européenne sont visées par des deepfakes pornographiques, calcule l&#8217;ONG Agora Digitale Transformation. Plus de deux fois plus nombreux au sein de ces chambres de représentation politique, leurs homologues…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5e31f2f4c0c",
+          "title": "Le cinéma français en danger ? Canal+ tire la sonnette d’alarme",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2346501-face-a-une-tva-a-20-canal-alerte-sur-un-danger-pour-le-cinema-francais.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-05T11:55:00+00:00",
+          "summary": "Invité ce lundi 5 octobre au micro de RTL, Maxime Saada, président du directoire de Canal+, a tiré à boulets rouges sur le projet de budget 2027 qui prévoit de doubler la TVA de la télévision payante. Selon lui, cela pourrait mettre en danger le cinéma français.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a05c92bb7a4c",
+          "title": "Sony Music has now filed 260k takedowns of AI-deepfake tracks",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/05/sony-music-has-now-filed-260k-takedowns-of-ai-deepfake-tracks/",
+          "category": "musique",
+          "published_at": "2026-10-05T11:30:00+00:00",
+          "summary": "In March 2025, Sony Music said that it had successfully gotten more than 75k AI-generated deepfakes of its artists from various online platforms. A year later, in March 2026, the company said that it had now filed more than 135k of these takedown notices.\nThe post is from Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1ae819720c6",
+          "title": "Sans Siri AI en Europe, faut-il craindre qu’Apple ne lance plus ses nouveautés chez nous ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2346319-sans-siri-ai-en-europe-faut-il-craindre-quapple-ne-lance-plus-ses-nouveautes-chez-nous.html",
+          "category": "ia",
+          "published_at": "2026-10-05T10:35:42+00:00",
+          "summary": "Selon Bloomberg, la situation de Siri AI en Europe ne serait pas sur le point de s'améliorer. Pire, Apple utiliserait son intelligence artificielle comme un moyen de pression sur la Commission européenne, ce qui suggère que la marque n'a aucun intérêt à trouver un compromis à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eef74858bee8",
+          "title": "Sony Music has now asked platforms to remove more than 260,000 AI deepfakes imitating artists like Harry Styles, Adele, and Michael Jackson",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/",
+          "category": "ia",
+          "published_at": "2026-10-05T10:19:00+00:00",
+          "summary": "Sony told the Financial Times that the fight against AI tracks impersonating artists such as Harry Styles and Adele is \"becoming an uphill struggle.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e8653888009",
+          "title": "Elon Musk change déjà le nom de SpaceXAI pour faire plaisir à Donald Trump",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2346253-elon-musk-change-deja-le-nom-de-spacexai-pour-faire-plaisir-a-donald-trump.html",
+          "category": "ia",
+          "published_at": "2026-10-05T10:12:56+00:00",
+          "summary": "Elon Musk a annoncé le 4 octobre 2026 vouloir rebaptiser SpaceXAI, la branche IA de SpaceX (anciennement xAI), en SpaceXSI. Il reprend ainsi le vocabulaire promu par Donald Trump, qui veut que l'on parle de super intelligence et non plus d'intelligence artificielle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f91c5edf735",
+          "title": "☕️ Le navigateur Orion pour Mac abandonne ses versions Linux et Windows",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-navigateur-orion-pour-mac-abandonne-ses-versions-linux-et-windows/",
+          "category": "ia",
+          "published_at": "2026-10-05T10:04:35+00:00",
+          "summary": "Orion est un navigateur conçu d’abord pour macOS. Après une version 1.0 sortie en novembre 2025 et une 1.1 en juin, Orion s’est fait un petit nom dans le domaine des butineurs. Orion est bâti autour de WebKit, le moteur utilisé par Safari, avec l’idée bien sûr d’une intégration…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "048cb74cca59",
+          "title": "Grammys will keep ‘Asian Pop’ category for 2027 awards, as Stray Kids follow BTS in declining to submit music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/grammys-will-keep-asian-pop-category-for-2027-awards-as-stray-kids-follow-bts-in-declining-to-submit-music/",
+          "category": "ia",
+          "published_at": "2026-10-05T10:02:28+00:00",
+          "summary": "Recording Academy CEO Harvey Mason jr. said the organization was \"confident it's the right conclusion for the music community overall.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0769d7ce6223",
+          "title": "A US appeals court has rejected a ‘fair use’ defense over AI training. What does it mean for the labels’ fight with Suno?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/a-us-appeals-court-has-rejected-a-fair-use-defense-over-ai-training-what-does-it-mean-for-the-labels-fight-with-suno/",
+          "category": "musique",
+          "published_at": "2026-10-05T10:01:47+00:00",
+          "summary": "The US Court of Appeals ruled for Thomson Reuters and against AI legal research company ROSS Intelligence on September 29\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "090648d1c2b8",
+          "title": "Live Nation is bankrolling Creator Nation, a creator-management roll-up, with its first acquisitions due in the coming months",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-is-bankrolling-creator-nation-a-creator-management-roll-up-with-its-first-acquisitions-due-in-the-coming-months/",
+          "category": "musique",
+          "published_at": "2026-10-05T10:00:29+00:00",
+          "summary": "Alongside creator-management firms, Creator Nation will acquire and scale what Live Nation describes as \"adjacent businesses\".\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c1dda64768b",
+          "title": "Sony Music UK hires Jack Fryer from Universal Music as President of Catalogue, Digital Media and Sync",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-uk-hires-jack-fryer-from-universal-music-as-president-of-catalogue-digital-media-and-sync/",
+          "category": "musique",
+          "published_at": "2026-10-05T09:59:37+00:00",
+          "summary": "After spending more than a decade at Universal Music in senior strategy roles, Fryer now reports to Azi Eftekhari, Sony Music UK's Chief Operating Officer.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd34732623c7",
+          "title": "Erica Campbell’s label settles royalty lawsuit against distributor SRG/ILS Group, 15 days after suing for $1M+",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/erica-campbells-label-settles-royalty-lawsuit-against-distributor-srg-ils-group-15-days-after-suing-for-1m/",
+          "category": "musique",
+          "published_at": "2026-10-05T09:59:00+00:00",
+          "summary": "The two sides settled before SRG had formally responded to the lawsuit in court, and no court has ruled on whether My Block's claims were valid.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a08daff68e4",
+          "title": "☕️ Sept ans après son lancement, la NVIDIA Shield TV Pro voit son prix grimper à 299 euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sept-ans-apres-son-lancement-la-nvidia-shield-tv-pro-voit-son-prix-passer-a-299-euros/",
+          "category": "ia",
+          "published_at": "2026-10-05T09:56:00+00:00",
+          "summary": "Toujours vaillante en dépit de son architecture vieille de dix ans, la console NVIDIA Shield TV compte au rang des nouvelles victimes des tensions liées à l&#8217;approvisionnement en mémoire provoquées par la course à l&#8217;IA. NVIDIA, qui ne commercialise plus que la version…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2add307b491",
+          "title": "☕️ Android : la vérification des développeurs tiers débute dans quatre pays",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/android-la-verification-des-developpeurs-tiers-debute-dans-quatre-pays/",
+          "category": "ia",
+          "published_at": "2026-10-05T09:44:36+00:00",
+          "summary": "En mars 2026, Google a annoncé de profondes modifications pour le «&#160;sideloading&#160;» des applications sur Android. Le sideloading désigne la possibilité d’installer des applications en passant par d’autres moyens que le Play Store ou même les boutiques tierces. C’est une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2ff2ba69bba",
+          "title": "Facturation électronique : fuite d’informations chez VosFactures à cause d’un prestataire",
+          "source": "Next INpact",
+          "url": "https://next.ink/259753/facturation-electronique-fuite-dinformations-chez-vosfactures-a-cause-dun-prestataire/",
+          "category": "ia",
+          "published_at": "2026-10-05T09:09:09+00:00",
+          "summary": "Alors que l&#8217;obligation de facturation électronique est entrée en vigueur le 1ᵉʳ&#160;septembre, une première plateforme agréée annonce une fuite de données. Elle n&#8217;a pas été directement attaquée, la brèche venant d&#8217;un prestataire polonais. Le problème a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c70053fc5e8f",
+          "title": "Donald Trump nomme un tsar de l’IA et crée une Super Intelligence Force",
+          "source": "Next INpact",
+          "url": "https://next.ink/259751/donald-trump-nomme-un-tsar-de-lia-et-cree-une-super-intelligence-force/",
+          "category": "institutionnel",
+          "published_at": "2026-10-05T08:41:00+00:00",
+          "summary": "Donald Trump a annoncé dimanche que Jay Clayton, directeur du renseignement national, devenait son nouveau tsar de l&#8217;IA, en charge du pilotage d&#8217;une nouvelle Super Intelligence Force (SIF). Cette dernière est chargée de rendre d&#8217;ici 120 jours un rapport sur les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e8401a68d404",
+          "title": "Children’s speaker firm Yoto’s revenues grew by 43% in 2025",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/05/childrens-speaker-firm-yotos-revenues-grew-by-43-in-2025/",
+          "category": "musique",
+          "published_at": "2026-10-05T08:18:08+00:00",
+          "summary": "We recently reported on the latest devices from children’s speakers maker Yoto. Now the company has published its financial results.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a546fc7ffcd3",
+          "title": "☕️ Fuite de données à la région Hauts-de-France, avec « potentiellement des RIB »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/fuite-de-donnees-a-la-region-hauts-de-france-avec-potentiellement-des-rib/",
+          "category": "institutionnel",
+          "published_at": "2026-10-05T08:12:00+00:00",
+          "summary": "Chaque jour ou presque sa fuite de données. C’est au tour de la région des Hauts-de-France de confirmer dans un communiqué avoir été victime d&#8217;une cyberattaque « ayant permis un accès non autorisé à des données personnelles traitées pour son compte », comme le rapporte…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1742330afa4f",
+          "title": "Le DGX Spark descend à 64 Go, NVIDIA moteur et « victime » de la pénurie de mémoire",
+          "source": "Next INpact",
+          "url": "https://next.ink/259743/le-dgx-spark-descend-a-64-go-nvidia-moteur-et-victime-de-la-penurie-de-memoire/",
+          "category": "ia",
+          "published_at": "2026-10-05T07:31:13+00:00",
+          "summary": "La crise de la mémoire est en très grande partie alimentée par NVIDIA qui a besoin de toujours plus de HBM pour ses GPU haut de gamme. Cette crise provoque des hausses de prix sur les composants (mémoire vive, SSD…), mais aussi sur des produits NVIDIA, dont le DGX Spark avec une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92ccdd9702a9",
+          "title": "☕️ #LIDD 56k.rip : Internet en 28/56k, comme il y a 30 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lidd-56k-rip-internet-en-28-56k-comme-il-y-a-30-ans/",
+          "category": "ia",
+          "published_at": "2026-10-05T06:09:44+00:00",
+          "summary": "Vous avez la nostalgie informatique des années 90 ? C’était l’époque du bon vieux Windows 95, puis de Windows 98, mais surtout celle des modems permettant d’accéder à Internet par ligne commutée. Pour bien commencer la semaine (et prendre un coup de vieux pour les plus des 30…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-04",
       "articles": [
