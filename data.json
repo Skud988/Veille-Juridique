@@ -1,9 +1,574 @@
 {
-  "generated_at": "2026-10-06T15:12:27.238778+00:00",
+  "generated_at": "2026-10-07T15:33:28.476011+00:00",
   "days": [
+    {
+      "date": "2026-10-07",
+      "articles": [
+        {
+          "id": "1723cec318e6",
+          "title": "‘New Year’s Rockin’ Eve’ Set to Simulcast Live on ABC & Disney+ for the First Time",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/new-years-rockin-eve-2027-simulcast-live-abc-disney-plus-1236355848/",
+          "category": "musique",
+          "published_at": "2026-10-07T15:30:00+00:00",
+          "summary": "Druski joins the long-running program as Chicago co-host.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "032060c2cf34",
+          "title": "Here Are All the Hot 100 & Billboard 200 Chart Records That Taylor Swift Has Broken",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/taylor-swift-hot-100-billboard-200-chart-records-broken/",
+          "category": "musique",
+          "published_at": "2026-10-07T15:28:25+00:00",
+          "summary": "From Taylor Swift to The Life of a Showgirl, here’s a look at every record she holds on Billboard's premier song and album charts.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9835c2017d59",
+          "title": "This Remote Irish Music Festival Honors a Guitar Great. It’s At Risk Of Never Happening Again",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/rory-gallagher-international-tribute-festival-ballyshannon-1236350334/",
+          "category": "musique",
+          "published_at": "2026-10-07T15:28:20+00:00",
+          "summary": "Inside the Rory Gallagher International Tribute Festival, which started in 2003 — and, now for the first time, is facing an uncertain future.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8fa1eb3f8d9",
+          "title": "OpenAI inonde la recherche avec 722 « prépublications » de mathématiques générées par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/260335/openai-inonde-la-recherche-avec-722-prepublications-de-mathematiques-generees-par-ia/",
+          "category": "ia",
+          "published_at": "2026-10-07T15:25:21+00:00",
+          "summary": "Tout à son idée de montrer la puissance de ses outils, OpenAI a mis en ligne 722 prépublications de mathématiques générées par IA. L&#8217;entreprise met en ligne des « résultats » se trouvant pourtant à « différents stades de vérification », en s&#8217;appuyant sur l&#8217;avis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9697572e9566",
+          "title": "Olivia Rodrigo Spent an ‘Exorbitant Amount of Money’ on This Iconic White Stripes Artifact",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-bought-meg-white-dress-white-stripes-elephant-1236355951/",
+          "category": "ia",
+          "published_at": "2026-10-07T15:18:52+00:00",
+          "summary": "She decided against wearing it to Daisy Chain Fields because it was “too f--king hot.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe377a8f9dad",
+          "title": "On a vu The Social Reckoning : le film de Sorkin taille un costard à Facebook (critique sans spoilers)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2348667-on-a-vu-the-social-reckoning-le-film-de-sorkin-taille-un-costard-a-facebook-critique-sans-spoilers.html",
+          "category": "ia",
+          "published_at": "2026-10-07T15:12:33+00:00",
+          "summary": "Seize ans après The Social Network, Aaron Sorkin passe lui-même derrière la caméra pour raconter les Facebook Files et l'histoire de la lanceuse d'alerte Frances Haugen. The Social Reckoning, en salle ce mercredi 7 octobre, dresse un portrait sans pitié de Facebook, mais sa mise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d108cc7dbb4",
+          "title": "‘Stray Kids World Tour ‘RUN IT’ Live Viewing’ Coming To Theaters Next Month",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/stray-kids-world-tour-run-it-live-viewing-movie-theaters-1236355907/",
+          "category": "musique",
+          "published_at": "2026-10-07T14:53:03+00:00",
+          "summary": "Tickets for the November movie event from the Tokyo Dome will go on sale on Oct. 14.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "631a4c0c52fa",
+          "title": "Olivia Dean Lawsuit, AI Fraudster Sentence, Erica Campbell Case & More Top Music Law News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/legal-beat-olivia-dean-lawsuit-ai-fraud-erica-campbell/",
+          "category": "musique",
+          "published_at": "2026-10-07T14:39:41+00:00",
+          "summary": "In this week's Legal Beat newsletter, a battle over \"Just the Two of Us\", a streaming fraud prison sentence, a gospel music settlement and much more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cda5b502c0d5",
+          "title": "Phono V streaming rate proposals filed with US Copyright Royalty Board, as DIMA points to 30% growth in publishing revenues since 2022",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/phono-v-streaming-rate-proposals-filed-with-us-copyright-royalty-board-as-dima-points-to-30-growth-in-publishing-revenues-since-2022/",
+          "category": "justice",
+          "published_at": "2026-10-07T14:38:04+00:00",
+          "summary": "The proceeding will set the mechanical rates on-demand streaming services pay US songwriters and publishers from 2028 through 2032.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09fc1fbbfea7",
+          "title": "Bruxelles cherche à taxer les grandes entreprises américaines du numérique sans les nommer",
+          "source": "Next INpact",
+          "url": "https://next.ink/260456/bruxelles-cherche-a-taxer-les-grandes-entreprises-americaines-du-numerique-sans-les-nommer/",
+          "category": "ia",
+          "published_at": "2026-10-07T14:08:00+00:00",
+          "summary": "Il n&#8217;aura échappé à personne que les finances publiques de plusieurs pays européens sont au plus bas. Difficile pour Bruxelles de demander une rallonge pour boucler le budget européen. La Commission cherche donc de nouvelles recettes, en visant les grandes entreprises……",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed8319b8aadd",
+          "title": "SynthID Detector : Google lance un outil pour repérer les contenus générés par IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2348527-synthid-detector-google-lance-un-outil-pour-reperer-les-contenus-generes-par-ia.html",
+          "category": "ia",
+          "published_at": "2026-10-07T14:00:00+00:00",
+          "summary": "Google DeepMind ouvre au grand public SynthID Detector, son outil capable de repérer le filigrane invisible caché dans les images, vidéos et fichiers audio générés par IA. SynthID était initialement utilisé seulement par Google, mais OpenAI, de NVIDIA, Kakao et Apple l'adoptent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74aa7099cff6",
+          "title": "7 Key Conversations to Check Out During Billboard Latin Music Week: Maluma, Pitbull & Becky G & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/billboard-latin-music-week-2026-qas-maluma-becky-g-pitbull/",
+          "category": "musique",
+          "published_at": "2026-10-07T14:00:00+00:00",
+          "summary": "Catch all the Superstar and Icon Q&#38;As taking place on Oct. 19-21 at the Faena Forum Miami Beach.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "178fcc2a915e",
+          "title": "Behind The Campaign: James Johnston",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/07/behind-the-campaign-james-johnston/",
+          "category": "musique",
+          "published_at": "2026-10-07T14:00:00+00:00",
+          "summary": "Behind The Campaign: James Johnston How going hyper-local created a global community Australia→ South Africa→ Nashville→ UK→ Sweden→ Canada→ Germany James Johnston is a country singer-songwriter from Australia who started putting out his music independently in 2021. He released…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed41ac683deb",
+          "title": "Comment des hackers ont pu se faire passer pour Google en piratant trois extensions nationales",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2348685-comment-des-hackers-ont-pu-se-faire-passer-pour-google-en-piratant-trois-extensions-nationales.html",
+          "category": "ia",
+          "published_at": "2026-10-07T13:54:39+00:00",
+          "summary": "En piratant les organismes qui gèrent les extensions .gh, .sl et .as, des pirates ont pu se faire délivrer de vrais certificats de sécurité au nom de Google et d'autres grandes marques, de quoi faire passer de faux sites pour des vrais.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ded0ca662b96",
+          "title": "L’IA va détruire l’humanité, une prophétie autoréalisatrice financée par des philanthropes",
+          "source": "Next INpact",
+          "url": "https://next.ink/259812/lia-va-detruire-lhumanite-une-prophetie-autorealisatrice-financee-par-des-philanthropes/",
+          "category": "ia",
+          "published_at": "2026-10-07T13:43:53+00:00",
+          "summary": "Le mouvement de l&#8217; « altruisme efficace » a théorisé, en 2016, que le changement climatique était moins problématique que le fait que des IA pourraient détruire l&#8217;humanité. Qualifié de « doomer woke » qui veut « sauver l&#8217;humanité » par l&#8217;administration…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cbbab6adadb8",
+          "title": "Kakao Entertainment strikes K-pop partnership with Warner’s Atlantic Music Group to develop artists ‘from the earliest stages’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/kakao-entertainment-strikes-k-pop-partnership-with-warners-atlantic-music-group-to-develop-artists-from-the-earliest-stages/",
+          "category": "musique",
+          "published_at": "2026-10-07T13:18:57+00:00",
+          "summary": "The two companies will work together on global strategy, music production, distribution, marketing, and promotion for K-pop artists.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df2344eed8ef",
+          "title": "Dernier jour des Prime Day d’Amazon : voici les deals Flash Prime à ne pas manquer (en direct)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2346697-prime-day-voici-les-meilleures-promos-des-jours-flash-prime-avant-la-fin.html",
+          "category": "ia",
+          "published_at": "2026-10-07T13:17:44+00:00",
+          "summary": "La fin des Jours Flash Prime approche déjà sur Amazon. Il ne reste plus que quelques heures pour profiter des promotions résrervés aux abonnés Prime, ce 7 octobre minuit. Numerama continue de trier les offres jusqu’au bout et rassemble ici les meilleurs bons plans à saisir avant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80bb3e22fa53",
+          "title": "Tim McGraw Celebrates 30th Anniversary With Faith Hill: ‘She Is the Center of Gravity to My Life’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/tim-mcgraw-celebrates-30th-anniversary-faith-hill-1236355900/",
+          "category": "ia",
+          "published_at": "2026-10-07T13:06:27+00:00",
+          "summary": "The country super couple were married on Oct. 6, 1996 in Rayville, La.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4b0b79c7635",
+          "title": "With a new CFO, three licensing deals, and $775M+ raised, what’s stopping $5.4B-valued Suno from an IPO?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/with-a-new-cfo-three-licensing-deals-and-775m-raised-whats-stopping-5-4b-valued-suno-from-an-ipo/",
+          "category": "ia",
+          "published_at": "2026-10-07T13:00:10+00:00",
+          "summary": "The signals pointing to the firm's potential stock market ambitions and the barriers it faces in getting there.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b385b5c309c1",
+          "title": "RIAA CEO Mitch Glazier on AI, Copyright & Congress | On the Record",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/mitch-glazier-billboard-on-the-record/",
+          "category": "musique",
+          "published_at": "2026-10-07T13:00:00+00:00",
+          "summary": "As the music industry faces a new era of AI, the fight over artists’ rights is playing out in Washington D.C.. On this week’s episode of Billboard On The Record, host Kristin Robinson is joined by Mitch Glazier, Chairman/CEO of the RIAA (Recording Industry Association of…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b277b684d89",
+          "title": "Mauvaise nouvelle pour les puristes : la prochaine Porsche 718 tire un trait définitif sur l’essence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2348489-mauvaise-nouvelle-pour-les-puristes-la-prochaine-porsche-718-tire-un-trait-definitif-sur-lessence.html",
+          "category": "ia",
+          "published_at": "2026-10-07T12:40:14+00:00",
+          "summary": "Porsche a confirmé que les prochains 718 Boxster et 718 Cayman, attendus en 2027, seront uniquement électriques. La marque abandonne ainsi les versions thermiques qu’elle avait promises l’an dernier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c81c10d5c271",
+          "title": "Italy’s competition watchdog probes Suno over ‘unfair terms’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/07/italys-competition-watchdog-probes-suno-over-unfair-terms/",
+          "category": "ia",
+          "published_at": "2026-10-07T12:30:00+00:00",
+          "summary": "Suno’s legal headaches expanded beyond the US some time ago, with lawsuits filed by collecting societies in Europe and Scandinavia. Now Italy is getting in on the act – although this isn’t about copyright infringement. Well, not directly.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fd8d48f6189",
+          "title": "DiMA hopes for ‘timely resolution’ of Phonorecords V proceeding",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/07/dima-hopes-for-timely-resolution-of-phonorecords-v-proceeding/",
+          "category": "musique",
+          "published_at": "2026-10-07T12:30:00+00:00",
+          "summary": "Fans of the US music-publishing industry and streaming services exploding into bitter recriminations have had this week red-pen-circled in their calendars for some time.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3093c6c456d",
+          "title": "Spotify expands Music Quiz and preps São Paulo ‘Superfans Experience’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/07/spotify-expands-music-quiz-and-preps-sao-paulo-superfans-experience/",
+          "category": "musique",
+          "published_at": "2026-10-07T12:30:00+00:00",
+          "summary": "Back in 2022, Spotify seemed to be making a move into gaming with the acquisition of Wordle-inspired music quiz Heardle – only to shut it down less than a year later.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60239c4b8d7e",
+          "title": "David Bowie’s 80th birthday gets a year-long Bowie80 celebration",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/07/david-bowies-80th-birthday-gets-a-year-long-bowie80-celebration/",
+          "category": "musique",
+          "published_at": "2026-10-07T12:30:00+00:00",
+          "summary": "David Bowie died shortly after his 69th birthday, in 2016. The tenth anniversary of that was marked by tributes earlier this year, but now attention is turning to 8 January 2027, which would have been his 80th birthday.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cc5a7c21ad6",
+          "title": "HumanCulture bags first clients for its predictive intelligence tech",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/07/humanculture-bags-first-clients-for-its-predictive-intelligence-tech/",
+          "category": "musique",
+          "published_at": "2026-10-07T12:30:00+00:00",
+          "summary": "Earlier this year we reported on a startup founded by former Defected Records and AWAL execs developing tech to predict how well content would perform on social media before it was posted.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97409a8004fd",
+          "title": "Amazon brade cette manette qui donne à votre smartphone des airs de Game Boy",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2348485-amazon-brade-cette-manette-qui-donne-a-votre-smartphone-des-airs-de-game-boy.html",
+          "category": "ia",
+          "published_at": "2026-10-07T12:19:20+00:00",
+          "summary": "[Deal du jour] Pour le dernier jour des Jours Flash Prime, Amazon affiche la GameSir Pocket Taco à 31,34 € au lieu de 45,99 €. Cette petite manette Bluetooth se clipse sous un smartphone et lui donne une croix directionnelle et des boutons façon Game Boy.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6dfb2023333",
+          "title": "Tencent Music integrated DeepSeek into its streaming service. Now parent company Tencent is among the biggest backers of the AI company’s $12B+ funding round (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/",
+          "category": "musique",
+          "published_at": "2026-10-07T11:49:26+00:00",
+          "summary": "DeepSeek has been built into TME's AI songwriting tool, AI assistant, comment sections, and more\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f02d60a81386",
+          "title": "Music-streaming fraudster Michael Smith gets 18-month jail sentence",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/07/music-streaming-fraudster-michael-smith-gets-18-month-jail-sentence/",
+          "category": "musique",
+          "published_at": "2026-10-07T11:30:00+00:00",
+          "summary": "American producer Michael Smith has been sentenced to 18 months in prison for his infamous AI-powered streaming scam that netted him more than $8m in royalties.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a730e7922d9",
+          "title": "Cyberpunk: Edgerunners Season 2 met tout le monde d’accord avec son nouveau trailer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2348501-cyberpunk-edgerunners-season-2-met-tout-le-monde-daccord-avec-son-nouveau-trailer.html",
+          "category": "ia",
+          "published_at": "2026-10-07T11:00:00+00:00",
+          "summary": "Alors que la saison 2 de Cyberpunk: Edgerunners s'apprête à nous replonger dans l'enfer néon de Night City, le tout dernier teaser intitulé Something Real vient de mettre la communauté sous tension.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5d517ce0cc1",
+          "title": "Kakao Entertainment plots K-Pop growth with Atlantic Music Group",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/07/kakao-entertainment-plots-k-pop-growth-with-atlantic-music-group/",
+          "category": "musique",
+          "published_at": "2026-10-07T10:57:56+00:00",
+          "summary": "K-Pop isn’t exactly struggling to reach global listeners at the moment, through streaming and stadium tours alike. But now South Korean firm Kakao Entertainment has inked a deal with WMG’s Atlantic Music Group to continue the momentum.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "895685fcc3de",
+          "title": "L’Impératrice saison 3 : la romance historique de Netflix montre enfin sa bande-annonce",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2348529-limperatrice-saison-3-la-romance-historique-de-netflix-montre-enfin-sa-bande-annonce.html",
+          "category": "ia",
+          "published_at": "2026-10-07T10:55:55+00:00",
+          "summary": "En attendant le retour de La Chronique des Bridgerton, prévu en 2027, Netflix mise sur une autre série d'époque. La plateforme a publié ce mercredi 7 octobre 2026 la bande-annonce de la troisième et dernière saison de L’Impératrice, attendue le jeudi 12 novembre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2effa023631",
+          "title": "☕️ [MàJ] Finlande : Google contraint de mettre en pause ses projets de datacenter",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/finlande-google-accuse-de-raser-illegalement-une-foret-pour-construire-son-data-center/",
+          "category": "ia",
+          "published_at": "2026-10-07T10:22:13+00:00",
+          "summary": "Mise à jour, mercredi 7 octobre, 12h20 : La Finlande a finalement pris le mors aux dents et décidé, dans une déclaration datée du 6 octobre, de contraindre Google et sa filiale locale, Tuike Finland Oy, à suspendre les travaux d&#8217;édification des datacenters de Muhos et de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "206f5ea94f03",
+          "title": "Essai du Xpeng L03 : il avait presque tout pour balayer le Tesla Model Y, mais…",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2348027-essai-du-xpeng-l03-il-avait-presque-tout-pour-balayer-le-tesla-model-y-mais.html",
+          "category": "ia",
+          "published_at": "2026-10-07T10:00:00+00:00",
+          "summary": "Révélé en avant-première à Munich, le Xpeng L03 m’avait séduite lors d'une première approche statique en studio. Mais que vaut vraiment le modèle une fois confronté aux routes européennes ? Entre bonnes surprises et frustrations, voici mon verdict.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c72e92035f06",
+          "title": "ARIA boss tells Australian lawmakers OpenAI and Anthropic are ‘asking Government for a free ride’ on copyright",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/aria-boss-tells-australian-lawmakers-openai-and-anthropic-are-asking-government-for-a-free-ride-on-copyright/",
+          "category": "ia",
+          "published_at": "2026-10-07T09:59:51+00:00",
+          "summary": "Annabelle Herd warned that changing Australian copyright law to accommodate the two AI companies could make the country \"the Trojan horse for Big AI.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec2b93f5d819",
+          "title": "Assurances : les patrons de l’IA pourraient être responsables des dérapages des agents",
+          "source": "Next INpact",
+          "url": "https://next.ink/260221/assurances-les-patrons-de-lia-pourraient-etre-responsables-des-derapages-des-agents/",
+          "category": "ia",
+          "published_at": "2026-10-07T09:56:19+00:00",
+          "summary": "Qui paie les pots cassés quand les agents IA deviennent incontrôlables ? La question se pose chez les assureurs, qui pourraient se tourner vers les patrons d’OpenAI, Anthropic et consorts pour leur présenter la facture. Le courtier en assurances Aon a analysé plus de 300…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24c5fef90c42",
+          "title": "Diablo 2 en VR change complètement la façon de jouer au mythique RPG de Blizzard",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2348301-diablo-2-en-vr-change-completement-la-facon-de-jouer-au-mythique-rpg-de-blizzard.html",
+          "category": "ia",
+          "published_at": "2026-10-07T09:45:13+00:00",
+          "summary": "S’il y a bien une chose dont les moddeuses et moddeurs raffolent, c’est de transposer leur jeu préféré en réalité virtuelle, même si le titre ne s’y prête pas forcément. Aujourd’hui, c’est Diablo II, dans sa version remastérisée Resurrected, qui passe à la moulinette de la VR.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7151ba3b6d40",
+          "title": "1 030 ch, zéro bouton et 166 100 € : Jaguar dévoile enfin sa rupture électrique Type 01",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2348221-1-030-ch-zero-bouton-et-166-100-e-jaguar-devoile-enfin-sa-rupture-electrique-type-01.html",
+          "category": "ia",
+          "published_at": "2026-10-07T09:30:00+00:00",
+          "summary": "Jaguar a dévoilé ce 7 octobre 2026 la Type 01, le premier modèle depuis sa refonte identitaire et visuelle qui a tant fait jaser. La GT 100 % électrique ressemble à son concept : imposante, clivante et à l'opposé de ce qu'était la marque auparavant. La technique n'est pas en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f91e82586200",
+          "title": "Pour patienter avant GTA 6, on a déniché un bon prix sur GTA 5 pour PS5 (avec un disque dans la boîte)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2348309-pour-patienter-avant-gta-6-on-a-deniche-un-bon-prix-sur-gta-5-pour-ps5-avec-un-disque-dans-la-boite.html",
+          "category": "ia",
+          "published_at": "2026-10-07T09:20:00+00:00",
+          "summary": "[Deal du jour] À six semaines de la sortie de GTA 6, Joybuy fait passer la version PS5 de Grand Theft Auto V à 16,99 € au lieu de 19,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fbe2f70b24d9",
+          "title": "Identité, réservations, numéro de chambre… une faille dans ce logiciel hôtelier français expose les clients de 1 500 établissements",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2348265-identite-reservations-numero-de-chambre-une-faille-dans-ce-logiciel-hotelier-francais-expose-les-clients-de-1-500-etablissements.html",
+          "category": "ia",
+          "published_at": "2026-10-07T09:13:44+00:00",
+          "summary": "L'éditeur parisien Medialog a confirmé une intrusion dans son logiciel de gestion hôtelière Medialog Hôtel. Des données d'identité et de réservation de clients d'environ 1 500 établissements ont été extraites entre fin septembre et début octobre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50a29328d257",
+          "title": "☕️ Recopie d’Android : les performances de scrcpy 5.0 décollent avec le décodage matériel",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/recopie-dandroid-les-performances-de-scrcpy-5-0-decollent-avec-le-decodage-materiel/",
+          "category": "ia",
+          "published_at": "2026-10-07T09:05:22+00:00",
+          "summary": "L’application scrcpy (pour «&#160;screen copy&#160;») est un petit utilitaire multiplateforme permettant d’afficher sur le bureau de son ordinateur une copie miroir de son appareil Android. Cette copie peut être contrôlée au clavier et à la souris quand l’appareil est relié à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79c00105bc61",
+          "title": "« Si un humain avait fait ça, ce serait la médaille Fields » : l’IA d’OpenAI fait une percée sur l’hypothèse de Riemann",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2348207-si-un-humain-avait-fait-ca-ce-serait-la-medaille-fields-lia-dopenai-fait-une-percee-sur-lhypothese-de-riemann.html",
+          "category": "ia",
+          "published_at": "2026-10-07T08:55:34+00:00",
+          "summary": "OpenAI a publié 722 manuscrits de mathématiques produits par un modèle interne inaccessible au public, dont une avancée revendiquée vers l'hypothèse de Riemann. L'entreprise sort à peine de la polémique sur sa prétendue percée sur les équations de Navier-Stokes, en septembre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fd8d40b42a9f",
+          "title": "Recharge bidirectionnelle (V2H) : Tesla rattrape son retard, ou presque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2348273-recharge-bidirectionnelle-v2h-tesla-rattrape-son-retard-ou-presque.html",
+          "category": "ia",
+          "published_at": "2026-10-07T08:50:00+00:00",
+          "summary": "Tesla débloque enfin la recharge bidirectionnelle sur les Model 3 et Model Y pour alimenter votre domicile en cas de coupure de courant. Mais pour profiter de cette fonction de secours, les conditions sont nombreuses.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c57cb75d3a7c",
+          "title": "LibreOffice : pas d’IA tant qu’elle ne remplira pas les critères de la Document Foundation",
+          "source": "Next INpact",
+          "url": "https://next.ink/260350/libreoffice-pas-dia-tant-quelle-ne-remplira-pas-les-criteres-de-la-document-foundation/",
+          "category": "ia",
+          "published_at": "2026-10-07T08:37:33+00:00",
+          "summary": "La Document Foundation a clarifié sa position sur l’IA. Si elle n’a rien contre les LLM par principe, elle n’inclura aucune fonction dopée à l’IA tant que l’utilisation des modèles ne pourra pas se faire dans un cadre strict. Dans un billet, The Document Foundation explique que…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d934eec2575a",
+          "title": "TikTok brings its global ad network to the US and unveils agentic AI tools",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktok-brings-its-global-ad-network-to-the-us-and-unveils-agentic-ai-tools/",
+          "category": "ia",
+          "published_at": "2026-10-07T08:10:41+00:00",
+          "summary": "The ad network, called TikTok Ad Network (TTAN), lets advertisers extend their TikTok campaigns to third-party apps.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d03a848347c",
+          "title": "AEG and O2 strike UK’s ‘largest-ever naming rights renewal’ in reported £200M deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/londons-o2-arena-keeps-its-name-until-2038-as-aeg-and-o2-strike-uks-largest-ever-naming-rights-renewal/",
+          "category": "ia",
+          "published_at": "2026-10-07T08:00:30+00:00",
+          "summary": "Under the deal, O2 and Virgin Media broadband customers will get 50% more tickets to shows at The O2 through Priority Tickets.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "061bb3aa5609",
+          "title": "Michael Smith, man behind $8M AI song and bot streaming fraud, sentenced to 18 months in prison",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/man-behind-8m-ai-song-and-bot-streaming-fraud-is-sentenced-to-18-months-in-prison/",
+          "category": "justice",
+          "published_at": "2026-10-07T07:29:53+00:00",
+          "summary": "US District Judge John G. Koeltl also ordered Michael Smith to forfeit USD $8,091,843.64, the loss figure agreed by both sides.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f532a32adf9",
+          "title": "Insultée sur LinkedIn, Tara Heuzé-Sarmini doit de nouveau se défendre en urgence",
+          "source": "Next INpact",
+          "url": "https://next.ink/260210/insultee-sur-linkedin-tara-heuze-sarmini-doit-de-nouveau-se-defendre-en-urgence/",
+          "category": "ia",
+          "published_at": "2026-10-07T07:14:40+00:00",
+          "summary": "Insultée sur LinkedIn par un importun, l’entrepreneure Tara Heuzé-Sarmini s’est retrouvée forcée, à deux reprises, d’organiser sa défense en urgence pour faire face à la Justice. Outre interroger les droits de la défense, l’affaire pourrait ouvrir un débat spécifique au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05cdff532bbf",
+          "title": "☕️ Trump Mobile a des fuites",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/trump-mobile-a-des-fuites/",
+          "category": "institutionnel",
+          "published_at": "2026-10-07T06:47:00+00:00",
+          "summary": "Les noms, adresses email et postales, numéros de téléphone, et autres données personnelles de 3&#160;615 clients de Trump Mobile sont dans la nature, rapporte le site Straight Arrow News. Les pirates de BYOD se sont infiltrés dans les serveurs de l&#8217;opérateur virtuel géré…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a7a349e4817",
+          "title": "Apple Intelligence prend trop de place ? Un outil open source permet de faire le ménage",
+          "source": "Next INpact",
+          "url": "https://next.ink/260262/apple-intelligence-prend-trop-de-place-un-outil-open-source-permet-de-faire-le-menage/",
+          "category": "ia",
+          "published_at": "2026-10-07T06:11:38+00:00",
+          "summary": "Au prix du Go actuel, les utilisateurs de PC au budget serré ont tout intérêt à surveiller de très près le SSD de leur machine et son embonpoint. En particulier chez Apple, qui s&#8217;obstine toujours à vendre des Mac chichement dotés en la matière. Le Mac mini d&#8217;entrée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e88b683f64c",
+          "title": "☕️ Skydance, un géant hollywoodien à peine né et déjà perclus de dettes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/skydance-un-geant-hollywoodien-a-peine-ne-et-deja-perclus-de-dettes/",
+          "category": "ia",
+          "published_at": "2026-10-07T05:35:53+00:00",
+          "summary": "Après bien des rebondissements, Paramount Skydance a officialisé l&#8217;acquisition à grands frais (110 milliards de dollars) de Warner Bros. Discovery. Le groupe de David Ellison, fils du mogul Larry (cofondateur d&#8217;Oracle), a mis beaucoup d&#8217;engagements sur la table…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "articles": [
+        {
+          "id": "d389f9d2cdf3",
+          "title": "Google picks Base for Music for its Gemini Startup Forum – as $1.7M-backed French company says it uses AI to predict music marketing ROI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/",
+          "category": "musique",
+          "published_at": "2026-10-06T18:13:58+00:00",
+          "summary": "More than 100 startups taking part, from 17 countries, were selected from over 2,000 applications, according to Google\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05d45eb048d5",
+          "title": "Yung Sammy, Arma, Sixth Ocean join The Hello Group India’s management roster",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/06/yung-sammy-arma-sixth-ocean-join-the-hello-group-indias-management-roster/",
+          "category": "musique",
+          "published_at": "2026-10-06T16:45:35+00:00",
+          "summary": "Rapper Yung Sammy, singer-songwriter Arma and electronic music producer Sixth Ocean are the newest set of acts to sign exclusive global management deals with The Hello Group (THG) India, the [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a53d7d7ce8a3",
+          "title": "Arijit Singh to stage his “biggest-ever India tour” in 2027",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/06/arijit-singh-to-stage-his-biggest-ever-india-tour-in-2027/",
+          "category": "musique",
+          "published_at": "2026-10-06T16:30:16+00:00",
+          "summary": "In January, when Arijit Singh announced that he would no longer be accepting playback singing assignments — a declaration that was incorrectly interpreted as his retirement — we speculated that [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90aac451e994",
+          "title": "Nouvelle alerte sur la prolifération de deepfakes nourrissant la désinformation en santé",
+          "source": "Next INpact",
+          "url": "https://next.ink/260113/nouvelle-alerte-sur-la-proliferation-de-deepfakes-nourrissant-la-desinformation-en-sante/",
+          "category": "ia",
+          "published_at": "2026-10-06T15:35:00+00:00",
+          "summary": "Plusieurs vidéos diffusées sur Facebook contrefaisaient l&#8217;image d&#8217;une présentatrice de TF1 et d&#8217;un médecin des Hôpitaux de Paris pour inciter les internautes à acheter un prétendu remède miracle. L&#8217;AP-HP indique avoir porté plainte et demandé le retrait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4beb28abf9bd",
+          "title": "Mistral lance une préversion de son LLM frontière Mistral Large 4, surnommé « Le Chonk »",
+          "source": "Next INpact",
+          "url": "https://next.ink/260208/mistral-lance-une-preversion-de-son-llm-frontiere-mistrale-large-surnomme-le-chonk/",
+          "category": "ia",
+          "published_at": "2026-10-06T15:16:00+00:00",
+          "summary": "Mistral vient de lancer une préversion publique de son nouveau LLM de frontière Mistral Large 4. Surnommé «&#160;Le Chonk&#160;», il doit remettre l’entreprise française dans la course, après de longs mois de quasi-silence sur les grands modèles. Mistral Large 4 affiche 1 050…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "44f77c1514c9",
           "title": "Lorde Calls Out Robert Kraft in ‘Free Palestine’ Jacket Following Ed Sheeran, Macklemore Tour Controversy",
