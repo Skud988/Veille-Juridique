@@ -1,9 +1,504 @@
 {
-  "generated_at": "2026-10-07T15:33:28.476011+00:00",
+  "generated_at": "2026-10-08T15:37:09.160181+00:00",
   "days": [
+    {
+      "date": "2026-10-08",
+      "articles": [
+        {
+          "id": "3904baff1523",
+          "title": "Harry Styles Reveals How an ‘Outgoing’ Girlfriend Made Him Less Afraid to Be in Public: ‘It’s Changed My Life’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/harry-styles-girlfriend-changed-my-life-being-out-in-public-1236356934/",
+          "category": "ia",
+          "published_at": "2026-10-08T15:15:30+00:00",
+          "summary": "The pop star chatted about life and songwriting in a conversation with Radiohead's Thom Yorke.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba2b39f8d76d",
+          "title": "Def Leppard Announce Extensive 2027 North American Tour With Goo Goo Dolls, The Struts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/def-leppard-2027-north-american-tour-dates-goo-goo-dolls-struts-1236356924/",
+          "category": "ia",
+          "published_at": "2026-10-08T15:01:44+00:00",
+          "summary": "The outing is slated to kick off on March 2 in Allentown, Pa. and run through a July 2 show in Indianapolis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32f49440e1cb",
+          "title": "Billboard Latin Music Week 2026: Meet the Chart-Topping Speakers",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/billboard-latin-music-week-2026-chart-topping-speakers/",
+          "category": "musique",
+          "published_at": "2026-10-08T15:00:00+00:00",
+          "summary": "From Kany García and Rubén Blades to Becky G, Pitbull and Maluma, these Latin music icons have topped the Billboard charts across generations.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "043dd59d85e9",
+          "title": "Xbox lance Xbox XP, sa division dédiée aux adaptations ciné, télé et bien plus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2349723-xbox-lance-xbox-xp-sa-division-dediee-aux-adaptations-cine-tele-et-bien-plus.html",
+          "category": "justice",
+          "published_at": "2026-10-08T14:55:23+00:00",
+          "summary": "Xbox veut désormais faire vivre ses franchises bien au-delà des jeux vidéo. La firme annonce la création de XP, une nouvelle division chargée de développer les adaptations au cinéma et à la télévision, mais aussi les produits dérivés. Une manière pour Microsoft de transformer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f60f14dfa2d",
+          "title": "Sophie Adenot rentre : suivez en direct l’amerrissage imminent de l’astronaute française",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2347857-sophie-adenot-rentre-suivez-en-direct-lamerrissage-imminent-de-lastronaute-francaise.html",
+          "category": "ia",
+          "published_at": "2026-10-08T14:54:00+00:00",
+          "summary": "L’astronaute française Sophie Adenot et ses trois coéquipiers quittent l’ISS ce mercredi 7 octobre après près de huit mois en orbite. Suivez en direct le désarrimage et l’amerrissage de la capsule Crew Dragon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33459fa8fe9d",
+          "title": "Steven Wilson is bundling his new record with an India-exclusive insert",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/steven-wilson-is-bundling-his-new-record-with-an-india-exclusive-insert/",
+          "category": "musique",
+          "published_at": "2026-10-08T14:45:48+00:00",
+          "summary": "As in several other parts of the world, India has undergone a vinyl revival. Over the last year-and-half, Sony Music launched a vinyl store and held the largest instalment of [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0572b9d909a8",
+          "title": "GTA, CoD, Halo : ces jeux cultes tournent désormais illégalement partout sur navigateur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349513-gta-cod-halo-ces-jeux-cultes-tournent-desormais-illegalement-partout-sur-navigateur.html",
+          "category": "ia",
+          "published_at": "2026-10-08T14:34:00+00:00",
+          "summary": "Sans rien installer ni configurer d'émulateur, des internautes lancent de gros jeux vidéo dans un simple onglet de Chrome. Des portages non officiels font tourner dans le navigateur d'anciens épisodes de grandes séries, comme GTA V, Halo: Combat Evolved ou le mode Zombies…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e488fcafd47c",
+          "title": "Chart Rewind: In 2016, the Country Music Association Engineered the Ultimate Group Effort",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/forever-country-cma-chart-rewind-2016-1236356217/",
+          "category": "musique",
+          "published_at": "2026-10-08T14:32:07+00:00",
+          "summary": "With 30 artists helping out, the CMA Awards’ 50th anniversary wasn’t just golden – it was “Forever.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a7e532e6830",
+          "title": "VMware : trois ans après le rachat, la migration est toujours un sujet brûlant",
+          "source": "Next INpact",
+          "url": "https://next.ink/260701/vmware-trois-ans-apres-le-rachat-la-migration-est-toujours-un-sujet-brulant/",
+          "category": "justice",
+          "published_at": "2026-10-08T14:31:42+00:00",
+          "summary": "Selon une étude parue chez Rimini Street, 90 % des clients VMware exploreraient l’idée de changer de crèmerie. L’étude n’y va pas par quatre chemins, pointant surtout les coûts de licence. Pourtant, la situation est plus nuancée et va dans le sens d’une migration partielle et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c92f2c1226dd",
+          "title": "Bridgerton : Netflix annonce une nouvelle série spin-off sur Violet",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349631-bridgerton-netflix-annonce-une-nouvelle-serie-spin-off-sur-violet.html",
+          "category": "ia",
+          "published_at": "2026-10-08T14:26:49+00:00",
+          "summary": "Alors que le tournage de la saison 5 bat son plein dans les rues de Londres, Netflix et Shondaland viennent de lâcher une bombe d'élégance et de potins mondains : la franchise&nbsp;Bridgerton&nbsp;s’agrandit encore. Avec un spin-off !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d6aafa7178f",
+          "title": "David ‘DL’ Lawrence, Veteran Promotion & Label Executive, Dead at 64",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/david-lawrence-veteran-promotion-label-executive-dead/",
+          "category": "musique",
+          "published_at": "2026-10-08T14:19:22+00:00",
+          "summary": "Over three decades, Lawrence worked on projects by Mariah Carey, Destiny’s Child, NSYNC and more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05f25473fea7",
+          "title": "Pitbull Explains the Mr. Worldwide Mentality | Billboard Cover Interview",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/pitbull-billboard-cover-interview-video/",
+          "category": "musique",
+          "published_at": "2026-10-08T14:00:00+00:00",
+          "summary": "Pitbull breaks down the night he made history at Hyde Park in London — performing for 70,000 fans, setting a record, and landing a Guinness World Records moment with his “Baldies.” In this Billboard Cover Interview, Mr. 305 reflects on why that show felt different: “Time froze.”…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7754aa16228f",
+          "title": "Music Publishers Will Be Handed Millions of Dollars  Next Year. Here’s Why",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/music-publishers-mlc-black-box-royalties-explained/",
+          "category": "musique",
+          "published_at": "2026-10-08T14:00:00+00:00",
+          "summary": "The Mechanical Licensing Collective has just announced its first-ever market share distribution for all of the royalty money that never found its rightful owner.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ddcc3f8e32a4",
+          "title": "Pitbull: Photos From the Billboard Cover Shoot",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/pitbull-photos-billboard-cover-shoot-1236355184/",
+          "category": "musique",
+          "published_at": "2026-10-08T13:59:41+00:00",
+          "summary": "Fresh pics of Mr. 305 ahead of his Billboard Latin Music Week appearance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "657ece821768",
+          "title": "« Perturbation importante du réseau » : en Russie, une attaque de drones présumée vise le plus grand data center du géant Yandex",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2349533-perturbation-importante-du-reseau-en-russie-une-attaque-de-drones-presumee-vise-le-plus-grand-data-center-du-geant-yandex.html",
+          "category": "ia",
+          "published_at": "2026-10-08T13:58:27+00:00",
+          "summary": "Un important incendie s'est déclaré dans la nuit du 7 au 8 octobre 2026 sur le site de Sasovo, en Russie, qui abrite le principal data center de Yandex. Le géant russe du numérique a d'abord signalé des problèmes d'alimentation électrique dans son cloud, avant d'attribuer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15672c5de59a",
+          "title": "Is your indie catalogue losing revenue? Fixing the leak with Indie Music Rights",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/is-your-indie-catalogue-losing-revenue-fixing-the-leak-with-indie-music-rights/",
+          "category": "musique",
+          "published_at": "2026-10-08T13:56:55+00:00",
+          "summary": "If you own an indie label, publishing company, or back-catalogue, there is a very high chance your IP is leaking revenue right now. Between messy global metadata, unclaimed rights, and [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0755b8982822",
+          "title": "Amazon dévoile l’Alexa Tablet Pro, son concurrent de l’iPad avec un écran papier et le Play Store",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2348957-amazon-devoile-lalexa-tablet-pro-son-concurrent-de-lipad-avec-un-ecran-papier-et-le-play-store.html",
+          "category": "ia",
+          "published_at": "2026-10-08T13:52:34+00:00",
+          "summary": "Adieu les tablettes Fire, Amazon passe aux « Alexa Tablet ». Le géant américain en profite pour adopter le vrai Android avec les services Google et le Play Store, après avoir longtemps proposé sa propre adaptation du système d'exploitation. Trois tablettes seront lancées fin…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0eeecd82b8eb",
+          "title": "Billboard Latin Music Awards 2026: All the Performers & Presenters, How to Watch & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/2026-billboard-latin-music-awards-performers-how-to-watch-1236356486/",
+          "category": "musique",
+          "published_at": "2026-10-08T13:45:00+00:00",
+          "summary": "Becky G, Ryan Castro, Lupillo Rivera, SANTOS BRAVOS, Elvis Crespo, Ha*Ash, Jessi Uribe &#38; many more join the gala set for Oct. 22 in Miami.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78dd0be5fcd7",
+          "title": "Excédé par Adobe, il  prend sa revanche grâce à Claude",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2349419-excede-par-adobe-il-prend-sa-revanche-grace-a-claude.html",
+          "category": "ia",
+          "published_at": "2026-10-08T13:03:47+00:00",
+          "summary": "Un développeur a recréé sept logiciels phares d'Adobe en open source grâce à Claude. Le projet, gratuit, reste très loin d'être abouti, mais il illustre la facilité nouvelle avec laquelle on peut aujourd'hui copier un logiciel payant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bfd063c16c7",
+          "title": "Pacific Music Group expands to Tokyo with launch of PMG Japan, signs Japanese rapper JP THE WAVY",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/pacific-music-group-expands-to-tokyo-with-launch-of-pmg-japan-signs-japanese-rapper-jp-the-wavy/",
+          "category": "musique",
+          "published_at": "2026-10-08T13:00:06+00:00",
+          "summary": "PMG says JP THE WAVY is PMG Japan's first major signing and that he will begin releasing new music through the partnership this fall.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29672a806f09",
+          "title": "US Copyright Office to launch music streaming-fraud inquiry",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/us-copyright-office-to-launch-music-streaming-fraud-inquiry/",
+          "category": "musique",
+          "published_at": "2026-10-08T12:30:00+00:00",
+          "summary": "With the most high-profile streaming fraudster having just been jailed for 18 months, the US music industry may be feeling chipper about its fraudbusting efforts.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d046a0371f9",
+          "title": "Elon Musk says X’s AI-bot Grok will use Suno for music tasks",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/elon-musk-says-xs-ai-bot-grok-will-use-suno-for-music-tasks/",
+          "category": "musique",
+          "published_at": "2026-10-08T12:30:00+00:00",
+          "summary": "You’d be forgiven for trying to avoid most of Elon Musk’s tweets, particularly when he gets on a late-night posting burst. But one of his latest has direct relevance to music.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37b87077fc50",
+          "title": "Spotify expands audiobooks service to more than 180 countries",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/spotify-expands-audiobooks-service-to-more-than-180-countries/",
+          "category": "musique",
+          "published_at": "2026-10-08T12:30:00+00:00",
+          "summary": "Spotify’s bundling of audiobooks with music – and the impact on its royalty payouts – continues to be a hot-button topic among US publishers.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a4a60941986c",
+          "title": "Empire signals LatAm growth by hiring Rimas Publishing’s MD",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/empire-signals-latam-growth-by-hiring-rimas-publishings-md/",
+          "category": "musique",
+          "published_at": "2026-10-08T12:30:00+00:00",
+          "summary": "Our policy on hirings and promotions is that we don’t write many up individually, unless they signify a bigger strategic move or pivot.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e4de31af88b",
+          "title": "Audiotool reveals six winners from its ‘Let’s Build!’ hackathon",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/audiotool-reveals-six-winners-from-its-lets-build-hackathon/",
+          "category": "musique",
+          "published_at": "2026-10-08T12:30:00+00:00",
+          "summary": "We’ve been fond of a music-tech hackathon since the heyday of Music Hack Day in the early 2010s. Audiotool continued that tradition with its recent ‘Let’s Build!’ series of online and in-person events. Now the winners have been announced.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "efd2f6bd9dec",
+          "title": "Mexican star Christian Nodal bags second billion-view YouTube video",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/mexican-star-christian-nodal-bags-second-billion-view-youtube-video/",
+          "category": "musique",
+          "published_at": "2026-10-08T12:30:00+00:00",
+          "summary": "If you’re new to the work of Mexican artist Christian Nodal, pop a cowboy hat on and check out ‘No Te Contaron Mal’. Released eight years ago, it’s just become his second video to enter YouTube’s ‘Billion Views Club’.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0613f2005cfb",
+          "title": "Google launches AI-powered ‘experimental gaming’ platform Playground",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/google-launches-ai-powered-experimental-gaming-platform-playground/",
+          "category": "musique",
+          "published_at": "2026-10-08T12:30:00+00:00",
+          "summary": "AI’s use in the creation of games is causing just as much debate in the games industry as its use for music is provoking in our world. And in both cases, Google is at the centre of things building technology.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f2eca820675",
+          "title": "GTA 6 : le leaker est de retour avec une fuite massive de 25 minutes de gameplay",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349415-gta-6-le-leaker-est-de-retour-avec-une-fuite-massive-de-25-minutes-de-gameplay.html",
+          "category": "ia",
+          "published_at": "2026-10-08T12:20:00+00:00",
+          "summary": "Pendant que Take-Two et Rockstar Games verrouillent leur communication avec des présentations presse au compte-gouttes, la réalité du terrain vient de leur remettre un tacle à la gorge. Le leaker Cyberleak vient d'allumer le Web en balançant près de 25 minutes de gameplay de GTA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f019662bc57",
+          "title": "Clôture de l’injonction prononcée à l’encontre de FRANCE TRAVAIL",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/cloture-injonction-france-travail",
+          "category": "cnil",
+          "published_at": "2026-10-08T12:00:00+00:00",
+          "summary": "Par délibération du 23 septembre 2026, la CNIL a clos l’injonction prononcée le 22&amp;nbsp;janvier 2026 à l’encontre de FRANCE TRAVAIL, sans liquider l’astreinte prévue compte tenu de sa mise en conformité.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d3afb8107d5",
+          "title": "Test d’Hellraiser: Revival, l’adaptation qui ne vous épargnera pas",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349219-test-dhellraiser-revival-ladaptation-qui-ne-vous-epargnera-pas.html",
+          "category": "ia",
+          "published_at": "2026-10-08T12:00:00+00:00",
+          "summary": "Hellraiser: Revival est une adaptation franchement réussie de l'œuvre de Clive Barker. On lui pardonne ses quelques défauts de finition, tant il excelle dans l'art de matérialiser un univers extrême sans aucune concession.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf3e3d37c388",
+          "title": "Dis Next, c’est quoi l’IA agentique et les harnais dont tout le monde parle ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/260031/dis-next-cest-quoi-lia-agentique-et-les-harnais-dont-tout-le-monde-parle/",
+          "category": "ia",
+          "published_at": "2026-10-08T11:57:00+00:00",
+          "summary": "Des agents IA par-ci, des agents par là… les entreprises d’IA générative ont toutes ce mot à la bouche. On parle également de plus en plus de harnais. Mais de quoi s’agit-il ? Next vous explique ! L’intelligence artificielle existe depuis des décennies, elle remonte même aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7ce924ba68b",
+          "title": "La PS5 Pro revient en stock sur la Fnac avant GTA 6 après avoir quitté les rayons",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2288349-la-ps5-pro-revient-en-stock-sur-la-fnac-avant-gta-6-apres-avoir-quitte-les-rayons.html",
+          "category": "ia",
+          "published_at": "2026-10-08T11:10:02+00:00",
+          "summary": "[Deal du jour] Trouver une PS5 Pro à son prix conseillé est devenu compliqué. La console revient chez Fnac à 899,99 €, alors que certains vendeurs tiers en demandent près du double.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3894a691b123",
+          "title": "« Ce n’est pas une démonstration d’érudition, mais de force » : des mathématiciens appellent au boycott d’OpenAI après son nouveau coup",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2349233-ce-nest-pas-une-demonstration-derudition-mais-de-force-des-mathematiciens-appellent-au-boycott-dopenai-apres-son-nouveau-coup.html",
+          "category": "ia",
+          "published_at": "2026-10-08T11:00:00+00:00",
+          "summary": "L'Association for Human Mathematics, un collectif de mathématiciens fondé en septembre 2026, appelle ses pairs à cesser toute collaboration avec OpenAI, au lendemain de la publication par l'entreprise de 722 manuscrits produits par son IA. Terence Tao, médaillé Fields, a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b710b6799bd",
+          "title": "Sony transfère ses brevets VR à Meta, le PSVR2 en phase terminale",
+          "source": "Next INpact",
+          "url": "https://next.ink/260528/sony-transfere-ses-brevets-vr-a-meta-le-psvr2-en-phase-terminale/",
+          "category": "ia",
+          "published_at": "2026-10-08T10:56:05+00:00",
+          "summary": "Sony sort de la VR par la petite porte. L&#8217;entreprise a cédé des dizaines de brevets portant sur les technologie de réalité virtuelle, augmentée et mixte à Meta. Le casque PlayStation VR de 2e génération pour la PS5, plus performant mais plus cher que son prédécesseur,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73d9a20c34f8",
+          "title": "Cette plateforme de jeux générés par IA attire déjà 10 millions de joueuses et de joueurs chaque mois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349049-cette-plateforme-de-jeux-generes-par-ia-attire-deja-10-millions-de-joueuses-et-de-joueurs-chaque-mois.html",
+          "category": "ia",
+          "published_at": "2026-10-08T10:30:00+00:00",
+          "summary": "À l’heure où il est possible de trouver de très nombreux jeux indé vendus pour une bouchée de pain, sur console, PC comme sur mobile, on se demande bien qui a envie de jouer à des jeux générés entièrement par IA. Des millions de personnes, visiblement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "35fa07e20aa4",
+          "title": "Le loup « mal-aimé » d’Intermarché aura bien sa peluche en magasin un an après, et on connaît son prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2349269-le-loup-mal-aime-dintermarche-aura-bien-sa-peluche-en-magasin-un-an-apres-et-on-connait-son-prix.html",
+          "category": "ia",
+          "published_at": "2026-10-08T10:19:52+00:00",
+          "summary": "Près d’un an après la publicité qui l’a rendu célèbre, le loup d’Intermarché arrivera en magasin fin novembre. L’enseigne prévoit 700 000 peluches, vendues 19,90 euros pièce.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf4e0e72cb6d",
+          "title": "Superman changera déjà de costume dans la suite de 2027, et pour une bonne raison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349239-superman-change-deja-de-costume-dans-la-suite-de-2027-et-pour-une-bonne-raison.html",
+          "category": "ia",
+          "published_at": "2026-10-08T10:05:00+00:00",
+          "summary": "Plus d'un an après la sortie du Superman de James Gunn, premier film du nouveau DCU, David Corenswet confirme que l'Homme d'Acier portera un costume retravaillé dans la suite, Man of Tomorrow, attendue le 7 juillet 2027 dans les salles françaises.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc059bc729ed",
+          "title": "Clés USB, smartphones… les e-dogs flairent le tantale pendant des perquisitions",
+          "source": "Next INpact",
+          "url": "https://next.ink/260485/cles-usb-smartphones-les-e-dogs-flairent-le-tantale-pendant-des-perquisitions/",
+          "category": "ia",
+          "published_at": "2026-10-08T09:45:12+00:00",
+          "summary": "Vous connaissez certainement les chiens renifleurs capables de détecter de la drogue, des armes ou de l’argent. Mais il en existe aussi pour trouver du matériel électronique, notamment des clés USB et cartes mémoires. Ils sont appelés en renfort dans certaines perquisitions,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e408bce0918f",
+          "title": "Chez Anthropic, Haiku 5.5 prend la relève des petits modèles rapides",
+          "source": "Next INpact",
+          "url": "https://next.ink/260659/chez-anthropic-haiku-5-5-prend-la-releve-des-petits-modeles-rapides/",
+          "category": "ia",
+          "published_at": "2026-10-08T09:10:45+00:00",
+          "summary": "Nouvelle mouture pour le «&#160;petit modèle&#160;» d’Anthropic, Haiku. Moins spectaculaire qu’un nouvel Opus, cette version était attendue pour ses tarifs accessibles. Le bond en performances est majeur, mais plusieurs points sont à connaître. Présenté ce 7 octobre, Haiku 5.5…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f19f955dd5fa",
+          "title": "Orange lance un décodeur Home Cinéma avec 4 hauts-parleurs intégrés",
+          "source": "Next INpact",
+          "url": "https://next.ink/260650/orange-lance-un-decodeur-home-cinema-avec-4-hauts-parleurs-integres/",
+          "category": "ia",
+          "published_at": "2026-10-08T08:17:39+00:00",
+          "summary": "Orange lance un nouveau décodeur TV haut de gamme, muni de quatre hauts-parleurs intégrés et capable d&#8217;accueillir deux enceintes optionnelles pour offrir un son immersif. Fonctionnant sous Android TV, il n&#8217;est pas vendu de façon indépendante, mais proposé comme une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0cdbc5e54233",
+          "title": "Hybe is taking its flagship Weverse Con festival to India in 2027",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/hybe-is-taking-its-flagship-weverse-con-festival-to-india-in-2027/",
+          "category": "musique",
+          "published_at": "2026-10-08T07:32:49+00:00",
+          "summary": "Hybe is bringing its flagship music festival Weverse Con to India. The two-day event will take place in New Delhi on 27-28 March 2027.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b796da7f2318",
+          "title": ".agent, .fart, .omg… L’ICANN dévoile près de 1 000 extensions, certaines très convoitées",
+          "source": "Next INpact",
+          "url": "https://next.ink/260532/agent-fart-omg-licann-devoile-pres-de-1-000-extensions-certaines-tres-convoitees/",
+          "category": "ia",
+          "published_at": "2026-10-08T06:46:00+00:00",
+          "summary": "Sur Internet, de nouvelles extensions vont arriver (pas demain, il faudra attendre des mois voire des années) avec des domaines en .agent, .bit, .geek, .gram, .gpt… Mais aussi des extensions plus surprenantes avec .fart, .ufo et .omg pour ne citer qu’elles. Les demandes venant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c4fa1ac6746f",
+          "title": "☕️ Margaret Hamilton, génie de l’ingénierie logicielle, est morte à 90 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/margaret-hamilton-genie-de-lingenierie-logicielle-est-morte-a-90-ans/",
+          "category": "institutionnel",
+          "published_at": "2026-10-08T06:20:38+00:00",
+          "summary": "Margaret Hamilton, pionnière de l&#8217;ingénierie logicielle moderne et directrice de l&#8217;équipe en charge du logiciel embarqué dans la mission lunaire Apollo 11, est décédée le 30 septembre dernier, à 90 ans. C&#8217;est la revue du MIT, où elle a découvert les joies du…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08af594bca85",
+          "title": "☕️ Meta promet de mieux traquer les pubs menant à des contenus pédocriminels",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/meta-promet-de-mieux-traquer-les-pubs-menant-a-des-contenus-pedocriminels/",
+          "category": "ia",
+          "published_at": "2026-10-08T05:33:30+00:00",
+          "summary": "Régulièrement attaquée pour son inertie en matière de lutte contre la pédocriminalité, Meta a annoncé plusieurs nouvelles mesures pour détecter les publicités qui aboutissent discrètement sur des contenus illégaux. Mi-septembre, une enquête de l’ONG Tech Transparency Project…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "articles": [
+        {
+          "id": "ef91a6a471df",
+          "title": "Microsoft : prix ultra pour les premiers Surface avec la RTX Spark de NVIDIA",
+          "source": "Next INpact",
+          "url": "https://next.ink/260522/microsoft-prix-ultra-pour-les-premiers-surface-avec-la-rtx-spark-de-nvidia/",
+          "category": "ia",
+          "published_at": "2026-10-07T19:23:16+00:00",
+          "summary": "Début juin, NVIDIA se lançait à l&#8217;assaut d&#8217;une nouvelle citadelle : les systèmes-sur-puce pour les PC sous Windows sur Arm, avec la » superpuce »&#160;RTX Spark. Après Acer et Lenovo qui ont dévoilé leurs premières machines le mois dernier, c&#8217;était au tour de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3773b0be4979",
+          "title": "HYBE’s Weverse Con Festival to make its international debut in India in 2027",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybes-weverse-con-festival-to-make-its-international-debut-in-india-in-2027/",
+          "category": "musique",
+          "published_at": "2026-10-07T18:37:15+00:00",
+          "summary": "HYBE, home of BTS, calls Weverse Con Festival its “flagship global music festival”, featuring global, K-pop and Indian artists.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1d1012c68029",
+          "title": "Did The Music Industry Underprice Streaming In Emerging Markets? (AKA: How I’d Spend $10k Of Mike O’Neill’s Money)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/did-the-music-industry-underprice-streaming-in-emerging-markets-aka-how-id-spend-10k-of-mike-oneills-money/",
+          "category": "musique",
+          "published_at": "2026-10-07T18:01:55+00:00",
+          "summary": "The latest 'Tim's Take' from MBW founder, Tim Ingham\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "309bd2e02512",
+          "title": "Music streaming fraud inquiry launched by US Copyright Office",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/music-streaming-fraud-inquiry-launched-by-us-copyright-office/",
+          "category": "musique",
+          "published_at": "2026-10-07T15:49:26+00:00",
+          "summary": "Notice of inquiry arrives a day after Michael Smith sentenced to 18 months in prison\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "616a1162fdf2",
+          "title": "Dix ans après la loi République numérique, « encourager » le logiciel libre n’a pas suffi",
+          "source": "Next INpact",
+          "url": "https://next.ink/260337/dix-ans-apres-la-loi-republique-numerique-encourager-le-logiciel-libre-na-pas-suffi/",
+          "category": "ia",
+          "published_at": "2026-10-07T15:46:47+00:00",
+          "summary": "Dix ans après la promulgation de la loi du 7 octobre 2016 pour une République numérique, les dépenses en logiciels libres de l&#8217;administration sont toujours réduites à la portion congrue, regrette l&#8217;association représentative des entreprises du secteur. Elle appelle…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "1723cec318e6",
           "title": "‘New Year’s Rockin’ Eve’ Set to Simulcast Live on ABC & Disney+ for the First Time",
