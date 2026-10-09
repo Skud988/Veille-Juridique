@@ -1,9 +1,584 @@
 {
-  "generated_at": "2026-10-08T15:37:09.160181+00:00",
+  "generated_at": "2026-10-09T15:18:32.448105+00:00",
   "days": [
+    {
+      "date": "2026-10-09",
+      "articles": [
+        {
+          "id": "84ed2f568c32",
+          "title": "Ignacio ‘Nacho’  Meyer Exits Univision",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ignacio-nacho-meyer-steps-down-from-televisa-univision/",
+          "category": "ia",
+          "published_at": "2026-10-09T15:08:31+00:00",
+          "summary": "Meyer will continue to design and helm strategic projects for the media giant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f71db58c5c8",
+          "title": "Comment les agents IA bouleversent la cybersécurité, défensive et offensive",
+          "source": "Next INpact",
+          "url": "https://next.ink/260784/comment-les-agents-ia-bouleversent-la-cybersecurite-defensive-et-offensive/",
+          "category": "ia",
+          "published_at": "2026-10-09T15:08:00+00:00",
+          "summary": "Cela ne surprendra personne, mais les deux mots incontournables (ou presque) aux Assises de la cybersécurité de Monaco sont «&#160;IA&#160;» et «&#160;agent&#160;». Entre l’attaque, la défense et l’analyse (avec une forte asymétrie entre les deux), ils sont partout, à toutes les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2dd2f7c658fa",
+          "title": "5 Surprising Collabs on Pitbull’s ‘Pitcoin’ Album: Editor’s Picks",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/pitbull-pitcoin-album-best-collaborations-editors-picks/",
+          "category": "musique",
+          "published_at": "2026-10-09T15:00:00+00:00",
+          "summary": "Mr. Worldwide reeled in longtime collaborators and new artists on his new album. See the best collabs below.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21340652f0b0",
+          "title": "Judas Priest Bassist Ian Hill Announces Retirement From Band Citing Battle With ‘Evil Arthritis’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/judas-priest-bassist-ian-hill-retirement-arthritis-1236357881/",
+          "category": "ia",
+          "published_at": "2026-10-09T14:56:32+00:00",
+          "summary": "The group's longest-serving member will be replaced by the bass player from fellow British hard rockers Uriah Heep.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f1fc251b77a",
+          "title": "Michelangelus, la police qui s’inspire de l’écriture manuscrite de Michel-Ange",
+          "source": "Next INpact",
+          "url": "https://next.ink/260921/michelangelus-la-police-qui-sinspirait-de-lecriture-manuscrite-de-michel-ange/",
+          "category": "ia",
+          "published_at": "2026-10-09T14:38:39+00:00",
+          "summary": "La Fabbrica di San Pietro a commandé à un studio graphique une police de caractères inspirée à la fois de l&#8217;écriture manuscrite et des œuvres de Michel-Ange. Baptisée Michelangelus, elle intrigue surtout par son processus de création : comment restituer par…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "30e9eb4b633d",
+          "title": "Ledger lance l’alerte sur un revendeur après des vols de cryptos estimés à 86 millions de dollars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2350425-ledger-lance-lalerte-sur-un-revendeur-apres-des-vols-de-cryptos-estimes-a-86-millions-de-dollars.html",
+          "category": "ia",
+          "published_at": "2026-10-09T14:15:55+00:00",
+          "summary": "Ledger enquête actuellement sur des vols de cryptomonnaies qui touchent des clients d’un revendeur, CryptoBilis, actif en Asie du Sud-Est. Selon un enquêteur on-chain, plus de 86 millions de dollars auraient déjà été siphonnés sur des wallets de la marque.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d32de882c0df",
+          "title": "Fuerza Regida Talk Street Mob Records, A&R & Their Stadium Tour | Billboard Cover Interview",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/fuerza-regida-billboard-cover-interview/",
+          "category": "musique",
+          "published_at": "2026-10-09T14:08:31+00:00",
+          "summary": "In this Billboard Cover Interview Fuerza Regida’s JOP opens up about Street Mob Records and why he signs artists he wants to be “bigger than me.” In this Billboard Cover Interview, Fuerza Regida breaks down the business, the vision, and the “2032” mindset behind their…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "200567404c9d",
+          "title": "Successeur du Rafale : la France fixe seule les jalons 2027 et 2029 du NGF, après le retrait de l’Allemagne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350363-successeur-du-rafale-la-france-fixe-seule-les-jalons-2027-et-2029-du-ngf-apres-le-retrait-de-lallemagne.html",
+          "category": "ia",
+          "published_at": "2026-10-09T14:00:50+00:00",
+          "summary": "Le ministère des Armées lancera en 2027 la phase qui doit faire voler un prototype du successeur du Rafale, puis en 2029 le développement de l'avion de série, selon les documents du budget 2027. La France mène désormais ce chantier seule, après le retrait de l'Allemagne en juin.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1eb69c16195",
+          "title": "Fuerza Regida: Photos From the Billboard Cover Shoot",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/fuerza-regida-photos-billboard-cover-shoot-1236355116/",
+          "category": "musique",
+          "published_at": "2026-10-09T13:58:25+00:00",
+          "summary": "Pics of the superstar band ahead of their Billboard Latin Music Week appearance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d17b7ca739ae",
+          "title": "Skillet’s John Cooper Talks Split With Former Church: ‘I Am Not Doubting My Faith — But I’m Like, ‘Man, How Can People Hurt Each Other This Bad?”",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/skillet-john-cooper-new-ep-after-the-storm-1236357571/",
+          "category": "ia",
+          "published_at": "2026-10-09T13:41:16+00:00",
+          "summary": "The fracture inspired the band's new EP, 'After the Storm.'",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15bef1145dcf",
+          "title": "Meta and TikTok engage in tit-for-tat ad bans on their platforms",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/meta-and-tiktok-engage-in-tit-for-tat-ad-bans-on-their-platforms/",
+          "category": "ia",
+          "published_at": "2026-10-09T13:24:18+00:00",
+          "summary": "If you’re a fan of SOCIAL MEDIA TITANS BEEF, prepare to record your direct-to-camera ragebait hot take: Meta, the parent company of Instagram and Facebook, has banned ads from ByteDance from running on its platforms in the US, as well as some other territories, including Canada,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16cf0a079467",
+          "title": "Jack White’s latest concert poster is also a $150 board game",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/jack-whites-latest-concert-poster-is-also-a-150-board-game/",
+          "category": "musique",
+          "published_at": "2026-10-09T13:22:55+00:00",
+          "summary": "When Jack White played a show at BleauLive Theater in Las Vegas on October 2, 2026, the show’s poster was also available for sale – as a board game. All 350 copies of Jack White: Las Vegas Frenzy sold out immediately, but more go on sale online today – at price that means it’s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca519f826daa",
+          "title": "Quels sont les meilleurs jeux de la PS5 ? 20 titres à lancer au moins une fois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/665953-ps5-tous-les-jeux-et-accessoires-pour-bien-debuter.html",
+          "category": "ia",
+          "published_at": "2026-10-09T13:21:27+00:00",
+          "summary": "Vous cherchez votre prochain jeu sur PS5 ? La rédaction de Numerama a sélectionné 20 jeux à découvrir en 2026, des grandes aventures solo aux titres à partager à deux. Voici nos recommandations pour choisir selon vos goûts, votre budget et le temps que vous souhaitez y consacrer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e25a75a704f",
+          "title": "New Suno live music division to help make it the “first creative entertainment platform”",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/new-suno-live-music-division-to-help-make-it-the-first-creative-entertainment-platform/",
+          "category": "musique",
+          "published_at": "2026-10-09T13:20:53+00:00",
+          "summary": "Part of Suno’s licensing deal with Warner Music Group last November involved acquiring concert-discovery platform Songkick. It felt like a strange quirk at the time – what does an AI music-generating platform have to do with live gigs? – but now we’ll find out how this seemingly…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d00d29bce7e",
+          "title": "Spotify launches enterprise Technology division; Rogan re-signs for reported $250m",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/spotify-launches-enterprise-technology-division-rogan-re-signs-for-reported-250m/",
+          "category": "musique",
+          "published_at": "2026-10-09T13:19:35+00:00",
+          "summary": "Spotify has been feeling confident recently about its internally-built tools – for instance its bespoke “large taste model&#8221; to better recommend music, and its Studio platform that can build bespoke podcasts for users. As such, it sees itself as more than a streaming…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8e459a9b375",
+          "title": "Sollos “re-engineers” Olivia Dean and Sam Smith songs to help you sleep and focus",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/sollos-re-engineers-olivia-dean-and-sam-smith-songs-to-help-you-sleep-and-focus/",
+          "category": "ia",
+          "published_at": "2026-10-09T13:18:07+00:00",
+          "summary": "It&#8217;s comforting to remember that music isn’t merely a thing that exists in a series of breathless AI press releases – it’s also a nice thing that makes people feel nice. Feeling good can sometimes seem like a scarce resource in 2026, and while listening to your favourite…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6a7f0bb0a8e",
+          "title": "Super Intelligence round-up: Sonilo, Laylo, Base for Music and more",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/super-intelligence-round-up-sonilo-laylo-base-for-music-and-more/",
+          "category": "musique",
+          "published_at": "2026-10-09T13:11:03+00:00",
+          "summary": "You’ll doubtlessly have heard the news, and so – as decreed by the super-est mind of our times – Music Ally will be referring to AI as “Super Intelligence” for the foreseeable future. Or until it crashes the stock market, whatever.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3277c8b200f4",
+          "title": "Anthropic interdit la « torture » de Claude",
+          "source": "Next INpact",
+          "url": "https://next.ink/260763/anthropic-interdit-de-torturer-claude/",
+          "category": "ia",
+          "published_at": "2026-10-09T13:05:04+00:00",
+          "summary": "Les IA n&#8217;ont « ni droits, ni sentiments, ni conscience », a récemment rappelé Mustafa Suleyman, le patron de Microsoft AI. Mais cela n&#8217;autorise pas pour autant les utilisateurs à torturer Claude, réplique Anthropic. Dans les nouvelles conditions d&#8217;utilisation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8baedf53389",
+          "title": "Earth, Wind & Fire Drummer John Paris Enters Rehab After Hospitalization",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/earth-wind-fire-drummer-john-paris-enters-rehab-insurance-1236357876/",
+          "category": "musique",
+          "published_at": "2026-10-09T12:58:56+00:00",
+          "summary": "The update came after the 58-year-old musician was placed in a medically induced coma in August and included news that he lacked health insurance at the time.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95de8a094bd8",
+          "title": "Amazon a un problème avec ses satellites : il lui faut plus de fusées pour les envoyer dans l’espace",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2349889-amazon-a-un-probleme-avec-ses-satellites-il-lui-faut-plus-de-fusees-pour-les-envoyer-dans-lespace.html",
+          "category": "ia",
+          "published_at": "2026-10-09T12:50:11+00:00",
+          "summary": "Amazon a construit son 1 000e satellite Leo, et son usine de Kirkland en produit désormais 27 par semaine. Seuls 396 sont en orbite, faute de fusées pour les lancer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d0f7c263d9d",
+          "title": "« OpenAI n’est pas une entreprise normale » : le licenciement de trois chercheurs en sécurité tourne au bras de fer public",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350125-openai-nest-pas-une-entreprise-normale-le-licenciement-de-trois-chercheurs-en-securite-tourne-au-bras-de-fer-public.html",
+          "category": "ia",
+          "published_at": "2026-10-09T12:30:02+00:00",
+          "summary": "OpenAI a publié une note pour défendre le licenciement de trois chercheurs de ses équipes de sécurité, qui contestent toute faute dans une lettre ouverte.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cb72305959a",
+          "title": "Dolly Parton Makes Posthumous Appearance in Video At Awards Show Honoring Music Teachers: ‘Thank You For Your Passion’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/dolly-parton-posthumous-video-cma-music-teachers-excellence-1236357873/",
+          "category": "musique",
+          "published_at": "2026-10-09T12:25:09+00:00",
+          "summary": "Parton recorded the tribute for the Country Music Association Foundation's Music Teachers of Excellence event before her death at 80 in August.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f2d5533d3e8b",
+          "title": "3,10 % brut pendant un an : combien rapporte réellement le livret boosté Bfor+ de BforBank ? [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2348023-310-brut-pendant-un-an-combien-rapporte-reellement-le-livret-booste-bfor-de-bforbank.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-09T12:17:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec BforBank\n\nOffre de bienvenue chez BforBank : le livret Bfor+, rémunéré à 3,10 % brut pendant un an sur un maximum de 200 000 €, bonifie votre épargne qui reste disponible à tout moment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f11fd8aa3a6",
+          "title": "Rencontres Informatique & Libertés 2026 : voir la rediffusion de l'évènement",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ril-2026",
+          "category": "cnil",
+          "published_at": "2026-10-09T12:00:00+00:00",
+          "summary": "La CNIL a organisé la 2ème édition de ses Rencontres Informatique &amp;amp; Libertés le mardi 29&amp;nbsp;septembre 2026. Cette matinée a été l'occasion d’échanger sur différents sujets en lien avec la protection des données, notamment l’essor des lunettes connectées ou le rôle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3d0cb8a8f92",
+          "title": "☕️ Microsoft livre une ébauche de LiteBox, un « système d’exploitation bibliothèque »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/microsoft-livre-une-ebauche-de-litebox-un-systeme-dexploitation-bibliotheque/",
+          "category": "institutionnel",
+          "published_at": "2026-10-09T11:08:00+00:00",
+          "summary": "En février 2026, Microsoft ouvrait un nouveau dépôt GitHub avec un drôle de projet open source&#160;: LiteBox. Sa description est complexe&#160;: il s’agit d’un « système d’exploitation bibliothèque » (library OS) dont la mission est de réduire la surface d’attaque d’un système…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9c62bd478a3",
+          "title": "Meta bans TikTok parent ByteDance from advertising on its apps in the US and six other countries",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/meta-bans-tiktok-parent-bytedance-from-advertising-on-its-apps-in-the-us-and-six-other-countries/",
+          "category": "ia",
+          "published_at": "2026-10-09T11:06:54+00:00",
+          "summary": "The ban also covers campaigns from third-party advertisers that direct users in those markets to TikTok or to other ByteDance-owned services.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ec2502662b5",
+          "title": "Spotify renews multi-year licensing deal with Joe Rogan. His last one was reportedly worth $250M.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-renews-multi-year-licensing-deal-with-joe-rogan-his-last-one-was-reportedly-worth-250m/",
+          "category": "musique",
+          "published_at": "2026-10-09T11:06:11+00:00",
+          "summary": "The Wall Street Journal, citing people familiar with the matter, reported that the deal's terms are similar to those of Rogan's previous Spotify agreement.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52b4f3682969",
+          "title": "Les bulletins sont intacts, mais des électeurs sont bloqués : une attaque DDoS frappe la primaire socialiste",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2350227-les-bulletins-sont-intacts-mais-les-electeurs-sont-bloques-une-attaque-ddos-frappe-la-primaire-socialiste.html",
+          "category": "ia",
+          "published_at": "2026-10-09T10:43:53+00:00",
+          "summary": "Depuis l’ouverture du premier tour, vendredi 9 octobre, la plateforme de vote de la primaire socialiste est saturée de connexions automatisées. Les bulletins ne sont pas menacés, mais une partie des électeurs n’a pas pu voter.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb75d1b2b24b",
+          "title": "Micromania ouvre les précommandes du display Cyberpunk TCG, le jeu de cartes qui a affolé Kickstarter",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349943-micromania-ouvre-les-precommandes-du-display-cyberpunk-tcg-le-jeu-de-cartes-qui-a-affole-kickstarter.html",
+          "category": "ia",
+          "published_at": "2026-10-09T10:30:00+00:00",
+          "summary": "[Précommande] Le jeu de cartes à collectionner tiré de Cyberpunk 2077 arrive en boutique le 6 novembre 2026. Micromania prend déjà les précommandes de son display de 24 boosters en français, à 139,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be8657563cd0",
+          "title": "☕️ Attaque par déni de service sur la plateforme de vote pour la primaire de la gauche",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/attaque-par-deni-de-service-sur-la-plateforme-de-vote-pour-la-primaire-de-la-gauche/",
+          "category": "ia",
+          "published_at": "2026-10-09T10:27:58+00:00",
+          "summary": "La plateforme e-votez, où se déroule le vote pour la «&#160;primaire de la gauche socialiste et démocratique&#160;», fait l&#8217;objet d&#8217;une attaque par déni de service, qui ralentit mais ne compromet pas, à ce stade, son fonctionnement. «&#160;La plateforme e-votez,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92fd964acf97",
+          "title": "De la consultation illégale de fichiers policiers à l’ « ubérisation de la corruption »",
+          "source": "Next INpact",
+          "url": "https://next.ink/260711/de-la-consultation-illegale-de-fichiers-policiers-a-l-uberisation-de-la-corruption/",
+          "category": "ia",
+          "published_at": "2026-10-09T10:09:40+00:00",
+          "summary": "Confrontées à une « ubérisation de la corruption » émanant notamment du narcobanditisme, les inspections générales de la police (IGPN) et de la gendarmerie (IGGN) ont musclé leurs dispositifs anti-corruption. Leurs nouveaux algorithmes de «&#160;surveillance et contrôle des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab0cf7da7135",
+          "title": "Behind The Campaign recap: James Johnston",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/behind-the-campaign-recap-james-johnston/",
+          "category": "musique",
+          "published_at": "2026-10-09T10:02:43+00:00",
+          "summary": "James Johnston is a country singer-songwriter from Australia who started putting out his music independently in 2021 before signing to Warner Music Australia ahead of his second album, Where You’ll Find Me. The artist’s export potential has been important from the outset, with…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ea65e723118",
+          "title": "Marketing tools updates: Fave, Laylo and Playground",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/marketing-tools-updates-fave-laylo-and-playground/",
+          "category": "musique",
+          "published_at": "2026-10-09T10:00:21+00:00",
+          "summary": "There have been some exciting new launches in the world of music marketing tools and tech this week. Here’s what caught our eye:\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f14ef3651d77",
+          "title": "Volkswagen ID. Tiguan : on a vu le SUV qui veut faire oublier l’ID.4",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2349475-volkswagen-id-tiguan-on-a-vu-le-suv-qui-veut-faire-oublier-lid-4.html",
+          "category": "ia",
+          "published_at": "2026-10-09T10:00:00+00:00",
+          "summary": "Après vous avoir dévoilé son nom et nos premières impressions à son volant, voilà tout ce qu’il faut savoir sur l'ID. Tiguan : nouveau design affirmé, habitacle transfiguré et des caractéristiques techniques solides.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "372c2b13add7",
+          "title": "Yung Miami launches debut album campaign with double single",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/yung-miami-launches-debut-album-campaign-with-double-single/",
+          "category": "musique",
+          "published_at": "2026-10-09T09:57:38+00:00",
+          "summary": "Releasing two singles on the same day is a bold way to open an album campaign. It doubles the content, but it also raises the risk of the tracks competing for DSP slots, radio spins and fan attention. Yung Miami is one of the latest artists to try out the strategy, launching her…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa64338fb709",
+          "title": "Un Starlink chinois pour la Russie ? Zelensky demande aux États-Unis d’aider l’Ukraine à « contrôler le ciel »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350069-un-starlink-chinois-pour-la-russie-zelensky-demande-aux-etats-unis-daider-lukraine-a-controler-le-ciel.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-09T09:56:26+00:00",
+          "summary": "Volodymyr Zelensky a accusé la Chine, ce jeudi 8 octobre, de mettre au point une alternative à Starlink pour la transmettre à la Russie. Le président ukrainien s'en sert pour réclamer l'aide des États-Unis dans le ciel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "039b33ba24a6",
+          "title": "Meta and TikTok announce new agentic AI advertising features",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/09/meta-and-tiktok-announce-new-agentic-ai-advertising-features/",
+          "category": "musique",
+          "published_at": "2026-10-09T09:55:15+00:00",
+          "summary": "It&#8217;s Advertising Week in New York, and both Meta and TikTok have announced new advertising features that move them further into the world of agentic AI.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2ad83507524f",
+          "title": "☕️ Microsoft 365 : les offres grand public partageables vont perdre en espace de stockage",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/microsoft-365-les-offres-grand-public-partageables-vont-perdre-en-espace-de-stockage/",
+          "category": "ia",
+          "published_at": "2026-10-09T09:29:01+00:00",
+          "summary": "Microsoft remplace, pour ses abonnements grand public partageables, le quota individuel de 1 To par personne (via OneDrive) par une enveloppe de stockage commune à tout l’abonnement. Les formules Famille et Premium étaient depuis des années relativement généreuses sur l’espace…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd38a684d26a",
+          "title": "Le téléphone au volant peut désormais entraîner une suspension du permis de conduire",
+          "source": "Next INpact",
+          "url": "https://next.ink/260803/le-telephone-au-volant-peut-desormais-entrainer-une-suspension-du-permis-de-conduire/",
+          "category": "ia",
+          "published_at": "2026-10-09T08:56:50+00:00",
+          "summary": "Le gouvernement confirme la généralisation de la possibilité désormais offerte aux préfets d&#8217;appliquer une suspension administrative du permis de conduire aux automobilistes surpris avec un téléphone portable à la main alors qu&#8217;ils conduisent, même si aucune autre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "372a309e9046",
+          "title": "TeslaAI change de nom : la « super intelligence » de Donald Trump gagne du terrain",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2349883-teslaai-change-de-nom-la-super-intelligence-de-donald-trump-gagne-du-terrain.html",
+          "category": "ia",
+          "published_at": "2026-10-09T08:52:00+00:00",
+          "summary": "Le compte X TeslaAI s’appelle désormais TeslaSI. Un changement qui reprend le vocabulaire promu par Donald Trump, quelques jours après l’annonce d’Elon Musk concernant SpaceXAI.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5383e7f375ef",
+          "title": "One Piece OP17 : où acheter les nouvelles Mini Tins Luffy, Shanks et Boa Hancock TS-03 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349685-one-piece-op-17-ou-acheter-les-nouvelles-mini-tins-luffy-shanks-et-boa-hancock-ts-03.html",
+          "category": "ia",
+          "published_at": "2026-10-09T08:45:00+00:00",
+          "summary": "[Précommande] Les nouvelles Mini Tins One Piece Card Game TS-03 sortent le vendredi 30 octobre. Vous voulez mettre la main sur les boîtes Luffy, Shanks ou Boa Hancock ? Voici les liens à surveiller pour tenter de trouver du stock au meilleur prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "beeb3b9e8878",
+          "title": "Cyberpunk 2077 : un film live est en route avec déjà un gros point positif",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349895-cyberpunk-2077-un-film-live-est-en-route-avec-deja-un-gros-point-positif.html",
+          "category": "musique",
+          "published_at": "2026-10-09T08:40:00+00:00",
+          "summary": "Après le carton monumental de l'anime Edgerunners et un sauvetage héroïque du jeu sur consoles, Night City s'apprête à passer à la moulinette d'un vrai blockbuster hollywoodien. Paramount vient de signer un accord avec CD Projekt Red pour développer un film Cyberpunk 2077.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e42c98e268f6",
+          "title": "Effaré, il découvre par hasard que la cafetière connectée de ses parents envoie « un téraoctet de données en dix jours »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2349933-effare-il-decouvre-par-hasard-que-la-cafetiere-connectee-de-ses-parents-envoie-un-teraoctet-de-donnees-en-dix-jours.html",
+          "category": "ia",
+          "published_at": "2026-10-09T08:32:31+00:00",
+          "summary": "Un informaticien a découvert que la machine à café de ses parents avait fait transiter plus de 1 000 gigaoctets de données en dix jours. La marque n’a toujours pas donné d’explication.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5218dba25843",
+          "title": "Il est désormais interdit de harceler Claude AI",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2349909-il-est-desormais-interdit-de-harceler-claude-ai.html",
+          "category": "ia",
+          "published_at": "2026-10-09T08:30:08+00:00",
+          "summary": "Anthropic met à jour sa politique d'utilisation et interdira à partir du 12 novembre les comportements cruels et répétés envers Claude. Une décision qui relance un débat sur les réseaux sociaux : pourquoi n'aurait-on pas le droit de maltraiter une IA dont rien n'indique qu'elle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e0914b35f8e",
+          "title": "Chiffrement : le projet de loi C-22 du Canada sous un feu nourri de critiques",
+          "source": "Next INpact",
+          "url": "https://next.ink/260790/chiffrement-le-projet-de-loi-c-22-du-canada-sous-un-feu-nourri-de-critiques/",
+          "category": "loi",
+          "published_at": "2026-10-09T08:25:47+00:00",
+          "summary": "Le gouvernement canadien rêve lui aussi de sa loi forçant les éditeurs à faciliter l’accès aux données nécessaires aux forces de l’ordre. Ce projet, estampillé C-22 et nommé «&#160;Lawful Access Act&#160;», attend son examen devant le Sénat canadien. Mais la fondation Signal…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92f6aaad5f72",
+          "title": "SecNumCloud : Bleu vise désormais une qualification pour la fin d’année",
+          "source": "Next INpact",
+          "url": "https://next.ink/260765/secnumcloud-bleu-vise-desormais-une-qualification-pour-la-fin-dannee/",
+          "category": "ia",
+          "published_at": "2026-10-09T07:18:57+00:00",
+          "summary": "Bleu est en retard sur le calendrier de la qualification SecNumCloud d’une partie de ses services. Elle prévoyait le premier semestre 2026, mais il est désormais question de « la fin d’année ». L’annonce des « clouds de confiance » basés sur des technologies américaines avait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c4a6a2173e7",
+          "title": "Dépassée par son succès, Anthropic suspend son offre Claude for Startups",
+          "source": "Next INpact",
+          "url": "https://next.ink/260785/depassee-par-son-succes-anthropic-suspend-son-offre-claude-for-startups/",
+          "category": "ia",
+          "published_at": "2026-10-09T06:25:08+00:00",
+          "summary": "Anthropic promettait d&#8217;offrir jusqu&#8217;à 1 000 dollars de crédits API et un an d&#8217;abonnement gratuit aux startups qui s&#8217;inscrivaient sur sa plateforme, après simple validation d&#8217;un formulaire. Trois jours plus tard, l&#8217;entreprise fait marche…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d3f3dd6de25",
+          "title": "Ecosia lâche Mistral et se tourne vers les modèles chinois",
+          "source": "Next INpact",
+          "url": "https://next.ink/260759/ecosia-lache-mistral-et-se-tourne-vers-les-modeles-chinois/",
+          "category": "ia",
+          "published_at": "2026-10-09T05:57:39+00:00",
+          "summary": "Ecosia en a soupé de Mistral. Le moteur de recherche allemand a en effet décidé de se passer des services de l&#8217;entreprise IA française, dont les modèles ont déçu. Ecosia veut maintenant favoriser les modèles à poids ouverts, y compris chinois. Christian Kroll, le fondateur…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "articles": [
+        {
+          "id": "043b2d22e247",
+          "title": "Suno hires Ticketmaster’s Michael Chua to lead its live music team, including Songkick",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-hires-ticketmasters-michael-chua-to-lead-its-live-music-team-including-songkick/",
+          "category": "musique",
+          "published_at": "2026-10-08T19:08:33+00:00",
+          "summary": "In the role, Chua will lead the AI music company's live music operations, which include concert discovery platform Songkick.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27ebf03d7cac",
+          "title": "Five-time Grammy winner Drake did not submit any of his three 2026 albums for consideration – joining BTS and Stray Kids in sitting out the 2027 awards (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/five-time-grammy-winner-drake-did-not-submit-any-of-his-three-2026-albums-for-consideration-joining-bts-and-stray-kids-in-sitting-out-the-2027-awards-report/",
+          "category": "musique",
+          "published_at": "2026-10-08T18:59:22+00:00",
+          "summary": "Sources told Billboard that the rapper did not submit any songs from Iceman, Habibti, and Maid of Honour to the Recording Academy.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "add659526b9a",
+          "title": "Warner Chappell Chair and CEO Guy Moot joins NMPA Board of Directors",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-chappell-chair-and-ceo-guy-moot-joins-nmpa-board-of-directors/",
+          "category": "ia",
+          "published_at": "2026-10-08T18:59:07+00:00",
+          "summary": "The NMPA announced Moot's appointment a week after he became sole chair of Warner Chappell on October 1.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f338ead6dd6e",
+          "title": "Live Nation to sell $730M and €600M of bonds to refinance its 6.5% notes due 2027",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-to-sell-730m-and-e600m-of-bonds-to-refinance-its-6-5-notes-due-2027/",
+          "category": "musique",
+          "published_at": "2026-10-08T17:11:06+00:00",
+          "summary": "The new notes will retire the $1.2 billion of 6.5% debt Live Nation raised in May 2020, during the pandemic concert shutdown.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de1be1063170",
+          "title": "Spotify is expanding audiobooks to more than 180 markets and says its Audiobooks+ add-on has passed $100M in annual recurring revenue",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-is-expanding-audiobooks-to-more-than-180-markets-and-says-its-audiobooks-add-on-has-passed-100m-in-annual-recurring-revenue/",
+          "category": "musique",
+          "published_at": "2026-10-08T17:10:57+00:00",
+          "summary": "Spotify said more than 750 million people will be able to stream or buy books on its platform once the rollout is complete.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4602655e3d13",
+          "title": "Live Nation hit with class action lawsuits over data breach involving Social Security numbers and health records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-hit-with-class-action-lawsuits-over-data-breach-involving-social-security-numbers-and-health-records/",
+          "category": "musique",
+          "published_at": "2026-10-08T17:10:47+00:00",
+          "summary": "Live Nation's statement came five days after Ticketmaster customers across the US ran into problems with ticket transfers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fc841da6148",
+          "title": "Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and Midjourney",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elon-musk-says-grok-bot-will-use-sunos-ai-music-models-alongside-anthropics-claude-and-midjourney/",
+          "category": "ia",
+          "published_at": "2026-10-08T17:10:31+00:00",
+          "summary": "Suno does not currently offer an official public API. MBW reported in July that the company was exploring the launch of one.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "974435798e52",
+          "title": "☕️ L’offensive domotique d’Apple commencera le 13 octobre avec un événement spécial",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/loffensive-domotique-dapple-commencera-le-13-octobre-avec-un-evenement-special/",
+          "category": "ia",
+          "published_at": "2026-10-08T16:30:55+00:00",
+          "summary": "Apple organise un événement le 13 octobre baptisé « Welcome Home ». Il se tiendra à New York, à 9 heures heure locale (15 heures à Paris). Le constructeur ne précise pas encore si on aura droit à une keynote en bonne et due forme, néanmoins cela ne fait guère de doute. Apple…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d17f0e03f3e",
+          "title": "Madverse Music Group’s parent company has launched a label",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/08/madverse-music-groups-parent-company-has-launched-a-label/",
+          "category": "musique",
+          "published_at": "2026-10-08T16:05:18+00:00",
+          "summary": "It’s been a busy year at Indian music distribution, publishing and marketing company Madverse Music Group’s HQ. In January, it entered into a partnership with Kobalt; in June, it announced [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3904baff1523",
           "title": "Harry Styles Reveals How an ‘Outgoing’ Girlfriend Made Him Less Afraid to Be in Public: ‘It’s Changed My Life’",
@@ -302,6 +877,16 @@
           "category": "ia",
           "published_at": "2026-10-08T12:00:00+00:00",
           "summary": "Hellraiser: Revival est une adaptation franchement réussie de l'œuvre de Clive Barker. On lui pardonne ses quelques défauts de finition, tant il excelle dans l'art de matérialiser un univers extrême sans aucune concession.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9578628e8cf8",
+          "title": "Ordre du jour de la séance plénière du 8 octobre 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-8-octobre-2026",
+          "category": "institutionnel",
+          "published_at": "2026-10-08T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 8 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
           "summary_type": "extrait source"
         },
         {
