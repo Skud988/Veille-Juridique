@@ -1,9 +1,204 @@
 {
-  "generated_at": "2026-10-09T15:18:32.448105+00:00",
+  "generated_at": "2026-10-10T14:28:33.622465+00:00",
   "days": [
+    {
+      "date": "2026-10-10",
+      "articles": [
+        {
+          "id": "3e29c41a0c97",
+          "title": "Sur Mars, cet étrange nuage est dû à un phénomène physique unique dans le Système Solaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2349127-sur-mars-cet-etrange-nuage-est-du-a-un-phenomene-physique-unique-dans-le-systeme-solaire.html",
+          "category": "ia",
+          "published_at": "2026-10-10T13:00:00+00:00",
+          "summary": "Un nuage qui peut s'étirer sur 1 800 kilomètres apparaît régulièrement sur Mars, avant de disparaître. Depuis des années, les scientifiques cherchent à comprendre pourquoi, et une étude parue dans Nature Geoscience avance une explication inédite, fondée sur un mode de formation…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9322f6139457",
+          "title": "‘Saturday Night Live U.K.’: Here’s Where to Watch Season 2 Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/saturday-night-live-uk-season-2-watch-stream-online-free-1236338739/",
+          "category": "musique",
+          "published_at": "2026-10-10T12:45:12+00:00",
+          "summary": "This weekend, SNL U.K. has Danny Dyer as host and Sasha Keable as musical guest.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "091db09de8d0",
+          "title": "Flock : Super Intelligence",
+          "source": "Next INpact",
+          "url": "https://next.ink/260975/flock-super-intelligence/",
+          "category": "ia",
+          "published_at": "2026-10-10T11:37:00+00:00",
+          "summary": "Ce que je vais vous dire pourra sembler téléphoné, mais on est tous le con de quelqu’un. Cependant, pour reconnaître les cons, il y a quand même des astuces, notamment grâce à l’IA. Hé ouais! Car avec la super intelligence, ce sont ceux qui en ont le moins qui en parlent le plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce159b96ed1e",
+          "title": "Test de Star Wars Galactic Racer : et si le meilleur jeu Star Wars était un jeu de course ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349101-test-de-star-wars-galactic-racer-et-si-le-meilleur-jeu-star-wars-etait-un-jeu-de-course.html",
+          "category": "ia",
+          "published_at": "2026-10-10T11:31:00+00:00",
+          "summary": "Un studio composé d'anciens développeurs et développeuses de Burnout qui se lance dans un jeu de courses dans l'univers Star Wars, on s'attendait à ce que ça fasse des étincelles. Mais Galactic Racer est en fait un vrai feu d'artifice.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d70a133ec7e",
+          "title": "« Votre compte Telegram n’est plus seulement le vôtre » : une faille de Telegram Desktop permettait de voler un compte en un clic",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2350783-votre-compte-telegram-nest-plus-seulement-le-votre-une-faille-de-telegram-desktop-permettait-de-voler-un-compte-en-un-clic.html",
+          "category": "ia",
+          "published_at": "2026-10-10T09:58:30+00:00",
+          "summary": "Un chercheur en sécurité a découvert une vulnérabilité dans la version desktop de Telegram qui permettait, à partir d’un simple lien cliqué, de dérober les fichiers de session d’un utilisateur et de prendre le contrôle de son compte.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65d55ed745db",
+          "title": "« Découvrez comment fonctionne le logiciel » : massivement partagé, cet outil IA veut mettre la rétro-ingénierie à la portée de tous",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350773-decouvrez-comment-fonctionne-le-logiciel-massivement-partage-cet-outil-ia-veut-mettre-la-retro-ingenierie-a-la-portee-de-tous.html",
+          "category": "ia",
+          "published_at": "2026-10-10T08:49:19+00:00",
+          "summary": "Branché sur les assistants de code, l’outil open source REA permet de faire décortiquer un programme par une IA en lui posant simplement une question. Plébiscité en quelques jours, il soulève déjà des questions juridiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14d2ee0c3749",
+          "title": "Ashnikko Covers Gwen Stefani’s ‘What You Waiting For?’ for Like A Version",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ashnikko-gwen-stefani-what-you-waiting-for-like-a-version-1236358578/",
+          "category": "musique",
+          "published_at": "2026-10-10T08:25:05+00:00",
+          "summary": "The artist called the 2004 solo hit “the song that inspired me to make music” in her triple j debut",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f25ee56590e",
+          "title": "Lance Bass Says He Earned Just $35 a Day at the Height of *NSYNC’s Fame",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/lance-bass-nsync-fame-1236358572/",
+          "category": "musique",
+          "published_at": "2026-10-10T08:09:09+00:00",
+          "summary": "The singer claimed the group’s first check was $10,000 — after “years of number one albums” and sold-out tours.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8352ba69bf6e",
+          "title": "Les géants de l’IA préparent déjà l’après-catastrophe et redoutent deux scénarios en particulier",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350763-les-geants-de-lia-preparent-deja-lapres-catastrophe-et-redoutent-deux-scenarios-en-particulier.html",
+          "category": "ia",
+          "published_at": "2026-10-10T07:31:37+00:00",
+          "summary": "Selon Axios, les dirigeants d’Anthropic, d’OpenAI et d’autres entreprises de l’IA simulent en privé la crise politique qui suivrait un premier accident majeur causé par l’IA.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fcd9d2b2c4ce",
+          "title": "Phil Wickham, Josiah Queen, Brandon Lake, Tasha Cobbs Leonard Top GMA Dove Awards Winners",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/phil-wickham-josiah-queen-gma-dove-awards-winners-1236358562/",
+          "category": "ia",
+          "published_at": "2026-10-10T04:27:34+00:00",
+          "summary": "The ceremony, held in Nashville, also featured a tribute to Dolly Parton by Amy Grant and Natalie Grant.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04be3c2a7de9",
+          "title": "ADÉLA Makes Her Case For Pop Stardom at Sold-Out Los Angeles Show: ‘I’m an Immigrant’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/adela-sold-out-los-angeles-concert-the-fonda-theatre-review-1236358527/",
+          "category": "ia",
+          "published_at": "2026-10-10T04:27:14+00:00",
+          "summary": "LA wouldn't be LA without ... the immigrants,\" the \"Ain't in LA\" singer declared at her first sold-out show at the Fonda Theatre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e77e41d690a7",
+          "title": "‘JAŸ-Z in 8’ Finale: 5 Things We Learned From Episodes 7 & 8",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/jay-z-in-8-finale-review-episodes-7-8-rick-rubin-hbo-max/",
+          "category": "ia",
+          "published_at": "2026-10-10T00:00:00+00:00",
+          "summary": "All eight episodes of the docuseries are now available to stream.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "articles": [
+        {
+          "id": "1b28f5bd3b33",
+          "title": "Gunna Launches SB The Label Imprint & Releases ‘Pop It’ Video With Tennis Star Coco Gauff: ‘A New Chapter for Me’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/gunna-sb-label-pop-it-coco-gauff-1236358460/",
+          "category": "musique",
+          "published_at": "2026-10-09T23:21:57+00:00",
+          "summary": "The Atlanta rapper announced his Splurge album in September.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08eaf57a5614",
+          "title": "Summer Walker in Legal Dispute With Interscope Over Record Deal",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/summer-walker-legal-dispute-interscope-record-deal/",
+          "category": "musique",
+          "published_at": "2026-10-09T22:56:15+00:00",
+          "summary": "Walker invoked California's seven-year statute to terminate her contract with Interscope. The label has now responded with a lawsuit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85924e6b129b",
+          "title": "Ella Langley Cancels Oklahoma Concert Hours Before Showtime Citing ‘Serious Security Threat’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/ella-langley-concert-canceled-tulsa-oklahoma-security-threat-1236358477/",
+          "category": "musique",
+          "published_at": "2026-10-09T22:38:19+00:00",
+          "summary": "Citing 'the safety of fans,' the singer and venue posted the news on their socials; Tulsa Police say they found 'no credible threat.'",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5c69ce06c66",
+          "title": "BYD met à jour sa Dolphin Surf : 5 places, Google à bord…et le bonus en ligne de mire ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2350527-byd-met-a-jour-sa-dolphin-surf-5-places-google-a-bord-et-le-bonus-en-ligne-de-mire.html",
+          "category": "ia",
+          "published_at": "2026-10-09T16:03:09+00:00",
+          "summary": "La citadine électrique la plus accessible de BYD revoit un peu sa configuration. La Dolphin Surf gagne une cinquième place, intègre Google et profite de rabais en octobre en attendant un éventuel bonus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52936826f399",
+          "title": "Révolution pour le bus et le tram à Nice : la carte Lignes d’Azur arrive sur iPhone dans quelques jours",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2350351-revolution-pour-le-bus-et-le-tram-a-nice-la-carte-lignes-dazur-arrive-sur-iphone-dans-quelques-jours.html",
+          "category": "ia",
+          "published_at": "2026-10-09T15:59:11+00:00",
+          "summary": "Après l'Île-de-France et les cartes Navigo, la métropole Nice Côte d'Azur sera la seconde à intégrer ses titres de transport dans l'application Apple Cartes sur iPhone et Apple Watch. Il devrait bientôt être possible d'acheter des tickets ou de gérer son abonnement sur iPhone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5eddaa9530f0",
+          "title": "From Sony Music’s 260,000 deepfake takedowns to Suno’s live music expansion… it’s MBW’s Weekly Round-Up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-sony-musics-260000-deepfake-takedowns-to-sunos-live-music-expansion-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-10-09T15:54:26+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5f2dba9a6c1",
+          "title": "Le marché des PC dégringole de 20 % au troisième trimestre sur un an",
+          "source": "Next INpact",
+          "url": "https://next.ink/260944/le-marche-des-pc-degringole-de-20-au-troisieme-trimestre-sur-un-an/",
+          "category": "ia",
+          "published_at": "2026-10-09T15:43:00+00:00",
+          "summary": "IDC et Omdia (anciennement Canalys) ont publié leurs chiffres préliminaires pour les ventes d’ordinateurs pour le troisième trimestre. Le moins que l’on puisse dire est qu’ils ne sont pas bons, avec un recul très net sur un an. On pouvait le pressentir, IDC et Omdia le…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "84ed2f568c32",
           "title": "Ignacio ‘Nacho’  Meyer Exits Univision",
