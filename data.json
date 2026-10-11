@@ -1,9 +1,194 @@
 {
-  "generated_at": "2026-10-10T14:28:33.622465+00:00",
+  "generated_at": "2026-10-11T14:55:06.447634+00:00",
   "days": [
+    {
+      "date": "2026-10-11",
+      "articles": [
+        {
+          "id": "21f9956f6c47",
+          "title": "Meilleurs romans à lire pour Halloween : voilà les incontournables pour les fans d’horreur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2346847-meilleurs-romans-a-lire-pour-halloween-voila-les-incontournables-pour-les-fans-dhorreur.html",
+          "category": "ia",
+          "published_at": "2026-10-11T14:00:00+00:00",
+          "summary": "Vous cherchez un bon livre pour accompagner les longues nuits d’octobre ? De l’horreur pure au thriller macabre, en passant par quelques pépites devenues cultes, voici notre sélection de romans parfaits pour frissonner pendant le mois d'Halloween.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09b3df2e28dd",
+          "title": "Ce signal a traversé 10 milliards d’années-lumière, et on a retrouvé son origine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2350081-ce-signal-a-traverse-10-milliards-dannees-lumiere-et-on-a-retrouve-son-origine.html",
+          "category": "ia",
+          "published_at": "2026-10-11T12:29:00+00:00",
+          "summary": "Un sursaut radio rapide extrêmement lointain a pu être étudié en détail à l'aide de plusieurs télescopes. Grâce à l'observatoire spatial James Webb, les scientifiques ont pu remonter à sa source, une petite galaxie observée telle qu'elle était trois milliards d'années seulement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfa2c3729287",
+          "title": "Gros leak de GTA 6, Saison 3 de l’Imperatrice sur Netflix, le recap Pop Culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2350483-gros-leak-de-gta-6-saison-3-de-limperatrice-sur-netflix-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-10-11T11:00:00+00:00",
+          "summary": "Semaine totalement sous tension du côté de la pop culture, atomisée par le retour fracassant du leaker de&nbsp;GTA 6&nbsp;: 25 minutes de gameplay brut, truffées de spoilers et de séquences explicites, qui font l'effet d'une bombe sur les réseaux. Un séisme qui éclipse presque…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bc208e89c6c",
+          "title": "Netflix : les meilleurs films d’horreur pour le parfait Halloween 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2348807-netflix-les-meilleurs-films-dhorreur-pour-le-parfait-halloween-2026.html",
+          "category": "ia",
+          "published_at": "2026-10-11T10:59:00+00:00",
+          "summary": "Octobre est là, le thermomètre se casse la figure et l'envie de se vautrer dans son canapé revient avec Halloween. Seul souci, le catalogue Netflix déborde de productions horrifiques insipides.  Voici 9 films qui valent vraiment votre soirée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d30169869a1",
+          "title": "NFL London Game Halftime Show 2026: Here’s Where to Watch Perform Ayra Starr Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-ayra-starr-halftime-show-watch-live-free-1236358001/",
+          "category": "musique",
+          "published_at": "2026-10-11T10:30:00+00:00",
+          "summary": "Livestream the Philadelphia Eagles take on the Jacksonville Jaguars live from London on Oct. 11.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f9dd808e140",
+          "title": "On peut désormais ranger ses canettes dans un Creeper de Minecraft",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2350163-on-peut-desormais-ranger-ses-canettes-dans-un-creeper-de-minecraft.html",
+          "category": "ia",
+          "published_at": "2026-10-11T10:13:20+00:00",
+          "summary": "[Précommande] Un Creeper qui cache des canettes dans sa tête,  Master Chief qui garde vos sodas au frais et un modèle façon distributeur de Fallout : ces trois mini-frigos sont en précommande chez Micromania.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b3b0f9246b8",
+          "title": "« Les usines se battent contre des usines » : c’est quoi ArsenalOS, le logiciel d’Anduril qui doit piloter la production d’armes américaines",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350475-les-usines-se-battent-contre-des-usines-cest-quoi-arsenalos-le-logiciel-danduril-qui-doit-piloter-la-production-darmes-americaines.html",
+          "category": "ia",
+          "published_at": "2026-10-11T09:31:00+00:00",
+          "summary": "Anduril a annoncé ce mardi 6 octobre un chantier naval à 6,6 milliards de dollars (environ 5,9 milliards d’euros) pour l’US Navy. Il reposera sur ArsenalOS, un logiciel qui doit piloter toute la production de l’entreprise.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f4e3940c987",
+          "title": "Percées mathématiques d’OpenAI, modèle Mistral Large 4 et Orange Home Cinema – le récap’ tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350633-percees-mathematiques-dopenai-modele-mistral-large-4-et-orange-home-cinema-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-10-11T07:20:00+00:00",
+          "summary": "Cette semaine, l'IA a beaucoup fait parler. OpenAI a impressionné le monde scientifique avec ses 772 manuscrits mathématiques, tandis que Mistral AI a fait son retour dans la course avec son premier modèle depuis de longs mois (et se repositionne dans les classements). Du côté…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "670699e056b4",
+          "title": "Soulja Boy Teases 2028 Presidential Run: ‘A Bigger Vision’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/soulja-boy-teases-2028-presidential-run-1236358638/",
+          "category": "ia",
+          "published_at": "2026-10-11T06:26:37+00:00",
+          "summary": "The “Crank That” rapper says he’s “exploring what it means to bring that same vision to public service”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a66e3f82766",
+          "title": "Ces politiques prêts à sacrifier la voiture électrique pour quelques centimes à la pompe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2350629-ces-politiques-prets-a-sacrifier-la-voiture-electrique-pour-quelques-centimes-a-la-pompe.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-11T06:23:00+00:00",
+          "summary": "Pour gratter quelques euros sur les pleins, faut-il saboter la voiture électrique ? C’est l’étrange idée qui s’invite dans la présidentielle. De quoi faire le point de la situation dans l'édito de la newsletter Watt Else du 8 octobre 2026.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-10",
       "articles": [
+        {
+          "id": "e92ef548a809",
+          "title": "Charli XCX Welcomes Tinashe for Surprise Performance at 2026 Austin City Limits Festival",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/charli-xcx-tinashe-2026-austin-city-limits-festival-1236358595/",
+          "category": "musique",
+          "published_at": "2026-10-10T18:37:26+00:00",
+          "summary": "The duo performed two tracks from Tinashe’s Popstar album during the Oct. 9 set.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3bc10516c3c",
+          "title": "Vous pouvez maintenant jouer à Super Mario Bros. directement sur YouTube",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2349581-vous-pouvez-maintenant-jouer-a-super-mario-bros-directement-sur-youtube.html",
+          "category": "ia",
+          "published_at": "2026-10-10T17:31:00+00:00",
+          "summary": "Un simple navigateur et une souris : c’est tout ce qu’il faut pour transformer une vidéo YouTube en une version jouable de Super Mario Bros. Mario saute ou s'accroupit selon la position du curseur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47663194e2b2",
+          "title": "Shane Gillis & Rosalía on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-shane-gillis-rosalia-watch-live-online-free-1236357933/",
+          "category": "musique",
+          "published_at": "2026-10-10T16:50:45+00:00",
+          "summary": "Livestream the comedian host and Spanish singer-songwriter perform on Saturday, Oct. 10 — watch live online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ab4f6ba181e",
+          "title": "WWE Money in the Bank 2026: Here’s How to Watch the Premium Live Event Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/wwe-money-in-the-bank-2026-how-to-watch-live-online-free-1236357022/",
+          "category": "musique",
+          "published_at": "2026-10-10T16:04:41+00:00",
+          "summary": "Don't miss dual ladder matches for championship match contracts during the wrestling event — with a possible appearance by Lil Wayne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7aacfe4ce6fe",
+          "title": "Les 10 animes incontournables de l’automne 2026, avec le retour attendu des Carnets de l’Apothicaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2346177-10-animes-de-lautomne-2026-a-suivre.html",
+          "category": "ia",
+          "published_at": "2026-10-10T16:01:00+00:00",
+          "summary": "Après un bel été riche en animes, l'automne arrive avec son lot de contenus à ne pas louper cette saison. Voici notre sélection à ne pas louper sur Netflix et Crunchyroll.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e61fe159737c",
+          "title": "Éviter la suspension du permis, préjugés sur l’électrique balayés et l’Allemagne veut homologuer rapidement le Tesla FSD : le récap’ Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2350705-eviter-la-suspension-du-permis-prejuges-sur-lelectrique-balayes-et-lallemagne-veut-homologuer-rapidement-le-tesla-fsd-le-recap-vroom-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-10-10T15:12:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : le gouvernement généralise la suspension du permis pour usage du téléphone au volant, l’Ademe débunk trois idées reçues sur la voiture électrique et le ministre allemand des Transports plaide pour autoriser le FSD en Europe.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84e62eba4dd9",
+          "title": "For World Mental Health Day, a check-up on the music industry",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/features/for-world-mental-health-day-2026-1236358584/",
+          "category": "musique",
+          "published_at": "2026-10-10T15:08:44+00:00",
+          "summary": "Consider it a musical manifesto devoted to mental health",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b21307b1867",
+          "title": "Si toute la glace de ce bassin en Antarctique venait à fondre, le niveau de la mer monterait de 3 à 4 mètres",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2349583-si-toute-la-glace-de-ce-bassin-venait-a-fondre-le-niveau-de-la-mer-monterait-de-3-a-4-metres.html",
+          "category": "ia",
+          "published_at": "2026-10-10T14:30:00+00:00",
+          "summary": "Le bassin de Wilkes, en Antarctique, est gelé et en partie situé sous le niveau de la mer. Si toute sa glace venait à fondre en raison du changement climatique, le niveau global de la mer monterait de 3 à 4 mètres. C’est déjà arrivé par le passé, à des températures que nous…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3e29c41a0c97",
           "title": "Sur Mars, cet étrange nuage est dû à un phénomène physique unique dans le Système Solaire",
