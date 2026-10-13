@@ -1,9 +1,454 @@
 {
-  "generated_at": "2026-10-12T17:54:13.704379+00:00",
+  "generated_at": "2026-10-13T15:58:49.158838+00:00",
   "days": [
+    {
+      "date": "2026-10-13",
+      "articles": [
+        {
+          "id": "330550ae1783",
+          "title": "« Oui, c’est une bonne idée ! » : comment Citroën a gardé la surprise de la 2 CV Fourgonnette au Mondial de l’Auto",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2352589-oui-cest-une-bonne-idee-comment-citroen-a-garde-la-surprise-de-la-2-cv-fourgonnette-au-mondial-de-lauto.html",
+          "category": "ia",
+          "published_at": "2026-10-13T15:30:11+00:00",
+          "summary": "Si Citroën a semé de nombreux indices sur son 2 CV Concept, rien n’a filtré concernant sa deuxième création : une 2 CV Fourgonnette qui a créé la surprise au Mondial de l’Automobile 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "46dc48cdbbe6",
+          "title": "Viktoria Siniavskaia appointed President EMEA at Believe",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/viktoria-siniavskaia-appointed-president-emea-at-believe/",
+          "category": "ia",
+          "published_at": "2026-10-13T15:26:15+00:00",
+          "summary": "The appointment is part of what Believe calls its \"evolution toward a stronger regional leadership model,\" the company said.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a1cb076eb1e",
+          "title": "Airbus fait voler son drone de combat Valkyrie en Europe, mais son « cerveau » souverain attendra avant d’embarquer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2351833-airbus-fait-voler-son-drone-de-combat-valkyrie-en-europe-mais-son-cerveau-souverain-attendra-avant-dembarquer.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-13T15:17:58+00:00",
+          "summary": "Airbus et l'Américain Kratos ont fait voler pour la première fois en Europe le U740 Valkyrie, un drone de combat que l'Allemagne pourrait utiliser dès 2029. Le système de mission européen censé le piloter n'était pas encore à bord.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d56c1d688dc0",
+          "title": "Avengers Doomsday : il manquera bien un autre membre des avengers dans le film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2351913-avengers-doomsday-ce-personnage-culte-de-marvel-confirme-son-absence-du-film.html",
+          "category": "ia",
+          "published_at": "2026-10-13T15:15:00+00:00",
+          "summary": "Nouvelle journée, nouveau numéro de langue de bois chez Marvel Studios. Paul Bettany (Vision) plaisante en disant qu'il serait&nbsp;« viré » s'il révélait sa présence ou non dans Avengers: Doomsday. Jeremy Renner, lui, assure que Hawkeye ne sera pas du film.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36468397b19a",
+          "title": "Inside the Plans to Celebrate the CMA Awards at 60: ‘We Have to Meet Fans Where They Are’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/cma-awards-2026-sarah-trahern-interview-1236357039/",
+          "category": "ia",
+          "published_at": "2026-10-13T15:08:00+00:00",
+          "summary": "Longtime Country Music Association CEO Sarah Trahern will step down from her role in December, following the Lainey Wilson-hosted ceremony on Nov. 18.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cebe4b7296b0",
+          "title": "Elon Musk est devenu le plus gros donateur républicain de l’histoire des États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/261532/elon-musk-est-devenu-le-plus-gros-donateur-republicain-de-lhistoire-des-etats-unis/",
+          "category": "institutionnel",
+          "published_at": "2026-10-13T15:07:50+00:00",
+          "summary": "En amont des élections de mi-mandat qui doivent se tenir en novembre aux États-Unis, Elon Musk a déjà donné plus d’argent au parti républicain que pendant la campagne de l&#8217;élection présidentielle de 2024. 267 millions de dollars, c&#8217;est le montant déversé à bas bruit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31bf8e0e130a",
+          "title": "La version PC de GTA 6 pourrait sortir plus tôt qu’espéré",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2352567-la-version-pc-de-gta-6-pourrait-sortir-plus-tot-quespere.html",
+          "category": "ia",
+          "published_at": "2026-10-13T15:02:30+00:00",
+          "summary": "D’après le site américain GamesBeat, qui cite quatre sources de l’industrie, GTA 6 pourrait arriver sur PC dès le premier trimestre 2027, quelques mois seulement après sa sortie sur PS5 et Xbox Series.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5b90e6f2256",
+          "title": "Apple laisse son nouvel écran connecté HomeView à la porte de l’UE",
+          "source": "Next INpact",
+          "url": "https://next.ink/261513/apple-laisse-son-nouvel-ecran-connecte-homeview-a-la-porte-de-lue/",
+          "category": "ia",
+          "published_at": "2026-10-13T14:49:00+00:00",
+          "summary": "Apple lance sa nouvelle offensive pour la maison connectée. Apple TV, HomePod mini, gamme d&#8217;objets connectés, et surtout un appareil complètement inédit dans la gamme du constructeur, le HomeView, tour de contrôle de tout ce petit bazar… Hélas, cet écran connecté ne sera…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bcd3fc05373e",
+          "title": "Believe Names Viktoria Siniavskaia President of EMEA in Global Leadership Restructure",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/believe-names-viktoria-siniavskaia-president-emea/",
+          "category": "ia",
+          "published_at": "2026-10-13T14:45:14+00:00",
+          "summary": "\"I will contribute to solutions that empower independent talent at every stage of their careers,\" the executive said in a statement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "422ad8347ba9",
+          "title": "‘KPop Demon Hunters’ Extends Record for Most Weeks at No. 1 on Billboard’s Soundtracks Chart: Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/billboard-top-soundtracks-chart-most-weeks-no-1-full-list/",
+          "category": "musique",
+          "published_at": "2026-10-13T14:45:00+00:00",
+          "summary": "The K-pop megahit has had a \"Golden\" chart run.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20792e1bc0bf",
+          "title": "‘When you control your IP, you control your destiny.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/when-you-control-your-ip-you-control-your-destiny/",
+          "category": "musique",
+          "published_at": "2026-10-13T14:43:58+00:00",
+          "summary": "Loud And Live boss and grammy-winning producer turned promoter Nelson Albareda talks venues, brand partnerships, and the economics of Latin touring\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7732c88561f4",
+          "title": "Apple s’associe à LG et Schneider pour gonfler son catalogue de produits pour la maison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2352437-apple-sassocie-a-lg-et-schneider-pour-gonfler-son-catalogue-de-produits-pour-la-maison.html",
+          "category": "ia",
+          "published_at": "2026-10-13T14:36:29+00:00",
+          "summary": "Pour accompagner comme il se doit le lancement de son HomeView, véritable centre de pilotage domotique, Apple s'associe à LG et Schneider pour proposer une palanquée de produits connectés pour la maison.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b16a747e597f",
+          "title": "Arrêt d’une offre gratuite MS 365 pour associations : Watertrek a perdu 600 Go de données",
+          "source": "Next INpact",
+          "url": "https://next.ink/261398/arret-dune-offre-gratuite-ms-365-pour-associations-watertrek-a-perdu-600-go-de-donnees/",
+          "category": "justice",
+          "published_at": "2026-10-13T14:25:00+00:00",
+          "summary": "Microsoft a arrêté brutalement l&#8217;accès à 365 Business Premium et Office 365 E1 qu&#8217;elle proposait gratuitement aux organismes sans but lucratif. L&#8217;association française Watertrek a mis en demeure l&#8217;entreprise : elle a perdu 600 Go de données qui y étaient…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8afb8d5bf2ca",
+          "title": "The War and Treaty to Receive Origins Vanguard Award at Origins Impact Awards: Full List of 2026 Nominees",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/origins-impact-awards-2026-nominees-full-list-1236358590/",
+          "category": "musique",
+          "published_at": "2026-10-13T14:10:00+00:00",
+          "summary": "Origins Music Group announced this year’s finalists across 18 categories, including Breland, Blanco Brown and K. Michelle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ec664754da7",
+          "title": "Le dernier tir de SpaceX a fait flotter une immense méduse lumineuse dans le ciel, voici les photos les plus incroyables",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2352343-une-fusee-falcon-9-de-spacex-a-fait-apparaitre-une-meduse-lumineuse-dans-le-ciel-photos.html",
+          "category": "ia",
+          "published_at": "2026-10-13T14:05:25+00:00",
+          "summary": "De superbes images d'une « méduse spatiale » aperçue aux États-Unis sont diffusées ce 13 octobre 2026. Ce phénomène lumineux est dû au décollage d'une fusée Falcon 9 de SpaceX, le matin même en Floride.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "316e1c3a2490",
+          "title": "Le marché des smartphones recule lui aussi de 20 % au troisième trimestre",
+          "source": "Next INpact",
+          "url": "https://next.ink/261453/le-marche-des-smartphones-recule-lui-aussi-de-20-au-troisieme-trimestre/",
+          "category": "ia",
+          "published_at": "2026-10-13T14:03:04+00:00",
+          "summary": "Quelques jours après les chiffres sur le marché des PC, ceux des smartphones révèlent une réalité quasi identique&#160;: un fort recul, entrainé largement par la hausse spectaculaire des prix de la mémoire vive. Le 9 octobre, nous indiquions que le marché des PC avait plongé de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05d6654842f3",
+          "title": "Elderbrook Signs With Counter Records, Announces New Album: ‘Well Positioned for Even Greater Success’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/elderbrook-new-album-counter-records-label-signing/",
+          "category": "musique",
+          "published_at": "2026-10-13T14:00:00+00:00",
+          "summary": "The producer's new album, Heart on a Wire, is coming in January via the Ninja Tune imprint.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bef8326fd216",
+          "title": "Cristian Castro to Receive Lifetime Achievement Award at the 2026 Billboard Latin Music Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/cristian-castro-billboard-lifetime-achievement-award-2026-1236359488/",
+          "category": "musique",
+          "published_at": "2026-10-13T13:45:00+00:00",
+          "summary": "The Latin pop icon will perform at the Oct. 22 ceremony, which will be broadcast live on Telemundo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce69ade731e1",
+          "title": "‘A certain amount of almost unreasonable self-belief is necessary’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/a-certain-amount-of-almost-unreasonable-self-belief-is-necessary/",
+          "category": "musique",
+          "published_at": "2026-10-13T13:30:10+00:00",
+          "summary": "With production credits on Don Toliver’s chart-topping OCTANE, Jaasu’s star is on the rise. Here he breaks down his philosophy on success, collaboration, leadership, honesty, and much more… \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08ff88255d81",
+          "title": "Apple TV et HomePod mini : après 4 ans et 6 ans d’attente, Apple dévoile enfin de nouvelles versions (sans Siri AI en France)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2351795-apple-tv-et-homepod-mini-apres-4-ans-et-6-ans-dattente-apple-devoile-enfin-de-nouvelles-versions-sans-siri-ai-en-france.html",
+          "category": "ia",
+          "published_at": "2026-10-13T13:24:58+00:00",
+          "summary": "Apple dévoile de nouvelles versions de ses deux produits les plus populaires pour la maison connectée : l'Apple TV et le HomePod mini. Au programme : des puces plus puissantes, mais pas de Siri AI en France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6cc2a710c78",
+          "title": "Le nouveau jeu du créateur de Dragon Quest a été conçu avec l’IA en 30 minutes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2352151-le-nouveau-jeu-du-createur-de-dragon-quest-a-ete-concu-avec-lia-en-30-minutes.html",
+          "category": "ia",
+          "published_at": "2026-10-13T13:21:03+00:00",
+          "summary": "Yuji Horii est l'un des co-créateurs de Dragon Quest, tout de même l'une des sagas de JRPG les plus importantes de l'histoire. Le 11 octobre, il a publié gratuitement un petit jeu d'enquête qu'il dit avoir créé en une trentaine de minutes avec Claude, l'IA générative d'Anthropic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fbfd03730a2",
+          "title": "Apple dévoile le HomeView, son écran pour piloter la maison (qui n’est pas disponible en Europe)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2351797-apple-devoile-le-homeview-son-ecran-pour-piloter-la-maison-qui-nest-pas-disponible-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-10-13T13:07:27+00:00",
+          "summary": "Après des années de rumeurs et de reports, Apple dévoile enfin son premier écran pour la maison : le HomeView. Apple le présente comme le centre de pilotage ultime pour la maison connectée, avec Siri AI aux manettes. Il sortira le 13 novembre aux États-Unis pour 299 dollars……",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d960d0d720bd",
+          "title": "Live Nation moves to acquire majority stake in concert promoter Bizarro Chile, months after buying into Bizarro Peru",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-moves-to-acquire-majority-stake-in-concert-promoter-bizarro-chile-months-after-buying-into-bizarro-peru/",
+          "category": "musique",
+          "published_at": "2026-10-13T13:00:22+00:00",
+          "summary": "The deal comes less than nine months after Live Nation agreed to take a majority stake in Bizarro Peru\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dbe26ddadc4f",
+          "title": "Sony lance une PS5 noire deux fois moins chère pour GTA 6 (mais pas en France)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2352299-sony-lance-une-ps5-noire-deux-fois-moins-chere-pour-gta-6-mais-pas-en-france.html",
+          "category": "ia",
+          "published_at": "2026-10-13T12:58:09+00:00",
+          "summary": "La branche japonaise de PlayStation lance un nouveau modèle de PS5. Pour 55 000 yens, soit environ 310 €, les joueurs japonais pourront s'offrir cette PS5 le 19 novembre, le jour de la sortie de GTA 6.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d8241842745",
+          "title": "Chiffrement classique contre post-quantique : le match des performances",
+          "source": "Next INpact",
+          "url": "https://next.ink/261289/chiffrement-classique-contre-post-quantique-le-match-des-performances/",
+          "category": "ia",
+          "published_at": "2026-10-13T12:49:57+00:00",
+          "summary": "Vous entendez régulièrement parler de chiffrement symétrique (AES), asymétrique (RSA) et d’algorithmes post-quantiques sans trop comprendre de quoi il s’agit ni les enjeux&#160;? Next vous propose de comparer les usages et performances de ces algorithmes de chiffrement, dont…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02bd5abeff92",
+          "title": "Remboursement du passe Navigo : c’est le dernier jour pour récupérer jusqu’à 90,80 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2332489-remboursement-du-passe-navigo-cest-le-dernier-jour-pour-recuperer-jusqua-90-euros-80.html",
+          "category": "ia",
+          "published_at": "2026-10-13T12:40:13+00:00",
+          "summary": "Certains voyageurs peuvent demander le remboursement de leur passe Navigo. Une campagne de dédommagement d'Île-de-France Mobilités est ouverte depuis la mi-septembre 2026. Voici comment savoir si vous êtes concernés. Ne tardez plus pour faire votre demande, c'est le dernier jour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "623fbad6597c",
+          "title": "Surprise : No Man’s Sky débarque sur iPhone et iPad",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2352023-surprise-no-mans-sky-debarque-sur-iphone-et-ipad.html",
+          "category": "ia",
+          "published_at": "2026-10-13T12:35:00+00:00",
+          "summary": "Dix ans après une sortie pour le moins chaotique, No Man’s Sky s’apprête à débarquer sur iPhone et iPad. Un bel arc de rédemption pour un jeu que beaucoup pensaient condamné dès son lancement, avant que Hello Games ne le transforme, mise à jour après mise à jour, en une aventure…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fff194efe509",
+          "title": "YouTube argues for more business support and funding for EU creators",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/13/youtube-argues-for-more-business-support-and-funding-for-eu-creators/",
+          "category": "ia",
+          "published_at": "2026-10-13T12:30:00+00:00",
+          "summary": "YouTube has published a “proposal for unlocking the EU Creator Economy”, which argues that its community of creators in Europe should be treated more like small businesses, given access to the same EU funding (like the Creative Europe programme, or tax incentives) as established…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a33299b8ea55",
+          "title": "UMG sues artist trying to exit deal; WMG sues Ray-Ban owner over unlicensed syncs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/13/umg-sues-artist-trying-to-exit-deal-wmg-sues-ray-ban-owner-over-unlicensed-syncs/",
+          "category": "musique",
+          "published_at": "2026-10-13T12:30:00+00:00",
+          "summary": "Two lawsuits caught our eye today, both of which tell you something about the tension between established artist contracts and music rights – and how they fit in a modern media and legal landscape.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85585571d5eb",
+          "title": "Deezer lets users hide AI music; Playhead generates signal chains for producers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/13/deezer-lets-users-hide-ai-music-playhead-generates-signal-chains-for-producers/",
+          "category": "musique",
+          "published_at": "2026-10-13T12:30:00+00:00",
+          "summary": "Deezer has been notably open about sharing information on the impact of AI-generated music on its platform, and has announced that it will allow users to “fully exclude” AI-generated music from their listening.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa16c98cf7cb",
+          "title": "Deezer to let users block AI-generated music from search results",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
+          "category": "musique",
+          "published_at": "2026-10-13T12:14:11+00:00",
+          "summary": "Deezer is introducing an on/off toggle that will let users exclude fully AI-generated music from their search results\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8efd225c5bc7",
+          "title": "‘Independent artists in India deserve the same infrastructure access, royalty transparency, and global reach that Western artists have been exposed to.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/independent-artists-in-india-deserve-the-same-infrastructure-access-royalty-transparency-and-global-reach-that-western-artists-have-been-exposed-to/",
+          "category": "ia",
+          "published_at": "2026-10-13T11:00:52+00:00",
+          "summary": "Madverse boss Rohan Nesho Jain on the platform's positioning in the independent space, his predictions for the India's music market, and more…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "065d2825244f",
+          "title": "☕️ États-Unis : le projet de diffusion de l’exécution d’un condamné à mort largement critiqué",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/etats-unis-le-projet-de-diffusion-de-lexecution-dun-condamne-a-mort-largement-critique/",
+          "category": "ia",
+          "published_at": "2026-10-13T10:58:00+00:00",
+          "summary": "Le 3 décembre, Nidal Hasan, 56 ans, doit être fusillé à Fort Hood. C&#8217;est le résultat d&#8217;une condamnation après que ce dernier a assassiné 13 personnes sur les lieux, en 2009. Approuvée début octobre par la Maison-Blanche, une telle mise à mort par un peloton…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfd412315e97",
+          "title": "☕️ No Man’s Sky va débarquer sur iPhone et iPad",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/no-mans-sky-va-debarquer-sur-iphone-et-ipad/",
+          "category": "ia",
+          "published_at": "2026-10-13T10:32:00+00:00",
+          "summary": "Le studio Hello Games est connu pour l’une des plus belles «&#160;remontadas&#160;» du jeu vidéo. No Man’s Sky, à sa sortie il y a dix ans, était bien loin des promesses faites pendant son développement, notamment par le fondateur et patron de l’entreprise, Sean Murray. Hello…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6c09f79125b",
+          "title": "Rebecca Allen to exit UMG UK Chief Artist and Strategy Officer role after 27 years at Universal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/rebecca-allen-to-exits-umg-uk-chief-artist-and-strategy-officer-role-after-27-years-at-universal/",
+          "category": "musique",
+          "published_at": "2026-10-13T10:31:19+00:00",
+          "summary": "Allen was promoted to the newly formed role of Chief Artist and Strategy Officer at UMG UK in December 2025\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a497df4965c",
+          "title": "UK’s Copyright Tribunal backs PRS For Music in cinema licensing dispute",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/uks-copyright-tribunal-backs-prs-for-music-in-cinema-licensing-dispute/",
+          "category": "justice",
+          "published_at": "2026-10-13T10:08:55+00:00",
+          "summary": "The Tribunal had approved changes to its cinema tariff, known as Tariff C, including an increase in the royalty rate cinemas pay to use its members' music.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7ff04c85636",
+          "title": "Epic Games reporte son jeu Disney et bascule en mode « AI first »",
+          "source": "Next INpact",
+          "url": "https://next.ink/261388/epic-games-reporte-son-jeu-disney-et-bascule-en-mode-ai-first/",
+          "category": "ia",
+          "published_at": "2026-10-13T09:47:00+00:00",
+          "summary": "Epic Games travaillait sur un jeu de tir réunissant des personnages des univers Marvel et Star Wars, mais le titre n’a désormais plus de date de sortie. Parallèlement, les développeurs du titre auraient reçu pour consigne d’utiliser désormais l’IA pour l’ensemble du code et des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9a3f04f37da",
+          "title": "Creativity and change in songwriting: ‘Stay in the river, keep swimming’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/13/creativity-and-change-in-songwriting-stay-in-the-river-keep-swimming/",
+          "category": "musique",
+          "published_at": "2026-10-13T09:19:59+00:00",
+          "summary": "This is coverage from the Music Ally Publishing Summit 2026 – read full details of the event here. This week’s Music Ally Publishing Summit kicked off with a keynote interview [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f89b33a62da",
+          "title": "Pour le FMI, une chute des cours de l’IA menacerait la stabilité financière mondiale",
+          "source": "Next INpact",
+          "url": "https://next.ink/261430/pour-le-fmi-une-chute-des-cours-de-lia-menacerait-la-stabilite-financiere-mondiale/",
+          "category": "ia",
+          "published_at": "2026-10-13T08:59:58+00:00",
+          "summary": "Alors que les gains économiques produits par l&#8217;IA «&#160;pourraient ne pas être aussi importants que prévus&#160;», le FMI souligne le fait qu&#8217;une correction des actifs spécifiques à ce marché pourrait avoir des répercussions sur la stabilité financière mondiale. Une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "927bff649729",
+          "title": "En cryptographie, « post-quantique n’est pas post-IA »",
+          "source": "Next INpact",
+          "url": "https://next.ink/261215/en-cryptographie-post-quantique-nest-pas-post-ia/",
+          "category": "ia",
+          "published_at": "2026-10-13T06:47:00+00:00",
+          "summary": "Thales affirme que le « post-quantique n’est pas post-IA ». Autre manière de le dire : un algorithme prévu pour résister aux ordinateurs quantiques peut tomber sous les attaques de l’intelligence artificielle. C’est une histoire en trois temps que Thales a racontée lors des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b381146a14c9",
+          "title": "Meta revient dans la course aux modèles frontière avec Muse Wonder",
+          "source": "Next INpact",
+          "url": "https://next.ink/261349/meta-revient-dans-la-course-aux-modeles-frontiere-avec-muse-wonder/",
+          "category": "institutionnel",
+          "published_at": "2026-10-13T06:22:37+00:00",
+          "summary": "Meta a lancé lundi Muse Wonder, sa nouvelle famille de modèles de pointe dont les performances rivalisent avec celles d&#8217;Opus 5.5 et de GPT-6. Les modèles concernés, présentés comme particulièrement doués pour les tâches au long cours et les missions déléguées à un agent,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "033ffb382579",
+          "title": "Face à la désinformation environnementale, les États en ordre dispersé",
+          "source": "Next INpact",
+          "url": "https://next.ink/261282/face-a-la-desinformation-environnementale-les-etats-en-ordre-disperse/",
+          "category": "ia",
+          "published_at": "2026-10-13T05:01:00+00:00",
+          "summary": "À l’approche des COP sur la biodiversité et sur le changement climatique, le Forum sur l’Information et la démocratie étudie les actions mises en place par une vingtaine d’États pour enrayer la désinformation environnementale. En Europe, la question se retrouve prise dans les…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-12",
       "articles": [
+        {
+          "id": "54a76b1ae687",
+          "title": "Catalog Is Surging On Spotify – Making Frontline Hits An Even Harder Game",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/catalog-surging-on-spotify-making-frontline-hits-an-even-harder-game/",
+          "category": "musique",
+          "published_at": "2026-10-12T22:16:33+00:00",
+          "summary": "The latest Tim's Take from MBW founder, Tim Ingham\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1d040354925",
+          "title": "Songwriters drop ‘alright, alright, alright’ sample lawsuit against Travis Scott and Sony Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/songwriters-drop-alright-alright-alright-sample-lawsuit-against-travis-scott-and-sony-music/",
+          "category": "musique",
+          "published_at": "2026-10-12T19:12:28+00:00",
+          "summary": "The notice of voluntary dismissal does not say whether they reached a settlement with Travis Scott or Sony Music.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "54d2f77bb251",
           "title": "Fontaines D.C. Enlist Rosalía for Stunning Duet ‘Where Is Gone?’: Listen",
@@ -97,6 +542,16 @@
         {
           "id": "8d52f8a2c87a",
           "title": "Des frigos piratés dans des supermarchés à cause d’équipements obsolètes ou non mis à jour",
+          "source": "Next INpact",
+          "url": "https://next.ink/261236/des-frigos-pirates-dans-des-supermarches-a-cause-dequipements-obsoletes-ou-non-mis-a-jour/",
+          "category": "ia",
+          "published_at": "2026-10-12T15:55:06+00:00",
+          "summary": "Dans la nuit du 11 au 12 octobre, des pirates ont pris le contrôle de systèmes de régulation du froid dans plusieurs centaines de supermarchés français. Danfoss, le fabricant danois de ces contrôleurs, affirme que les équipements compromis étaient soit obsolètes, soit non mis à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d671fa0b6cd1",
+          "title": "[MàJ] Des frigos piratés dans les supermarchés à cause d’une console de gestion exposée",
           "source": "Next INpact",
           "url": "https://next.ink/261236/des-frigos-pirates-dans-des-supermarches-a-cause-dequipements-obsoletes-ou-non-mis-a-jour/",
           "category": "ia",
