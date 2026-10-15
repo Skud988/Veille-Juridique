@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-10-14T13:45:59.509159+00:00",
+  "generated_at": "2026-10-15T13:26:29.982049+00:00",
   "days": [
+    {
+      "date": "2026-10-15",
+      "articles": [
+        {
+          "id": "350173052751",
+          "title": "☕️ Une seconde jeunesse pour les vieux iPod, avec Bluetooth, USB-C et Spotify",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/une-seconde-jeunesse-pour-les-vieux-ipod-avec-bluetooth-usb-c-et-spotify/",
+          "category": "ia",
+          "published_at": "2026-10-15T13:25:00+00:00",
+          "summary": "Le 11 mai 2022 est une date bien triste pour des millions d&#8217;aficionados des MP3 en balade. Apple annonçait en effet l&#8217;arrêt de la commercialisation de l&#8217;iPod touch, mettant ainsi un terme définitif à la saga de l&#8217;iPod débutée en 2001. Mais cela ne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9bb3bb0f9cb",
+          "title": "Donald Trump signs American Music Tourism Act into law, tasking Commerce Department with promoting travel to US music sites and events",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/donald-trump-signs-american-music-tourism-act-into-law-tasking-commerce-department-with-promoting-travel-to-us-music-sites-and-events/",
+          "category": "musique",
+          "published_at": "2026-10-15T13:20:56+00:00",
+          "summary": "Under the Act, music tourism covers travel to attend a festival, a concert, or another live musical performance or music-related special event.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8721772a768e",
+          "title": "GTA 6 diffuse déjà son trailer de lancement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2353893-gta-6-diffuse-deja-son-trailer-de-lancement.html",
+          "category": "ia",
+          "published_at": "2026-10-15T13:17:46+00:00",
+          "summary": "Alors que nous sommes bientôt à un mois de la sortie de GTA 6, Rockstar Games diffuse déjà son trailer de lancement. 90 secondes avec des images inédites.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c424be006aed",
+          "title": "Celine Dion Honored With Iconic Doll Paying Tribute to Her Legendary 1998 ‘My Heart Will Go On’ Oscars Performance",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/celine-dion-signature-barbie-titanic-look-oscars-1236361162/",
+          "category": "ia",
+          "published_at": "2026-10-15T13:14:16+00:00",
+          "summary": "And, yes, it includes a miniature replica of the \"Heart of the Ocean\" diamond necklace from Titanic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10a888f8e25d",
+          "title": "Test du Rog Xbox Ally X20 avec écran OLED : l’aboutissement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2353483-test-du-rog-xbox-ally-x20-avec-ecran-oled-laboutissement.html",
+          "category": "ia",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "summary": "Asus lance enfin un modèle de son PC portable déguisé en console avec un écran OLED. La dalle tant attendue est là, et elle fait grimper la facture à 1 400 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a1bebb2927ec",
+          "title": "BLACKPINK’s JENNIE ‘Steps’ Out For New Netflix Release",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/blackpink-jennie-steps-netflix-someone-to-hold-1236361091/",
+          "category": "musique",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "summary": "The K-pop superstar shares a snippet of her new song “Someone to Hold,” the first track showcased from the forthcoming Netflix animated musical film, Steps.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7975930388e",
+          "title": "Kid Rock Shares Why Eminem Switched Songs on His Faith-Based Album – And Whether They Talk Politics Together",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kid-rock-halfway-2-jesus-interview-1236360949/",
+          "category": "musique",
+          "published_at": "2026-10-15T13:00:00+00:00",
+          "summary": "Halfway 2 Jesus showcases Eminem, Lil Wayne and a different side of Rock.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd9ca3d0e1fd",
+          "title": "[MàJ] Ubuntu 26.10 est disponible avec GNOME 51 et un noyau Linux 7.3",
+          "source": "Next INpact",
+          "url": "https://next.ink/259478/la-beta-dubuntu-26-10-est-disponible-avec-gnome-51-et-un-noyau-linux-7-3/",
+          "category": "ia",
+          "published_at": "2026-10-15T12:49:07+00:00",
+          "summary": "La version finale d&#8217;Ubuntu 26.10 est désormais disponible. Canonical a fait quelques choix «&#160;audacieux&#160;» dans le choix des composants, avec notamment un noyau Linux 7.3 non finalisé. Mise à jour du 15 octobre : la version finale d’Ubuntu 26.10 est maintenant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5d47dd39443",
+          "title": "YouTube Music to label AI-generated tracks using its own system",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/youtube-music-to-label-ai-generated-tracks-using-its-own-system/",
+          "category": "musique",
+          "published_at": "2026-10-15T12:30:00+00:00",
+          "summary": "YouTube Music is the latest of the big streaming services to reveal how it plans to label AI-generated music. Its labels went live yesterday (14 October) for songs “created primarily using generative AI”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3045b4c31afb",
+          "title": "Suno-made track ‘The Adult I Dreamed Of’ is a hit in South Korea",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
+          "category": "musique",
+          "published_at": "2026-10-15T12:30:00+00:00",
+          "summary": "Last month we wrote about a debate breaking out in South Korea after an AI-generated song called ‘Forest of the Heart’ appeared in the lower reaches of streaming service Melon’s Top 100 chart.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac40b1c3b9c4",
+          "title": "Gaslab raises $1m of pre-seed funding for its GenAI music app",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/gaslab-raises-1m-of-pre-seed-funding-for-its-genai-music-app/",
+          "category": "musique",
+          "published_at": "2026-10-15T12:30:00+00:00",
+          "summary": "One of the encouraging trends in AI-music this year is the growing number of startups that, right from launch, talk about their commitment to ethical training policies.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f5f80162a76",
+          "title": "Brightlights is a predictive-analytics service for live music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/brightlights-is-a-predictive-analytics-service-for-live-music/",
+          "category": "musique",
+          "published_at": "2026-10-15T12:30:00+00:00",
+          "summary": "There is definitely something in the air around predictive intelligence tools for the music industry. We’ve written about HumanCulture, Rocketship and SeatGeek’s TourIQ in recent weeks, and now Brightlights is joining the predictive party.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aebcec6ec4ed",
+          "title": "Spotify reveals holiday singles and latest FC Barca shirt takeover",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/spotify-reveals-holiday-singles-and-latest-fc-barca-shirt-takeover/",
+          "category": "musique",
+          "published_at": "2026-10-15T12:30:00+00:00",
+          "summary": "Can we get Halloween out of the way before hitting the Christmas-singles season? Nope. Having recently released data showing that holiday-listening is already starting to move, Spotify has now revealed its first 2026 holiday tracks.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc2c2636453a",
+          "title": "AI guru explains why you shouldn’t call AI ‘super intelligence’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/ai-guru-explains-why-you-shouldnt-call-ai-super-intelligence/",
+          "category": "ia",
+          "published_at": "2026-10-15T12:30:00+00:00",
+          "summary": "The current inhabitant of the White House has made it very clear: anyone who doesn’t stop saying ‘artificial intelligence’ and start using his preferred term of ‘super intelligence’ is “THE ENEMY”. And he doesn’t mean the Coventry rock band.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27dd4c7af94b",
+          "title": "☕️ YouTube Music étiquète à son tour les chansons générées par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/youtube-music-etiquete-a-son-tour-les-chansons-generees-par-ia/",
+          "category": "musique",
+          "published_at": "2026-10-15T12:29:51+00:00",
+          "summary": "Les étiquettes «&#160;AI »&#160;vont fleurir dans YouTube Music. Google rejoint le train des plateformes de streaming qui signalent les contenus générés par IA, à l&#8217;instar de Spotify et Deezer. Apple Music aussi a lancé les grandes manœuvres récemment. « L’IA générative…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "858afc91a2e7",
+          "title": "NMPA boss criticises Amazon Music over Phonorecords V filing",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/nmpa-boss-criticises-amazon-music-over-phonorecords-v-filing/",
+          "category": "musique",
+          "published_at": "2026-10-15T11:30:00+00:00",
+          "summary": "The filings are in for the ‘Phonorecords V’ process to set the mechanical-royalty rates for music streaming in the US for the next five years. And NMPA boss David Israelite is already on Instagram giving DSPs a piece of his mind for their proposals.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "feb21b859c66",
+          "title": "Les hypernovae, ces supernovae surpuissantes… qui pourraient ne jamais avoir existé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2353701-les-hypernovae-ces-supernovae-surpuissantes-qui-pourraient-ne-jamais-avoir-existe.html",
+          "category": "ia",
+          "published_at": "2026-10-15T11:29:00+00:00",
+          "summary": "Au-delà des supernovae, certaines théories évoquent l'existence d'hypernovae, des explosions d'étoiles beaucoup plus puissantes qui auraient dispersé la matière des étoiles à travers l'Univers. Mais ont-elles vraiment laissé leur empreinte dans les plus vieilles étoiles ? Deux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "144db7425e97",
+          "title": "Inside Starlight Festival’s Historic Debut at the Great Pyramids of Giza",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/starlight-festival-great-pyramids-of-giza-1236361129/",
+          "category": "musique",
+          "published_at": "2026-10-15T11:24:29+00:00",
+          "summary": "Charlotte de Witte, Michael Bibi, Adriatique and more performed at the sold-out festival, which welcomed fans from 114 countries and marked a new chapter for Egypt’s electronic music scene.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2d1b20cef17",
+          "title": "« Agenouille-toi » : comment notre robot-jouet IA a été piraté sous nos yeux",
+          "source": "Next INpact",
+          "url": "https://next.ink/261507/agenouille-toi-comment-notre-robot-jouet-ia-a-ete-pirate-sous-nos-yeux/",
+          "category": "ia",
+          "published_at": "2026-10-15T11:20:42+00:00",
+          "summary": "Eiliko est un petit robot compagnon interactif à destination des enfants vendu aux alentours de 80 euros qui exploite l&#8217;IA générative pour converser en langage naturel avec son utilisateur. Derrière son air inoffensif et sa voix de fausset, l&#8217;appareil dissimule des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a72f43defaf7",
+          "title": "436 km sans recharger : Zero prouve qu’une moto électrique peut aller loin, tant qu’on roule doucement",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2353625-436-km-sans-recharger-zero-prouve-quune-moto-electrique-peut-aller-loin-tant-quon-roule-doucement.html",
+          "category": "justice",
+          "published_at": "2026-10-15T10:55:00+00:00",
+          "summary": "Zero Motorcycles a battu le record de distance sur une seule charge pour une moto électrique : 436,5 kilomètres. La prouesse a été réalisé avec le modèle le plus endurant de la marque, une Zero DS. Le précédent record de distance à moto électrique s'arrêtait à 310,7 kilomètres.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7425f59b05b",
+          "title": "The Batman 2 pourrait-il ne jamais reprendre son tournage ? Le patron de DC répond",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2353745-the-batman-2-pourrait-il-ne-jamais-reprendre-son-tournage-le-patron-de-dc-repond.html",
+          "category": "justice",
+          "published_at": "2026-10-15T10:40:00+00:00",
+          "summary": "Le tournage de The Batman: Part II est à l'arrêt depuis le 5 octobre. Interrogé par IGN, Peter Safran, qui codirige DC Studios avec James Gunn, assure que le film reprendra, malgré le rachat de Warner Bros. par Skydance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "235343088b37",
+          "title": "Google veut surfer sur la vague du vibe coding personnel pour Android",
+          "source": "Next INpact",
+          "url": "https://next.ink/261945/google-veut-surfer-sur-la-vague-du-vibe-coding-personnel-pour-android/",
+          "category": "ia",
+          "published_at": "2026-10-15T10:24:00+00:00",
+          "summary": "Google cherche à séduire une nouvelle génération d&#8217;utilisateurs en faisant miroiter la facilité avec laquelle on peut développer une application Android à partir de requêtes en langage naturel. Attention toutefois à la sécurité. Google a présenté un changement dans sa…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e54d8ebf7a04",
+          "title": "Starlink bridé en Ukraine : Elon Musk se défausse sur Donald Trump",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2353479-starlink-bride-en-ukraine-elon-musk-se-defausse-sur-donald-trump.html",
+          "category": "ia",
+          "published_at": "2026-10-15T10:18:27+00:00",
+          "summary": "Elon Musk a affirmé ce mercredi 14 octobre que le bridage des terminaux Starshield de l'armée ukrainienne relevait « au final » de Donald Trump. Depuis la nuit précédente, ce réseau militaire conçu par SpaceX coupe la connexion au-delà de 160 km/h.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8c775fb9493",
+          "title": "« Je ne voterai pas pour elle, parce que je suis Ukrainien » : Zelensky renvoie Marine Le Pen à ses lacunes sur la tech militaire de Kiev",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2353627-je-ne-voterai-pas-pour-elle-parce-que-je-suis-ukrainien-zelensky-renvoie-marine-le-pen-a-ses-lacunes-sur-la-tech-militaire-de-kiev.html",
+          "category": "ia",
+          "published_at": "2026-10-15T10:05:00+00:00",
+          "summary": "Interrogé par le Financial Times sur la promesse de Marine Le Pen de couper l’aide financière française à Kiev, Volodymyr Zelensky a défendu ce que l’Ukraine pourrait apporter en retour, notamment sur le plan technologique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c51483ed5218",
+          "title": "Meta accusée de détourner des milliards de crédits d’impôts R&D pour ses datacenters IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/261885/meta-accusee-de-detourner-des-milliards-de-credits-dimpots-rd-pour-ses-datacenters-ia/",
+          "category": "ia",
+          "published_at": "2026-10-15T09:53:14+00:00",
+          "summary": "Après une enquête du New York Times, des sénateurs états-uniens questionnent Mark Zuckerberg sur l&#8217;utilisation de 6,6 milliards de dollars de crédits d&#8217;impôt normalement destinés à la recherche pour équiper des datacenters IA. Aux États-Unis, sept sénateurs et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "477b8f3d3282",
+          "title": "« La vraie valeur, c’est la donnée » : Withings défend sa décision de faire payer la synchronisation avec Apple et Strava",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2353527-la-vraie-valeur-cest-la-donnee-withings-defend-sa-decision-de-faire-payer-la-synchronisation-avec-apple-et-strava.html",
+          "category": "ia",
+          "published_at": "2026-10-15T09:24:08+00:00",
+          "summary": "Après la polémique qui a éclaté le 13 octobre, Withings prend la parole pour la première fois auprès de Numerama. La marque explique pourquoi elle réserve désormais la synchronisation des données vers Apple Santé, Health Connect et Strava aux abonnés Withings+, son abonnement à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a934836be1fa",
+          "title": "Manette Xbox Nano : où précommander la nouvelle manette compacte de Microsoft ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2353549-manette-xbox-nano-ou-precommander-la-nouvelle-manette-compacte-de-microsoft.html",
+          "category": "ia",
+          "published_at": "2026-10-15T09:22:59+00:00",
+          "summary": "[Précommande] Microsoft vient de dévoiler la Xbox Nano, une nouvelle manette sans fil miniature pensée pour les petites mains et les joueurs nomades, et proposée à 49,99 €. Voici où précommander votre exemplaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f63dcf97827b",
+          "title": "Nouveau lanceur, Fortnite sur Linux : le signal fort d’Epic Games à l’industrie",
+          "source": "Next INpact",
+          "url": "https://next.ink/261927/nouveau-lanceur-fortnite-sur-linux-le-signal-fort-depic-games-a-lindustrie/",
+          "category": "ia",
+          "published_at": "2026-10-15T09:02:00+00:00",
+          "summary": "Epic lance de grands travaux et s’apprête à concrétiser une étape que de nombreuses personnes attendaient&#160;: lancer Fortnite sur Linux. Le jeu vidéo sur Linux bouge beaucoup depuis quelques années, dans un élan qui semble s’accélérer. Jusqu’à aujourd’hui, le principal…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7765ab78663",
+          "title": "Le VPN gratuit de Free débloquait les sites porno : il peut désormais aussi les bloquer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2353513-le-vpn-gratuit-de-free-debloquait-les-sites-porno-il-peut-desormais-aussi-les-bloquer.html",
+          "category": "ia",
+          "published_at": "2026-10-15T09:00:42+00:00",
+          "summary": "Free a ajouté ce jeudi 15 octobre 2026 trois fonctions à mVPN, le VPN inclus dans ses forfaits mobiles : un filtrage des sites malveillants et pornographiques, huit pays de connexion au choix et un widget.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b011f033af4",
+          "title": "Netflix ne va pas bien et opère les plus gros licenciements de son histoire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2353525-netflix-ne-va-pas-bien-et-opere-les-plus-gros-licenciements-de-son-histoire.html",
+          "category": "ia",
+          "published_at": "2026-10-15T08:46:08+00:00",
+          "summary": "Netflix a annoncé ce mercredi 14 octobre 2026 la suppression d'environ 1 000 postes, soit 6 % de ses effectifs. C'est la plus grosse vague de licenciements de son histoire, alors que la plateforme revendique plus de 325 millions d'abonnés et que sa croissance ralentit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1372fa1aa496",
+          "title": "« Programmer, c’est difficile » : Epic Games a développé son nouveau launcher avec l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2353455-programmer-cest-difficile-epic-games-a-developpe-son-nouveau-launcher-avec-lia.html",
+          "category": "ia",
+          "published_at": "2026-10-15T08:45:00+00:00",
+          "summary": "Epic Games poursuit son virage vers l'intelligence artificielle. L'entreprise s'attaque à son launcher avec une nouvelle interface conçue grâce au vibe coding. Une refonte qui promet notamment de rendre l'Epic Games Store plus réactif, près de huit ans après son lancement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "64356edf3c88",
+          "title": "« Sous le capot, ce sont des LLM » : le modèle d’IA Jev a beau ne pas écrire, il n’échappe pas à l’injection de prompt",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2353507-sous-le-capot-ce-sont-des-llm-le-modele-dia-jev-a-beau-ne-pas-ecrire-il-nechappe-pas-a-linjection-de-prompt.html",
+          "category": "ia",
+          "published_at": "2026-10-15T08:41:42+00:00",
+          "summary": "L’entreprise de cybersécurité HiddenLayer a testé la résistance de Jev face à l'injection de prompt. Une simple bannière publicitaire a suffi à détourner un agent de navigation qui s’appuyait dessus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdf8decb1479",
+          "title": "L’Europe lance des enquêtes sur les piratages par agents IA et met en avant l’AI Act",
+          "source": "Next INpact",
+          "url": "https://next.ink/261691/leurope-lance-des-enquetes-sur-les-piratages-par-agents-ia-et-met-en-avant-lai-act/",
+          "category": "ia",
+          "published_at": "2026-10-15T08:29:53+00:00",
+          "summary": "Alors qu&#8217;OpenAI a récemment laissé des agents IA attaquer deux sites gouvernementaux australiens et que les autres entreprises d&#8217;IA génératives ont suivi en faisant le même genre de revendication, la Commission européenne a lancé des enquêtes ciblant OpenAI et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a01a595815f",
+          "title": "Les 10 propositions du Snep pour la Présidentielle 2027",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/les-10-propositions-du-snep-pour-la-presidentielle/",
+          "category": "institutionnel",
+          "published_at": "2026-10-15T07:59:17+00:00",
+          "summary": "The post Les 10 propositions du Snep pour la Présidentielle 2027 appeared first on SNEP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1e3c3dbe330",
+          "title": "Hilltop Hoods Immortalized With Laneway In Adelaide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/hilltop-hoods-immortalized-laneway-adelaide-1236361102/",
+          "category": "musique",
+          "published_at": "2026-10-15T07:53:51+00:00",
+          "summary": "The legendary hip-hop trio becomes the sixth addition to the City of Adelaide’s City of Music Laneways trail.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5df7a291a202",
+          "title": "[Tuto] Installer facilement son propre résolveur DNS sur Raspberry Pi, VM Freebox, VPS",
+          "source": "Next INpact",
+          "url": "https://next.ink/260020/tuto-installer-facilement-son-propre-resolveur-dns-sur-raspberry-pi-vm-freebox-vps/",
+          "category": "ia",
+          "published_at": "2026-10-15T07:45:19+00:00",
+          "summary": "Vous n’avez plus envie de dépendre d’un résolveur DNS externe, que ce soit celui de votre FAI ou d’un géant du numérique&#160;? Alors Next vous propose un petit tuto avec unbound. Quelques lignes suffisent pour le mettre en place et le configurer sur un Raspberry Pi, une VM de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed6e8a07a9ea",
+          "title": "Tesla Roadster : comment suivre la présentation de la nouvelle voiture électrique ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2353449-tesla-roadster-comment-suivre-la-presentation-de-la-nouvelle-voiture-electrique.html",
+          "category": "ia",
+          "published_at": "2026-10-15T07:40:00+00:00",
+          "summary": "C'est enfin le jour J pour le Tesla Roadster. La version définitive de la supercar 100 % électrique de la marque américaine sera présentée ce jeudi 15 octobre 2026, lors d'une démonstration en plein air qui s'annonce spectaculaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f9454ef13f9",
+          "title": "[MàJ] L’Ukraine accuse Starlink d’avoir restreint l’accès à Internet de ses forces militaires",
+          "source": "Next INpact",
+          "url": "https://next.ink/261713/lukraine-accuse-starlink-davoir-restreint-lacces-a-internet-de-ses-forces-militaires/",
+          "category": "ia",
+          "published_at": "2026-10-15T07:07:24+00:00",
+          "summary": "Un proche du gouvernement ukrainien affirme que Starlink a restreint le fonctionnement de son réseau à destination des appareils et drones en mouvement des forces militaires engagées contre la Russie. La Pologne a publiquement interpellé Elon Musk à ce sujet. L&#8217;entreprise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffc0090032d7",
+          "title": "☕️ Netflix supprime 1 000 postes sur fond d’essoufflement de l’engagement",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/netflix-supprime-1-000-postes-sur-fond-dessoufflement-de-lengagement/",
+          "category": "justice",
+          "published_at": "2026-10-15T06:41:59+00:00",
+          "summary": "C&#8217;est la première coupe claire dans les effectifs de Netflix depuis 2022. Le géant américain du streaming va supprimer 1 000 postes, soit 6 % de ses effectifs (l&#8217;entreprise comptait 16 000 employés en fin d&#8217;année 2025). L&#8217;essentiel des suppressions touche…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6af57bb0f7a7",
+          "title": "☕️ L’IA fait tourner ASML à plein régime",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lia-fait-tourner-asml-a-plein-regime/",
+          "category": "ia",
+          "published_at": "2026-10-15T06:05:38+00:00",
+          "summary": "Une des entreprises au cœur de la marée montante IA est européenne : il s&#8217;agit d&#8217;ASML, qui fabrique les machines de lithographie indispensables à la gravure des puces les plus avancées. Elle occupe donc une place de choix sur le marché, et les résultats financiers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7426deb03b2f",
+          "title": "Rauw Alejandro and Camilo’s ‘Tattoo (Remix)’ Enters YouTube’s Billion Views Club",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/rauw-alejandro-camilo-tattoo-remix-youtube-billion-views-1236361081/",
+          "category": "musique",
+          "published_at": "2026-10-15T03:53:43+00:00",
+          "summary": "Six years after its release, the official music video for the chart-topping reggaeton hit passes one billion views on YouTube.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "articles": [
+        {
+          "id": "c8bc5af8d9d1",
+          "title": "Arijit Singh’s nine-city “stadium” tour will feature only three actual stadiums",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/arijit-singhs-nine-city-stadium-tour-will-feature-only-three-actual-stadiums/",
+          "category": "musique",
+          "published_at": "2026-10-14T23:10:59+00:00",
+          "summary": "When promoter Team Innovation and ticketing platform thumpN announced Arijit Singh’s long-awaited return to the road, they described it as a “stadium” tour. However, only three of the venues Singh [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61e1cb85fa00",
+          "title": "Pop has generated as many hits as Bollywood in India so far this year",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/15/pop-has-generated-as-many-hits-as-bollywood-in-india-so-far-this-year/",
+          "category": "ia",
+          "published_at": "2026-10-14T23:03:29+00:00",
+          "summary": "While Bollywood remains the biggest segment in India, its growth is slowing down, revealed Luminate last week. According to the entertainment data company, in the first half of 2026, streams [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9dd27cf99ae5",
+          "title": "Ben Katovsky joins Matt Spetzler’s Pipeline as CEO",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ben-katovsky-joins-matt-spetzlers-pipeline-as-ceo/",
+          "category": "musique",
+          "published_at": "2026-10-14T23:01:08+00:00",
+          "summary": "Pipeline is the $200 million-backed financing platform for the music and creative industries that launched in January through Matt Spetzler's investment firm Jamen Capital.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "903a5090d6c9",
+          "title": "Here’s exactly what Amazon, Spotify, Apple and other streaming services want to pay songwriters for 2028–2032",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/heres-exactly-what-amazon-spotify-apple-and-other-streaming-services-want-to-pay-songwriters-for-2028-2032/",
+          "category": "musique",
+          "published_at": "2026-10-14T19:03:58+00:00",
+          "summary": "Spotify, Apple, Amazon, Pandora, and Google have filed their rate proposals in Phonorecords V\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a46cf2f5558c",
+          "title": "Jim Roppo named Vice Chairman of Warner Records Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jim-roppo-named-vice-chairman-of-warner-records-group/",
+          "category": "musique",
+          "published_at": "2026-10-14T18:55:33+00:00",
+          "summary": "Roppo joins from Universal Music Group, where he most recently served as Chairman and CEO of Republic Records.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93c3b7e8814f",
+          "title": "YouTube Music starts labeling AI-generated songs, using partner disclosures and its own detection tools",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/youtube-music-starts-labeling-ai-generated-songs-using-partner-disclosures-and-its-own-detection-tools/",
+          "category": "musique",
+          "published_at": "2026-10-14T16:37:08+00:00",
+          "summary": "'Our listeners have told us they want transparency when they're hearing an AI-generated track,' said YouTube \nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8038ae53504f",
+          "title": "Multiple layoffs at Universal Music Group, as $270M cost-cutting program continues",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/multiple-layoffs-at-universal-cutting-program-continues/",
+          "category": "musique",
+          "published_at": "2026-10-14T16:23:53+00:00",
+          "summary": "Execs such as Tunji Balogun, Ben Mortimer, Nicole Wyskoarko, and Sam Riback are leaving UMG\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6703c31d26b4",
+          "title": "Taylor Swift expands voice trademark filings to the UK, EU, and Australia",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/taylor-swift-expands-voice-trademark-filings-to-the-uk-eu-and-australia-amid-ai-deepfake-crackdown/",
+          "category": "ia",
+          "published_at": "2026-10-14T16:08:00+00:00",
+          "summary": "The filings follow three applications submitted to the US Patent and Trademark Office (USPTO) in April\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e29fa09adbb",
+          "title": "KDE fête ses 30 ans",
+          "source": "Next INpact",
+          "url": "https://next.ink/261711/kde-fete-ses-30-ans/",
+          "category": "ia",
+          "published_at": "2026-10-14T14:27:00+00:00",
+          "summary": "KDE fête aujourd’hui ses 30 ans. Pour l’occasion, nous vous retraçons l’historique de cet environnement de bureau pour Linux, qui a commencé comme un petit projet d’un étudiant allemand. Il faut remonter en 1996, plus précisément le 14 octobre (donc il y a tout juste 30 ans). Ce…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be7d23922a98",
+          "title": "Paris dénonce une guerre informationnelle contre l’Europe et vise Elon Musk",
+          "source": "Next INpact",
+          "url": "https://next.ink/261726/paris-denonce-une-guerre-informationnelle-contre-leurope-et-vise-elon-musk/",
+          "category": "ia",
+          "published_at": "2026-10-14T14:01:28+00:00",
+          "summary": "Les «&#160;campagnes de harcèlement massif en ligne par Elon Musk » ont été dénoncées par le ministre français des Affaires étrangères, Jean-Noël Barrot, dans un discours offensif contre les tentatives d&#8217;ingérence étrangère dans le débat démocratique en Europe. La…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "6c0f96876ad6",
           "title": "Situation critique pour la recherche, le budget de l’ANR « insoutenable » d’ici 2028",
