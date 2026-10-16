@@ -1,9 +1,554 @@
 {
-  "generated_at": "2026-10-15T13:26:29.982049+00:00",
+  "generated_at": "2026-10-16T13:15:19.132999+00:00",
   "days": [
+    {
+      "date": "2026-10-16",
+      "articles": [
+        {
+          "id": "c37639d11b78",
+          "title": "Tesla Roadster : à quoi ressemble l’interface à l’intérieur ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2354713-tesla-roadster-a-quoi-ressemble-linterface-a-linterieur.html",
+          "category": "ia",
+          "published_at": "2026-10-16T13:02:00+00:00",
+          "summary": "Le site officiel de Tesla ne montre aucune image de l'interface du Roadster. Mais des personnes présentes sur place lors de la présentation ont pu découvrir et utiliser l'écran d'infodivertissement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a2c2f1a35d2",
+          "title": "French Tech : 71 des 80 start-ups deeptech confient leurs emails à des Américains",
+          "source": "Next INpact",
+          "url": "https://next.ink/262269/french-tech-71-des-80-start-ups-deeptech-confient-leurs-emails-a-des-americains/",
+          "category": "ia",
+          "published_at": "2026-10-16T12:58:03+00:00",
+          "summary": "Les fournées de lauréats de la French Tech s&#8217;enchaînent et se ressemblent malheureusement sur la gestion de leurs emails : 71 startups sur 80 passent par des solutions étatsuniennes. Six sont chez des Français et une seule chez Proton. Cela soulève des questions de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec3e90811aaf",
+          "title": "Tesla Roadster : voici toutes les images officielles de la voiture la plus dingue du siècle",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2354857-tesla-roadster-voici-toutes-les-images-officielles-de-la-voiture-la-plus-dingue-du-siecle.html",
+          "category": "ia",
+          "published_at": "2026-10-16T12:41:20+00:00",
+          "summary": "Tesla a présenté le nouveau Roadster, après 9 ans d'attente, avec un design complètement revu et des performances de haut vol, littéralement. Voici les photos spectaculaires du nouveau bolide 100 % électrique qui arrivera en 2028.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c49d121d8e2",
+          "title": "Publishing body ICMP blasts potential AI rules in Australia",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/publishing-body-icmp-blasts-potential-ai-rules-in-australia/",
+          "category": "musique",
+          "published_at": "2026-10-16T12:30:00+00:00",
+          "summary": "Australia’s government is currently devising its future policies on AI, training and copyright. We recently reported on labels body ARIA’s boss Annabelle Herd’s testimony at a select-committee hearing as part of that process.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c88245ce4d61",
+          "title": "Duke Sanford study explores AI-music encounters on Spotify",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
+          "category": "musique",
+          "published_at": "2026-10-16T12:30:00+00:00",
+          "summary": "“Spotify won’t label AI music. We tried to detect it ourselves,” is the headline of a blog post announcing a new report from the Duke Sanford Tech Policy Program.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7736b415c64f",
+          "title": "US ticketing legals: DoJ lawsuit, resale-cap pushback, Live Nation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/us-ticketing-legals-doj-lawsuit-resale-cap-pushback-live-nation/",
+          "category": "musique",
+          "published_at": "2026-10-16T12:30:00+00:00",
+          "summary": "It’s a busy week in the US ticketing sector. And by that we mean it’s a very busy week for lawyers in the US ticketing sector. Today alone brings three stories of a legal nature.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb2e737fc9ae",
+          "title": "Doja Cat’s new tour-film was shot using Ray-Ban Meta specs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/doja-cats-new-tour-film-was-shot-using-ray-ban-meta-specs/",
+          "category": "musique",
+          "published_at": "2026-10-16T12:30:00+00:00",
+          "summary": "With the phrase ‘pervert glasses’ having become common parlance in the media and online, the rollout of Meta and its partners’ smart specs hasn’t been going entirely to plan.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6cd2977879f8",
+          "title": "12% of American adults are part of online fan communities",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/12-of-american-adults-are-part-of-online-fan-communities/",
+          "category": "musique",
+          "published_at": "2026-10-16T12:30:00+00:00",
+          "summary": "A new study by the Pew Research Center has found that 36% of American adults say they are part of online communities, although that rises to 48% for 18-29 year-olds.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ef9e710d66c",
+          "title": "Podcasting is ‘a two-horse race – with YouTube out in front’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/podcasting-is-a-two-horse-race-with-youtube-out-in-front/",
+          "category": "musique",
+          "published_at": "2026-10-16T12:30:00+00:00",
+          "summary": "We’re used to reporting on Midia Research’s music predictions, but it’s also using its crystal ball to squint at the podcasting market.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92b7fb7d5ee2",
+          "title": "The Batman 2 : un nouveau réalisateur surprise débarque pour sauver le tournage du film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2354627-un-nouveau-realisateur-debarque-en-urgence-sur-the-batman-2-pour-sauver-le-film.html",
+          "category": "ia",
+          "published_at": "2026-10-16T12:29:00+00:00",
+          "summary": "Nouveau rebondissement majeur pour&nbsp;The Batman: Part II&nbsp;: alors que le tournage était stoppé en raison d'un problème familial touchant Matt Reeves, Steven Soderbergh débarque en urgence sur le plateau pour boucler les dernières semaines de prises de vues.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40131d29e62f",
+          "title": "Netflix a t-il vraiment diffusé le premier épisode de la saison 4 de Lupin sur les réseaux sociaux ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2354851-lupin-saison-4-netflix-organise-un-enorme-evenement-en-france-avec-une-surprise.html",
+          "category": "ia",
+          "published_at": "2026-10-16T12:20:00+00:00",
+          "summary": "Opération coup de poing marketing pour le géant du streaming. Pour marquer le coup du lancement de la saison 4 de Lupin, Netflix voit les choses en grand et invite les fans parisiens à participer à un véritable braquage au pied de la Tour Eiffel.  Avec un gros coup sur les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87b123d2748d",
+          "title": "Quadricycles électriques : le gouvernement dégaine une prime de 2 000 €, mais tout le monde n’y aura pas droit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2354963-quadricycles-electriques-le-gouvernement-degaine-une-prime-de-2-000-e-mais-tout-le-monde-ny-aura-pas-droit.html",
+          "category": "ia",
+          "published_at": "2026-10-16T12:15:32+00:00",
+          "summary": "Dans le cadre de son nouveau plan d’électrification, le gouvernement renforce son soutien aux quadricycles électriques avec une aide pouvant atteindre 2 000 euros. Mais les critères d’éligibilité risquent d’en exclure plusieurs modèles populaires.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad81896ee841",
+          "title": "L’iPhone Duo en précommande : les meilleures offres sur l’iPhone le plus cher de l’histoire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350985-precommandes-iphone-duo-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-10-16T12:06:37+00:00",
+          "summary": "Plus d’un mois après sa présentation, l’iPhone Duo ouvre ses précommandes ce vendredi 16 octobre. Premières remises, offres des opérateurs et délais de livraison : nous traquons en direct les meilleures offres sur le premier iPhone pliant, avant sa sortie le 23 octobre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53f1e0879268",
+          "title": "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
+          "category": "cnil",
+          "published_at": "2026-10-16T12:00:00+00:00",
+          "summary": "La CNIL, l’ICO et la CNPD publient leur étude conjointe «&amp;nbsp;De la protection des données à la création de valeur en finance&amp;nbsp;: évaluation des données, comptabilité, fusions-acquisitions et gouvernance&amp;nbsp;», rassemblant analyses et bonnes pratiques à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9056807f1fd3",
+          "title": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+          "category": "ia",
+          "published_at": "2026-10-16T12:00:00+00:00",
+          "summary": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3f96f449699",
+          "title": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
+          "category": "cnil",
+          "published_at": "2026-10-16T12:00:00+00:00",
+          "summary": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8e92eee8b71",
+          "title": "Goldman Sachs thinks music will be a $198.1bn industry by 2035",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/goldman-sachs-thinks-music-will-be-a-198-1bn-industry-by-2035/",
+          "category": "musique",
+          "published_at": "2026-10-16T12:00:00+00:00",
+          "summary": "How bright is the global music industry’s future? 198.1 billion dollars bright, according to the latest edition of the ‘Music In The Air’ report from Goldman Sachs.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c40e2edeb00f",
+          "title": "Glenn Hughes Says He’s On the Mend After Another 10-Hour Open-Heart Surgery: ‘All Is Well’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/glenn-hughes-10-hour-open-heart-surgery-update-1236361811/",
+          "category": "ia",
+          "published_at": "2026-10-16T11:51:51+00:00",
+          "summary": "The former Black Sabbath and Deep Purple singer/bassist said he was in the hospital for eight days for the procedure.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ceea54c8c3ce",
+          "title": "La publicité ciblée de ChatGPT peut utiliser prompts, emails et numéros de téléphone",
+          "source": "Next INpact",
+          "url": "https://next.ink/262177/la-publicite-ciblee-de-chatgpt-peut-utiliser-prompts-emails-et-numeros-de-telephone/",
+          "category": "ia",
+          "published_at": "2026-10-16T11:13:00+00:00",
+          "summary": "La publicité ciblée de ChatGPT disponible aux États-Unis permet à toute personne qui veut lancer une campagne de toucher des personnes en fonction de la conversation en cours, mais aussi de l&#8217;e-mail ou du numéro de téléphone de l&#8217;utilisateur. Après avoir proposé un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "764d38d41e7e",
+          "title": "Ca a commencé : les essais des satellites-miroirs ont apporté la lumière en pleine nuit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2354631-ca-a-commence-les-essais-des-satellites-miroirs-ont-apporte-la-lumiere-en-pleine-nuit.html",
+          "category": "ia",
+          "published_at": "2026-10-16T11:00:00+00:00",
+          "summary": "Ce qui ressemblait à un projet de science-fiction dystopique a bel et bien commencé à voir le jour. En Californie, la start-up Reflect Orbital a éclairé le désert en pleine nuit avec des projecteurs, pour simuler ses futurs satellites miroirs. Une première étape technique avant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38707e8d538e",
+          "title": "« J’aurais pu marcher sur la Lune » : pourquoi les astronautes d’Artémis II ont tous renoncé à revoler dans l’espace",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2354781-jaurais-pu-marcher-sur-la-lune-pourquoi-les-astronautes-dartemis-ii-ont-tous-renonce-a-revoler-dans-lespace.html",
+          "category": "ia",
+          "published_at": "2026-10-16T10:40:40+00:00",
+          "summary": "Christina Koch, astronaute d'Artémis II, n'est plus éligible aux vols spatiaux et prend d'autres fonctions au sein de la Nasa. C'est donc tout l'équipage de la mission lunaire d'avril 2026 qui renonce à voler dans l'espace. Une preuve que les astronautes auraient reçu trop de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f0028fa3909",
+          "title": "Le site du parti Les Républicains victime d’un défaçage en règle",
+          "source": "Next INpact",
+          "url": "https://next.ink/262298/le-site-du-parti-les-republicains-victime-dun-defacage-en-regle/",
+          "category": "ia",
+          "published_at": "2026-10-16T10:29:08+00:00",
+          "summary": "Le site du parti Les Républicains fait l&#8217;objet d&#8217;une attaque vendredi matin, avec une intrusion qui semble réussie puisque la page d&#8217;accueil a été remplacée par un long manifeste appelant à rejoindre les mobilisations du 17 octobre. Les auteurs de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bf4320843f7",
+          "title": "On l’attendait en 2024, 2025 et 2026, mais le premier vol de la fusée Neutron a encore été repoussé, cette fois à cause de simples poches d’air",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2354753-on-lattendait-en-2024-2025-et-2026-mais-le-premier-vol-de-la-nouvelle-fusee-neutron-a-encore-ete-repousse-cette-fois-a-cause-de-simples-poches-dair.html",
+          "category": "ia",
+          "published_at": "2026-10-16T10:15:00+00:00",
+          "summary": "Ce mercredi 14 octobre, Rocket Lab a repoussé à 2027 le premier vol de sa fusée Neutron. Le lanceur était attendu en 2024, puis en 2025, puis fin 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "174b7223a655",
+          "title": "☕️ Sync-in 2.6 intègre l’éditeur de diagramme draw.io",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sync-in-2-6-integre-lediteur-de-diagramme-draw-io/",
+          "category": "ia",
+          "published_at": "2026-10-16T10:03:30+00:00",
+          "summary": "Sync-in est un projet libre de stockage, synchronisation et collaboration autour des fichiers. Son développeur principal, Johan Legrand, nous avait expliqué en octobre 2025 sa volonté de proposer une solution simple pour synchroniser et gérer des fichiers, avec un aspect…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db5f19c9526c",
+          "title": "Le Tesla Roadster qui a été montré n’est pas celui avec lequel on pourra rouler",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2354721-le-tesla-roadster-qui-a-ete-montre-nest-pas-celui-avec-lequel-on-pourra-rouler.html",
+          "category": "ia",
+          "published_at": "2026-10-16T09:45:49+00:00",
+          "summary": "Pour sa présentation du siècle, Tesla a montré les capacités de vol de son nouveau Roadster. Seule la version Rocket aura droit à des propulseurs pour s'envoler, mais elle ne sera pas homologuée pour la route. Quid des autres modèles ? Seront-ils aussi autorisés à rouler ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "acb5dca4b42c",
+          "title": "Microsoft l’assure, son Windows 11 évolue dans le bon sens",
+          "source": "Next INpact",
+          "url": "https://next.ink/262264/microsoft-lassure-son-windows-11-evolue-dans-le-bon-sens/",
+          "category": "ia",
+          "published_at": "2026-10-16T09:09:02+00:00",
+          "summary": "Après de multiples annonces au printemps, Windows 11 a reçu ces derniers mois bon nombre d’améliorations diverses, nouvelles fonctions et autres corrections. Dans un billet faisant le point, Microsoft cherche à convaincre&#160;: les choses seraient bel et bien en train de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3579a5291269",
+          "title": "Comment Tesla défie les lois de la physique avec son Roadster",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2354663-comment-tesla-defie-les-lois-de-la-physique-avec-son-roadster.html",
+          "category": "ia",
+          "published_at": "2026-10-16T09:00:31+00:00",
+          "summary": "Entre un système de ventilateurs qui colle la voiture au sol et des tuyères à gaz froid héritées de SpaceX pour exécuter des vrilles en l'air, Tesla repousse les limites de la physique avec le Roadster. Mais comment fonctionne réellement l'arsenal mécanique de la bête ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03c1a7facc47",
+          "title": "Warner Music triples down on investments in south Indian regional-language segment",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/warner-music-triples-down-on-investments-in-south-indian-regional-language-segment/",
+          "category": "musique",
+          "published_at": "2026-10-16T08:35:36+00:00",
+          "summary": "It’s been a while since Warner Music India announced a strategic partnership — the last, in June, was with Bengali-language media conglomerate SVF Entertainment — or catalogue acquisition, and now [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51bc7b9a3473",
+          "title": "Des milliards de simulations de collision : Mistral s’associe au CERN pour créer un modèle d’IA de pointe pour la physique des particules",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2354527-des-milliards-de-simulations-de-collision-mistral-sassocie-au-cern-pour-creer-un-modele-dia-de-pointe-pour-la-physique-des-particules.html",
+          "category": "ia",
+          "published_at": "2026-10-16T08:34:01+00:00",
+          "summary": "Le CERN et Mistral AI ont signé ce jeudi 15 octobre 2026 une déclaration d'intention pour créer un « grand modèle de physique », entraîné sur des milliards de collisions simulées au LHC. Aucun budget ni calendrier n'a été communiqué.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b019804a8a19",
+          "title": "C’est quoi FREYJA, le projet de défense évoqué par Macron et Zelensky et attendu dès fin 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2354599-cest-quoi-freyja-le-projet-de-defense-evoque-par-macron-et-zelensky-et-attendu-des-fin-2026.html",
+          "category": "ia",
+          "published_at": "2026-10-16T08:19:47+00:00",
+          "summary": "Emmanuel Macron et Volodymyr Zelensky ont discuté, le 15 octobre 2026, de l’accélération de FREYJA. Ce projet ukrainien et européen doit permettre d’intercepter des missiles balistiques, avec un objectif affiché par Kiev : devenir opérationnel avant la fin de l’année. Un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f83f1bfecd7f",
+          "title": "VPS à moins de 5 € par mois : notre comparatif d’une dizaine d’offres européennes",
+          "source": "Next INpact",
+          "url": "https://next.ink/260026/vps-a-moins-de-5-e-par-mois-notre-comparatif-dune-dizaine-doffres-europeennes/",
+          "category": "ia",
+          "published_at": "2026-10-16T08:02:13+00:00",
+          "summary": "Dans la jungle des fournisseurs, il n’est pas toujours facile de trouver le bon VPS, celui adapté à vos besoins et usages. Next vous propose un comparatif des modèles d’entrée de gamme, à 5 euros ou moins. Il y a déjà une dizaine d’offres, avec des caractéristiques bien…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccc429c2fe78",
+          "title": "Tesla Roadster : combien faut-il avancer pour le réserver en France ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2354487-peut-on-reserver-le-tesla-roadster-qui-vole-en-france-et-a-quel-prix.html",
+          "category": "ia",
+          "published_at": "2026-10-16T07:40:00+00:00",
+          "summary": "Après les tonneaux dans les airs, place aux questions pratiques. Peut-on vraiment s’offrir le Tesla Roadster présenté par Elon Musk depuis la France ? Tesla permet déjà de réserver son nouveau Roadster avec deux versions proposées sur son site, moyennant un acompte.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bb7f20f8c56",
+          "title": "Olivia Rodrigo feat. Chappell Roan, Tate McRae, Zach Bryan & Angèle: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-tate-mcrae-zach-bryan-new-music-friday-guide-1236361399/",
+          "category": "musique",
+          "published_at": "2026-10-16T07:17:19+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f07b49f8b6d",
+          "title": "Troye Sivan Enjoys ‘Best’ Start on ARIA Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/troye-sivan-best-start-aria-albums-chart-1236361738/",
+          "category": "musique",
+          "published_at": "2026-10-16T07:06:20+00:00",
+          "summary": "Olivia Dean is still feeling the love from her Australian arena tour, as \"The Art Of Loving\" holds at No. 1 on the ARIA Albums Chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "055689440bd5",
+          "title": "Pour le patron des caméras Flock, la vie privée passe après la sécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/262147/pour-le-patron-des-cameras-flock-la-vie-privee-passe-apres-la-securite/",
+          "category": "ia",
+          "published_at": "2026-10-16T06:42:00+00:00",
+          "summary": "Le patron de Flock ne veut pas freiner le progrès pour des considérations de vie privée. Face aux critiques sur son réseau de surveillance vidéo, Garrett Langley évoque les bénéfices pour la sécurité et rappelle à ses détracteurs qu’ils pourraient, eux aussi, devenir victimes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4fc96291ed53",
+          "title": "“Licensing uncertainties” lead DGTL India to move its Mumbai leg to Goa",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/licensing-uncertainties-lead-dgtl-india-to-move-its-mumbai-leg-to-goa/",
+          "category": "ia",
+          "published_at": "2026-10-16T06:25:08+00:00",
+          "summary": "In July, the Indian edition of global electronic music festival DGTL announced that it would be returning in 2026. The sixth instalment of the two-city event, which will feature the [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12bdaffdb11b",
+          "title": "Pour Linus Torvalds, le code généré par IA est légitime, à condition de savoir le lire",
+          "source": "Next INpact",
+          "url": "https://next.ink/262097/pour-linus-torvalds-le-code-genere-par-ia-est-legitime-a-condition-de-savoir-le-lire/",
+          "category": "ia",
+          "published_at": "2026-10-16T06:02:53+00:00",
+          "summary": "Le débat secoue la communauté du libre depuis des mois&#160;: faut-il accepter le code généré par IA&#160;? Pour certains, c’est une trahison de l’esprit même du libre. Pour d’autres, ce n’est pas un problème. Pour Linus Torvalds, il n’y a vraiment aucun problème, mais à une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df9b8582a9aa",
+          "title": "Anahad Foundation’s new folk music video series introduces the artists behind the art",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/anahad-foundations-new-folk-music-video-series-introduces-the-artists-behind-the-art/",
+          "category": "musique",
+          "published_at": "2026-10-16T06:00:02+00:00",
+          "summary": "Indian non-profit Anahad Foundation, which has worked with and documented the music of more than 10,000 folk artists across 23 of the country’s states over the past 13 years, has [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fb50c631703",
+          "title": "Avec Muse Spark Open, Meta ouvre les poids et se rapproche d’Apple",
+          "source": "Next INpact",
+          "url": "https://next.ink/262141/avec-muse-spark-open-meta-ouvre-les-poids-et-se-rapproche-dapple/",
+          "category": "ia",
+          "published_at": "2026-10-16T05:05:30+00:00",
+          "summary": "Avec Muse Spark Open, Meta revient à ses premières amours, c&#8217;est à dire les modèles IA à poids ouverts. Et pour faire tourner ce poids lourd en local, l’entreprise s’est trouvé un partenaire inattendu : Apple. Avec son ancienne famille de modèles Llama, Meta pensait avoir…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02603a4af5f8",
+          "title": "The Avalanches Press Play on ‘No Bad Memories’: Stream It Now",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/the-avalanches-no-bad-memories-stream-it-now-1236361730/",
+          "category": "musique",
+          "published_at": "2026-10-16T04:55:53+00:00",
+          "summary": "The fourth album from the celebrated Australian electronic act explores “the magical intersection of advertising, memory and nostalgia.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff770264c975",
+          "title": "A$AP Rocky Brings Trippy ‘Shroom Clouds’ to Streaming Services for the First Time: Listen",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-shroom-clouds-single-disc-2-1236361622/",
+          "category": "justice",
+          "published_at": "2026-10-16T04:03:13+00:00",
+          "summary": "\"Shroom Clouds\" serves as the lead single for Don't Be Dumb - Disc 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89f365220e93",
+          "title": "Fontaines D.C.’s ‘Dopamine Chamber’: Every Song Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/fontaines-dc-dopamine-chamber-every-song-ranked/",
+          "category": "ia",
+          "published_at": "2026-10-16T04:00:00+00:00",
+          "summary": "The band's fifth LP is a bruising and brilliant collection that will sound right at home in their biggest-ever venues next summer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38f8bb7ef788",
+          "title": "Ninajirachi, Boy Soda, Keli Holiday Shortlisted For 2026 NSW Music Prize",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/ninajirachi-boy-soda-keli-holiday-shortlist-nsw-music-prize-1236361714/",
+          "category": "musique",
+          "published_at": "2026-10-16T03:20:40+00:00",
+          "summary": "Winners will be announced during a ceremony Nov. 9 at the Museum of Contemporary Art’s Foundation Hall in Sydney.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "articles": [
+        {
+          "id": "5c2521569967",
+          "title": "SeatGeek, Vivid Seats, others sue Washington, D.C., to block its 10% cap on ticket resale prices",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/seatgeek-vivid-seats-others-sue-washington-d-c-to-block-its-10-cap-on-ticket-resale-prices/",
+          "category": "ia",
+          "published_at": "2026-10-15T22:35:37+00:00",
+          "summary": "The plaintiffs are seeking a preliminary injunction against the District's RESALE Act, which is set to apply from January 1, 2027.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "322e5eaab9a0",
+          "title": "Warner Chappell Music signs My Chemical Romance to exclusive worldwide publishing deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-chappell-music-signs-my-chemical-romance-to-exclusive-worldwide-publishing-deal/",
+          "category": "musique",
+          "published_at": "2026-10-15T17:35:20+00:00",
+          "summary": "Warner Chappell will oversee the catalog's global rights administration, copyright protection, and sync licensing across film, television, and video games.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15795b1cb515",
+          "title": "Live Nation calls FTC’s BOTS Act lawsuit ‘misguided,’ says agency is trying to ‘flip the Act on its head’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-calls-ftcs-bots-act-lawsuit-misguided-says-agency-is-trying-to-flip-the-act-on-its-head/",
+          "category": "musique",
+          "published_at": "2026-10-15T17:26:06+00:00",
+          "summary": "If the FTC wins, ticketing companies that run their own resale marketplaces could be held liable for reselling tickets they knew, or should have known.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3001608afe2d",
+          "title": "AEG Presents acquires Auguri Productions, which has worked with Stromae, Angèle, and David Guetta",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/aeg-presents-acquires-auguri-productions-which-has-worked-with-stromae-angele-and-david-guetta/",
+          "category": "musique",
+          "published_at": "2026-10-15T17:24:44+00:00",
+          "summary": "Auguri Productions is the Paris-based artist development and concert production company co-founded by Charles Bensmaine.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "751a5ab1b4aa",
+          "title": "mVPN : Free renforce ses « protections » et ajoute six destinations",
+          "source": "Next INpact",
+          "url": "https://next.ink/261937/mvpn-free-renforce-ses-protections-et-ajoute-six-destinations/",
+          "category": "ia",
+          "published_at": "2026-10-15T16:22:26+00:00",
+          "summary": "Free Mobile propose six nouvelles destinations avec son VPN, dont des sorties en Asie et en Amériques. mVPN permet aussi d’ajouter deux niveaux de « protection », qui passent par des DNS personnalisés basés «&#160;sur des listes de domaines identifiés comme dangereux ou relevant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3845fd90f049",
+          "title": "Al Jazeera touchée par un nouveau type d’attaques zéro-clic utilisant les pubs ciblées",
+          "source": "Next INpact",
+          "url": "https://next.ink/262019/al-jazeera-touchee-par-un-nouveau-type-dattaques-zero-clic-utilisant-les-pubs-ciblees/",
+          "category": "ia",
+          "published_at": "2026-10-15T15:38:06+00:00",
+          "summary": "Une attaque zéro-clic installant un logiciel espion via des publicités ciblées a infecté des appareils du média Al Jazeera avec un logiciel espion. Cette attaque zéro clic a été distribuée par l&#8217;entreprise de marketing israélienne Discover-Tech. Les chercheurs du Citizen…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02b7d5d972ea",
+          "title": "☕️ [màj] Donald Trump renonce à la diffusion de l’exécution d’un condamné à mort",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/etats-unis-le-projet-de-diffusion-de-lexecution-dun-condamne-a-mort-largement-critique/",
+          "category": "ia",
+          "published_at": "2026-10-15T15:07:35+00:00",
+          "summary": "Mise à jour 15/10 – Finalement, une petite lueur d&#8217;humanité à la Maison-Blanche. Donald Trump a déclaré sur son réseau social que l&#8217;exécution de Nidal Malik Hasan ne sera pas diffusée en direct. «&#160;Je pense que diffuser l’exécution en direct, à la vue de tous,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "23f9223853ba",
+          "title": "☕️ #LIDD : Diablo II rencontre Vampire Survivors, adieu productivité",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lidd-diablo-ii-rencontre-vampire-survivors-adieu-productivite/",
+          "category": "ia",
+          "published_at": "2026-10-15T14:49:27+00:00",
+          "summary": "Ça tombe bien que vous ayez cinq minutes (ou le reste de la semaine) devant vous, voici une découverte qui pourrait bien anéantir toute velléité de productivité : Diablo II Survivors est, comme son nom le laisse assez aisément deviner, un clone du hit intemporel de Blizzard…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4598aa5eca85",
+          "title": "Sony tente de refermer les vannes du piratage après le jailbreak de la PS5",
+          "source": "Next INpact",
+          "url": "https://next.ink/262062/sony-tente-de-refermer-les-vannes-du-piratage-apres-le-jailbreak-de-la-ps5/",
+          "category": "ia",
+          "published_at": "2026-10-15T14:13:40+00:00",
+          "summary": "Depuis son apparition fin septembre, Relapse, un outil permettant le jailbreak de la PS5, a ouvert les vannes : de nombreuses bidouilles, émulateurs et bien sûr jeux piratés sont désormais disponibles pour la console de salon. Sony a lancé la contre-attaque. Sony prend le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b7014ef63086",
+          "title": "« Ghost in the Machine » : IA, eugénisme et sophisme génétique",
+          "source": "Next INpact",
+          "url": "https://next.ink/261634/ghost-in-the-machine-ia-eugenisme-et-sophisme-genetique/",
+          "category": "ia",
+          "published_at": "2026-10-15T13:51:00+00:00",
+          "summary": "Une cinéaste états-unienne a remonté la piste de l’intelligence artificielle, jusqu’à la fin du XIXᵉ&#160;siècle. En résulte un documentaire « à charge », qui explore les liens entre IA, développement des statistiques modernes et eugénisme. Aujourd’hui encore, des théories…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f43c02482fce",
+          "title": "Chance the Rapper wins second trial against ex-manager Pat Corcoran, who must hand over merch vendor payments – and up to $1.5M in fees, according to Chance’s team",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/chance-the-rapper-wins-second-trial-against-ex-manager-pat-corcoran-who-must-hand-over-merch-vendor-payments-and-up-to-1-5m-in-fees-according-to-chances-team/",
+          "category": "ia",
+          "published_at": "2026-10-15T13:48:19+00:00",
+          "summary": "The ruling does not put a number on what Corcoran owes, but representatives for Chance say he is likely to forfeit up to $1.5 million in management fees.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "350173052751",
           "title": "☕️ Une seconde jeunesse pour les vieux iPod, avec Bluetooth, USB-C et Spotify",
@@ -152,6 +697,16 @@
           "category": "musique",
           "published_at": "2026-10-15T12:29:51+00:00",
           "summary": "Les étiquettes «&#160;AI »&#160;vont fleurir dans YouTube Music. Google rejoint le train des plateformes de streaming qui signalent les contenus générés par IA, à l&#8217;instar de Spotify et Deezer. Apple Music aussi a lancé les grandes manœuvres récemment. « L’IA générative…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ef482ee2b62",
+          "title": "Ordre du jour de la séance plénière du 15 octobre 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
+          "category": "institutionnel",
+          "published_at": "2026-10-15T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
           "summary_type": "extrait source"
         },
         {
@@ -342,6 +897,16 @@
           "category": "institutionnel",
           "published_at": "2026-10-15T07:59:17+00:00",
           "summary": "The post Les 10 propositions du Snep pour la Présidentielle 2027 appeared first on SNEP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "072984e49eaa",
+          "title": "Les propositions du Snep pour la Présidentielle 2027",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/les-10-propositions-du-snep-pour-la-presidentielle/",
+          "category": "institutionnel",
+          "published_at": "2026-10-15T07:59:17+00:00",
+          "summary": "The post Les propositions du Snep pour la Présidentielle 2027 appeared first on SNEP.",
           "summary_type": "extrait source"
         },
         {
