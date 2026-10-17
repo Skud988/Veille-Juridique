@@ -1,9 +1,294 @@
 {
-  "generated_at": "2026-10-16T13:15:19.132999+00:00",
+  "generated_at": "2026-10-17T12:11:37.948873+00:00",
   "days": [
+    {
+      "date": "2026-10-17",
+      "articles": [
+        {
+          "id": "e3a8d1af271a",
+          "title": "Cette seconde spéciale, qu’on ajoute pour s’adapter aux caprices de la rotation terrestre, pourrait bientôt disparaître",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2353213-cette-seconde-speciale-quon-ajoute-pour-sadapter-aux-caprices-de-la-rotation-terrestre-pourrait-bientot-disparaitre.html",
+          "category": "ia",
+          "published_at": "2026-10-17T12:01:00+00:00",
+          "summary": "Nos horloges atomiques sont plus régulières que la rotation de la Terre : depuis 1972, il a fallu leur ajouter 27 secondes pour suivre l’irrégularité de la rotation terrestre. Ces secondes supplémentaires peuvent provoquer des bugs ou des pannes informatiques. Le projet de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "973cc6239dfa",
+          "title": "Flock con fondu, flocon foutu",
+          "source": "Next INpact",
+          "url": "https://next.ink/262471/flock-givres/",
+          "category": "ia",
+          "published_at": "2026-10-17T11:37:00+00:00",
+          "summary": "Allez, on sort de la chambre froide les dossiers piratages de la semaine au menu pour l’éternelle optimiste ANSSI : des portefeuilles, des robots pas si gentils et même carrément des frigos. Et attendez le dessert ! Un vrai gruyère, ou plutôt un bon morceau d’emmental pour être…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fad9be1f8e3",
+          "title": "La saison 5 de True Detective a trouvé son duo de stars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2355577-la-saison-5-de-true-detective-a-trouve-son-duo-de-stars.html",
+          "category": "ia",
+          "published_at": "2026-10-17T09:38:57+00:00",
+          "summary": "Nicolas Cage et Antonio Banderas formeront le duo de la cinquième saison de True Detective. Le tournage de la série HBO débutera en 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2c2a872efc4",
+          "title": "Des revendeurs chinois vendent de faux GTA 6 physiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2355565-des-revendeurs-chinois-vendent-de-faux-gta-6-physiques.html",
+          "category": "ia",
+          "published_at": "2026-10-17T08:57:47+00:00",
+          "summary": "Alors qu'il existe une demande pour une vraie version physique de GTA 6, un vendeur chinois a décidé d'en commercialiser une fausse. Elle contient un disque vide.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a49d69e9a479",
+          "title": "‘I’m Experiencing Everything I’ve Ever Wanted’: Recapping Miley’s Live Return, On Her Own Terms",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/miley-hollywood-bowl-live-return-recap/",
+          "category": "musique",
+          "published_at": "2026-10-17T08:09:27+00:00",
+          "summary": "Here's what went down during Miley's first of two sold-out nights at the iconic Hollywood Bowl.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c453a099f81e",
+          "title": "Le jailbreak de la PS5 s’intensifie, les Avengers perdent un membre et GTA lève le voile sur sa célèbre jaquette : c’est le récap pop culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2355409-le-jailbreak-de-la-ps5-sintensifie-les-avengers-perdent-un-membre-et-gta-leve-le-voile-sur-sa-celebre-jaquette-cest-le-recap-pop-culture-de-la-semaine.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-17T08:00:00+00:00",
+          "summary": "Cette semaine, il y a du lourd dans le récap pop culture ! Le jailbreak de la PS5 continue d'évoluer à toute vitesse, avec notamment la possibilité de faire tourner des jeux PS3 sur la console. De leur côté, les Avengers devront sauver le monde sans Hawkeye, le porte-bonheur de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "69e1a880bb13",
+          "title": "Starlink bridé en Ukraine : ce serait bien Elon Musk qui aurait suggéré l’idée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2355551-starlink-bride-en-ukraine-ce-serait-bien-elon-musk-qui-aurait-suggere-lidee.html",
+          "category": "ia",
+          "published_at": "2026-10-17T07:49:03+00:00",
+          "summary": "Alors qu'il s'est défaussé sur Donald Trump, Elon Musk aurait bien été à l'origine du bridage de Starlink en Ukraine, selon le Telegraph. Dans la nuit du 13 au 14 octobre, les drones ukrainiens qui utilisent le réseau ont perdu la connexion au-delà de 160 km/h.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17aa3a6a34a0",
+          "title": "Au Mondial de l’Auto, les voitures chinoises ne font plus peur : les visiteurs viennent pour acheter",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2354115-au-mondial-de-lauto-les-voitures-chinoises-ne-font-plus-peur-les-visiteurs-viennent-pour-acheter.html",
+          "category": "ia",
+          "published_at": "2026-10-17T05:45:00+00:00",
+          "summary": "Au Mondial de l'Auto de Paris, cette semaine, les stands de Zeekr, XPeng, Denza ou BYD comptent parmi les plus fréquentés du salon. Sur place, les visiteurs sont impressionnés par la qualité de finition des modèles, mesurent les coffres, rabattent les banquettes et alpaguent les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f486174a6dd",
+          "title": "Bouclier thermique d’Artémis II, premier (et dernier) vol de la fusée réutilisable japonaise, récupération du Starship – le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2355149-bouclier-thermique-dartemis-ii-premier-et-dernier-vol-de-la-fusee-reutilisable-japonaise-recuperation-du-starship-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-10-17T05:10:00+00:00",
+          "summary": "Dans l'actualité scientifique de la semaine du 12 octobre 2026 : le bouclier thermique d'Artémis II à peine abimé, le premier (et dernier) vol de la fusée réutilisable du Japon, et l'ambition de SpaceX qui vise une récupération complète du Starship. C'est le récap’ !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d0bb36a9054",
+          "title": "Harry Styles Pays Tribute to Liam Payne With Unreleased Song on Anniversary of His Death",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/harry-styles-dedicates-song-to-liam-payne-1236362307/",
+          "category": "ia",
+          "published_at": "2026-10-17T05:07:06+00:00",
+          "summary": "Styles premiered the unreleased tribute “What Is Enough” on the second anniversary of his former One Direction bandmate’s death.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "863ee3a75d1f",
+          "title": "Diddy Moved From New Jersey Prison to Similar Facility in Pennsylvania",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/legal/diddy-moved-from-new-jersey-prison-to-pennsylvania-1236362285/",
+          "category": "musique",
+          "published_at": "2026-10-17T00:53:07+00:00",
+          "summary": "The transfer follows reports that the music mogul has gotten into prison fights and was living a “pampered” life behind bars.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "580c2e2698f8",
+          "title": "Swizz Beatz Reveals Michael Jackson Had a Crush on Alicia Keys: ‘I Think Janet Was the One That Told A.K.’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/swizz-beatz-michael-jackson-crush-alicia-keys-1236362241/",
+          "category": "ia",
+          "published_at": "2026-10-17T00:04:55+00:00",
+          "summary": "The Bronx beatmaker thought it was cool, so he set up Alicia &#38; Michael meeting at the King of Pop's house.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "articles": [
+        {
+          "id": "434df6160029",
+          "title": "Mark Pucci, Veteran Music Publicist & Recognized Blues Advocate, Dies at 79",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/mark-pucci-death-publicist-lynyrd-skynyrd-johnny-cash-dead/",
+          "category": "musique",
+          "published_at": "2026-10-16T23:12:14+00:00",
+          "summary": "Over a 50-year career, Pucci represented such music icons as Johnny Cash, Lynyrd Skynyrd and The Allman Brothers Band.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4f4dc897b65e",
+          "title": "Drake Sued Over ‘Janice STFU’: Songwriter Claims Chorus Is ‘Literally Identical’ to His Demo",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/drake-janice-stfu-lawsuit-songwriter-sues-copied-demo/",
+          "category": "ia",
+          "published_at": "2026-10-16T22:05:19+00:00",
+          "summary": "Aviel Calev Hirschfield alleges the rapper's reps \"shamelessly refuse to acknowledge\" his contributions. Drake's team calls the lawsuit \"entirely fabricated.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd863f0193c4",
+          "title": "In Canada: Cardi B Named First-Ever Global Woman of the Year at Billboard Canada Women in Music 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/cardi-b-billboard-canada-women-in-music-2026-award-news/",
+          "category": "musique",
+          "published_at": "2026-10-16T21:42:52+00:00",
+          "summary": "Also up north this week: Drake extends a chart record with \"Habibti\" and holders of obstructed Backstreet Boys tickets may get an upgrade.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41da5a5b41e7",
+          "title": "NuNew on Whether Acting or Singing Makes Him More Nervous: ‘If You Make a Mistake, That’s It’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/nunew-tima-interview-1236362238/",
+          "category": "musique",
+          "published_at": "2026-10-16T21:34:46+00:00",
+          "summary": "Billboard spoke to the Thai singer-actor backstage at the 2026 TMElive International Music Awards.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3d8e0b2287ff",
+          "title": "« J’ai été idiot d’avoir fait ça » : Sylverster Stallone a beaucoup de regrets sur sa carrière",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2355311-jai-ete-idiot-davoir-fait-ca-sylverster-stallone-a-beaucoup-de-regrets-sur-sa-carriere.html",
+          "category": "ia",
+          "published_at": "2026-10-16T19:15:00+00:00",
+          "summary": "À 80 ans, Sylvester Stallone fait un mea culpa sans détour sur ses cascades. Ravagé par une dizaine de passages sur la table d'opération et des traumatismes cervicaux à répétition, l'éternel interprète de Rocky et Rambo tire à boulets rouges sur son propre ego passé. Il regrette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba00d90750ed",
+          "title": "From Universal Music’s fresh round of layoffs to Spotify’s catalog surge… it’s MBW’s Weekly Round-up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-universal-musics-fresh-round-of-layoffs-to-spotifys-catalog-surge-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-10-16T17:29:30+00:00",
+          "summary": "The biggest headlines from the past few days...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f8f86c026c00",
+          "title": "Fin du tout électrique en 2035 : ce que cache vraiment l’accord franco-allemand sur la voiture",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2355407-fin-du-tout-electrique-en-2035-ce-que-cache-vraiment-laccord-franco-allemand-sur-la-voiture.html",
+          "category": "ia",
+          "published_at": "2026-10-16T16:35:00+00:00",
+          "summary": "Alors que l’Union européenne s’était engagée vers la fin des ventes de voitures neuves à moteur thermique en 2035, un accord passé entre la France et l'Allemagne vient de modifier discrètement les règles du jeu. Décryptage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96b5c9d5edb9",
+          "title": "☕️ Apple et NVIDIA ouvrent grand le chéquier pour la salle de bal de Donald Trump",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-et-nvidia-ouvrent-grand-le-chequier-pour-la-salle-de-bal-de-donald-trump/",
+          "category": "ia",
+          "published_at": "2026-10-16T15:34:00+00:00",
+          "summary": "Les grandes entreprises américaines ont bien compris le fonctionnement de l&#8217;administration Trump : pour obtenir des faveurs du maître de Washington, il faut signer de gros chèques. Plusieurs d&#8217;entre elles se sont ainsi montrées très généreuses pour financer la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0e6ddc234a1",
+          "title": "Google Discover a recommandé 26 000 articles d’un serial spammeur avant de le blacklister",
+          "source": "Next INpact",
+          "url": "https://next.ink/261460/google-discover-a-recommande-26-000-articles-dun-serial-spammeur-avant-de-le-blacklister/",
+          "category": "ia",
+          "published_at": "2026-10-16T15:03:14+00:00",
+          "summary": "Le plus prolifique des éditeurs de sites d&#8217;infos générés par IA est de retour. Blacklisté l&#8217;an passé, après avoir spammé Discover, l&#8217;algorithme de recommandation de contenus de Google, de milliers d&#8217;articles et de fake news, trois de ses sites ont capté…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a4ec4f53014",
+          "title": "La NASA offre 150 000 dollars pour résoudre ce problème électrique sur la Lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2355069-la-nasa-offre-150-000-dollars-pour-resoudre-ce-probleme-electrique-sur-la-lune.html",
+          "category": "ia",
+          "published_at": "2026-10-16T14:25:13+00:00",
+          "summary": "Sur la Lune, l’électricité statique pourrait rendre dangereux le simple contact avec un vaisseau. La NASA propose jusqu’à 150 000 dollars de récompense pour trouver comment décharger les combinaisons sans risque. Les candidatures sont ouvertes jusqu’au 15 janvier 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e90290fffe0",
+          "title": "Independent artist case study with Anja Kotar",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/independent-artist-case-study-with-anja-kotar/",
+          "category": "ia",
+          "published_at": "2026-10-16T14:01:24+00:00",
+          "summary": "Anja Kotar is a Slovenian-born singer, songwriter and producer based in California. She trained as a classical pianist and has been releasing music independently since 2017 &#8211; these days through Venice Music. We chatted to Anja for our Artist Ally Substack to explore how…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16acb9f4138d",
+          "title": "C’est quoi FREYJA, ce projet de bouclier antimissile que Macron et Zelensky veulent pour fin 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2354599-cest-quoi-freyja-ce-projet-de-bouclier-antimissile-que-macron-et-zelensky-veulent-pour-fin-2026.html",
+          "category": "ia",
+          "published_at": "2026-10-16T14:00:11+00:00",
+          "summary": "Emmanuel Macron et Volodymyr Zelensky ont discuté, le 15 octobre 2026, de l’accélération de FREYJA. Ce projet ukrainien et européen doit permettre d’intercepter des missiles balistiques, avec un objectif affiché par Kiev : devenir opérationnel avant la fin de l’année. Un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0160cdc74aa7",
+          "title": "What Google’s Frightgeist can tell artist teams about Halloween",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/what-googles-frightgeist-can-tell-artist-teams-about-halloween/",
+          "category": "musique",
+          "published_at": "2026-10-16T13:58:40+00:00",
+          "summary": "Google has published Frightgeist, its annual round-up of what people are searching for ahead of Halloween. It’s pitched at retailers deciding what to stock, but it’s just as handy for anyone planning spooky season content around an artist.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1daf4cc4ef6",
+          "title": "Facebook joins trend for user algorithm control",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/facebook-joins-trend-for-user-algorithm-control/",
+          "category": "musique",
+          "published_at": "2026-10-16T13:53:28+00:00",
+          "summary": "After testing the water on Instagram, Meta is bringing its ‘Your Algorithm’ tool to Facebook, which means users can now tell the app in their own words what they’d like to see more (or less) of in Feed and Reels. The feature started life on Instagram Reels last December and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91c3b5860c95",
+          "title": "Tinashe appears in popular micro-drama as part of her Popstar album campaign",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/16/tinashe-appears-in-popular-micro-drama-as-part-of-her-popstar-album-campaign/",
+          "category": "musique",
+          "published_at": "2026-10-16T13:51:07+00:00",
+          "summary": "Tinashe is the latest artist to appear in Brooklyn Coffee Shop, Pooja Tripathi’s hit Instagram micro-drama. In it, a pair of deeply unimpressed baristas, Thyme and Cale, serve up attitude to a rotating cast of customers.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d793af806d4",
+          "title": "Précommandes de l’iPhone Duo : déjà les premières ruptures et des livraisons en janvier",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2350985-precommandes-iphone-duo-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-10-16T13:20:24+00:00",
+          "summary": "À peine ouvertes ce vendredi 16 octobre, les précommandes de l’iPhone Duo affichent déjà de premières indisponibilités, et Apple annonce certaines livraisons en janvier. Voici où le toruver encore en stock et au meilleur prix.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c37639d11b78",
           "title": "Tesla Roadster : à quoi ressemble l’interface à l’intérieur ?",
