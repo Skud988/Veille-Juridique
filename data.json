@@ -1,9 +1,134 @@
 {
-  "generated_at": "2026-10-17T12:11:37.948873+00:00",
+  "generated_at": "2026-10-18T12:36:57.527893+00:00",
   "days": [
+    {
+      "date": "2026-10-18",
+      "articles": [
+        {
+          "id": "21d9dec0b509",
+          "title": "Des frigos de supermarchés piratés partout en France, le fossé invisible de l’IA et les bots russes toujours actifs malgré les frappes sur Yandex : on vous raconte la semaine Cyberguerre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2354083-des-frigos-de-supermarches-pirates-partout-en-france-le-fosse-invisible-de-lia-et-les-bots-russes-toujours-actifs-malgre-les-frappes-sur-yandex-on-vous-raconte-la-semaine-cyberguerre.html",
+          "category": "ia",
+          "published_at": "2026-10-18T12:30:00+00:00",
+          "summary": "Trois actualités à retenir cette semaine dans le cyberespace, un piratage qui a fait grimper la température dans les rayons frais de centaines de supermarchés français, Andrej Karpathy qui décrit le fossé grandissant entre l’IA que connaît le grand public et celle que voient les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f3f2f3356a9",
+          "title": "Vous ne voyez aucune différence entre ce « a » et ce « а », et c’est un énorme problème de cybersécurité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2353923-vous-ne-voyez-aucune-difference-entre-ce-a-et-ce-%d0%b0-et-cest-un-enorme-probleme-de-cybersecurite.html",
+          "category": "ia",
+          "published_at": "2026-10-18T12:02:00+00:00",
+          "summary": "Une simple lettre venue de l’alphabet cyrillique suffit à créer une fausse adresse web presque impossible à distinguer de la vraie à l’œil nu. Un piège connu des spécialistes, qui reste redoutablement efficace.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5461c8a9128a",
+          "title": "NFL London Game 2026: Where to Watch Houston Texans vs. Jacksonville Jaguars Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/nfl-london-2026-texans-jaguars-watch-live-online-free-1236359693/",
+          "category": "musique",
+          "published_at": "2026-10-18T10:30:00+00:00",
+          "summary": "Livestream the Texans take on the Jaguars live from London on Oct. 18.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07e0134edf7c",
+          "title": "Le décompte final a commencé : Voyager 1 va franchir une distance si grande qu’il faut changer d’échelle d’unité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2352555-le-decompte-final-a-commence-voyager-1-va-franchir-une-distance-si-grande-quil-faut-changer-dechelle-dunite.html",
+          "category": "ia",
+          "published_at": "2026-10-18T10:00:00+00:00",
+          "summary": "Le mercredi 18 novembre 2026 à 11 h 16 (heure de Paris), Voyager 1 sera à 25,9 milliards de kilomètres de la Terre, soit un jour-lumière. Aucun objet fabriqué par l'humanité n'avait encore atteint cette distance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd13066b2ba0",
+          "title": "Eminem Defends Kid Rock Collaboration: ‘Not About Choosing Sides’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/eminem-defends-kid-rock-collaboration-heal-my-faith-1236362405/",
+          "category": "musique",
+          "published_at": "2026-10-18T08:14:18+00:00",
+          "summary": "The rapper addressed backlash over his guest verse on Kid Rock’s new faith-based album, pointing to the pair’s decades-long friendship",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e48709f6470c",
+          "title": "« Je pense qu’il faut refuser de dépendre de solutions américaines » : avec Arcadia, la France mise sur son IA de commandement pour échapper à l’Américain Palantir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2351643-je-pense-quil-faut-refuser-de-dependre-de-solutions-americaines-avec-arcadia-la-france-mise-sur-son-ia-de-commandement-pour-echapper-a-lamericain-palantir.html",
+          "category": "ia",
+          "published_at": "2026-10-18T08:02:00+00:00",
+          "summary": "Arcadia, le futur logiciel de commandement des armées françaises dopé à l'IA, a été présenté fin septembre par le Commissariat au numérique de défense. Il doit répondre à Maven, l'outil de l'américain Palantir que l'OTAN utilise déjà.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "76d979eb4db5",
+          "title": "Le Mondial de Paris donne tort aux oiseaux de mauvais augure",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2355561-le-mondial-de-paris-donne-tort-aux-oiseaux-de-mauvais-augure.html",
+          "category": "ia",
+          "published_at": "2026-10-18T06:33:00+00:00",
+          "summary": "Les salons automobiles étaient condamnés. L'électrique était un repoussoir. Et si on avait enterré les deux un peu trop vite ?",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "articles": [
+        {
+          "id": "36136b8b43b9",
+          "title": "« Un barbecue qui a mal tourné » : l’astronaute française Sophie Adenot nous décrit les odeurs surprenantes de l’espace",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2352895-un-barbecue-qui-a-mal-tourne-lastronaute-francaise-sophie-adenot-nous-decrit-les-odeurs-surprenantes-de-lespace.html",
+          "category": "ia",
+          "published_at": "2026-10-17T18:15:00+00:00",
+          "summary": "De retour après quasiment 8 mois dans l'espace, Sophie Adenot renoue avec des sensations bien terrestres. L'astronaute française redécouvre notamment les odeurs, après avoir connu celles de l'ISS. Elles se font plus rares, mais n'en sont pas moins étonnantes... comme l'odeur de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e8e2c03b519",
+          "title": "Iron Maiden Announce 2027 Run for Your Lives North American Tour: See the Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/iron-maiden-2027-north-american-tour-dates-1236362365/",
+          "category": "musique",
+          "published_at": "2026-10-17T17:52:08+00:00",
+          "summary": "The third and final leg of the metal legends’ 50th-anniversary trek launches in April.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9e077d5d480",
+          "title": "On a classé les 7 meilleures adaptations des romans de Stephen King en série",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2353879-on-a-classe-les-7-meilleures-adaptations-des-romans-de-stephen-king-en-serie.html",
+          "category": "ia",
+          "published_at": "2026-10-17T17:00:00+00:00",
+          "summary": "Alors que Carrie, l’anti-héroïne sanglante de Stephen King, connaît une nouvelle vie en série, Numerama vous propose un classement, forcément subjectif, des meilleures adaptations du maître de l’horreur sur le petit écran. Direction l'État du Maine, où une petite ville assaillie…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1846aeebe83e",
+          "title": "Les meilleurs films à montrer aux enfants pour Halloween en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2351709-les-meilleurs-films-a-montrer-aux-enfants-pour-halloween-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-10-17T15:01:00+00:00",
+          "summary": "C'est Halloween, et qui dit Halloween dit films d'horreur. C'est même l'une des règles d'or pour réussir son mois d'octobre. Mais lorsqu'on a des enfants, difficile de s'y tenir : les envies de cinéma se tournent davantage vers un bon vieux Disney ou un film de Ghibli que vers…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74ce4c3b36ce",
+          "title": "Prime Video : livraison de sueur froide avec le top des films d’horreur pour Halloween 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2354087-prime-video-livraison-de-sueur-froide-avec-le-top-des-films-dhorreur-pour-halloween-2026.html",
+          "category": "ia",
+          "published_at": "2026-10-17T13:31:00+00:00",
+          "summary": "Pas besoin de perdre quarante-cinq minutes à faire défiler le catalogue pour trouver de quoi flipper cette année. Pour Halloween 2026, Prime Video aligne un cocktail d'épouvante particulièrement corsé. On fait le tri pour vous.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "e3a8d1af271a",
           "title": "Cette seconde spéciale, qu’on ajoute pour s’adapter aux caprices de la rotation terrestre, pourrait bientôt disparaître",
