@@ -1,6 +1,521 @@
 {
-  "generated_at": "2026-10-18T12:36:57.527893+00:00",
+  "generated_at": "2026-10-19T15:58:43.187696+00:00",
   "days": [
+    {
+      "date": "2026-10-19",
+      "articles": [
+        {
+          "id": "247da19f1e7d",
+          "title": "Next, un pacte : trois ans plus tard, toujours INtact ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/262159/next-un-pacte-trois-ans-plus-tard-toujours-intact/",
+          "category": "ia",
+          "published_at": "2026-10-19T15:45:00+00:00",
+          "summary": "En octobre 2023, Next INpact devenait Next après une longue traversée du désert. L&#8217;équipe avait alors formulé un certain nombre d&#8217;envies, de promesses et d&#8217;engagements. Trois ans plus tard, il est temps pour un petit point d&#8217;étape. J&#8217;en connais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44627bb1cfca",
+          "title": "MMX et le rover Idéfix décollent ce soir vers Phobos : suivez le lancement en direct",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2355859-mmx-et-le-rover-idefix-decollent-ce-soir-vers-phobos-suivez-le-lancement-en-direct.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-19T15:41:13+00:00",
+          "summary": "La mission MMX qui contient un petit rover Idéfix doit se rendre jusqu'à Phobos, la lune de Mars, pour en ramener quelques grammes d'échantillons. Un projet inédit et ambitieux dont le départ est à suivre en direct ce lundi 19 octobre au soir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fdc3d99fc28",
+          "title": "Supreme Court Won’t Overturn Landmark Music Copyright Termination Ruling",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/supreme-court-wont-overturn-vetter-ruling/",
+          "category": "musique",
+          "published_at": "2026-10-19T15:39:55+00:00",
+          "summary": "The justices used a rare maneuver to uphold a ruling for songwriter Cyril Vetter that major music companies have warned will cause \"chaos\" for the industry.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5779830eb1e",
+          "title": "Watch KATSEYE Put the Pink in ‘Pinky Up’ & Strut the Runway at 2026 Victoria’s Secret Fashion Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/katseye-pinky-up-2026-victorias-secret-fashion-show-1236362684/",
+          "category": "ia",
+          "published_at": "2026-10-19T15:30:13+00:00",
+          "summary": "Yoonchae, Megan, Lara and Daniela also sang \"Animal\" during the girl group's performance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c8d23e5b0d6",
+          "title": "MMX prêt à décoller en compagnie d’Idefix vers Phobos, un des deux satellites de Mars",
+          "source": "Next INpact",
+          "url": "https://next.ink/262715/mmx-pret-a-decoller-en-compagnie-didefix-vers-phobos-un-des-deux-satellites-de-mars/",
+          "category": "ia",
+          "published_at": "2026-10-19T15:25:09+00:00",
+          "summary": "La mission spatiale japonaise Martian Moons eXploration doit décoller ce soir du Japon en direction de deux satellites de Mars : Phobos et Déimos. Elle doit déposer sur le premier le rover Idefix développé notamment par le CNES. L&#8217;agence spatiale japonaise Jaxa…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2210a522cd7b",
+          "title": "Majors and BMG lose Supreme Court fight over songwriters’ worldwide copyright reclaims – on a technicality",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/majors-and-bmg-lose-supreme-court-fight-over-songwriters-worldwide-copyright-reclaims-on-a-technicality/",
+          "category": "ia",
+          "published_at": "2026-10-19T15:10:56+00:00",
+          "summary": "Their challenge ended on Monday (October 19) without the court ruling on its merits, after four of its nine justices sat the case out\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1564b2fd5a5b",
+          "title": "☕️ Une faille dans le noyau Linux permet à une machine virtuelle de lire la mémoire de l’hôte",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/une-faille-dans-le-noyau-linux-permet-a-une-machine-virtuelle-de-lire-la-memoire-de-lhote/",
+          "category": "institutionnel",
+          "published_at": "2026-10-19T15:09:24+00:00",
+          "summary": "La faille CVE-2026-99999, surnommée PwnEscape, affecte la plupart des noyaux Linux actuellement maintenus. Elle n’est pas présente dans le nouveau noyau 7.3, mais la mouture 7.2 (entre autres) est touchée, nécessitant l’installation de la dernière révision. Exploitée, cette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "190f08edc1ec",
+          "title": "My Hero Academia : où précommander les derniers coffrets intégrales de la série ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2356163-my-hero-academia-ou-precommander-les-derniers-coffrets-integrales-de-la-serie.html",
+          "category": "ia",
+          "published_at": "2026-10-19T15:07:48+00:00",
+          "summary": "[Précommande] Les derniers coffrets de My Hero Academia arrivent bientôt en librairie. Prévus pour le 5 novembre 2026, les coffrets 5 et 6 permettront de réunir les tomes 29 à 42 tomes du manga de Kohei Horikoshi. Voici où les précommander.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3461a704b88d",
+          "title": "Time Warp Expands Its Insomniac Partnership With New Record Label, Time Warp Records",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/time-warp-records-insomniac-label-group-techno-festival/",
+          "category": "ia",
+          "published_at": "2026-10-19T15:00:00+00:00",
+          "summary": "The label’s first releases arrive Nov. 20, with all Time Warp Records titles available both digitally and on vinyl.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e36f6d09c0b",
+          "title": "Billboard Latin Music Week 2026 Is Here: Top Highlights From Every Industry Panel",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/billboard-latin-music-week-2026-industry-panels-highlights/",
+          "category": "musique",
+          "published_at": "2026-10-19T14:57:36+00:00",
+          "summary": "From algorithms to the indie music revolution, see the best moments of Latin Music Week's kickoff day below.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "828a9f3964b5",
+          "title": "Death Cab for Cutie Earns Milestone 10th Adult Alternative Airplay No. 1 With ‘Stone Over Water’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/death-cab-for-cutie-stone-over-water-tops-alternative-airplay-1236362669/",
+          "category": "ia",
+          "published_at": "2026-10-19T14:48:04+00:00",
+          "summary": "The band becomes the fifth act to reach double-digit leaders on the chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "461cd0411570",
+          "title": "Here Are Paul McCartney’s Likely Grammy Competitors for Best Traditional Pop Vocal Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2027-grammys-best-traditional-pop-vocal-album-predictions-1236362392/",
+          "category": "musique",
+          "published_at": "2026-10-19T14:45:41+00:00",
+          "summary": "There are 111 albums on this year's entry list vying for just five or six slots on the final ballot.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79208fc93f62",
+          "title": "Les étoiles vertes n’étaient pas censées exister : des astronomes viennent pourtant d’en trouver une",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2355801-les-etoiles-vertes-netaient-pas-censees-exister-des-astronomes-viennent-pourtant-den-trouver-une.html",
+          "category": "ia",
+          "published_at": "2026-10-19T14:45:00+00:00",
+          "summary": "Une étoile peut apparaître verte à l'œil humain. En calculant la couleur réelle de naines blanches, des astronomes de l'université de Warwick ont identifié WD J1330+6435, qui nous paraîtrait verte si l'on pouvait l'observer de près.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "141ac4f96ef5",
+          "title": "Swedish House Mafia Scores Fourth Dance Airplay No. 1 With ‘Happiness Is So Sad’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/swedish-house-mafia-happiness-is-so-sad-number-1-dance-airplay-1236362665/",
+          "category": "ia",
+          "published_at": "2026-10-19T14:39:10+00:00",
+          "summary": "The trio last topped the chart in 2025 with “Wait So Long.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb0ad4408bbe",
+          "title": "Believe expands Romain Vivien’s role as Global Head of Music, with three Regional Presidents now reporting to him",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-expands-romain-viviens-role-as-global-head-of-music-with-three-regional-presidents-now-reporting-to-him/",
+          "category": "musique",
+          "published_at": "2026-10-19T14:38:02+00:00",
+          "summary": "Vivien will now directly lead the company's three geographic regions – EMEA, the Americas, and APAC – and drive its strategic partnerships\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11f8e00df3b8",
+          "title": "Mort de Gordon, combat ultraviolent… Le scénario annulé du Batman de Ben Affleck enfin dévoilé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2356149-mort-de-gordon-combat-ultraviolent-le-scenario-annule-du-batman-de-ben-affleck-enfin-devoile.html",
+          "category": "ia",
+          "published_at": "2026-10-19T14:31:32+00:00",
+          "summary": "Le Snyderverse n'en finit pas de sortir ses cadavres du placard. Alors que la saga du Chevalier Noir sous l'ère Matt Reeves et Robert Pattinson traverse des turbulences, un autre Batman refait surface. Celui de Ben Affleck.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1940fff581f4",
+          "title": "Attention aux cagnottes pour aider Pierre du Micromania de Nice, pillé pendant les manifestations",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2356185-attention-aux-cagnottes-pour-aider-pierre-du-micromania-de-nice-pille-pendant-les-manifestations.html",
+          "category": "ia",
+          "published_at": "2026-10-19T14:29:10+00:00",
+          "summary": "Comme tant d'autres commerçants, Pierre a vu sa boutique être attaquée lors des manifestations du samedi 17 octobre. Dans plusieurs vidéos partagées sur le web, on le voit tenir tête aux casseurs. Plusieurs cagnottes ont été ouvertes en soutien mais, attention, il n'en est pas à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "26908a0f50b8",
+          "title": "Este Haim Says Ursula & Stevie Nicks Inspired Her ‘Witchy’ Role as Marvel’s Newest Villain, Chooses Taylor Swift’s Most Autumnal Song",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/este-haim-how-stevie-nicks-ursula-inspired-marvel-role-1236362102/",
+          "category": "ia",
+          "published_at": "2026-10-19T14:00:00+00:00",
+          "summary": "The HAIM bassist voices Hallow's Eve in Disney's Spidey and the Avengers: Halloween Team Up.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af763ca67420",
+          "title": "Mötley Crüe Plots 4th Las Vegas Residency Featuring Songs That Haven’t Been Played Live ‘In Decades’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/motley-crue-2027-las-vegas-carnival-sins-residency-dates-1236362235/",
+          "category": "musique",
+          "published_at": "2026-10-19T14:00:00+00:00",
+          "summary": "The eight-night run will kick off in March next year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d8bb5bb6e49",
+          "title": "☕️ Drupal colmate deux failles critiques exploitables à distance",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/drupal-colmate-deux-failles-critiques-exploitables-a-distance/",
+          "category": "ia",
+          "published_at": "2026-10-19T13:56:03+00:00",
+          "summary": "Drupal, une solution libre de CMS (système de gestion de contenu), a corrigé le 14 octobre deux failles critiques de type RCE (Remote Code Execution). Elles permettent donc, si exploitées, de faire exécuter un code arbitraire à distance. La première faille, CVE-2026-108097…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0d62b8f6d99",
+          "title": "Daredevil Born Again : le patron de Marvel parle de l’avenir du héros après la fin de la saison 3",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2356013-daredevil-born-again-nira-pas-au-dela-de-la-saison-3-et-marvel-a-une-excuse-toute-trouvee.html",
+          "category": "justice",
+          "published_at": "2026-10-19T13:55:00+00:00",
+          "summary": "Daredevil: Born Again s'arrêtera à l'issue de sa troisième saison, attendue en mars 2027 sur Disney+. Interrogé en octobre 2026, Brad Winderbaum, patron de Marvel Television, assure que cette fin était prévue de longue date et parle déjà de la suite pour le super-héros.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "631996f9f73f",
+          "title": "« Personne n’avait encore jamais fait ça » : cerné par les mines, un soldat ukrainien a été évacué suspendu sous un drone bombardier",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2356137-personne-navait-encore-jamais-fait-ca-cerne-par-les-mines-un-soldat-ukrainien-a-ete-evacue-suspendu-sous-un-drone-bombardier.html",
+          "category": "ia",
+          "published_at": "2026-10-19T13:20:18+00:00",
+          "summary": "La 92e brigade d'assaut ukrainienne a annoncé ce lundi 19 octobre avoir évacué un soldat blessé du front grâce à un drone aérien lourd, une première mondiale selon elle. Jusqu'ici, ces évacuations sans équipage étaient confiées à des robots terrestres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5649810bc0cc",
+          "title": "Dark Souls 2 cachait un immense colisée qui n’a jamais intégré le jeu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2355977-dark-souls-2-cachait-un-immense-colisee-qui-na-jamais-integre-le-jeu.html",
+          "category": "ia",
+          "published_at": "2026-10-19T13:11:37+00:00",
+          "summary": "Certains jeux vidéo cachent des secrets destinés à être découverts, tandis que d'autres dissimulent des éléments qui n'auraient jamais dû être dévoilés. Ce niveau entier de Dark Souls 2, retiré de la version finale du jeu, appartient à la seconde catégorie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ebf7abae63ea",
+          "title": "On a testé VPS1Euro : 1,2 euro c’est déjà beaucoup trop cher",
+          "source": "Next INpact",
+          "url": "https://next.ink/262503/on-a-teste-vps1euro-12-euro-cest-deja-beaucoup-trop-cher/",
+          "category": "ia",
+          "published_at": "2026-10-19T13:07:43+00:00",
+          "summary": "VPS1Euro propose des VPS à un prix plancher… mais avec de trop nombreuses lacunes sur les performances et la (cyber)sécurité. Matériel en fin de vie, correctifs de sécurité appliqués avec sept ans de retard, performances complètement à la ramasse sur le stockage… la liste des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fadbe45892e",
+          "title": "Comparatif Apple Watch : Series 12, Ultra 4 ou SE 3, laquelle choisir en 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/1820158-quelle-apple-watch-choisir-notre-comparatif-des-montres-connectees-dapple.html",
+          "category": "ia",
+          "published_at": "2026-10-19T13:00:00+00:00",
+          "summary": "Apple Watch Series 12, Ultra 4 ou SE 3 ? Entre les écarts de prix et les nombreuses fonctions, le choix n’a rien d’évident. Notre comparatif des montres connectées d'Apple vous aide à trouver la montre adaptée à vos usages et à votre budget en 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f01dfe018920",
+          "title": "Avec sa future Koala, Fiat veut sa part de la 2 CV électrique à 15 000 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2355999-avec-sa-future-koala-fiat-veut-sa-part-de-la-2-cv-electrique-a-15-000-e.html",
+          "category": "ia",
+          "published_at": "2026-10-19T12:40:00+00:00",
+          "summary": "Fiat prépare une petite voiture électrique sur la même base technique que la future Citroën 2 CV, et a déposé le nom Koala, a confirmé son nouveau directeur général Arnaud Belloni au Mondial de l'Auto de Paris. Selon le directeur du design de la marque, la voiture est déjà aussi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f82119da81c2",
+          "title": "Musixmatch acquires Songdex and Blokur owner Music Reports",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/19/musixmatch-acquires-songdex-and-blokur-owner-music-reports/",
+          "category": "musique",
+          "published_at": "2026-10-19T12:30:00+00:00",
+          "summary": "Lyrics firm Musixmatch was founded 16 years ago, but has never bought another company&#8230; until now. It has announced the acquisition of Music Reports, the US firm that owns the Songdex copyright registry as well as rights and licensing firm Blokur.\nThe post is from Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5cf1a1b0f0f",
+          "title": "UMAW wants to ‘Raise the Bar’ for venue policies in the US",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/19/umaw-wants-to-raise-the-bar-for-venue-policies-in-the-us/",
+          "category": "ia",
+          "published_at": "2026-10-19T12:30:00+00:00",
+          "summary": "US union United Musicians and Allied Workers (UMAW) has launched its latest campaign, targeting “the worst practices at music venues across North America”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "114be7c175ea",
+          "title": "Sync startup Maia Universe inks more deals and raises funding",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/19/sync-startup-maia-universe-inks-more-deals-and-raises-funding/",
+          "category": "ia",
+          "published_at": "2026-10-19T12:30:00+00:00",
+          "summary": "We’ve been keeping tabs on sync-licensing startup Maia Universe since the Swedish/UK firm was one of the winners of our 2024 Music Ally SI:X startups contest.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f466f540e45d",
+          "title": "Traditional Arabesk music is proving popular with young Turks",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/19/traditional-arabesk-music-is-proving-popular-with-young-turks/",
+          "category": "musique",
+          "published_at": "2026-10-19T12:30:00+00:00",
+          "summary": "In Türkiye, Arabesk music has been popular since the 1960s: a genre that wears its heart firmly on its sleeve with themes of yearning, grief and unrequited love. Which, as it turns out, is striking a chord anew with young Turkish listeners in 2026.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48c60a900c34",
+          "title": "Digital agency Round raises £4m funding round for expansion",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/19/digital-agency-round-raises-4m-funding-round-for-expansion/",
+          "category": "musique",
+          "published_at": "2026-10-19T12:30:00+00:00",
+          "summary": "We’re used to writing about multi-million pound funding rounds for tech startups. Music marketing agencies&#8230; less so. Congratulations are thus due to Round Group, which works across music and entertainment, for a £4m round announced last week.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e83a5ab95f73",
+          "title": "Youth Music’s latest fund targets racial inequity in the arts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/19/youth-musics-latest-fund-targets-racial-inequity-in-the-arts/",
+          "category": "ia",
+          "published_at": "2026-10-19T12:30:00+00:00",
+          "summary": "British charity Youth Music has a new fund, and it has a clear aim: tackling racial inequity in the arts. The £2.4m fund will offer grants of up to £120k to organisations working on that challenge.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36eb2bfae22d",
+          "title": "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
+          "category": "cnil",
+          "published_at": "2026-10-19T12:00:00+00:00",
+          "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fcf4741128a",
+          "title": "Voici les grandes étapes du Starship que le calendrier de la NASA fixe à SpaceX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2355957-voici-les-grandes-etapes-du-starship-que-le-calendrier-de-la-nasa-fixe-a-spacex.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-19T11:31:00+00:00",
+          "summary": "La NASA a présenté début octobre 2026, au Congrès international d'astronautique, le calendrier détaillé que SpaceX doit suivre pour poser des astronautes sur la Lune avec Starship. Il prévoit un atterrissage lunaire sans équipage fin 2027, quelques mois avant la première mission…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8cb1ffb1d657",
+          "title": "New studies explore AI expectations, jobs impact and gender gap",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/19/new-studies-explore-ai-expectations-jobs-impact-and-gender-gap/",
+          "category": "musique",
+          "published_at": "2026-10-19T11:30:00+00:00",
+          "summary": "Beyond the AI-music debates that have been gripping our industry, there’s a lot to think about in terms of the other ways AI will affect our jobs and wider society. Several studies published in recent days offer new perspectives on that.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "def489a1f066",
+          "title": "Des agents IA de Google DeepMind ont bouclé Minecraft en 27 heures en se répartissant les tâches",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2355781-des-agents-ia-de-google-deepmind-ont-boucle-minecraft-en-27-heures-en-se-repartissant-les-taches.html",
+          "category": "ia",
+          "published_at": "2026-10-19T11:00:00+00:00",
+          "summary": "Des chercheurs de Google DeepMind ont lancé quatre agents Gemini 4 Argon dans Minecraft. Sans aucune aide humaine, ils ont terminé le jeu de Mojang en 27 heures, selon une étude mise en ligne le 15 octobre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01c7187f0454",
+          "title": "Recherche française : la Cour des comptes remet les « key labs » sur le tapis",
+          "source": "Next INpact",
+          "url": "https://next.ink/262413/recherche-francaise-la-cour-des-comptes-remet-les-key-labs-sur-le-tapis/",
+          "category": "ia",
+          "published_at": "2026-10-19T10:44:00+00:00",
+          "summary": "Après la baisse des budgets de la recherche en France, la Cour des comptes plaide pour une baisse du nombre d&#8217;unités mixtes de recherche (UMR), ces laboratoires dans lesquels organismes de recherche et universités mettent des moyens en commun au service d&#8217;un même…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f78d9fd4b449",
+          "title": "Sony and Universal ask court to force Suno investor Lightspeed to testify about the ‘legal risk of training data’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
+          "category": "musique",
+          "published_at": "2026-10-19T10:37:19+00:00",
+          "summary": "The labels made their case in a filing in Boston federal court last Tuesday (October 13), opposing Lightspeed's motion to quash their subpoena.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93628e8855cd",
+          "title": "Shakira’s Las Mujeres Ya No Lloran tour has grossed $534M to date… as her 13-show Madrid residency closes with more than 700,000 fans",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/shakiras-las-mujeres-ya-no-lloran-tour-has-grossed-534m-to-date-as-her-13-show-madrid-residency-closes-with-more-than-700000-fans/",
+          "category": "ia",
+          "published_at": "2026-10-19T10:36:13+00:00",
+          "summary": "Shakira's team said demand for tourism and accommodation generated by the residency outstripped that of events including Pope Leo XIV's visit to the city and Formula 1.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "963b0154d360",
+          "title": "DOJ sues ticket broker REPS, alleging it made $120.8M profit reselling tickets to Beyoncé concerts and other shows after bypassing limits",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/doj-sues-ticket-broker-reps-alleging-it-made-120-8m-profit-reselling-tickets-to-beyonce-concerts-and-other-shows-after-bypassing-limits/",
+          "category": "musique",
+          "published_at": "2026-10-19T10:35:44+00:00",
+          "summary": "According to the complaint, REPS bought more than eight tickets to each of at least 83,000 events between January 2022 and October 2025.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb9cf9c982fc",
+          "title": "Maree Hamblion promoted to EVP, A&R and Creative, Australia and New Zealand, at Universal Music Publishing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/maree-hamblion-promoted-to-evp-ar-and-creative-australia-and-new-zealand-at-universal-music-publishing/",
+          "category": "musique",
+          "published_at": "2026-10-19T10:34:01+00:00",
+          "summary": "Hamblion, who is based in Sydney, will lead UMPG's creative and talent development strategy in both markets.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bec07c126350",
+          "title": "UK politicians press CMA to investigate Live Nation’s market power before the end of 2026",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/uk-mps-press-cma-to-investigate-live-nations-market-power-before-the-end-of-2026/",
+          "category": "musique",
+          "published_at": "2026-10-19T10:32:50+00:00",
+          "summary": "The House of Commons' Business, Innovation, Science and Trade Committee renewed the call on Sunday (October 18), citing what it described as Live Nation's \"dominance\" across promotion, venues, festivals, and ticketing\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6676ced1a23a",
+          "title": "Drake and UMG sued by songwriter who claims ‘Janice STFU’ chorus is ‘literally identical’ to his demo",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/drake-and-umg-sued-by-songwriter-who-claims-janice-stfu-chorus-is-literally-identical-to-his-demo/",
+          "category": "ia",
+          "published_at": "2026-10-19T10:26:14+00:00",
+          "summary": "Aviel Calev Hirschfield alleges that the song's chorus is \"literally identical\" to one he completed in January 2026 and sent to producers who work with Drake.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5af1de4a6c5f",
+          "title": "☕️ Des serveurs Exchange fonctionnent mal depuis les mises à jour du 13 octobre",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/des-serveurs-exchange-fonctionnent-mal-depuis-les-mises-a-jour-du-13-octobre/",
+          "category": "ia",
+          "published_at": "2026-10-19T09:56:58+00:00",
+          "summary": "Les dernières mises à jour pour Windows Server, publiés le 13 octobre, engendrent des problèmes avec les serveurs Exchange sur site. Microsoft a confirmé ces perturbations, les versions concernées étant les 2016, 2019 et Subscription Edition. Ces défaillances sont liées à quatre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31cd8f5f1006",
+          "title": "N’achetez pas de smartphone sur Leboncoin, Vinted ou eBay après le 17 octobre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2355737-nachetez-pas-de-smartphone-sur-leboncoin-vinted-ou-ebay-apres-le-17-octobre.html",
+          "category": "ia",
+          "published_at": "2026-10-19T09:35:06+00:00",
+          "summary": "Alors que des pillages de boutiques sont survenus ce week-end du 17 octobre 2026 en France, mieux vaut ne pas se précipiter sur les smartphones à prix cassé proposés sur Leboncoin, Vinted ou eBay. Certaines bonnes affaires pourraient vous coûter cher.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87d7821da226",
+          "title": "Le noyau Linux 7.3 débarque avec une longue liste d’améliorations",
+          "source": "Next INpact",
+          "url": "https://next.ink/262598/le-noyau-linux-7-3-debarque-avec-une-longue-liste-dameliorations/",
+          "category": "ia",
+          "published_at": "2026-10-19T08:41:27+00:00",
+          "summary": "Après une longue gestation marquée par une montée en force de l’IA dans la détection des bugs, la version finale du noyau Linux 7.3 est arrivée. Les améliorations sont nombreuses, mais la disponibilité dépendra comme toujours de la distribution utilisée. Le noyau Linux 7.3 est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be0cb27a238c",
+          "title": "Avec Minions, Apple veut mettre à profit les GPU inactifs des Mac pour l’inférence",
+          "source": "Next INpact",
+          "url": "https://next.ink/262411/avec-minions-apple-veut-mettre-a-profit-les-gpu-inactifs-des-mac-pour-linference/",
+          "category": "ia",
+          "published_at": "2026-10-19T07:21:00+00:00",
+          "summary": "Apple a publié un article de recherche sur Minions, une infrastructure permettant d’agréger les ressources GPU inutilisées sur des grappes de Mac dotés de puce Apple Silicon. Si le concept n’a rien de nouveau, les travaux d’Apple prolongent l’existant et inscrivent un peu plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a675c6f14cb",
+          "title": "Avec Bee, Amazon propose de transcrire et résumer les conversations du quotidien",
+          "source": "Next INpact",
+          "url": "https://next.ink/262508/avec-bee-amazon-propose-de-transcrire-et-resumer-les-conversations-du-quotidien/",
+          "category": "ia",
+          "published_at": "2026-10-19T06:52:00+00:00",
+          "summary": "Les nouveaux appareils Bee veulent soulager la mémoire défaillante de leurs utilisateurs, en écoutant les conversations pour en tirer des résumés, des listes de tâches… et des suggestions d&#8217;achat sur Amazon. Qui n&#8217;aurait pas envie de partager toutes ses conversations…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "342625fcbfde",
+          "title": "☕️ L’App NVIDIA laisse les agents IA prendre les commandes par défaut",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lapp-nvidia-laisse-les-agents-ia-prendre-les-commandes-par-defaut/",
+          "category": "ia",
+          "published_at": "2026-10-19T06:31:00+00:00",
+          "summary": "La dernière version de l&#8217;app NVIDIA ouvre la porte aux agents IA. Le logiciel intègre en effet une nouvelle option, activée par défaut, qui permet aux agents de le contrôler. Pour les utilisateurs qui n&#8217;ont aucun usage de ces agents sur leurs machines, il est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "159b67a74fd7",
+          "title": "Yahoo Mail : dès mars 2027, il faudra consentir au ciblage publicitaire ou payer",
+          "source": "Next INpact",
+          "url": "https://next.ink/262521/yahoo-mail-des-mars-2027-il-faudra-consentir-au-ciblage-publicitaire-ou-payer/",
+          "category": "ia",
+          "published_at": "2026-10-19T06:05:00+00:00",
+          "summary": "Si le moteur de recherche de Yahoo a largement disparu du paysage, balayé par l&#8217;ouragan Google, plusieurs services de l&#8217;entreprise demeurent très utilisés. C&#8217;est le cas du courriel, et à partir de mars 2027, les utilisateurs devront faire un choix important…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39c684e56080",
+          "title": "☕️ Protection des mineurs : l’Arcom ouvre une enquête sur Mym",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/protection-des-mineurs-larcom-ouvre-une-enquete-sur-mym/",
+          "category": "ia",
+          "published_at": "2026-10-19T05:36:00+00:00",
+          "summary": "Le réseau social pour adultes Mym est dans le viseur de l&#8217;Arcom. Le régulateur des communications suspecte la plateforme de deux infractions au règlement européen sur les services numériques (DSA). Suite à une première analyse de conformité, l&#8217;Arcom a envoyé une…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "articles": [
