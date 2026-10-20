@@ -1,9 +1,454 @@
 {
-  "generated_at": "2026-10-19T15:58:43.187696+00:00",
+  "generated_at": "2026-10-20T13:33:27.637866+00:00",
   "days": [
+    {
+      "date": "2026-10-20",
+      "articles": [
+        {
+          "id": "cc658d7ead30",
+          "title": "Les Joy-Con 2 bleu et jaune de la Switch 2 passent en promo sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2356977-les-joy-con-2-bleu-et-jaune-de-la-switch-2-passent-en-promo-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-10-20T13:19:48+00:00",
+          "summary": "[Deal du jour] Sortis cet été en même temps que Splatoon Raiders, dont ils reprennent les couleurs, les Joy-Con 2 bleu et jaune clair de la Switch 2 tombent à 69,99 € sur Amazon, au lieu de 89,99 €. C'est leur prix le plus bas depuis leur lancement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "300f38a46ed6",
+          "title": "Orange éteint définitivement sa 2G : 1,7 million de SIM concernées, SFR et Bouygues suivront en décembre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2356997-orange-eteint-definitivement-sa-2g-17-million-de-sim-concernees-sfr-et-bouygues-suivront-en-decembre.html",
+          "category": "ia",
+          "published_at": "2026-10-20T13:13:01+00:00",
+          "summary": "Orange a coupé ce mardi 20 octobre 2026 son réseau 2G dans les 43 derniers départements de l'Hexagone où il fonctionnait encore. SFR et Bouygues Telecom feront de même d'ici la mi-décembre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27df6d25caf0",
+          "title": "Test de Final Fantasy Resonance : le retour aux sources qui touche en plein cœur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2356229-test-de-final-fantasy-resonance-le-retour-aux-sources-dont-la-saga-avait-besoin.html",
+          "category": "ia",
+          "published_at": "2026-10-20T13:00:00+00:00",
+          "summary": "Avec Final Fantasy Resonance, Square Enix revient à une formule plus classique pour sa série de JRPG culte. Loin de la vitrine clinquante que sont les épisodes de Final Fantasy VII Remake, ce nouvel opus, plus modeste, n'en est pas moins magnifique, et devrait plaire à une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "743bcb522f8a",
+          "title": "Molly Neuman on the Evolution of Independent Music From the ’90s to Now: ‘It Was a High-Risk Business’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/cd-baby-molly-neuman-evolution-indie-music-90s-now/",
+          "category": "musique",
+          "published_at": "2026-10-20T13:00:00+00:00",
+          "summary": "On the latest episode of Billboard On the Record, the CD Baby president talks the move from physical to digital and why 150,000 songs are now uploaded daily.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1a1b45497aa",
+          "title": "Recording Academy Chief Harvey Mason jr. Elected to Paley Los Angeles Board of Governors",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/harvey-mason-jr-paley-los-angeles-board-of-governors/",
+          "category": "ia",
+          "published_at": "2026-10-20T13:00:00+00:00",
+          "summary": "The L.A. board includes two of the top producers of TV variety programming: Jesse Collins of Jesse Collins Entertainment and Connie Orlando of BET Networks.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2039f7e1f126",
+          "title": "Direct-to-cell : la guerre des fréquences bat son plein dans les communications par satellite",
+          "source": "Next INpact",
+          "url": "https://next.ink/262851/direct-to-cell-la-guerre-des-frequences-bat-son-plein-dans-les-communications-par-satellite/",
+          "category": "ia",
+          "published_at": "2026-10-20T12:48:55+00:00",
+          "summary": "Pour communiquer directement avec les terminaux, les satellites ont besoin d’avoir des fréquences compatibles avec les puces des smartphones. SpaceX veut imposer Starlink et sort le chéquier à coups de milliards de dollars pour des fréquences. En Europe, la résistance s’organise…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "431213b12422",
+          "title": "‘Don’t Worry,’ Baby, Lady Gaga Hints at New Music on the Horizon",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/lady-gaga-hints-new-music-dont-worry-1236363425/",
+          "category": "musique",
+          "published_at": "2026-10-20T12:48:42+00:00",
+          "summary": "In a response to a fan comment, the new mom seemed to suggest that the wait for the first new music since Mayhem could be shorter than anticipated.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff60dbb1186e",
+          "title": "Spotify has blocked 50m ‘slop and spam tracks’ from its recommendations this year",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/20/spotify-has-blocked-50m-slop-and-spam-tracks-from-its-recommendations-this-year/",
+          "category": "musique",
+          "published_at": "2026-10-20T12:33:55+00:00",
+          "summary": "Earlier this month, a report from the Duke Sanford Tech Policy Program poked at Spotify&#8217;s policies around AI-generated music.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36a2e03f924b",
+          "title": "BMAC says industry layoffs raise ‘questions about who will lead next’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/20/bmac-says-industry-layoffs-raise-questions-about-who-will-lead-next/",
+          "category": "musique",
+          "published_at": "2026-10-20T12:30:00+00:00",
+          "summary": "The latest round of layoffs and reorganisation at Universal Music Group – together with similar recent cuts at its rival majors – has sparked a warning from the US-based Black Music Action Coalition (BMAC).\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "379525135bcc",
+          "title": "Labels’ fail in bid to get Supreme Court to overturn termination-rights ruling",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/20/labels-fail-in-bid-to-get-supreme-court-to-overturn-termination-rights-ruling/",
+          "category": "musique",
+          "published_at": "2026-10-20T12:30:00+00:00",
+          "summary": "The three major labels and BMG have failed in their bid to get the US Supreme Court to overturn a ruling that artists can exert their ‘termination rights’ to regain their copyrights globally, not just in the US.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99607584421e",
+          "title": "Despite record revenues, APRA Amcos issues local streaming warning",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/20/despite-record-revenues-apra-amcos-issues-local-streaming-warning/",
+          "category": "musique",
+          "published_at": "2026-10-20T12:30:00+00:00",
+          "summary": "Australasian collecting society APRA Amcos had some good news in its annual financials report this week, but also a new warning about the declining stream-share for local artists.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92e6fccfd80b",
+          "title": "Too Lost’s latest expansion is a deal with Xelon Entertainment",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/20/too-losts-latest-expansion-is-a-deal-with-xelon-entertainment/",
+          "category": "ia",
+          "published_at": "2026-10-20T12:30:00+00:00",
+          "summary": "Distributor and tech firm Too Lost&#8217;s ambitions in the APAC region continue. It acquired Australian distributor and artist-services company Gyro·Group in July, and now it has announced a partnership with another distributor, Xelon Entertainment.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "808fdd8b581e",
+          "title": "Riot Games’ virtual group K/DA return with a new (human) singer",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/20/riot-games-virtual-group-k-da-return-with-a-new-human-singer/",
+          "category": "musique",
+          "published_at": "2026-10-20T12:30:00+00:00",
+          "summary": "Riot Games, the publisher of esports hit League of Legends, has a long history of spinning virtual artists out of its powerhouse franchise. K/DA, True Damage, Pentakill and Heartsteel have been used to explore the crossover between games and music.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d01f8d2d3c4",
+          "title": "Un homme accusé à tort de crime sexuel par l’IA de Google, l’entreprise jugée responsable",
+          "source": "Next INpact",
+          "url": "https://next.ink/262894/un-homme-accuse-a-tort-de-crime-sexuel-par-lia-de-google-lentreprise-jugee-responsable/",
+          "category": "ia",
+          "published_at": "2026-10-20T12:14:00+00:00",
+          "summary": "Le mode IA de Google a indiqué à certains internautes qu’un médecin d’Aix-la-Chapelle avait été condamné pour agression sexuelle, des faits qui concernaient un autre homme. La Justice estime Google responsable du contenu produit. Un médecin d&#8217;Aix-la-Chapelle a découvert…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "85a0c4dcf6af",
+          "title": "Andrew Watt Reveals He and Ozzy Osbourne Made Unheard Songs For a ‘Specific Reason’ Before Rocker’s Death",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/andrew-watt-unheard-songs-ozzy-osbourne-specific-reason-1236363420/",
+          "category": "ia",
+          "published_at": "2026-10-20T12:09:10+00:00",
+          "summary": "He said they listened to the songs before Ozzy's final show, though they're \"hard\" for him to play now.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d3c5fcc1d562",
+          "title": "Star Wars Battlefront 3 en route chez Bungie (Halo) ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2356713-star-wars-battlefront-3-enfin-en-preparation-avec-un-duel-dice-vs-bungie-halo.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-20T12:05:00+00:00",
+          "summary": "Après des années de silence radio, la franchise Star Wars Battlefront refuse de mourir. Lucasfilm cherche un studio pour développer Battlefront 3, selon la rubrique de rumeurs Quartermann du magazine EGM. Le journaliste Jeff Grubb en a aussi parlé ce lundi 19 octobre dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f557ed9c5e6",
+          "title": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
+          "category": "cnil",
+          "published_at": "2026-10-20T12:00:00+00:00",
+          "summary": "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "229201a03f6c",
+          "title": "Spotify has pulled more than 50m ‘AI slop and spam’ tracks out of its recommendations this year",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-has-pulled-more-than-50m-ai-slop-and-spam-tracks-out-of-its-recommendations-this-year/",
+          "category": "musique",
+          "published_at": "2026-10-20T11:51:25+00:00",
+          "summary": "'AI-generated slop and spam don't belong in your recommendations, and we've made changes to keep them out and protect the listening experience,' Spotify said in a blog post.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b25414a08a3",
+          "title": "Just 4 Noise launches ethically-trained AI kick-drum generator",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/20/just-4-noise-launches-ethically-trained-ai-kick-drum-generator/",
+          "category": "justice",
+          "published_at": "2026-10-20T11:43:00+00:00",
+          "summary": "Your interest level in Just 4 Kicks will depend on how much use you have for kick-drum samples. But even if that&#8217;s not your music-making bag, this launch reflects a wider, positive trend in the area of AI music.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a98570a2baf5",
+          "title": "☕️ Fonction publique : l’État veut une IA qui libère du temps",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/fonction-publique-letat-veut-une-ia-qui-libere-du-temps/",
+          "category": "ia",
+          "published_at": "2026-10-20T11:37:00+00:00",
+          "summary": "La direction générale de l’administration et de la fonction publique (DGAFP) a présenté sa revue stratégique de la fonction publique à l’horizon 2035-2050. Parmi les « grandes transitions » que la fonction publique doit absorber, le numérique et l’IA figurent en bonne place,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91a592648e2b",
+          "title": "Apple acquires team behind ‘ultimate audio editor for musicians’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/20/apple-acquires-team-behind-ultimate-audio-editor-for-musicians/",
+          "category": "ia",
+          "published_at": "2026-10-20T11:30:00+00:00",
+          "summary": "One of the unexpected bonuses (for nosy journalists at least) of Europe&#8217;s Digital Markets Act is that big tech companies have to publicly disclose some of their acquisitions, with the details published on the European Commission website.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4d61c1d88d14",
+          "title": "Subaru veut prouver qu’il sait faire de vraies voitures électriques sans Toyota",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2356757-subaru-veut-prouver-quil-sait-faire-de-vraies-voitures-electriques-sans-toyota.html",
+          "category": "ia",
+          "published_at": "2026-10-20T11:05:00+00:00",
+          "summary": "Subaru a montré le prototype de sa première plateforme électrique développée sans Toyota. Ses deux moteurs donnent 517 ch et le font passer de 0 à 100 km/h en moins de 4 secondes. Jusqu’ici, toutes les voitures électriques de la marque ont été développées avec son compatriote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b18e2b456382",
+          "title": "Jim Freeman, ex-Amazon Prime Video VP, joins Ticketmaster as CTO to lead ‘AI-first’ push",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jim-freeman-ex-amazon-prime-video-vp-joins-ticketmaster-as-cto-to-lead-ai-first-push/",
+          "category": "musique",
+          "published_at": "2026-10-20T11:04:08+00:00",
+          "summary": "The Live Nation-owned company hired Rachel Smith from Block and ex-Disney executive Chuck Mortimore as SVPs.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a02180436614",
+          "title": "Björn Ulvaeus invests in MAIA Universe, as sync platform strikes deals with BMG, Kobalt and WMG",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/abbas-bjorn-ulvaeus-invests-in-maia-universe-as-sync-platform-strikes-deals-with-bmg-kobalt-and-wmg/",
+          "category": "ia",
+          "published_at": "2026-10-20T10:59:26+00:00",
+          "summary": "MAIA has also secured investment from Max Martin's MxM, and the RMV studio team, led by Ludvig Andersson, son of ABBA member Benny Andersson.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f1415fced45",
+          "title": "☕️ Gérald Darmanin veut utiliser la reconnaissance faciale pour identifier les casseurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/gerald-darmanin-veut-utiliser-la-reconnaissance-faciale-pour-identifier-les-casseurs/",
+          "category": "ia",
+          "published_at": "2026-10-20T10:31:00+00:00",
+          "summary": "«&#160;Il faut être impitoyable envers les casseurs parce qu&#8217;ils trahissent la France », a déclaré Gérald Darmanin au JT de 20H de TF1 ce lundi 19 octobre, en réponse aux pillages effectués en marge des manifestations du samedi 17 octobre. «&#160;Il y a eu 2.513 gardes à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45a572ee9a87",
+          "title": "Amazon baisse le prix de ce radiateur connecté Dreo de 2000 W au bon moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2356517-amazon-baisse-le-prix-de-ce-radiateur-connecte-dreo-de-2000-w-au-bon-moment.html",
+          "category": "ia",
+          "published_at": "2026-10-20T10:05:09+00:00",
+          "summary": "[Deal du jour] Les températures baissent et les radiateurs d'appoint ressortent des placards, parfois avec la mauvaise surprise qu'ils ne fonctionnent plus. Amazon vend le radiateur à convection connecté de Dreo, un modèle de 2 000 watts qui chauffe sans ventilateur, à 129,99 €…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a6d9704453d",
+          "title": "☕️ Des boites mails du parti d’extrême droite allemand AFD piratées",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/des-boites-mails-du-parti-dextreme-droite-allemand-afd-piratees/",
+          "category": "ia",
+          "published_at": "2026-10-20T09:48:20+00:00",
+          "summary": "Le parti d&#8217;extrême droite allemand Alternative für Deutschland (AfD) a été touché par un « gigantesque vol de données »,&#160;explique le média Bild. Des pirates ont revendiqué la récupération de 421 179 emails provenant de boites de différents dirigeants du parti qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14cf6c35a6b3",
+          "title": "Des Micromania pillés au pire moment, avant GTA et Zelda : l’enseigne explique ce que deviennent vos précommandes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2356519-des-micromania-pilles-au-pire-moment-avant-gta-et-zelda-lenseigne-explique-ce-que-deviennent-vos-precommandes.html",
+          "category": "ia",
+          "published_at": "2026-10-20T09:40:00+00:00",
+          "summary": "Plusieurs magasins Micromania ont été pillés le 17 octobre 2026, à l’approche d’une fin d’année importante pour l’enseigne. Après avoir apporté son soutien aux salariés touchés, l’entreprise précise ce qui attend les clients ayant précommandé dans ces boutiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "feb12073f3a2",
+          "title": "« Supervision humaine minimale » : l’armée américaine veut envoyer des agents IA pirater ses ennemis",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2356515-supervision-humaine-minimale-larmee-americaine-veut-envoyer-des-agents-ia-pirater-ses-ennemis.html",
+          "category": "ia",
+          "published_at": "2026-10-20T09:10:00+00:00",
+          "summary": "Explorer des réseaux, se propager d’un appareil à l’autre et neutraliser des cibles : l’armée américaine veut confier des missions offensives à des agents IA. Une enquête de The Intercept, publiée le 19 octobre 2026, détaille ce projet encore en développement, baptisé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "838f85ebcf71",
+          "title": "Finalement, la très belle XPeng P7 va être vendue en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2356493-finalement-la-tres-belle-xpeng-p7-va-etre-vendue-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-10-20T09:05:00+00:00",
+          "summary": "Le vice-président de XPeng, Yu Tao, a annoncé que la berline coupé P7 allait être commercialisée en Europe. En revanche, le représentant chinois n'a pas précisé ni à quelle date ni à quel prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8acceecd72a6",
+          "title": "Détecter des séismes des semaines à l’avance : et si la clé était dans l’atmosphère ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2356563-detecter-des-seismes-des-semaines-a-lavance-et-si-la-cle-etait-dans-latmosphere.html",
+          "category": "ia",
+          "published_at": "2026-10-20T09:01:32+00:00",
+          "summary": "De nouveaux travaux disent pouvoir prédire les séismes plusieurs semaines à l'avance grâce aux perturbations repérées dans l'atmosphère. La méthode, testée sur douze cas en Chine, doit encore faire ses preuves avant de servir à la prévention.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c5fb0b0e0ca",
+          "title": "Microsoft considère les agents IA comme des « initiés » indignes de confiance",
+          "source": "Next INpact",
+          "url": "https://next.ink/262861/microsoft-considere-les-agents-ia-comme-des-inities-indignes-de-confiance/",
+          "category": "ia",
+          "published_at": "2026-10-20T08:55:24+00:00",
+          "summary": "Dans un billet publié ce 19 octobre, Microsoft évoque les inquiétudes grandissantes autour de la sécurité des agents IA. La société affirme que les modèles de pointe ne sont pas dignes de confiance et propose une série de mesures concrètes, dont une extension de son projet…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2eb92966692",
+          "title": "Le Starship sur la Lune fin 2027 : le calendrier détaillé que la NASA a fixé à SpaceX",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2355957-le-starship-sur-la-lune-fin-2027-le-calendrier-detaille-que-la-nasa-a-fixe-a-spacex.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-20T08:51:00+00:00",
+          "summary": "La NASA a présenté début octobre 2026, au Congrès international d'astronautique, le calendrier détaillé que SpaceX doit suivre pour poser des astronautes sur la Lune avec Starship. Il prévoit un atterrissage lunaire sans équipage fin 2027, quelques mois avant la première mission…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c35c96ce65b2",
+          "title": "Pluribus : un scénario « complètement fou » et un tournage imminent, la saison 2 passe à l’attaque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2356497-pluribus-un-scenario-completement-fou-et-un-tournage-imminent-la-saison-2-passe-a-lattaque.html",
+          "category": "ia",
+          "published_at": "2026-10-20T08:38:06+00:00",
+          "summary": "Les amateurs de thrillers tordus et d'intrigues peuvent enfin souffler (ou préparer leur rythme cardiaque). Dix mois après la fin de sa première saison sur Apple TV, Pluribus, la série de Vince Gilligan, le créateur de Breaking Bad, s'apprête à tourner sa saison 2.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9cf9268952e",
+          "title": "Volkswagen s’est allié à Xpeng pour sauver ses ventes de voitures électriques en Chine, ça commence mal",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2356553-volkswagen-sest-allie-a-xpeng-pour-sauver-ses-ventes-de-voitures-electriques-en-chine-ca-commence-mal.html",
+          "category": "ia",
+          "published_at": "2026-10-20T08:32:08+00:00",
+          "summary": "Pour contrer les ventes en berne de ses voitures électriques en Chine, Volkswagen s'est allié à Xpeng. Mais les premiers chiffres de vente du SUV électrique ID. UNYX 08 sont décourageants. Erreur de casting ou simple retard à l'allumage ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94f04bc694db",
+          "title": "Meta voulait s’accorder le droit de moissonner les contenus de ses utilisateurs pros",
+          "source": "Next INpact",
+          "url": "https://next.ink/262437/meta-voulait-saccorder-le-droit-de-moissonner-les-contenus-de-ses-utilisateurs-pros/",
+          "category": "ia",
+          "published_at": "2026-10-20T06:23:15+00:00",
+          "summary": "Les nouvelles conditions d&#8217;utilisation de Meta prévoyaient à partir du 30 octobre la possibilité de moissonner le contenu des pages web associées à des utilisateurs professionnels. Les organisations gérant une page Facebook ou Instagram auraient dû autoriser le géant des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cbdc05d8d68a",
+          "title": "Pitch Music & Arts Unveils 2027 Lineup for 10th Anniversary Edition",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/pitch-music-arts-2027-lineup-1236363410/",
+          "category": "ia",
+          "published_at": "2026-10-20T05:57:45+00:00",
+          "summary": "CHRIS STASSY, Chlär, CLOUDY, Peach, Patrick Mason, HAAi and X CLUB. among the artists heading to Victoria’s Grampians in March 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7cc1a59eac08",
+          "title": "Le client en ligne de commande d’OVHcloud compromis par un pirate sur GitHub",
+          "source": "Next INpact",
+          "url": "https://next.ink/262824/le-client-en-ligne-de-commande-dovhcloud-compromis-par-un-pirate-sur-github/",
+          "category": "ia",
+          "published_at": "2026-10-20T05:44:10+00:00",
+          "summary": "Un pirate a réussi à compromettre le client officiel en ligne de commande d&#8217;OVHcloud distribué via GitHub. Pendant quelques heures, le dépôt de l&#8217;hébergeur a distribué cette version piégée, dotée d&#8217;un code malveillant capable d&#8217;extraire les secrets…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "07d1f5a853b0",
+          "title": "Swae Lee Announces 2027 Australian Same Difference Tour",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/swae-lee-australian-tour-2027-same-difference-1236363395/",
+          "category": "musique",
+          "published_at": "2026-10-20T04:43:10+00:00",
+          "summary": "The rapper and singer will play five East Coast and West Coast dates in January, supporting his debut solo album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c3a44b88f7b",
+          "title": "JOP From Fuerza Regida Accepts the Publisher of the Year Award for Street Mob | Latin Music Power Players 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/jop-from-fuerza-regida-accepts-publisher-of-the-year-award/",
+          "category": "musique",
+          "published_at": "2026-10-20T03:05:21+00:00",
+          "summary": "Fuerza Regida’s JOP accepts the Publisher of the Year Award for Street Mob from Billboard’s Leila Cobo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32366d3b1830",
+          "title": "Omar Al-Joulani Presents Hans Schafer with Executive of the Year | Latin Music Power Players 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/omar-al-joulani-presents-hans-schafer-executive-of-the-year/",
+          "category": "musique",
+          "published_at": "2026-10-20T03:04:17+00:00",
+          "summary": "Hans Schafer accepts Executive of the Year from Omar Al-Joulani.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "articles": [
+        {
+          "id": "f0687a457246",
+          "title": "‘I HAVE A NEW OUTLOOK  NOW: IT’S SUPPOSED  TO BE FUN; IT’S NOT  SUPPOSED TO BE SCARY’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/i-have-a-new-outlook-now-its-supposed-to-be-fun-its-not-supposed-to-be-scary/",
+          "category": "musique",
+          "published_at": "2026-10-19T19:25:20+00:00",
+          "summary": "Music school dropout Sasha Alex Sloan has already co-written hits with three of the biggest (and most influential) pop stars of the last few years – Camila Cabello, Charli XCX, and Olivia Rodrigo. And she’s only just getting started…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d8361e269b17",
+          "title": "‘The only way to properly create value in music is to make lasting copyrights.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/aaron-bay-schuck-the-only-way-to-properly-create-value-in-music-is-to-make-lasting-copyrights/",
+          "category": "musique",
+          "published_at": "2026-10-19T16:35:28+00:00",
+          "summary": "Newly confirmed as sole Chairman and CEO of Warner Records Group, Aaron Bay-Schuck tells MBW why patience beats volume, why WMG needs two frontline label groups, and why the AI flood only makes a very human record company worth more...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7fe2be96ea1b",
+          "title": "☕️ Les États-Unis bannissent l’IA chinoise DeepSeek dans l’administration civile fédérale",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/les-etats-unis-bannissent-lia-chinoise-deepseek-dans-ladministration-civile-federale/",
+          "category": "ia",
+          "published_at": "2026-10-19T16:24:34+00:00",
+          "summary": "Le département états-unien de la Sécurité intérieure (DHS) ordonne le retrait des produits DeepSeek et services tiers utilisant le modèle d&#8217;IA chinois des systèmes informatiques des agences civiles fédérales, rapporte l&#8217;agence Reuters. Le DHS leur interdit également…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "247da19f1e7d",
           "title": "Next, un pacte : trois ans plus tard, toujours INtact ?",
