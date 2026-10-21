@@ -1,9 +1,374 @@
 {
-  "generated_at": "2026-10-20T13:33:27.637866+00:00",
+  "generated_at": "2026-10-21T13:48:35.335679+00:00",
   "days": [
+    {
+      "date": "2026-10-21",
+      "articles": [
+        {
+          "id": "0be9ee3f6ecb",
+          "title": "Is music’s next great licensing failure already underway?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/is-musics-next-great-licensing-failure-already-underway/",
+          "category": "ia",
+          "published_at": "2026-10-21T13:47:41+00:00",
+          "summary": "As Grand Theft Auto VI nears launch, AI tools like GPT-6 Astra are turning prompts into playable games. Deviate Digital founder Sammy Andrews warns that music could be about to miss another platform shift…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41bc1fb49ec9",
+          "title": "Amy Winehouse’s ‘Back to Black’ at 20, an Oral History: ‘It Was Just Like Magic’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/amy-winehouse-back-to-black-20-years-oral-history/",
+          "category": "musique",
+          "published_at": "2026-10-21T13:14:38+00:00",
+          "summary": "Collaborators behind the landmark album reflect on the singer-songwriter’s sophomore LP and her brilliance as an artist (and as a pool player).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3f32fc53658",
+          "title": "Julia Stiles Pays Emotional Tribute to Late ’10 Things I Hate About You’ Co-Star Heath Ledger on ‘Dancing With the Stars’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/julia-stiles-tribute-heath-ledger-dancing-with-the-stars-watch-1236364362/",
+          "category": "ia",
+          "published_at": "2026-10-21T13:13:21+00:00",
+          "summary": "She and partner Ezra Sosa danced to Frankie Valli's \"Can't Take My Eyes Off You\" on Tuesday (Oct. 20) in homage to Ledger, who died in 2008.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5bbb18e87d5",
+          "title": "Jordan Davis’ Latest Radio Single Is a ‘Mess’: ‘The Melody Just Locked Me In’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/jordan-davis-mess-makin-tracks-1236364137/",
+          "category": "musique",
+          "published_at": "2026-10-21T13:02:52+00:00",
+          "summary": "Billboard's Makin' Tracks column looks at the writing and recording behind the new Jordan Davis release, \"Mess.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "191f8f4570fa",
+          "title": "Live events marketing platform Hive raises $27M Series B from Frontier Growth",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-events-marketing-platform-hive-raises-27m-series-b-from-frontier-growth/",
+          "category": "musique",
+          "published_at": "2026-10-21T13:00:55+00:00",
+          "summary": "More than 1,600 venues, promoters, and festivals use the platform, which Hive says has helped its customers generate more than $1 billion in ticket sales.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bb842bb760e4",
+          "title": "Interscope Geffen A&M names Michelle An President & Chief Creative Officer, promotes Laura Carter and Ramon Alvarez-Smikle to Co-Presidents, Urban",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/interscope-geffen-am-names-michelle-an-president-chief-creative-officer-promotes-laura-carter-and-ramon-alvarez-smikle-to-co-presidents-urban/",
+          "category": "ia",
+          "published_at": "2026-10-21T13:00:08+00:00",
+          "summary": "IGA said the new Creative and Urban leadership roles are 'designed to give artists deeper partnership and more ways to break through'\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6749a4121ea",
+          "title": "Here’s Where Genre-Bending Albums From Rosalía, Noah Kahan, Charli xcx & More Landed on 2027 Grammy Ballot",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/2027-grammy-ballot-genre-bridging-albums/",
+          "category": "musique",
+          "published_at": "2026-10-21T13:00:00+00:00",
+          "summary": "Music doesn’t always neatly fit into boxes, but awards shows are built around categories.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6504cdeb8db2",
+          "title": "Spotify adds Believe to its slate of fan-remixes licensing deals",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/21/spotify-adds-believe-to-its-slate-of-fan-remixes-licensing-deals/",
+          "category": "musique",
+          "published_at": "2026-10-21T12:30:00+00:00",
+          "summary": "Will Spotify’s upcoming fan-remixes tool launch by the end of 2026? That’s still unclear, but the company does have a new licensing partner for its GenAI plans: Believe.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bbaf840a430",
+          "title": "Music-tech funding: ArtMaster bags $2.4m and Chaos raises £1m",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/21/music-tech-funding-artmaster-bags-2-4m-and-chaos-raises-1m/",
+          "category": "musique",
+          "published_at": "2026-10-21T12:30:00+00:00",
+          "summary": "Today brings news of two promising music-tech startups raising early funding: music-education firm ArtMaster and collaboration platform Chaos.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e63f830751e",
+          "title": "UK update: BBC campaign, Beatles plans, Luminate stats, MVT festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/21/uk-update-bbc-campaign-beatles-plans-luminate-stats-mvt-festival/",
+          "category": "musique",
+          "published_at": "2026-10-21T12:30:00+00:00",
+          "summary": "It’s a busy day for news from the UK music industry, with four stories from various parts of the ecosystem. Starting with a campaign from industry body UK Music to support public broadcaster the BBC.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e8536a66245",
+          "title": "Brands brew up drinks deals with Charli XCX and Blackpink’s Lisa",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/21/brands-brew-up-drinks-deals-with-charli-xcx-and-blackpinks-lisa/",
+          "category": "musique",
+          "published_at": "2026-10-21T12:30:00+00:00",
+          "summary": "Fancy a drink? Forget picking your poison though: today you can pick your pop star depending on whether you’re more interested in vodka or, er, mango coconut sticky rice beverages.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eaa61862c524",
+          "title": "Spotify’s creator-level ‘Memberships’ are just for podcasters",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/21/spotifys-creator-level-memberships-are-just-for-podcasters/",
+          "category": "musique",
+          "published_at": "2026-10-21T12:30:00+00:00",
+          "summary": "Spotify is rolling out the ‘Memberships’ subscriptions that it trailed earlier this year at its Investor Day event. However, as announced, they are just for podcasters&#8230; for now, at least.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce0063b94e85",
+          "title": "Country Profile – Philippines 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/21/country-profile-philippines-2026/",
+          "category": "musique",
+          "published_at": "2026-10-21T12:30:00+00:00",
+          "summary": "People in The Philippines are music mad, which is good news for a booming local market, even if exports may struggle. While most Western observers might think of Japan as the home of karaoke, The Philippines would beg to differ. Most houses have some kind of karaoke machine and…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d54a9164083d",
+          "title": "Spotify vérifie avec qui vous partagez votre abonnement Famille : voici ce que vous risquez",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2357837-spotify-verifie-avec-qui-vous-partagez-votre-abonnement-famille-voici-ce-que-vous-risquez.html",
+          "category": "ia",
+          "published_at": "2026-10-21T12:17:42+00:00",
+          "summary": "Spotify demande à certains abonnés Famille de scanner un QR code en présence du titulaire de l’offre. Contactée par Numerama, la plateforme confirme vérifier que les membres vivent à la même adresse. Un contrôle à effectuer sous 7 jours, avec des conséquences en cas d’échec.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61d5822b4629",
+          "title": "SoundExchange’s $3.4M lawsuit against Sonos put on hold until appeals court rules on its right to sue over unpaid royalties",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/soundexchanges-3-4m-lawsuit-against-sonos-put-on-hold-until-appeals-court-rules-on-its-right-to-sue-over-unpaid-royalties/",
+          "category": "ia",
+          "published_at": "2026-10-21T12:10:05+00:00",
+          "summary": "Paused since December 2025, the case remains on hold pending a New York federal appeals court ruling in the SoundExchange-SiriusXM dispute.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "827769bf80b6",
+          "title": "Orionides 2026 : quand et comment observer la pluie d’étoiles filantes dans la nuit du 21 au 22 octobre ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/561665-orionides-2026-quand-et-comment-observer-la-pluie-detoiles-filantes-dans-la-nuit-du-21-au-22-octobre.html",
+          "category": "ia",
+          "published_at": "2026-10-21T12:05:57+00:00",
+          "summary": "Alerte étoiles filantes : dans la nuit du 21 au 22 octobre 2026, un essaim d'étoiles filantes est à son pic d'activité. Il s'agit des Orionides, qui proviennent de la comète de Halley. Comment faire pour observer cette pluie de météores ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e527f1c0818",
+          "title": "Reservoir acquires rights to ‘Feliz Navidad’ star José Feliciano’s recorded music catalog",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reservoir-acquires-rights-to-feliz-navidad-star-jose-felicianos-recorded-music-catalog/",
+          "category": "musique",
+          "published_at": "2026-10-21T12:00:56+00:00",
+          "summary": "Deal also includes non-exclusive rights to Feliciano's name, image, and likeness\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7bfef4f194f",
+          "title": "Test de l’iPhone Duo : le produit Apple le plus cool depuis 10 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2355747-test-de-liphone-duo-le-produit-apple-le-plus-cool-depuis-10-ans.html",
+          "category": "ia",
+          "published_at": "2026-10-21T12:00:00+00:00",
+          "summary": "Après une semaine avec l'iPhone Duo, le retour à un iPhone traditionnel donne l'impression de revenir en arrière. L'écran mat du smartphone pliant, son format passeport et le très grand nombre de bonnes idées logicielles imaginées par Apple en font un des produits les plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "edd1c18d5d69",
+          "title": "Beth Sidwell appointed Director of Policy and Public Affairs at the BPI",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/beth-sidwell-appointed-director-of-policy-and-public-affairs-at-the-bpi/",
+          "category": "ia",
+          "published_at": "2026-10-21T11:53:05+00:00",
+          "summary": "She has served as the BPI's Head of Policy and Public Affairs since June 2023, having joined the organization in August 2021.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4509055c1a1e",
+          "title": "Beyoncé’s Parkwood asks court to make plaintiff and his lawyer pay for ‘objectively baseless’ second ‘Alien Superstar’ lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/beyonces-parkwood-asks-court-to-make-plaintiff-and-his-lawyer-pay-for-objectively-baseless-second-alien-superstar-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-10-21T11:46:44+00:00",
+          "summary": "Parkwood Entertainment asked a judge to throw out the case permanently and to penalize Shuji Hirose and his attorney, DaShawn Hayes, for bringing it.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15d63d2a3bca",
+          "title": "Seigneur des anneaux : fin des rumeurs, Peter Jackson parle enfin du film Shadow of the Past",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2357815-seigneur-des-anneaux-fin-des-rumeurs-peter-jackson-parle-enfin-du-film-shadow-of-the-past.html",
+          "category": "ia",
+          "published_at": "2026-10-21T11:30:00+00:00",
+          "summary": "Alors que des rumeurs de mise en pause du projet après la fusion entre Paramount et Warner Bros. laissaient craindre le pire, Peter Jackson a donné des nouvelles de la franchise et du&nbsp;Seigneur des Anneaux Shadow of the Past",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5876ac06b085",
+          "title": "UMG wants to make Jeff Satur ’T-Pop’s first global superstar’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/21/umg-wants-to-make-jeff-satur-t-pops-first-global-superstar/",
+          "category": "musique",
+          "published_at": "2026-10-21T11:30:00+00:00",
+          "summary": "If you’re part of the western music industry, you might not have heard of Jeff Satur&#8230; but Universal Music Southeast Asia wants to change that.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1faad64b8a83",
+          "title": "Kroger and LG sued by Puppy Songs creator over alleged unlicensed use of TikTok hit ‘Cheese Tax’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/kroger-and-lg-sued-by-puppy-songs-creator-over-alleged-unlicensed-use-of-tiktok-hit-cheese-tax/",
+          "category": "ia",
+          "published_at": "2026-10-21T11:28:53+00:00",
+          "summary": "Each complaint seeks damages set by law of up to $150,000 per infringed work and a court order barring the company from further infringing Hobbs' rights.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a16b871da53",
+          "title": "AI piano-learning startup ArtMaster, previously backed by Robert Kyncl, raises $2.4M seed round, with Moises among new investors",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ai-piano-learning-startup-artmaster-previously-backed-by-robert-kyncl-raises-2-4m-seed-round-with-moises-among-new-investors/",
+          "category": "ia",
+          "published_at": "2026-10-21T11:20:02+00:00",
+          "summary": "ArtMaster is a Prague-based startup behind AI-powered piano learning app Artie\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "69a3346561c9",
+          "title": "Quels sont les meilleurs écouteurs sans fil de 2026 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/364736-guide-dachat-les-meilleurs-ecouteurs-vraiment-sans-fil.html",
+          "category": "ia",
+          "published_at": "2026-10-21T11:00:53+00:00",
+          "summary": "Pour vous éviter la frustration des écouteurs qui grésillent (et de jeter votre argent par la fenêtre), nous avons fait le tri : voici les seuls modèles sans fil de 2026 que nous recommandons les yeux fermés et que nous portons nous-mêmes au quotidien.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "668c1fa13b33",
+          "title": "Ce télescope découvre une comète inconnue, alors que ce n’est pas du tout sa mission",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2357759-ce-telescope-decouvre-une-comete-inconnue-alors-que-ce-nest-pas-du-tout-sa-mission.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-21T11:00:00+00:00",
+          "summary": "Une comète jamais vue auparavant a été découverte par le télescope Euclid. Une première pour ce satellite européen, dont la mission principale est de traquer la matière noire dans l'Univers lointain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf548ec76f53",
+          "title": "Starlink bridé en Ukraine : le gouvernement américain jette Elon Musk sous le bus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2357911-starlink-bride-en-ukraine-le-gouvernement-americain-jette-elon-musk-sous-le-bus.html",
+          "category": "ia",
+          "published_at": "2026-10-21T10:53:59+00:00",
+          "summary": "Marco Rubio, secrétaire d'État américain, a affirmé ce mercredi 21 octobre 2026 que l'accès de l'Ukraine à Starlink dépendait de SpaceX et d'Elon Musk. La veille, le Wall Street Journal affirmait que Musk aurait lui-même ordonné de brider le réseau militaire utilisé par Kiev.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6736d9cda19",
+          "title": "Faille PHP : fausse alerte pour les abonnés Freebox, une extension a trompé les détecteurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2357673-des-millions-de-freebox-exposees-aux-failles-php-quel-risque-pour-les-abonnes.html",
+          "category": "ia",
+          "published_at": "2026-10-21T10:38:33+00:00",
+          "summary": "Alors que l'équipe de PHP doit publier ce 21 octobre 2026 un correctif d'urgence pour deux failles critiques, un recensement mondial place la France très loin devant tous les autres pays, en partie à cause de Freebox OS.  Selon les informations de Frandroid, Freebox OS…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55beefbe8320",
+          "title": "Vous n’avez plus de réseau ? Orange et Sosh sont en panne, vous n’êtes pas seuls",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2357869-vous-navez-plus-de-reseau-orange-est-en-panne-vous-netes-pas-seuls.html",
+          "category": "ia",
+          "published_at": "2026-10-21T10:06:14+00:00",
+          "summary": "De très nombreux Français témoignent d'une panne Orange en cours ce mercredi 21 octobre 2026 au matin. Ils signalent ne plus avoir de réseau. Des clients de Sosh sont aussi affectés par le problème. Orange confirme des « perturbations », mais ne donne aucune explication.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6786435fbfa",
+          "title": "« Il a fait dérailler la saga », Resident Evil: Code Veronica est-il à l’origine du virage controversé de la série ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2357533-il-a-fait-derailler-la-saga-resident-evil-code-veronica-est-il-a-lorigine-du-virage-controverse-de-la-serie.html",
+          "category": "ia",
+          "published_at": "2026-10-21T09:40:00+00:00",
+          "summary": "Avant le retour en grâce de la série avec Resident Evil 7, la saga a connu plusieurs cafouillages. Pour cet ancien responsable chez Capcom, Resident Evil Code: Veronica serait le moment où tout a commencé à dérailler.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5508a08ebaf5",
+          "title": "WoW Forever : le stress test gratuit et ouvert à tous démarre dans la soirée du 21 octobre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2354075-wow-forever-le-stress-test-gratuit-et-ouvert-a-tous-demarre-dans-la-soiree-du-21-octobre.html",
+          "category": "ia",
+          "published_at": "2026-10-21T09:32:37+00:00",
+          "summary": "Un « Stress Test » de World of Warcraft: Forever et prévu le 21 octobre. Blizzard l'a confirmé officiellement, mais a décalé l'évènement de deux jours (une précédente date au 19 octobre était envisagée).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "015ac67b357e",
+          "title": "SpaceX sort une vidéo qui dévoile la future acrobatie du Starship",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2357617-spacex-sort-une-video-qui-devoile-la-future-acrobatie-du-starship.html",
+          "category": "ia",
+          "published_at": "2026-10-21T09:21:41+00:00",
+          "summary": "SpaceX va tenter de rattraper avec sa tour de lancement les deux étages de Starship lors de son 15e vol, prévu en novembre 2026. Si l'essai réussit, ce sera selon Elon Musk la première fusée orbitale récupérée en entier.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5a70707c80b",
+          "title": "Jamie Dornan sur Aragorn : « Pas une seule seconde je ne cherche à faire mieux que Viggo »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2357553-aragorn-sera-toujours-viggo-jamie-dornan-ne-veut-pas-faire-oublier-viggo-mortensen-dans-the-hunt-for-gollum.html",
+          "category": "ia",
+          "published_at": "2026-10-21T09:10:50+00:00",
+          "summary": "Jamie Dornan s'est exprimé sur la succession de Viggo Mortensen dans le rôle d'Aragorn. L'acteur n'entend pas faire oublier son aîné dans le film The Hunt for Gollum.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ef003ded451",
+          "title": "Les meilleurs jeux sur Nintendo Switch et Switch 2 à offrir ou à découvrir en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/344888-nintendo-switch-jeux-accessoires-bien-demarrer.html",
+          "category": "ia",
+          "published_at": "2026-10-21T09:00:00+00:00",
+          "summary": "Quels sont les meilleurs jeux sur Nintendo Switch en 2026 ? Des incontournables de la première Switch aux exclusivités Switch 2, Numerama sélectionne ses favoris pour vous aider à choisir votre prochaine aventure ou un jeu à offrir. À découvrir en solo, à deux ou en famille,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "922cfd51d145",
+          "title": "Jeff Satur Signs With Universal Music Southeast Asia",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/jeff-satur-signs-universal-music-southeast-asia-1236364306/",
+          "category": "musique",
+          "published_at": "2026-10-21T08:32:57+00:00",
+          "summary": "UM SEA has tentatively scheduled a Q2 2027 release date for Satur’s next album, his first through the major music company.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "articles": [
+        {
+          "id": "62b4def3d6e5",
+          "title": "ONErpm names Iasmine Amazonas Chief Marketing Officer as it restructures 200-person global marketing team",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/onerpm-names-iasmine-amazonas-chief-marketing-officer-as-it-restructures-200-person-global-marketing-team/",
+          "category": "ia",
+          "published_at": "2026-10-20T19:59:20+00:00",
+          "summary": "Isaac Miranda has also been named Global Marketing Director\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "cc658d7ead30",
           "title": "Les Joy-Con 2 bleu et jaune de la Switch 2 passent en promo sur Amazon",
