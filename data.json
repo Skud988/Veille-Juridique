@@ -1,9 +1,474 @@
 {
-  "generated_at": "2026-10-21T13:48:35.335679+00:00",
+  "generated_at": "2026-10-22T13:47:58.159970+00:00",
   "days": [
+    {
+      "date": "2026-10-22",
+      "articles": [
+        {
+          "id": "31c4acea6910",
+          "title": "☕️ L’iPhone d’Agnès Pannier-Runacher visé par un logiciel espion",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/liphone-dagnes-pannier-runacher-vise-par-un-logiciel-espion/",
+          "category": "ia",
+          "published_at": "2026-10-22T13:36:00+00:00",
+          "summary": "L&#8217;ancienne ministre de la Transition écologique, Agnès Pannier-Runacher, a été la cible d&#8217;une attaque via un logiciel espion. Politico a appris que l&#8217;actuelle députée Renaissance du Pas-de-Calais a déposé plainte fin septembre auprès de la DGSI après avoir reçu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f100110ea27",
+          "title": "Ghazi on Empire’s Global Expansion & Latin Music Growth | On the Record",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/ghazi-empire-global-expansion-latin-music-growth/",
+          "category": "musique",
+          "published_at": "2026-10-22T13:00:00+00:00",
+          "summary": "Global music has expanded far beyond its borders, with genres like Latin and Afrobeats reaching audiences around the world at a rate like never before. Live from Billboard Latin Music Week, Billboard On the Record host Kristin Robinson is joined by Ghazi, CEO/founder of EMPIRE,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05a335fd592c",
+          "title": "Tesla va livrer son robotaxi Cybercab à des clients qui ne pourront pas le faire rouler où ils veulent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2358881-tesla-va-livrer-son-robotaxi-cybercab-a-des-clients-qui-ne-pourront-pas-le-faire-rouler-ou-ils-veulent.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-22T12:30:26+00:00",
+          "summary": "Tesla veut livrer ses premiers Cybercab à des clients d'ici à la fin de l'année 2026, a annoncé ce mercredi 21 octobre Lars Moravy, vice-président de l'ingénierie du constructeur. Ce robotaxi sans volant ni pédales fait pourtant l'objet d'une enquête du régulateur fédéral…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92dd904e5eab",
+          "title": "Startups roundup: Moises x SoundCloud, Corite shutdown, FestIndex",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/startups-roundup-moises-x-soundcloud-corite-shutdown-festindex/",
+          "category": "musique",
+          "published_at": "2026-10-22T12:30:00+00:00",
+          "summary": "AI-music startup Moises has inked its latest partnership, with SoundCloud. It’s a promotional deal that includes a technical integration, with artists on SoundCloud able to export their tracks into Moises for mixing, mastering and stem separation.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28496a5a1bdc",
+          "title": "Meta says Threads now has more monthly active users than X",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/meta-says-threads-now-has-more-monthly-active-users-than-x/",
+          "category": "musique",
+          "published_at": "2026-10-22T12:30:00+00:00",
+          "summary": "There has been speculation for months that Meta’s Threads social network was about to overtake its arch-rival X (formerly Twitter) for monthly users. Now – at least according to Meta boss Mark Zuckerberg – it has happened.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cbeb233b6082",
+          "title": "Event-marketing firm Hive raises $27m Series B funding round",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/event-marketing-firm-hive-raises-27m-series-b-funding-round/",
+          "category": "musique",
+          "published_at": "2026-10-22T12:30:00+00:00",
+          "summary": "Hive has helped its 1,600-plus venue, promoter and festival clients to sell more than $1bn of tickets using its event-marketing platform. Now it’s raised some money of its own to continue growing.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccff3b70270e",
+          "title": "Julia Stiles Reached Out to Michelle Williams to Get Her Blessing For ‘DWTS’ Routine Dedicated to Heath Ledger",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/lifestyle/julia-stiles-reached-out-michelle-williams-blessing-dwts-ledger-1236365619/",
+          "category": "ia",
+          "published_at": "2026-10-22T12:20:41+00:00",
+          "summary": "Tuesday night's (Oct. 20) moving 10 Things I Hate About You dance paid homage to the late actor who shared a daughter with Williams.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd8742ed9355",
+          "title": "Suno and Anthropic sued by Reservoir for infringing songs by Joni Mitchell, Johnny Cash, Madonna and more",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reservoir-sues-suno-for-infringment-over-1050-songs-including-tracks-by-joni-mitchell-johnny-cash-madonna-and-more/",
+          "category": "ia",
+          "published_at": "2026-10-22T12:19:08+00:00",
+          "summary": "Reservoir also filed a separate lawsuit against Anthropic in the same court on the same day.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a47fe646b969",
+          "title": "Reservoir Sues Suno & Anthropic in Latest Lawsuits Over AI Music: ‘Meant to Replace the Artists’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/reservoir-sues-suno-anthropic-over-ai-training/",
+          "category": "musique",
+          "published_at": "2026-10-22T12:11:54+00:00",
+          "summary": "The indie publisher says the AI labs stole songs by Madonna and Johnny Cash to train their models to spit out new ones.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "022773c5551f",
+          "title": "Spotify is on course for $3.3B annual operating profit in 2026 – after adding 6M subscribers in Q3",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-is-on-course-for-a-3-3b-annual-operating-profit-in-2026-after-adding-6m-subscribers-in-q3/",
+          "category": "musique",
+          "published_at": "2026-10-22T11:40:03+00:00",
+          "summary": "Spotify published its financial results for Q3 2026 (the three months to the end of September) earlier today (October 22).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97f8038496f8",
+          "title": "Anthropic takes on Meta Muse and OpenAI Dots with Claude Duet",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/anthropic-takes-on-meta-muse-and-openai-dots-with-claude-duet/",
+          "category": "musique",
+          "published_at": "2026-10-22T11:30:00+00:00",
+          "summary": "It’s a strange moment for AI and humanity. Lots of headlines about how unregulated frontier-models could kill us all in the next decade – but of course, the big AI firms have some ideas on how that regulation should work – and growing unrest around the impact of the data centres…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7dad7cee20e",
+          "title": "Arijit Singh, Karan Aujla to co-headline Shah Rukh Khan-curated music fest in Abu Dhabi",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/arijit-singh-karan-aujla-to-co-headline-shah-rukh-khan-curated-music-fest-in-abu-dhabi/",
+          "category": "musique",
+          "published_at": "2026-10-22T11:25:14+00:00",
+          "summary": "Hindi film and Punjabi-language music are the two most-streamed categories on Indian DSPs and now the highest-played artists in those segments, Arijit Singh and Karan Aujla, will co-headline a music [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "974d0fdac676",
+          "title": "Universal Music aims for Grammy glory with new cross-cultural act IndiLat",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/universal-music-aims-for-grammy-glory-with-new-cross-cultural-act-indilat/",
+          "category": "musique",
+          "published_at": "2026-10-22T11:15:25+00:00",
+          "summary": "Universal Music India has launched IndiLat, a new cross-cultural act made up of composer-producers Siddhant Bhatia and Raghav Mehta from India, Cristóbal “Tibo” Gajardo from Chile, and Raniero Palm from [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44e997fa41bd",
+          "title": "Spotify Q3 2026 financial results reveal double-digit revenue and subscriber growth",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/spotify-q3-2026-financial-results/",
+          "category": "musique",
+          "published_at": "2026-10-22T10:22:19+00:00",
+          "summary": "Spotify is closing in on the milestone of 800 million active users this side of Christmas, based on its Q3 2026 financial results.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16e62b5c3bc1",
+          "title": "Amy Winehouse Honored With Stunning All-Star Tribute Concert Celebrating 20 Years of ‘Back to Black’: Best Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/amy-winehouse-back-to-black-tribute-concert-best-moments/",
+          "category": "musique",
+          "published_at": "2026-10-22T10:16:33+00:00",
+          "summary": "Jorja Smith, FLO, Sasha Keable and more took joined Amy's original band at the show at London's Roundhouse in Camden.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be5041594f64",
+          "title": "Spotify Subscriber Gains Beat Expectations, Driving Double-Digit Revenue Growth in Q3",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/spotify-q3-earnings-report-subscriber-gains-revenue-growth/",
+          "category": "musique",
+          "published_at": "2026-10-22T10:01:00+00:00",
+          "summary": "\"This was a quarter where we did what we said,\" said Spotify Co-CEO Alex Norström.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4727150126e",
+          "title": "OpenAI s’attaque à la migration des projets en COBOL",
+          "source": "Next INpact",
+          "url": "https://next.ink/263107/openai-sattaque-a-la-migration-des-projets-en-cobol/",
+          "category": "ia",
+          "published_at": "2026-10-22T09:53:03+00:00",
+          "summary": "OpenAI a de nouvelles envies de conquête, cette fois dans le champ de ce qu’elle nomme «&#160;les langages à faibles ressources&#160;». L’entreprise vise explicitement cette fois les vieux, voire très vieux langages, au premier rang desquels le COBOL. La promesse est de faire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d8b8524045c",
+          "title": "Des rafales à plus de 100 km/h : la tempête Austen s’apprête à balayer le nord-ouest de la France",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2358595-des-rafales-a-plus-de-100-km-h-la-tempete-austen-sapprete-a-balayer-le-nord-ouest-de-la-france.html",
+          "category": "ia",
+          "published_at": "2026-10-22T09:50:57+00:00",
+          "summary": "La tempête Austen approche de la France. Ce mercredi 21 octobre 2026, Météo-France a prévenu que cette « première tempête de l'automne » s'accompagnerait de rafales supérieures à 100 km/h en Bretagne, en Normandie et dans les Hauts-de-France. 10 départements seront en vigilance…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70c47f77a953",
+          "title": "Panne Orange : l’opérateur confirme l’origine de la panne qui a privé des millions d’abonnés de réseau",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2358399-panne-orange-une-migration-ratee-vers-la-5g-aurait-coupe-le-reseau-a-des-millions-dabonnes.html",
+          "category": "ia",
+          "published_at": "2026-10-22T09:45:27+00:00",
+          "summary": "De 11h20 à approximativement 20h30 mercredi 21 octobre, une partie des abonnés Orange et Sosh a été privée de réseau mobile. L'opérateur confirme les informations de Numerama selon laquelle la mise en service d'un nouveau cœur de réseau 5G est à l'origine du dysfonctionnement,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "86fe172cf81b",
+          "title": "Au fait, que signifie vraiment PHP ? L’acronyme a deux significations, une officielle, l’autre historique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2358805-au-fait-que-signifie-vraiment-php-lacronyme-a-deux-significations-une-officielle-lautre-historique.html",
+          "category": "ia",
+          "published_at": "2026-10-22T09:37:10+00:00",
+          "summary": "Le sigle PHP signifie officiellement « PHP: Hypertext Preprocessor », un acronyme dont la première lettre renvoie au sigle lui-même. Mais à sa naissance en 1994, le langage portait un nom bien plus modeste.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "276348490813",
+          "title": "Chappell Roan Brings Out Christina Aguilera at L.A. Concert: ‘Honestly Paved the Way for Me’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/chappell-roan-duets-christina-aguilera-la-concert-1236365547/",
+          "category": "musique",
+          "published_at": "2026-10-22T09:21:53+00:00",
+          "summary": "Aguilera performed \"Beautiful\" at the Super Graphic Spectacular concert before joining Roan for a duet of the latter artist's track \"Coffee.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74761a4a2dab",
+          "title": "Traquer les tricheurs sur Counter-Strike 2 : Valve recrute les joueurs pour renforcer son anticheat",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2358655-les-joueurs-de-counter-strike-2-peuvent-enfin-traquer-les-tricheurs-pour-ameliorer-lanticheat.html",
+          "category": "ia",
+          "published_at": "2026-10-22T09:15:00+00:00",
+          "summary": "Les tricheurs vous ont dégoûté de Counter-Strike 2 ? Valve élargit l’accès à un outil qui permet aux joueurs d’examiner des séquences suspectes pour aider son antitriche à progresser. De quoi rappeler des souvenirs aux habitués d’Overwatch sur CS:GO.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "edb2829c1804",
+          "title": "21 octobre 2026 : retour en détail sur cette journée noire pour la cybersécurité",
+          "source": "Next INpact",
+          "url": "https://next.ink/263123/21-octobre-2026-retour-en-detail-sur-cette-journee-noire-pour-la-cybersecurite/",
+          "category": "ia",
+          "published_at": "2026-10-22T09:12:39+00:00",
+          "summary": "Le mercredi 21 octobre restera certainement gravé dans les mémoires. Plusieurs failles d&#8217;importance ont été dévoilées : deux sur PHP permettant d&#8217;exécuter du code à distance, huit clés générées n&#8217;importe comment permettant de créer des certificats pour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a98a3f367458",
+          "title": "Fin du suspense pour les Gardiens : Chris Pratt confirme le retour de Star-Lord",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2358715-fin-du-suspense-pour-les-gardiens-chris-pratt-confirme-le-retour-de-star-lord.html",
+          "category": "ia",
+          "published_at": "2026-10-22T08:55:32+00:00",
+          "summary": "Plus de trois ans après avoir rangé le blaster à la fin des Gardiens de la Galaxie Vol. 3, Chris Pratt confirme que Star Lord reviendra dans l'univers Marvel. La scène post-générique de 2023 promettait que « le Légendaire Star-Lord sera de retour ». L'acteur assure que Marvel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b62b63873928",
+          "title": "Tesla revendique son « carnet de commandes le plus important en quatre ans », mais la production coince",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2358717-tesla-revendique-son-carnet-de-commandes-le-plus-important-en-quatre-ans-mais-la-production-coince.html",
+          "category": "ia",
+          "published_at": "2026-10-22T08:50:00+00:00",
+          "summary": "Tesla n’hésite pas à dire que la production actuelle ne suffit plus à répondre à la demande des clients. Mais derrière l’euphorie, l’approvisionnement en batteries et autres composants clés rappelle le constructeur à l’ordre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f1462d558e1",
+          "title": "Une méchante de Batman va avoir droit à sa propre série, et ça n’a aucun sens",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2358633-une-mechante-de-batman-va-avoir-droit-a-sa-propre-serie-et-ca-na-aucun-sens.html",
+          "category": "justice",
+          "published_at": "2026-10-22T08:47:30+00:00",
+          "summary": "DC Comics et Warner Bros. continuent de faire n'importe quoi avec les licences de super-héros. Deadline révèle qu'une série sur Poison Ivy serait en préparation, alors que le futur film Batman du DCU n'a toujours ni acteur ni date de sortie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95a49b75bde2",
+          "title": "☕️ DeepSeek est en passe de finaliser une levée de fonds de 15 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/deepseek-est-en-passe-de-finaliser-une-levee-de-fonds-de-15-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-10-22T08:39:57+00:00",
+          "summary": "Les montants n&#8217;ont encore rien de comparable avec les sommes que vont chercher les poids lourds états-uniens du secteur, mais ils témoignent d&#8217;une volonté d&#8217;accélération. D&#8217;après deux rapports distincts de Reuters et de Bloomberg, le Chinois DeepSeek est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b39239659e8",
+          "title": "Failles critiques dans PHP : comment savoir si son site est touché et quelle version du langage est utilisée ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2358601-failles-critiques-dans-php-comment-savoir-si-son-site-est-touche-et-quelle-version-du-langage-est-utilisee.html",
+          "category": "ia",
+          "published_at": "2026-10-22T08:35:16+00:00",
+          "summary": "Deux failles critiques dans PHP, corrigées ce mercredi 21 octobre 2026, ont poussé administrations et hébergeurs à couper des sites ou à les mettre en maintenance. Si votre site tourne sous WordPress, voici comment savoir quelle version de PHP il utilise, et à qui demander la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "824816a91344",
+          "title": "Anthropic dévoile Claude Duet, un agent IA qui travaille pour vous comme Muse (Meta) et Dots (OpenAI)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2358555-anthropic-devoile-claude-duet-un-agent-ia-qui-travaille-pour-vous-comme-muse-meta-et-dots-openai.html",
+          "category": "ia",
+          "published_at": "2026-10-22T08:26:24+00:00",
+          "summary": "Anthropic lance Claude Duet, une nouvelle application où Claude se transforme en assistant personnel. Cet agent IA surveille vos applications, vous envoie un résumé chaque matin et exécute des tâches en arrière-plan depuis une machine virtuelle dans le cloud.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53159d8f05b1",
+          "title": "Cambridge Analytica : Meta condamnée à payer 25 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/263256/cambridge-analytica-meta-condamnee-a-payer-25-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-10-22T08:18:27+00:00",
+          "summary": "L&#8217;entreprise de Mark Zuckerberg a été condamnée, suite à l&#8217;affaire Cambridge Analytica, à payer 25&#160;milliards de dollars dans l&#8217;État américain du Nouveau-Mexique pour avoir menti à ses utilisateurs concernant la confidentialité de leurs données. C&#8217;est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7c81a55576f",
+          "title": "Séisme près de Clermont-Ferrand : pourquoi une secousse de magnitude 3,6 s’est autant fait sentir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2358639-seisme-pres-de-clermont-ferrand-pourquoi-une-secousse-de-magnitude-36-sest-autant-fait-sentir.html",
+          "category": "ia",
+          "published_at": "2026-10-22T08:10:17+00:00",
+          "summary": "Un séisme de magnitude 3,6 a été détecté en France, près de Clermont-Ferrand, dans le Puy-de-Dôme. D'après les premières analyses, il n'y aurait pas de dégâts, mais de nombreuses villes alentour ont ressenti les tremblements.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f913a8061f5",
+          "title": "Tips Music released fewer film songs in Q2 FY 2027 than in Q1",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/tips-music-released-fewer-film-songs-in-q2-fy-2027-than-in-q1/",
+          "category": "musique",
+          "published_at": "2026-10-22T08:00:23+00:00",
+          "summary": "Tips Music’s revenue from operations rose 34.5% year-on-year to Rs120.1 crore (approx. $12.7 million) during Q2 FY2027 when profit after tax increased 23.5% to Rs65.7 crore (approx. $6.9 million). The [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d2d925267b24",
+          "title": "BioWare est mort, vive BioWare : voici les 5 jeux incontournables du studio",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2358593-bioware-est-mort-vive-bioware-voici-cinq-jeux-incontournables-du-studio.html",
+          "category": "ia",
+          "published_at": "2026-10-22T07:37:59+00:00",
+          "summary": "BioWare, studio canadien fondé en 1995, n'est plus. Il laissera derrière lui d'immenses souvenirs, liés à des jeux devenus cultes. Voici notre sélection hommage, des 5 meilleurs jeux de BioWare.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "622b4dd89d73",
+          "title": "Les parents sous-évaluent l’utilisation des IA génératives par les enfants",
+          "source": "Next INpact",
+          "url": "https://next.ink/263115/les-parents-sous-evaluent-le-temps-passe-par-les-enfants-sur-les-ia-generatives/",
+          "category": "ia",
+          "published_at": "2026-10-22T07:08:41+00:00",
+          "summary": "Un sondage effectué par YouGov pour le think tank européen Interface montre que les enfants de plus de 11 ans utilisent quasiment autant les IA génératives que leurs parents. Mais ceux-ci sous-évaluent cette fréquence d&#8217;utilisation. Les enfants souhaiteraient les utiliser…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7085d11d4cda",
+          "title": "‘The Great And Unmatched’: John Anderson Remembered by Blake Shelton, Tim McGraw & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/john-anderson-death-reaction-1236365421/",
+          "category": "musique",
+          "published_at": "2026-10-22T06:41:50+00:00",
+          "summary": "The country music community is paying tribute to Anderson, who died Wednesday, Oct. 21 at the age of 71.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eee67e157509",
+          "title": "Cyberpunk 2077 ajoute un style de combat spectaculaire dans sa nouvelle mise à jour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2358557-cyberpunk-2077-ajoute-un-style-de-combat-spectaculaire-dans-sa-nouvelle-mise-a-jour.html",
+          "category": "ia",
+          "published_at": "2026-10-22T06:33:24+00:00",
+          "summary": "Cyberpunk 2077 reçoit ce jeudi 22 octobre sa mise à jour 2.5, gratuite, sur PC, Mac, PlayStation 5 et Xbox Series X|S. Elle est là pour surfer sur la sortie de Cyberpunk: Edgerunners 2, série d'animation diffusée sur Netflix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aeef29787cad",
+          "title": "Adieu Dragon Age et Mass Effect : EA ferme le studio BioWare",
+          "source": "Next INpact",
+          "url": "https://next.ink/263243/adieu-dragon-age-et-mass-effect-ea-ferme-le-studio-bioware/",
+          "category": "justice",
+          "published_at": "2026-10-22T06:03:43+00:00",
+          "summary": "EA (Electronic Arts) engage une restructuration interne visant à se recentrer sur ses plus grandes licences, et explorer de nouveaux marchés. Dans ce contexte, l&#8217;éditeur annonce la fermeture du studio BioWare, créateur de Baldur&#8217;s Gate, Neverwinter Nights, Knights of…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52c3219ff70c",
+          "title": "WMG is merging its recorded-music and publishing sync divisions",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/wmg-is-merging-its-recorded-music-and-publishing-sync-divisions/",
+          "category": "musique",
+          "published_at": "2026-10-22T00:30:00+00:00",
+          "summary": "The reorganisations continue in major label-land, with Warner Music Group announcing that it is merging its recorded-music and publishing sync divisions.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "articles": [
+        {
+          "id": "64a0b2b12beb",
+          "title": "☕️ [MàJ] Fin d’incident sur le réseau mobile Orange, qui invoque la défaillance d’un équipement",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/orange-confirme-un-incident-en-cours-sur-son-reseau-mobile/",
+          "category": "ia",
+          "published_at": "2026-10-21T19:30:00+00:00",
+          "summary": "Mise à jour, 21h30 : Orange a annoncé le rétablissement de ses services dans un communiqué adressé par mail peu après 21 heures. L&#8217;opérateur ne s&#8217;étend pas en détail, pour l&#8217;instant, sur les causes de cette longue coupure. Il l&#8217;attribue simplement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf286b9e5af4",
+          "title": "Universal Music Group signs Thai artist Jeff Satur, aiming to make him ‘T-Pop’s first global superstar’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-signs-thai-artist-jeff-satur-aiming-to-make-him-t-pops-first-global-superstar/",
+          "category": "musique",
+          "published_at": "2026-10-21T16:21:41+00:00",
+          "summary": "The signing is the latest step in UMG's expansion in Thailand.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3bd23e4635bd",
+          "title": "Fuites de données : devant Bercy, des féministes demandent des comptes à l’État",
+          "source": "Next INpact",
+          "url": "https://next.ink/263136/moteurs-de-recherche-de-donnees-sensibles-des-associations-feministes-se-mobilisent/",
+          "category": "ia",
+          "published_at": "2026-10-21T15:29:42+00:00",
+          "summary": "Des associations féministes étaient mobilisées mardi pour demander une action plus ferme contre Brixhub, le moteur de recherche de données personnelles issues de fuites de données, et interpeller l&#8217;État sur son manque de protection des données des administrés. Elles…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21f9e52db749",
+          "title": "Warner Music Group unifies its recorded music and publishing sync teams under Ron Broitman",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-group-unifies-its-recorded-music-and-publishing-sync-teams-under-ron-broitman/",
+          "category": "musique",
+          "published_at": "2026-10-21T15:28:46+00:00",
+          "summary": "Ron Broitman has been promoted to President, Global Sync\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3cf82a93ed50",
+          "title": "Spotify cracks down on Family plan sharing – as Goldman Sachs estimates ‘meaningful share’ of users are ‘friends sharing a plan to reduce costs’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-cracks-down-on-family-plan-sharing-as-goldman-sachs-estimates-meaningful-share-of-users-are-friends-sharing-a-plan-to-reduce-costs/",
+          "category": "musique",
+          "published_at": "2026-10-21T15:16:36+00:00",
+          "summary": "Members who fail the check, or who don't complete it within seven days of being notified, can't join a different Family or Duo plan for 12 months.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b76f332f93a4",
+          "title": "Certificats TLS : n’importe qui pouvait certifier un site via des clés passoires",
+          "source": "Next INpact",
+          "url": "https://next.ink/262991/certificats-tls-nimporte-qui-pouvait-certifier-un-site-via-des-cles-passoires/",
+          "category": "ia",
+          "published_at": "2026-10-21T14:20:48+00:00",
+          "summary": "eMudhra, une entreprise indienne qui se targue d&#8217;avoir délivré plus de 60 millions de certificats numériques, utilisait des clés privées très mal générées. Résultat : n&#8217;importe qui pouvait les utiliser pour certifier un site. Le travail pour faire le ménage est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ea0e0a5ede3",
+          "title": "‘I would stop thinking the fan is the end of the value chain.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/i-would-stop-thinking-the-fan-is-the-end-of-the-value-chain/",
+          "category": "ia",
+          "published_at": "2026-10-21T14:14:11+00:00",
+          "summary": "Fave was founded in 2020 by Jacquelle Amankonah Horton, who spent nearly five years at YouTube on the creator side of the business. Here, the exec explains how she defines a superfan...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2b222b5585cf",
+          "title": "[MàJ] Failles critiques PHP : les correctifs sont en ligne et à installer rapidement",
+          "source": "Next INpact",
+          "url": "https://next.ink/262987/php-va-corriger-deux-vulnerabilites-critiques-aujourdhui/",
+          "category": "ia",
+          "published_at": "2026-10-21T13:57:23+00:00",
+          "summary": "PHP doit proposer à 16h00 des correctifs pour deux failles de sécurité critiques. Le calendrier pourrait toutefois changer en fonction des éventuelles fuites. En début d&#8217;après-midi, de nombreux sites sont passés en maintenance préventive. Mise à jour du 21 octobre,…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "0be9ee3f6ecb",
           "title": "Is music’s next great licensing failure already underway?",
@@ -315,6 +780,16 @@
           "summary_type": "extrait source"
         },
         {
+          "id": "3e5ca70815f1",
+          "title": "Mistral revient sur l’audio avec Voxtral 3 et entre dans les prévisions avec Timestral",
+          "source": "Next INpact",
+          "url": "https://next.ink/263031/mistral-revient-sur-laudio-avec-voxtral-3-et-entre-dans-les-previsions-avec-timestral/",
+          "category": "ia",
+          "published_at": "2026-10-21T09:22:47+00:00",
+          "summary": "Mistral a lancé récemment deux modèles spécialisés, Voxtral 3 pour transcription et la synthèse vocale et Timestral pour les «&#160;séries temporelles&#160;». Ce dernier doit permettre des prévisions sans réentrainement. Mistral avait lancé son premier modèle Voxtral en juillet…",
+          "summary_type": "extrait source"
+        },
+        {
           "id": "015ac67b357e",
           "title": "SpaceX sort une vidéo qui dévoile la future acrobatie du Starship",
           "source": "Numerama",
@@ -353,6 +828,16 @@
           "published_at": "2026-10-21T08:32:57+00:00",
           "summary": "UM SEA has tentatively scheduled a Q2 2027 release date for Satur’s next album, his first through the major music company.",
           "summary_type": "extrait source"
+        },
+        {
+          "id": "8504965e8ceb",
+          "title": "Gros consommateurs ou acteurs innovants ? Les data centers face au réusage de la chaleur",
+          "source": "Next INpact",
+          "url": "https://next.ink/262995/gros-consommateurs-ou-acteurs-innovants-les-data-centers-face-au-reusage-de-la-chaleur/",
+          "category": "ia",
+          "published_at": "2026-10-21T07:56:31+00:00",
+          "summary": "Que ce soit par les collectivités ou les opérateurs, la récupération de chaleur est fréquemment citée comme argument valorisant la présence de ces bâtiments au sein d&#8217;un territoire. En pratique, le chercheur Loup Cellard constate la complexité des négociations relatives à…",
+          "summary_type": "extrait source"
         }
       ]
     },
@@ -367,6 +852,36 @@
           "category": "ia",
           "published_at": "2026-10-20T19:59:20+00:00",
           "summary": "Isaac Miranda has also been named Global Marketing Director\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a683f4be922",
+          "title": "Élection brésilienne : Meta sommée de prouver qu’elle ne fait pas d’ingérence",
+          "source": "Next INpact",
+          "url": "https://next.ink/262932/election-bresilienne-meta-sommee-de-prouver-quelle-ne-fait-pas-dingerence/",
+          "category": "ia",
+          "published_at": "2026-10-20T15:22:00+00:00",
+          "summary": "Alors que le deuxième tour de la présidentielle brésilienne arrive, Meta est accusée d&#8217;avoir introduit des biais dans ses algorithmes, dans ses IA et dans son traitement de la modération pour favoriser Flávio Bolsonaro contre le président actuel Luiz Inácio Lula da Silva.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca02c01e8d7b",
+          "title": "☕️ OpenBSD 8.0 est disponible avec une foule d’améliorations sur le support matériel",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openbsd-8-0-est-disponible-avec-une-foule-dameliorations-sur-le-support-materiel/",
+          "category": "ia",
+          "published_at": "2026-10-20T15:01:32+00:00",
+          "summary": "OpenBSD n’est pas un système que l’on croise forcément tous les jours, à moins d’exercer un métier spécifique, notamment dans les réseaux. Ce système Unix s’est fait un nom depuis longtemps dans ce domaine, ses composants étant régulièrement repris dans de nombreux équipements.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e81d07b8861a",
+          "title": "Avec TorchNeuron, Amazon veut faciliter l’entraînement des modèles sur ses puces Trainium",
+          "source": "Next INpact",
+          "url": "https://next.ink/262948/avec-torchneuron-amazon-veut-faciliter-lentrainement-des-modeles-sur-ses-puces-trainium/",
+          "category": "ia",
+          "published_at": "2026-10-20T14:18:19+00:00",
+          "summary": "Amazon Web Services a présenté un nouveau projet open source, TorchNeuron. Il se propose de simplifier le passage aux puces Trainium d’AWS pour entrainer les modèles. Bien que NVIDIA ne soit pas nommée, le projet est clairement pensé comme une alternative à CUDA. PyTorch est…",
           "summary_type": "extrait source"
         },
         {
