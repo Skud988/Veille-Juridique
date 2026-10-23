@@ -1,9 +1,574 @@
 {
-  "generated_at": "2026-10-22T13:47:58.159970+00:00",
+  "generated_at": "2026-10-23T13:26:47.132932+00:00",
   "days": [
+    {
+      "date": "2026-10-23",
+      "articles": [
+        {
+          "id": "d90b69eb926d",
+          "title": "Best Last-Minute Halloween Costume Ideas Inspired by 2026’s Biggest Music & Pop Culture Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-celebrity-pop-culture-halloween-costume-ideas-2026-1236350415/",
+          "category": "musique",
+          "published_at": "2026-10-23T13:20:37+00:00",
+          "summary": "Bad Bunny’s Super Bowl shrubs &#38; Pitbull’s signature bald head are just a few of the looks worth re-creating this spooky season.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5d9b5ed28ca",
+          "title": "Just in Time For Halloween, Ryan Gosling Is Reviving His Spooky Rock Band Dead Man’s Bones",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/ryan-gosling-revives-spooky-rock-band-dead-mans-bones-1236367075/",
+          "category": "musique",
+          "published_at": "2026-10-23T13:16:01+00:00",
+          "summary": "The duo featuring the Barbie star and screenwriter/producer Zach Shields teased that new music is coming next week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3fb8d29f1595",
+          "title": "Elon Musk aurait investi 1 milliard dans Skydance (Paramount/Warner)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2359813-elon-musk-aurait-investi-1-milliard-dans-skydance-paramount-warner.html",
+          "category": "ia",
+          "published_at": "2026-10-23T12:55:00+00:00",
+          "summary": "Elon Musk aurait investi environ un milliard de dollars (environ 890 millions d'euros) dans Skydance, selon le média américain Semafor, qui a révélé l'information ce jeudi 22 octobre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d13a50b01b21",
+          "title": "☕️ 1Password permet aux agents d’utiliser les mots de passe, mais sans les voir",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/1password-permet-aux-agents-dutiliser-les-mots-de-passe-mais-sans-les-voir/",
+          "category": "ia",
+          "published_at": "2026-10-23T12:45:05+00:00",
+          "summary": "Le gestionnaire de mots de passe 1Password ajoute une nouvelle corde à son arc. Dans un billet publié le 22 octobre, l’entreprise a présenté une nouvelle plateforme baptisée «&#160;1Password for Agents&#160;» pour fluidifier l’utilisation des identifiants stockés dans la base,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d9e71e50f2b",
+          "title": "Tyger feat: adaptive gaming-music startup bags a deal with UMG",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/tyger-feat-adaptive-gaming-music-startup-bags-a-deal-with-umg/",
+          "category": "musique",
+          "published_at": "2026-10-23T12:30:00+00:00",
+          "summary": "Tyger is one of the startups working on adaptive music for games: music that shapeshifts to match what’s happening on-screen as people play. Now it’s got a deal with Universal Music Group to bolster its catalogue.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a02eb14641dc",
+          "title": "Reservoir hits Suno and Anthropic with copyright infringement lawsuits",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/reservoir-hits-suno-and-anthropic-with-copyright-infringement-lawsuits/",
+          "category": "ia",
+          "published_at": "2026-10-23T12:30:00+00:00",
+          "summary": "Reservoir Media is the latest music rightsholder taking aim at AI companies in the courts. It’s gone with a double-pronged attack, suing both Suno and Anthropic on the same day this week.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "12d6146c6e3d",
+          "title": "ADE and VibeLab’s Nighttime Culture Index tracks six cities",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/ade-and-vibelabs-nighttime-culture-index-tracks-six-cities/",
+          "category": "musique",
+          "published_at": "2026-10-23T12:30:00+00:00",
+          "summary": "With dancefloors and conference stages alike still bustling at the Amsterdam Dance Event (ADE), its organisers have teamed up with VibeLab for a new Nighttimme Culture Index tracking nightlife in six cities.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "26c92c4b8610",
+          "title": "Unified Music Group boss says fans can be found away from the feed",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/unified-music-group-boss-says-fans-can-be-found-away-from-the-feed/",
+          "category": "musique",
+          "published_at": "2026-10-23T12:30:00+00:00",
+          "summary": "As the founding CEO of Unified Music Group, Jaddan Comerford knows a thing or two (or 17) about helping Australian artists break globally. In an interview with Artist Ally, he’s been offering his advice for emerging artists.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "41a90dcee93d",
+          "title": "60 kWh dans 4 mètres de long : cette citadine continue de surprendre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2359877-60-kwh-dans-4-metres-de-long-cette-citadine-continue-de-surprendre.html",
+          "category": "ia",
+          "published_at": "2026-10-23T12:25:39+00:00",
+          "summary": "Firefly, la marque de Nio, vient de lancer une version de sa citadine de 4 mètres équipée d’une batterie de 60 kWh. Les constructeurs européens peuvent-ils faire autant ou mieux ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "306c6503249a",
+          "title": "Country Profile Philippines – Recap",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/country-profile-philippines-recap/",
+          "category": "musique",
+          "published_at": "2026-10-23T11:39:38+00:00",
+          "summary": "The Philippines has a recorded music market that is growing steadily, with a &#8220;young, mobile-first population, improved connectivity and a growth in consumption for local music.&#8221; While data costs remain relatively high, streaming now represents more than 90% of total…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1541b8d0251f",
+          "title": "Get ready to promote artist merch on Pinterest this holiday season",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/get-ready-to-promote-artist-merch-on-pinterest-this-holiday-season/",
+          "category": "musique",
+          "published_at": "2026-10-23T11:35:14+00:00",
+          "summary": "As more and more artist teams integrate Pinterest into their marketing campaigns, you might want to start planning for your holiday push on the platform. Pinterest says its users start planning, saving and comparing gift ideas well before Black Friday, so getting ready now means…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3aa40f204539",
+          "title": "Champi, typhon record à 300 km/h, comment El Niño et le réchauffement climatique ont amplifié la tempête",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2359781-champi-typhon-record-a-300-km-h-comment-el-nino-et-le-rechauffement-climatique-ont-amplifie-la-tempete.html",
+          "category": "ia",
+          "published_at": "2026-10-23T11:31:00+00:00",
+          "summary": "Avec des vents soutenus proches de 300 km/h à son pic, le typhon Champi est la tempête la plus violente de l'année. Il longe ce vendredi 23 octobre les côtes de Taïwan et devrait ensuite atteindre la Chine et le Japon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c156b97f179c",
+          "title": "How could Jade turn viral Victoria’s Secret success into long-term growth?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/how-could-jade-turn-viral-victorias-secret-success-into-long-term-growth/",
+          "category": "musique",
+          "published_at": "2026-10-23T11:30:30+00:00",
+          "summary": "Only a few days ago, on 18th October, Victoria’s Secret held its latest fashion show &#8211; resulting in various standout musical moments that were highly shared online. One of these moments saw Kylie Jenner taking to the catwalk soundtracked by British singer JADE’s debut…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bf91fe2ff88",
+          "title": "‘Spotify is now an agent’ – Co-CEO outlines company’s AI plan",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/spotify-is-now-an-agent-co-ceo-outlines-companys-ai-plan/",
+          "category": "musique",
+          "published_at": "2026-10-23T11:30:00+00:00",
+          "summary": "We’ve been following the burst of launches of personal agents – Meta’s Muse, OpenAI’s Dots and Anthropic’s Claude Duet – with keen interest recently. Unsurprisingly, so has Spotify.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "024d171be9dc",
+          "title": "YouTube report provides insight into latest AI UGC trend",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/youtube-report-provides-insight-into-latest-ai-ugc-trend/",
+          "category": "ia",
+          "published_at": "2026-10-23T11:27:01+00:00",
+          "summary": "YouTube has published a new Culture &#038; Trends report, looking at how people use generative AI to express themselves creatively – and it points to some interesting new UGC potential. In a survey of almost 700 US video posters aged 14 to 44, 72% said they use AI on their…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fa9139f99af",
+          "title": "GTA, WoW, Mario, CoD… cette plateforme de plus de 250 jeux gratuits sur navigateur ouvre une brèche difficile à refermer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2359681-gta-wow-mario-cod-cette-plateforme-de-plus-de-250-jeux-gratuits-sur-navigateur-ouvre-une-breche-difficile-a-refermer.html",
+          "category": "ia",
+          "published_at": "2026-10-23T10:52:00+00:00",
+          "summary": "Une plateforme rassemble des centaines de références accessibles sur navigateur. Un catalogue qui donne une vitrine aux portages de fans, alors que les outils de développement et l’IA facilitent leur création. Pour les éditeurs, faire retirer une version ne suffira pas forcément…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8e9a0b7d2a8",
+          "title": "1Password permet aux agents IA de se connecter à vos comptes, avec la promesse de ne jamais exposer vos mots de passe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2359721-1password-permet-aux-agents-ia-de-se-connecter-a-vos-comptes-avec-la-promesse-de-ne-jamais-exposer-vos-mots-de-passe.html",
+          "category": "ia",
+          "published_at": "2026-10-23T10:31:00+00:00",
+          "summary": "1Password a lancé 1Password for Agents, un système qui permet aux agents IA de se connecter aux comptes de leurs utilisateurs sans jamais voir les mots de passe. Dans un premier temps, seuls Muse, l'agent de Meta, et Grok Bot, celui de SpaceXSI, y ont accès, avec un déploiement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdfdd13a5684",
+          "title": "Joybuy brade une manette Zelda à 9,99 € pendant que celle des 40 ans reste introuvable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2359723-joybuy-brade-une-manette-zelda-a-999-e-pendant-que-celle-des-40-ans-reste-introuvable.html",
+          "category": "ia",
+          "published_at": "2026-10-23T09:45:21+00:00",
+          "summary": "[Deal du jour] La manette Pro des 40 ans de The Legend of Zelda est en rupture de stock, mais les fans d'Hyrule ont une solution de repli bien plus abordable. Joybuy vend la manette filaire Horipad Turbo de Hori, en édition Zelda, à 9,99 € au lieu de 29,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0129cf457d6a",
+          "title": "Le plan anti-voiture chinoise de l’Europe a encore une faille (et les clients s’y engouffrent déjà)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2359695-le-plan-anti-voiture-chinoise-de-leurope-a-encore-une-faille-et-les-clients-sy-engouffrent-deja.html",
+          "category": "ia",
+          "published_at": "2026-10-23T09:38:29+00:00",
+          "summary": "L’Europe pense avoir réussi à ralentir l’arrivée des véhicules chinois à coups de surtaxe douanière (pour les électriques) et de quota (pour les hybrides rechargeables). Sauf qu’une fenêtre est encore ouverte et les premiers véhicules s’y engouffrent déjà.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "047917d20e9b",
+          "title": "DNS : Quad9 quitte la France après avoir été condamnée face à BeIN pour défaut de blocage",
+          "source": "Next INpact",
+          "url": "https://next.ink/263502/dns-quad9-quitte-la-france-apres-avoir-ete-condamnee-face-a-bein-pour-defaut-de-blocage/",
+          "category": "justice",
+          "published_at": "2026-10-23T09:12:27+00:00",
+          "summary": "La fondation suisse qui fournit des services de DNS jette l&#8217;éponge en France après avoir été contrainte de bloquer des noms de domaine de sites de streaming sportifs dont BeIN Sports France avait les droits exclusifs. Les internautes français ne pourront bientôt plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b0bf7482caa9",
+          "title": "☕️ [MàJ] KeePassXC 2.8 disponible : compatibilité ARM64 et remplissage auto sur Wayland",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/keepass-xc-2-8-va-proposer-le-remplissage-automatique-sur-les-sessions-wayland/",
+          "category": "ia",
+          "published_at": "2026-10-23T09:09:24+00:00",
+          "summary": "Mise à jour du 23 octobre : La version finale de KeePassXC est désormais disponible au téléchargement. Comme prévu, elle introduit le remplissage automatique des identifiants dans les applications sur Linux au sein des sessions Wayland (via XDG Portals), marquant une nette…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e1a7fd7b94a",
+          "title": "‘She’s My Muse’: Adéla Lost It When Nicole Kidman Mentioned Her on Late-Night TV",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/adela-nicole-kidman-interview-performance-fallon-1236367047/",
+          "category": "ia",
+          "published_at": "2026-10-23T09:08:41+00:00",
+          "summary": "The rising Slovak pop star made her TV debut on \"The Tonight Show Starring Jimmy Fallon\" with an interview and performance of “Nicole Kidman” and “Ain't In LA.”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75718963ccbd",
+          "title": "Six failles dans le noyau Linux publiées « accidentellement » sur une liste publique",
+          "source": "Next INpact",
+          "url": "https://next.ink/263553/six-failles-dans-le-noyau-linux-publiees-accidentellement-sur-une-liste-publique/",
+          "category": "ia",
+          "published_at": "2026-10-23T09:00:06+00:00",
+          "summary": "La Zero Day Initiative de Trend Micro a envoyé six rapports de failles de sécurité sur des listes de diffusion publiques du noyau Linux, avec de nombreux détails. Le caractère accidentel de ces publications est contesté. Le danger, bien que limité, est réel pour certaines…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15c0bfd77d7b",
+          "title": "Zee Music Company to sharpen A&R focus, plans to sign five more artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/zee-music-company-to-sharpen-ar-focus-plans-to-sign-five-more-artists/",
+          "category": "musique",
+          "published_at": "2026-10-23T08:50:59+00:00",
+          "summary": "In March, Indian record label Zee Music Company announced that it had signed veteran pop act AdnanSami for “a series of original non-film singles”. Since then, it’s inked similar deals [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "979961780cd0",
+          "title": "I-Pop meets K-Pop in the Weverse Con Festival India line-up",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/23/i-pop-meets-k-pop-in-the-weverse-con-festival-india-line-up/",
+          "category": "musique",
+          "published_at": "2026-10-23T08:45:15+00:00",
+          "summary": "We don’t always cover festival line-ups at Music Ally South Asia but the bill for Weverse Con Festival India bears a bit of examination because this is the inaugural edition [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f4db86e8de6",
+          "title": "James Bond : voici les finalistes qui devraient incarner le prochain 007",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2359661-james-bond-voici-les-finalistes-qui-devraient-incarner-le-prochain-007.html",
+          "category": "ia",
+          "published_at": "2026-10-23T08:45:00+00:00",
+          "summary": "Le feuilleton interminable du casting de 007 touche enfin à sa fin. Selon les informations exclusives publiées par Deadline ce jeudi 22 octobre, Amazon MGM Studios organise à partir de ce vendredi 23 octobre les derniers essais filmés (screen tests) pour trouver le successeur de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d08e31262fad",
+          "title": "☕️ La dernière platine Blu-ray 4K de Sony disparaît au Japon",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-derniere-platine-blu-ray-4k-de-sony-disparait-au-japon/",
+          "category": "ia",
+          "published_at": "2026-10-23T08:42:00+00:00",
+          "summary": "Sony avait dévoilé en 2000 les premiers prototypes des disques Blu-ray, et trois ans plus tard, le constructeur lançait le premier lecteur. Une grande histoire qui se termine discrètement : la dernière platine Blu-ray 4K signée Sony est en rupture de stock et elle ne sera pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a4e0b929f27",
+          "title": "L’iPhone Duo est une excellente Nintendo DS",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2359629-liphone-duo-est-une-excellente-nintendo-ds.html",
+          "category": "ia",
+          "published_at": "2026-10-23T08:41:49+00:00",
+          "summary": "Avec l'application Delta, spécialement mise à jour pour le smartphone pliant d'Apple, l'iPhone Duo peut émuler entièrement la console de Nintendo dans des dimensions semblables à celles de la console. Le support de l'Apple Pencil restaure même l'usage du stylet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88932664cbe2",
+          "title": "Cette vidéo de Mass Effect 5 va nous faire regretter son annulation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2359613-cette-video-de-mass-effect-5-va-nous-faire-regretter-son-annulation.html",
+          "category": "ia",
+          "published_at": "2026-10-23T08:33:42+00:00",
+          "summary": "Au lendemain de l’annonce de la fermeture de BioWare et de l’annulation du prochain Mass Effect, une vidéo présentée comme une bande-annonce du jeu a fait surface sur Reddit, et dévoile un aperçu de ce qui aurait pu être la prochaine grande aventure de la saga.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1fc59f36b47",
+          "title": "Vous avez détesté les failles critiques de PHP ? Le chef de la sécurité d’Anthropic prévient que ça va être pire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2359611-vous-avez-deteste-les-failles-critiques-de-php-le-chef-de-la-securite-danthropic-previent-que-ca-va-etre-pire.html",
+          "category": "ia",
+          "published_at": "2026-10-23T08:28:23+00:00",
+          "summary": "Jason Clinton, RSSI adjoint d'Anthropic, a prévenu que la crise ouverte par les failles critiques de PHP allait encore empirer, pendant environ 18 mois. Il annonçait déjà ce «&nbsp;tsunami&nbsp;» de vulnérabilités trouvées par l'IA au mois d'août.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "adc5e7d4eb58",
+          "title": "TorchTPU : Google répond à AWS sur l’entrainement des modèles",
+          "source": "Next INpact",
+          "url": "https://next.ink/263105/torchtpu-google-repond-a-aws-sur-lentrainement-des-modeles/",
+          "category": "ia",
+          "published_at": "2026-10-23T08:24:00+00:00",
+          "summary": "Alors qu’AWS vient de lancer son TorchNeuron pour permettre aux entreprises intéressées d’entrainer leurs modèles sur les puces maison Trainium, Google a fait une annonce similaire avec TorchTPU. Comme le nom l’indique, il s’agit cette fois d’orienter les calculs vers les puces…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "983cd5b95498",
+          "title": "Panne Orange : vous pouvez réclamer 10 € sur votre prochaine facture",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2359615-panne-orange-vous-pouvez-reclamer-10-e-sur-votre-facture.html",
+          "category": "ia",
+          "published_at": "2026-10-23T08:01:32+00:00",
+          "summary": "Orange a annoncé un dédommagement en données mobiles après la panne du 21 octobre 2026. Mais certains abonnés affirment avoir obtenu une réduction sur leur facture en contactant le service client. Une possibilité qui pourrait intéresser ceux qui n'ont pas besoin de gigas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d654fdb72645",
+          "title": "Chez Contabo, le prix d’un VPS se joue au tirage au sort, de 6,6 à 13,2 euros",
+          "source": "Next INpact",
+          "url": "https://next.ink/263438/chez-contabo-le-prix-dun-vps-se-joue-au-tirage-au-sort-de-66-a-132-euros/",
+          "category": "ia",
+          "published_at": "2026-10-23T07:53:47+00:00",
+          "summary": "Imaginez, vous cherchez un VPS chez Contabo. Problème, les prix ne correspondent pas à ce que vous avez vu sur Internet. C’est ce qui nous est arrivé et nous en avons cherché la raison. Surprise, il s&#8217;agit d&#8217;un tirage au sort. Contactée, l’hébergeur n’y voit pourtant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f797abdb1d2",
+          "title": "Final Fantasy Resonance confirme-t-il la folle théorie de Linoa dans Final Fantasy 8 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2359371-final-fantasy-resonance-confirme-t-il-la-folle-theorie-de-linoa-dans-final-fantasy-8.html",
+          "category": "ia",
+          "published_at": "2026-10-23T07:44:18+00:00",
+          "summary": "Plus de vingt-cinq ans après la sortie de Final Fantasy VIII, la vraie identité d'Ultimecia, la grande méchante du jeu, divise toujours les fans. Démentie en 2017 par Yoshinori Kitase, le réalisateur du jeu, puis nuancée par lui-même un an plus tard, la théorie la plus célèbre à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "681b2f7a45d1",
+          "title": "Tate McRae Debuts at No. 1 In Australia With ‘Housewife’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/tate-mcrae-debuts-no-1-australia-housewife-1236367034/",
+          "category": "ia",
+          "published_at": "2026-10-23T07:21:14+00:00",
+          "summary": "Irish modern rock act Fontaines D.C. bag their first ARIA No. 1 album with \"Dopamine Chamber.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "587828a7e29a",
+          "title": "Half-Life 3 : un compositeur de Valve a peut-être fait une grosse boulette",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2359591-half-life-3-un-compositeur-de-valve-a-peut-etre-fait-une-grosse-boulette.html",
+          "category": "ia",
+          "published_at": "2026-10-23T06:58:27+00:00",
+          "summary": "Lors de la GameSoundCon, une convention consacrée au son dans le jeu vidéo, le compositeur Mike Morasky, vétéran de Valve, a prononcé ce mercredi 21 octobre le nom HLX, qui serait le nom de code de Half-Life 3.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "670ce17be0a9",
+          "title": "Après ses clés passoires, eMudhra met la clé sous la porte des certificats",
+          "source": "Next INpact",
+          "url": "https://next.ink/263432/apres-ses-cles-passoires-emudhra-met-la-cle-sous-la-porte-des-certificats/",
+          "category": "ia",
+          "published_at": "2026-10-23T06:18:00+00:00",
+          "summary": "eMudhra jette l&#8217;éponge : l&#8217;entreprise indienne a décidé de mettre « volontairement » un terme à son activité de certification SSL/TLS, après la découverte de son incroyable défaillance cette semaine. Pointé du doigt et parfois moqué par une bonne partie de la planète…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "529eb2b3db83",
+          "title": "Une suite de l’excellent Masters of the Universe n’est pas encore garantie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2359583-une-suite-de-lexcellent-masters-of-the-universe-nest-pas-encore-garantie.html",
+          "category": "ia",
+          "published_at": "2026-10-23T06:07:53+00:00",
+          "summary": "Le réalisateur Travis Knight s'est exprimé sur l'éventualité d'une suite pour l'excellent Masters of the Universe, flop dans les salles obscures, mais gros succès sur Amazon Prime Video.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "015b880a45f6",
+          "title": "☕️ Trump veut rebaptiser l’Atlantique, Google aurait dit non",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/trump-veut-rebaptiser-latlantique-google-aurait-dit-non/",
+          "category": "ia",
+          "published_at": "2026-10-23T05:50:56+00:00",
+          "summary": "Tout à sa volonté de rebaptiser tout et n&#8217;importe quoi suivant l&#8217;humeur du moment, Donald Trump s&#8217;est trouvé deux alliés très zélés : Google et Apple. Le petit doigt sur la couture du pantalon, les opérateurs de deux des apps de guidage et de cartographie les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2fa580460a7",
+          "title": "5 Things You Didn’t See on TV at The 2026 Billboard Latin Music Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/billboard-latin-music-awards-2026-things-you-didnt-see-on-tv/",
+          "category": "musique",
+          "published_at": "2026-10-23T05:02:07+00:00",
+          "summary": "Here's everything you missed from the blue carpet livestream.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f2f34f46789",
+          "title": "LISA, Miley, Kacey Musgraves & John Mayer: New Music Friday Guide",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/lisa-miley-kacey-musgraves-new-music-friday-guide-1236366499/",
+          "category": "musique",
+          "published_at": "2026-10-23T04:44:26+00:00",
+          "summary": "Check out the must-hear releases of the week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "06bc9fd846c6",
+          "title": "Cristian Castro Accepts the Billboard Lifetime Achievement Award ‘In the Name of Romantic Love’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/cristian-castro-billboard-lifetime-achievement-award-2026-2-1236365983/",
+          "category": "musique",
+          "published_at": "2026-10-23T04:40:05+00:00",
+          "summary": "The pop icon also performed at the Thursday (Oct. 22) ceremony, broadcasted live on Telemundo.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "articles": [
+        {
+          "id": "47e3b48427d1",
+          "title": "Latin America is catching North America as Spotify’s second-biggest subscriber market – and over 1 in 10 people there now pay for it.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/latin-america-is-catching-north-america-as-spotifys-second-biggest-subscriber-market-and-over-1-in-10-people-there-now-pay-for-it/",
+          "category": "musique",
+          "published_at": "2026-10-22T20:09:25+00:00",
+          "summary": "Spotify's Q3 2026 shareholder deck shows that Latin America accounted for 24% of the company's 306 million Premium subscribers at the end of September.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21be4278997d",
+          "title": "Phoebe Bridgers and Sombr producer, Tony Berg, launches new JV label with Warner Records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/phoebe-bridgers-and-sombr-producer-tony-berg-launches-new-jv-label-with-warner-records/",
+          "category": "musique",
+          "published_at": "2026-10-22T18:36:45+00:00",
+          "summary": "The new label, Crime &#038; Punishment Records, has signed singer-songwriter Elle Bramhall as its first artist.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee2644e85a98",
+          "title": "Liz Morentin launches communications agency Greenvalley Media & Marketing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/liz-morentin-launches-communications-agency-greenvalley-media-marketing/",
+          "category": "musique",
+          "published_at": "2026-10-22T16:13:55+00:00",
+          "summary": "Morentin most recently served as Senior Vice President and Head of Global Communications and Brand Strategy at Virgin Music Group, Universal Music Group's global independent music division.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f73f374ad2b3",
+          "title": "Bureautique, collaboration : la Cour des comptes fait ses calculs et étrille la DINUM",
+          "source": "Next INpact",
+          "url": "https://next.ink/263387/bureautique-collaboration-la-cour-des-comptes-fait-ses-calculs-et-etrille-la-dinum/",
+          "category": "ia",
+          "published_at": "2026-10-22T15:03:54+00:00",
+          "summary": "La Cour des comptes vient de publier un rapport sur l’usage des outils bureautiques et collaboratifs au sein de l’État. Les constats y sont nombreux et pour la plupart négatifs. La Cour préconise donc un plan homogène de modernisation avec un passage plus poussé au libre. Des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16c939e05507",
+          "title": "Harder, Better, Faster… Brickier? Daft Punk are teaming up with Lego",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/22/harder-better-faster-brickier-daft-punk-are-teaming-up-with-lego/",
+          "category": "musique",
+          "published_at": "2026-10-22T14:49:48+00:00",
+          "summary": "One more tile, we're gonna celebrate! We're up all night to get blocky! Yes, the Daft Punk / Lego crossover is finally here.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47e4a16feef9",
+          "title": "Three Six Zero launches Entertainment & New Media division, led by Rebecca Dowell",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/three-six-zero-launches-entertainment-new-media-division-led-by-rebecca-dowell/",
+          "category": "ia",
+          "published_at": "2026-10-22T14:45:43+00:00",
+          "summary": "Dowell will look to sign digital creators, multi-hyphenate creatives, and IP-based projects, according to the company.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f863d4b23ef5",
+          "title": "Chad Hugo accuses Pharrell Williams of trying to ‘erase’ him from The Neptunes, as he fights bid to throw out lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/chad-hugo-accuses-pharrell-williams-of-trying-to-erase-him-from-the-neptunes-as-he-fights-bid-to-throw-out-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-10-22T14:31:42+00:00",
+          "summary": "Hugo's lawyers accuse Williams of an \"effort to rewrite history and turn The Neptunes' success into the work of only one person.\"\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a84b81ba5adf",
+          "title": "Suno admits it has not deleted all the recordings used to train its AI, in answer to UMG and Sony’s ‘laundering’ lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-admits-it-has-not-deleted-all-the-recordings-used-to-train-its-ai-in-answer-to-umg-and-sonys-laundering-lawsuit/",
+          "category": "ia",
+          "published_at": "2026-10-22T14:25:36+00:00",
+          "summary": "The 44-page answer was filed on Tuesday (October 20) in the US District Court for the District of Massachusetts, and reviewed by MBW.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ba4c90325db",
+          "title": "Defected founder Simon Dunmore acquires majority stake in House Culture: ‘I was premature in my retirement’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/defected-founder-simon-dunmore-acquires-majority-stake-in-house-culture-i-was-premature-in-my-retirement/",
+          "category": "musique",
+          "published_at": "2026-10-22T14:25:13+00:00",
+          "summary": "Simon Dunmore, the founder of UK house music label Defected Records, has acquired a majority shareholding in House Culture, a media brand that started life as an Instagram page. House Culture now plans to grow into a &#8220;global platform dedicated to documenting, celebrating…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e76035b0cbde",
+          "title": "Spotify launches native in-car app with Audi – less than two years after switching off Car Thing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-launches-native-in-car-app-with-audi-less-than-two-years-after-switching-off-car-thing/",
+          "category": "musique",
+          "published_at": "2026-10-22T14:24:57+00:00",
+          "summary": "Spotify discontinued Car Thing in 2022, taking a one-time charge of EUR €31 million (around USD $31.4 million) on the device in Q2 2022.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "feee7f55be9b",
+          "title": "EMPIRE founder Ghazi launches B2B music infrastructure company Supply Chain globally, with Beatport-owned Ampsuite as launch partner",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/empire-founder-ghazi-launches-b2b-music-infrastructure-company-supply-chain-globally-with-beatport-owned-ampsuite-as-launch-partner/",
+          "category": "musique",
+          "published_at": "2026-10-22T14:24:46+00:00",
+          "summary": "Supply Chain has also hired Craig May as SVP, Marketing, and Kristy May as SVP, Business Affairs.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd35e3f4aefa",
+          "title": "Universal Music Group becomes first major music company to license TYGER, which uses AI to adapt songs to gameplay in real time",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-becomes-first-major-music-company-to-license-tyger-which-uses-ai-to-adapt-songs-to-gameplay-in-real-time/",
+          "category": "musique",
+          "published_at": "2026-10-22T14:23:14+00:00",
+          "summary": "Select recordings and songs from UMG's recorded music and publishing catalogs will become available on TYGER's paid, on-demand subscription service.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0890754a1490",
+          "title": "☕️ Une majorité d’Américains pensent que l’IA est une mauvaise chose pour la société",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/une-majorite-damericains-pensent-que-lia-est-une-mauvaise-chose-pour-la-societe/",
+          "category": "ia",
+          "published_at": "2026-10-22T14:18:00+00:00",
+          "summary": "Alors que les élections de midterms approchent aux États-Unis (3 novembre), l&#8217;IA fait partie des sujets les plus importants dans la campagne électorale. L&#8217;installation des datacenters IA est notamment devenue un boulet électoral pour les républicains. Jusque-là,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4acf1971bb86",
+          "title": "Apple contraint d’ouvrir iOS aux boutiques et aux paiements concurrents en Australie",
+          "source": "Next INpact",
+          "url": "https://next.ink/263361/apple-contraint-douvrir-ios-aux-boutiques-et-aux-paiements-concurrents-en-australie/",
+          "category": "ia",
+          "published_at": "2026-10-22T13:54:58+00:00",
+          "summary": "La justice australienne force la main à Apple, qui devra ouvrir l&#8217;écosystème iOS aux boutiques alternatives, au sideloading et aux services de paiement tiers. Après l&#8217;Union européenne (via le DMA), le Japon ou encore le Brésil, l&#8217;Australie rejoint donc la…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "31c4acea6910",
           "title": "☕️ L’iPhone d’Agnès Pannier-Runacher visé par un logiciel espion",
@@ -92,6 +657,16 @@
           "category": "musique",
           "published_at": "2026-10-22T12:11:54+00:00",
           "summary": "The indie publisher says the AI labs stole songs by Madonna and Johnny Cash to train their models to spit out new ones.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0ef1c2c40cd",
+          "title": "Ordre du jour de la séance plénière du 22 octobre 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-22-octobre-2026",
+          "category": "institutionnel",
+          "published_at": "2026-10-22T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 22 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
           "summary_type": "extrait source"
         },
         {
