@@ -1,9 +1,554 @@
 {
-  "generated_at": "2026-10-26T15:11:32.435298+00:00",
+  "generated_at": "2026-10-27T14:31:11.790960+00:00",
   "days": [
+    {
+      "date": "2026-10-27",
+      "articles": [
+        {
+          "id": "208bd13c1ea7",
+          "title": "☕️ Apple met du M6 dans l’iMac et le MacBook Pro",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-met-du-m6-dans-limac-et-le-macbook-pro/",
+          "category": "ia",
+          "published_at": "2026-10-27T14:06:27+00:00",
+          "summary": "Apple continue de rafraîchir ses gammes : après l&#8217;iPad mini hier lundi, voici venir le tour de l&#8217;iMac et du MacBook Pro d&#8217;entrée de gamme. Principale nouveauté commune à ces machines : une puce M6. Apple remet donc au goût du jour le MacBook Pro 14 pouces qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31a71a07240e",
+          "title": "Le film BioShock en plein cauchemar, le réalisateur balance sur le chaos chez Netflix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2361479-le-film-bioshock-en-plein-cauchemar-le-realisateur-balance-sur-le-chaos-chez-netflix.html",
+          "category": "musique",
+          "published_at": "2026-10-27T13:37:52+00:00",
+          "summary": "Quatre ans après l'annonce triomphale d'une adaptation live-action du chef-d'œuvre vidéo-ludique&nbsp;BioShock&nbsp;par Netflix, les caméras ne tournent toujours pas. Et pour cause : adapter la cité sous-marine de Rapture sur grand écran s'avère être un enfer de production.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e72af4bd36cb",
+          "title": "Taylor Swift Ties Rihanna for Most Pop Airplay Chart Top 10s, Thanks to ‘Patient Zero’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/taylor-swift-ties-rihanna-most-pop-airplay-top-10s-1236368645/",
+          "category": "ia",
+          "published_at": "2026-10-27T13:37:06+00:00",
+          "summary": "Each superstar now has 30 top 10s.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e18b630bc405",
+          "title": "Volkswagen hésiterait entre la Chine et Rivian pour le cerveau de ses futures voitures",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2361625-volkswagen-hesiterait-entre-la-chine-et-rivian-pour-le-cerveau-de-ses-futures-voitures.html",
+          "category": "ia",
+          "published_at": "2026-10-27T13:36:36+00:00",
+          "summary": "Volkswagen étudierait la possibilité de déployer en Europe une architecture électronique développée en Chine pour ses futurs modèles. Une hypothèse qui pourrait porter un sacré coup au partenariat avec Rivian.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "344707eaaf46",
+          "title": "Maná Is Bringing Its Spectacular Red Rocks Amphitheatre Concert to a Streamer",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/mana-red-rocks-amphitheatre-show-how-to-watch-1236368647/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:30:50+00:00",
+          "summary": "Vivir Sin Aire Tour (Live from Red Rocks) will arrive in November accompanied by a mini-documentary.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "802329761277",
+          "title": "Legal roundup: Drake bots, Neil Young vs US president, Suno",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/27/legal-roundup-drake-bots-neil-young-vs-us-president-suno/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:30:00+00:00",
+          "summary": "In November 2025, rapper RBX sued Spotify, accusing it of having “turned a blind eye” to “billions of fraudulent streams” of Drake’s music on its service. Whatever happened to that case? It’s just been thrown out.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f8a57b9dacf",
+          "title": "Primary Wave inks Mary J. Blige deal for songs and recordings",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/27/primary-wave-inks-mary-j-blige-deal-for-songs-and-recordings/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:30:00+00:00",
+          "summary": "Primary Wave’s thirst for partnerships and catalogue deals shows no sign of being slaked. Its latest announcement is with Mary J. Blige, and (thankfully for her) it has nothing to do with Suno.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b587c4bdc12d",
+          "title": "Discogs to sell collection of nearly 1,300 rare Beatles records",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/27/discogs-to-sell-collection-of-nearly-1300-rare-beatles-records/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:30:00+00:00",
+          "summary": "Music marketplace Discogs is preparing its most high-profile drop yet: nearly 1,300 rare Beatles records sourced from a private collection by German record store Black Plastic Records.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73542491f622",
+          "title": "Edged Out Records built ‘the first costume shop for AI agents’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/27/edged-out-records-built-the-first-costume-shop-for-ai-agents/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:30:00+00:00",
+          "summary": "Meta’s efforts to make its Muse AI agent cuddly and friendly for non-tech folk is a plushy-style mascot called Jolly. Now independent label Edged Out Records has launched an inventive marketing campaign riffing off the character.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fc927c56d7a",
+          "title": "Overtune debuts ‘Hit-Boy Season’ in its Roblox game Beat Battle",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/27/overtune-debuts-hit-boy-season-in-its-roblox-game-beat-battle/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:30:00+00:00",
+          "summary": "In November 2025, Icelandic music startup Overtune told us that it was building a “virtual music studio” for Roblox. That work evolved into a game called Beat Battle, which has just launched a new artist partnership.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5215b2daf24e",
+          "title": "Anthropic publishes filing to go public – with MANY risk factors",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/27/anthropic-publishes-filing-to-go-public-with-many-risk-factors/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:30:00+00:00",
+          "summary": "And we’re not joking about the ‘many’. The Risk Factors section of Anthropic’s S-1 filing starts on page 27 and ends on page 119.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "750bafba5abb",
+          "title": "Flaming Lips Jump to Third Man Records For First New LP in Six Years, ‘The Teardrop Throbs’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/flaming-lips-third-man-records-teardrop-throbs-single-listen-1236368639/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:29:14+00:00",
+          "summary": "The first single from the album due out on Jan. 22 is the Pink Floyd-indebted slow-burn \"God Will Control the Werewolves.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a836c2440d4",
+          "title": "En attendant le premier Mac tactile, Apple met à jour les MacBook Pro et iMac avec la puce M6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2361025-en-attendant-le-premier-mac-tactile-apple-met-a-jour-les-macbook-pro-et-imac-avec-la-puce-m6.html",
+          "category": "ia",
+          "published_at": "2026-10-27T13:06:22+00:00",
+          "summary": "Un jour après l'iPad mini, Apple dévoile par communiqué de presse un nouveau MacBook Pro et un nouvel iMac, tous les deux équipés de la puce M6. Le très attendu MacBook Pro à écran tactile n'est pas encore là : il devrait être dévoilé mercredi à Los Angeles. Numerama est sur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20d035057a35",
+          "title": "Un pirate affirme avoir récupéré des données de trois partis politiques",
+          "source": "Next INpact",
+          "url": "https://next.ink/264085/un-pirate-affirme-avoir-recupere-des-donnees-de-trois-partis-politiques/",
+          "category": "institutionnel",
+          "published_at": "2026-10-27T13:01:00+00:00",
+          "summary": "Fuites de données en série, chez les partis en campagne pour l&#8217;élection présidentielle ? En un week-end, un même pirate affirme avoir récupéré des données du Parti communiste français, de La France Insoumise et de Renaissance. Les deux derniers démentent toute nouvelle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9fc7f8f2947",
+          "title": "John Legend to Be Honored at 2027 Music Matters Awards Gala",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/john-legend-2027-music-matters-awards-gala-honoree-1236368288/",
+          "category": "musique",
+          "published_at": "2026-10-27T13:00:00+00:00",
+          "summary": "The event, put on by the Guitar Center Music Foundation, will take place next spring in Beverly Hills.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf3099bf4bb4",
+          "title": "Kings of Leon to Celebrate New Album ‘O My Beloved’ With Surprise Intimate London Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/kings-of-leon-london-show-british-airways-arc-venue-1236368599/",
+          "category": "musique",
+          "published_at": "2026-10-27T12:44:31+00:00",
+          "summary": "The Nashville four-piece will head to the newly-opened British Airways ARC venue.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef512ccda721",
+          "title": "Jason Kelce Is Fired Up For Jay-Z’s Super Bowl LXI Halftime Show: ‘He is the GOAT’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/jason-kelce-fired-up-jay-z-super-bowl-lxi-half-time-the-goat-1236368622/",
+          "category": "institutionnel",
+          "published_at": "2026-10-27T12:37:43+00:00",
+          "summary": "NFL Commissioner Roger Goddell said he \"couldn't be more excited\" for fans to see Jay take the stage at SoFi Stadium on Feb. 14, 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8aad4a165a79",
+          "title": "Sur World of Warcraft Forever, vous pouvez réserver votre pseudo, mais il faut payer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2361583-sur-world-of-warcraft-forever-vous-pouvez-reserver-votre-pseudo-mais-il-faut-payer.html",
+          "category": "ia",
+          "published_at": "2026-10-27T12:31:00+00:00",
+          "summary": "Depuis ce mardi 27 octobre à 18 h, les joueurs de World of Warcraft: Forever peuvent réserver jusqu'à trois noms de personnages, et ce jusqu'au 3 novembre. Le jeu est inclus dans l'abonnement, mais la réservation demande d'avoir acheté un pack à 29,99 euros minimum.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "469f3ca7c26f",
+          "title": "Report: UMG has ‘discussed going private’ with investment firms",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/27/report-umg-has-discussed-going-private-with-investment-firms/",
+          "category": "musique",
+          "published_at": "2026-10-27T12:30:00+00:00",
+          "summary": "How long will Universal Music Group remain a publicly-listed company? It’s a question that reared up in April when hedge-fund Pershing Square tried to buy the major label for $63.5bn, before ultimately being rejected.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88527a3a5b8f",
+          "title": "The music industry is solving the wrong bottleneck",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-music-industry-is-solving-the-wrong-bottleneck/",
+          "category": "musique",
+          "published_at": "2026-10-27T12:29:54+00:00",
+          "summary": "Diana Umana digs into the new artist discovery process – with some expert voices – and concludes that what truly moves an act forward is advocacy. And guess what? Every advocate starts as a fan of what they hear and see..\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27456b755bfd",
+          "title": "Neil Young sues Trump fundraising committee for $10M over ‘Rockin’ in the Free World’ – six years after his first lawsuit over the song",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/neil-young-sues-trump-fundraising-committee-for-10m-over-rockin-in-the-free-world-six-years-after-his-first-lawsuit-over-the-song/",
+          "category": "ia",
+          "published_at": "2026-10-27T12:08:34+00:00",
+          "summary": "The lawsuit alleges that the committee had the 1989 song played without a license just before Trump took the stage to speak at a rally in Ohio on October 12.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37a023d1fddc",
+          "title": "Un Tesla Cybertruck confisqué en Allemagne : la ruse de la plaque polonaise n’a pas suffi",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2361505-un-tesla-cybertruck-confisque-en-allemagne-la-ruse-de-la-plaque-polonaise-na-pas-suffi.html",
+          "category": "justice",
+          "published_at": "2026-10-27T12:05:00+00:00",
+          "summary": "Un conducteur suédois a été arrêté dans la nuit du 24 au 25 octobre 2026 sur une autoroute bavaroise, au volant d'un Tesla Cybertruck de 4,2 tonnes alors que son permis B ne l'autorisait pas à conduire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b692a8a92de0",
+          "title": "Spotify wins permanent dismissal of lawsuit claiming it ignored ‘billions’ of fraudulent Drake streams",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-wins-permanent-dismissal-of-lawsuit-claiming-it-ignored-billions-of-fraudulent-drake-streams/",
+          "category": "musique",
+          "published_at": "2026-10-27T11:56:12+00:00",
+          "summary": "It is the second time Judge Josephine Staton has dismissed the case – and this time, she barred RBX from bringing the same claims again.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4af257dc7fb2",
+          "title": "Ryan Gosling’s Dead Man’s Bones Duo Creep Back With Romantic ‘Lost in the Night’ Video Starring Noah Jupe and Rain Spencer",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ryan-gosling-dead-mans-bones-lost-in-the-night-video-watch-1236368605/",
+          "category": "musique",
+          "published_at": "2026-10-27T11:46:15+00:00",
+          "summary": "The haunted track is the first new music from Gosling and musical partner Zach Shields in 17 years.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6d88c75f85a",
+          "title": "Le mouvement #SaveMassEffect est en train de prendre des proportions immenses",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2361357-le-mouvement-savemasseffect-est-en-train-de-prendre-des-proportions-immenses.html",
+          "category": "ia",
+          "published_at": "2026-10-27T11:45:00+00:00",
+          "summary": "L'initiative pour sauver Mass Effect de la disparition est en train de prendre des proportions inattendues. Ce lundi 26 octobre, des fans se sont offert un écran publicitaire à Times Square, à New York, pour se faire entendre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "254d6ec11a44",
+          "title": "Microsoft propose à 60 000 salariés de partir : l’apocalypse de l’emploi liée à l’IA a-t-elle commencé ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2361585-microsoft-propose-a-60-000-salaries-de-partir-lapocalypse-de-lemploi-liee-a-lia-a-t-elle-commence.html",
+          "category": "ia",
+          "published_at": "2026-10-27T11:40:00+00:00",
+          "summary": "Microsoft ouvre un programme de départs volontaires à plus d’un quart de ses effectifs, alors qu’il prévoit 175 milliards de dollars d’investissements en 2026. Dans la tech, les entreprises réduisent leurs équipes et comptent sur l’IA pour travailler avec moins de salariés. Mais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c458f2fab37",
+          "title": "Roberto Andrade Dirak promoted to President of Warner Music Latina and A&R, Latin America",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/roberto-andrade-dirak-promoted-to-president-of-warner-music-latina-and-ar-latin-america/",
+          "category": "musique",
+          "published_at": "2026-10-27T11:39:26+00:00",
+          "summary": "Andrade will continue to be based in Miami, reporting to Alejandro Duque, President of Warner Music International.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "87f29352d799",
+          "title": "‘My view is simple: embrace technology, and respect rights.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/my-view-is-simple-embrace-technology-and-respect-rights/",
+          "category": "ia",
+          "published_at": "2026-10-27T11:38:51+00:00",
+          "summary": "Dr. Richard James Burgess MBE spent a decade leading A2IM before stepping down last year. Now, as Chair of PPL, he explains his vision for the org’s future – and why he’s both pro-technology and pro-rights…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf888ea03888",
+          "title": "Le gouvernement annonce remplacer Parcoursup et un outil d’orientation enrichi par l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/264015/le-gouvernement-annonce-remplacer-parcoursup-et-un-outil-dorientation-enrichi-par-lia/",
+          "category": "ia",
+          "published_at": "2026-10-27T11:30:00+00:00",
+          "summary": "Les lycéens se mobilisent depuis des semaines pour demander l&#8217;amélioration de leurs conditions d&#8217;étude et notamment l&#8217;abrogation de la plateforme Parcoursup symbole d&#8217;un système de sélection à l&#8217;entrée de l&#8217;enseignement supérieur. Le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "700705637c8a",
+          "title": "Module Zvezda : le sas de l’ISS condamné définitivement à cause de microfissures impossibles à colmater",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2361331-module-zvezda-le-sas-de-liss-condamne-definitivement-a-cause-de-microfissures-impossibles-a-colmater.html",
+          "category": "ia",
+          "published_at": "2026-10-27T11:25:00+00:00",
+          "summary": "Au cœur de nombreux problèmes depuis des années, le module Zvezda, à bord de la Station spatiale internationale, voit son sas définitivement condamné en raison de fuites d'air.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82deb11eb2d1",
+          "title": "Les robots vont-ils aggraver la pénurie de RAM ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2361315-les-robots-vont-ils-aggraver-la-penurie-de-ram.html",
+          "category": "ia",
+          "published_at": "2026-10-27T10:50:00+00:00",
+          "summary": "Après les serveurs d’IA, les robots vont-ils engloutir la RAM ? Plusieurs rapports leur prédisent un appétit démesuré, au risque de faire craindre une crise à rallonge. Mais les volumes envisagés invitent à relativiser.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5cf08e2613d0",
+          "title": "Amazon baisse le prix de l’humidificateur connecté Dreo au moment où les radiateurs se rallument",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2361497-amazon-baisse-le-prix-de-lhumidificateur-connecte-dreo-au-moment-ou-les-radiateurs-se-rallument.html",
+          "category": "ia",
+          "published_at": "2026-10-27T10:41:55+00:00",
+          "summary": "[Deal du jour] Les radiateurs se rallument et l'air de la maison s'assèche. Amazon fait passer l'humidificateur connecté Dreo de 6 litres à 66,49 € au lieu de 79,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47969ebcc73f",
+          "title": "En route pour la bourse, Anthropic liste 800 milliards de dollars de dépenses",
+          "source": "Next INpact",
+          "url": "https://next.ink/263960/en-route-pour-la-bourse-anthropic-liste-800-milliards-de-dollars-de-depenses/",
+          "category": "ia",
+          "published_at": "2026-10-27T10:36:21+00:00",
+          "summary": "Anthropic a publié lundi le document d&#8217;information préalable à sa prochaine introduction en bourse. L&#8217;entreprise y révèle ses performances financières, marquées à la fois par une croissance spectaculaire et par une soif quasi inextinguible d&#8217;investissements et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8efa4f27ba9d",
+          "title": "OpenAI affirme avoir résolu l’une des plus grandes énigmes de la physique, mais garde la preuve secrète",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2361319-openai-affirme-avoir-resolu-lune-des-plus-grandes-enigmes-de-la-physique-mais-garde-la-preuve-secrete.html",
+          "category": "ia",
+          "published_at": "2026-10-27T10:18:25+00:00",
+          "summary": "OpenAI affirme ce lundi 26 octobre 2026 que ses modèles ont prouvé l'existence mathématique de la théorie de Yang-Mills en quatre dimensions. Ce résultat couvre la première des deux parties d'un problème du millénaire. Pour l'instant, seuls cinq physiciens ont accès à la preuve.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b05b672e1c41",
+          "title": "Stray Kids’ label JYP is worth over $1B. Is it about to sell a 50% stake?",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/stray-kids-label-jyp-is-worth-over-1b-is-it-about-to-sell-a-50-stake/",
+          "category": "musique",
+          "published_at": "2026-10-27T10:02:03+00:00",
+          "summary": "The NEXROC Group and SVCV, Inc. say they are considering an offer for between 25% and 50% of JYP's issued shares.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "204841bddb90",
+          "title": "Pacific Rim vous manque ? Le réalisateur de Godzilla va réaliser votre rêve avec son tout nouveau film",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2361335-pacific-rim-vous-manque-le-realisateur-de-godzilla-va-realiser-votre-reve-avec-son-tout-nouveau-film.html",
+          "category": "ia",
+          "published_at": "2026-10-27T09:40:00+00:00",
+          "summary": "Depuis treize ans, les fans de mechas et de monstres géants attendent désespérément un digne successeur à&nbsp;Pacific Rim. Si la suite sortie en 2018 avait laissé un goût amer aux amateurs de tôle froissée et de bastons cataclysmiques, le sauveur du genre vient enfin de pointer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb8ee4cffca3",
+          "title": "Shenmue III Enhanced est repoussé à 2027, et cela ne surprend plus personne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2361329-shenmue-iii-enhanced-est-repousse-a-2027-et-cela-ne-surprend-plus-personne.html",
+          "category": "ia",
+          "published_at": "2026-10-27T09:32:25+00:00",
+          "summary": "Shenmue III Enhanced, la version remise à neuf du jeu de Yu Suzuki sorti en 2019, est repoussé au début de l'année 2027. Le jeu original avait lui-même pris deux ans de retard sur la date promise et n'avait, au final, pas vraiment convaincu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a315b11ba58",
+          "title": "Résultats d’Orange, rachat de SFR, fibre jusqu’à 50 Gbit/s, Fast pass 5G+ à 5 euros…",
+          "source": "Next INpact",
+          "url": "https://next.ink/264011/resultats-dorange-rachat-de-sfr-fibre-jusqua-50-gbit-s-fast-pass-5g-a-5-euros/",
+          "category": "ia",
+          "published_at": "2026-10-27T09:29:09+00:00",
+          "summary": "Le bilan financier d’Orange est l’occasion de faire un point d’étape sur les revenus du groupe, les discussions autour du rachat de SFR, le retour de Carrefour Mobile et son Fast Pass 5G+ à 5 euros. L’opérateur en profite une fois encore pour parler du 50G-PON avec des débits…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb374d38e578",
+          "title": "‘The Voice’: Four-Chair Turn Cade Mower Moves on After Battle Round",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/the-voice-cade-mower-moves-on-after-battle-round-1236368596/",
+          "category": "ia",
+          "published_at": "2026-10-27T09:18:09+00:00",
+          "summary": "Mower and 19-year-old Howell were paired by coach Riley Green for the Battle, with Carly Pearce joining Team Riley as a guest adviser.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "011753d24c6b",
+          "title": "Believe hires Amazon Music’s Mel Curley as Global Head of Editorial & Marketing Partnerships",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-hires-amazon-musics-mel-curley-as-global-head-of-editorial-marketing-partnerships/",
+          "category": "musique",
+          "published_at": "2026-10-27T09:02:14+00:00",
+          "summary": "She will be based in New York City and will report to Darya Pourshasb, Believe’s Chief Marketing Officer.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ab538e3b407",
+          "title": "☕️ OBS Studio 33 revoit complètement sa gestion des plugins",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/obs-studio-33-revoit-completement-sa-gestion-des-plugins/",
+          "category": "justice",
+          "published_at": "2026-10-27T08:32:00+00:00",
+          "summary": "Nouvelle mouture pour le logiciel open source d’enregistrement vidéo et de streaming en direct, avec bon nombre de nouveautés à la clé. L’un des plus gros changements se situe sous le capot, avec la mise à jour de CEF (Chromium Embedded Framework), le composant utilisé pour les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74ac4985eabc",
+          "title": "Mobilisations : Matignon voulait couper les réseaux, le Gouvernement veut élargir Pharos",
+          "source": "Next INpact",
+          "url": "https://next.ink/263962/mobilisations-matignon-voulait-couper-les-reseaux-le-gouvernement-veut-elargir-pharos/",
+          "category": "ia",
+          "published_at": "2026-10-27T08:08:00+00:00",
+          "summary": "Les centaines de milliers de Français qui sont descendus dans les rues samedi 24 octobre auraient pu se retrouver sans réseaux sociaux. Sébastien Lecornu a en effet demandé aux opérateurs d&#8217;anticiper la possibilité de suspendre l&#8217;accès à plusieurs services «&#160;en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5de8559fe2e",
+          "title": "BookMyShow report explores “motivations and behaviours” shaping live experiences",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/27/bookmyshow-report-explores-motivations-and-behaviours-shaping-live-experiences/",
+          "category": "musique",
+          "published_at": "2026-10-27T07:50:36+00:00",
+          "summary": "BookMyShow Live has published ‘OOO: Offline. Outdoors. Out Loud’ a report that contains the findings of a survey conducted among 1,700 Indian concert-goers above the age of 18 across 75 [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "080b1bced5af",
+          "title": "☕️ « Crackgate » : Apple reconnaît un problème avec l’écran interne de l’iPhone Duo",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/crackgate-apple-reconnait-un-probleme-avec-lecran-interne-de-liphone-duo/",
+          "category": "ia",
+          "published_at": "2026-10-27T07:47:00+00:00",
+          "summary": "Apple a beaucoup communiqué sur la qualité de l&#8217;écran interne de son iPhone Duo, dont le développement explique en partie pourquoi le constructeur s&#8217;est lancé si tardivement sur ce marché. Mais voilà : à peine disponible dans le commerce, le smartphone pliant souffre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df8b8cbff10d",
+          "title": "L’humain, goulot d’étranglement des gains de productivité par l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/263933/lhumain-goulot-detranglement-des-gains-de-productivite-par-lia/",
+          "category": "ia",
+          "published_at": "2026-10-27T07:17:00+00:00",
+          "summary": "L’interrogation est croissante : les investissements dans l’IA sont-ils suivis d’effets tangibles sur la productivité ? Si l’on en croit le gestionnaire d’actifs Apollo Global Management, pas encore, la «&#160;faute&#160;» au facteur humain. Apollo Global Management est l’un des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccb5ef26762f",
+          "title": "☕️ Loot box : la nouvelle classification PEGI s’étend aux jeux déjà disponibles",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/loot-box-la-nouvelle-classification-pegi-setend-aux-jeux-deja-disponibles/",
+          "category": "ia",
+          "published_at": "2026-10-27T06:35:00+00:00",
+          "summary": "De nombreux jeux accessibles actuellement aux enfants devraient bientôt écoper d&#8217;une interdiction aux moins de 16 ans. Depuis ce mois d&#8217;octobre, la classification d&#8217;une «&#160;sélection de jeux » déjà commercialisés en version numérique et qui proposent des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67f409c96879",
+          "title": "Taylor Swift, George Strait, Lee Thomas Miller & More Celebrated During Nashville Songwriters Hall of Fame Gala",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/taylor-swift-george-strait-nashville-songwriters-hall-fame-1236368579/",
+          "category": "ia",
+          "published_at": "2026-10-27T06:17:42+00:00",
+          "summary": "The event was held Oct. 26 in Nashville.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65ee983aa50d",
+          "title": "☕️ Microsoft ouvre un plan de départs volontaires à 60 000 salariés",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/microsoft-ouvre-un-plan-de-departs-volontaires-a-60-000-salaries/",
+          "category": "ia",
+          "published_at": "2026-10-27T06:02:00+00:00",
+          "summary": "Après le coup de rabot du mois de juillet – 4 800 suppressions de postes annoncés, la majorité chez Xbox –, Microsoft continue de dégraisser. L&#8217;entreprise a annoncé un plan de départs volontaires pour les filiales américaines, canadiennes, indiennes et britanniques. Selon…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "articles": [
+        {
+          "id": "bf4eb63c6c89",
+          "title": "Le Snep lance le Trophée N°1 : chaque semaine, le succès prend forme",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/le-snep-lance-le-trophee-n1-chaque-semaine-le-succes-prend-forme/",
+          "category": "musique",
+          "published_at": "2026-10-26T18:20:11+00:00",
+          "summary": "Le Snep lance le Trophée n°1, une nouvelle distinction hebdomadaire destinée à récompenser les projets qui atteignent la première place du Top Albums et du Top Singles en France. Les premiers lauréats seront dévoilés dès ce vendredi 23 octobre pour le Top Albums, puis le lundi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2d3a66029fdf",
+          "title": "HYBE AMERICAS launches Latin pop label TRU Records, with SANTOS BRAVOS as its first artist",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-americas-launches-latin-pop-label-tru-records-with-santos-bravos-as-its-first-artist/",
+          "category": "musique",
+          "published_at": "2026-10-26T18:16:53+00:00",
+          "summary": "Alejandro Mejía has been appointed General Manager of TRU Records, overseeing its artistic and business strategy.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "956d31b95218",
+          "title": "Universal and Sony cleared to depose ex-Menlo Ventures exec over deleted post: ‘I’ve personally shifted most of my listening to Suno’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-and-sony-cleared-to-depose-ex-menlo-ventures-exec-over-deleted-post-ive-personally-shifted-most-of-my-listening-to-suno/",
+          "category": "musique",
+          "published_at": "2026-10-26T18:11:03+00:00",
+          "summary": "In March, MBW pointed to the potential legal significance of Gong's post in an open letter to Suno CEO Mikey Shulman\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7c2bd5c509f",
+          "title": "GPU Unlock : on « débride » une GeForce RTX 3070 Ti… et ça marche",
+          "source": "Next INpact",
+          "url": "https://next.ink/263829/gpu-unlock-on-debride-une-geforce-rtx-3070-ti-et-ca-marche/",
+          "category": "ia",
+          "published_at": "2026-10-26T16:49:36+00:00",
+          "summary": "Contrairement aux GPU pour les pros, les GeForce RTX 30 et 40 (au moins) ont un bridage mis en place par NVIDIA sur les performances de certains calculs liés à l’IA. Une « astuce » permet de faire sauter cette limitation et permet presque de doubler les performances dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "44614b5ec240",
+          "title": "Insultée sur LinkedIn, Tara Heuzé-Sarmini obtient gain de cause en appel",
+          "source": "Next INpact",
+          "url": "https://next.ink/263881/insultee-sur-linkedin-tara-heuze-sarmini-obtient-gain-de-cause-en-appel/",
+          "category": "ia",
+          "published_at": "2026-10-26T16:03:14+00:00",
+          "summary": "Insultée sur LinkedIn puis sommée de retirer la publication qu’elle avait mise en ligne pour dénoncer ce traitement sexiste, Tara Heuzé-Sarmini a finalement obtenu gain de cause. La Cour d’appel de Douai déclare notamment que les captures d’écran d’un échange en message privé…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8524ebefe8cc",
+          "title": "Meta se donne trois semaines pour faire avaler ses nouvelles conditions commerciales",
+          "source": "Next INpact",
+          "url": "https://next.ink/263876/meta-se-donne-trois-semaines-pour-faire-avaler-ses-nouvelles-conditions-commerciales/",
+          "category": "ia",
+          "published_at": "2026-10-26T15:30:43+00:00",
+          "summary": "Meta repousse au 20 novembre ses nouvelles conditions commerciales, contestées par les éditeurs de presse et les annonceurs. Trois semaines de répit pour expliquer ses intentions : gros travail en perspective au vu de la méfiance des premiers concernés. Meta reporte la mise en…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "be90e9d7a2dc",
           "title": "« Je viens anéantir un dieu » : cette réplique tisse le destin de Sauron à la fin de la saison 3 des Anneaux de pouvoir",
