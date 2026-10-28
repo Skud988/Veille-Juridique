@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-10-27T14:31:11.790960+00:00",
+  "generated_at": "2026-10-28T15:05:59.773067+00:00",
   "days": [
+    {
+      "date": "2026-10-28",
+      "articles": [
+        {
+          "id": "bb9e05a49afe",
+          "title": "Harry Shum Jr. and Jenna Johnson Scare Up a Wickedly Spooky Dance to a Britney Spears Classic on ‘DWTS’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/harry-shum-johnson-spooky-dance-britney-spears-toxic-dwts-watch-1236369531/",
+          "category": "ia",
+          "published_at": "2026-10-28T15:00:31+00:00",
+          "summary": "The pair's contemporary dance inspired by the Saw film franchise earned a perfect score on Tuesday (Oct. 27).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "22ff74b07ebb",
+          "title": "Westwood Recordings Enters JV With Monstercat, With Eye on Artist Development & Global Reach",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/electronic-label-westwood-recordings-signs-jv-monstercat/",
+          "category": "musique",
+          "published_at": "2026-10-28T15:00:00+00:00",
+          "summary": "The partnership is being spurred by a $50 million investment in Monstercat by Create Music Group, which acquired the label in 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6242daf52788",
+          "title": "Brandy, Lena Waithe & More Named Members of 2026 Ebony Power 100 Honoree Court",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/brandy-2026-ebony-power-100-honoree-1236369539/",
+          "category": "musique",
+          "published_at": "2026-10-28T15:00:00+00:00",
+          "summary": "Jay-Z and Megan Thee Stallion are among other music honorees at the November gala.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0890604d2480",
+          "title": "« On avait du mal à toucher la population active » : dans la Sarthe, une mairie fait un bond technologique pour être ouverte 24h/24",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2361899-on-avait-du-mal-a-toucher-la-population-active-dans-la-sarthe-une-mairie-fait-un-bond-technologique-pour-etre-ouverte-24h-24.html",
+          "category": "ia",
+          "published_at": "2026-10-28T14:59:46+00:00",
+          "summary": "À Marolles-les-Braults, dans la Sarthe, les habitants peuvent effectuer leurs démarches en ligne à toute heure. Derrière cette mairie qui se présente comme « ouverte 24h/24 », il y a surtout une volonté de simplifier le quotidien des usagers et de libérer du temps pour les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "934812020b28",
+          "title": "El Niño n’est pas une tempête : mais quel est ce phénomène climatique ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/1424784-el-nino-definition-quel-est-ce-phenomene-climatique.html",
+          "category": "ia",
+          "published_at": "2026-10-28T14:55:00+00:00",
+          "summary": "Dans sa définition la plus simple, El Niño est un phénomène climatique naturel aux effets planétaires. Son influence est complexe : elle dépasse largement les eaux du Pacifique, où les températures fluctuent au gré du phénomène de l'ENSO (El Niño - Oscillation australe).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab3781323fc9",
+          "title": "Apple ajoute du JSON dans Xcode et Keynote pour les agents IA et les développeurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/264508/apple-ajoute-du-json-dans-xcode-et-keynote-pour-les-agents-ia-et-les-developpeurs/",
+          "category": "ia",
+          "published_at": "2026-10-28T14:50:30+00:00",
+          "summary": "Apple ouvre Xcode et Keynote à de nouveaux formats de fichier basés sur JSON. Il s&#8217;agit en priorité de faciliter la vie des agents IA, mais les développeurs de chair et de sang vont aussi en profiter. Depuis sa version 27.2, Xcode, l&#8217;environnement de développement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "defec3b84648",
+          "title": "Ezekiel Lewis Talks New Epic Records CEO Gig & the Art of A&R: ‘It’s Not About Genres. It’s About Artists’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/epic-records-ezekiel-lewis-ceo-role-first-time-interview/",
+          "category": "musique",
+          "published_at": "2026-10-28T14:16:06+00:00",
+          "summary": "In the latest episode of Billboard On the Record, Lewis sits down to talk about his new role as Epic's CEO/chairman for the first time.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f949cdfe520",
+          "title": "Les utilisateurs de Starlink ciblés par Discover-Tech, impliquée dans une attaque zéro-clic",
+          "source": "Next INpact",
+          "url": "https://next.ink/264342/les-utilisateurs-de-starlink-cibles-par-discover-tech-impliquee-dans-une-attaque-zero-clic/",
+          "category": "ia",
+          "published_at": "2026-10-28T14:15:39+00:00",
+          "summary": "L&#8217;entreprise de marketing israélienne Discover-Tech a participé à une attaque zéro-clic installant un logiciel espion via des publicités. Elle vise particulièrement les utilisateurs du réseau Starlink, selon des sources de l&#8217;agence de presse Reuters. L&#8217;agence…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "561223496c31",
+          "title": "Leading U.K. Indies Distiller Records & Speedy Wunderground Launch Label Partnership With New Heartworms Material",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/distiller-records-speedy-wunderground-labels-partnership/",
+          "category": "musique",
+          "published_at": "2026-10-28T14:11:26+00:00",
+          "summary": "Distiller Records recently landed its first U.K. No. 1 album with Blossoms' sixth studio effort.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5bebc396102",
+          "title": "Yahritza y Su Esencia Joins Double P Management Roster: ‘Their Ceiling Is Extraordinarily High’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/yahritza-y-su-esencia-double-p-management-roster/",
+          "category": "ia",
+          "published_at": "2026-10-28T14:00:00+00:00",
+          "summary": "The música mexicana trio will be co-managed by George Prajin and Adriana Martinez.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d7d73269c4f",
+          "title": "Énergies fossiles et El Niño « hors norme » : le cocktail climatique que redoute l’OMM pour 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2362215-energies-fossiles-et-el-nino-hors-norme-le-cocktail-climatique-que-redoute-lomm-pour-2026.html",
+          "category": "ia",
+          "published_at": "2026-10-28T13:50:00+00:00",
+          "summary": "Les concentrations de gaz à effet de serre « ont atteint des niveaux sans précédent en 2025 », alerte l'Organisation météorologique mondiale (OMM). Le renforcement du phénomène climatique El Niño, attendu à la fin de 2026, risque d'aggraver encore la situation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b8770d4baab",
+          "title": "Ce que la réélection de Lula nous dit du terrain médiatique numérique",
+          "source": "Next INpact",
+          "url": "https://next.ink/264420/ce-que-la-reelection-de-lula-nous-dit-du-terrain-mediatique-numerique/",
+          "category": "ia",
+          "published_at": "2026-10-28T13:39:51+00:00",
+          "summary": "De la contestation du rôle des algorithmes de Meta aux multiples recours à l&#8217;IA générative en passant par le succès initial du «&#160;parti digital&#160;» de Bolsonaro, la campagne présidentielle brésilienne est riche d&#8217;enseignements sur la forme que les discours…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dd62aea4768b",
+          "title": "Avicii’s ‘Levels’ Was Released 15 Years Ago Today: Watch the Moment He Played It For the First Time at a Festival",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/avicii-levels-15-year-anniversary-tomorrowland-2011-set-1236369165/",
+          "category": "ia",
+          "published_at": "2026-10-28T13:30:00+00:00",
+          "summary": "Featuring cameos from Afrojack and Nervo, Avicii's complete Tomorrowland 2011 set is available to stream for the first time.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2619329cd0c1",
+          "title": "Deezer added 300k net new direct subscribers in the last year",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/28/deezer-added-300k-net-new-direct-subscribers-in-the-last-year/",
+          "category": "musique",
+          "published_at": "2026-10-28T13:30:00+00:00",
+          "summary": "Streaming service Deezer has published its financial results for Q3 2026, revealing growth for its direct subscriptions business, but continued decline for its B2B partnerships.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "912d91ccbfa3",
+          "title": "PRS for Music taps Soundtrack for better public-performance data",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/28/prs-for-music-taps-soundtrack-for-better-public-performance-data/",
+          "category": "musique",
+          "published_at": "2026-10-28T13:30:00+00:00",
+          "summary": "UK collecting society PRS for Music’s efforts to boost the accuracy of its payouts continues – this time via a partnership with B2B music supplier Soundtrack.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56b086c5dcb8",
+          "title": "Mexican rockers Maná set for free concert stream on YouTube",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/28/mexican-rockers-mana-set-for-free-concert-stream-on-youtube/",
+          "category": "musique",
+          "published_at": "2026-10-28T13:30:00+00:00",
+          "summary": "Maná are one of the most successful Mexican rock bands ever, with tens of millions of sales (and four Grammys) to prove it since forming in 1981. Now they’re aiming to reach old and new fans alike with a free concert stream on YouTube.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a8eb79ad8f26",
+          "title": "Sound Rink buys stake in Fan Club Pro amid fan-clubs rollout",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/28/sound-rink-buys-stake-in-fan-club-pro-amid-fan-clubs-rollout/",
+          "category": "musique",
+          "published_at": "2026-10-28T13:30:00+00:00",
+          "summary": "Sound Rink has built a business around VIP and presale programs for touring artists, paying out more than $24m to its clients since 2023. It’s also moved into the fan-clubs space, managing Dashboard Confessional’s ‘Saints &#038; Sailors’ club.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1725b352c690",
+          "title": "Anthropic rachète la biotech d’un seul chercheur qui pilotait 11 labos avec Claude pour créer un médicament",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2362303-anthropic-rachete-la-biotech-dun-seul-chercheur-qui-pilotait-11-labos-avec-claude-pour-creer-un-medicament.html",
+          "category": "ia",
+          "published_at": "2026-10-28T13:25:59+00:00",
+          "summary": "Anthropic a annoncé avoir racheté Mithril Medicine. Cette biotech avec un seul salarié a fait passer un traitement contre une myopathie de l'enfant de l'idée aux résultats chez la souris en moins de 18 mois. Son fondateur a confié à Claude une bonne partie de la coordination de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "545ebeb55ca9",
+          "title": "“The boy’s done good!” Andy Burnham’s first 100 days as PM: how is he doing?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/28/the-boys-done-good-andy-burnhams-first-100-days-as-pm-how-is-he-doing/",
+          "category": "musique",
+          "published_at": "2026-10-28T13:09:53+00:00",
+          "summary": "UK prime minister Andy Burnham has now been in office for 100 days – which, frankly, is pretty good going, given the rotating-door policy that 10 Downing Street seems to have had in the last decade. He&#8217;s also, notably, a fan of pop music (here he is in full…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6fee5e937f7f",
+          "title": "Ezekiel Lewis on Leading Epic Records & Finding New Stars | On The Record",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/ezekiel-lewis-epic-records-finding-new-stars-on-the-record/",
+          "category": "musique",
+          "published_at": "2026-10-28T13:00:00+00:00",
+          "summary": "From crafting hit songs to leading one of the music industry’s most storied labels, Epic Records’ newly appointed CEO/chairman is bringing a songwriter’s perspective to the future of artist development. Ezekiel Lewis joins Billboard On The Record host Kristin Robinson this week…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b6285a451674",
+          "title": "BlueChip, le PC « 100 % américain » d’Anduril et Qualcomm, mais qui dépend encore de composants chinois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2362125-bluechip-le-pc-100-americain-danduril-et-qualcomm-mais-qui-depend-encore-de-composants-chinois.html",
+          "category": "ia",
+          "published_at": "2026-10-28T12:50:57+00:00",
+          "summary": "Anduril et Qualcomm ont dévoilé ce mardi 27 octobre BlueChip, un ordinateur portable durci assemblé aux États-Unis. Pour l'instant, environ 90&nbsp;% du coût de ses composants va à des fournisseurs américains ou alliés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be5ee33b9709",
+          "title": "David Bowie’s Previously Unseen 1978 Concert Film ‘Stage’ to Hit Arenas as ‘Immersive Experience’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/david-bowie-unseen-1978-concert-film-stage-arenas-immersive-1236369508/",
+          "category": "musique",
+          "published_at": "2026-10-28T12:44:56+00:00",
+          "summary": "The new stage show will reportedly be a mash-up of concert film and live performance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c859274aa9c4",
+          "title": "Un astre jamais vu, situé encore plus loin que Pluton, pourrait rejoindre le très fermé club des planètes naines du Système solaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2362319-au-dela-de-pluton-on-a-peut-etre-trouve-une-nouvelle-planete-naine-dans-notre-systeme-solaire.html",
+          "category": "ia",
+          "published_at": "2026-10-28T12:31:00+00:00",
+          "summary": "Le télescope Vera C. Rubin a découvert une candidate au titre de planète naine, un astre situé au-delà de l'orbite de Pluton et qui pourrait être une des plus grosses planètes naines jamais découvertes dans cette région.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0eeabb1d2baf",
+          "title": "‘Best Global Brands’ study claims Spotify brand is worth $20.5bn",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/28/best-global-brands-study-claims-spotify-brand-is-worth-20-5bn/",
+          "category": "musique",
+          "published_at": "2026-10-28T12:30:00+00:00",
+          "summary": "We’ve reported regularly on the trends in Spotify’s revenues and market capitalisation, but how about the value of its brand? Courtesy of this year’s ‘Best Global Brands’ study from consultancy firm Interbrand, we have some new stats on that.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9529ccbeb8b",
+          "title": "Event tech startup Easol secures $30M in new funding, launches AI agents for festival promoters",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/event-tech-startup-easol-secures-30m-in-new-funding-launches-ai-agents-for-festival-promoters/",
+          "category": "ia",
+          "published_at": "2026-10-28T11:59:29+00:00",
+          "summary": "The company says the funding allowed it to develop and launch Teammates, a set of AI agents for festival and experience businesses.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e177c81aec1f",
+          "title": "The stalled journey of Brazilian funk highlights a music industry failure",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-stalled-journey-of-brazilian-funk-highlights-a-music-industry-failure/",
+          "category": "ia",
+          "published_at": "2026-10-28T11:58:00+00:00",
+          "summary": "You may have heard of Tamborzão – but you don’t hear a lot of it in mainstream channels outside of Brazil. Bill Werde wonders why not...\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "670df936c215",
+          "title": "Un Tesla Semi prend feu sans raison : sa batterie a brûlé pendant 10 heures",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2362375-un-tesla-semi-prend-feu-sans-raison-sa-batterie-a-brule-pendant-10-heures.html",
+          "category": "ia",
+          "published_at": "2026-10-28T11:40:00+00:00",
+          "summary": "Un Tesla Semi a pris feu sur l'autoroute I-880, près de San Francisco, et la police routière californienne a indiqué que l'incendie a duré 10 heures. Le conducteur, indemne, assure que le camion s'est embrasé sans raison apparente.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb42ae7b21a4",
+          "title": "Appeals court upholds dismissal of patent lawsuit against Live Nation, Ticketmaster, MLB, and Phish, after plaintiff failed to oppose bids to throw it out",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/appeals-court-upholds-dismissal-of-patent-lawsuit-against-live-nation-ticketmaster-mlb-and-phish-after-plaintiff-failed-to-oppose-bids-to-throw-it-out/",
+          "category": "musique",
+          "published_at": "2026-10-28T11:38:34+00:00",
+          "summary": "Amy Weissbrod Gurvey’s legal fight with Live Nation dates back to 2006. The Federal Circuit ruled that she had waived all her arguments.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9ba8741923e",
+          "title": "‘The industry is almost certainly leaving significant revenue on the table.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-industry-is-almost-certainly-leaving-significant-revenue-on-the-table/",
+          "category": "ia",
+          "published_at": "2026-10-28T11:24:44+00:00",
+          "summary": "Vevo’s EVP of Content, Programming and Marketing, JP Evangelista, discusses the power of nostalgia, the opportunities for the future of music video and why the commercial infrastructure around short-form video needs overhauling…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "368ebb09ea38",
+          "title": "Avant l’arrivée de GTA 6, ce SSD Lexar de 1 To compatible PS5 baisse son prix pour faire de la place",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2362313-avant-larrivee-de-gta-6-ce-ssd-lexar-de-1-to-compatible-ps5-baisse-son-prix-pour-faire-de-la-place.html",
+          "category": "ia",
+          "published_at": "2026-10-28T11:15:58+00:00",
+          "summary": "[Deal du jour] GTA 6 sort le 19 novembre 2026 sur PS5, et le préchargement ouvre dès le 12 novembre. Si le stockage de votre console est déjà plein, PC Componentes vend le SSD Lexar NQ790 de 1 To à 167,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "639780442105",
+          "title": "PRS for Music partners with B2B streaming service Soundtrack to get data on music played in 7,000 UK shops, bars and public spaces – and pay royalties accordingly",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/prs-for-music-partners-with-b2b-streaming-service-soundtrack-to-get-data-on-music-played-in-7000-uk-shops-bars-and-public-spaces-and-pay-royalties-accordingly/",
+          "category": "musique",
+          "published_at": "2026-10-28T11:15:03+00:00",
+          "summary": "PRS will begin incorporating that data into royalty payments to songwriters, composers, and music publishers from December 2026.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9144d188927b",
+          "title": "Une faille dans l’UEFI menace les serveurs utilisant le démarrage réseau",
+          "source": "Next INpact",
+          "url": "https://next.ink/264365/une-faille-dans-luefi-menace-les-serveurs-utilisant-le-demarrage-reseau/",
+          "category": "ia",
+          "published_at": "2026-10-28T10:29:37+00:00",
+          "summary": "Une faille de sécurité critique a été découverte dans la plupart des firmwares UEFI utilisés dans les serveurs. Bien qu’elle ne requière pas d’authentification, il faut remplir plusieurs conditions pour l’exploiter, dont l’utilisation du PXE pour le démarrage réseau. Quand on…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24654182ecfb",
+          "title": "Believe’s Denis Ladegaillerie: How It Started…",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believes-denis-ladegaillerie-how-it-started/",
+          "category": "musique",
+          "published_at": "2026-10-28T10:28:45+00:00",
+          "summary": "How It Started… is MBW’s series delving into the origin stories behind the industry’s most notable founder-led companies. It’s over 20 years since Denis Ladegaillerie launched Believe, which has gone on to revolutionize the independent artist and label market worldwide…\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6abfe024c21e",
+          "title": "Songwriter who claimed Drake’s ‘Janice STFU’ chorus was ‘literally identical’ to his demo drops lawsuit after 11 days",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/songwriter-who-claimed-drakes-janice-stfu-chorus-was-literally-identical-to-his-demo-drops-lawsuit-after-11-days/",
+          "category": "ia",
+          "published_at": "2026-10-28T10:27:30+00:00",
+          "summary": "The notice gives no reason for the withdrawal and leaves Aviel Calev Hirschfield free to refile his claim.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b40b7bece64",
+          "title": "JYP: We haven’t received a proposal to buy 25%+ of our shares",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jyp-we-havent-received-a-proposal-to-buy-25-of-our-shares/",
+          "category": "ia",
+          "published_at": "2026-10-28T10:27:07+00:00",
+          "summary": "South Korea’s Financial Supervisory Service warned investors about the plan and said it would investigate if it suspected unfair trading.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8d54ef134f55",
+          "title": "À mi chemin entre le VTC et le longtail, le vélo électrique Nakamura Crosscity+ perd 500 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2362225-a-mi-chemin-entre-le-vtc-et-le-longtail-le-velo-electrique-nakamura-crosscity-perd-500-e.html",
+          "category": "ia",
+          "published_at": "2026-10-28T10:19:47+00:00",
+          "summary": "[Deal du jour] Intersport lance ce mercredi 28 octobre des ventes flash sur une sélection de vélos électriques Nakamura jusqu'au 22 novembre, et le Crosscity+ en fait partie. Ce vélo cargo électrique au format midtail peut emmener un passager à l'arrière. Il passe de 2 199,99 €…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "528d86f1558c",
+          "title": "PS5 : comment augmenter le stockage interne pour installer GTA 6",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/743550-ps5-ssd-comment-augmenter-le-stockage-interne-pour-installer-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-10-28T10:15:41+00:00",
+          "summary": "Depuis 2021 et une mise à jour du système d'exploitation, la PS5 peut augmenter son espace de stockage. L'installation d'un SSD est simple comme bonjour, une fois qu'on a sélectionné le bon produit. Elle sera peut-être indispensable pour télécharger GTA 6, dont le poids…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a0f416cc7a4",
+          "title": "Ghost Rider : le prochain film Marvel fait un choix qui n’a pas été fait depuis 15 ans",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2362147-ghost-rider-le-prochain-film-marvel-fait-un-choix-qui-na-pas-ete-fait-depuis-15-ans.html",
+          "category": "ia",
+          "published_at": "2026-10-28T09:50:00+00:00",
+          "summary": "Le prochain Ghost Rider de Marvel Studios, réalisé par Shawn Levy (Deadpool &amp; Wolverine) va réaliser une grande première pour Marvel depuis 15 ans.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8474a26f62a4",
+          "title": "La Chronique des Bridgerton : date de sortie, casting… La saison 5 annonce une grosse étape",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2229187-la-chronique-des-bridgerton-date-de-sortie-casting-tout-savoir-sur-la-saison-5-centree-sur-francesca-et-michaela.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-28T09:45:00+00:00",
+          "summary": "Depuis ses débuts en 2020, la saga&nbsp;Bridgerton&nbsp;captive les foules en adaptant les quêtes amoureuses de la célèbre fratrie londonienne. Mais après l'annonce officielle du 24 mars 2026, la série entre dans une phase inédite. Alors que les lecteurs attendaient Eloise,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2cc37075913c",
+          "title": "Charge bidirectionnelle : le tacle de Ford à l’écosystème coûteux de Tesla",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2362181-charge-bidirectionnelle-le-tacle-de-ford-a-lecosysteme-couteux-de-tesla.html",
+          "category": "ia",
+          "published_at": "2026-10-28T09:40:37+00:00",
+          "summary": "En annonçant un pick-up électrique à moins de 30 000 dollars (environ 27 000 euros) capable d’alimenter une maison sans onduleur mural hors de prix, Ford adresse un pied de nez assumé à l’écosystème verrouillé de Tesla.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff307f16fe9c",
+          "title": "Intel et l’informatique quantique : je t’aime, moi non plus",
+          "source": "Next INpact",
+          "url": "https://next.ink/263995/intel-et-linformatique-quantique-je-taime-moi-non-plus/",
+          "category": "ia",
+          "published_at": "2026-10-28T09:20:36+00:00",
+          "summary": "Intel ne laisse pas tomber l’informatique quantique, la recherche continue. C’est en substance le message de son patron, mais aussi de ses équipes que nous avons rencontrées à Teratec. La nouvelle version de Tunnel Falls attendue pour 2024 n’a par contre jamais vu le jour. Cela…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fea5e72a8e92",
+          "title": "OpenAI patauge encore en annonçant des « découvertes » scientifiques sans en être sûr",
+          "source": "Next INpact",
+          "url": "https://next.ink/264165/openai-patauge-encore-en-annoncant-des-decouvertes-scientifiques-sans-en-etre-sur/",
+          "category": "ia",
+          "published_at": "2026-10-28T08:24:00+00:00",
+          "summary": "L&#8217;entreprise de Sam Altman continue de promouvoir la puissance de ses outils en les employant sur divers problèmes de recherche scientifique. Mais n&#8217;ayant pas les compétences en interne, elle cherche toujours à savoir comment rendre publique cette production sans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9bdea4448d42",
+          "title": "[MàJ] Le projet de loi « casseurs-payeurs » et le renforcement de Pharos passent au Sénat",
+          "source": "Next INpact",
+          "url": "https://next.ink/263962/mobilisations-matignon-voulait-couper-les-reseaux-le-gouvernement-veut-elargir-pharos/",
+          "category": "ia",
+          "published_at": "2026-10-28T08:14:20+00:00",
+          "summary": "Les centaines de milliers de Français qui sont descendus dans les rues samedi 24 octobre auraient pu se retrouver sans réseaux sociaux. Sébastien Lecornu a en effet demandé aux opérateurs d&#8217;anticiper la possibilité de suspendre l&#8217;accès à plusieurs services «&#160;en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f32e704f5660",
+          "title": "Protection des mineurs en ligne : le constat « préoccupant » du régulateur britannique",
+          "source": "Next INpact",
+          "url": "https://next.ink/264284/protection-des-mineurs-en-ligne-le-constat-preoccupant-du-regulateur-britannique/",
+          "category": "ia",
+          "published_at": "2026-10-28T07:51:00+00:00",
+          "summary": "Depuis l&#8217;été 2025, les grandes plateformes en ligne doivent protéger les enfants des contenus pornographiques, racistes, violents, misogynes, ou liés au suicide ou au harcèlement. Le bilan du régulateur britannique des communications sur l&#8217;Online Safety Act est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "164b855a54e7",
+          "title": "IA : Amazon veut des résultats, pas de tokenmaxxing",
+          "source": "Next INpact",
+          "url": "https://next.ink/264310/ia-amazon-veut-des-resultats-pas-de-tokenmaxxing/",
+          "category": "ia",
+          "published_at": "2026-10-28T07:24:00+00:00",
+          "summary": "Brûler des tokens ne fait pas nécessairement un bon ingénieur. Amazon reconnait les limites de ses indicateurs d&#8217;utilisation de l&#8217;IA, et demande à ses équipes de privilégier les résultats concrets. Même si les indicateurs restent en place. Amazon ne veut plus faire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5424023daf3",
+          "title": "Élections : OpenAI encadre la génération d’images par ChatGPT, mais le flou persiste",
+          "source": "Next INpact",
+          "url": "https://next.ink/264304/elections-openai-encadre-la-generation-dimages-par-chatgpt-mais-le-flou-persiste/",
+          "category": "ia",
+          "published_at": "2026-10-28T06:58:52+00:00",
+          "summary": "À l&#8217;approche des élections américaines de mi-mandat, OpenAI resserre les conditions d&#8217;utilisation de ChatGPT, tout particulièrement de la fonction de génération d&#8217;images. Alors que les élections de mi-mandat se dérouleront le 3 novembre aux États-Unis, ChatGPT…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-27",
       "articles": [
+        {
+          "id": "d8e2f3f6148a",
+          "title": "Spotify’s potential bill if The MLC wins its ‘bundling’ lawsuit outright rises to $619M",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotifys-potential-bill-if-the-mlc-wins-its-bundling-lawsuit-outright-rises-to-619m/",
+          "category": "musique",
+          "published_at": "2026-10-27T18:19:21+00:00",
+          "summary": "Potential liability if The MLC wins its 'bundling' lawsuit outright has risen to approximately EUR €538M, according to Spotify’s Q3 2026 financial statements\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77f7437c477a",
+          "title": "Le nᵒ 2 du Pentagone crée une nouvelle unité de sabotage, au risque de conflits d’intérêts",
+          "source": "Next INpact",
+          "url": "https://next.ink/263544/le-n%e1%b5%92-2-du-pentagone-cree-une-nouvelle-unite-de-sabotage-au-risque-de-conflits-dinterets/",
+          "category": "ia",
+          "published_at": "2026-10-27T16:43:35+00:00",
+          "summary": "Devenu secrétaire adjoint à la Défense de Trump, le milliardaire Steve Feinberg a d&#8217;abord annoncé vouloir réformer la façon dont le milliard de milliards de budget du Pentagone serait dépensé. Il a ensuite créé une agence secrète de sabotage « dotée de ses propres pouvoirs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "768f394929df",
+          "title": "☕️ OpenAI lance GPT-6.1 Terra à l’assaut du rapport performances/prix",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/openai-lance-gpt-6-1-terra-a-lassaut-du-rapport-performances-prix/",
+          "category": "institutionnel",
+          "published_at": "2026-10-27T16:15:46+00:00",
+          "summary": "Commençons par un rappel. OpenAI propose quatre gammes de modèles, du moins cher au plus «&#160;capable&#160;». Luna est ainsi vendu comme le modèle le plus rapide pour les questions courantes, Terra comme le modèle à tout faire, Sol pour les tâches complexes et Astra pour les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "788965f56faf",
+          "title": "Travail du clic : Scale AI poursuivie en justice dans quatre pays européens",
+          "source": "Next INpact",
+          "url": "https://next.ink/264263/travail-du-clic-scale-ai-poursuivie-en-justice-dans-quatre-pays-europeens/",
+          "category": "ia",
+          "published_at": "2026-10-27T16:06:19+00:00",
+          "summary": "Quatre organisations européennes déposent cinq plaintes contre la société états-unienne Scale AI. Par l’intermédiaire de sa plateforme Outlier, celle-ci déploie en effet une quinzaine de traçeurs sur les ordinateurs des annotatrices et annotateurs qui lui prêtent leurs service.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c746fae47470",
+          "title": "IA : la Linux Foundation constate l’épuisement croissant des contributeurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/264168/ia-et-logiciel-libre-la-linux-foundation-fait-le-point/",
+          "category": "ia",
+          "published_at": "2026-10-27T14:32:03+00:00",
+          "summary": "Quel effet produit l’IA sur le développement open source ? Selon un rapport de la Linux Foundation, il est conséquent, entre augmentation de la production brute, abaissement du ticket d&#8217;entrée, obligation plus intense de relecture et épuisement d&#8217;une partie des…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "208bd13c1ea7",
           "title": "☕️ Apple met du M6 dans l’iMac et le MacBook Pro",
