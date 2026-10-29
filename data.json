@@ -1,9 +1,514 @@
 {
-  "generated_at": "2026-10-28T15:05:59.773067+00:00",
+  "generated_at": "2026-10-29T15:13:22.923221+00:00",
   "days": [
+    {
+      "date": "2026-10-29",
+      "articles": [
+        {
+          "id": "f61f72cc9513",
+          "title": "☕️ Après Deliveroo, DoorDash veut avaler Instacart pour 17 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apres-deliveroo-doordash-veut-avaler-instacart-pour-17-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-10-29T15:02:00+00:00",
+          "summary": "Et à la fin, il n&#8217;en restera qu&#8217;un (service de livraison de repas et de courses). Après avoir dévoré Deliveroo l&#8217;an dernier pour 3,4 milliards d&#8217;euros, DoorDash veut maintenant avaler tout cru son concurrent Instacart. La transaction, en cash et en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdd47db452ea",
+          "title": "Banque Populaire et Caisse d’Épargne : des paiements affichés en double et des virements perturbés, que se passe-t-il ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2363529-banque-populaire-et-caisse-depargne-des-paiements-affiches-en-double-et-des-virements-perturbes-que-se-passe-t-il.html",
+          "category": "ia",
+          "published_at": "2026-10-29T15:01:16+00:00",
+          "summary": "Des clients de la Banque Populaire et de la Caisse d’Épargne sont alertés d'un incident susceptible de provoquer des débits en double sur leurs comptes bancaires, ce 29 octobre 2026. Le problème viendrait d'un autre établissement français, mais son origine exacte reste à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "261d25998c2c",
+          "title": "Orgueil et Préjugés (1995) : où revoir gratuitement la série culte avant la version Netflix ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2363679-orgueil-et-prejuges-1995-ou-revoir-gratuitement-la-serie-culte-avant-la-version-netflix.html",
+          "category": "ia",
+          "published_at": "2026-10-29T14:54:35+00:00",
+          "summary": "Après La Petite Maison dans la prairie, Netflix s’attaque à Jane Austen avec sa propre adaptation d'Orgueil et Préjugés, attendue le 3 décembre 2026. La mini-série de la BBC de 1995, elle, se regarde déjà gratuitement en France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed10e28c4be3",
+          "title": "[MàJ] Mistral lance la version finale de Mistral et publie ses poids ouverts",
+          "source": "Next INpact",
+          "url": "https://next.ink/260208/mistral-lance-une-preversion-de-son-llm-frontiere-mistrale-large-surnomme-le-chonk/",
+          "category": "institutionnel",
+          "published_at": "2026-10-29T14:34:48+00:00",
+          "summary": "Surnommé «&#160;Le Chonk&#160;», le nouveau LLM de frontière Mistral Large 4 est finalement disponible pour tous et ses poids ouverts ont été publiés. Il doit remettre l’entreprise française dans la course, après de longs mois de quasi-silence sur les grands modèles. Mise à jour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54436b3b3b8f",
+          "title": "Hayley Silvertown named Chief Legal and Business Affairs Officer at Create Music Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hayley-silvertown-named-chief-legal-and-business-affairs-officer-at-create-music-group/",
+          "category": "musique",
+          "published_at": "2026-10-29T14:00:50+00:00",
+          "summary": "In the role, Silvertown will oversee Create's legal and business affairs functions and partner with the executive team on strategic transactions, investments, and partnerships.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a826dd6fcd50",
+          "title": "How Dalvin La Melodía Went From Having ‘Nothing’ to Dominating the Billboard Charts as a Bachata Star",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/up-and-coming-latin-artist-of-month-dalvin-october-2026-1236369789/",
+          "category": "musique",
+          "published_at": "2026-10-29T14:00:00+00:00",
+          "summary": "Meet Billboard's Latin Up-And-Comer Artist of the Month for October.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db994f94dd27",
+          "title": "Jay Wheeler & Zhamira Headline Billboard En Vivo at Billboard Latin Music Week 2026 | Billboard News",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/jay-wheeler-zhamira-headline-billboard-en-vivo-2026/",
+          "category": "musique",
+          "published_at": "2026-10-29T14:00:00+00:00",
+          "summary": "This is sponsored content. Billboard Latin Music Week 2026 brought the heat to Miami, capping the week with Billboard En Vivo, an unforgettable night of live performances, culture and fan-first experiences at Wynwood Marketplace. Headliners Jay Wheeler and Zhamira delivered…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b11a3b96b326",
+          "title": "LAMC Announces 2027 Conference Dates: ‘Where Indies & Majors Come to Meet’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/latin-alternative-music-conference-2027-dates/",
+          "category": "musique",
+          "published_at": "2026-10-29T14:00:00+00:00",
+          "summary": "Registration is now open for the 2027 Latin Alternative Music Conference, which returns to the Intercontinental New York Times Square.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d5276cb30162",
+          "title": "Fontaines D.C.’s ‘Dopamine Chamber’ Debuts at No. 1 on 3 Billboard Album Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/fontaines-dc-dopamine-chamber-number-1-album-charts-1236370230/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:53:09+00:00",
+          "summary": "It arrives in the top 10 across seven charts in total, plus a career-high entry on the Billboard 200.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8d97ef940f6",
+          "title": "IA : chez Google, Carbon supplante déjà Argon",
+          "source": "Next INpact",
+          "url": "https://next.ink/264762/ia-chez-google-carbon-supplante-deja-argon/",
+          "category": "ia",
+          "published_at": "2026-10-29T13:51:28+00:00",
+          "summary": "Argon tout juste présenté il y a un mois, Google l&#8217;éclipse déjà par un nouveau venu&#160;: Carbon. Il prend la tête des modèles de pointe de l’entreprise, mais il n’est pas encore disponible et les détails manquent. Google a présenté Argon le 30 septembre comme premier…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ef3c68467baf",
+          "title": "Suno launches MCP server to ‘create music right from the chat’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/suno-launches-mcp-server-to-create-music-right-from-the-chat/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:30:00+00:00",
+          "summary": "Music-industry professionals have been rushing to connect various Model Context Protocol (MCP) servers to their AI chatbots of choice. However, there may be more reluctance in some quarters to add the latest launch: it&#8217;s from Suno.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "361f122f80f5",
+          "title": "Deals roundup: CMG x DistroKid, Monstercat, Peermusic and more",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/deals-roundup-cmg-x-distrokid-monstercat-peermusic-and-more/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:30:00+00:00",
+          "summary": "The last 24 hours has seen a new flurry of dealmaking between music companies, starting with the news that Create Music Group (CMG) has bought a minority stake in distributor DistroKid, making it a co-investor with private-equity firm CVC Capital Partners.\nThe post is from Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c104ba73d02",
+          "title": "Live focus: Sam Fender bot attack, Easol’s $30m funding round",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/live-focus-sam-fender-bot-attack-easols-30m-funding-round/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:30:00+00:00",
+          "summary": "Earlier this week we reported on artist Sam Fender promising to cut ticket prices and ditch the &#8216;premium standing&#8217; zone for his upcoming stadium concerts in the UK. Now the tour is making headlines of another kind – for bot disruption.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d36f33cffde3",
+          "title": "Indies update: Merlin’s Japan payouts, Impala’s EDI report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/indies-update-merlins-japan-payouts-impalas-edi-report/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:30:00+00:00",
+          "summary": "Independent licensing agency Merlin is celebrating the 10th anniversary of opening its office in Japan with some new stats. Merlin says that its payouts to Japanese members have grown by nearly 60% in the last five years.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e1f1ece803c",
+          "title": "Roblox game Steal An Egg has 9.7bn visits – and now a Jonas Brothers concert",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/roblox-game-steal-an-egg-has-9-7bn-visits-and-now-a-jonas-brothers-concert/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:30:00+00:00",
+          "summary": "Here&#8217;s a timely snapshot of how fast games can blow up on Roblox. Steal An Egg only launched towards the end of July this year, but has already racked up more than 9.7bn visits for gameplay summarised as &#8220;Steal eggs from pets. Hatch eggs to collect rare pets. Earn…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "994f869cf5a4",
+          "title": "Copyright Alliance warns creative firms about Meta’s new terms of service",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/copyright-alliance-warns-creative-firms-about-metas-new-terms-of-service/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:30:00+00:00",
+          "summary": "Meta has been taking some heat recently for an imminent change to the terms of service for its business accounts – that&#8217;s anyone using Facebook, Messenger, Instagram and WhatsApp as a business rather than an individual.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ff465a9699e",
+          "title": "Une affiche originale de Donkey Kong devient l’œuvre d’art liée à un jeu vidéo la plus chère jamais vendue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2363103-une-affiche-originale-de-donkey-kong-devient-loeuvre-dart-liee-a-un-jeu-video-la-plus-chere-jamais-vendue.html",
+          "category": "ia",
+          "published_at": "2026-10-29T13:01:00+00:00",
+          "summary": "Sauvée de la poubelle par une ancienne employée de Nintendo, une illustration originale de Donkey Kong, réalisée en 1981, vient d’être adjugée à 329 400 dollars (environ 294 000 euros). Une vente record pour une œuvre d’art liée au jeu vidéo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "543f6abf7064",
+          "title": "John Stamos Spin-off Group California Sound to Replace Beach Boys at Epcot Gig Amid Mike Love’s Health Issues",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/john-stamos-california-sound-replace-beach-boys-epcot-love-1236370199/",
+          "category": "ia",
+          "published_at": "2026-10-29T13:00:58+00:00",
+          "summary": "The Full House star and frequent Beach Boys collaborator will take the stage at the Eat to the Beat event on Nov. 11-12.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3e303e1e7d67",
+          "title": "Jared Gutstadt’s Audio Chateau Records secures up to $9M in Series A financing, with Poo Bear joining as strategic advisor",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/jared-gutstadts-audio-chateau-records-secures-up-to-9m-in-series-a-financing-with-poo-bear-joining-as-strategic-advisor/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:00:12+00:00",
+          "summary": "The company said the money will support the next phase of its artist-development model, which brings together record-label functions, content production, and commercial partnerships across sports, brands, live entertainment, and media.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "45024ec78489",
+          "title": "Charts That Got Ghosted: Remembering Long-Lost Billboard Lists",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/charts-retired-billboard/",
+          "category": "musique",
+          "published_at": "2026-10-29T13:00:00+00:00",
+          "summary": "Top Compact Disks, Hot Ringtones and other charts dearly departed as the industry continuously evolves.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9e39b7421f5",
+          "title": "Découvrez la « queue de chat » le résultat d’une énorme collision cosmique",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2363363-decouvrez-la-queue-de-chat-le-resultat-dune-enorme-collision-cosmique.html",
+          "category": "ia",
+          "published_at": "2026-10-29T12:31:00+00:00",
+          "summary": "Une étrange structure cosmique visible dans la constellation du Peintre serait la conséquence d'une collision entre deux astéroïdes géants ou deux planètes naines. Surnommé la queue de chat, ce panache pourrait s'étendre sur quelque 150 milliards de kilomètres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1aa061381719",
+          "title": "YouTube hits milestone of 150m Music and Premium subscriptions",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/youtube-hits-milestone-of-150m-music-and-premium-subscriptions/",
+          "category": "musique",
+          "published_at": "2026-10-29T12:30:00+00:00",
+          "summary": "YouTube&#8217;s parent company Alphabet published its latest quarterly financial results yesterday. While that&#8217;s usually a spur for us to report on the growth of YouTube&#8217;s advertising revenues, the Q3 numbers came with a new milestone for its subscription…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20493cbc40f7",
+          "title": "Essai Peugeot E-208 GTi : le prétendu sacrilège électrique est la bombinette la plus excitante du moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2361721-essai-peugeot-e-208-gti-le-pretendu-sacrilege-electrique-est-la-bombinette-la-plus-excitante-du-moment.html",
+          "category": "ia",
+          "published_at": "2026-10-29T12:20:00+00:00",
+          "summary": "Un badge qui respire la sportivité, des routes de campagne sinueuses et une météo menaçante : un cocktail annonçant un essai des plus frissonnants. J'ai essayé la nouvelle Peugeot E-208 GTi, la petite voiture électrique la plus sensationnelle du moment.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c429574fb8b",
+          "title": "India’s regional-language artists say “music is a language on its own”",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/indias-regional-language-artists-say-music-is-a-language-on-its-own/",
+          "category": "musique",
+          "published_at": "2026-10-29T12:00:38+00:00",
+          "summary": "By Music Ally South Asia’s calculations, around 40% of the tracks to peak inside the top ten of Spotify’s Top Songs chart for India in 2026 have been in a [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c156ee3e68ff",
+          "title": "Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+          "category": "cnil",
+          "published_at": "2026-10-29T12:00:00+00:00",
+          "summary": "Le 22 octobre 2026, la CNIL a sanctionné les sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT d’une amende de 7&amp;nbsp;millions d’euros pour non-respect des règles applicables en matière de traceurs (cookies).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4518080f12c4",
+          "title": "YouTube Music and Premium surpass 150 million subscribers globally",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/youtube-music-and-premium-surpass-150-million-subscribers-globally/",
+          "category": "musique",
+          "published_at": "2026-10-29T11:53:50+00:00",
+          "summary": "Google and Alphabet CEO Sundar Pichai disclosed the milestone on Wednesday (October 28)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7bdd80d5e66a",
+          "title": "Voici les 10 films d’horreur de 2026 les plus populaires en streaming pour Halloween",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2363435-voici-les-10-films-dhorreur-de-2026-les-plus-populaires-en-streaming-pour-halloween.html",
+          "category": "ia",
+          "published_at": "2026-10-29T11:45:00+00:00",
+          "summary": "Le spécialiste du streaming JustWatch a publié ce mercredi 28 octobre son classement des dix films d&#8217;horreur sortis en 2026 les plus populaires sur sa plateforme à l&#8217;approche d&#8217;Halloween. À quelques jours d&#8217;Halloween, ces données montrent quels films de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff37998aadad",
+          "title": "Après l’Allemagne, l’Italie réclame une homologation rapide du FSD de Tesla en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2363395-apres-lallemagne-litalie-reclame-une-homologation-rapide-du-fsd-de-tesla-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-10-29T11:30:00+00:00",
+          "summary": "Matteo Salvini, ministre italien des Transports, a apporté son soutien à une homologation rapide du FSD de Tesla dans l'Union européenne, après un échange avec Elon Musk. L'Italie rejoint l'Allemagne, qui demandait déjà la même chose début octobre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "919345264b8c",
+          "title": "The Orbit Academy is “a finishing school” for emerging artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/the-orbit-academy-is-a-finishing-school-for-emerging-artists/",
+          "category": "ia",
+          "published_at": "2026-10-29T11:15:18+00:00",
+          "summary": "The Orbit Academy is a new Mumbai-based music institute that describes itself as a “finishing school” offering an artist development programme specifically designed for emerging musicians. Conceptualised for vocalists, instrumentalists [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "31c84a776771",
+          "title": "Vous vous souvenez de Virgin Galactic ? Ils ont un nouveau vaisseau ««« spatial »»»",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2363215-vous-vous-souvenez-de-virgin-galactic-ils-ont-un-nouveau-vaisseau-spatial.html",
+          "category": "ia",
+          "published_at": "2026-10-29T11:01:00+00:00",
+          "summary": "Virgin Galactic a dévoilé ce mercredi 28 octobre Apeiron, le premier exemplaire de sa nouvelle génération de vaisseaux suborbitaux, avec des vols commerciaux annoncés pour le printemps 2027. L'entreprise n'a plus fait voler de clients depuis juin 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bdfa30d22ca0",
+          "title": "Addiction aux réseaux sociaux : Meta a voulu monter les chercheurs contre l’un d’entre eux",
+          "source": "Next INpact",
+          "url": "https://next.ink/264621/addiction-aux-reseaux-sociaux-meta-a-voulu-monter-les-chercheurs-contre-lun-dentre-eux/",
+          "category": "ia",
+          "published_at": "2026-10-29T10:58:50+00:00",
+          "summary": "Dans un procès concernant la mise en place de mécanismes d&#8217;addiction visant les ados sur ses plateformes, des documents révèlent que Meta a réfléchi à un plan pour discréditer Jonathan Haidt, un des psychologues les plus critiques de l&#8217;entreprise. À la fin de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "24313e4f69d2",
+          "title": "« Mise en demeure » : attention à ce faux courrier des impôts qui vous piège avec un simple QR code",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2363331-mise-en-demeure-attention-a-ce-faux-courrier-des-impots-qui-vous-piege-avec-un-simple-qr-code.html",
+          "category": "ia",
+          "published_at": "2026-10-29T10:40:29+00:00",
+          "summary": "La Police nationale a alerté jeudi 29 octobre 2026 sur de faux courriers de la DGFiP qui renvoient, par un QR code, vers un site frauduleux. Les escrocs y visent les identifiants fiscaux et la phrase de récupération des portefeuilles de cryptomonnaies.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5c5a0e65c99",
+          "title": "Continuer sans accepter : Fnac Darty vous traçait quand même, 7 millions d’euros d’amende",
+          "source": "Next INpact",
+          "url": "https://next.ink/264650/continuer-sans-accepter-fnac-darty-vous-tracait-quand-meme-7-millions-deuros-damende/",
+          "category": "cnil",
+          "published_at": "2026-10-29T10:36:47+00:00",
+          "summary": "Fnac Darty collectait et traitait des données personnelles de ses utilisateurs sans recueillir leur consentement ; même lorsqu’ils refusaient explicitement. L’entreprise estimait que ses usages étaient « strictement nécessaires ». La CNIL sanctionne l’entreprise à 7 millions…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "335c57f1965f",
+          "title": "Cyberpunk 2 : des missions multijoueurs pourraient débarquer dans la suite de Cyberpunk 2077",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2363129-cyberpunk-2-des-missions-multijoueurs-pourraient-debarquer-dans-la-suite-de-cyberpunk-2077.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-29T10:31:00+00:00",
+          "summary": "Une offre d’emploi de CD Projekt Red laisse entrevoir la possibilité de réaliser des quêtes en multijoueur dans Cyberpunk 2. Une fonction qui permettrait de découvrir Night City avec des amis, alors que le premier épisode avait finalement abandonné l'idée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9cd50f162519",
+          "title": "SkillBox has launched an “AI-powered ‘event creation’ engine",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/skillbox-has-launched-an-ai-powered-event-creation-engine/",
+          "category": "musique",
+          "published_at": "2026-10-29T10:25:15+00:00",
+          "summary": "Indian live entertainment company SkillBox has launched Zenith Studio, an “AI-powered ‘event creation’ engine” that enables organisers to generate listings, descriptions, ticketing information and artwork using a single-line prompt or [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b47d228eeef3",
+          "title": "Pourquoi cette boîte à deux vitesses pourrait changer la donne pour les motos électriques sur autoroute",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2363131-pourquoi-cette-boite-a-deux-vitesses-pourrait-changer-la-donne-pour-les-motos-electriques-sur-autoroute.html",
+          "category": "ia",
+          "published_at": "2026-10-29T10:15:00+00:00",
+          "summary": "L'entreprise britannique E-Motiv Shift Systems présentera au salon EICMA de Milan sa boîte à deux vitesses pour motos électriques, montée sur un deux-roues de démonstration. Les premiers essais sur route sont prévus pour janvier 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f67ae9020ca",
+          "title": "El Niño menace les puits de carbone : l’OMM craint une nouvelle flambée de CO2 en 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2362215-el-nino-menace-les-puits-de-carbone-lomm-craint-une-nouvelle-flambee-de-co2-en-2026.html",
+          "category": "ia",
+          "published_at": "2026-10-29T10:05:00+00:00",
+          "summary": "Les concentrations de gaz à effet de serre « ont atteint des niveaux sans précédent en 2025 », alerte l'Organisation météorologique mondiale (OMM). Le renforcement du phénomène climatique El Niño, attendu à la fin de 2026, risque d'aggraver encore la situation.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0e55db8a09d",
+          "title": "Hunger Games : Jennifer Lawrence confirme la surprise que les fans attendaient",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2363143-hunger-games-jennifer-lawrence-confirme-la-surprise-que-les-fans-attendaient.html",
+          "category": "ia",
+          "published_at": "2026-10-29T10:03:00+00:00",
+          "summary": "Katniss Everdeen reprend du service ? Jennifer Lawrence a enfin confirmé ce mercredi 28 octobre 2026 ce que tout le monde attendait pour Hunger Games : Sunrise on the Reaping.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce7b2a944a97",
+          "title": "80 km/h sur autoroute : quand la Suisse punit l’électrique pour sauver ses réserves de pétrole",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2363163-pour-economiser-lessence-la-suisse-songe-a-brider-tout-le-monde-a-80-km-h-meme-les-voitures-electriques.html",
+          "category": "ia",
+          "published_at": "2026-10-29T09:57:11+00:00",
+          "summary": "Pour parer à une éventuelle pénurie de carburant, la Suisse envisagerait de brider temporairement ses autoroutes à 80 km/h. Une mesure d'urgence tout droit sortie des années 1970 qui s'appliquerait à tous, y compris aux voitures électriques qui n'ont pourtant pas besoin d'une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c5a5da0c94b",
+          "title": "Le bruit de fond d’Internet : après la tempête IPv4, le désert IPv6",
+          "source": "Next INpact",
+          "url": "https://next.ink/264553/attaques-et-scans-sur-internet-en-ipv6-le-silence-est-assourdissant/",
+          "category": "ia",
+          "published_at": "2026-10-29T09:05:40+00:00",
+          "summary": "Pour vivre heureux, vivons cachés. C’est un peu le proverbe qu’on pourrait appliquer à des serveurs sur Internet : passer en IPv6 seulement permet de limiter drastiquement le bruit de fond d’Internet, les milliers/millions de sondes et autres bots qui passent chaque jour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0cb0645de6f5",
+          "title": "Smart TV : de l’intelligence artificielle contre la bêtise réelle",
+          "source": "Next INpact",
+          "url": "https://next.ink/264547/smart-tv-de-lintelligence-artificielle-contre-la-betise-reelle/",
+          "category": "ia",
+          "published_at": "2026-10-29T08:09:07+00:00",
+          "summary": "Et si l’IA ouvrait grandes les portes d’une forme de réappropriation technologique ? Une certaine ironie, quand on connait ses effets sur le prix de la mémoire. Mais un nombre croissant de personnes se lancent dans des projets permettant de modifier en profondeur certains…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c53642d1389",
+          "title": "Primary Wave’s Larry Mestel receives City of Hope’s Spirit of Life Award, raising millions of dollars for cancer research",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/primary-waves-larry-mestel-receives-city-of-hopes-spirit-of-life-award-raising-millions-of-dollars-for-cancer-research/",
+          "category": "ia",
+          "published_at": "2026-10-29T07:07:43+00:00",
+          "summary": "Stevie Nicks, Melissa Etheridge, and Jackson Browne performed at the event on Tuesday (October 27) at the Pacific Design Center in West Hollywood.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32bdf222c5d8",
+          "title": "L’IA remplit les rayons de Steam, les développeurs sont inquiets",
+          "source": "Next INpact",
+          "url": "https://next.ink/264579/lia-remplit-les-rayons-de-steam-les-developpeurs-sont-inquiets/",
+          "category": "ia",
+          "published_at": "2026-10-29T07:02:32+00:00",
+          "summary": "Une avalanche de jeux médiocres générée par IA a enseveli les utilisateurs de Steam durant l&#8217;événement Next Fest, organisé du 19 au 26 octobre. Cette opération consiste à faire la promotion des démos jouables pour « célébrer&#160;» les jeux à venir. L&#8217;édition de cet…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "articles": [
+        {
+          "id": "8e4dd1e7526b",
+          "title": "Exclusive: Create Music Group now owns a minority stake in DistroKid",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/create-music-group-now-owns-a-minority-stake-in-distrokid/",
+          "category": "musique",
+          "published_at": "2026-10-28T20:15:37+00:00",
+          "summary": "Create, supported by private capital backers Flexpoint Ford and Ares, made the investment earlier this year\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9f0c158073b7",
+          "title": "After ‘AI bots’ swamp Raye’s London show sign-up, Sam Fender delays UK homecoming presale over ‘sophisticated bot attack’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/after-ai-bots-swamp-rayes-london-show-sign-up-sam-fender-delays-uk-homecoming-presale-over-sophisticated-bot-attack/",
+          "category": "ia",
+          "published_at": "2026-10-28T20:12:57+00:00",
+          "summary": "Sam Fender postponed the presale for his two homecoming shows at Newcastle's St James' Park on Wednesday (October 28)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d796c8a77a48",
+          "title": "Apple retourne sa veste et lance un MacBook Pro tactile",
+          "source": "Next INpact",
+          "url": "https://next.ink/264570/apple-retourne-sa-veste-et-lance-un-macbook-pro-tactile/",
+          "category": "ia",
+          "published_at": "2026-10-28T18:17:12+00:00",
+          "summary": "Seuls les imbéciles ne changent jamais d&#8217;avis. Après avoir longtemps expliqué pourquoi un écran tactile n’avait rien à faire sur un Mac, Apple en équipe ses nouveaux MacBook Pro OLED vendus au prix fort. Plus rien n&#8217;est sacré chez Apple, et surtout pas la parole de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "27e5c52fd0dd",
+          "title": "Peermusic acquires Australia’s 120 Publishing, names Karen Hamilton MD of Peermusic Australia",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/peermusic-acquires-australias-120-publishing-names-karen-hamilton-md-of-peermusic-australia/",
+          "category": "musique",
+          "published_at": "2026-10-28T16:28:31+00:00",
+          "summary": "The deal gives Peermusic the publishing rights to 120 Publishing's approximately 5,000 works and 120,000 administered copyrights\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c66a8e6aeead",
+          "title": "On ressuscite une tablette de 15 ans sous Android 4.0 pour Home Assistant !",
+          "source": "Next INpact",
+          "url": "https://next.ink/264312/on-ressuscite-une-tablette-de-15-ans-sous-android-4-0-pour-home-assistant/",
+          "category": "ia",
+          "published_at": "2026-10-28T16:27:08+00:00",
+          "summary": "Next vous explique comment donner une seconde vie à une tablette de 15 ans, bloquée sous Android 4.0 : elle peut devenir un écran déporté pour Home Assistant et ainsi gérer la domotique de la maison. Cela demande quelques manipulations, mais le résultat est à la hauteur des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "355c505aa3ba",
+          "title": "Un compte Instagram contre Trump temporairement fermé, Zuckerberg sommé d’expliquer",
+          "source": "Next INpact",
+          "url": "https://next.ink/264491/un-compte-instagram-contre-trump-temporairement-ferme-zuckerberg-somme-dexpliquer/",
+          "category": "ia",
+          "published_at": "2026-10-28T16:06:00+00:00",
+          "summary": "Alors que les élections de mi-mandat arrivent, Mark Zuckerberg est sommé par des élus démocrates de s&#8217;expliquer sur le blocage temporaire d&#8217;un compte «&#160;No Kings&#160;» qui co-organise des manifestations aux États-Unis contre l&#8217;autoritarisme de Donald…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2caa895b61fe",
+          "title": "☕️ Microsoft lâche la version de Copilot pour les télés connectées",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/microsoft-lache-la-version-de-copilot-pour-les-teles-connectees/",
+          "category": "ia",
+          "published_at": "2026-10-28T15:29:30+00:00",
+          "summary": "Le saviez-vous ? Il existe une version de Copilot pour les télés connectées, mais les jours de cet assistant sont comptés. LG a en effet commencé à prévenir les utilisateurs de ses téléviseurs sous webOS que « Microsoft a récemment décidé de mettre fin à la prise en charge de…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "bb9e05a49afe",
           "title": "Harry Shum Jr. and Jenna Johnson Scare Up a Wickedly Spooky Dance to a Britney Spears Classic on ‘DWTS’: Watch",
