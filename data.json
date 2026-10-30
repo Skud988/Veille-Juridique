@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-10-29T15:13:22.923221+00:00",
+  "generated_at": "2026-10-30T15:05:20.944044+00:00",
   "days": [
+    {
+      "date": "2026-10-30",
+      "articles": [
+        {
+          "id": "20b4a1adafd6",
+          "title": "Queens of the Stone Age Finds Healing in New Album ‘Perfecth’: ‘What Has Been Shattered is Made More Beautiful by the Act of Repair’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/queens-of-the-stone-new-album-perfecth-interview-1236370959/",
+          "category": "ia",
+          "published_at": "2026-10-30T15:02:48+00:00",
+          "summary": "The Californian band will perform in Mexico alongside Interpol, and will headline Lollapalooza in Argentina, Chile and Brazil in 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce268d7ebf95",
+          "title": "Hubble a une chance sur deux de s’écraser d’ici 2033, alors la Nasa cherche un plan de sauvetage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2364559-hubble-a-une-chance-sur-deux-de-secraser-dici-2033-alors-la-nasa-cherche-un-plan-de-sauvetage.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-30T14:50:00+00:00",
+          "summary": "La Nasa a lancé un appel à idées auprès des industriels pour remonter l'orbite du télescope Hubble, le réparer ou organiser sa rentrée dans l'atmosphère, avec un lancement d'ici 2032. En 2024, l'agence avait refusé une mission privée de ce type.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2458e77cb745",
+          "title": "‘Occupational Hazard’ Rock Doc Details the Untold Story of Jimmy Buffett’s ‘Ragtag,’ Pre-Fame Coral Reefer Band",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/occupational-hazard-documentary-jimmy-buffett-1236370741/",
+          "category": "ia",
+          "published_at": "2026-10-30T14:34:35+00:00",
+          "summary": "\"Those were wild times,\" says director John H. Cunningham.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "997bf5984745",
+          "title": "Music Ally Marketing Week agenda preview",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/music-ally-marketing-week-agenda-preview/",
+          "category": "musique",
+          "published_at": "2026-10-30T14:33:45+00:00",
+          "summary": "We are delighted to give you a first preview at the agenda for the marketing summit of Music Ally Marketing Week! \nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2dc3412e1f9d",
+          "title": "Spotify and Harry Styles throw Halloween party to close historic residency",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/spotify-and-harry-styles-throw-halloween-party-to-close-historic-residency/",
+          "category": "musique",
+          "published_at": "2026-10-30T14:31:06+00:00",
+          "summary": "Harry Styles plays the last of his 30 nights at Madison Square Garden on 31 October, and Spotify is marking the occasion with a free dance party elsewhere in New York the same evening.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c79459f10f1a",
+          "title": "L’une des grosses exclusivités de la Switch 2 est repoussée à 2027",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2364563-lune-des-grosses-exclusivites-de-la-switch-2-est-repoussee-a-2027.html",
+          "category": "ia",
+          "published_at": "2026-10-30T14:28:16+00:00",
+          "summary": "FromSoftware a annoncé ce jeudi 29 octobre le report à 2027 de The Duskbloods, son exclusivité Nintendo Switch 2 initialement attendue pour 2026. Une officialisation guère surprenante, tant le studio est resté discret sur son jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97fb9ba863ab",
+          "title": "Binance : 6,3 milliards de dollars dérobés dans un casse crypto record",
+          "source": "Next INpact",
+          "url": "https://next.ink/264981/binance-63-milliards-de-dollars-derobes-dans-un-casse-crypto-record/",
+          "category": "ia",
+          "published_at": "2026-10-30T14:28:14+00:00",
+          "summary": "Le casse crypto du siècle. La plateforme Binance a suspendu une partie des transactions après qu&#8217;elle a été victime d&#8217;un piratage de grande ampleur. 6,3 milliards de dollars en cryptomonnaies ont été dérobés. Binance a confirmé être victime d&#8217;un vol de cryptos…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc637785be69",
+          "title": "BigXthaPlug reveals album features with localised billboards",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/bigxthaplug-reveals-album-features-with-localised-billboards/",
+          "category": "musique",
+          "published_at": "2026-10-30T14:27:37+00:00",
+          "summary": "BigXthaPlug releases his fourth studio album Better Over Time on 30 October, and the rollout has included one of the more inventive feature reveals we’ve seen this year. Rather than posting a tracklist, his team put up billboards of each guest artist in their own hometown: Lil…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "65d5e9421355",
+          "title": "Reddit’s new feed could help artists reach new audiences",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/reddits-new-feed-could-help-artists-reach-new-audiences/",
+          "category": "musique",
+          "published_at": "2026-10-30T14:23:35+00:00",
+          "summary": "Reddit is the latest platform to lean further into recommendations. Its homepage is being split into two feeds: “For You”, which will be the default and will show posts from communities people don’t follow, and “Following”, which sticks to the subreddits they’ve joined. The…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d3250c09665",
+          "title": "Spotify is hoping to launch its AI remix tool in early 2027",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/spotify-is-hoping-to-launch-its-ai-remix-tool-in-early-2027/",
+          "category": "musique",
+          "published_at": "2026-10-30T13:30:00+00:00",
+          "summary": "In May, Spotify announced its plans to launch an AI tool “allowing fans to create covers and remixes” but – sensibly having learned from past missed-deadlines for its hi-res music debut – didn’t tie itself to a specific launch date.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0af1ff60408c",
+          "title": "Audio Chateau Records raises $9m for ‘creator culture’ label",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/audio-chateau-records-raises-9m-for-creator-culture-label/",
+          "category": "musique",
+          "published_at": "2026-10-30T13:30:00+00:00",
+          "summary": "High-single-digit funding rounds for music-tech startups are familiar, but less so for labels. Audio Chateau Records is bucking that trend by trousering a Series A round of up to $9m.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c7fad09abc9",
+          "title": "Duets connects music-startup founders with investors and experts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/duets-connects-music-startup-founders-with-investors-and-experts/",
+          "category": "musique",
+          "published_at": "2026-10-30T13:30:00+00:00",
+          "summary": "Well, not just music startups, as we&#8217;ll explain. Securing deals with music rightsholders is a huge part of any music startup’s workload, but so is attracting investors and advisors. A new platform called Duets Network wants to help with that.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed272e423da5",
+          "title": "Youth Music Awards winners: Run It, Elevation Music, TiPP and more",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/youth-music-awards-winners-run-it-elevation-music-tipp-and-more/",
+          "category": "musique",
+          "published_at": "2026-10-30T13:30:00+00:00",
+          "summary": "This week saw the annual Youth Music Awards, where the UK-based charity celebrated emerging musicians as well as projects that work with young people and music around the country.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63a3c9fb211a",
+          "title": "Backstreet Boys are launching their own esports gaming team",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/backstreet-boys-are-launching-their-own-esports-gaming-team/",
+          "category": "musique",
+          "published_at": "2026-10-30T13:30:00+00:00",
+          "summary": "Forget quitting playing games (with my heart). Pop veterans Backstreet Boys are very much not quitting playing games: they&#8217;re recruiting professional gamers as part of a move into the esports industry.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f1a401b351bb",
+          "title": "Roblox’s Q3 2026: 138m daily users who spent 34bn hours playing",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/robloxs-q3-2026-138m-daily-users-who-spent-34bn-hours-playing/",
+          "category": "ia",
+          "published_at": "2026-10-30T13:30:00+00:00",
+          "summary": "At first glance, some of the numbers in Roblox’s quarterly financials don’t look good at all when you compare them to Q3 a year ago.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bdb555a8f372",
+          "title": "My Chemical Romance Tap Billie Eilish, Phoebe Bridgers as Voices in Emotional Animated Short ‘Prelude to the End’: Watch",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/my-chemical-romance-billie-eilish-phoebe-bridgers-prelude-to-end-1236370924/",
+          "category": "ia",
+          "published_at": "2026-10-30T13:25:22+00:00",
+          "summary": "The visually stunning 7-minute film from visual artist Lauren Tsai also features voice work from Hideo Kojima and John C. McGinley.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "941c209470ea",
+          "title": "Alerte sur le vortex polaire : pourquoi la France est encore très loin du grand gel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2364083-alerte-sur-le-vortex-polaire-pourquoi-la-france-est-encore-tres-loin-du-grand-gel.html",
+          "category": "ia",
+          "published_at": "2026-10-30T13:13:30+00:00",
+          "summary": "Les réseaux sociaux s'affolent autour d'un potentiel « réchauffement stratosphérique soudain » qui menacerait de plonger l'Europe dans un froid polaire dès novembre 2026. Si ce dérèglement du vortex polaire pourrait s'annoncer précoce et attisé par le phénomène El Niño, ses…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac04b8ad041c",
+          "title": "Dominic Fike’s ‘How to Quit Smoking’: All 15 Tracks Ranked",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/dominic-fike-how-to-quit-smoking-album-best-songs-ranked/",
+          "category": "musique",
+          "published_at": "2026-10-30T13:10:23+00:00",
+          "summary": "Fike's third studio LP, which he's billed as a \"living album,\" arrived on Friday (Oct. 30).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ef09bab70ed",
+          "title": "‘Jimmy Webb: American Songwriter’: 5 Best Moments From the PBS Special: ‘Those Songs Are So Timeless; So Rich’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/jimmy-webb-american-songwriter-pbs-special-highlights/",
+          "category": "ia",
+          "published_at": "2026-10-30T13:00:00+00:00",
+          "summary": "\"They're the American songbook of my lifetime,” Vince Gill says in the special.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdfd3727ac17",
+          "title": "On a trouvé un excellent écran OLED gaming qui perd 130 € pour le lancement du Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2364257-on-a-trouve-un-excellent-ecran-oled-gaming-qui-perd-130-e-pour-le-lancement-du-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-10-30T12:55:00+00:00",
+          "summary": "[Deal du jour] Boulanger a lancé son Black Friday dès la fin octobre, et l'écran PC gamer ASUS ROG XG27AQWMG fait partie des premières baisses. Ce 27 pouces OLED à 280 Hz passe à 469 € au lieu de 599,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7537239674cd",
+          "title": "UMG talks AI music: ‘The volume is growing faster than the safeguards’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/30/umg-talks-ai-music-the-volume-is-growing-faster-than-the-safeguards/",
+          "category": "musique",
+          "published_at": "2026-10-30T12:30:00+00:00",
+          "summary": "Universal Music Group’s quarterly financial earnings-call yesterday saw boss Sir Lucian Grainge sounding the latest alarm around AI music. He cited Deezer’s latest figures showing more than 90,000 fully AI-generated tracks are being uploaded to streaming services every day.\nThe…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9222b71b16e8",
+          "title": "Skid Row Tap Broadway Star of ‘Rock of Ages’ and ‘Spider Man: Turn Off the Dark’ As New Lead Singer",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/skid-row-new-lead-singer-broadway-star-justin-sargent-1236370916/",
+          "category": "ia",
+          "published_at": "2026-10-30T12:29:22+00:00",
+          "summary": "Justin Sargent made his official debut on Thursday (Oct. 29) with a wailing cover of The Who's \"Won't Get Fooled Again.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca03d6d1be84",
+          "title": "70 000 dollars perdus par moto électrique vendue : LiveWire se donne un an de survie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2364289-70-000-dollars-perdus-par-moto-electrique-vendue-livewire-se-donne-un-an-de-survie.html",
+          "category": "musique",
+          "published_at": "2026-10-30T12:02:00+00:00",
+          "summary": "LiveWire, la marque de motos électriques de Harley-Davidson, reconnait avoir des « doutes importants » sur sa capacité à tenir encore un an. Il ne lui restait que 39,9 millions de dollars de trésorerie fin septembre, deux fois moins qu'au début de l'année.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee5bc11ac606",
+          "title": "Invictus, l’avion hypersonique européen qui vise Mach 5 pour 2032, franchit une étape clé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2364153-invictus-lavion-hypersonique-europeen-qui-vise-mach-5-pour-2032-franchit-une-etape-cle.html",
+          "category": "ia",
+          "published_at": "2026-10-30T12:01:00+00:00",
+          "summary": "Le projet d'avion hypersonique européen progresse. Invictus a passé la première phase de son développement au sein de l'Agence spatiale européenne. Appareil ambitieux, il pourrait voler à plus de 6000 km/h d'ici 2032.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e4ec659288d",
+          "title": "Cartes Pokémon 30 ans : Amazon ouvre les invitations pour les grands coffrets Ultra-Premium Mentali et Noctali",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2364287-pokemon-30-ans-amazon-ouvre-les-invitations-pour-les-enormes-coffrets-mentali-et-noctali-et-bien-plus-encore.html",
+          "category": "ia",
+          "published_at": "2026-10-30T11:48:01+00:00",
+          "summary": "Les coffrets Ultra-Premium Mentali et Noctali des 30 ans de Pokémon arrivent sur Amazon. Le marchand prépare les précommandes sur invitation, avec d’autres coffrets anniversaire et la prochaine extension Règne Delta.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c79a7e97b94f",
+          "title": "Voiture de l’année 2027 : sept finalistes électriques et un duel fratricide chez Volkswagen",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2364381-voiture-de-lannee-2027-sept-finalistes-electriques-et-un-duel-fratricide-chez-volkswagen.html",
+          "category": "ia",
+          "published_at": "2026-10-30T11:47:01+00:00",
+          "summary": "Pour l'édition 2027 du « Car of the Year », le jury a retenu sept finalistes sans une goutte d’essence. Le groupe Volkswagen y place deux cousines, l'ID. Polo et la Cupra Raval, qui pourraient se disputer les mêmes voix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ff5f2f72c41",
+          "title": "Blink-182, Korn, MGK, Alice in Chains, The Offspring to Play 2027 Welcome to Rockville Festival",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/concerts/2027-welcome-to-rockville-festival-lineup-blink-182-korn-mgk-1236370913/",
+          "category": "ia",
+          "published_at": "2026-10-30T11:31:42+00:00",
+          "summary": "More than 150 acts are lined up for the four-day rock fest in Daytona Beach, Fla. from May 6-9.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11ed42aab834",
+          "title": "Des hackers ont distribué une version piégée de Claude Code à des milliers de développeurs, mais se sont pris les pieds dans leur propre code",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2364283-des-hackers-ont-distribue-une-version-piegee-de-claude-code-a-des-milliers-de-developpeurs-mais-se-sont-pris-les-pieds-dans-leur-propre-code.html",
+          "category": "ia",
+          "published_at": "2026-10-30T11:21:49+00:00",
+          "summary": "Le 29 octobre 2026, la boutique d’extensions de l’éditeur de code Cursor a distribué une fausse mise à jour de Claude Code, l’assistant de programmation d’Anthropic.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3819e1fe461c",
+          "title": "Chez Proton, le rouleau compresseur de l’IA écrase tout",
+          "source": "Next INpact",
+          "url": "https://next.ink/264941/chez-proton-le-rouleau-compresseur-de-lia-ecrase-tout/",
+          "category": "ia",
+          "published_at": "2026-10-30T11:02:22+00:00",
+          "summary": "L’ambiance chez Proton est particulièrement difficile autour de l’usage de l’IA et de l’attitude du patron de l’entreprise, Andy Yen. C’est ce qu’affirme 404 Media dans un article. La société suisse a désormais un sérieux problème d’image à résoudre. Proton est connue depuis des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a786a54c70f",
+          "title": "Pour échapper aux revirements d’Elon Musk avec Starlink, l’Ukraine allume son fragile plan B en orbite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2364163-pour-echapper-aux-revirements-delon-musk-avec-starlink-lukraine-allume-son-fragile-plan-b-en-orbite.html",
+          "category": "ia",
+          "published_at": "2026-10-30T10:32:41+00:00",
+          "summary": "L'ukrainien HIMERA et le danois GomSpace ont mis en orbite OBRIA NANO, le premier satellite de test d'un futur réseau de communication contrôlé par l'Ukraine. Son entrée en service a été annoncée trois jours après la levée du bridage de Starlink, qui a pesé une dizaine de jours…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b254e320d235",
+          "title": "Des créateurs amateurs reconstruisent des jeux célèbres dans Roblox en quelques jours grâce à l’IA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2364039-vous-pouvez-maintenant-jouer-a-elden-ring-dans-roblox.html",
+          "category": "ia",
+          "published_at": "2026-10-30T10:23:45+00:00",
+          "summary": "Jouer à The Simpsons: Hit &amp; Run, affronter des boss inspirés d'Elden Ring ou retrouver l'interface d'une PS4 directement dans Roblox ? De plus en plus de créateurs amateurs, aidés par l'IA, recréent des jeux connus sur la plateforme.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7beff129b11",
+          "title": "À 24 400 € pour 400 km d’autonomie, la Fiat Grande Panda devient redoutable",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2364067-a-24-400-e-pour-400-km-dautonomie-la-fiat-grande-panda-devient-redoutable.html",
+          "category": "ia",
+          "published_at": "2026-10-30T10:10:27+00:00",
+          "summary": "La Fiat Grande Panda électrique est désormais proposée avec une batterie de 54 kWh dès la finition Pop, à 24 400 € hors aides, pour 400 km d'autonomie WLTP. Elle gagne 80 km par rapport à la version 44 kWh, pour 2 000 € de plus. De quoi la faire devenir la citadine avec le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20a87cffef9f",
+          "title": "Qui a pu voler 6 milliards de dollars à Binance ? Les enquêteurs ont déjà un suspect, et il a de lourds antécédents",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2364073-qui-a-pu-voler-6-milliards-de-dollars-a-binance-les-enqueteurs-ont-deja-un-suspect-et-il-a-de-lourds-antecedents.html",
+          "category": "ia",
+          "published_at": "2026-10-30T09:57:43+00:00",
+          "summary": "Moins de 24 heures après le plus gros vol de cryptomonnaies jamais enregistré, plusieurs sociétés d’analyse de la blockchain désignent TraderTraitor, une unité de hackers nord-coréens. Binance, de son côté, n’a encore accusé personne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59cc9da10e1b",
+          "title": "Polymarket piratée : les comptes de certains utilisateurs ont pu être vidés",
+          "source": "Next INpact",
+          "url": "https://next.ink/264905/polymarket-piratee-les-comptes-de-certains-utilisateurs-ont-pu-etre-vides/",
+          "category": "ia",
+          "published_at": "2026-10-30T09:53:06+00:00",
+          "summary": "L&#8217;entreprise de paris en ligne a dû suspendre l&#8217;accès à sa plateforme pendant un peu moins d&#8217;une heure : des pirates ont pu accéder aux comptes de certains de ses utilisateurs et récupérer les sommes accumulées. Polymarket rejette le problème sur un prestataire…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c51f063f570",
+          "title": "Le Black Friday n’attend même plus novembre : voici les meilleures offres en avant-première",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2363357-le-black-friday-2026-nattend-meme-plus-novembre-les-premieres-offres-sont-la-en-direct.html",
+          "category": "musique",
+          "published_at": "2026-10-30T09:49:40+00:00",
+          "summary": "[En direct] Le Black Friday tombe le 27 novembre, mais les marchands ont visiblement du mal à patienter. Les premières promos sont déjà là, et certaines valent le détour. Numerama fait le tri et regroupe ses meilleures trouvailles dans ce live, mis à jour au fil des offres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c27a0fe36b78",
+          "title": "Les fans du MMO Star Trek Online se réunissent en hommage à Sir Patrick Stewart",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2364053-les-fans-du-mmo-star-trek-online-se-reunissent-en-hommage-a-sir-patrick-stewart.html",
+          "category": "ia",
+          "published_at": "2026-10-30T09:44:41+00:00",
+          "summary": "Sir Patrick Stewart, capitaine Jean-Luc Picard dans Star Trek et Professeur Xavier dans X-Men, est mort ce mercredi 28 octobre, à 86 ans. Dans Star Trek Online, des joueurs se rassemblent pour lui rendre hommage.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e61b4f217667",
+          "title": "LFI s’inspire de la campagne numérique de Lula, au risque de dépendre de Meta",
+          "source": "Next INpact",
+          "url": "https://next.ink/264781/lfi-sinspire-de-la-campagne-numerique-de-lula-au-risque-de-dependre-de-meta/",
+          "category": "ia",
+          "published_at": "2026-10-30T09:10:00+00:00",
+          "summary": "Après la réélection de Lula au Brésil, les têtes se sont tournées vers son équipe de campagne et notamment vers son organisation sur les réseaux sociaux. Sautant sur l&#8217;opportunité, La France Insoumise revendique s&#8217;en inspirer. Comme nous l&#8217;expliquions, il y a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "610c9132eb46",
+          "title": "Stand Atlantic Bag First ARIA No. 1 With ‘GODBREATH’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/stand-atlantic-first-aria-no-1-godbreath-1236370859/",
+          "category": "ia",
+          "published_at": "2026-10-30T08:55:18+00:00",
+          "summary": "The Sydneysiders becomes the fourth Australian rock act to lead the national chart in 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ea7c0aa2ed9e",
+          "title": "Copyright Alliance – whose members include the RIAA, NMPA, and UMG – calls Meta’s proposed business terms ‘unconscionable.’ Now Meta says the rollout could be delayed again.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/copyright-alliance-whose-members-include-the-riaa-nmpa-and-umg-calls-metas-proposed-business-terms-unconscionable-now-meta-says-the-rollout-could-be-d/",
+          "category": "ia",
+          "published_at": "2026-10-30T08:48:05+00:00",
+          "summary": "The updates are currently scheduled to apply to commercial accounts across Facebook, Instagram, Messenger, Threads, and WhatsApp from November 20.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "670726c7bc79",
+          "title": "Suno fights to make Apple testify on whether Apple Music could survive without UMG and Sony, claiming the majors use their catalogs ‘as a cudgel’ to win anti-AI concessions",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-fights-to-make-apple-testify-on-whether-apple-music-could-survive-without-umg-and-sony-claiming-the-majors-use-their-catalogs-as-a-cudgel-to-win-anti-ai-concessions/",
+          "category": "musique",
+          "published_at": "2026-10-30T08:47:52+00:00",
+          "summary": "Suno also wants an Apple witness to testify about Apple’s current licensing talks with both majors and streaming fraud on Apple Music.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a646050350ad",
+          "title": "Goldman Sachs just told the music industry to sell to fans first",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/goldman-sachs-just-told-the-music-industry-to-sell-to-fans-first/",
+          "category": "musique",
+          "published_at": "2026-10-30T08:47:31+00:00",
+          "summary": "The following MBW op/ed comes from Mag Rodriguez, Founder/CEO, of superfan-focused platform EVEN.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0e90b7ed2e79",
+          "title": "Suno’s new MCP tool lets users make songs inside ChatGPT, Claude, and Gemini – as its developer API gets a sign-in portal but remains in beta",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sunos-new-mcp-tool-lets-users-make-songs-inside-chatgpt-claude-and-gemini-as-its-developer-api-gets-a-sign-in-portal-but-remains-in-beta/",
+          "category": "ia",
+          "published_at": "2026-10-30T08:47:23+00:00",
+          "summary": "Suno has unveiled a tool that lets users create songs from inside AI assistants including ChatGPT, Claude, and Gemini. The tool, Suno MCP, is in beta and was announced in Suno&#8217;s release notes on Wednesday (October 28). Separately, MBW has spotted a sign-in portal for…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a0f89d4ccf7",
+          "title": "☕️ Tor Browser 16 se dote de noms de fenêtres génériques",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/tor-browser-16-se-dote-de-noms-de-fenetres-generiques/",
+          "category": "ia",
+          "published_at": "2026-10-30T08:46:51+00:00",
+          "summary": "Nouvelle mouture majeure pour Tor Browser, dont la version 16 se fonde désormais sur Firefox 153 ESR, avec à la clé un an de changements techniques sous le capot. Dans son billet, l’équipe de Tor Browser indique que son audit annuel du code de Firefox a porté sur plus de 270…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7cd511daadf9",
+          "title": "Spotify plans Q1 2027 launch for AI covers and remixes tool, weighing $4–$5 monthly price (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-plans-q1-2027-launch-for-ai-covers-and-remixes-tool-weighing-4-5-monthly-price-report/",
+          "category": "ia",
+          "published_at": "2026-10-30T08:41:41+00:00",
+          "summary": "Spotify plans to launch its AI-powered covers and remixes tool in the first quarter of 2027. That’s according to the Financial Times, which reported the timeline on Friday (October 30), citing people familiar with the plans. The company is weighing a price of USD $4 to $5 per…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fe96fbb14bcd",
+          "title": "Reddit veut imposer la connexion pour protéger ses données et ses revenus",
+          "source": "Next INpact",
+          "url": "https://next.ink/264889/reddit-veut-imposer-la-connexion-pour-proteger-ses-donnees-et-ses-revenus/",
+          "category": "ia",
+          "published_at": "2026-10-30T07:58:00+00:00",
+          "summary": "Reddit prépare un tournant majeur : imposer aux utilisateurs la connexion à un compte pour consulter les contenus. La plateforme veut protéger ses données des moissonneurs IA et mieux cibler ses publicités. Sous la pression des bots moissonneurs de données, et pour protéger son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "489390c038da",
+          "title": "Une fuite de données perce l’opacité du département américain de la Sécurité intérieure",
+          "source": "Next INpact",
+          "url": "https://next.ink/264885/une-fuite-de-donnees-perce-lopacite-du-departement-americain-de-la-securite-interieure/",
+          "category": "ia",
+          "published_at": "2026-10-30T07:32:00+00:00",
+          "summary": "Le département américain de la Sécurité intérieure (DHS) a des fuites. Et pas qu&#8217;un peu. Des données personnelles sur plus de 41&#160;000 employés et prestataires sont dans la nature, tout comme des informations sensibles sur des programmes de surveillance. Un groupe de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4035dae7bf3",
+          "title": "Atari confie l’avenir de sa console VCS à la communauté",
+          "source": "Next INpact",
+          "url": "https://next.ink/264881/atari-confie-lavenir-de-sa-console-vcs-a-la-communaute/",
+          "category": "ia",
+          "published_at": "2026-10-30T06:42:50+00:00",
+          "summary": "La renaissance de l&#8217;Atari VCS aura été de courte durée. La console, qui revisite l&#8217;Atari 2600 de la fin des années 70, n&#8217;est plus vendue par le constructeur depuis l&#8217;an dernier. Et la boutique en ligne va fermer ses portes en février 2027. Mais cela ne…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "articles": [
+        {
+          "id": "003e476b12ca",
+          "title": "Universal Music Group generated $3.90B in Q3, up 11.7% YoY – driven by Mrs. Green Apple, Olivia Rodrigo, Stray Kids, Ariana Grande, and The Beatles",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-group-generated-3-90b-in-q3-up-11-7-yoy-driven-by-mrs-green-apple-olivia-rodrigo-stray-kids-ariana-grande-and-the-beatles/",
+          "category": "musique",
+          "published_at": "2026-10-29T17:21:26+00:00",
+          "summary": "Adjusted EBITDA came in at €729 million ($838.7m), a margin of 21.5%, down from 22.0% in Q3 2025 but up on the 20.5% margin it posted in the prior quarter (Q2 2026)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80f40758807c",
+          "title": "Canonical se relance sérieusement dans son Ubuntu Core Desktop immuable",
+          "source": "Next INpact",
+          "url": "https://next.ink/264855/canonical-se-relance-serieusement-dans-son-ubuntu-core-desktop-immuable/",
+          "category": "ia",
+          "published_at": "2026-10-29T16:52:01+00:00",
+          "summary": "Après une première annonce en 2023, Canonical semblait avoir laissé tomber son idée d’un Ubuntu Core Desktop, un système pensé pour être immuable, atomique et attestable. Voilà pourtant qu’elle remet le couvert, affirmant cette fois accélérer le projet. Pour comprendre les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e07a2ba35985",
+          "title": "Face au mur des dépenses, Google va afficher de la publicité dans le mode IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/264850/face-au-mur-des-depenses-google-va-afficher-de-la-publicite-dans-le-mode-ia/",
+          "category": "institutionnel",
+          "published_at": "2026-10-29T16:09:37+00:00",
+          "summary": "La pub va se généraliser dans le mode IA de Google, qui rapporte encore trop peu. Le géant du web cherche à amortir ses dépenses colossales dans les infrastructures IA. Google va afficher de la publicité dans le mode IA de son moteur de recherche partout dans le monde, après un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50f08475a92b",
+          "title": "Team Innovation to stage “flagship” festival ‘Home’ in Goa this December",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/10/29/team-innovation-to-stage-flagship-festival-home-in-goa-this-december/",
+          "category": "musique",
+          "published_at": "2026-10-29T15:45:13+00:00",
+          "summary": "Arijit Singh fans who couldn’t get hold of tickets to watch him perform in their city during his 2027 tour have a chance to catch the singer live this year [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "f61f72cc9513",
           "title": "☕️ Après Deliveroo, DoorDash veut avaler Instacart pour 17 milliards de dollars",
@@ -37,6 +552,16 @@
         {
           "id": "ed10e28c4be3",
           "title": "[MàJ] Mistral lance la version finale de Mistral et publie ses poids ouverts",
+          "source": "Next INpact",
+          "url": "https://next.ink/260208/mistral-lance-une-preversion-de-son-llm-frontiere-mistrale-large-surnomme-le-chonk/",
+          "category": "institutionnel",
+          "published_at": "2026-10-29T14:34:48+00:00",
+          "summary": "Surnommé «&#160;Le Chonk&#160;», le nouveau LLM de frontière Mistral Large 4 est finalement disponible pour tous et ses poids ouverts ont été publiés. Il doit remettre l’entreprise française dans la course, après de longs mois de quasi-silence sur les grands modèles. Mise à jour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "13444aa9aaf5",
+          "title": "[MàJ] Mistral lance la version finale de Large 4 et publie ses poids ouverts",
           "source": "Next INpact",
           "url": "https://next.ink/260208/mistral-lance-une-preversion-de-son-llm-frontiere-mistrale-large-surnomme-le-chonk/",
           "category": "institutionnel",
