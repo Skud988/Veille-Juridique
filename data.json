@@ -1,9 +1,284 @@
 {
-  "generated_at": "2026-10-30T15:05:20.944044+00:00",
+  "generated_at": "2026-10-31T14:33:51.216477+00:00",
   "days": [
+    {
+      "date": "2026-10-31",
+      "articles": [
+        {
+          "id": "cb64f32ccbd9",
+          "title": "La physique quantique en ébullition : la théorie du « surfeur quantique » est de nouveau bousculée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2363561-la-physique-quantique-en-ebullition-la-theorie-du-surfeur-quantique-est-de-nouveau-bousculee.html",
+          "category": "ia",
+          "published_at": "2026-10-31T14:31:00+00:00",
+          "summary": "La mécanique quantique est née il y a une centaine d’années. Elle a, depuis, permis de nombreux progrès technologiques, dont les LED, les IRM, les lasers. Mais son interprétation reste surprenante pour les novices et un sujet de débat pour les spécialistes, notamment les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "51274c338db5",
+          "title": "Valentín Elizalde’s Legacy Gets a New HBO Max Docuseries & More Uplifting Moments in Latin Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/valentin-elizalde-hbo-max-docuseries-uplifting-moments-latin-1236371370/",
+          "category": "musique",
+          "published_at": "2026-10-31T14:00:00+00:00",
+          "summary": "Plus, Ozuna announces a one-night hometown concert at El Choli, and Rosalía uses her WSJ. Innovator Award moment to send support to Spain.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a78e2218b82",
+          "title": "Vous croyez tout connaître de Hayao Miyazaki ? Ce livre à l’origine de Porco Rosso sort enfin en français",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2364269-cet-artbook-en-precommande-rassemble-un-manga-inedit-et-des-illustrations-dhayao-miyazaki.html",
+          "category": "ia",
+          "published_at": "2026-10-31T13:51:09+00:00",
+          "summary": "[Précommande] En marge de ses films, Hayao Miyazaki a longtemps dessiné des histoires d'avions, de navires et de machines de guerre. Les éditions Delcourt vont publier en France Daydream Notes, un ouvrage qui rassemble plusieurs de ces créations méconnues.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abdc623c575b",
+          "title": "Animal Crossing avec des vampires : voici le jeu cozy parfait pour Halloween",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2361171-animal-crossing-avec-des-vampires-voici-le-jeu-cozy-parfait-pour-halloween.html",
+          "category": "ia",
+          "published_at": "2026-10-31T13:00:00+00:00",
+          "summary": "Avec ses vampires, ses sorcières et son ambiance gothique, Moonlight Peaks ressemble à un Animal Crossing pensé pour Halloween. Derrière ses adorables décors se cache une simulation de vie riche en activités, qui ne manque pas de charme… malgré quelques contraintes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "963835f00084",
+          "title": "Flock : Parcours SAW",
+          "source": "Next INpact",
+          "url": "https://next.ink/265059/flock-parcours-saw/",
+          "category": "ia",
+          "published_at": "2026-10-31T12:37:00+00:00",
+          "summary": "Paraît-il que Parcours Sup est une horreur. Une révision est en cours. Les élèves, eux, n’y sont pas. Pour faire quoi, pour bosser où ? Pour un slop job ? Quel avenir leur sert-on, à part celui de payer les pots cassés et d’être condamné à se battre contres des moulins à IA ?…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "490f46ca0b04",
+          "title": "Prime Video : les 5 meilleures séries d’horreur pour une livraison de terreur en 24h",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2362581-prime-video-les-meilleures-series-dhorreur-pour-une-livraison-de-terreur-en-24h.html",
+          "category": "ia",
+          "published_at": "2026-10-31T12:05:00+00:00",
+          "summary": "Marre des récits d'épouvante tièdes et des sursauts téléphonés ? Prime Video en propose qui vont beaucoup plus loin. De la terreur domestique au gore chirurgical, voici les 5 séries d'horreur indispensables pour Halloween, ce samedi 31 octobre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "852d6b51a63d",
+          "title": "La barrière « impénétrable » des ceintures de Van Allen autour de la Terre a finalement été franchie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2365177-la-barriere-impenetrable-des-ceintures-de-van-allen-autour-de-la-terre-a-finalement-ete-franchie.html",
+          "category": "ia",
+          "published_at": "2026-10-31T10:55:00+00:00",
+          "summary": "En mai 2024, la plus violente tempête solaire depuis vingt ans a fait mieux que colorer le ciel de France en rose : selon une étude japonaise, elle a créé des électrons « tueurs » à l'intérieur d'une barrière que l'on pensait infranchissable, à quelques milliers de kilomètres de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8be9e5de0543",
+          "title": "Mischief 1, un modèle vidéo « dérivé de neurones vivants » : pardon ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365135-mischief-1-un-modele-video-derive-de-neurones-vivants-pardon.html",
+          "category": "ia",
+          "published_at": "2026-10-31T10:35:00+00:00",
+          "summary": "The Biological Computing lance Mischief 1, un générateur de vidéos qu'elle présente comme le premier modèle commercial issu de l'étude de vrais neurones. Si votre première réaction est un « hein ? » vocal, on va tenter de tout décortiquer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05bada00f036",
+          "title": "Sam Altman (OpenAI) préfèrerait que la RAM de votre PC aille dans ses datacenters",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365133-sam-altman-openai-prefererait-que-la-ram-de-votre-pc-aille-dans-ses-datacenters.html",
+          "category": "ia",
+          "published_at": "2026-10-31T10:05:00+00:00",
+          "summary": "Alors que le prix de la mémoire vive a été multiplié par trois ou quatre en un an, le patron d'OpenAI trouve « assez terrible » que les particuliers gardent de la RAM dans leurs PC, où elle ne servirait que 5 % du temps.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "97804733e37f",
+          "title": "Une IA a choisi un traitement et l’a injecté dans le cerveau d’une souris : ce qu’on sait vraiment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2365061-une-ia-a-choisi-un-traitement-et-la-injecte-dans-le-cerveau-dune-souris-ce-quon-sait-vraiment.html",
+          "category": "ia",
+          "published_at": "2026-10-31T09:35:00+00:00",
+          "summary": "Le patron d'une start-up de biotech affirme qu'un agent piloté par Claude Sonnet 5 a sélectionné une thérapie génique, a calculé où l'injecter et a guidé lui-même l'aiguille dans le cerveau d'une souris épileptique. Le récit est spectaculaire (et la souris va bien).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28810a836a38",
+          "title": "Rian Johnson (Star Wars VIII, Knives Out) sort une app de caméra à 15 € et elle est déjà top 1 sur l’App Store",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365117-rian-johnson-star-wars-viii-knives-out-sort-une-app-de-camera-a-15-e-et-elle-est-deja-top-1-sur-lapp-store.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-31T08:55:00+00:00",
+          "summary": "Le réalisateur de Knives Out et de Star Wars : Les Derniers Jedi a demandé à son directeur de la photo de lui coder l'app photo de ses rêves pour iPhone. Elle s'appelle Chromagraph Camera, coûte 14,99 €, et s'est hissée en quelques jours à la première place des apps payantes en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e5fd3e105d60",
+          "title": "Les lunettes Subvocal veulent vous faire écrire bouche fermée à 200 mots par minute",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365063-les-lunettes-subvocal-veulent-vous-faire-ecrire-bouche-fermee-a-200-mots-par-minute.html",
+          "category": "ia",
+          "published_at": "2026-10-31T08:06:01+00:00",
+          "summary": "La start-up américaine Subvocal, passée par Y Combinator, lève 1,3 million de dollars et ouvre les précommandes de lunettes censées transformer en texte des mots à peine articulés, sans son ni frappe au clavier, à 200 mots par minute.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1bd98083ec1",
+          "title": "Google envoie un prompt à ses puces d’IA dans l’espace (elles ont répondu)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365065-google-envoie-un-prompt-a-ses-puces-dia-dans-lespace-elles-ont-repondu.html",
+          "category": "ia",
+          "published_at": "2026-10-31T07:30:00+00:00",
+          "summary": "Un mois après le lancement de son satellite prototype, Google annonce avoir exécuté un prompt sur une puce TPU en orbite et reçu la réponse sur Terre : un haïku. Un « hello world » qui a de la classe pour Project Suncatcher, le projet de Google qui veut installer des data…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1816714a16d4",
+          "title": "Ma maison est à la fois connectée et idiote : voilà pourquoi c’est le meilleur des deux mondes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365057-ma-maison-est-a-la-fois-connectee-et-idiote-voila-pourquoi-cest-le-meilleur-des-deux-mondes.html",
+          "category": "ia",
+          "published_at": "2026-10-31T07:01:00+00:00",
+          "summary": "Ampoules connectées, enceintes, volets roulants : j’ai tout connecté, puis presque tout débranché. Retour d’expérience sur la seule règle qui compte finalement en domotique : le bouton doit toujours avoir raison. Ce texte est extrait de la newsletter ToujoursPlus, envoyée…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81e56aa00e8d",
+          "title": "Black Friday : À moins de 100 €, ce pack de deux routeurs Wi-Fi 7 couvre un logement jusqu’à 130 m²",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2364629-black-friday-a-moins-de-100-e-ce-pack-de-deux-routeurs-wi-fi-7-couvre-un-logement-jusqua-130-m%c2%b2.html",
+          "category": "ia",
+          "published_at": "2026-10-31T06:46:00+00:00",
+          "summary": "[Deal du jour] Boulanger a déjà ouvert sa saison Black Friday, et le Wi-Fi maillé de TP-Link en profite. Le pack de deux bornes Deco BE22, compatibles Wi-Fi 7, passe à 99,99 € au lieu de 119,99 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d73708501f30",
+          "title": "Le télescope Hubble a 50 % de chances de s’écraser d’ici 2033, la Nasa lance un appel à idées pour le sauver",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2364559-le-telescope-hubble-a-50-de-chances-de-secraser-dici-2033-la-nasa-lance-un-appel-a-idees-pour-le-sauver.html",
+          "category": "institutionnel",
+          "published_at": "2026-10-31T06:29:04+00:00",
+          "summary": "La Nasa a lancé un appel à idées auprès des industriels pour remonter l'orbite du télescope Hubble, le réparer ou organiser sa rentrée dans l'atmosphère, avec un lancement d'ici 2032. En 2024, l'agence avait refusé une mission privée de ce type.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bee3a5b37756",
+          "title": "Tame Impala Take On Seal’s ‘Kiss From a Rose’ for Like A Version",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/tame-impala-kiss-from-a-rose-seal-like-a-version-1236371612/",
+          "category": "ia",
+          "published_at": "2026-10-31T05:00:56+00:00",
+          "summary": "Kevin Parker said the ‘Batman Forever’ soundtrack was the first CD he ever bought; the band also played a stripped-back “Dracula”",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ac94a66e4e8",
+          "title": "Atlanta Gridiron Classic 2026: Here’s Where to Watch Florida Gators vs. Georgia Bulldogs Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/florida-vs-georgia-watch-college-football-live-online-free-1236370601/",
+          "category": "musique",
+          "published_at": "2026-10-31T04:30:00+00:00",
+          "summary": "Livestream the SEC college football rivalry game on Saturday, Oct. 31 — and possible celebrity sightings at the game.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bdc1e6cad94",
+          "title": "The 36 Best Christmas Gifts to Shop Online in 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-2026-buy-shop-online-1236368800/",
+          "category": "musique",
+          "published_at": "2026-10-31T00:05:08+00:00",
+          "summary": "ShopBillboard has the best gift ideas for the holiday season — starting at just $25.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "articles": [
+        {
+          "id": "17ad59718824",
+          "title": "Lil Baby Is Open to ‘Stepping Out of the Box’ to Collab With Sabrina Carpenter: ‘I Could Make It Work’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/lil-baby-sabrina-carpenter-collaboration-1236371517/",
+          "category": "ia",
+          "published_at": "2026-10-30T23:15:49+00:00",
+          "summary": "A former staple of the pop ecosystem, the rapper/pop star link-up is essentially extinct.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "074e2b444371",
+          "title": "Disney+ : les meilleures séries d’horreur, bien loin du monde merveilleux de Mickey",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2364565-disney-les-meilleures-series-dhorreur-bien-loin-du-monde-merveilleux-de-mickey.html",
+          "category": "ia",
+          "published_at": "2026-10-30T18:00:00+00:00",
+          "summary": "Qui a dit que Disney+ était réservé aux contes de fées et aux super-héros en cape ? Pour Halloween 2026, la plateforme aux oreilles de Mickey sort les crocs et prouve que son catalogue adultes abrite de véritables pépites d'angoisse. Voici les 6 séries d'horreur indispensables à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6bffedb4e3e2",
+          "title": "From Universal Music’s $3.90bn quarter to Spotify’s AI remix gamble… it’s MBW’s Weekly Round-Up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-universal-musics-3-90bn-quarter-to-spotifys-ai-remix-gamble-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-10-30T16:50:06+00:00",
+          "summary": "The biggest headlines from the past few days...\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "776d94ad5289",
+          "title": "Data centers : la souveraineté européenne grâce à des travailleurs immigrés surexploités",
+          "source": "Next INpact",
+          "url": "https://next.ink/264947/data-centers-la-souverainete-europeenne-grace-a-des-travailleurs-immigres-surexploites/",
+          "category": "ia",
+          "published_at": "2026-10-30T16:25:00+00:00",
+          "summary": "La course à l&#8217;IA pousse certains sous-traitants, principalement irlandais, à s&#8217;inspirer des méthodes managériales états-uniennes et à exploiter les travailleurs venus d&#8217;Europe de l&#8217;Est notamment, qui maîtrisent mal l&#8217;anglais, accumulant les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c65f710db33f",
+          "title": "☕️ Windows 11 a son nouveau menu contextuel et oui, il est « rapide »",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/windows-11-a-son-nouveau-menu-contextuel-et-oui-il-est-rapide/",
+          "category": "ia",
+          "published_at": "2026-10-30T16:20:00+00:00",
+          "summary": "Microsoft avait promis de remanier le menu contextuel de Windows 11 sur les fichiers. C’est désormais chose faite, avec la mise à jour KB5127936 disponible depuis peu en option. Ce qui signifie qu’elle n’apparaitra que si vous déclenchez une recherche volontaire de mise à jour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c951bb9ece3",
+          "title": "Intel, Amazon, Google : Wall Street fait les comptes de l’IA, et ils ne sont pas bons",
+          "source": "Next INpact",
+          "url": "https://next.ink/265027/intel-amazon-google-wall-street-fait-les-comptes-de-lia-et-ils-ne-sont-pas-bons/",
+          "category": "ia",
+          "published_at": "2026-10-30T16:03:00+00:00",
+          "summary": "Intel, Amazon, Google : les trois entreprises souffrent en Bourse avec des reculs prononcés. L&#8217;action d&#8217;Intel en particulier dévisse de quasiment 30&#160;% à Wall Street. Coup de semonce passager ou explosion de la bulle ? Plus dure sera la chute pour Intel. En…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7e31e908551",
+          "title": "Danger autour d’une extension Claude Code vérolée dans la boutique de Cursor",
+          "source": "Next INpact",
+          "url": "https://next.ink/265006/danger-autour-dune-extension-claude-code-verolee-dans-la-boutique-de-cursor/",
+          "category": "ia",
+          "published_at": "2026-10-30T15:45:07+00:00",
+          "summary": "Une version piégée de l’extension Claude Code pour Visual Studio Code a été distribuée le 29 octobre dans la boutique Cursor. Elle installait une porte dérobée SSH persistante. Même si le problème a été résolu, l’extension frelatée a été installée par environ 5 000 personnes et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c049adf0e9e3",
+          "title": "Le Parti socialiste a fait passer sa taxe au gigaoctet à l’Assemblée nationale",
+          "source": "Next INpact",
+          "url": "https://next.ink/264997/le-parti-socialiste-a-fait-passer-sa-taxe-au-gigaoctet-a-lassemblee-nationale/",
+          "category": "ia",
+          "published_at": "2026-10-30T15:26:07+00:00",
+          "summary": "Alors que la loi de finances 2027 est en discussion à l&#8217;Assemblée nationale mais que peu de députés sont présents dans l&#8217;hémicycle, le Parti socialiste a réussi à faire passer sa « taxe au gigaoctet&#160;» censée faire contribuer les géants du numérique à…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "20b4a1adafd6",
           "title": "Queens of the Stone Age Finds Healing in New Album ‘Perfecth’: ‘What Has Been Shattered is Made More Beautiful by the Act of Repair’",
@@ -292,6 +567,16 @@
           "category": "ia",
           "published_at": "2026-10-30T11:02:22+00:00",
           "summary": "L’ambiance chez Proton est particulièrement difficile autour de l’usage de l’IA et de l’attitude du patron de l’entreprise, Andy Yen. C’est ce qu’affirme 404 Media dans un article. La société suisse a désormais un sérieux problème d’image à résoudre. Proton est connue depuis des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c21d9915f6f9",
+          "title": "[MàJ] Chez Proton, le rouleau compresseur de l’IA écrase tout",
+          "source": "Next INpact",
+          "url": "https://next.ink/264941/chez-proton-le-rouleau-compresseur-de-lia-ecrase-tout/",
+          "category": "ia",
+          "published_at": "2026-10-30T11:02:22+00:00",
+          "summary": "L’ambiance chez Proton est particulièrement difficile autour de l’usage de l’IA et de l’attitude du patron de l’entreprise, Andy Yen. C’est ce qu’affirme 404 Media dans un article. La société suisse a désormais un sérieux problème d’image à résoudre. Mise à jour du 30 octobre à…",
           "summary_type": "extrait source"
         },
         {
