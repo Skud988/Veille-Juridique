@@ -1,9 +1,224 @@
 {
-  "generated_at": "2026-10-31T14:33:51.216477+00:00",
+  "generated_at": "2026-11-01T15:10:42.751560+00:00",
   "days": [
+    {
+      "date": "2026-11-01",
+      "articles": [
+        {
+          "id": "541b3b6548e3",
+          "title": "5 pétaflops contre les tempêtes solaires : on a visité Space HPC, le premier supercalculateur de l’ESA",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2361763-5-petaflops-contre-les-tempetes-solaires-on-a-visite-space-hpc-le-premier-supercalculateur-de-lesa.html",
+          "category": "ia",
+          "published_at": "2026-11-01T15:05:00+00:00",
+          "summary": "Inauguré en mars 2025 au centre ESRIN de Frascati, près de Rome, Space HPC compte environ 34&nbsp;000 cœurs de processeur et 108 puces graphiques Nvidia H100. C'est le premier supercalculateur qui appartient à l'Agence spatiale européenne (ESA). Un an et demi après son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db966548aff6",
+          "title": "AliExpress’ Singles’ Day Sale Is a Tech Lover’s Dream, From Gaming Consoles to Karaoke Machines",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/aliexpress-singles-day-sale-2026-best-tech-deals-online-1236371407/",
+          "category": "musique",
+          "published_at": "2026-11-01T14:00:00+00:00",
+          "summary": "The annual shopping event runs through Nov. 18, bringing deals on music and gaming essentials alongside products from Brand+ sellers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81b2e42d0c82",
+          "title": "Test du The G-Lab Keyz Elite 300, un clavier gaming qui a trouvé le bon format",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2356979-test-du-the-g-lab-keyz-elite-300-un-clavier-gaming-francais-qui-a-trouve-le-bon-format.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-01T13:31:00+00:00",
+          "summary": "Compact, sans fil et proposé sous la barre des 100 €, le Keyz Elite 300 GRW coche beaucoup de cases du clavier gaming au bon rapport qualité-prix. J’ai remplacé mon clavier habituel par ce modèle de The G-Lab pendant plusieurs semaines, voici mon avis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "669f8b07868b",
+          "title": "Netflix France : 14 films et séries à voir en novembre 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2360931-netflix-france-14-films-et-series-a-voir-en-novembre-2026.html",
+          "category": "ia",
+          "published_at": "2026-11-01T11:00:00+00:00",
+          "summary": "Netflix a présenté sa sélection de programmes à venir pour le mois de novembre, avant-dernier mois de l'année. Au programme, la saison 2 de Black Doves, la fin de L'Impératrice et The Altruists, la série sur la chute de FTX.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8bf1e871dc77",
+          "title": "Percée d’OpenAI sur la théorie de Yang-Mills, mort du télescope Swift et un sas de l’ISS condamné – le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2364619-percee-dopenai-sur-la-theorie-de-yang-mills-mort-du-telescope-swift-et-un-sas-de-liss-condamne-le-recap-sciences-de-la-semaine.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-01T10:10:00+00:00",
+          "summary": "Les physiciens refusent de publier trop tôt la preuve d'OpenAI sur l'existence de la théorie de Yang-Mills. Dans l'espace, le télescope Swift de la Nasa s'éteint après 20 ans de mission. Pendant ce temps, à bord de l'ISS, le sas du module Zvezda est condamné à cause de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bbdcd7869ea",
+          "title": "Here’s Where to Watch the 2026 New York Marathon Live Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/new-york-marathon-2026-watch-live-online-free-1236369518/",
+          "category": "musique",
+          "published_at": "2026-11-01T10:00:00+00:00",
+          "summary": "Livestream the more than 26-mile race throughout all five boroughs in New York City on Nov. 1.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "945abc308fc0",
+          "title": "Votre forfait mobile augmente : que faire pour éviter de payer plus cher ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2362397-votre-forfait-mobile-augmente-que-faire-pour-eviter-de-payer-plus-cher.html",
+          "category": "ia",
+          "published_at": "2026-11-01T09:05:00+00:00",
+          "summary": "Les forfaits à petits prix deviennent moins faciles à trouver, et ceux que l’on possède déjà ne sont pas épargnés par les augmentations. Avec le rachat de SFR qui se prépare, l’avenir de la concurrence n’a rien de rassurant pour les abonnés. Heureusement, il reste quelques…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "33eb8fa526eb",
+          "title": "Disney remonte le temps avec Ghost Rider, Elon Musk remonte l’Odyssey à sa sauce, et Cyberpunk 2077 s’invite dans vos navigateurs, c’est le récap pop culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2364829-disney-remonte-le-temps-avec-ghost-rider-elon-musk-remonte-lodyssey-a-sa-sauce-et-cyberpunk-2077-sinvite-dans-vos-navigateurs-cest-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-11-01T08:00:00+00:00",
+          "summary": "Cette semaine, Marvel Studios a décidé de ressortir les caméras 35 mm pour son prochain film, un choix qui n’avait plus été fait depuis quinze ans. C’est également cette semaine qu’Elon Musk a présenté sa propre version de L’Odyssée, pour le moins… particulière. De son côté, un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f35910db2f92",
+          "title": "Stellantis reprend des couleurs, mais la convalescence s’annonce longue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2363899-stellantis-reprend-des-couleurs-mais-la-convalescence-sannonce-longue.html",
+          "category": "ia",
+          "published_at": "2026-11-01T07:27:00+00:00",
+          "summary": "Stellantis reprend des couleurs, mais la convalescence s’annonce encore longue. On passe le patient au scanner dans l'édito de la newsletter Watt Else du 29 octobre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "82542005c03d",
+          "title": "Ce TV OLED 4K (165 Hz) avec Ambilight de Philips voit son prix baisser de 200 € grâce au Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2364903-ce-tv-oled-4k-165-hz-avec-ambilight-de-philips-voit-son-prix-baisser-de-200-e-grace-au-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-01T07:15:00+00:00",
+          "summary": "[Deal du jour] Alors que la sortie du remake de Zelda Ocarina of Time sur Switch 2 approche, Boulanger baisse le prix d'un téléviseur OLED de 2026 équipé d'Ambilight pour le Black Friday. Le Philips 55OLED811 passe à 1 299 € au lieu de 1 499 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d023290c05e",
+          "title": "Une théorie clé de l’informatique réfutée, 3 mots qui brûlent 15 à 20 % des tokens et L’Odyssée façon Musk – le récap’ tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2364671-une-theorie-cle-de-linformatique-refutee-des-tokens-brules-et-lodyssee-facon-musk-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-11-01T06:31:00+00:00",
+          "summary": "De l'IA générative pour tenter une relecture de L'Odyssée d'Homère, une hypothèse du temps exponentiel qui est remise en question et une astuce pour régler le problème de tokens brûlés chez Claude. Voilà trois des sujets qui ont le plus retenu l'attention.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1ae4bd81460c",
+          "title": "Official ‘KPop Demon Hunters’ Advent Calendars Arrive for Christmas, With 24 Days of Gifts to Uncover",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/official-kpop-demon-hunters-advent-calendar-2026-buy-online-1236371659/",
+          "category": "ia",
+          "published_at": "2026-11-01T05:20:30+00:00",
+          "summary": "The official holiday releases include features accessories, jewelry, stationery and toys inspired by the hit animated film.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "892fa04d689e",
+          "title": "‘SNL’ Parodies Nicki Minaj After Her Trump Rally Appearance",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/snl-nicki-minaj-spoof-trump-cold-open-halloween-1236371672/",
+          "category": "ia",
+          "published_at": "2026-11-01T05:06:19+00:00",
+          "summary": "Saidah Belo-Osagie played the rapper days after Minaj joined Trump at a Michigan rally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c9b89ed33676",
+          "title": "Inde Navarrette & Gracie Abrams on ‘SNL’ Halloween Episode: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/snl-inde-navarrette-gracie-abrams-halloween-watch-live-free-1236359709/",
+          "category": "musique",
+          "published_at": "2026-11-01T00:30:00+00:00",
+          "summary": "Livestream the Obsession actress and pop singer/songwriter on Saturday, Oct. 31 — watch live online for free.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "articles": [
+        {
+          "id": "2fb1ac99755f",
+          "title": "‘NXT Halloween Havoc’ 2026: Here’s Where to Watch WWE Premium Live Event Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/wwe-nxt-halloween-havoc-2026-how-to-watch-live-online-free-1236369109/",
+          "category": "musique",
+          "published_at": "2026-10-31T20:00:00+00:00",
+          "summary": "There are a number of ways to stream the pro wrestling TV event — watch online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "100f06d94b35",
+          "title": "Donald Trump Weighs In on Nicki Minaj as Potential White House Press Secretary",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/donald-trump-nicki-minaj-white-house-press-secretary-1236371646/",
+          "category": "ia",
+          "published_at": "2026-10-31T18:51:21+00:00",
+          "summary": "The president was asked whether the rapper could take on the role in his administration.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "670f3bda0bf2",
+          "title": "« Ignares incompétents » : Xavier Niel fustige les députés socialistes à l’origine de la taxe de 5,5 centimes par gigaoctet",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365207-ignares-incompetents-xavier-niel-fustige-les-deputes-socialistes-a-lorigine-de-la-taxe-de-55-centimes-par-gigaoctet.html",
+          "category": "ia",
+          "published_at": "2026-10-31T18:02:17+00:00",
+          "summary": "Le fondateur de Free n'a pas mâché ses mots. Interrogé sur X à propos de la taxe sur les données numériques votée vendredi à l'Assemblée, Xavier Niel a qualifié ses auteurs d'« ignares incompétents ».",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "359a8391e5a4",
+          "title": "Les scènes les plus marquantes du cinéma d’horreur qui resteront à jamais dans votre mémoire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2364755-les-scenes-les-plus-marquantes-du-cinema-dhorreur-qui-resteront-a-jamais-dans-votre-memoire.html",
+          "category": "ia",
+          "published_at": "2026-10-31T17:15:00+00:00",
+          "summary": "Du simple champ-contrechamp habile au pur cauchemar, le cinéma de genre regorge de moments de bravoure capables de traumatiser des générations entières. Voici dix des scènes les plus angoissantes du cinéma d'horreur.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be90d2ed704f",
+          "title": "Deep Purple’s Ian Gillan Hospitalized Following Medical Emergency, Two Shows Postponed",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/deep-purple-ian-gillan-hospitalized-medical-emergency-1236371632/",
+          "category": "ia",
+          "published_at": "2026-10-31T16:38:09+00:00",
+          "summary": "The 81-year-old singer was scheduled to perform in Germany over the weekend.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ba441517629",
+          "title": "L’usine de l’ID. Polo s’arrête, le Tesla Model Y est le VE le moins polluant et une limite de 80 km/h sur autoroute : le récap Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2364433-lusine-de-lid-polo-sarrete-le-tesla-model-y-est-le-ve-le-moins-polluant-et-une-limite-de-80-km-h-sur-autoroute-le-recap-vroom-de-la-semaine.html",
+          "category": "justice",
+          "published_at": "2026-10-31T16:34:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : l'usine qui fabrique les Volkswagen ID. Polo et Cupra Raval a été mise à l'arrêt, le Tesla Model Y se voit décerné le titre de voiture électrique la moins polluante et la Suisse envisage d'abaisser à 80 km/h la vitesse sur autoroute.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4c00ef1a2adf",
+          "title": "« Un véritable changement de paradigme » : comment l’agence IA des armées planche sur cette technologie de rupture",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2359979-un-veritable-changement-de-paradigme-comment-lagence-ia-des-armees-planche-sur-cette-technologie-de-rupture-interview.html",
+          "category": "ia",
+          "published_at": "2026-10-31T15:58:00+00:00",
+          "summary": "Système de commandement et de contrôle Arcadia, partenariat avec la société Mistral ou encore unité robotique Pendragon... Les projets autour de l’IA foisonnent dans les armées, sur fond d’accélération du tempo avec la guerre en Ukraine. Numerama a pu échanger avec Alain…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "cb64f32ccbd9",
           "title": "La physique quantique en ébullition : la théorie du « surfeur quantique » est de nouveau bousculée",
