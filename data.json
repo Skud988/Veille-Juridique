@@ -1,9 +1,474 @@
 {
-  "generated_at": "2026-11-02T18:23:33.824908+00:00",
+  "generated_at": "2026-11-03T16:16:40.354750+00:00",
   "days": [
+    {
+      "date": "2026-11-03",
+      "articles": [
+        {
+          "id": "93d22298ebc4",
+          "title": "Wisin Signs Global Distribution Agreement With Sony Music Latin for Upcoming Releases",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/wisin-signs-global-distribution-deal-sony-music-latin/",
+          "category": "musique",
+          "published_at": "2026-11-03T16:00:00+00:00",
+          "summary": "The Puerto Rican star will continue releasing music under La Base Music Group, his own label.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb7c28071a38",
+          "title": "The Elder Scrolls 6 : Bethesda confirme enfin son nom officiel avec un teaser",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2366965-the-elder-scrolls-6-bethesda-confirme-enfin-son-nom-officiel-avec-un-teaser.html",
+          "category": "ia",
+          "published_at": "2026-11-03T15:31:39+00:00",
+          "summary": "Après plus de huit ans d’attente et plusieurs semaines de rumeurs, Bethesda vient enfin de lever le voile sur le nom de son prochain grand RPG. The Elder Scrolls VI s’appellera bien Sentinel, comme le laissaient entendre les dernières informations. La révélation a eu lieu dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c37608d30ade",
+          "title": "USA : des « objecteurs de conscience » obtiennent le droit de ne pas travailler avec l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/265194/usa-des-objecteurs-de-conscience-obtiennent-le-droit-de-ne-pas-travailler-avec-lia/",
+          "category": "ia",
+          "published_at": "2026-11-03T15:23:30+00:00",
+          "summary": "Aux États-Unis, on peut invoquer Dieu ou ses convictions humanistes pour être exempté d&#8217;utiliser l&#8217;IA générative. C&#8217;est ce que démontrent deux exemples ces derniers mois, qui pourraient faire boule de neige. En mai, le pape Léon XIV avait déploré dans une…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5f866d04034a",
+          "title": "What’s at Stake in the Dismissal of Wixen’s Lawsuit Against Meta — And Why It Refiled Its Complaint (Guest Column)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/wixen-music-meta-copyright-lawsuit-whats-at-stake/",
+          "category": "ia",
+          "published_at": "2026-11-03T15:00:00+00:00",
+          "summary": "Meta will soon have to face the only question that matters: whether it can use songwriters' work without paying for it.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55e5d280cda3",
+          "title": "Adobe partners with Universal and Warner to bring licensed music to Premiere mobile, its free video editing app",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/adobe-partners-with-universal-and-warner-to-bring-licensed-music-to-premiere-mobile-its-free-video-editing-app/",
+          "category": "musique",
+          "published_at": "2026-11-03T14:58:28+00:00",
+          "summary": "The partnerships, announced on Tuesday (November 3), will let users add up to 60 seconds of a track to a video\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3492c27e5a0a",
+          "title": "☕️ Après Steam, itch.io voit déferler les jeux générés par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apres-steam-itch-io-voit-deferler-les-jeux-generes-par-ia/",
+          "category": "ia",
+          "published_at": "2026-11-03T14:51:44+00:00",
+          "summary": "À l&#8217;instar de Steam, itch.io observe également une très forte hausse de son activité due à la marée montante de jeux générés par IA. La plateforme indépendante de distribution de jeux vidéo, particulièrement tournée vers les créations indépendantes et expérimentales, a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a79532a0928",
+          "title": "« Utiliser l’IA sans culpabiliser » : Revolut dévoile les dessous de sa bascule vers un modèle chinois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2366827-utiliser-lia-sans-culpabiliser-revolut-devoile-les-dessous-de-sa-bascule-vers-un-modele-chinois.html",
+          "category": "ia",
+          "published_at": "2026-11-03T14:48:07+00:00",
+          "summary": "La banque en ligne européenne fait tourner GLM, un modèle ouvert conçu en Chine, sur des serveurs dédiés. Elle affirme avoir divisé sa facture d’IA par dix tout en livrant plus vite.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "868ccb767c1d",
+          "title": "Nicole Taylor of Triplet Country Act Taylor Red Dies at 35 of Breast Cancer: ‘We Honestly Though She’d Be Healed Here on Earth’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/nicole-taylor-death-triplet-act-taylor-red-dies-obituary-1236372873/",
+          "category": "ia",
+          "published_at": "2026-11-03T14:42:52+00:00",
+          "summary": "The Americana country group's lead singer was diagnosed with stage three breast cancer in 2022.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "200c20d26a16",
+          "title": "OpenAI offre 50 € de crédits ChatGPT aux étudiants français",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2366829-openai-offre-50-e-de-credits-chatgpt-aux-etudiants-francais.html",
+          "category": "ia",
+          "published_at": "2026-11-03T14:35:33+00:00",
+          "summary": "Après les États-Unis et le Canada, OpenAI fait un geste pour les étudiants français. Sur UNiDAYS, ils peuvent récupérer 50 € de crédits ChatGPT après avoir vérifié leur statut avec leur adresse e-mail universitaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e180df3d34a5",
+          "title": "« On est juste en train de le nettoyer, mec » : la NASA jette un froid sur le mythique SR-71 Blackbird",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2366165-on-est-juste-en-train-de-le-nettoyer-mec-la-nasa-jette-un-froid-sur-le-mythique-sr-71-blackbird.html",
+          "category": "ia",
+          "published_at": "2026-11-03T14:28:18+00:00",
+          "summary": "Interrogé sur le SR-71 Blackbird qui a disparu de son socle en Californie, le patron de la NASA Jared Isaacman a affirmé que l'agence se contentait de le nettoyer. Il annonce aussi un nouvel avion expérimental pour ce week-end et assure qu'il n'a rien à voir avec le Blackbird.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fe2f0ab5de6",
+          "title": "WMG acquires indie distributor Zebralution Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/wmg-acquires-indie-distributor-zebralution-music/",
+          "category": "musique",
+          "published_at": "2026-11-03T14:26:30+00:00",
+          "summary": "Zebralution Music Co-CEOs Konrad von Löhneysen and Sascha Lazimbat will remain with the company and continue to run its distribution business.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be461a467e2e",
+          "title": "Pourquoi ce petit satellite tire-t-il des lasers vers la Terre ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2366761-pourquoi-ce-petit-satellite-tire-t-il-des-lasers-vers-la-terre.html",
+          "category": "ia",
+          "published_at": "2026-11-03T14:12:49+00:00",
+          "summary": "ERMIS-3, un petit satellite grec, a établi une liaison laser avec une station au sol en Grèce, a annoncé l'Agence spatiale européenne ce lundi 2 novembre 2026. C'est la première liaison optique du pays avec un satellite en orbite basse.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40e18867e2c0",
+          "title": "Jack Harlow Preps Second Release of 2026 With ‘Sweet Action II’ EP",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/jack-harlow-sweet-action-iii-ep-details-1236372854/",
+          "category": "musique",
+          "published_at": "2026-11-03T14:03:50+00:00",
+          "summary": "The seven-song mini-album will drop six years after the original Sweet Action EP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a65acbae4d6c",
+          "title": "Les résultats de l’IA générative démotivent les jeunes mathématiciens",
+          "source": "Next INpact",
+          "url": "https://next.ink/265378/les-resultats-de-lia-generative-demotivent-jeunes-mathematiciens/",
+          "category": "ia",
+          "published_at": "2026-11-03T14:01:27+00:00",
+          "summary": "Alors qu&#8217;OpenAI et Anthropic ont affiché des «&#160;découvertes&#160;» scientifiques en laissant à la communauté le soin de vérifier les résultats obtenus par leurs IA, les jeunes chercheurs et chercheuses se sentent démotivés, bien qu&#8217;ils utilisent énormément ces…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0716a95b7826",
+          "title": "Le télescope Swift de la Nasa va retomber sur Terre : voici les endroits où il pourrait se crasher",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2366375-le-telescope-swift-de-la-nasa-va-retomber-sur-terre-voici-les-endroits-ou-il-pourrait-se-crasher.html",
+          "category": "ia",
+          "published_at": "2026-11-03T14:00:35+00:00",
+          "summary": "Le télescope spatial Swift de la Nasa devrait retomber dans l'atmosphère de la Terre le mercredi 4 novembre 2026, vers 9h30 heure de Paris (à 11 heures près). Ses débris ne pourront toucher le sol qu'entre 20,6 degrés de latitude nord et 20,6 degrés de latitude sud, une bande…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2de7daa1f95a",
+          "title": "The Criterion Collection Unveils ‘KPop Demon Hunters’ Edition: Here’s Where to Shop the 4K Blu-ray & DVD Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/kpop-demon-hunters-film-blu-ray-dvd-4k-physical-release-buy-1236255905/",
+          "category": "ia",
+          "published_at": "2026-11-03T14:00:22+00:00",
+          "summary": "The new edition marks the first time the hit animated film has been available to watch outside of Netflix — save for a brief theatrical run.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eaeab016aeb6",
+          "title": "U.S.-Based Japanese Music Company Nebula17 Expands Team & Roster: ‘J-Pop Feels Ready for Its Moment’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/j-pop-company-nebula17-expands-team-artist-roster-us/",
+          "category": "musique",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "summary": "The L.A.-based company was founded by former Avex USA CEO Naoki Osada, who says he's seeing major \"momentum\" for J-pop in the U.S.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "837830acfdc0",
+          "title": "Billboard Launching ‘Up & Coming’ Music Podcast With SickBird Productions",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/media/podcasts/up-and-coming-video-music-podcast-launch-sickbird-1236372378/",
+          "category": "musique",
+          "published_at": "2026-11-03T14:00:00+00:00",
+          "summary": "The new video podcast, hosted by Billboard staff writer Kyle Denis, will treat listeners to conversations with music's hottest breakthrough acts across genres.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "098f2dd65efe",
+          "title": "Stand Atlantic’s Bonnie Fraser Wants to Bring Imperfection Back to Rock",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/stand-atlantic-bonnie-fraser-godbreath-1236372824/",
+          "category": "ia",
+          "published_at": "2026-11-03T13:56:56+00:00",
+          "summary": "“Everything is just perfect; it's too perfect now,” Fraser said of modern rock production.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6554a40ce148",
+          "title": "HYBE banks $1B+ in Q3, its biggest ever quarter – with over $500M from live",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/bts-world-tour-powers-hybe-to-record-quarterly-revenues-of-1-08b-in-q3-up-109-8-yoy-as-concerts-generate-512m/",
+          "category": "musique",
+          "published_at": "2026-11-03T13:54:24+00:00",
+          "summary": "Concert revenue hit a quarterly record of KRW 726.8 billion ($512m), led by the European and US legs of BTS’s ARIRANG world tour\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "77668c7a36a7",
+          "title": "Le retour du manga Dragon Ball Super se complique de plus en plus",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2366627-le-retour-du-manga-dragon-ball-super-se-complique-de-plus-en-plus.html",
+          "category": "ia",
+          "published_at": "2026-11-03T13:38:39+00:00",
+          "summary": "Alors que les fans espéraient profiter de la Jump Festa 2027 pour obtenir des nouvelles de la suite de Dragon Ball Super, le manga de Toyotaro, chapeauté par Akira Toriyama de son vivant, accumule les signaux inquiétants.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "36500a25efb0",
+          "title": "Apple’s music business broke its Q3 revenue record last quarter",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/apples-music-business-broke-its-q3-revenue-record-last-quarter/",
+          "category": "musique",
+          "published_at": "2026-11-03T13:30:00+00:00",
+          "summary": "Apple’s latest quarterly financials saw the company report $114.6bn of revenues in Q3 (its fiscal Q4) – a 12% rise year-on-year, despite its already-goliath size.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d51ad8957bf",
+          "title": "BTS world tour fuelled a record financial quarter for Hybe in Q3",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/bts-world-tour-fuelled-a-record-financial-quarter-for-hybe-in-q3/",
+          "category": "musique",
+          "published_at": "2026-11-03T13:30:00+00:00",
+          "summary": "Besides Apple, Hybe has also been breaking some quarterly financial records lately. Its Q3 revenues of KRW 1.53tn ($1.14bn) were an all-time record for the company, as was its operating profit of KRW 188.5bn ($140.4m).\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "236acfb184e1",
+          "title": "10 of the 45 new ‘idol’ groups in South Korea this year are virtual",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/10-of-the-45-new-idol-groups-in-south-korea-this-year-are-virtual/",
+          "category": "musique",
+          "published_at": "2026-11-03T13:30:00+00:00",
+          "summary": "While Hybe enjoyed record revenues from its human artists last quarter, a stat in a headline from Korea JoongAng Daily caught our eye this morning: ‘One in four K-Pop acts now virtual’.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78ebc2326347",
+          "title": "A&R startup Acaply wants to help producers easily source vocals",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/ar-startup-acaply-wants-to-help-producers-easily-source-vocals/",
+          "category": "institutionnel",
+          "published_at": "2026-11-03T13:30:00+00:00",
+          "summary": "2026 is a worrying time for many singers and rappers, aware that the emergence of voice-cloning technology means their voices can be copied and put to use on songs without their involvement or permission.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9ccf80d3524d",
+          "title": "Spotify enlists John Legend, Ryan Tedder for Fresh Finds Summit",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/spotify-enlists-john-legend-ryan-tedder-for-fresh-finds-summit/",
+          "category": "musique",
+          "published_at": "2026-11-03T13:30:00+00:00",
+          "summary": "In September, Spotify launched ‘Fresh Finds Forward’ as a 12-month support program for artists who’ve featured in its ‘Fresh Finds’ family of discovery playlists. Now the initiative has spawned its first event.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "502dc426d939",
+          "title": "Un bruit presque imperceptible dans vos vidéos peut révéler votre position",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2366415-un-bruit-presque-imperceptible-dans-vos-videos-peut-reveler-votre-position.html",
+          "category": "ia",
+          "published_at": "2026-11-03T13:10:24+00:00",
+          "summary": "Une vidéo sans indice visuel exploitable peut encore en dire long sur son lieu de tournage. Le vidéaste Colsto le montre en croisant le bruit d’avions à hélices avec leurs trajectoires publiques. Une démonstration impressionnante, qui repose toutefois sur un important travail…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94cb041901c1",
+          "title": "Pour préparer le Rafale du futur, un avion Rafale spécial vient de voir le jour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2366323-pour-preparer-le-rafale-du-futur-un-avion-rafale-special-vient-de-voir-le-jour.html",
+          "category": "ia",
+          "published_at": "2026-11-03T12:58:31+00:00",
+          "summary": "La DGA a livré ce lundi 2 novembre 2026 à son centre d'essais en vol un Rafale banc d'essais, le B374, qui servira de laboratoire volant au futur Rafale F5. Il remplacera à terme le Rafale B348, que l'armée de l'Air et de l'Espace lui prête sur une longue durée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab3cc370e9f0",
+          "title": "Jurassic Park : le trailer d’un projet secret qu’on pensait perdu à jamais a été retrouvé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2366621-jurassic-park-le-trailer-dun-projet-secret-quon-pensait-perdu-a-jamais-a-ete-retrouve.html",
+          "category": "ia",
+          "published_at": "2026-11-03T12:31:00+00:00",
+          "summary": "Les passionnés de dinosaures et de pop culture n'y croyaient plus. Trente-trois ans après la sortie du chef-d'œuvre de Steven Spielberg, la bande-annonce de pitch d'Évasion de Jurassic Park, la série animée annulée de 1993, vient enfin d'émerger sur Internet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5effda496787",
+          "title": "AI roundup: Lyria lawsuit, Anthropic’s Q3, OpenAI pile-in",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/ai-roundup-lyria-lawsuit-anthropics-q3-openai-pile-in/",
+          "category": "ia",
+          "published_at": "2026-11-03T12:30:00+00:00",
+          "summary": "Big money, big lawsuits, and claims that if AI training isn’t ruled as ‘fair use’ it would “threaten not merely a single industry, but the broader economy” – not to mention hamper cancer research, cybersecurity defences and emergency response systems. It’s quite the day of news…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cbc695d1a83b",
+          "title": "La Chine dévoile sa feuille de route lunaire : trois lancements non habités, puis des astronautes sur la Lune avant 2030",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2366339-la-chine-veut-aller-sur-la-lune-avant-2030-et-elle-explique-comment-elle-va-faire.html",
+          "category": "ia",
+          "published_at": "2026-11-03T12:00:00+00:00",
+          "summary": "La Chine devrait envoyer des astronautes sur la Lune d'ici trois ans. Ce calendrier, dévoilé le 31 octobre lors d'une conférence à Pékin, montre la maturité du programme lunaire chinois.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7329551fd7b9",
+          "title": "Airzone, Withings : quand des fonctions connectées gratuites deviennent payantes",
+          "source": "Next INpact",
+          "url": "https://next.ink/265416/airzone-withings-quand-des-fonctions-connectees-gratuites-deviennent-payantes/",
+          "category": "ia",
+          "published_at": "2026-11-03T11:49:07+00:00",
+          "summary": "L&#8217;achat de matériels domotiques comprend souvent tout un lot de fonctions connectées pour les exploiter depuis d&#8217;autres plateformes. Il arrive pourtant que les entreprises derrière ces produits changent brutalement de logique commerciale, des capacités gratuites…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f14bf53f7d0",
+          "title": "Black Friday en direct : les meilleurs deals chez Amazon, Fnac, Boulanger ce mardi 3 novembre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2363357-pre-black-friday-november-2026-meilleures-offres.html",
+          "category": "musique",
+          "published_at": "2026-11-03T11:30:27+00:00",
+          "summary": "Les enseignes n’ont pas attendu le 27 novembre pour lancer leur Black Friday 2026. Nous trions les offres de cet événement, devenu au fil des ans un véritable « Black November ». Revenez régulièrement car ce live s’enrichit chaque heure de nos nouvelles trouvailles (consoles,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5669694ed60",
+          "title": "Le singles Day 2026 continue : voici les meilleures offres du Black Friday chinois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365399-le-singles-day-2026-continue-voici-les-meilleures-offres-du-black-friday-chinois.html",
+          "category": "musique",
+          "published_at": "2026-11-03T10:58:47+00:00",
+          "summary": "Le Black Friday chinois fait tout comme son cousin américain. Associé au 11 novembre, le Singles Day a commencé chez AliExpress depuis le 1er novembre, avec des promotions jusqu'au 18 novembre. Dans ce live, Numerama sélectionne les offres intéressantes et détaille les codes à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8727e2a28a9",
+          "title": "Près d’un jeu sur deux sorti sur Steam en octobre 2026 a eu recours à l’IA générative",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2366283-pres-dun-jeu-sur-deux-sorti-sur-steam-en-octobre-2026-a-eu-recours-a-lia-generative.html",
+          "category": "ia",
+          "published_at": "2026-11-03T10:48:10+00:00",
+          "summary": "L'intelligence artificielle générative prend une place de plus en plus importante dans l'industrie du jeu vidéo. Selon une analyse publiée sur Reddit et relayée par Dexerto, près de 50 % des jeux sortis sur Steam en octobre 2026 déclaraient des contenus générés par IA, soit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d431a04d74a9",
+          "title": "En pleine crise de la mémoire, Sam Altman met les pieds dans la RAM",
+          "source": "Next INpact",
+          "url": "https://next.ink/265290/en-pleine-crise-de-la-memoire-sam-altman-met-les-pieds-dans-la-ram/",
+          "category": "ia",
+          "published_at": "2026-11-03T10:00:19+00:00",
+          "summary": "Internet a une nouvelle tête de Turc depuis quelques jours : Sam Altman. Il a en effet affirmé dans une interview que la RAM des ordinateurs des particuliers serait bien plus utile dans les centres de données IA. Alors que les coûts de la mémoire font flamber les prix des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f19093d7d673",
+          "title": "District’s Bengaluru venue is now the Airtel Arena",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/districts-bengaluru-venue-is-now-the-airtel-arena/",
+          "category": "musique",
+          "published_at": "2026-11-03T09:55:33+00:00",
+          "summary": "When “going-out” platform District by Zomato announced that it had taken over the operations of Bengaluru’s 17,000-capacity outdoor venue Terraform in September 2025, it promised that “high-speed internet connectivity” was [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2900e6d72c76",
+          "title": "Official Charts Pro data reveals GTA VI’s longer-term music boosts",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/official-charts-pro-data-reveals-gta-vis-longer-term-music-boosts/",
+          "category": "ia",
+          "published_at": "2026-11-03T09:20:02+00:00",
+          "summary": "Having their song featured in a trailer or teaser for Grand Theft Auto VI gives an artist a significant spike in streams. But does it last?\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfd4f47ecb3d",
+          "title": "XCPE : Videostrong a vendu 1,3 million de box TV Android chargées d’un malware",
+          "source": "Next INpact",
+          "url": "https://next.ink/265369/xcpe-videostrong-a-vendu-13-million-de-box-tv-android-chargees-dun-malware/",
+          "category": "ia",
+          "published_at": "2026-11-03T08:51:32+00:00",
+          "summary": "Google affirme avoir identifié une porte dérobée baptisée XCPE, qui changeait 1,3 million de box TV Android infectées en un botnet capable de lancer des actions malveillantes à grande échelle. L&#8217;éditeur accuse le fabricant des box en question, Videostrong Technology,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5dce5030535",
+          "title": "SpaceX cherche un moyen rapide de devenir opérateur mobile aux États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/265305/spacex-cherche-un-moyen-rapide-de-devenir-operateur-mobile-aux-etats-unis/",
+          "category": "ia",
+          "published_at": "2026-11-03T07:58:18+00:00",
+          "summary": "Les grands opérateurs américains (et européens) de téléphonie ne sont pas très chauds à l&#8217;idée de voir débouler SpaceX sur leur pré carré. Ces derniers mois, Elon Musk aurait essayé de convaincre AT&#38;T, Verizon et T-Mobile de donner à son entreprise un accès à leurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11dd95589c29",
+          "title": "Anthropic veut empêcher Claude Code de cloner des jeux vidéo",
+          "source": "Next INpact",
+          "url": "https://next.ink/265307/anthropic-veut-empecher-claude-code-de-cloner-des-jeux-video/",
+          "category": "ia",
+          "published_at": "2026-11-03T07:04:00+00:00",
+          "summary": "Anthropic demande désormais à Claude Code de refuser de recréer des jeux vidéo existants. Un garde-fou contre les clones générés par IA, mais qui bloque aussi des projets professionnels. «&#160;Crée des jeux originaux, des jeux appartenant à un genre donné et des jeux à partir…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6d6666af0251",
+          "title": "☕️ SUSE va supprimer 10 % de ses effectifs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/suse-va-supprimer-10-de-ses-effectifs/",
+          "category": "justice",
+          "published_at": "2026-11-03T06:32:00+00:00",
+          "summary": "« Décision douloureuse » mais «&#160;nécessaire » pour s&#8217;adapter et « construire une entreprise pérenne et résiliente sur le long terme » : Dirk-Peter van Leeuwen, le directeur général de SUSE, a sorti tous les poncifs du genre pour justifier le coup de hache dans les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abeb495d4a23",
+          "title": "Clean Bandit talk TikTok, independence and ‘A&R meetings in bed’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/03/clean-bandit-talk-tiktok-independence-and-ar-meetings-in-bed/",
+          "category": "musique",
+          "published_at": "2026-11-03T06:00:00+00:00",
+          "summary": "Every songwriter understands that once their work is out in the world, people will interpret it and put it to uses that they never intended.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-02",
       "articles": [
+        {
+          "id": "9dfe66c83970",
+          "title": "FTC and four states demand jury trial in BOTS Act lawsuit against Live Nation and Ticketmaster",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ftc-and-four-states-demand-jury-trial-in-bots-act-lawsuit-against-live-nation-and-ticketmaster/",
+          "category": "ia",
+          "published_at": "2026-11-02T20:00:59+00:00",
+          "summary": "The US Federal Trade Commission and four states have demanded a jury trial in their lawsuit against Live Nation and its ticketing subsidiary, Ticketmaster. Colorado, Florida, Illinois, and Nebraska joined the FTC in the demand, which was filed in federal court in Los Angeles on…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "857694bfec5c",
+          "title": "Alphabet shareholder sues Sundar Pichai and 12 others over training Google’s AI, including Lyria, on copyrighted works",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/alphabet-shareholder-sues-sundar-pichai-and-12-others-over-training-googles-ai-including-lyria-on-copyrighted-works/",
+          "category": "ia",
+          "published_at": "2026-11-02T18:32:50+00:00",
+          "summary": "Phil Rosen is suing on Alphabet's behalf in a shareholder derivative suit, meaning any damages recovered would be paid to Alphabet itself rather than to him.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb6d2859bdcc",
+          "title": "Live Nation’s Ticketmaster brings festival ticketing subsidiary Front Gate Tickets into CashorTrade face-value resale partnership",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nations-ticketmaster-brings-festival-ticketing-subsidiary-front-gate-tickets-into-cashortrade-face-value-resale-partnership/",
+          "category": "ia",
+          "published_at": "2026-11-02T18:32:34+00:00",
+          "summary": "Fans who bought festival passes through Front Gate can now resell them to other fans on CashorTrade for no more than they originally paid.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "0f106d9a06af",
           "title": "Olivia Rodrigo Announces First-Ever Christmas Song ‘Take Me Home’: Here’s When It Arrives",
