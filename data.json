@@ -1,9 +1,614 @@
 {
-  "generated_at": "2026-11-05T16:28:13.033382+00:00",
+  "generated_at": "2026-11-06T15:55:42.610741+00:00",
   "days": [
+    {
+      "date": "2026-11-06",
+      "articles": [
+        {
+          "id": "5dfda6195833",
+          "title": "Warner Chappell boss Guy Moot, the first music publisher to receive the UK’s MITS Award, on A&R, catalog, My Chemical Romance, and the PROs",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-chappell-boss-guy-moot-the-first-music-publisher-to-receive-the-uks-mits-award-on-ar-catalog-my-chemical-romance-and-the-pros/",
+          "category": "musique",
+          "published_at": "2026-11-06T15:54:40+00:00",
+          "summary": "This coming Monday (November 9), at London’s Grosvenor House Hotel, Guy Moot, Chair and CEO of Warner Chappell Music (WCM), will become the first music publisher to receive the award in its 34-year history.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "916c83d8d787",
+          "title": "Stranger Things : Netflix annonce par surprise une nouvelle série préquelle, prévue pour 2028",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2369601-stranger-things-netflix-annonce-par-surprise-une-nouvelle-serie-prequelle-prevue-pour-2028.html",
+          "category": "ia",
+          "published_at": "2026-11-06T15:50:26+00:00",
+          "summary": "Alors que les aventures d'Eleven et de ses amis sont terminées, Netflix n'en a pas fini avec Stranger Things. À l'occasion du Stranger Things Day de ce vendredi 6 novembre, la plateforme a dévoilé Other Worlds: A Stranger Things Adventure, une nouvelle série qui nous ramènera…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8072978a87b9",
+          "title": "☕️ Pour quelques dollars, du trafic web peut transiter par le réseau de la Maison-Blanche",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/pour-quelques-dollars-du-trafic-web-peut-transiter-par-le-reseau-de-la-maison-blanche/",
+          "category": "ia",
+          "published_at": "2026-11-06T15:40:06+00:00",
+          "summary": "La connexion internet de la Maison-Blanche est à louer. Elle servirait en effet de relais à des services commerciaux de proxy : leurs clients peuvent y faire transiter du trafic web qui apparait alors comme provenant de l’Executive Office of the President, l&#8217;équipe au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d02e86e3013",
+          "title": "Google déréférence 9 des plus gros sites d’infos générés par IA qui polluent Discover",
+          "source": "Next INpact",
+          "url": "https://next.ink/263676/google-dereference-9-des-plus-gros-sites-dinfos-generes-par-ia-qui-polluent-discover/",
+          "category": "ia",
+          "published_at": "2026-11-06T15:01:30+00:00",
+          "summary": "Google a modifié ses règles de sorte de pénaliser les profils d&#8217;auteurs fictifs, d&#8217;obliger à «&#160;vérifier manuellement&#160;» les contenus générés par IA, et de privilégier le «&#160;travail humain&#160;» aux pages générées automatiquement. Contacté par Next,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b40b14d26cfa",
+          "title": "Weezer: Photos From the Billboard Cover Shoot",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/photos/weezer-photos-billboard-cover-shoot-1236373143/",
+          "category": "musique",
+          "published_at": "2026-11-06T15:01:26+00:00",
+          "summary": "Check out new pics of the legendary alt-rockers ahead of their Billboard Live Music Summit appearance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8c18cbb7ae2",
+          "title": "Feid Announces Ferxxo – The Green Star Tour 2027: See North American Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/feid-2027-tour-dates-ferxxo-green-star-tour-ticket-info-1236374747/",
+          "category": "ia",
+          "published_at": "2026-11-06T15:00:00+00:00",
+          "summary": "The arena tour begins in Orlando in February and will visit major U.S. and Canadian markets before heading to Mexico.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c91d9b2d497",
+          "title": "Stove God Cooks Finds Home for Highly-Anticipated Sophomore Album",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/stove-god-cooks-all-this-for-me/",
+          "category": "musique",
+          "published_at": "2026-11-06T15:00:00+00:00",
+          "summary": "The Upstate New York MC just dropped the project's second single alongside Swizz Beatz.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c6d62e9c04b",
+          "title": "Rotor Videos opens Artist Unlimited to any artist from $9.99 a month, with unlimited release visuals and a library of 17M+, non-AI-generated clips",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/rotor-videos-opens-artist-unlimited-to-any-artist-from-9-99-a-month-with-unlimited-release-visuals-and-a-library-of-17m-non-ai-generated-clips/",
+          "category": "musique",
+          "published_at": "2026-11-06T14:56:21+00:00",
+          "summary": "The plans give artists unlimited access to Rotor's tools for making visual assets for release campaigns, including music videos, lyric videos, Spotify Canvas, and Apple Music Album Motion.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b78a20af7cb",
+          "title": "Assez rapides pour faire Paris-New York en 10 minutes : les sondes Escapade foncent enfin vers Mars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2369433-assez-rapides-pour-faire-paris-new-york-en-10-minutes-les-sondes-escapade-foncent-enfin-vers-mars.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-06T14:44:00+00:00",
+          "summary": "Ce samedi 7 et le lundi 9 novembre, les deux vaisseaux de la mission Escapade, revenus frôler la Terre après un an passé à tourner autour du point de Lagrange L2, vont se propulser vers Mars. Une étape clé pour ces sondes, qui vont se servir de la gravité terrestre et de leur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c8de29eff85",
+          "title": "Après EA, l’Arabie saoudite pourrait s’offrir le moteur de jeu Unity",
+          "source": "Next INpact",
+          "url": "https://next.ink/266204/apres-ea-larabie-saoudite-pourrait-soffrir-le-moteur-de-jeu-unity/",
+          "category": "ia",
+          "published_at": "2026-11-06T14:41:33+00:00",
+          "summary": "Un des principaux outils de développement de jeux vidéo au monde, le moteur Unity, pourrait passer entre les mains du PIF, le fonds public d&#8217;investissement d&#8217;Arabie saoudite et de son partenaire, le fonds Silver Lake Partners. Une opération à 25 milliards de dollars…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f853a8da5bac",
+          "title": "Splice Reimagines the DAW With ‘Create’ — Its Agentic AI-Powered Platform for Newcomers",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/splice-daw-create-agentic-ai-powered-platform/",
+          "category": "musique",
+          "published_at": "2026-11-06T14:24:20+00:00",
+          "summary": "As the company's CEO, Kakul Srivastava, explains to Billboard, Splice Create is made to \"not create a song for you, but to show you how to do it and collaborate with you.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "168d1ee1e04a",
+          "title": "How a Foot Injury & ‘Midlife Crisis’ Led to Kings of Leon’s ‘Therapeutic’ New Album ‘O My Beloved’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/kings-of-leon-o-my-beloved-album-interview-1236375165/",
+          "category": "musique",
+          "published_at": "2026-11-06T14:00:00+00:00",
+          "summary": "\"It felt like something that I had buried down and hadn't really addressed,\" frontman Caleb Followill tells Billboard.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1c795a94c9b1",
+          "title": "WME Signs BLACKPINK’s JISOO for Worldwide Representation",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/wme-blackpink-jisoo-worldwide-representation/",
+          "category": "musique",
+          "published_at": "2026-11-06T14:00:00+00:00",
+          "summary": "The K-pop star joins WME just days after the release of “Addicted,” the second pre-release single from her forthcoming debut solo album.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f5a7d9c6d08",
+          "title": "Singles Day 2026 : les promotions d’AliExpress continuent, voici les meilleures offres à saisir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2365399-singles-day-2026-les-promotions-daliexpress-continuent-voici-les-meilleures-offres-a-saisir.html",
+          "category": "ia",
+          "published_at": "2026-11-06T13:54:52+00:00",
+          "summary": "Lancé le 1er novembre, le Singles Day 2026 se poursuit jusqu'au 18 novembre, avec une nouvelle occasion de profiter de réductions sur des milliers de produits, notamment dans la high-tech. Smartphones, consoles, casques audio, objets connectés ou encore accessoires : les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0d00c37bb34c",
+          "title": "Zach Bryan Reveals the Very Special Person Who Gets a Royalty Cut From Every Song He Records: ‘He’s the Reason!’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/zach-bryan-commanding-officer-royalty-cut-every-song-records-1236375849/",
+          "category": "ia",
+          "published_at": "2026-11-06T13:53:37+00:00",
+          "summary": "Bryan opened up about the sweet gesture during last month's rambling, two-hour On the Porch podcast chat with Matthew McConaughey.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c2a007c0c2c6",
+          "title": "Amazon retire déjà 300 € à l’iPhone Duo pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2369315-amazon-retire-deja-300-e-a-liphone-duo-pour-le-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-06T13:45:40+00:00",
+          "summary": "[Deal du jour] L'iPhone Duo, le tout premier smartphone pliant d'Apple, est déjà moins cher chez Amazon. La version 1 To passe à 2 780,10 €, contre 3 089 € habituellement, soit une économie de 308,90 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fa3c0557d20",
+          "title": "« C’est fini » : Adam Driver confirme qu’il ne rejouera plus jamais Kylo Ren dans Star Wars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2369313-cest-fini-adam-driver-confirme-quil-ne-rejouera-plus-jamais-kylo-ren-dans-star-wars.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-06T13:45:00+00:00",
+          "summary": "Invité le 4 novembre 2026 de l'émission américaine The Rich Eisen Show, Adam Driver a affirmé qu'il ne rejouerait plus jamais Kylo Ren dans Star Wars. « The Hunt for Ben Solo », le film qu'il a développé avec Steven Soderbergh et que Disney a refusé, ne verra donc sans doute…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7be467e764c8",
+          "title": "Jeudi noir pour l’IA : la fin de l’investissement sans limite ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/266035/jeudi-noir-pour-lia-la-fin-de-linvestissement-sans-limite/",
+          "category": "ia",
+          "published_at": "2026-11-06T13:37:46+00:00",
+          "summary": "Les valeurs de la tech états-unienne ont connu jeudi leur pire séance depuis avril 2025 à Wall Street, entraînant dans leur sillage plusieurs grands indices et des répercussions sur les bourses asiatiques. Les fournisseurs de l&#8217;infrastructure IA sont touchés au premier…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1f568968a1f8",
+          "title": "Splice Create sees samples platform expand with its own DAW",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/splice-create-sees-samples-platform-expand-with-its-own-daw/",
+          "category": "justice",
+          "published_at": "2026-11-06T13:30:00+00:00",
+          "summary": "Splice’s stack just got significantly fuller. Having started as a samples platform, the company is now launching its own digital audio workstation (DAW).\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75ad5ada1798",
+          "title": "Influence Media Partners completes Anthem Entertainment acquisition",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/influence-media-partners-completes-anthem-entertainment-acquisition/",
+          "category": "ia",
+          "published_at": "2026-11-06T13:30:00+00:00",
+          "summary": "2026 isn’t done with expensive music-catalogue acquisitions just yet. Influence Media Partners has announced the completion of its $600m-plus deal to buy publishing catalogues, recordings and film/TV publishing assets owned by Anthem Entertainment.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1058b91c7e28",
+          "title": "Musixmatch and LyricFind reveal their latest lyrical deals",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/musixmatch-and-lyricfind-reveal-their-latest-lyrical-deals/",
+          "category": "musique",
+          "published_at": "2026-11-06T13:30:00+00:00",
+          "summary": "We promise, we’re not trying to wind up fierce legal foes Musixmatch and LyricFind by grouping them together in news stories. It’s just that they do currently have a habit of making announcements on the same day.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c74e07731a0",
+          "title": "Live roundup: The Weeknd, Skiddle stake, UK Artist Touring Fund",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/live-roundup-the-weeknd-skiddle-stake-uk-artist-touring-fund/",
+          "category": "musique",
+          "published_at": "2026-11-06T13:30:00+00:00",
+          "summary": "It’s another busy day for news from the live-music and ticketing sector, starting with a Very Big Number from Live Nation for The Weeknd’s ‘After Hours Til Dawn’ tour, which has finally wrapped after four years of stadium dates.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8597ec72c144",
+          "title": "Karol G set a new TikTok record with livestreamed performance",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/karol-g-set-a-new-tiktok-record-with-livestreamed-performance/",
+          "category": "musique",
+          "published_at": "2026-11-06T13:30:00+00:00",
+          "summary": "TikTok is keen to encourage more big artists to host livestreams in its app. The latest to take up the challenge was Colombian musician Karol G, with a live performance earlier this week (4 November).\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c47fa3dc799",
+          "title": "Take 5: The Search for Sound turns Ableton Live into… a game?",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/take-5-the-search-for-sound-turns-ableton-live-into-a-game/",
+          "category": "musique",
+          "published_at": "2026-11-06T13:30:00+00:00",
+          "summary": "We’ve seen some unexpected devices used for gaming in our time: developers love getting Doom to run on just about anything with a screen – pregnancy tests included.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e717b104e28e",
+          "title": "Black Friday 2026 : voici les seules offres qui méritent votre argent chez Amazon, Fnac, Boulanger",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2363357-black-friday-2026-voici-les-offres-qui-meritent-votre-argent-chez-amazon-fnac-boulanger-ce-vendredi.html",
+          "category": "musique",
+          "published_at": "2026-11-06T13:09:45+00:00",
+          "summary": "Une semaine de « Black November » derrière nous, et déjà de belles affaires chez Amazon, la Fnac, Boulanger ou Darty. On a fait le tri, et ce live s’enrichit chaque jour de nos nouvelles trouvailles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "132172eb2ce4",
+          "title": "Enhanced Games owner to acquire 77% of European promoter DEAG in all-stock deal valuing it at $115M",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/enhanced-games-owner-to-acquire-77-of-european-promoter-deag-in-all-stock-deal-valuing-it-at-115m/",
+          "category": "musique",
+          "published_at": "2026-11-06T13:01:09+00:00",
+          "summary": "DEAG stages more than 6,000 live events a year\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c6de885a98a3",
+          "title": "Stevie Nicks Predicted the Midterm Blue Wave in a Moving Poem: ‘The Light Creates a Circle of Angels’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/stevie-nicks-predicted-midterm-blue-wave-poem-midnight-symphony-1236375841/",
+          "category": "ia",
+          "published_at": "2026-11-06T12:58:48+00:00",
+          "summary": "The Fleetwood Mac singer said she wrote \"Morning Symphony\" three weeks before Tuesday's massive rebuke of the Trump agenda.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73268ca087d3",
+          "title": "Les aéroports US vont remplacer des systèmes de contrôle qui tournaient sur des disquettes",
+          "source": "Next INpact",
+          "url": "https://next.ink/266068/les-aeroports-us-vont-remplacer-des-systemes-de-controle-qui-tournaient-sur-des-disquettes/",
+          "category": "ia",
+          "published_at": "2026-11-06T12:37:00+00:00",
+          "summary": "Alors que l&#8217;administration Trump a longuement communiqué sur l&#8217;introduction de l&#8217;IA pour mieux gérer le contrôle aérien sur son territoire, elle s&#8217;enorgueillit maintenant de la mise en place d&#8217;un système qui doit enfin remplacer des logiciels qui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f8e6d678665",
+          "title": "« Ne méprisez pas l’intelligence de vos utilisateurs » : des développeurs accusent Claude Code de divulguer leur adresse email à des sites web",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2369181-ne-meprisez-pas-lintelligence-de-vos-utilisateurs-des-developpeurs-accusent-claude-code-de-divulguer-leur-adresse-email-a-des-sites-web.html",
+          "category": "ia",
+          "published_at": "2026-11-06T12:30:00+00:00",
+          "summary": "Un ticket GitHub très commenté accuse Claude Code d’avoir transmis l’adresse email de ses utilisateurs à des sites tiers pendant des recherches web. Un correctif existe depuis le 3 novembre, mais il ne bloque qu’une partie des cas.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93c4f7f2dbaa",
+          "title": "SoundCloud will soon have more AI music – from ElevenLabs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/soundcloud-will-soon-have-more-ai-music-from-elevenlabs/",
+          "category": "musique",
+          "published_at": "2026-11-06T12:30:00+00:00",
+          "summary": "With rightsholders urging streaming services to de-recommend, de-monetise and even remove AI-generated music, it’s a ballsy move to announce a deal opening up a new pipeline for it, to say the least.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5474f8567f9",
+          "title": "Recherches internes : quelles sont les obligations pour les professionnels de santé ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/recherches-internes-sante-quelles-obligations",
+          "category": "loi",
+          "published_at": "2026-11-06T12:00:00+00:00",
+          "summary": "Votre établissement emploie des professionnels de santé qui mènent des recherches internes&amp;nbsp;? La CNIL rappelle les règles.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce96c3de2577",
+          "title": "Mass Effect : l’ultime chapitre de la saga annulée aura le droit à un documentaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2369239-mass-effect-lultime-chapitre-de-la-saga-annulee-aura-le-droit-a-un-documentaire.html",
+          "category": "ia",
+          "published_at": "2026-11-06T12:00:00+00:00",
+          "summary": "Deux semaines après l'annonce coup de poing de la fermeture du studio mythique par Electronic Arts, un long-métrage documentaire prépare sa sortie pour retracer la trajectoire exceptionnelle et le clap de fin de l'équipe derrière Mass Effect et Baldur's Gate.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96628cb9cf43",
+          "title": "À 503,17 km/h sur une route publique, la Yangwang U9 Xtreme de BYD devient la voiture la plus rapide du monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2369115-a-50317-km-h-sur-une-route-publique-la-yangwang-u9-xtreme-de-byd-devient-la-voiture-la-plus-rapide-du-monde.html",
+          "category": "loi",
+          "published_at": "2026-11-06T11:31:00+00:00",
+          "summary": "Sur une route publique fermée pour l'occasion à Abu Dhabi, BYD a réussi l'exploit de franchir la barre des 500 km/h. Le missile employé pour ce record n'est autre que l'hypercar électrique Yangwang U9 Xtreme, forte de 3 019 ch.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ac57970f191",
+          "title": "Gaming as a music marketing channel",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/gaming-as-a-music-marketing-channel/",
+          "category": "ia",
+          "published_at": "2026-11-06T11:21:42+00:00",
+          "summary": "GTA VI arrives on 19 November, and new Official Charts Company data shows that its trailers alone have driven lasting uplifts for the music featured in them. Few games can match that scale, but gaming offers artist teams plenty of other ways in. We’ve gone through our campaigns…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "73f1e278375f",
+          "title": "How Bluegirl found streaming success with her debut single",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/how-bluegirl-found-streaming-success-with-her-debut-single/",
+          "category": "musique",
+          "published_at": "2026-11-06T11:19:17+00:00",
+          "summary": "London-based producer Bluegirl released her debut single, “Look At All The Happy People”, on 23 October and has already passed 600,000 Spotify streams. At a time where breaking through as a new artist is harder than ever, this is no mean feat. That’s why we want to look at some…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e453f167109d",
+          "title": "Christmas campaign season is here: Sam Fender, Mariah Carey & Pentatonix get festive",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/christmas-campaign-season-is-here-sam-fender-mariah-carey-pentatonix-get-festive/",
+          "category": "ia",
+          "published_at": "2026-11-06T11:16:30+00:00",
+          "summary": "Whether we like it or not, Christmas campaign season is under way, and artists are finding plenty of ways to get involved.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c6cf80b40de",
+          "title": "My Chemical Romance tops Billboard charts with 20th anniversary reissue",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/my-chemical-romance-tops-billboard-charts-with-20th-anniversary-reissue/",
+          "category": "musique",
+          "published_at": "2026-11-06T11:12:50+00:00",
+          "summary": "The third studio album by My Chemical Romance &#8211; The Black Parade &#8211; reached No.2 when it came out in 2006. Now its 20th anniversary edition has given the band their first Billboard 200 No.1, setting a new record for the longest an album has taken to reach the top.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b81f9f9fc7c3",
+          "title": "Une faille dans Alpine Linux permet de se connecter avec un mot de passe trop long",
+          "source": "Next INpact",
+          "url": "https://next.ink/266066/une-faille-dans-alpine-linux-permet-de-se-connecter-avec-un-mot-de-passe-trop-long/",
+          "category": "ia",
+          "published_at": "2026-11-06T11:10:47+00:00",
+          "summary": "Une énorme faille de sécurité a été découverte et corrigée dans OpenSSH, qui permet d’administrer à distance la plupart des serveurs Linux. Exploitée, elle pouvait laisser entrer des pirates sur des serveurs Alpine Linux sans besoin de connaitre le mot de passe&#160;: il…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be4da9a32aeb",
+          "title": "Si vous voulez découvrir GTA 6 sur grand écran, ce TV Xiaomi Mini LED 144 Hz tombe au bon moment",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2369169-si-vous-voulez-decouvrir-gta-6-sur-grand-ecran-ce-tv-xiaomi-mini-led-144-hz-tombe-au-bon-moment.html",
+          "category": "ia",
+          "published_at": "2026-11-06T11:04:07+00:00",
+          "summary": "[Deal du jour] GTA 6 sort le 19 novembre 2026, et AliExpress propose justement le Xiaomi TV S Mini LED 55 2025 à 378,29 € avec un code promo. Ce téléviseur 4K de 55 pouces à rétroéclairage QD-Mini LED a trois ports HDMI 2.1 compatibles VRR et ALLM, les fonctions qu'attendent les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ebc1ff9eb6c",
+          "title": "Surprise, la Terre a une nouvelle mini-lune",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2368985-une-nouvelle-mini-lune-tourne-autour-de-la-terre-et-on-a-cru-que-cetait-un-morceau-dapollo-13.html",
+          "category": "ia",
+          "published_at": "2026-11-06T10:50:27+00:00",
+          "summary": "Le Minor Planet Center a confirmé le 29 octobre 2026 que la Terre héberge une nouvelle mini-lune, un caillou de 1 à 2 mètres baptisé 2026 QQ8. Des scientifiques l'ont même soupçonné d'être un débris spatial, allant jusqu'à parler d'un reste de la mission Apollo 13.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6f419160b14d",
+          "title": "Tarte aux fraises, bière virtuelle, ASCII art : ce que cachent les security.txt du .fr",
+          "source": "Next INpact",
+          "url": "https://next.ink/266069/tarte-aux-fraises-biere-virtuelle-ascii-art-ce-que-cachent-les-security-txt-du-fr/",
+          "category": "ia",
+          "published_at": "2026-11-06T10:43:52+00:00",
+          "summary": "Des fois, sur Next, on a de drôles d&#8217;idées. Celle du jour : scanner l’intégralité des domaines en .fr pour relever les fichiers cybersecurity.txt permettant de signaler des failles. Nous avons été de surprises en surprises… Au début de l’année, nous parlions cybersécurité…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0805e1a77193",
+          "title": "Beyond the Next Release: A Startup Approach to Building Your Artist’s Team",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/beyond-the-next-release-a-startup-approach-to-building-your-artists-team/",
+          "category": "musique",
+          "published_at": "2026-11-06T10:43:19+00:00",
+          "summary": "Independent labels are used to making a small team go above and beyond. The person planning a campaign might also chase artwork, check metadata, answer artist questions, coordinate release delivery, [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98d05889bad2",
+          "title": "Martin Garrix’s 2027 India tour is built around the country’s Holi festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/martin-garrixs-2027-india-tour-is-built-around-the-countrys-holi-festival/",
+          "category": "musique",
+          "published_at": "2026-11-06T10:30:55+00:00",
+          "summary": "EDM star Martin Garrix is coming back to India in 2027 to play his largest tour of the country, which is being held to coincide with the Holi festival. The [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5799857a0bdd",
+          "title": "Tant pis pour les superstitieux : SpaceX choisit un vendredi 13 pour le double rattrapage inédit de Starship",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2369107-tant-pis-pour-les-superstitieux-spacex-choisit-un-vendredi-13-pour-le-double-rattrapage-inedit-de-starship.html",
+          "category": "ia",
+          "published_at": "2026-11-06T10:28:40+00:00",
+          "summary": "SpaceX vise le vendredi 13 novembre 2026 pour le quinzième vol d'essai de Starship, sa méga-fusée. C'est la première date donnée publiquement par un dirigeant de l'entreprise, pour un vol où SpaceX prévoit de rattraper les deux étages avec sa tour.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ec799c4cc417",
+          "title": "Pendant dix ans, taper 300 fois la lettre A suffisait pour pirater des serveurs Linux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2368965-pendant-dix-ans-taper-300-fois-la-lettre-a-suffisait-pour-pirater-des-serveurs-linux.html",
+          "category": "ia",
+          "published_at": "2026-11-06T09:51:59+00:00",
+          "summary": "Un chercheur a découvert qu’il suffisait de saisir un mot de passe de plus de 256 caractères pour ouvrir, via OpenSSH, des comptes pourtant verrouillés. Cette faille, présente sur des systèmes Linux qui utilisent la bibliothèque musl, vient d’être corrigée.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9c62d9de0ab3",
+          "title": "« Demande exceptionnellement forte » : certains Mercedes GLC électriques ne seront pas livrés avant fin 2027",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2368959-demande-exceptionnellement-forte-certains-mercedes-glc-electriques-ne-seront-pas-livres-avant-fin-2027.html",
+          "category": "ia",
+          "published_at": "2026-11-06T09:42:46+00:00",
+          "summary": "Mercedes fait carton plein avec son nouveau GLC électrique. Le constructeur ne s'attendait pas à une telle demande pour son SUV. S'ajoutent à cela quelques grincements dans l'approvisionnement de certains composants, et voilà que la production est déjà bouclée pour l'année. Les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88275a7e8eb9",
+          "title": "John Wick : le prochain film va enfin répondre à la question que tout le monde se pose",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2369057-john-wick-le-prochain-film-va-enfin-repondre-a-la-question-que-tout-le-monde-se-pose.html",
+          "category": "ia",
+          "published_at": "2026-11-06T09:35:11+00:00",
+          "summary": "Baba Yaga n'a pas dit son dernier mot. Keanu Reeves a officiellement signé pour reprendre du service et prêter sa voix au légendaire tueur à gages dans un film d'animation préquel de la franchise&nbsp;John Wick, piloté par Lionsgate.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2f2d5bff4d1b",
+          "title": "☕️ Vivaldi 8.3 devient plus agressif contre les publicités et les traqueurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/vivaldi-8-3-devient-plus-agressif-contre-les-publicites-et-les-traqueurs/",
+          "category": "ia",
+          "published_at": "2026-11-06T08:16:33+00:00",
+          "summary": "Nouvelle version pour le navigateur alternatif basé sur Chromium et orienté vers les «&#160;power users&#160;». L’ajout majeur de cette mouture est l’arrivée d’un nouveau sélecteur pour le niveau de blocage que l’on souhaite contre les publicités et traqueurs. Jusqu’à présent,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3a55ce378dfb",
+          "title": "Téléphonie mobile : Bouygues Telecom et Orange réorganisent leur spectre 900 et 2 100 MHz",
+          "source": "Next INpact",
+          "url": "https://next.ink/265942/telephonie-mobile-bouygues-telecom-et-orange-reorganisent-leur-spectre-900-et-2-100-mhz/",
+          "category": "ia",
+          "published_at": "2026-11-06T07:47:00+00:00",
+          "summary": "De grandes manœuvres sont en cours sur les réseaux mobiles. Orange a supprimé sa 2G et réaffecte une bonne partie de ses fréquences aux nouvelles technologies. Bouygues Telecom a supprimé pour sa part 9 000 sites 2 100 MHz pour la 4G au profit de la 5G. Orange avait prévenu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d609afd6a83",
+          "title": "OpenAI débauche une responsable de Claude Code et lorgne du côté de GitHub",
+          "source": "Next INpact",
+          "url": "https://next.ink/266026/openai-debauche-une-responsable-de-claude-code-et-lorgne-du-cote-de-github/",
+          "category": "ia",
+          "published_at": "2026-11-06T07:18:00+00:00",
+          "summary": "De la génération de code à son stockage et à sa revue, OpenAI fait feu de tout bois pour faire de Codex un outil indispensable aux développeurs. Et l&#8217;entreprise y met les moyens, en débauchant l&#8217;ancienne directrice produit de Claude Code. OpenAI mise plus que jamais…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a9a228d0d625",
+          "title": "Après la claque électorale, des promesses pour amadouer les réfractaires aux datacenters",
+          "source": "Next INpact",
+          "url": "https://next.ink/266033/apres-la-claque-electorale-des-promesses-pour-amadouer-les-refractaires-aux-datacenters/",
+          "category": "ia",
+          "published_at": "2026-11-06T06:47:42+00:00",
+          "summary": "La victoire écrasante des démocrates aux midterms repose en grande partie sur le ras-le-bol général des Américains devant le coût de la vie. Mais la question de l&#8217;IA a aussi pesé lourd dans les décisions des électeurs. Le message est-il passé auprès des acteurs du secteur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb19e3eb0f36",
+          "title": "IPRS’ revenues grew 8.5% in FY2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/iprss-revenues-grew-8-5-in-fy2026/",
+          "category": "musique",
+          "published_at": "2026-11-06T05:50:19+00:00",
+          "summary": "Blame it on the depreciating Indian rupee. According to collecting societies body Cisac’s just-released ‘Global Collections Report 2026’, which covers its members’ collections in 2025, in terms of music royalties [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "09741487d140",
+          "title": "Mashup Edu’s AI-agent Nia is designed to “run the business side” of indie acts’ careers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/06/mashup-edus-ai-agent-nia-is-designed-to-run-the-business-side-of-indie-acts-careers/",
+          "category": "ia",
+          "published_at": "2026-11-06T05:46:05+00:00",
+          "summary": "Indian music education and creator-development platform Mashup Edu — which runs Xcelerator, a ten-week music business programme for indie artists; and Backstage, an on-campus music industry literacy course for school [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "articles": [
+        {
+          "id": "ef09e782dff5",
+          "title": "Musixmatch and DistroKid renew lyrics distribution partnership under multi-year deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/musixmatch-and-distrokid-renew-lyrics-distribution-partnership-under-multi-year-deal/",
+          "category": "ia",
+          "published_at": "2026-11-05T21:35:51+00:00",
+          "summary": "Insight Partners, a longtime DistroKid backer, is set to retain a \"significant minority stake\" in the company, according to the July announcement.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5874174a6fec",
+          "title": "Influence Media Partners completes acquisition of Anthem Entertainment’s catalogs in deal valued at over $600M",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/influence-media-partners-completes-acquisition-of-anthem-entertainments-catalogs-in-deal-valued-at-over-600m/",
+          "category": "ia",
+          "published_at": "2026-11-05T20:17:21+00:00",
+          "summary": "The deal was struck in collaboration with funds and accounts managed by BlackRock, as confirmed by an announcement today (November 5)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9e845107118",
+          "title": "Kroger asks court to dismiss Sony Music’s social media ads lawsuit, citing Supreme Court’s Cox ruling",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/kroger-asks-court-to-dismiss-sony-musics-social-media-ads-lawsuit-citing-supreme-courts-cox-ruling/",
+          "category": "musique",
+          "published_at": "2026-11-05T20:06:02+00:00",
+          "summary": "The Kroger Co. and 17 affiliated companies filed the motion on Monday (November 2) in the US District Court for the Central District of California.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aea083563071",
+          "title": "Skiddle secures first external investment in 25 years as Soho Square Capital takes minority stake",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/skiddle-secures-first-external-investment-in-25-years-as-soho-square-capital-takes-minority-stake/",
+          "category": "ia",
+          "published_at": "2026-11-05T20:05:08+00:00",
+          "summary": "Skiddle said the investment will support an existing five-year growth plan spanning lifestyle events, technology, marketing, and European expansion.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b6795be7229",
+          "title": "[MàJ] La taxe au gigaoctet emportée par le rejet du projet de loi de finances 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/264997/le-parti-socialiste-a-fait-passer-sa-taxe-au-gigaoctet-a-lassemblee-nationale/",
+          "category": "ia",
+          "published_at": "2026-11-05T20:04:26+00:00",
+          "summary": "Le Parti socialiste avait réussi à faire passer sa « taxe au gigaoctet&#160;» censée faire contribuer les géants du numérique à l&#8217;infrastructure française. Une taxe finalement rejetée lors du vote lapidaire du volet recettes du projet de loi de finances 2027. Mise à jour…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0864d9bfd394",
+          "title": "Le Snep lance le Prix La Stilla, un prix littéraire consacré à la musique",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/le-snep-lance-le-prix-la-stilla-un-prix-litteraire-consacre-a-la-musique/",
+          "category": "musique",
+          "published_at": "2026-11-05T16:45:21+00:00",
+          "summary": "Le Snep lance le Prix La Stilla, un prix littéraire consacré à la musique Présidé par Bertrand Burgalat, le Prix La Stilla distinguera chaque année un ouvrage qui explore les liens entre littérature et musique, qu’il s’agisse d’un roman, d’un essai, d’une biographie ou d’un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9940a9ef4181",
+          "title": "Microsoft propose deux améliorations significatives du ray tracing pour les jeux",
+          "source": "Next INpact",
+          "url": "https://next.ink/265956/microsoft-propose-deux-ameliorations-significatives-du-ray-tracing-pour-les-jeux/",
+          "category": "ia",
+          "published_at": "2026-11-05T16:42:00+00:00",
+          "summary": "Microsoft a publié les préversions de deux nouvelles technologies liées au ray tracing : Clustered Geometry et PTLAS. Elles promettent l’allègement des calculs liés à la lumière dans bon nombre de scénarios, avec des gains parfois significatifs. Pour comprendre les améliorations…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c8e6f637f595",
           "title": "Doja Cat Tweaks ‘Paint the Town Red’ Lyrics After Texas Turns Blue Following Democrats’ Victory",
