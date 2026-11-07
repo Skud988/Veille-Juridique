@@ -1,9 +1,294 @@
 {
-  "generated_at": "2026-11-06T15:55:42.610741+00:00",
+  "generated_at": "2026-11-07T14:54:01.532493+00:00",
   "days": [
+    {
+      "date": "2026-11-07",
+      "articles": [
+        {
+          "id": "d7d75654f496",
+          "title": "Netflix : les 10 meilleures comédies en 2026 pour une fin d’année plus joyeuse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2368699-netflix-les-10-meilleures-comedies-en-2026-pour-une-fin-dannee-plus-joyeuse.html",
+          "category": "ia",
+          "published_at": "2026-11-07T14:30:00+00:00",
+          "summary": "Parce qu'on a tous besoin de débrancher le cerveau après une semaine éreintante, voici notre sélection des meilleures comédies disponibles actuellement sur Netflix. Blockbusters survitaminés, parodies cultes, pépites françaises et comédies romantiques : de quoi soigner toutes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3b57615f2bc0",
+          "title": "Final Fantasy 10 a directement été inspiré par Star Wars et ses courses de pods",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2368669-final-fantasy-10-a-directement-ete-inspire-par-star-wars-et-ses-courses-de-pods.html",
+          "category": "musique",
+          "published_at": "2026-11-07T13:02:00+00:00",
+          "summary": "Vingt-cinq ans après la sortie de Final Fantasy X, Yoshinori Kitase, qui avait réalisé le jeu, est revenu auprès d'IGN sur l'origine d'une des activités les plus emblématiques de l'aventure : le Blitzball. Pour imaginer ce sport aquatique propre à Spira, le producteur de Square…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "88b3884028a1",
+          "title": "Flock : sale temps pour les gros bros",
+          "source": "Next INpact",
+          "url": "https://next.ink/266278/flock-sale-temps-pour-les-gros-bros/",
+          "category": "ia",
+          "published_at": "2026-11-07T12:37:00+00:00",
+          "summary": "Ah, j’avoue avoir eu une semaine compliquée, mais je ne suis pas le seul : ça chiale outre-Atlantique ! Rien ne va pour les tech bros : on peut refuser d’utiliser l’ia, ce qui malheureusement n’empêche pas les sacrifices humains. Et que ça se prend des claques, en politique, en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "57079e6d8606",
+          "title": "Dragon Ball Super ne reviendra peut-être pas, tout comme certains studios d’EA, tandis que Nicolas Cage revient dans l’un de ses meilleurs rôles, c’est le récap pop culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2369591-dragon-ball-super-ne-reviendra-peut-etre-pas-tout-comme-certains-studios-dea-tandis-que-nicolas-cage-revient-dans-lun-de-ses-meilleurs-roles-cest-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-11-07T12:15:00+00:00",
+          "summary": "La suite de Dragon Ball Super se fait toujours attendre depuis le décès d'Akira Toriyama, et les fans du manga ont de moins en moins d'espoir de découvrir un nouveau chapitre un jour. Du côté d'EA, les joueuses et les joueurs font déjà le deuil des studios qu'ils ont tant aimés…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e02b9ab7a3b",
+          "title": "À bord de sa station spatiale, la Chine frôle le zéro absolu et bat un record du monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2370075-a-bord-de-sa-station-spatiale-la-chine-frole-le-zero-absolu-et-bat-un-record-du-monde.html",
+          "category": "ia",
+          "published_at": "2026-11-07T11:55:00+00:00",
+          "summary": "Des physiciens chinois ont refroidi des atomes de rubidium à 9,7 picokelvins à bord de la station spatiale Tiangong, d'après une étude parue ce jeudi 5 novembre 2026 dans la revue Science. Ils font 4 fois mieux que le précédent record, établi en Allemagne en 2021.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7efdc8c62d33",
+          "title": "Cet astronaute canadien capture une photo vertigineuse à 400 kilomètres au-dessus de la Terre",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2370029-cet-astronaute-canadien-capture-une-photo-vertigineuse-a-400-kilometres-au-dessus-de-la-terre.html",
+          "category": "ia",
+          "published_at": "2026-11-07T11:10:46+00:00",
+          "summary": "L'astronaute canadien Joshua Kutryk a publié sur X une photo de sa sortie dans l'espace, à quelque 400 kilomètres au-dessus de la Terre. Ce jeudi 5 novembre 2026, il s'est aventuré hors de l'ISS pour installer un nouveau panneau solaire.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bde5d0afeb2",
+          "title": "Ce site rétro affiche la météo d’aujourd’hui comme une télé des années 1990, musique d’ascenseur comprise",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/politique/2369979-ce-site-retro-affiche-la-meteo-daujourdhui-comme-une-tele-des-annees-1990-musique-dascenseur-comprise.html",
+          "category": "musique",
+          "published_at": "2026-11-07T10:10:00+00:00",
+          "summary": "Consulter la météo du jour, comme si vous regardiez une chaîne câblée américaine des années 1990 ? C'est possible sur RetroCast Now. Ce site créé par The Weather Channel a été remis en avant sur X ce vendredi 6 novembre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ac921665480",
+          "title": "El Niño record : 2027 a 96 % de chances de battre tous les records de chaleur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2369951-el-nino-record-2027-a-96-de-chances-de-battre-tous-les-records-de-chaleur.html",
+          "category": "ia",
+          "published_at": "2026-11-07T09:05:00+00:00",
+          "summary": "L'année 2027 devrait finir autour de +1,74&nbsp;°C au-dessus de l'ère préindustrielle, avec 96&nbsp;% de chances de battre le record de chaleur mondial, selon une analyse publiée le 3 novembre 2026 par Carbon Brief. En cause, un El Niño qui a déjà pulvérisé son record…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f44feb317e5c",
+          "title": "Benson Boone Brings Young Fan Battling Cancer Onstage at Brisbane Concert",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/benson-boone-kenzie-riddle-beautiful-things-brisbane-1236376893/",
+          "category": "musique",
+          "published_at": "2026-11-07T06:13:57+00:00",
+          "summary": "“I’ve had the opportunity of meeting a 13-year-old girl who is battling her second round of cancer,” Boone told the crowd.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5d34982bb1a",
+          "title": "Vers le Rafale du futur, une facture à l’élu qui veut taxer les gigaoctets et la preuve secrète d’OpenAI – le recap’ tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2369173-vers-le-rafale-du-futur-une-facture-a-lelu-qui-veut-taxer-les-gigaoctets-et-la-preuve-secrete-dopenai-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-11-07T06:05:00+00:00",
+          "summary": "La taxe sur les gigaoctets a connu un fort écho médiatique, jusqu'au rejet du projet de loi des finances lors de son examen à l'Assemblée nationale. Mais ce n'est peut-être que partie remise... et dans le reste de l'actualité cette semaine, la preuve mathématique secrète…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f5da5d4c066e",
+          "title": "Céline Dion Plays Air Bass at Metallica’s Sphere Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/celine-dion-metallica-sphere-air-bass-video-1236376892/",
+          "category": "ia",
+          "published_at": "2026-11-07T06:01:25+00:00",
+          "summary": "The singer showed off her air-bass skills during Metallica's Life Burns Faster residency at Las Vegas' Sphere.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "647925ff35fd",
+          "title": "Clap de fin pour le Tesla Cybertruck : chronique d’un échec industriel annoncé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2369931-clap-de-fin-pour-le-tesla-cybertruck-chronique-dun-echec-industriel-annonce.html",
+          "category": "justice",
+          "published_at": "2026-11-07T05:29:00+00:00",
+          "summary": "Après trois petites années et quelque 70 000 exemplaires écoulés, Tesla confirme l'arrêt progressif de la production du Cybertruck au Texas d'ici à la mi-2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db538d24734d",
+          "title": "Flo Milli Wins Dismissal of Copyright Lawsuit Over ‘Never Lose Me’ Beat Sample",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/flo-milli-wins-never-lose-me-copyright-lawsuit-dismissal/",
+          "category": "justice",
+          "published_at": "2026-11-07T01:55:41+00:00",
+          "summary": "A judge ruled that the man who brought the claims did not technically own a beat sampled in the 2023 hit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "461f6f53c241",
+          "title": "Sony’s New Hello Kitty Headphones Come With an Ultra-Chic Carrying Case That Deserves Its Own Spotlight",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/hello-kitty-sony-headphones-cute-case-shop-online-pricing-1236376663/",
+          "category": "ia",
+          "published_at": "2026-11-07T00:30:16+00:00",
+          "summary": "Available now for preorder, the limited-edition collection features three wireless, noise-reduction headphones, each paired with a carrying case and tote bag, with prices starting at $104.99.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac545d89c32d",
+          "title": "Michael Sanft, Attorney Who Represented Keffe D in 2Pac Murder Trial, Dies at 54",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/business/legal/michael-sanft-deaf-keffe-d-attorney-2pac-murder-trial-1236376793/",
+          "category": "ia",
+          "published_at": "2026-11-07T00:27:59+00:00",
+          "summary": "Sanft put together a team and took on Davis' case pro bono.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-06",
       "articles": [
+        {
+          "id": "321fbd850a7e",
+          "title": "Lasso Breaks Down 5 Essential Tracks From His New Album ‘Objetos Frágiles en Ambientes Hostiles’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/lasso-album-objetos-fragiles-ambientes-hostiles-essential-tracks/",
+          "category": "musique",
+          "published_at": "2026-11-06T23:49:01+00:00",
+          "summary": "\"It’s a dedication to anyone who’s trying to achieve their dreams,\" the Venezuelan singer/songwriter tells Billboard Español.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b3179835e54a",
+          "title": "Lincoln Celebrated the Art of Rejuvenation at Billboard Latin Music Week",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/features/lincoln-at-latin-music-week-2026-1236376803/",
+          "category": "musique",
+          "published_at": "2026-11-06T23:39:51+00:00",
+          "summary": "From wellness retreats to sensory experiences, Lincoln invited attendees to recharge amid the excitement of Miami",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "343af3850abc",
+          "title": "In Canada: Faouzia to Accept the Breakthrough Award at Billboard Canada Women in Music 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/faouzia-award-billboard-canada-women-in-music-news/",
+          "category": "musique",
+          "published_at": "2026-11-06T23:00:51+00:00",
+          "summary": "Also up north this week: Angine de Poitrine reveals a third member at a Toronto concert and SOCAN joins GEMA's live music royalty network.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b38bbd8407d4",
+          "title": "Teddy Swims’ ‘Mr. Know It All’ Hits No. 1 on Billboard Pop Airplay Chart",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/teddy-swims-mr-know-it-all-pop-airplay-number-one-1236376758/",
+          "category": "musique",
+          "published_at": "2026-11-06T22:15:06+00:00",
+          "summary": "The singer-songwriter scores his second leader at the format, after “Lose Control” in 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "600658297934",
+          "title": "The Best Ugly Christmas Sweaters for Music Fans to Shop Online in 2026",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-ugly-christmas-sweaters-2026-buy-shop-online-1236375937/",
+          "category": "musique",
+          "published_at": "2026-11-06T22:07:10+00:00",
+          "summary": "With prices starting at $12, Shop Billboard picked the ugliest Christmas sweaters for all sorts of music fans.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2284cc792b09",
+          "title": "EXPORT SUCCESS STORIES – Épisode 2 / 2026",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/actualites-du-snep/export-success-stories-episode-2-2026/",
+          "category": "musique",
+          "published_at": "2026-11-06T17:06:02+00:00",
+          "summary": "Alors que le bilan du marché de la musique enregistrée au premier semestre 2026 confirme la dynamique positive du secteur en France, le Snep poursuit son exploration d’un autre indicateur de vitalité de la production française : sa capacité à s’exporter. Avec le deuxième épisode…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb96110d27cf",
+          "title": "Live Nation generated $10.1B in Q3, up 19% YoY – as international markets overtook the US in fan attendance this year",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-generated-10-1b-in-q3-up-19-yoy-as-international-markets-overtook-the-us-in-fan-attendance-this-year/",
+          "category": "musique",
+          "published_at": "2026-11-06T16:59:39+00:00",
+          "summary": "That's according to Live Nation's latest quarterly results, published on Thursday (November 5).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ac8961ea0d0",
+          "title": "L’Europe dédie une plateforme et 525 millions d’euros aux concepteurs de puces",
+          "source": "Next INpact",
+          "url": "https://next.ink/266258/leurope-dedie-une-plateforme-et-525-millions-deuros-aux-concepteurs-de-puces/",
+          "category": "ia",
+          "published_at": "2026-11-06T16:51:00+00:00",
+          "summary": "La Commission européenne a lancé une plateforme destinée à réunir les outils, les services et les financements susceptibles de servir aux entreprises qui conçoivent des puces électroniques. L&#8217;initiative est accompagnée d&#8217;une enveloppe de 525 millions d&#8217;euros.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "60732f792062",
+          "title": "« Être une femme, ça aide » : l’astronaute Sophie Adenot raconte comment son corps a vécu l’espace",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2369573-etre-une-femme-ca-aide-lastronaute-sophie-adenot-raconte-comment-son-corps-a-vecu-lespace.html",
+          "category": "ia",
+          "published_at": "2026-11-06T16:45:00+00:00",
+          "summary": "De retour sur Terre, l'astronaute française Sophie Adenot a livré un témoignage rare et intime sur les réactions du corps féminin en microgravité, entre adaptation facilitée et défis physiques.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2bab5335509",
+          "title": "Google, Microsoft, Anthropic et OpenAI veulent changer robots.txt pour refuser les IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/266259/google-microsoft-anthropic-et-openai-veulent-changer-robots-txt-pour-refuser-les-ia/",
+          "category": "ia",
+          "published_at": "2026-11-06T16:32:31+00:00",
+          "summary": "Quatre entreprises de la tech souhaitent ajouter une ligne dans le fichier robots.txt pour que les données des sites concernés ne soient pas utilisées dans l&#8217;entrainement des IA. S&#8217;agissant d&#8217;une démarche déclarative, ses limites sont claires. Le 30 octobre,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9d30e04a54f",
+          "title": "From Sony’s record $3.15B quarter to Influence Media’s $600M Anthem deal… it’s MBW’s Weekly Round-Up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-sonys-record-3-15b-quarter-to-influence-medias-600m-anthem-deal-its-mbws-weekly-round-up/",
+          "category": "ia",
+          "published_at": "2026-11-06T16:03:48+00:00",
+          "summary": "The biggest headlines from the past few days...\n\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc2a3879f27e",
+          "title": "L’UE somme TikTok d’arrêter d’enfermer ses utilisateurs dans une spirale de surutilisation",
+          "source": "Next INpact",
+          "url": "https://next.ink/266199/lue-somme-tiktok-darreter-denfermer-ses-utilisateurs-dans-une-spirale-de-surutilisation/",
+          "category": "ia",
+          "published_at": "2026-11-06T16:03:00+00:00",
+          "summary": "La Commission européenne estime à titre préliminaire que TikTok a enfreint le réglement sur les services numériques (DSA) en raison de l&#8217;effet de spirale de surutilisation de son système de recommandation sur l&#8217;onglet «&#160;Pour toi » de son application. Le réseau…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb3d2003b9a0",
+          "title": "The Terminal List : une nouvelle suite arrive sur Prime Video avec un changement majeur",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2369367-the-terminal-list-une-nouvelle-suite-arrive-sur-prime-video-avec-un-changement-majeur.html",
+          "category": "ia",
+          "published_at": "2026-11-06T16:02:00+00:00",
+          "summary": "James Reece s'apprête à faire parler la poudre une fois de plus sur Prime Video. La plateforme de streaming d'Amazon a annoncé ce jeudi 5 novembre 2026 la commande d'une nouvelle série, un thriller militaire centré sur le personnage incarné par Chris Pratt.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "5dfda6195833",
           "title": "Warner Chappell boss Guy Moot, the first music publisher to receive the UK’s MITS Award, on A&R, catalog, My Chemical Romance, and the PROs",
@@ -17,6 +302,16 @@
         {
           "id": "916c83d8d787",
           "title": "Stranger Things : Netflix annonce par surprise une nouvelle série préquelle, prévue pour 2028",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2369601-stranger-things-netflix-annonce-par-surprise-une-nouvelle-serie-prequelle-prevue-pour-2028.html",
+          "category": "ia",
+          "published_at": "2026-11-06T15:50:26+00:00",
+          "summary": "Alors que les aventures d'Eleven et de ses amis sont terminées, Netflix n'en a pas fini avec Stranger Things. À l'occasion du Stranger Things Day de ce vendredi 6 novembre, la plateforme a dévoilé Other Worlds: A Stranger Things Adventure, une nouvelle série qui nous ramènera…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56f072369c34",
+          "title": "Stranger Things sera de retour dans une nouvelle série préquelle prévue pour 2028",
           "source": "Numerama",
           "url": "https://www.numerama.com/pop-culture/2369601-stranger-things-netflix-annonce-par-surprise-une-nouvelle-serie-prequelle-prevue-pour-2028.html",
           "category": "ia",
