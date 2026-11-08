@@ -1,9 +1,184 @@
 {
-  "generated_at": "2026-11-07T14:54:01.532493+00:00",
+  "generated_at": "2026-11-08T15:12:27.999039+00:00",
   "days": [
+    {
+      "date": "2026-11-08",
+      "articles": [
+        {
+          "id": "7145fe4b5ddf",
+          "title": "Pourquoi El Niño s’appelle El Niño ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2363901-pourquoi-el-nino-sappelle-el-nino.html",
+          "category": "ia",
+          "published_at": "2026-11-08T14:10:00+00:00",
+          "summary": "El Niño se renforce actuellement, et devrait culminer à la fin de l'année 2026. Ce phénomène climatique, de retour depuis l'été, inquiète en raison de son intensité et de ses effets en cascade potentiels sur la planète. Mais d'où vient son nom ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "550327556178",
+          "title": "À la sortie de GTA 6, tout le monde va chercher cette maison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2369507-a-la-sortie-de-gta-6-tout-le-monde-va-probablement-chercher-cette-maison.html",
+          "category": "ia",
+          "published_at": "2026-11-08T12:37:00+00:00",
+          "summary": "Saviez-vous que GTA 6 était peut-être apparu pour la première fois dans GTA San Andreas&nbsp;? En 2021, les joueurs ont découvert une mystérieuse photographie dans la Definitive Edition du jeu, représentant une maison inconnue au style très floridien, qui pourrait venir de GTA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "562b07e0b34b",
+          "title": "Ils soufflent le chaud (et surtout le froid) en Bourse : c’est quoi, les néoclouds ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2369495-ils-soufflent-le-chaud-et-surtout-le-froid-en-bourse-cest-quoi-les-neoclouds.html",
+          "category": "ia",
+          "published_at": "2026-11-08T12:05:00+00:00",
+          "summary": "CoreWeave, Nebius ou IREN... Derrière ces noms encore peu connus du grand public, on trouve des loueurs de puissance de calcul pour l’IA, dont le modèle est pour le moins fragile.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "92cb3a487706",
+          "title": "NFL Madrid Game Halftime Show 2026: Here’s Where to Watch Manuel Turizo Perform Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/nfl-madrid-game-2026-manuel-turizo-halftime-watch-live-free-1236373868/",
+          "category": "musique",
+          "published_at": "2026-11-08T11:30:00+00:00",
+          "summary": "Livestream the Cincinnati Bengals taking on the Atlanta Falcons live from Madrid on Nov. 8. Watch Manuel Turizo perform at halftime.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ab7ad8e643de",
+          "title": "J’ai roulé près de 1 000 km sans les mains en BMW iX3 : le SUV électrique pour avaler les kilomètres sans fatigue",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2368597-jai-roule-pres-de-1-000-km-sans-les-mains-en-bmw-ix3-le-suv-electrique-pour-avaler-les-kilometres-sans-fatigue.html",
+          "category": "ia",
+          "published_at": "2026-11-08T11:01:00+00:00",
+          "summary": "Parmi tout l'arsenal technologique embarqué dans le BMW iX3, on trouve la capacité de conduite semi-autonome. J'ai roulé avec le SUV électrique allemand pendant plus de 1 000 km, dont une bonne partie sans toucher ni au volant ni aux pédales. Le logiciel est-il sans défauts ?…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e50cc8a649a5",
+          "title": "Vous ne voulez pas jouer à Ocarina of Time avec des Joy-Con ? On a trouvé la manette parfaite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2369619-vous-ne-voulez-pas-jouer-a-ocarina-of-time-avec-des-joy-con-cette-manette-switch-sous-licence-nintendo-tombe-a-1999-e.html",
+          "category": "justice",
+          "published_at": "2026-11-08T09:30:00+00:00",
+          "summary": "[Deal du jour] Le remake d’Ocarina of Time est sorti ce jeudi sur Switch 2, et une aventure de cette ampleur mérite mieux que des Joy-Con. Sous licence Nintendo, la manette sans fil Afterglow Deluxe de PDP tombe à 19,99 € sur Amazon.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5330d36c604c",
+          "title": "Avion espion de la Nasa, changement des heures creuses EDF, preuve mathématique d’OpenAI imminente – le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2369401-avion-espion-de-la-nasa-changement-des-heures-creuses-edf-preuve-mathematique-dopenai-imminente-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-11-08T08:15:00+00:00",
+          "summary": "La Nasa jette un froid sur le mythique avion SR-71 Blackbird, EDF déploie de nouveaux horaires d'heures creuses auprès de ses clients, la preuve mathématique secrète d'OpenAI bientôt publiée : c'était l'actualité scientifique de la semaine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f87badd6e782",
+          "title": "Recharge électrique : pourquoi il vaut mieux être un client volage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2369955-recharge-electrique-pourquoi-il-vaut-mieux-etre-un-client-volage.html",
+          "category": "ia",
+          "published_at": "2026-11-08T07:28:00+00:00",
+          "summary": "Installer des bornes ne suffit plus. Pour survivre, les opérateurs doivent désormais convaincre les automobilistes de leur rester fidèles. Et ce n'est pas gagné !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "29048a0f771b",
+          "title": "U2 Weigh In on Ed Sheeran and Macklemore Tour Controversy",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/u2-macklemore-ed-sheeran-tour-censorship-comments-1236377026/",
+          "category": "ia",
+          "published_at": "2026-11-08T03:53:23+00:00",
+          "summary": "The Edge and Larry Mullen Jr. defended the rapper’s right to speak out, while the Edge said Sheeran “should not be vilified”.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "19f380854bcb",
+          "title": "Druski & The Strokes on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-druski-the-strokes-watch-live-online-free-1236375885/",
+          "category": "musique",
+          "published_at": "2026-11-08T01:30:00+00:00",
+          "summary": "Livestream the comedian host and the indie rock band perform on Nov. 7 — watch live online for free.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4eb308b3c64d",
+          "title": "Alanis Morissette Shares She Identifies as Pansexual",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/pride/alanis-morissette-pansexual-1236376991/",
+          "category": "musique",
+          "published_at": "2026-11-08T00:39:09+00:00",
+          "summary": "The singer-songwriter chatted about it briefly in a podcast appearance the week of releasing her new holiday album.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "articles": [
+        {
+          "id": "4c671059ed15",
+          "title": "Deep Purple’s Ian Gillan Shares Encouraging News After Undergoing Surgery",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/deep-purple-ian-gillan-health-update-after-surgery-1236376961/",
+          "category": "ia",
+          "published_at": "2026-11-07T20:43:32+00:00",
+          "summary": "“I now have to rest, in order to make a complete recovery,” the singer wrote.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "629495893cf1",
+          "title": "Richard Lloyd, Television Guitarist, Dies at 75",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/richard-lloyd-death-television-guitarist-dies-obituary-1236376953/",
+          "category": "musique",
+          "published_at": "2026-11-07T19:09:13+00:00",
+          "summary": "The musician was diagnosed with bile duct cancer in March 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8e42dd33e67",
+          "title": "Le jour où les astronautes d’Apollo 11 ont suivi un entraînement spécial pour ne pas dire de gros mots",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2367567-le-jour-ou-les-astronautes-dapollo-11-ont-suivi-un-entrainement-special-pour-ne-pas-dire-de-gros-mots.html",
+          "category": "ia",
+          "published_at": "2026-11-07T17:32:00+00:00",
+          "summary": "Comme la mission Apollo 11 était suivie en direct à la télévision par des centaines de millions de personnes, ses astronautes devaient éviter de dire des grossièretés devant toute la planète. La Nasa a pris le problème très au sérieux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1faab10ad2b",
+          "title": "Dans 20-30 ans, y’en aura plus : voici comment sauvegarder vous-même les sites web de notre époque",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2366929-dans-20-30-ans-yen-aura-plus-voici-comment-sauvegarder-vous-meme-les-sites-web-de-notre-epoque.html",
+          "category": "ia",
+          "published_at": "2026-11-07T16:02:00+00:00",
+          "summary": "Une archiviste appelle les internautes à sauvegarder eux-mêmes les sites web qu’ils aiment, avant qu’ils ne disparaissent. Voici les outils qu’elle recommande, et d’autres options fiables pour le faire selon vos besoins.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5497d4c4d076",
+          "title": "Elvis Presley Rights Owners Sue Suno Over AI Voice Cloning: ‘Elvis’ Identity Was Stolen’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
+          "category": "ia",
+          "published_at": "2026-11-07T15:38:11+00:00",
+          "summary": "The singer's legendary voice is at the center of a cutting-edge lawsuit that aims to hold the AI firm legally liable for allowing users to create knockoff vocals.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fb9aec400936",
+          "title": "Une marque pénalisé par l’Europe sans le vouloir, Electra change ses abonnements et BYD bat le record de vitesse : le récap Vroom de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2369813-une-marque-penalise-par-leurope-sans-le-vouloir-electra-change-ses-abonnements-et-byd-bat-le-record-de-vitesse-le-recap-vroom-de-la-semaine.html",
+          "category": "loi",
+          "published_at": "2026-11-07T15:14:00+00:00",
+          "summary": "À la une sur Vroom cette semaine : Toyota pourra se retrouver pénaliser par un projet de loi européen qui vise des marques chinoises, Electra brise sa promesse de ne pas toucher à ses forfaits et BYD fixe le nouveau record de vitesse pour une voiture de route à 503,17 km/h.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "d7d75654f496",
           "title": "Netflix : les 10 meilleures comédies en 2026 pour une fin d’année plus joyeuse",
@@ -12,6 +187,16 @@
           "category": "ia",
           "published_at": "2026-11-07T14:30:00+00:00",
           "summary": "Parce qu'on a tous besoin de débrancher le cerveau après une semaine éreintante, voici notre sélection des meilleures comédies disponibles actuellement sur Netflix. Blockbusters survitaminés, parodies cultes, pépites françaises et comédies romantiques : de quoi soigner toutes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6fe8abadda8",
+          "title": "WWE Crown Jewel 2026: Here’s How to Watch the Premium Live Event Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/wwe-crown-jewel-2026-how-to-watch-live-online-free-1236372909/",
+          "category": "musique",
+          "published_at": "2026-11-07T14:00:00+00:00",
+          "summary": "Don't miss men's and women's matches for WWE Crown Jewel Championships during the wrestling event.",
           "summary_type": "extrait source"
         },
         {
