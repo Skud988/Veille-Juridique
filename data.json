@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-11-12T16:48:09.858370+00:00",
+  "generated_at": "2026-11-13T16:23:47.840961+00:00",
   "days": [
+    {
+      "date": "2026-11-13",
+      "articles": [
+        {
+          "id": "ad8cceb6df61",
+          "title": "Bono Says Dolly Parton ‘Sang Herself to Some Other Place’ on the New U2 Song ‘Torn’: ‘It Feels Like a Prayer … For America’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/bono-dolly-parton-u2-torn-prayer-america-kimmel-watch-1236381702/",
+          "category": "musique",
+          "published_at": "2026-11-13T16:22:41+00:00",
+          "summary": "The \"sci-fi country\" ballad featuring Parton's final vocal performance, closes the band's new album, Carnaval de Luz.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b93c0a4117ca",
+          "title": "Robyn Slams Eurovision: ‘It’s So Embarrassing’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/robyn-slams-eurovision-so-embarrassing-1236381695/",
+          "category": "ia",
+          "published_at": "2026-11-13T16:11:46+00:00",
+          "summary": "\"After watching it, I feel overstimulated in a bad way,\" the pop star said.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e50a2b5bfb03",
+          "title": "Artists With the Most CMA Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/artists-with-most-cma-awards-full-list/",
+          "category": "ia",
+          "published_at": "2026-11-13T16:10:00+00:00",
+          "summary": "Miranda Lambert, Chris Stapleton, Lainey Wilson and more could move up the leaderboard this year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "08965c049136",
+          "title": "Mickey Mouse Is ‘Home Alone’ for the Holidays: Watch ‘Ho-Ho-Home for Christmas’ Music Video Premiere",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/mickey-mouse-home-alone-ho-ho-home-christmas-music-video-1236380592/",
+          "category": "musique",
+          "published_at": "2026-11-13T16:00:00+00:00",
+          "summary": "Mickey's Home Alone arrives Thanksgiving day (Nov. 26) on Disney Jr. and streams next day on Disney+.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80ce9a753473",
+          "title": "Les lunettes connectées d’Amazon ne rassurent pas tous les livreurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/267303/les-lunettes-connectees-damazon-ne-rassurent-pas-tous-les-livreurs/",
+          "category": "musique",
+          "published_at": "2026-11-13T15:52:26+00:00",
+          "summary": "Après une phase de test, Amazon va distribuer plus largement des lunettes connectées pour les chauffeurs-livreurs de ses colis. Ce qui n&#8217;est pas sans inquiéter certains d&#8217;entre eux. Depuis l&#8217;an dernier, plus de 300 entreprises de livraison partenaires…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e2cf76812130",
+          "title": "1 220 € d’écart avec l’iPhone Duo : le Galaxy Z Fold 8 tombe à moitié prix sur Amazon pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2355819-1-220-e-decart-avec-liphone-duo-le-galaxy-z-fold8-tombe-a-moitie-prix-sur-amazon-pour-le-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-13T15:44:36+00:00",
+          "summary": "[Deal du jour] L’iPhone Duo coûte 2 339 € en 256 Go. À capacité égale, le Galaxy Z Fold8 de Samsung revient à 1 119 € sur Amazon grâce à une nouvelle offre de remboursement de 300 €, contre 1 999 € à sa sortie. Il coûte ainsi moins de la moitié du prix du pliable d’Apple.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "634f63865e1f",
+          "title": "Predator : Schwarzenegger confirme enfin la grande nouvelle pour la suite du film de 87",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2374203-predator-schwarzenegger-confirme-enfin-la-grande-nouvelle-pour-la-suite-du-film-de-87.html",
+          "category": "ia",
+          "published_at": "2026-11-13T15:40:00+00:00",
+          "summary": "Près de 40 ans après le premier film culte de 1987, Arnold Schwarzenegger a confirmé qu'il comptait reprendre son rôle emblématique du major Alan « Dutch » Schaefer dans un prochain volet de la saga Predator, dont le scénario n'est pas encore écrit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f29e94adac8",
+          "title": "Phishing : quand un vrai faux email et un lien légitime cachent une arnaque",
+          "source": "Next INpact",
+          "url": "https://next.ink/266410/phishing-quand-un-vrai-faux-email-et-un-lien-legitime-cachent-une-arnaque/",
+          "category": "ia",
+          "published_at": "2026-11-13T15:32:00+00:00",
+          "summary": "Dans notre boîte, nous avons reçu un email qui semble tout à fait légitime. Il est d’ailleurs arrivé directement dans la boîte principale de notre Gmail. Problème, il contenait un lien, qui semblait lui aussi légitime, mais qui ne l’était pas. Cette affaire rappelle une fois…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "18edc1c9ea20",
+          "title": "Black Friday : les deals à ne pas rater ce vendredi 13 novembre (EN DIRECT)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2363357-black-friday-2026-les-meilleures-promos-en-direct-de-ce-vendredi-13-votre-portefeuille-a-de-la-chance.html",
+          "category": "ia",
+          "published_at": "2026-11-13T15:07:59+00:00",
+          "summary": "Le Black Friday 2026 tombe le 27 novembre, mais les promos n’ont pas attendu. Smartphones, consoles, TV, écouteurs : nous sélectionnons en direct les meilleures offres d'Amazon Fnac, Boulanger, Cdiscount... en direct, ici.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2226e4c0120",
+          "title": "« Les mesures prises n’ont pas apporté le soulagement attendu » : le journal de bord de Microsoft révèle ses tâtonnements pendant sa panne géante",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2374177-les-mesures-prises-nont-pas-apporte-le-soulagement-attendu-le-journal-de-bord-de-microsoft-revele-ses-tatonnements-pendant-sa-panne-geante.html",
+          "category": "ia",
+          "published_at": "2026-11-13T15:04:01+00:00",
+          "summary": "Depuis jeudi 12 novembre 2026 au soir, des millions d’utilisateurs de Microsoft 365 n’arrivent plus à accéder correctement à leurs mails ni à plusieurs services de la suite. Vendredi après-midi, le service revient progressivement, mais la panne n’est toujours pas entièrement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0a6af85cb4c",
+          "title": "[Édito] Des plaques d’immatriculation en vente,  que nous reste-t-il de privé ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/266404/edito-des-plaques-dimmatriculation-en-vente-que-nous-reste-t-il-de-prive/",
+          "category": "ia",
+          "published_at": "2026-11-13T15:01:00+00:00",
+          "summary": "Toutes les fuites de données sont importantes et renforcent les pirates. Dernier exemple en date, des plaques d’immatriculation, avec le risque de cibler toujours plus de potentielles victimes. Au-delà de prendre au sérieux la cybersécurité, le manque de transparence est un vrai…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "56a33493c902",
+          "title": "Queen Latifah’s Full-Circle Moment: How the Rock Hall Honoree Is Giving Back to New Jersey",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/queen-latifah-rock-hall-you-can-go-home-doc-interview-1236378188/",
+          "category": "institutionnel",
+          "published_at": "2026-11-13T15:00:00+00:00",
+          "summary": "The rap pioneer reflects on her upcoming Rock &#38; Roll Hall of Fame induction and her mission to uplift her hometown in the new documentary, You Can Go Home Again.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d741eb14364d",
+          "title": "Windows 11 : que donne la réinstallation par le cloud ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/267461/windows-11-que-donne-la-reinstallation-par-le-cloud/",
+          "category": "institutionnel",
+          "published_at": "2026-11-13T14:37:27+00:00",
+          "summary": "Un mécanisme de réinstallation par le cloud est disponible dans Windows 11 depuis peu. Il semble pensé pour la transmission du PC à un tiers, avec la possibilité de lancer un effacement sécurisé des données. Depuis la mise à jour optionnelle d’octobre et surtout depuis le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "64de037fd3c8",
+          "title": "☕️ [MàJ] Outlook, Teams : les services Microsoft reviennent au bout de 20 heures",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/outlook-teams-plusieurs-services-de-microsoft-sont-en-panne/",
+          "category": "ia",
+          "published_at": "2026-11-13T14:14:45+00:00",
+          "summary": "Mise à jour, 13 novembre, 15h10 : la panne n&#8217;est pas encore résorbée, mais Microsoft semble tenir le bon bout. Dans son dernier point de situation daté de 15 heures, l&#8217;éditeur indique que le retard pris dans le traitement des mails se résorbe, et que ses principaux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4546cb297a14",
+          "title": "HUNTR/X Hitting the Road for 2027 KPop Demon Hunters Golden World Tour: See Dates",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/huntrx-2027-kpop-demon-hunters-golden-world-tour-dates-1236381638/",
+          "category": "musique",
+          "published_at": "2026-11-13T14:05:37+00:00",
+          "summary": "Animated characters Rumi, Mira and Zoey will come to life in the show that will also feature live-action stunts and performers and fan-favorite songs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37eca6d98ced",
+          "title": "MC Lyte ‘Tickled Pink’ by Rock & Roll Hall of Fame Induction",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/mc-lyte-rock-roll-hall-fame-induction-interview-1236381596/",
+          "category": "ia",
+          "published_at": "2026-11-13T14:00:00+00:00",
+          "summary": "She joins Queen Latifah, Celia Cruz, Fela Kuti &#38; Gram Parsons as early influence honorees.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8a4707ec892b",
+          "title": "Cartes Pokémon : pour 4 dollars sur AliExpress, des kits permettent de fabriquer de faux boîtiers PSA, avec de vrais numéros",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2373829-cartes-pokemon-pour-4-dollars-sur-aliexpress-des-kits-permettent-de-fabriquer-de-faux-boitiers-psa-avec-de-vrais-numeros.html",
+          "category": "ia",
+          "published_at": "2026-11-13T13:52:46+00:00",
+          "summary": "Des vendeurs AliExpress proposent des étiquettes PSA personnalisées et des boîtiers vides, qui reprennent de vrais numéros de certification. De quoi inquiéter les collectionneurs, alors que le marché des cartes à collectionner explose en France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8220c5fb6cf2",
+          "title": "BYD contre Land Rover : la justice ordonne la destruction de documents saisis chez le géant chinois",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2373903-byd-contre-land-rover-la-justice-ordonne-la-destruction-de-documents-saisis-chez-le-geant-chinois.html",
+          "category": "justice",
+          "published_at": "2026-11-13T13:37:46+00:00",
+          "summary": "Le tribunal de La Haye a ordonné à Jaguar Land Rover de faire détruire sous 24 heures les documents saisis chez BYD, sous peine de 50 000 euros d'astreinte par heure de retard. Le constructeur britannique les avait fait saisir en août pour prouver que le SUV Ti 7 copie son…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "869eac727050",
+          "title": "Amazon Music expands talent investment to ‘Breakthrough Songwriters’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/amazon-music-expands-talent-investment-to-breakthrough-songwriters/",
+          "category": "musique",
+          "published_at": "2026-11-13T13:30:00+00:00",
+          "summary": "Amazon Music has been supporting artists with its ‘Breakthrough’ program for some time now, with Skye Newman the latest musician to be taken under the wing of that initiative this week.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c34e02f816b4",
+          "title": "Startups Watch: Vocana launch, Lume expansion, Toutix funding",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/startups-watch-vocana-launch-lume-expansion-toutix-funding/",
+          "category": "musique",
+          "published_at": "2026-11-13T13:30:00+00:00",
+          "summary": "Vocana is one of the current clutch of startups launching streaming services focusing on independent artists and labels. Its public beta went live in August 2025, but now it has launched officially – including an $8.99-a-month subscription tier.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb129421418f",
+          "title": "BeatBread’s new advisory board included execs from Meta and Suno",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/beatbreads-new-advisory-board-included-execs-from-meta-and-suno/",
+          "category": "musique",
+          "published_at": "2026-11-13T13:30:00+00:00",
+          "summary": "Recently-appointed BeatBread CEO Andreea Gleeson has wasted no time in bringing in some additional expertise as the music-funding firm plans its next moves.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7cb0dbf1320f",
+          "title": "ICE Services launches ‘Screen’ tool to fix music-usage reports",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/ice-services-launches-screen-tool-to-fix-music-usage-reports/",
+          "category": "musique",
+          "published_at": "2026-11-13T13:30:00+00:00",
+          "summary": "“Accurate, well-structured usage reports are the starting point for paying songwriters and publishers correctly,” is a pertinent line from ICE Services. You don’t need us, or ICE, to tell you that in many cases, said accuracy and structure is still a pipedream.\nThe post is from…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d81873f27c1b",
+          "title": "TikTok trumpets livestreaming success for UK-based musicians",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/tiktok-trumpets-livestreaming-success-for-uk-based-musicians/",
+          "category": "musique",
+          "published_at": "2026-11-13T13:30:00+00:00",
+          "summary": "UK musicians are averaging 4.9m daily views of their TikTok livestreams, up 74% year-on-year, according to the company. It says that more than 46,000 UK music creators streamed live in its app between January and mid-October this year.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fde9ad73c7da",
+          "title": "Global fan event to mark what would have been Tina Turner’s 87th birthday",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/global-fan-event-to-mark-what-would-have-been-tina-turners-87th-birthday/",
+          "category": "musique",
+          "published_at": "2026-11-13T13:30:00+00:00",
+          "summary": "Tina Turner would have turned 87 on 26 November, and while her death in 2023 means she’s not around to celebrate, fans are being invited to mark the occasion with an online event as well as an in-person concert in Cologne.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e01f63810b38",
+          "title": "Les Anneaux de pouvoir invente une origine aux montures ailées des Nazgûl que Tolkien n’avait jamais vraiment tranchée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2373691-les-anneaux-de-pouvoir-la-serie-reecrit-lorigine-des-montures-ailees-des-nazgul.html",
+          "category": "ia",
+          "published_at": "2026-11-13T12:31:00+00:00",
+          "summary": "Dans le quatrième épisode de la saison 3 des Anneaux de pouvoir, Sauron révèle l'origine des montures ailées des Nazgûl. Une explication jamais confirmée par J.R.R. Tolkien, mais qui peut se justifier dans la dynamique interne du Seigneur des anneaux.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "830ec6f5359e",
+          "title": "Suno boss talks streaming fraud: ‘AI music is not a crime’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/suno-boss-talks-streaming-fraud-ai-music-is-not-a-crime/",
+          "category": "musique",
+          "published_at": "2026-11-13T12:30:00+00:00",
+          "summary": "Suno CEO Mikey Shulman has criticised what he describes as a “sleight of hand” of “equating streaming fraud with AI music”, while stressing that his company is doing more work behind the scenes to tackle fraud than people realise.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8aba93b0c4c3",
+          "title": "Présidentielle 2027 : LFI détaille son programme pour « démocratiser la révolution numérique »",
+          "source": "Next INpact",
+          "url": "https://next.ink/267269/presidentielle-2027-lfi-detaille-son-programme-pour-democratiser-la-revolution-numerique/",
+          "category": "ia",
+          "published_at": "2026-11-13T11:37:00+00:00",
+          "summary": "Un chapitre du programme de La France Insoumise pour l&#8217;élection présidentielle de 2027 est consacré aux enjeux numériques, avec trois volets de propositions censées faire du numérique un bien commun, garantir la souveraineté française en matière de technologies, et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5c2e152b20ad",
+          "title": "Vous avez un smartphone Samsung ? Attention avant de migrer votre passe Navigo chez Google",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2373763-vous-avez-un-smartphone-samsung-attention-avant-de-migrer-votre-passe-navigo-chez-google.html",
+          "category": "ia",
+          "published_at": "2026-11-13T11:27:08+00:00",
+          "summary": "Depuis le 13 novembre 2026, le passe Navigo sur Android bascule sur l'infrastructure de Google, avec plusieurs nouveautés à la clé comme la possibilité d'avoir 20 cartes par téléphone. Mais les propriétaires de smartphones Samsung Galaxy sont les grands perdants de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2bf52c0687cd",
+          "title": "Une étude de 1960 avait calculé la fin du monde pour aujourd’hui, le vendredi 13 novembre 2026",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2373805-une-etude-de-1960-avait-calcule-la-fin-du-monde-pour-aujourdhui-le-vendredi-13-novembre-2026.html",
+          "category": "ia",
+          "published_at": "2026-11-13T11:15:00+00:00",
+          "summary": "Publiée dans la revue Science en 1960, une étude fixait la fin de l'humanité à ce vendredi 13 novembre 2026, jour où la population mondiale devait devenir infinie. La date n'avait rien d'un hasard, puisque c'était l'anniversaire de son principal auteur, Heinz von Foerster.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4a9336066f75",
+          "title": "[Tuto] Agents IA : installer le harnais Pi.dev ou sa version dopée aux hormones Oh My Pi",
+          "source": "Next INpact",
+          "url": "https://next.ink/260033/tuto-agents-ia-installer-le-harnais-pi-dev-ou-sa-version-dopee-aux-hormones-oh-my-pi/",
+          "category": "ia",
+          "published_at": "2026-11-13T11:09:08+00:00",
+          "summary": "Installer un agent IA sur son ordinateur est simple comme une ligne de commande, aussi bien sous Windows, macOS que Linux. Next vous explique le fonctionnement avec Pi.dev, un agent qui se veut minimaliste. On vous parle aussi de Oh My Pi avec plus de fonctions de base. L’IA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8ad800580e5a",
+          "title": "Le Salvador déploie des chiens-robots armés en Haïti pour chasser les gangs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2373907-salvador-haiti-chiens-robots-armes.html",
+          "category": "ia",
+          "published_at": "2026-11-13T10:55:53+00:00",
+          "summary": "Des images virales montrent une scène tout droit sortie d'un film de science-fiction : dans le cadre de son intervention sécuritaire en Haïti, l'armée salvadorienne déploie désormais des chiens robots armés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eaf59d55a908",
+          "title": "Bonobo Behind The Campaign – Recap",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/bonobo-behind-the-campaign-recap/",
+          "category": "musique",
+          "published_at": "2026-11-13T10:50:11+00:00",
+          "summary": "Electronic artist and producer Bonobo released Distance In Static on 11 September 2026, his eighth studio album and his first since 2022’s Fragments. The team at Ninja Tune chatted to Music Ally to unpack how distinct pockets of fans were identified across different parts of his…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7dfe6639255f",
+          "title": "Rosalía celebrates a year of Lux with a 1,000-song playlist",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/rosalia-celebrates-a-year-of-lux-with-a-1000-song-playlist/",
+          "category": "musique",
+          "published_at": "2026-11-13T10:46:15+00:00",
+          "summary": "Rosalía has marked a year since LUX came out by sharing a Spotify playlist called “1.000 TEMAS QUE TE DAN LUX” (1,000 songs that give you LUX). It’s made up of the music she listened to while she was writing, recording and touring the album.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ffc1e6b31a0",
+          "title": "X bucks anti-clipping trend with new feature",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/x-bucks-anti-clipping-trend-with-new-feature/",
+          "category": "musique",
+          "published_at": "2026-11-13T10:42:32+00:00",
+          "summary": "When Ranked Music explained clipping at Music Ally Marketing Week last year, it was still a new tactic for most music marketers. A year on, it’s a normal part of the toolkit. It comes up across this year’s Campaigns of the Year submissions, from superstar album launches to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "486f3362f1a5",
+          "title": "Instagram brings Edits to desktop and lets anyone build stories effects",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/13/instagram-brings-edits-to-desktop-and-lets-anyone-build-stories-effects/",
+          "category": "musique",
+          "published_at": "2026-11-13T10:35:16+00:00",
+          "summary": "Edits, Meta’s answer to CapCut, has only worked on phones since it launched last year. Last week it arrived on Mac. CapCut has had a desktop app since 2021, so Instagram is catching up here, but it’s a sign Meta wants more of the longer, more involved editing work to happen in…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a836513d8efa",
+          "title": "Panne de Claude : l’IA ne répond plus chez une partie des utilisateurs, voici ce que l’on sait",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2373927-panne-de-claude-lia-ne-repond-plus-chez-une-partie-des-utilisateurs-voici-ce-que-lon-sait.html",
+          "category": "ia",
+          "published_at": "2026-11-13T10:28:46+00:00",
+          "summary": "Claude rencontre des difficultés ce vendredi 13 novembre : Anthropic confirme un problème de connexion à Claude.ai et Claude Code, sans annoncer de délai de rétablissement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9251f2fe5a8",
+          "title": "Retour au fax, pas de cinéma, paiements en ligne bloqués : la panne de Microsoft engendre une pagaille en France et dans le monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2373867-retour-au-fax-pas-de-cinema-paiements-en-ligne-bloques-la-panne-de-microsoft-engendre-une-pagaille-en-france-et-dans-le-monde.html",
+          "category": "ia",
+          "published_at": "2026-11-13T10:24:26+00:00",
+          "summary": "Ce vendredi 13 novembre 2026 restera marqué par la panne mondiale qui frappe les services Microsoft 365. En France comme ailleurs, entreprises, laboratoires, écoles et particuliers tentent de s’adapter, privés d’outils devenus presque indispensables.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "abcc71bbfb9b",
+          "title": "La future Citroën 2CV électrique sera bien développée avec l’aide du chinois Leapmotor",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2373585-la-future-citroen-2cv-electrique-sera-bien-developpee-avec-laide-du-chinois-leapmotor.html",
+          "category": "ia",
+          "published_at": "2026-11-13T10:16:48+00:00",
+          "summary": "Antonio Filosa, CEO de Stellantis, a confirmé que le chinois Leapmotor participera au développement des petites électriques « e-car » que le groupe fabriquera à Pomigliano d'Arco, en Italie, à partir de 2028. La future Citroën 2CV, promise autour de 15 000 euros, en fait partie.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "75f831d104c8",
+          "title": "☕️ Vivaldi a sa version pour les entreprises, mais avec des limites",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/vivaldi-a-sa-version-pour-les-entreprises-mais-avec-des-limites/",
+          "category": "ia",
+          "published_at": "2026-11-13T09:03:22+00:00",
+          "summary": "Vivaldi fournit désormais une version spécifique de son navigateur à destination du monde professionnel. Le navigateur est en réalité le même que celui destiné au grand public, mais avec la possibilité de l’administrer via des politiques de configuration. Pour Windows, Vivaldi…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd15579d71fd",
+          "title": "☕️ Le client Steam pour Linux est désormais 64 bits",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-client-steam-pour-linux-est-desormais-64-bits/",
+          "category": "ia",
+          "published_at": "2026-11-13T08:26:00+00:00",
+          "summary": "Le 11 novembre, Valve a publié pour la première fois une version 64 bits stable de son client pour Linux. Elle a été diffusée automatiquement à l’ensemble des installations. Si votre client Steam est déjà ouvert depuis plusieurs jours, il suffit donc d’aller dans le menu Steam…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "198ae4cf8da1",
+          "title": "Informatique quantique : IBM fait feu de tout qubit",
+          "source": "Next INpact",
+          "url": "https://next.ink/267139/informatique-quantique-ibm-fait-feu-de-tout-qubits/",
+          "category": "ia",
+          "published_at": "2026-11-13T08:01:00+00:00",
+          "summary": "Mercredi 11 novembre, IBM a publié plusieurs papiers sur l’avancement de ses travaux autour des ordinateurs quantiques. Il s’agit bien de ses machines, au pluriel, car le fabricant court plusieurs lièvres à la fois avec Nighthawk et Starling. Dans le monde des machines…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "318ed7126a33",
+          "title": "Gemini 4 Hydrogen : Google donne de l’air à son IA du quotidien",
+          "source": "Next INpact",
+          "url": "https://next.ink/267314/gemini-4-hydrogen-google-donne-de-lair-a-son-ia-du-quotidien/",
+          "category": "ia",
+          "published_at": "2026-11-13T07:32:00+00:00",
+          "summary": "Les utilisateurs des services de Google vont prendre une bonne bouffée d&#8217;hydrogène. Le géant du web a en effet déployé son nouveau modèle IA, Gemini 4 Hydrogen, qui remplace Gemini 3.8 Flash. Contrairement à Argon puis Carbon, les modèles de pointe surtout dédiés aux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7ded76a99111",
+          "title": "AdSense : Google pourrait finalement se voir infliger une amende",
+          "source": "Next INpact",
+          "url": "https://next.ink/267228/adsense-google-pourrait-finalement-se-voir-infliger-une-amende/",
+          "category": "justice",
+          "published_at": "2026-11-13T07:03:00+00:00",
+          "summary": "Il y a deux ans, le Tribunal de la Cour de justice de l’Union européenne annulait une amende décidée par la Commission contre Google Adsense de 1,49 milliard d’euros pour pratiques abusives. Après pourvoi, l&#8217;avocate générale de la CJUE suggère à la Cour d&#8217;annuler la…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "articles": [
+        {
+          "id": "cd32b32bdd0d",
+          "title": "How Alan Walker has remained India’s most-loved EDM act for over a decade",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/12/how-alan-walker-has-remained-indias-most-loved-edm-act-for-over-a-decade/",
+          "category": "ia",
+          "published_at": "2026-11-12T20:30:29+00:00",
+          "summary": "It’s hard to say which international EDM star has performed in India the most often, but in the post-pandemic years, the undisputed leader is Norwegian DJ-producer Alan Walker. The ‘Faded’ [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "321c63af03ec",
+          "title": "AI-powered label PaRa Music says it’s identified the next big Indian regional music sub-genre",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/12/ai-powered-label-para-music-says-its-identified-the-next-big-indian-regional-music-sub-genre/",
+          "category": "musique",
+          "published_at": "2026-11-12T20:00:11+00:00",
+          "summary": "In June, we wrote about the launch of “AI-powered” Indian label PaRa Music, which uses its in-house AI platform PaRaMeter to analyse “audience behaviour and demand patterns” to “guide investment [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b095d26639a0",
+          "title": "NVIDIA’s venture arm asks court to block UMG and Sony’s demand for testimony in Suno lawsuit, calling itself a ‘passive minority investor’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/nvidias-venture-arm-asks-court-to-block-umg-and-sonys-demand-for-testimony-in-suno-lawsuit-calling-itself-a-passive-minority-investor/",
+          "category": "musique",
+          "published_at": "2026-11-12T19:49:08+00:00",
+          "summary": "NVentures says it has already handed the labels 6,324 documents running to 28,194 pages.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14edb5295a57",
+          "title": "Rising UK R&B artist Season 25 lands ‘seven-figure’ deal for viral single ‘Shotta’s.’ with London’s Isekai Records and Create label broke Records",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/rising-uk-rb-artist-season-25-lands-seven-figure-deal-for-viral-single-shottas-with-londons-isekai-records-and-create-label-broke-records/",
+          "category": "ia",
+          "published_at": "2026-11-12T19:28:50+00:00",
+          "summary": "Shotta's. was released independently via TuneCore on September 25, according to the labels\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "21d96c40dd0d",
+          "title": "Live Nation-backed Creator Nation hires former Shamrock exec Alicia Zhu as Chief Operating Officer to oversee M&A",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-backed-creator-nation-hires-former-shamrock-capital-exec-alicia-zhu-as-coo-to-oversee-ma/",
+          "category": "musique",
+          "published_at": "2026-11-12T17:35:21+00:00",
+          "summary": "Creator Nation was launched in October 2026 ans is led by co-founders Scott Fisher and Alexis Fisher, and backed by Live Nation.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "75b0e752b818",
           "title": "KATSEYE’s Megan Is Back Performing on Her Feet a Day After Doing Show Sitting Due to Concussion",
