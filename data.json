@@ -1,9 +1,324 @@
 {
-  "generated_at": "2026-11-13T16:23:47.840961+00:00",
+  "generated_at": "2026-11-14T15:04:35.600041+00:00",
   "days": [
+    {
+      "date": "2026-11-14",
+      "articles": [
+        {
+          "id": "fcb93d4598a4",
+          "title": "Très mauvaise nouvelle pour GTA 6, retour de Johnny Depp au cinéma, le recap Pop Culture de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2374239-tres-mauvaise-nouvelle-pour-gta-6-retour-de-johnny-depp-au-cinema-le-recap-pop-culture-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-11-14T15:00:00+00:00",
+          "summary": "Cette semaine fut forte en actualité pop culture, entre la mauvaise nouvelle technique pour GTA 6 et ses 30 FPS, le retour de Johnny Depp au cinéma dans le film Scrooge et la révélation du magicien ténébreux dans Les Anneaux de Pouvoir. Retour sur l'actu forte de cette semaine…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d868da184fe9",
+          "title": "Pour le Black Friday, Darty fait chuter le Galaxy S25 Edge de 700 €, avec un casque à réduction de bruit en prime",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2374209-pour-le-black-friday-darty-fait-chuter-le-galaxy-s25-edge-de-700-e-avec-un-casque-a-reduction-de-bruit-en-prime.html",
+          "category": "ia",
+          "published_at": "2026-11-14T14:30:00+00:00",
+          "summary": "[Deal du jour] Le Black Friday chez Darty permet de mettre la main sur le Galaxy S25 Edge de Samsung, le plus fin des Galaxy S25 à 599 € au lieu de 1 299 €. Il vient en prime avec un casque Bluetooth à réduction de bruit active.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "459d79401fcf",
+          "title": "J’ai appris à aimer Phantom Blade Zero",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2370715-test-de-phantom-blade-zero-sur-ps5-pro.html",
+          "category": "ia",
+          "published_at": "2026-11-14T14:00:00+00:00",
+          "summary": "J'ai une relation que l'on pourra qualifier de toxique avec Phantom Blade Zero. Je l'ai tant aimé. Je l'ai tant détesté aussi. J'aurais aimé en faire mon jeu de l'année 2026, mais certains de ses défauts m'en empêchent. Il n'en demeure pas moins un excellent jeu d'action, comme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "be593d5143cb",
+          "title": "J’ai laissé Gemini me coacher pour mon premier marathon : il m’a menti avec aplomb",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2372409-jai-laisse-gemini-me-coacher-pour-mon-premier-marathon-il-ma-menti-avec-aplomb.html",
+          "category": "ia",
+          "published_at": "2026-11-14T13:03:00+00:00",
+          "summary": "Cinq mois de préparation, des dizaines de fichiers CSV commentés, un plan pyramidal impeccable sur le papier… et une explosion au 22e kilomètre que Gemini n'avait pas vue venir. Claude lui, avait tout anticipé. Retour d'expérience sur mon premier marathon, et sur ce qu'on doit…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "313cf863467b",
+          "title": "Flock : bons baisers de Chine",
+          "source": "Next INpact",
+          "url": "https://next.ink/267610/flock-bons-baisers-de-chine/",
+          "category": "ia",
+          "published_at": "2026-11-14T12:37:00+00:00",
+          "summary": "Amour, trahison, espionnage… dans quel drôle de film Jensen a-t-il décroché le premier rôle ? Va-t-on entendre le vacarme du silencieux ? Quelle pilule va-t-il être obligé de gober après ça ? Nul ne le sait pour le moment, mais continuez à suivre le feuilleton, même si on…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cac95fbec4fd",
+          "title": "Black Friday 2026 : voici la technique la plus rapide pour vérifier si un message provient vraiment d’Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2374317-black-friday-2026-voici-la-technique-la-plus-rapide-pour-verifier-si-un-message-provient-vraiment-damazon.html",
+          "category": "ia",
+          "published_at": "2026-11-14T12:05:00+00:00",
+          "summary": "Avant le Black Friday, les faux messages qui se font passer pour Amazon se multiplient. La plateforme propose une adresse mail pour vérifier en quelques instants si un mail, un SMS ou un appel vient bien d’elle.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5a3c01a46700",
+          "title": "Númenor dans Les Anneaux de pouvoir : ce qu’il est advenu de l’île de Tolkien dans Le Seigneur des anneaux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1107026-numenor-dans-les-anneaux-de-pouvoir-ce-quil-est-advenu-de-lile-de-tolkien-dans-le-seigneur-des-anneaux.html",
+          "category": "ia",
+          "published_at": "2026-11-14T11:38:54+00:00",
+          "summary": "Númenor est apparue dès l'épisode 3 de la saison 1 des Anneaux de pouvoir, en 2022. Dans la saison 3, lancée ce mercredi 11 novembre 2026 sur Prime Video, l'île est au bord de la guerre civile. Ce royaume, à peine cité dans Le Seigneur des anneaux, est pourtant capital.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7785cfc872c7",
+          "title": "Panne géante : Microsoft balaie la théorie d’un agent IA qui aurait dérapé",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2374527-panne-geante-microsoft-balaie-la-theorie-dun-agent-ia-qui-aurait-derape.html",
+          "category": "ia",
+          "published_at": "2026-11-14T11:15:33+00:00",
+          "summary": "Dans un message publié sur X, Microsoft présente ses excuses pour la panne mondiale de Microsoft 365. Selon l'entreprise, il s'agit d'un «&nbsp;problème technique&nbsp;» sans lien avec une cyberattaque ni avec l'IA ou ses agents.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f6e9a0ea2054",
+          "title": "Aucune sonde n’a jamais été aussi loin dans le cosmos : Voyager 1 arrive à un jour lumière de la Terre, et la NASA lance un jeu",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2374607-aucune-sonde-na-jamais-ete-aussi-loin-dans-le-cosmos-voyager-1-arrive-a-un-jour-lumiere-de-la-terre-et-la-nasa-lance-un-jeu.html",
+          "category": "ia",
+          "published_at": "2026-11-14T10:11:21+00:00",
+          "summary": "La sonde Voyager 1 sera à un jour-lumière de la Terre le mercredi 18 novembre 2026, soit 25,9 milliards de kilomètres. La veille au soir, la NASA propose à tout le monde de lui faire signe en morse avec son smartphone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "43e09296465e",
+          "title": "Xiaomi Electric Scooter 4 Ultra : la trottinette aux 70 km d’autonomie perd un tiers de son prix",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2374207-xiaomi-electric-scooter-4-ultra-la-trottinette-aux-70-km-dautonomie-perd-un-tiers-de-son-prix.html",
+          "category": "ia",
+          "published_at": "2026-11-14T09:30:00+00:00",
+          "summary": "[Deal du jour] La trottinette la plus haut placée de la gamme 4 de Xiaomi baisse son prix pendant le Black Friday. Sur la boutique de Xiaomi, l'Electric Scooter 4 Ultra perd 200 € de son prix.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c860dfbccaf4",
+          "title": "On en sait plus sur le raté de la capture du booster de la fusée géante Starship par la tour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2374555-on-en-sait-plus-sur-le-rate-de-la-capture-du-booster-de-la-fusee-geante-starship-par-la-tour.html",
+          "category": "ia",
+          "published_at": "2026-11-14T09:21:07+00:00",
+          "summary": "Le propulseur Super Heavy de Starship a annulé tout seul sa capture par la tour de Starbase ce vendredi 13 novembre, après avoir détecté une anomalie dans son système de guidage, et a terminé sa course en explosant dans le golfe du Mexique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6ceb2db67a2",
+          "title": "Sony Music renews multi-year licensing deal with China’s NetEase Cloud Music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/sony-music-renews-multi-year-licensing-deal-with-chinas-netease-cloud-music/",
+          "category": "musique",
+          "published_at": "2026-11-14T09:12:04+00:00",
+          "summary": "The multi-year deal, announced on Friday (November 13), means NetEase Cloud Music has now re-signed with all three major music companies in 2026\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "84df624fa35a",
+          "title": "Az Cohen’s AZTEC, a joint venture label with Believe, has signed its first artist",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/az-cohens-aztec-a-joint-venture-label-with-believe-has-signed-its-first-artist/",
+          "category": "musique",
+          "published_at": "2026-11-14T09:08:21+00:00",
+          "summary": "Believe unveiled AZTEC in May, describing it as its first JV in the United States.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac6af1d06484",
+          "title": "Symphonic inks deal to bring ‘hundreds of thousands’ of songs to Roblox – with artists paid royalties for all plays",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/symphonic-inks-deal-to-bring-hundreds-of-thousands-of-songs-to-roblox-with-artists-paid-royalties-for-all-plays/",
+          "category": "musique",
+          "published_at": "2026-11-14T09:02:03+00:00",
+          "summary": "According to Symphonic, artists will receive royalties for all plays of their music on Roblox\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e3f3469723d",
+          "title": "Une alerte rarissime cloue tous les avions au sol aux États-Unis",
+          "source": "Next INpact",
+          "url": "https://next.ink/267641/une-alerte-rarissime-cloue-tous-les-avions-au-sol-aux-etats-unis/",
+          "category": "ia",
+          "published_at": "2026-11-14T07:17:14+00:00",
+          "summary": "Un problème de communication touchant le contrôle aérien a entraîné la suspension des décollages dans tous les aéroports américains ce vendredi pendant plus de quatre heures. Une mesure exceptionnelle qui aurait été décidée par la FAA en raison d&#8217;une surcharge constatée au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59a105307fd6",
+          "title": "Choisir une offre d’électricité ou de gaz : tout ce qu’il faut savoir avant de signer [Sponso]",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2344351-choisir-une-offre-delectricite-ou-de-gaz-tout-ce-quil-faut-savoir-avant-de-signer.html",
+          "category": "ia",
+          "published_at": "2026-11-14T06:47:00+00:00",
+          "summary": "Cet article a été réalisé en collaboration avec EDF\n\nPrix du kWh, puissance en kVA, heures creuses, offre de marché, tarif réglementé, PDL, PCE… Choisir une offre d’électricité ou de gaz suppose aujourd’hui de jongler avec un vocabulaire qui n’est pas toujours évident à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f062b6069c04",
+          "title": "In Canada: Canada Music Fund to Receive $67M Boost; Women in Music Executive Award Winners Share Their Wisdom",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/canada-music-fund-67m-boost-canada-news/",
+          "category": "musique",
+          "published_at": "2026-11-14T00:10:09+00:00",
+          "summary": "Also this week: Sean Paul appears on the first episode of Billboard Canada News.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "articles": [
+        {
+          "id": "b89098448a63",
+          "title": "John Summit, David Guetta, Alison Wonderland & More to Play College Football Playoff National Championship Weekend",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/las-vegas-college-football-champship-music-festival-summit-1236382125/",
+          "category": "musique",
+          "published_at": "2026-11-13T23:16:54+00:00",
+          "summary": "The free AT&#38;T Playoff Playlist Live festival happens Jan. 23-24 in Las Vegas.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c48e02804dde",
+          "title": "Young Thug Responds to Quavo’s Attempt to Have Him Reconcile With Gunna: ‘How Uma Fix Some Sh– I Didn’t Break Qua?’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/young-thug-quavo-gunna-offset-reconciliation-ysl-trial-1236382064/",
+          "category": "ia",
+          "published_at": "2026-11-13T23:13:43+00:00",
+          "summary": "Offset detailed why he stood by Gunna following the YSL RICO trial during a Popcast appearance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6275843d8105",
+          "title": "Starship : SpaceX réussit le décollage de sa fusée géante, mais bute encore sur le retour du booster, qui est tombé à l’eau",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2374491-starship-spacex-reussit-le-decollage-de-sa-fusee-geante-mais-bute-encore-sur-le-retour-du-booster-qui-est-tombe-a-leau.html",
+          "category": "ia",
+          "published_at": "2026-11-13T23:06:33+00:00",
+          "summary": "Le Starship de SpaceX a décollé du Texas ce vendredi 13 novembre 2026 pour son 15e vol d'essai, mais son propulseur Super Heavy a fini dans le golfe du Mexique au lieu d'être rattrapé par la tour. C'était la première fois que SpaceX prévoyait de rattraper un premier étage de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d83a0a4fedef",
+          "title": "Justin Bieber Pops Out at Rising British Star’s $30 Concert in L.A. in Surprise Cameo: ‘Who’s Gonna Pinch Me Then?’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/justin-bieber-surprise-cameo-finn-askew-la-show-1236382042/",
+          "category": "musique",
+          "published_at": "2026-11-13T22:58:37+00:00",
+          "summary": "The pop star jumped in on Finn Askew's song \"Music All Over Her Body.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fbcfd64bdf3",
+          "title": "Il Volo Reflect on 18 Years Together, Their Christmas Traditions and What’s Next",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/il-volo-our-christmas-billboard-italy-1236382101/",
+          "category": "musique",
+          "published_at": "2026-11-13T22:42:25+00:00",
+          "summary": "The Italian trio has just released a new album, Our Christmas, and will be touring major arenas in the U.S. and Italy from November-December.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb7a34667102",
+          "title": "Viva La Lisa! 5 Best Moments From LISA’s Opening Night in Las Vegas",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/lisa-las-vegas-opening-night-review-best-moments/",
+          "category": "musique",
+          "published_at": "2026-11-13T22:32:15+00:00",
+          "summary": "The BLACKPINK superstar made history at The Colosseum at Caesars Palace with seven live debuts &#38; an unreleased song.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "535d071b4a1a",
+          "title": "Reservoir expands copyright lawsuits against Suno and Anthropic to more than 2,500 songs combined",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/reservoir-expands-copyright-lawsuits-against-suno-and-anthropic-to-more-than-2500-songs-combined/",
+          "category": "ia",
+          "published_at": "2026-11-13T20:10:22+00:00",
+          "summary": "Reservoir first sued the two AI companies in October\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0ee5a37612a6",
+          "title": "Nouveau vol orbital en Europe, ce que dit la justice si vous refusez un compteur Linky, 15e vol du Starship – le récap’ sciences de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2374195-nouveau-vol-orbital-en-europe-ce-que-dit-la-justice-si-vous-refusez-un-compteur-linky-15e-vol-du-starship-le-recap-sciences-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-11-13T20:10:00+00:00",
+          "summary": "Peut-on refuser d'installer chez soi un compteur comme Linky ? La justice européenne a tranché. C'est l'une des actualités de la semaine dans la rubrique Sciences de Numerama, aux côtés de décollages imminents de fusées Starship et Spectrum. Découvrez le récap' !",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9385d6eb4900",
+          "title": "THE•TEAM forms 11-member board after Providence completes buyout of founder Casey Wasserman",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/theteam-forms-11-member-board-after-providence-completes-buyout-of-founder-casey-wasserman/",
+          "category": "ia",
+          "published_at": "2026-11-13T20:09:52+00:00",
+          "summary": "Seven of the board's members come from THE•TEAM's leadership group, including CEO Michael Watts and Chief Financial Officer Elena Rochelli.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7593ef9b295f",
+          "title": "Live Nation-operated Cleveland amphitheater breaks ground, ahead of 2028 opening",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-nation-operated-cleveland-amphitheater-breaks-ground-ahead-of-2028-opening/",
+          "category": "musique",
+          "published_at": "2026-11-13T20:09:41+00:00",
+          "summary": "The amphitheater is being developed by real estate firm Bedrock and Rock Entertainment Group, which oversees the Cleveland Cavaliers.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f2a87561842",
+          "title": "UMG and Warner Chappell agree to settle lawsuit alleging Quavo’s 2018 track ‘Bubble Gum’ copied a demo handed to him at a Migos after-party",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-and-warner-chappell-agree-to-settle-lawsuit-alleging-quavos-2018-track-bubble-gum-copied-a-demo-handed-to-him-at-a-migos-after-party/",
+          "category": "ia",
+          "published_at": "2026-11-13T20:09:25+00:00",
+          "summary": "Lawyers for L.Mont and the companies said they \"have reached a settlement in principle in this matter,\" meaning they have yet to finalize the deal.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2afc0955e9fa",
+          "title": "Starship : suivez en direct la tentative inédite de la double capture de la fusée géante en plein vol",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2373405-starship-spacex-vise-un-vol-de-22-heures-et-un-double-rattrapage-par-la-tour.html",
+          "category": "ia",
+          "published_at": "2026-11-13T19:13:33+00:00",
+          "summary": "SpaceX a prévu le 15e vol d'essai de Starship ce vendredi 13 novembre, à 23&nbsp;h&nbsp;45 heure de Paris. Au programme : plus de 22 heures en orbite et une première tentative de rattrapage des deux étages par la tour de lancement. L'évènement pourra être suivi en direct et en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b157879f624",
+          "title": "Découvrez Nāpōwawāʻenakaulua, un couple de quasars datant des débuts de l’Univers",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2373725-decouvrez-napowawa%ca%bbenakaulua-un-couple-de-quasars-datant-des-debuts-de-lunivers.html",
+          "category": "ia",
+          "published_at": "2026-11-13T17:10:00+00:00",
+          "summary": "Née à peine 900 millions d'années après le Big Bang, la paire de quasars Nāpōwawāʻenakaulua est la plus ancienne paire compacte connue. Elle a été repérée grâce au télescope spatial James Webb et au télescope Gemini North, et les astrophysiciens ne comprennent pas comment elle a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d507cbe79607",
+          "title": "Xbox, 25 ans et une crise d’identité",
+          "source": "Next INpact",
+          "url": "https://next.ink/267583/xbox-25-ans-et-une-crise-didentite/",
+          "category": "ia",
+          "published_at": "2026-11-13T16:35:54+00:00",
+          "summary": "25 ans plus tard, Xbox est devenu un empire du divertissement, mais les consoles sont à la peine. Entre des rachats à coups de milliards, des paris contrariés et la promesse ou le mirage de l’IA, la marque fête cet anniversaire en pleine crise d’identité. Ce 25e anniversaire de…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "ad8cceb6df61",
           "title": "Bono Says Dolly Parton ‘Sang Herself to Some Other Place’ on the New U2 Song ‘Torn’: ‘It Feels Like a Prayer … For America’",
