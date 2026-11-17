@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-11-16T18:32:32.451149+00:00",
+  "generated_at": "2026-11-17T17:37:43.477822+00:00",
   "days": [
+    {
+      "date": "2026-11-17",
+      "articles": [
+        {
+          "id": "3c27a78d0694",
+          "title": "Cynthia Erivo Shoots for James Bond Theme During Lincoln Center Benefit Concert: ‘It’s My Dream’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/cynthia-erivo-lincoln-center-benefit-concert-1236384125/",
+          "category": "musique",
+          "published_at": "2026-11-17T17:36:04+00:00",
+          "summary": "The Wicked star soared during a phenomenal gala performance that found her interpreting Phil Collins, Gladys Knight and more.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e0956d5b2c8",
+          "title": "Doja Cat Is Big Mad at YouTube For Allegedly Banning Her Best Friend: ‘I Got a Real Problem With Ya’ll’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/doja-cat-mad-youtube-ban-best-friend-tonio-1236384040/",
+          "category": "ia",
+          "published_at": "2026-11-17T17:24:59+00:00",
+          "summary": "The \"Paint the Town Red\" singer appears to be very worked up about whatever is going on with her pal King Tonio.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "732c3cc5697c",
+          "title": "« Je serais honoré de revenir » : Jensen Huang sort du silence après le scandale chez Nvidia",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2377211-je-serais-honore-de-revenir-jensen-huang-sort-du-silence-apres-le-scandale-chez-nvidia.html",
+          "category": "ia",
+          "published_at": "2026-11-17T17:02:15+00:00",
+          "summary": "5 jours après avoir quitté Nvidia, Jensen Huang sort du silence dans une lettre publiée sur X. L'ancien patron de Nvidia s'excuse de nouveau et se dit prêt à reprendre les rênes si le conseil d'administration le lui demande. Une hypothèse pour l'instant écartée, mais qui a tout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d972f11f4703",
+          "title": "SXSW Reveals First 100 Artists for 2027 Music Festival",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/sxsw-2027-music-festival-first-100-showcasing-artists/",
+          "category": "musique",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "summary": "Acts from 21 countries make the opening wave, with Billboard, NPR Music, KCRW and BBC Introducing among the first showcase presenters.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a7993e3874d",
+          "title": "Ella Langley, Wham!, Mariah Carey & More: Highlights of This Week’s Billboard Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/ella-langley-wham-mariah-carey-chart-highlights-nov-21-2026/",
+          "category": "musique",
+          "published_at": "2026-11-17T16:59:03+00:00",
+          "summary": "All of Billboard’s charts update each Tuesday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9fbf2e99b787",
+          "title": "The Batman 3 menacé ? Robert Pattinson ne serait plus engagé pour la suite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2377129-the-batman-3-menace-robert-pattinson-ne-serait-plus-engage-pour-la-suite.html",
+          "category": "ia",
+          "published_at": "2026-11-17T16:56:37+00:00",
+          "summary": "Coup de tonnerre à Gotham City. Les retards à répétition de&nbsp;The Batman : Part II auraient libéré Robert Pattinson de son contrat, qui l'engageait pour un troisième film, selon le média américain The Wrap. Et James Bond ne va pas aider.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fae0f073bb9b",
+          "title": "Dernière ligne droite pour le PJL Résilience, qui passe le vote solennel à l’Assemblée",
+          "source": "Next INpact",
+          "url": "https://next.ink/268104/derniere-ligne-droite-pour-le-pjl-resilience-qui-passe-le-vote-solennel-a-lassemblee/",
+          "category": "loi",
+          "published_at": "2026-11-17T16:33:54+00:00",
+          "summary": "Après bien des pérégrinations, le projet de loi Résilience a finalement été voté solennellement par l’Assemblée nationale. Le parcours législatif du texte n’est pas encore terminé, mais il est désormais dans sa dernière ligne droite. Le projet de loi relatif à la résilience des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "83cd34343082",
+          "title": "Sécurité : Google et Anthropic vont dévoiler les détails des failles après 30 jours",
+          "source": "Next INpact",
+          "url": "https://next.ink/268034/securite-google-et-anthropic-vont-devoiler-les-details-des-failles-apres-30-jours/",
+          "category": "ia",
+          "published_at": "2026-11-17T16:23:00+00:00",
+          "summary": "À quelques jours d’intervalle, Google Project Zero et Anthropic ont annoncé un raccourcissement net de leurs délais de divulgation coordonnée. Le changement est radical et est dicté, sans surprise, par l’utilisation désormais générale de l’IA. Au risque de faire flancher des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7767698ff5ed",
+          "title": "Mike D and Ad-Rock Talk Beastie Boys’ Early Days, ‘License to Ill’ 40th Anniversary on ‘Daily Show’: ‘Why Not Create What Inspires You?’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/mike-d-ad-rock-beastie-boys-license-to-ill-anniversary-daily-show-1236383918/",
+          "category": "ia",
+          "published_at": "2026-11-17T16:17:29+00:00",
+          "summary": "Let us not forget, that Ad-Rock was originally in a band called the Young and the Useless.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ce892eeef3dc",
+          "title": "Une panne frappe NSA Net, le réseau ultra-secret du renseignement américain : voici ce que l’on sait",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2377121-nsa-net-le-reseau-interne-ultra-secret-du-renseignement-americain-est-hors-service-voici-ce-que-lon-sait.html",
+          "category": "ia",
+          "published_at": "2026-11-17T16:16:41+00:00",
+          "summary": "Selon CNN, NSA Net, le réseau ultra-classifié qu’utilisent les agents de la National Security Agency pour communiquer entre eux, est en panne. Aucun indice ne pointe vers une attaque informatique à ce stade, mais l’agence a dû échelonner l’arrivée de son personnel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e0be418bddcb",
+          "title": "Ce soir, la NASA vous demande de flasher votre lampe vers le ciel, et la raison est vertigineuse",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2374607-ce-soir-la-nasa-vous-demande-de-flasher-votre-lampe-vers-le-ciel-et-la-raison-est-vertigineuse.html",
+          "category": "ia",
+          "published_at": "2026-11-17T16:11:14+00:00",
+          "summary": "La sonde Voyager 1 sera à un jour-lumière de la Terre le mercredi 18 novembre 2026, soit 25,9 milliards de kilomètres. La veille au soir, la NASA propose à tout le monde de lui faire signe en morse avec son smartphone.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "684bdf1fb7b0",
+          "title": "AI Is Changing Music. Its Future Must Be Built Around Artists (Guest Column)",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/soundcloud-ceo-open-letter-ai-is-changing/",
+          "category": "ia",
+          "published_at": "2026-11-17T16:00:00+00:00",
+          "summary": "SoundCloud CEO Eliah Seton pens an open letter detailing the company's new AI policies.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74bcb0c2e272",
+          "title": "SoundCloud CEO Talks AI Policies: ‘Wishing Away the Advent of AI Music Is Not a Strategy’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/soundcloud-ceo-ai-policies-qa/",
+          "category": "musique",
+          "published_at": "2026-11-17T16:00:00+00:00",
+          "summary": "Eliah Seton tells Billboard about its new partnerships with ElevenLabs and Moises, and why conversations around AI music need to become more \"nuanced.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf0e3b49e5b1",
+          "title": "☕️ Disney annonce de solides résultats et davantage de licenciements",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/disney-annonce-de-solides-resultats-et-davantage-de-licenciements/",
+          "category": "institutionnel",
+          "published_at": "2026-11-17T15:52:00+00:00",
+          "summary": "Le groupe Disney a l&#8217;intention de réaliser 3 milliards de dollars d&#8217;économies chaque année d&#8217;ici 2029. Le géant du divertissement, qui a présenté les résultats de son 4ᵉ trimestre fiscal (PDF), a l&#8217;intention de procéder à « davantage de licenciements », a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "686935d869c3",
+          "title": "Black Friday : moins de 700 € pour un vélo électrique pensé pour la ville",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2376725-black-friday-moins-de-700-e-pour-un-velo-electrique-pense-pour-la-ville.html",
+          "category": "ia",
+          "published_at": "2026-11-17T15:49:01+00:00",
+          "summary": "[Deal du jour] Le Black Friday, c'est aussi un événement qui permet de trouver des vélos électriques pour moins cher que d'habitude. Exemple avec ce modèle d'Intersport conçu pour la ville, qui baisse son prixde 500 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4bae3d4fed15",
+          "title": "Ce dessin vieux de 70 ans prouve que Robert Pattinson était fait pour le rôle de James Bond",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2376881-ce-dessin-vieux-de-70-ans-prouve-que-robert-pattinson-etait-fait-pour-le-role-de-james-bond.html",
+          "category": "ia",
+          "published_at": "2026-11-17T15:45:00+00:00",
+          "summary": "Alors que certains détracteurs jugent Robert Pattinson trop éloigné de l’image traditionnelle de James Bond, un document d'époque plaide pourtant en sa faveur. Un croquis commandé par le créateur du personnage dans les années 1950 révèle une ressemblance troublante avec le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a1f122f25e2",
+          "title": "Black Friday en direct : les promos s’accumulent déjà chez Amazon, Boulanger, Fnac ce mardi (EN DIRECT)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2374925-black-friday-en-direct-amazon-fnac-boulanger-accelerent-voici-les-meilleures-promos-de-ce-mardi.html",
+          "category": "musique",
+          "published_at": "2026-11-17T15:35:20+00:00",
+          "summary": "J-10 avant le Black Friday 2026. Avant même le coup d’envoi de la Black Friday Week d’Amazon, jeudi 19 novembre, les marchands multiplient les baisses de prix. Ce live recense les meilleures promos du jour, triées et vérifiées par la rédaction.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "691b9e0473fe",
+          "title": "[MàJ] NVIDIA prépare l’après-Jensen Huang et renforce ses contrôles",
+          "source": "Next INpact",
+          "url": "https://next.ink/268087/nvidia-prepare-lapres-jensen-huang-et-renforce-ses-controles/",
+          "category": "ia",
+          "published_at": "2026-11-17T15:30:00+00:00",
+          "summary": "Alors que se profilent les résultats de son troisième trimestre, le conseil d&#8217;administration de NVIDIA n&#8217;aurait aucunement l&#8217;intention de faire revenir Jensen Huang au poste de directeur général. Il a également constitué un comité permanent de sécurité…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a1c1ded2628",
+          "title": "Felipe Holguin named CEO of Universal Music Latin America & Iberian Peninsula",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/felipe-holguin-named-ceo-of-universal-music-latin-america-iberian-peninsula/",
+          "category": "musique",
+          "published_at": "2026-11-17T15:14:57+00:00",
+          "summary": "Media &#038; music executive and entrepreneur to lead UMG’s Latin operations\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a05bbd315815",
+          "title": "☕️ Vente de produits illégaux : Bruxelles menace Temu de nouvelles sanctions",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/vente-de-produits-illegaux-bruxelles-menace-temu-de-nouvelles-sanctions/",
+          "category": "ia",
+          "published_at": "2026-11-17T15:07:00+00:00",
+          "summary": "La Commission européenne a averti mardi 17 novembre que le géant chinois du e-commerce Temu s&#8217;exposait à de nouvelles sanctions en vertu du règlement sur les services numériques (DSA). Dans un communiqué, elle déclare en effet avoir conclu à titre préliminaire que Temu…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e3debb01b89e",
+          "title": "Tapez « Robert Pattinson » dans Google",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2376779-tapez-robert-pattinson-dans-google.html",
+          "category": "ia",
+          "published_at": "2026-11-17T15:00:57+00:00",
+          "summary": "Depuis que Robert Pattinson a été officialisé dans le rôle de James Bond, ce lundi 16 novembre 2026, taper son nom dans Google lance une petite animation : la page de résultats tremble, puis des zestes de citron tombent sur l'écran.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9cd1a2235716",
+          "title": "Panne Microsoft : on sait enfin pourquoi Teams s’en est sorti alors qu’Outlook sombrait",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2376825-panne-microsoft-on-sait-enfin-pourquoi-teams-sen-est-sorti-alors-quoutlook-sombrait.html",
+          "category": "ia",
+          "published_at": "2026-11-17T14:44:19+00:00",
+          "summary": "Microsoft a publié le 15 novembre 2026 le rapport préliminaire de la panne mondiale qui a privé ses clients d’Outlook pendant près de 24 heures. Le document explique pourquoi Teams a résisté alors qu’Exchange Online est tombé.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ba2594ef8e76",
+          "title": "Spotify expands access to Artist Profile Protection, letting all artists remove their name from AI fakes and other misattributed releases",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/spotify-expands-access-to-artist-profile-protection-letting-all-artists-remove-their-name-from-ai-fakes-and-other-misattributed-releases/",
+          "category": "musique",
+          "published_at": "2026-11-17T14:33:43+00:00",
+          "summary": "The company launched Artist Profile Protection in beta in March.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1dac4c92acab",
+          "title": "Voyager 1 atteint un jour-lumière de la Terre : à 26 milliards de km de la Terre, cela aurait pris 28 250 ans en voiture",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2376733-voyager-1-atteint-un-jour-lumiere-de-la-terre-a-26-milliards-de-km-de-la-terre-cela-aurait-pris-28-250-ans-en-voiture.html",
+          "category": "ia",
+          "published_at": "2026-11-17T14:32:57+00:00",
+          "summary": "Ce mercredi 18 novembre 2026, la sonde Voyager 1 de la NASA sera à un jour-lumière de la Terre, soit environ 25,9 milliards de kilomètres. Lancée en 1977, elle a mis 49 ans à parcourir la distance que la lumière couvre en 24 heures.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a7b19553ede8",
+          "title": "James Bond : il y a 16 ans, Robert Pattinson pensait qu’il ferait un « très mauvais » James Bond",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2376765-james-bond-il-y-a-16-ans-robert-pattinson-pensait-quil-ferait-un-tres-mauvais-james-bond.html",
+          "category": "ia",
+          "published_at": "2026-11-17T14:21:17+00:00",
+          "summary": "Alors que Robert Pattinson a été officialisé ce lundi 16 novembre comme le nouveau James Bond, sous la direction de Denis Villeneuve, une interview de 2010 republiée par la BBC fait sourire les fans. En 2010, en pleine folie&nbsp;Twilight, l'acteur britannique doutait d'être à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df32fe365d13",
+          "title": "Reworld est devenu le « plus gros groupe média en France » en… spammant Google",
+          "source": "Next INpact",
+          "url": "https://next.ink/266431/reworld-est-devenu-le-plus-gros-groupe-media-en-france-en-spammant-google/",
+          "category": "ia",
+          "published_at": "2026-11-17T14:15:07+00:00",
+          "summary": "Alors que les sites d&#8217;infos ont vu leur trafic chuter de 25 % en moyenne en un an, ceux de Reworld sont toujours consultés par plus de la moitié des internautes français, au point d&#8217;être devenu « le plus gros groupe média en audience en France ». Plusieurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4192c60bc99",
+          "title": "Spotify shares ‘A Day In The Life’ of Diljit Dosanjh — and his top tracks around the world",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/spotify-shares-a-day-in-the-life-of-diljit-dosanjh-and-his-top-tracks-around-the-world/",
+          "category": "musique",
+          "published_at": "2026-11-17T14:00:28+00:00",
+          "summary": "Diljit Dosanjh scored a hat trick of achievements last week. It started with the announcement that he would be returning to Coachella in 2027 after his history-making sets there in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d7bf12dc81fb",
+          "title": "☕️ SFR lance une nouvelle Box 10 compatible Wi-Fi 7",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sfr-lance-une-nouvelle-box-10-compatible-wi-fi-7/",
+          "category": "ia",
+          "published_at": "2026-11-17T13:48:45+00:00",
+          "summary": "SFR a lancé mardi 17 novembre une déclinaison plus accessible de sa Box 10+, introduite en septembre 2025 et réservée à ses forfaits résidentiels les plus haut de gamme. La nouvelle venue est appelée Box 10 (elle perd donc son +). Identique en apparence à la Box 10+, la Box 10…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62f7b418fc41",
+          "title": "A.I.Radio includes ‘a DJ you can talk to and request songs from’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/a-i-radio-includes-a-dj-you-can-talk-to-and-request-songs-from/",
+          "category": "musique",
+          "published_at": "2026-11-17T13:32:47+00:00",
+          "summary": "Sorry, Buggles, but video never did kill off the radio star, and we’d advise against any suggestions that AI will do a better job of the disc-jockey murdering. But there are some interesting experiments going on around AI and radio.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "883ae338144f",
+          "title": "Artist-funding update: Duetti raises $665m, Landr adds advances",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/artist-funding-update-duetti-raises-665m-landr-adds-advances/",
+          "category": "ia",
+          "published_at": "2026-11-17T13:30:00+00:00",
+          "summary": "Duetti has announced a huge funding round of its own to bolster its business in buying and managing the catalogues of independent artists. It has raised $665m including a $450m asset-backed securitisation (ABS) from investment giant Carlyle.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d6a151f71fb4",
+          "title": "Report: music industry contributes £8.4bn to the UK’s economy",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/report-music-industry-contributes-8-4bn-to-the-uks-economy/",
+          "category": "musique",
+          "published_at": "2026-11-17T13:30:00+00:00",
+          "summary": "It’s not just the Australian music industry reminding policymakers of how much it’s worth to the economy. UK Music has published its annual ‘This Is Music’ economic report today, setting out the vital statistics for the UK.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca18f965b073",
+          "title": "Independent artists are now 43% of India’s digital-music listening",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/independent-artists-are-now-43-of-indias-digital-music-listening/",
+          "category": "musique",
+          "published_at": "2026-11-17T13:30:00+00:00",
+          "summary": "Research firm EY India has published its latest report on the Indian music industry, backed by collecting society IPRS. The headline figures: nearly 6tn (trillion) streams in 2025, and “an estimated INR17,401 crore of gross economic value across digital platforms, broadcasting,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2700d30f7ab7",
+          "title": "Australia’s ‘Not AI’s to Take’ campaign defends human creativity",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/australias-not-ais-to-take-campaign-defends-human-creativity/",
+          "category": "ia",
+          "published_at": "2026-11-17T13:30:00+00:00",
+          "summary": "The Australian music industry has been fighting hard to persuade the country’s government not to throw copyright protection under the bus in order to attract big AI companies’ investment. The latest initiative is a campaign called ‘Not AI’s to Take’ which launched today.\nThe…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "53582e94a050",
+          "title": "La CNIL a prononcé 38 nouvelles sanctions en procédure simplifiée depuis juin 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/38-sanctions-simplifiees",
+          "category": "cnil",
+          "published_at": "2026-11-17T12:00:00+00:00",
+          "summary": "Cookies, sécurité des données, prospection commerciale, non-coopération&amp;nbsp;: entre juin et octobre 2026, la CNIL a prononcé 38&amp;nbsp;nouvelles sanctions dans le cadre de la procédure simplifiée, dont 23 ont pour origine des plaintes.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ecbd446a289",
+          "title": "80% of people want AI music labeled, says Deezer/Ipsos survey – as 37% of Americans now see AI as a ‘valuable tool’ for musicians, down from 54% in 2025",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/80-of-people-want-ai-music-labeled-says-deezer-ipsos-survey-as-37-of-americans-now-see-ai-as-a-valuable-tool-for-musicians-down-from-54-in-2025/",
+          "category": "musique",
+          "published_at": "2026-11-17T11:47:22+00:00",
+          "summary": "Deezer says US respondents were \"significantly more negative\" in 2026 than in 2025 on all questions about general attitudes to AI in music.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63b75957c7e6",
+          "title": "Elvis Presley rightsholders amend Suno lawsuit, adding more than 100 allegedly infringing AI tracks",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elvis-presley-rightsholders-amend-suno-lawsuit-adding-more-than-100-allegedly-infringing-ai-tracks/",
+          "category": "ia",
+          "published_at": "2026-11-17T11:35:42+00:00",
+          "summary": "The amended filing now leads with copyright infringement and alleges that Suno has created infringing output for all 859 songs in the suit.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4e6959d0515",
+          "title": "ElevenLabs agrees to acquire Japan-focused voice AI company Kotoba in reported $100M deal",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elevenlabs-agrees-to-acquire-japan-focused-voice-ai-company-kotoba-in-reported-100m-deal/",
+          "category": "ia",
+          "published_at": "2026-11-17T11:16:28+00:00",
+          "summary": "Kotoba’s Koto voice model already powers Japanese-language conversations in Salesforce’s Agentforce Voice, and the deal is expected to close later in Q4 2026.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "74cd76c22029",
+          "title": "OVHcloud donne un avant-goût de son premier modèle, Olala",
+          "source": "Next INpact",
+          "url": "https://next.ink/267996/ovhcloud-donne-un-avant-gout-de-son-premier-modele-olala/",
+          "category": "justice",
+          "published_at": "2026-11-17T10:01:00+00:00",
+          "summary": "OVHcloud lève le voile sur sa première famille de LLM, baptisée Olala. Son premier représentant, Olala mini 7A1B, se présente comme un modèle compact à mélange d’experts, capable de fonctionner sur un GPU grand public. Le modèle et ses poids seront publiés sous licence Apache…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50e8794f6dc6",
+          "title": "Deezer report finds shrinking belief that fully-AI music will be popular",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/deezer-report-ai-music-2026/",
+          "category": "musique",
+          "published_at": "2026-11-17T09:45:39+00:00",
+          "summary": "Deezer has published its second annual survey of attitudes towards AI-generated music, enlisting Ipsos to canvass 9,000 people.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "91670bdac9d2",
+          "title": "Piratée, la plateforme de tests Optimizely a servi des scripts malveillants à ses clients",
+          "source": "Next INpact",
+          "url": "https://next.ink/268010/piratee-la-plateforme-de-tests-optimizely-a-servi-des-scripts-malveillants-a-ses-clients/",
+          "category": "ia",
+          "published_at": "2026-11-17T09:33:00+00:00",
+          "summary": "178 organisations, dont Zoom, la BBC, CNN, Fox News, HSBC et Salesforce ont été victimes de codes malveillants diffusés par la plateforme de tests Optimizely Web, dans l’objectif de voler notamment des numéros de cartes bancaires et des cryptomonnaies. Un nouveau cas d’attaque…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4b370255d4d",
+          "title": "Présidentielle 2027, désinformation profonde et réseaux sociaux : le trio de la peur",
+          "source": "Next INpact",
+          "url": "https://next.ink/267864/presidentielle-2027-desinformation-profonde-et-reseaux-sociaux-le-trio-de-la-peur/",
+          "category": "ia",
+          "published_at": "2026-11-17T09:09:12+00:00",
+          "summary": "À cinq mois du premier tour de l&#8217;élection présidentielle, la CNIL organisait une nouvelle conférence Air, pour Avenirs, innovations et révolutions. Le thème du jour était « Convaincre ou manipuler&#160;? L&#8217;éthique du numérique à l&#8217;épreuve des urnes ». Next…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "37fcd4fa2891",
+          "title": "L’IA fait une belle jambe à l’économie mondiale",
+          "source": "Next INpact",
+          "url": "https://next.ink/267866/lia-fait-une-belle-jambe-a-leconomie-mondiale/",
+          "category": "ia",
+          "published_at": "2026-11-17T08:25:00+00:00",
+          "summary": "L’économie mondiale compte sur l’IA pour soutenir la croissance, mais les financements croisés entre entreprises du secteur inquiètent le FMI. NVIDIA, au centre de cet écosystème, pourrait réduire son soutien financier à l&#8217;industrie, au risque de fragiliser un édifice…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b1268698282b",
+          "title": "Apple fera l’objet d’un procès en obsolescence programmée à Paris en 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/267939/apple-fera-lobjet-dun-proces-en-obsolescence-programmee-a-paris-en-2027/",
+          "category": "ia",
+          "published_at": "2026-11-17T08:03:46+00:00",
+          "summary": "L&#8217;association HOP – Halte à l’obsolescence programmée – annonce l&#8217;ouverture à venir d&#8217;un procès ciblant Apple pour obsolescence programmée par entraves à la réparation. Les plaidoiries devraient avoir lieu en juin 2027 à Paris. L&#8217;accusation cible plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04b49d885516",
+          "title": "HYBE strikes strategic partnership with CAA covering content, merch, brands, and live experiences",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/hybe-strikes-strategic-partnership-with-caa-covering-content-merch-brands-and-live-experiences/",
+          "category": "musique",
+          "published_at": "2026-11-17T07:56:44+00:00",
+          "summary": "Firms to pursue \"broader strategic and commercial initiatives\" in HYBE's key markets\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4855c9e04316",
+          "title": "Alibaba Qwen4-Max : 2 400 milliards de paramètres et une table n-gram de 328 milliards",
+          "source": "Next INpact",
+          "url": "https://next.ink/267802/alibaba-qwen4-max-2-400-milliards-de-parametres-et-une-table-n-gram-de-328-milliards/",
+          "category": "ia",
+          "published_at": "2026-11-17T07:43:00+00:00",
+          "summary": "Alibaba présente sa nouvelle famille de grands modèles de langage : Qwen4-Max, avec 2 400 milliards de paramètres. Elle utilise un mélange d&#8217;experts pour ne pas activer tous ses neurones à la fois et une table n-gram pour améliorer ses réponses. Explications.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c3f45572f4aa",
+          "title": "macOS 27.3 : Apple encadre davantage l’accès des applications aux données",
+          "source": "Next INpact",
+          "url": "https://next.ink/267871/macos-27-3-apple-encadre-davantage-lacces-des-applications-aux-donnees/",
+          "category": "ia",
+          "published_at": "2026-11-17T07:22:00+00:00",
+          "summary": "Début octobre, Apple avait annoncé un renforcement des autorisations d&#8217;accès complet au disque dans macOS. L&#8217;idée étant de prévenir les risques qu&#8217;un tel accès peut représenter sur les données de l&#8217;utilisateur. Des changements désormais visibles dans la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e88bd371931",
+          "title": "Avec ChatGPT Wallet, OpenAI donne une carte bancaire à ses agents Dots",
+          "source": "Next INpact",
+          "url": "https://next.ink/267861/avec-chatgpt-wallet-openai-donne-une-carte-bancaire-a-ses-agents-dots/",
+          "category": "ia",
+          "published_at": "2026-11-17T06:41:00+00:00",
+          "summary": "Donner sa carte bancaire à un agent IA, qu&#8217;est-ce qui pourrait mal se passer ? Certains utilisateurs parmi les plus téméraires de ChatGPT peuvent désormais confier leurs informations de paiement à un Wallet. Chaque achat reste soumis à validation humaine. Ça coince entre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bef13b83a181",
+          "title": "☕️ L’iPhone Duo se déverrouille maintenant avec le visage, mais sans Face ID",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/liphone-duo-se-deverrouille-maintenant-avec-le-visage-mais-sans-face-id/",
+          "category": "ia",
+          "published_at": "2026-11-17T06:16:00+00:00",
+          "summary": "C&#8217;est l&#8217;un des principaux défauts relevés par les testeurs (et de nombreux utilisateurs) de l&#8217;iPhone Duo : l&#8217;absence de Face ID. Le smartphone pliant à deux écrans se contente en effet de Touch ID comme technologie de reconnaissance biométrique. Certes,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "797eef9de65b",
+          "title": "TuneArt is an indie AI-music-video maker with a pay-as-you-go model",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/tuneart-ai-music-video-maker/",
+          "category": "musique",
+          "published_at": "2026-11-17T06:00:00+00:00",
+          "summary": "Alongside our coverage of the AI-music space, Music Ally tries to keep up with developments in adjacent GenAI areas.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "articles": [
+        {
+          "id": "bebf0b2b6f53",
+          "title": "Are fan accounts dead in 2026? ‘You can’t trick someone into liking a song’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/16/fan-accounts-music-marketing/",
+          "category": "musique",
+          "published_at": "2026-11-16T20:30:19+00:00",
+          "summary": "“You can trick people into being aware of something, but you really can&#8217;t trick someone into being a fan of something&#8230;”\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "212810700619",
+          "title": "RAYE leads 2027 Grammy nominations with 11 nods; Rosalía shortlisted in 9 categories",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/raye-leads-2027-grammy-nominations-with-11-nods/",
+          "category": "institutionnel",
+          "published_at": "2026-11-16T19:24:21+00:00",
+          "summary": "The 11 nods take RAYE's career Grammy nomination total to 15, according to the Recording Academy\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "e52ca8b28014",
           "title": "Watch Olivia Dean Have a Full-On, Four-Alarm Freakout Over Her Six Grammy Nominations",
