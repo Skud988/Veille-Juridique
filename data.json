@@ -1,9 +1,484 @@
 {
-  "generated_at": "2026-11-17T17:37:43.477822+00:00",
+  "generated_at": "2026-11-18T17:15:32.506623+00:00",
   "days": [
+    {
+      "date": "2026-11-18",
+      "articles": [
+        {
+          "id": "481fa7991bd8",
+          "title": "GTA 6 : voici les 55 trophées à décrocher pour pour obtenir le platine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2378233-gta-6-voici-les-55-trophees-a-decrocher-pour-pour-obtenir-le-platine.html",
+          "category": "ia",
+          "published_at": "2026-11-18T17:14:44+00:00",
+          "summary": "GTA 6 compte 55 trophées sur PS5 et 55 succès sur Xbox Series, dont un platine baptisé « C'est le prix de Vice City ! ». Voici la liste complète avec leurs intitulés officiels en français, et ce qu'il faut faire pour décrocher le platine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3346c4373af8",
+          "title": "The Sammy Kershaw Kerfuffle: How Red Carpets Work, And How They Could Change",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/country-updatehow-red-carpets-work-and-could-change-1236383110/",
+          "category": "musique",
+          "published_at": "2026-11-18T17:02:59+00:00",
+          "summary": "In this week's Billboard Country Update lead story, we talk to experts about what it's like on the red carpet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b62d9ed2ee09",
+          "title": "Luminate Adds Songwriter and Publishing Information to Service",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/luminate-adds-songwriter-publishing-information/",
+          "category": "ia",
+          "published_at": "2026-11-18T17:00:00+00:00",
+          "summary": "Available for an additional fee, Luminate now allows users to dig into songwriter and publisher information, thanks to new partnerships with CISAC and the MLC.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a92e3fe2872c",
+          "title": "☕️ Chargemap signale un vol de données suite à une attaque informatique",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/chargemap-signale-un-vol-de-donnees-suite-a-une-attaque-informatique/",
+          "category": "ia",
+          "published_at": "2026-11-18T16:54:01+00:00",
+          "summary": "Chargemap, éditeur d&#8217;un service de planification d&#8217;itinéraires pour véhicules électriques et d&#8217;un pass dédié au paiement des recharges, a signalé mercredi 18 novembre avoir été victime d&#8217;une cyberattaque ayant entraîné l&#8217;accès à des données…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9cd309099200",
+          "title": "À cause d’un bug, les pilotes AMD et NVIDIA écrivent constamment sur le disque",
+          "source": "Next INpact",
+          "url": "https://next.ink/268322/a-cause-dun-bug-les-pilotes-amd-et-nvidia-ecrivent-constamment-sur-le-disque/",
+          "category": "ia",
+          "published_at": "2026-11-18T16:47:00+00:00",
+          "summary": "Des utilisateurs ont noté des comportements étranges provenant des pilotes graphiques d’AMD et NVIDIA&#160;: des écritures constantes sur le disque, parfois dans de vastes proportions. Pour les SSD, cela peut signifier une usure précoce. Ces dernières semaines, deux défauts…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58a4afd1eac0",
+          "title": "Ignacio Meyer Named President of Universal Music Latin America & Iberian Peninsula",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/ignacio-meyer-president-universal-music-latin-america/",
+          "category": "musique",
+          "published_at": "2026-11-18T16:32:08+00:00",
+          "summary": "He will report to Felipe Holguín, who was named CEO of the division this week.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "303d94e3d6b0",
+          "title": "☕️ Les entreprises US utilisant l’IA chinoise pourraient être obligées de le déclarer",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/les-entreprises-us-utilisant-lia-chinoise-pourraient-etre-obligees-de-le-declarer/",
+          "category": "ia",
+          "published_at": "2026-11-18T16:30:24+00:00",
+          "summary": "La Maison-Blanche envisage d&#8217;imposer aux entreprises américaines d&#8217;indiquer publiquement leur utilisation de modèles d&#8217;IA chinois. Reuters rapporte que le projet est en discussion entre le bureau de la politique scientifique et technologique de la présidence et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac5afb2a0c30",
+          "title": "Rihanna and Dua Lipa Scoop Up Armload of New Diamond & Platinum Certifications for ‘Where Have You Been,’ ‘Levitating’ & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/rihanna-dua-lipa-new-diamond-platinum-certifications-levitating-1236384754/",
+          "category": "ia",
+          "published_at": "2026-11-18T16:27:59+00:00",
+          "summary": "Dua's signature 2020 Future Nostalgia single just became her first-ever Diamond certified song.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6adac9ce0c50",
+          "title": "Karol G Brings Out Paulina Rubio as Special Guest, Apologizes for Postponing Mexico City Show: ‘My Body Said That Day I Can’t Go On’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/karol-g-paulina-rubio-postponed-mexico-show-recap-1236384796/",
+          "category": "ia",
+          "published_at": "2026-11-18T16:00:37+00:00",
+          "summary": "The Colombian superstar wrapped up the Mexican leg of her Viajando Por El Mundo Tropitour on Tuesday at the GNP Seguros Stadium.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac04d60baaf5",
+          "title": "The New Mariah Carey Barbie Signature Doll Looks Identical to the ‘All I Want for Christmas Is You’ Singer: Shop Here",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/mariah-carey-2026-christmas-barbie-doll-shop-online-1236384511/",
+          "category": "ia",
+          "published_at": "2026-11-18T16:00:00+00:00",
+          "summary": "The new Barbie Signature doll will go on sale Nov. 18, following the success of the 2023 Mariah Carey Christmas Barbie, which sold out in less than a day.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "94f9865258fd",
+          "title": "Live experiences platform Speakeasy, backed by Yamaha’s music fund, raises $18.8M Series A",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/live-experiences-platform-speakeasy-backed-by-yamahas-music-fund-raises-18-8m-series-a/",
+          "category": "musique",
+          "published_at": "2026-11-18T15:53:59+00:00",
+          "summary": "The round brings the company's total funding to approximately USD $27M.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eeae4e6bb5f0",
+          "title": "GTA VI : du 720p sur Xbox Series S au rendu proche de la 4K sur PS5 Pro",
+          "source": "Next INpact",
+          "url": "https://next.ink/268259/gta-vi-du-720p-sur-xbox-series-s-au-rendu-proche-de-la-4k-sur-ps5-pro/",
+          "category": "ia",
+          "published_at": "2026-11-18T15:49:00+00:00",
+          "summary": "Ça n&#8217;aura probablement échappé à personne, un des jeux vidéo les plus attendus de cette génération de consoles sera jouable très bientôt. Il s&#8217;agit évidemment de GTA VI, et certains détails techniques sont finalement connus. Le grand jour est (presque) arrivé. GTA VI…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f1d2f29a8fc",
+          "title": "☕️ Flock : Disney peut bien aller se faire Mickey",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/flock-disney-peut-bien-aller-se-faire-mickey/",
+          "category": "ia",
+          "published_at": "2026-11-18T15:41:43+00:00",
+          "summary": "La fin qui justifie les moyens, surtout chez les insatiables dalleux, est un spectacle assez peu féérique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "614dc9d3e3af",
+          "title": "La faille Java4Shell permet d’exécuter du code à distance, notamment dans Jira et Jenkins",
+          "source": "Next INpact",
+          "url": "https://next.ink/268262/la-faille-java4shell-permet-dexecuter-du-code-a-distance-notamment-dans-jira-et-jenkins/",
+          "category": "ia",
+          "published_at": "2026-11-18T15:23:00+00:00",
+          "summary": "Sur des processeurs Intel et AMD récents, une erreur dans le décodeur Base64 de Java permet de corrompre à distance la mémoire d&#8217;un serveur, sans identifiant. Divulguée le 17 novembre par la société Calif, la faille est désormais connue sous le nom de « Java4Shell ».…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "80c8c44b1562",
+          "title": "Amazon Family arrive en France : partager Prime avec un adulte de son foyer, sans supplément ni partage de mot de passe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2377467-amazon-family-arrive-en-france-partager-prime-avec-un-adulte-de-son-foyer-sans-supplement-ni-partage-de-mot-de-passe.html",
+          "category": "ia",
+          "published_at": "2026-11-18T15:10:06+00:00",
+          "summary": "Depuis ce mardi 17 novembre 2026, un abonné Amazon Prime en France peut partager gratuitement une partie de ses avantages avec un autre adulte de son foyer en utilisant Amazon Family. Le service existait déjà aux États-Unis, au Royaume-Uni, en Italie, au Canada et en Irlande.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68183c4cd5e6",
+          "title": "☕️ Après Le Monde et les médias LVMH, le Figaro signe avec OpenAI",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apres-le-monde-et-les-medias-lvmh-le-figaro-signe-avec-openai/",
+          "category": "ia",
+          "published_at": "2026-11-18T15:05:35+00:00",
+          "summary": "Le Figaro est devenu le troisième groupe média à formaliser un partenariat commercial avec OpenAI. Comme dans les accords déjà signés par OpenAI avec Le Monde en 2024, puis avec les médias du groupe LVMH mi-novembre, le contrat prévoit que l&#8217;éditeur des modèles ChatGPT…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "55c0281a9210",
+          "title": "Universal Music Canada strikes A&R and label distribution partnership with First Class Music Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-canada-strikes-ar-and-distribution-partnership-with-first-class-music-group/",
+          "category": "musique",
+          "published_at": "2026-11-18T15:00:40+00:00",
+          "summary": "The two companies will jointly sign and develop Canadian artists, with the shared goal of “breaking artists on a global scale.”\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0b4fb663057c",
+          "title": "$11M-backed AI startup Sonilo, founded by TikTok veterans, inks licensing deal with Symphonic to train its model on opted-in indie recordings",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/11m-backed-ai-startup-sonilo-founded-by-tiktok-veterans-inks-licensing-deal-with-symphonic-to-train-its-model-on-opted-in-indie-recordings/",
+          "category": "musique",
+          "published_at": "2026-11-18T15:00:25+00:00",
+          "summary": "The agreement allows Sonilo to train its AI music model on recordings from Symphonic’s independent artists and labels – but only those that choose to opt in.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dfb151b29a8f",
+          "title": "GTA 6 n’est pas parfait : ce que lui reprochent les tests les plus sévères",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2378089-gta-6-nest-pas-parfait-ce-que-lui-reprochent-les-tests-les-plus-severes.html",
+          "category": "ia",
+          "published_at": "2026-11-18T14:55:01+00:00",
+          "summary": "Alors que les premières critiques de GTA 6 viennent de tomber sous une pluie de notes parfaites, quelques médias font exception, dont PlayStation LifeStyle (9/10) et le site australien ScreenHub (4 étoiles sur 5, soit 80/100 sur Metacritic). Voici les défauts relevés par ces…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "974d2ca9d814",
+          "title": "Ignacio Meyer appointed President of Universal Music Latin America & Iberian Peninsula",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ignacio-meyer-appointed-president-of-universal-music-latin-america-iberian-peninsula/",
+          "category": "musique",
+          "published_at": "2026-11-18T14:51:23+00:00",
+          "summary": "Meyer will report to Felipe Holguin, who was named CEO of the division on Tuesday (November 17).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c2723846676",
+          "title": "Si vous voulez un robot cuiseur avant les repas de fêtes, Lidl fait baisser son Monsieur Cuisine Smart",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2377677-si-vous-voulez-un-robot-cuiseur-avant-les-repas-de-fetes-lidl-fait-baisser-son-monsieur-cuisine-smart.html",
+          "category": "ia",
+          "published_at": "2026-11-18T14:38:00+00:00",
+          "summary": "[Deal du jour] Lidl profite de sa Black Week du Black Friday pour faire baisser le prix de son robot cuiseur connecté. Le Monsieur Cuisine Smart Black Edition passe à 399 € au lieu de 549 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f50ef407fa28",
+          "title": "☕️ Proton décline son IA Lumo sous forme d’applications et la dote de connecteurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/proton-decline-son-ia-lumo-sous-forme-dapplications-et-la-dote-de-connecteurs/",
+          "category": "justice",
+          "published_at": "2026-11-18T14:33:08+00:00",
+          "summary": "Après avoir musclé les possibilités de ses outils d&#8217;IA générative commercialisés sous la marque Lumo, l&#8217;éditeur suisse Proton leur adjoint une application dédiée, Lumo Desktop, publiée mardi 17 novembre sur Windows, macOS et Linux. Le client, écrit en Rust, est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "824cd34c57c2",
+          "title": "Le vrai frein à l’achat d’une voiture électrique n’est pas celui que l’on croit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2377933-le-vrai-frein-a-lachat-dune-voiture-electrique-nest-pas-celui-que-lon-croit.html",
+          "category": "ia",
+          "published_at": "2026-11-18T14:25:07+00:00",
+          "summary": "Dans l'enquête annuelle du Global EV Alliance, 74 % des conducteurs de voitures électriques interrogés dans 34 pays citent les idées reçues comme premier frein à l'adoption, devant même le prix d'achat et la recharge.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "008bf93c417a",
+          "title": "TikTok says 94% of songs that entered the Billboard Global 200 in 2025 went viral on its platform first",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktok-says-94-of-songs-that-entered-the-billboard-global-200-in-2025-went-viral-on-its-platform-first/",
+          "category": "musique",
+          "published_at": "2026-11-18T14:00:07+00:00",
+          "summary": "That figure is up from 84% in 2024, according to the platform's 2026 Music Impact Report, which was prepared by Luminate and published on Wednesday (November 18).\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b61eb4235412",
+          "title": "La CNIL cache le nom d’une entreprise qui stockait des « mots de passe clients en clair », Grok se charge de la balancer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2377761-la-cnil-cache-le-nom-dune-entreprise-qui-stockait-des-mots-de-passe-clients-en-clair-grok-se-charge-de-la-balancer.html",
+          "category": "ia",
+          "published_at": "2026-11-18T13:43:37+00:00",
+          "summary": "La CNIL a infligé une amende de 5 millions d’euros à une société qui conservait en clair les mots de passe de ses clients, en prenant soin de ne pas la nommer. Sous son annonce sur X, il a pourtant suffi d’une question à Grok pour voir apparaître un nom, déjà cité par la presse…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "826fd225a95d",
+          "title": "Suno adds ‘Visuals’ tool for making lyric videos and album art",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/18/suno-adds-visuals-tool-for-making-lyric-videos-and-album-art/",
+          "category": "musique",
+          "published_at": "2026-11-18T13:30:00+00:00",
+          "summary": "In a way, it&#8217;s surprising that it took this long for Suno to expand into AI-generated video. Its new &#8216;Visuals&#8217; tool can be used to create lyric videos, album art and other clips to accompany songs made on its platform.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "39d3b5b79bb5",
+          "title": "Hybe expands in Japan by acquiring music, games and TV firm KeyHolder",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/18/hybe-expands-in-japan-by-acquiring-music-games-and-tv-firm-keyholder/",
+          "category": "musique",
+          "published_at": "2026-11-18T13:30:00+00:00",
+          "summary": "Every week is bringing new links forged between the South Korean and Japanese music industries. This week&#8217;s example is an acquisition, with K-Pop giant Hybe announcing its plans to acquire Japanese firm KeyHolder.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0636fbf65a4",
+          "title": "Groovedesk launches its ‘intelligent workspace for record labels’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/18/groovedesk-launches-its-intelligent-workspace-for-record-labels/",
+          "category": "musique",
+          "published_at": "2026-11-18T13:30:00+00:00",
+          "summary": "Groovedesk is the latest startup hoping to make life easier – and workflows more efficient – for labels and music companies. It has launched an app that &#8220;organises and automates music releases&#8221;, with more than 40 companies already onboarded.\nThe post is from Music…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d68d7710364",
+          "title": "YouTube now counts ‘co-views’ because more people watch on TVs",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/18/youtube-now-counts-co-views-because-more-people-watch-on-tvs/",
+          "category": "musique",
+          "published_at": "2026-11-18T13:30:00+00:00",
+          "summary": "The way YouTube counts views of videos is changing again, just a few months after the last tweak to its methodology. That expanded the Shorts system of a view being counted &#8220;the moment a video begins to play&#8221; to all the other formats on YouTube. The new change is…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1bebfe4b67bd",
+          "title": "WoW Forever : Blizzard suspend des comptes après l’exploitation d’un bug à 100 pièces d’or par heure",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2377535-wow-forever-blizzard-suspend-des-comptes-apres-lexploitation-dun-bug-a-100-pieces-dor-par-heure.html",
+          "category": "ia",
+          "published_at": "2026-11-18T13:17:38+00:00",
+          "summary": "Blizzard retire l'or gagné grâce à un bug de butin dans le Repaire des Noiregueules, un donjon de WoW Forever, et suspend depuis ce mardi 17 novembre les comptes des joueurs qui en ont le plus abusé. Quelques centaines de joueurs dans le monde sont visés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb4eaca818b3",
+          "title": "L’IA trouve les failles vraiment trop vite : Anthropic et Google sonnent la fin des 90 jours de grâce avant la divulgation",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2377793-lia-trouve-les-failles-vraiment-trop-vite-anthropic-et-google-sonnent-la-fin-des-90-jours-de-grace-avant-la-divulgation.html",
+          "category": "ia",
+          "published_at": "2026-11-18T13:01:00+00:00",
+          "summary": "Anthropic ne laissera plus que 30 jours aux éditeurs pour corriger les failles graves qu'elle leur signale, contre 90 jusqu'ici. Trois jours plus tôt, Google Project Zero avait annoncé une baisse comparable, mais plus progressive.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a371c7f484a",
+          "title": "2 500 € de plus qu’une Citroën Ami : j’ai testé la Linktour Alumi, la sans-permis chinoise bien équipée",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2376761-2-500-e-de-plus-quune-citroen-ami-jai-teste-la-linktour-alumi-la-sans-permis-chinoise-bien-equipee.html",
+          "category": "ia",
+          "published_at": "2026-11-18T13:00:00+00:00",
+          "summary": "J'ai pris en main la Linktour Alumi, une petite voiture électrique chinoise vendue en France depuis juin 2026. Elle est disponible à partir de 10 690 € en version sans permis L6e et 14 690 € en version Elite L7e, qui demande le permis B1.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2d11e1edc56",
+          "title": "James Bond : c’est sûrement la fin de l’humour pour 007",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2377783-james-bond-cest-surement-la-fin-de-lhumour-pour-007.html",
+          "category": "ia",
+          "published_at": "2026-11-18T12:45:00+00:00",
+          "summary": "Alors que l'officialisation de Robert Pattinson dans le smoking de James Bond, ce lundi 16 novembre 2026, continue d'alimenter les débats, le réalisateur Denis Villeneuve est sorti du silence dans les colonnes de GQ. Le cinéaste québécois y détaille les qualités qu'il attendait…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32a64987b9dd",
+          "title": "Intermarché : les 700 000 peluches du loup ne seront pas là pour Noël, mais il y aura une « très grosse surprise »",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2377907-intermarche-les-700-000-peluches-du-loup-ne-seront-pas-la-pour-noel-mais-il-y-aura-une-tres-grosse-surprise.html",
+          "category": "ia",
+          "published_at": "2026-11-18T12:40:43+00:00",
+          "summary": "Intermarché avait promis 700 000 peluches de son loup « mal-aimé » en vente dès la fin novembre 2026, juste à temps pour l'offrir à Noël. Mais la star de cette publicité qui avait ému Internet fin 2025 ne sera finalement pas prête à temps pour remplir les rayons du supermarché.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5be38ed2317",
+          "title": "Codes de triche GTA 6 : la liste complète et comment les débloquer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2377209-codes-triche-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-11-18T12:40:00+00:00",
+          "summary": "Voici les 61 codes de triche de GTA 6 sur PS5 et Xbox Series X|S, classés par catégorie, avec leurs combinaisons, leurs conditions de déblocage et la marche à suivre pour les activer.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c5e911670cf0",
+          "title": "SoundCloud cracks down on AI slop as Spotify expands Artist Profile Protection",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/18/soundcloud-cracks-down-on-ai-slop-as-spotify-expands-artist-profile-protection/",
+          "category": "musique",
+          "published_at": "2026-11-18T12:30:00+00:00",
+          "summary": "Calls from the music industry for streaming services to do more to tackle AI slop, musical spam and streaming fraud are being answered – today by the latest moves from SoundCloud and Spotify.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3a274d2646e",
+          "title": "« L’un des meilleurs jeux jamais créés » : les premiers tests de GTA 6 sont unanimes",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2377809-lun-des-meilleurs-jeux-jamais-crees-les-premiers-tests-de-gta-6-sont-unanimes.html",
+          "category": "ia",
+          "published_at": "2026-11-18T12:03:00+00:00",
+          "summary": "Les premiers tests de GTA 6 sont tombés ce mercredi 18 novembre à midi, au moment où les premiers joueurs peuvent découvrir le titre de Rockstar. La presse crie au « chef-d'œuvre ». Avec une première moyenne de 99 sur Metacritic, le jeu de Rockstar égale le record historique de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c103fda7336",
+          "title": "Carlyle-backed Litmus Music secures $475m in new capital, with KKR joining as an investor",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/carlyle-backed-litmus-music-secures-475m-in-new-capital-with-kkr-joining-as-an-investor/",
+          "category": "musique",
+          "published_at": "2026-11-18T12:00:48+00:00",
+          "summary": "Litmus' portfolio includes more than 100,000 copyrights and recordings, featuring music from Katy Perry, Benny Blanco, Randy Newman, and Keith Urban.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "434cccf5ed70",
+          "title": "La CNIL sanctionne Macif Vie à hauteur de 5 millions d’euros pour des mots de passe en clair",
+          "source": "Next INpact",
+          "url": "https://next.ink/268231/la-cnil-sanctionne-macif-vie-a-hauteur-de-5-millions-deuros-pour-des-mots-de-passe-en-clair/",
+          "category": "cnil",
+          "published_at": "2026-11-18T11:12:00+00:00",
+          "summary": "La CNIL a prononcé le 12 novembre dernier une amende de 5 millions d&#8217;euros à l&#8217;encontre de l&#8217;assureur Macif Vie. Dans sa délibération, l&#8217;autorité évoque une longue liste de manquements au RGPD, entre mots de passe stockés en clair, formulaires de contact…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cc9262defc42",
+          "title": "NVIDIA tente de rassurer sur l’après Jensen, sur fond de résultats records",
+          "source": "Next INpact",
+          "url": "https://next.ink/268155/nvidia-tente-de-rassurer-sur-lapres-jensen-sur-fond-de-resultats-records/",
+          "category": "ia",
+          "published_at": "2026-11-18T09:37:00+00:00",
+          "summary": "NVIDIA a dépassé les prévisions en annonçant mardi 17 novembre un chiffre d&#8217;affaires de 115 milliards de dollars pour le troisième trimestre de son exercice fiscal 2027, en hausse de 103 % sur un an. L&#8217;entreprise, chahutée depuis le départ de son cofondateur et CEO…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "528f713871d4",
+          "title": "Fibre optique : après le déploiement, le déchirement",
+          "source": "Next INpact",
+          "url": "https://next.ink/268128/fibre-optique-apres-le-deploiement-le-dechirement/",
+          "category": "ia",
+          "published_at": "2026-11-18T09:04:22+00:00",
+          "summary": "Que se passe-t-il dans le monde de la fibre optique&#160;? L’Arcep consulte sur les coûts d&#8217;entretien des réseaux d’initiative publique et s’attire les foudres d’une bonne partie des acteurs. Des associations d&#8217;élus montent au créneau et sont prêtes à dégainer un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "adb0e516a190",
+          "title": "☕️ Avec GPT-6.2 Sol et Astra, OpenAI promet de la qualité et des économies",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/avec-gpt-6-2-sol-et-astra-openai-promet-de-la-qualite-et-des-economies/",
+          "category": "ia",
+          "published_at": "2026-11-18T07:08:00+00:00",
+          "summary": "OpenAI a dévoilé sa nouvelle famille de modèles GPT-6.2, avec les variantes Astra (le modèle frontière) et Sol (le modèle des travaux du quotidien). Commençons par celui-ci, puisque c&#8217;est la mouture qui servira à une majorité d&#8217;utilisateurs : l&#8217;entreprise le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f142ba7c02c4",
+          "title": "[MàJ] Microsoft, Apple, NSA : pas besoin de cyberattaque pour tout mettre en panne",
+          "source": "Next INpact",
+          "url": "https://next.ink/268124/microsoft-apple-nsa-pas-besoin-de-cyberattaque-pour-tout-mettre-en-panne/",
+          "category": "ia",
+          "published_at": "2026-11-18T06:30:00+00:00",
+          "summary": "Une épidémie de pannes informatiques, mais pas de cyberattaques. Les infrastructures sont régulièrement mises à rude épreuve, mais les derniers jours ont été particulièrement éprouvants entre la grosse panne chez Microsoft, la suspension des vols dans le ciel américain, et…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-17",
       "articles": [
+        {
+          "id": "6b5652934ef8",
+          "title": "Big Cookie CEO on why ‘loyalty is the new currency’ for artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/17/big-cookie-ceo-on-why-loyalty-is-the-new-currency-for-artists/",
+          "category": "musique",
+          "published_at": "2026-11-17T21:15:16+00:00",
+          "summary": "It’s nice to go viral, but what happens to those curious new listeners once the algorithm moves on? Big Cookie&#8217;s Aaron Bogucki has thoughts.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "aa39ab5693a8",
+          "title": "Suno launches AI music video tool built on model from MiniMax – the Chinese AI firm being sued by Disney and other Hollywood studios",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/suno-launches-ai-music-video-tool-built-on-model-from-minimax-the-chinese-ai-firm-being-sued-by-disney-and-other-hollywood-studios/",
+          "category": "musique",
+          "published_at": "2026-11-17T20:45:43+00:00",
+          "summary": "'Visuals' generates videos and images to accompany songs made on Suno's platform\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cfeadf78ca8e",
+          "title": "Tencent Music says AI content streams are ‘negligible’ – as it takes legal action over AI infringement",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tencent-music-says-ai-content-streams-are-negligible-as-it-takes-legal-action-over-ai-infringement/",
+          "category": "musique",
+          "published_at": "2026-11-17T20:05:40+00:00",
+          "summary": "TME says streams of AI-generated content are declining as a share of listening\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c7c5d6f8183",
+          "title": "Believe Music Publishing forms joint venture with GL Music Entertainment",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-music-publishing-forms-joint-venture-with-gl-music-entertainment/",
+          "category": "musique",
+          "published_at": "2026-11-17T20:05:19+00:00",
+          "summary": "Under the deal, Believe Music Publishing will administer the GL Music Entertainment catalog and help grow its roster in international markets.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "3c27a78d0694",
           "title": "Cynthia Erivo Shoots for James Bond Theme During Lincoln Center Benefit Concert: ‘It’s My Dream’",
