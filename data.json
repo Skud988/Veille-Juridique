@@ -1,9 +1,584 @@
 {
-  "generated_at": "2026-11-18T17:15:32.506623+00:00",
+  "generated_at": "2026-11-19T17:22:37.096497+00:00",
   "days": [
+    {
+      "date": "2026-11-19",
+      "articles": [
+        {
+          "id": "9e0ef7088649",
+          "title": "Son pedigree est déjà bien chargé : c’est quoi ARTEX, l’outil de piratage chinois utilisé contre la Commission européenne ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2379121-son-pedigree-est-deja-bien-charge-cest-quoi-artex-loutil-de-piratage-chinois-utilise-contre-la-commission-europeenne.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-19T17:00:45+00:00",
+          "summary": "Selon Politico, les pirates qui perturbent depuis plus de dix jours les services internes de la Commission européenne se sont servis d’ARTEX, un outil d’intelligence artificielle développé en Chine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "df5ab09c413e",
+          "title": "Busta Rhymes Breaks Down His Billboard Chart History: ‘I Know What You Want,’ ‘Don’t Cha’ & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/busta-rhymes-billboard-chart-history/",
+          "category": "musique",
+          "published_at": "2026-11-19T17:00:00+00:00",
+          "summary": "Busta Rhymes takes us through his Billboard Chart History, from the “Woo Hah!! Got You All in Check” breakthrough to hitmaking moments such as “I Know What You Want” and “Touch It.” Busta breaks down how a Sugarhill Gang lyric sparked the “Woo Hah!!” hook, why he sat on the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "907ea744bee8",
+          "title": "Erykah Badu Engineers 2026 Soul Train Cypher Featuring Rapsody & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/erykah-badu-2026-soul-train-cypher-rapsody-lineup-1236385535/",
+          "category": "ia",
+          "published_at": "2026-11-19T17:00:00+00:00",
+          "summary": "Muni Long, Lucky Daye &#38; Mickey Guyton will also perform; special tributes set for Freddie Jackson &#38; Dolly Parton.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "05003eefcfce",
+          "title": "Warner Music Group Yearly Revenue Rises 9% on Streaming, Digital Growth",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/warner-q4-fiscal-year-earnings-2026/",
+          "category": "musique",
+          "published_at": "2026-11-19T16:53:59+00:00",
+          "summary": "CEO Robert Kyncl says \"durable\" market share gains and releases like the soundtrack to the new Grand Theft Auto game will drive growth in fiscal 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "609df31ba700",
+          "title": "Ella Langley Reacts to Her Record-Breaking CMA Awards Wins: ‘Hard to Put This Night Into Words’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/country/ella-langley-reacts-2026-cma-awards-wins-1236385642/",
+          "category": "ia",
+          "published_at": "2026-11-19T16:43:32+00:00",
+          "summary": "The country star took home six trophies, including entertainer of the year.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4d8fb8535a1",
+          "title": "Black Friday : les meilleures offres ce jeudi 19 novembre (EN DIRECT)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2374925-black-friday-les-meilleures-offres-ce-jeudi-19-novembre-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-11-19T16:32:40+00:00",
+          "summary": "Black Friday 2026 : Amazon, Boulanger et la Fnac ont déjà lancé leurs promos. Nous trions en direct celles qui valent vraiment le coup.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e35461c055e4",
+          "title": "Frapper n’importe quelle cible depuis l’espace : l’Europe a désormais son projet d’arme orbitale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2378535-frapper-nimporte-quelle-cible-depuis-lespace-leurope-a-desormais-son-projet-darme-orbitale.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-19T16:32:20+00:00",
+          "summary": "Le fabricant de missiles MBDA Deutschland et la startup allemande Atmos Space Cargo ont signé un accord pour développer une capacité de « frappe orbitale de précision en profondeur », baptisée PODS. Le projet s'appuie sur une capsule conçue au départ pour rapporter des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c294bdf2cb12",
+          "title": "Cyberattaque à la Commission européenne : une plateforme agentique de pentest mise en cause",
+          "source": "Next INpact",
+          "url": "https://next.ink/268532/cyberattaque-a-la-commission-europeenne-une-plateforme-agentique-de-pentest-mise-en-cause/",
+          "category": "ia",
+          "published_at": "2026-11-19T16:06:59+00:00",
+          "summary": "La Commission européenne a confirmé jeudi 19 novembre avoir été victime d&#8217;une attaque dont la mise en œuvre aurait impliqué des outils d&#8217;IA générative. Elle indique avoir dû couper certains systèmes mais ne se prononce pas, à ce stade, sur l&#8217;identité des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48e15cf757af",
+          "title": "Marre des miles dans GTA 6 ? On peut changer les unités de mesure",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2379115-marre-des-miles-dans-gta-6-on-peut-changer-les-unites-de-mesure.html",
+          "category": "ia",
+          "published_at": "2026-11-19T15:53:45+00:00",
+          "summary": "GTA 6 se déroulant aux États-Unis, les unités de mesure par défaut sont calquées sur celles de la vraie vie. Les distances s'expriment en miles par exemple. Les paramètres permettent de passer aux unités utilisées en France.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58b3c8da20cb",
+          "title": "From Taylor Swift to Miranda Lambert, Ella Langley, Zach Top & More, Which 2026 CMA Awards Performance Was Your Favorite? Vote!",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/best-2026-cma-awards-performance-vote-poll-1236385621/",
+          "category": "ia",
+          "published_at": "2026-11-19T15:53:05+00:00",
+          "summary": "Lainey Wilson, Vince Gill, Megan Moroney and Kacey Musgraves also took the stage at Wednesday night's (Nov. 18) event.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4457656ce40",
+          "title": "Arunachal Pradesh’s Euphony Voyage evolves from day-long gig to Shaggy-headlined festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/arunachal-pradeshs-euphony-voyage-evolves-from-day-long-gig-to-shaggy-headlined-festival/",
+          "category": "musique",
+          "published_at": "2026-11-19T15:45:52+00:00",
+          "summary": "If you’re looking for a case study on how India’s live music industry has boomed this decade, then there’s a great case study in Euphony Voyage, an event staged in [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c96d3afe8828",
+          "title": "Tesla n’est plus la seule lanterne rouge du contrôle technique allemand, une électrique chinoise l’y rejoint",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2379075-tesla-nest-plus-la-seule-lanterne-rouge-du-controle-technique-allemand-une-electrique-chinoise-ly-rejoint.html",
+          "category": "ia",
+          "published_at": "2026-11-19T15:45:00+00:00",
+          "summary": "L’organisme allemand TÜV vient de publier son bilan 2027 des contrôles techniques. Comme les années précédentes, Tesla est toujours en fond de classement. Mais, cette année, le constructeur américain y est rejoint par un constructeur chinois&nbsp;: MG avec sa MG4.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38b3f502540b",
+          "title": "Où trouver la maison de GTA San Andreas dans GTA 6 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2378997-ou-trouver-la-maison-de-gta-san-andreas-dans-gta-6.html",
+          "category": "ia",
+          "published_at": "2026-11-19T15:35:07+00:00",
+          "summary": "Le mystère de la maison glissée en photo dans GTA San Andreas en 2021 est levé le jour même de la sortie de GTA 6. La demeure existe bien dans le nouveau jeu de Rockstar Games. On vous dit où la trouver.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdeb9f07d8a3",
+          "title": "How Did the Greatest Pop Stars Fare in the 2026 Grammy Nominations?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/grammy-nominations-2026-greatest-pop-stars-podcast-1236385551/",
+          "category": "institutionnel",
+          "published_at": "2026-11-19T15:31:28+00:00",
+          "summary": "This week's episode of the Greatest Pop Stars podcast looks at the A-listers who did or didn't get nods in the biggest Grammy categories, and what it might mean for their chances of wining.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c94e63cad3d8",
+          "title": "Horizon Zero Dawn Remastered sur PS5 tombe à un prix difficile à ignorer",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2379089-horizon-zero-dawn-remastered-sur-ps5-tombe-a-un-prix-difficile-a-ignorer.html",
+          "category": "ia",
+          "published_at": "2026-11-19T15:31:13+00:00",
+          "summary": "Pendant que tout le monde a les yeux rivés sur GTA 6, l’une des plus belles aventures de la PS5 se fait discrètement plus accessible. Horizon Zero Dawn Remastered profite d’une belle baisse de prix chez Cdiscount.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a5f2369ef32",
+          "title": "Belfast Duo CHALK Is Killing It on Fontaines D.C.’s European Tour: ‘Performing Live Is the Core of Our Band’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/belfast-chalk-fontaines-dc-tour-1236385553/",
+          "category": "musique",
+          "published_at": "2026-11-19T15:21:45+00:00",
+          "summary": "The electro-punks recently scooped best live act at the Northern Ireland Music Awards. Billboard UK catches them backstage in Amsterdam on their biggest tour yet.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8749ed89bbe",
+          "title": "Warner Music Group tops $2B in a quarter for the first time; subscription streaming revenues rose 14.7% YoY in calendar Q3",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/warner-music-group-tops-2b-in-a-quarter-for-the-first-time-subscription-streaming-revenues-rose-14-7-yoy-in-calendar-q3/",
+          "category": "musique",
+          "published_at": "2026-11-19T15:01:15+00:00",
+          "summary": "According to the company's results, published on Thursday (November 19), WMG generated total revenues of USD $2.001 billion in the quarter\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "971eb551fc54",
+          "title": "Pour une conseillère de la CJUE, Facebook n’est plus gratuit car on paie avec ses données",
+          "source": "Next INpact",
+          "url": "https://next.ink/268491/pour-une-conseillere-de-la-cjue-facebook-nest-plus-gratuit-car-on-paie-avec-ses-donnees/",
+          "category": "ia",
+          "published_at": "2026-11-19T14:55:28+00:00",
+          "summary": "Dans un avis, l&#8217;avocate générale à la CJUE Laila Medina affirme qu&#8217;un service ne peut être qualifié de « gratuit » lorsque les consommateurs sont tenus de fournir des données personnelles à des fins commerciales. Après la mise en place par Meta du « payer ou accepter…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "919506e68350",
+          "title": "Un mois après le chaos PHP2Shell, que vaut vraiment la nouvelle alerte critique de PHP ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2378991-un-mois-apres-le-chaos-php2shell-que-vaut-vraiment-la-nouvelle-alerte-critique-de-php.html",
+          "category": "ia",
+          "published_at": "2026-11-19T14:47:06+00:00",
+          "summary": "PHP publie ce jeudi 19 novembre 2026 des correctifs pour des failles jugées critiques dans toutes ses versions maintenues, un mois après l’épisode PHP2Shell.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d4e6a92345fe",
+          "title": "[MàJ] L’équipe PHP a publié de nouveaux correctifs critiques ce 19 novembre",
+          "source": "Next INpact",
+          "url": "https://next.ink/268437/lequipe-php-previent-de-nouveaux-correctifs-critiques-pour-ce-19-novembre/",
+          "category": "ia",
+          "published_at": "2026-11-19T14:41:12+00:00",
+          "summary": "Dans un contexte sensible marqué par les failles PHP2Shell, PHP a publié aujourd&#8217;hui plusieurs correctifs pour des failles dont au moins une est critique. Mise à jour du 19 novembre à 15h30 : L’équipe de PHP vient de mettre en ligne les versions 8.2.36, 8.3.37, 8.4.28 et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7688c9f41157",
+          "title": "GTA 6 : la carte interactive ultime pour découvrir les secrets de Leonida",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2378989-gta-6-la-carte-interactive-ultime-pour-decouvrir-les-secrets-de-leonida.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-19T14:30:03+00:00",
+          "summary": "Alors que Rockstar Games a gardé le secret sur la carte complète de GTA 6 jusqu’à sa sortie, ce jeudi 19 novembre, une poignée de passionnés menée par un cartographe surnommé Yanis a reconstitué l’État de Leonida sur une carte interactive.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16719925a441",
+          "title": "Starlink bridé, pont de Crimée détruit : l’Ukraine a trouvé un moyen ingénieux de bien diriger ses missiles",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2378957-starlink-bride-pont-de-crimee-detruit-lukraine-a-trouve-un-moyen-ingenieux-de-bien-diriger-ses-missiles.html",
+          "category": "ia",
+          "published_at": "2026-11-19T14:21:28+00:00",
+          "summary": "L'Ukraine a guidé les missiles qui ont fait s'effondrer une partie du pont de Crimée avec un réseau de drones relais qui se passe de Starlink. Kiev affirme que Starshield, la version militaire du réseau de SpaceX, coupe la liaison au-delà de 161 km/h.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af187d34db83",
+          "title": "☕️ Google lance Gemini 4 Neon pour prendre la relève de Gemini 3.1 Pro et d’Argon",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/google-lance-gemini-4-neon-pour-prendre-la-releve-de-gemini-3-1-pro-et-dargon/",
+          "category": "ia",
+          "published_at": "2026-11-19T14:20:18+00:00",
+          "summary": "Google a lancé ce 18 novembre Neon, un nouveau modèle pour la génération Gemini 4. La gamme de l’entreprise étant un peu confuse, précisons d’emblée que le nouveau venu remplace à la fois Argon et Gemini 3.1 Pro. Les modèles disponibles chez Google sont donc répartis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a15bded5a6b6",
+          "title": "Olivia Dean, Amy Lee & More Receive PLUS1 Impact Awards: Full List",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/plus1-impact-awards-2026-full-list/",
+          "category": "ia",
+          "published_at": "2026-11-19T14:17:00+00:00",
+          "summary": "The awards, now in their third year, recognize artists and industry leaders making meaningful impact across communities worldwide.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b70ace71fde3",
+          "title": "Apple Music Radio now reaches 50m listeners every month",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/apple-music-radio-now-reaches-50m-listeners-every-month/",
+          "category": "musique",
+          "published_at": "2026-11-19T13:30:00+00:00",
+          "summary": "How many people are listening to Apple Music’s live radio stations? Global creative director Zane Lowe has finally revealed the number in an interview with Billboard’s ‘On The Record’ podcast.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f874fee27022",
+          "title": "Tim Minchin lights up ARIA awards with minute-long AI blast",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/tim-minchin-lights-up-aria-awards-with-minute-long-ai-blast/",
+          "category": "ia",
+          "published_at": "2026-11-19T13:30:00+00:00",
+          "summary": "Sometimes, we’ll just let someone speak for themself. The someone today being multi-hyphenate Australian star Tim Minchin, who was given a minute at the ARIA Awards last night to talk about AI. Here’s what he said.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "721292fd63f4",
+          "title": "Carlyle and KKR commit $475m to catalogue-buyer Litmus Music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/carlyle-and-kkr-commit-475m-to-catalogue-buyer-litmus-music/",
+          "category": "musique",
+          "published_at": "2026-11-19T13:30:00+00:00",
+          "summary": "Another day, another nine-digit injection of capital into a music-rights buyer. The buyer in this case being Litmus Capital, and the injection a weighty $475m from investment firm Carlyle and funds managed by KKR.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "95e95d5b2561",
+          "title": "Research roundup: Bluegrass spending, festival connections",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/research-roundup-bluegrass-spending-festival-connections/",
+          "category": "institutionnel",
+          "published_at": "2026-11-19T13:30:00+00:00",
+          "summary": "Good news if you’ve ever wondered how much American fans of bluegrass music spend on the genre. DSPs body DiMA has been commissioning research to find out. And the findings are that these fans over-index on that spend.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bcfd1ca58699",
+          "title": "ISWCs celebrate their 30th birthday with 100 million milestone",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/iswcs-celebrate-their-30th-birthday-with-100-million-milestone/",
+          "category": "musique",
+          "published_at": "2026-11-19T13:30:00+00:00",
+          "summary": "We’ll confess, the imminent 30th birthday of International Standard Musical Work Codes (ISWCs) has taken us by surprise. Did anyone remember to buy a cake? We’ve got some candles somewhere in the cupboard&#8230;\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9a4d5a523b0",
+          "title": "Motive Unknown founder talks music marketing, retail and ‘the age of ideas’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/motive-unknown-founder-talks-music-marketing-retail-and-the-age-of-ideas/",
+          "category": "musique",
+          "published_at": "2026-11-19T13:23:34+00:00",
+          "summary": "Music (and music-tech) marketing agency Motive Unknown has just celebrated its 15th birthday – by talking to Music Ally!\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d18ddaeeb70",
+          "title": "Sortie de GTA 6 : guides, astuces, secrets et premières découvertes pour tout savoir sur Leonida (EN DIRECT)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2375431-lancement-de-gta-6-en-direct-guides-astuces-secrets.html",
+          "category": "ia",
+          "published_at": "2026-11-19T13:19:11+00:00",
+          "summary": "Grand Theft Auto VI (GTA 6) est sorti, et Leonida livre déjà ses premiers secrets. Easter eggs, astuces, records et réactions : suivez en direct toutes les trouvailles et les infos sur le jeu de Rockstar.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "63973e3b58aa",
+          "title": "Les Anneaux de pouvoir réinvente l’histoire du plus puissant dragon de Tolkien",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2378761-les-anneaux-de-pouvoir-reinvente-lhistoire-du-plus-puissant-dragon-de-tolkien.html",
+          "category": "ia",
+          "published_at": "2026-11-19T13:02:00+00:00",
+          "summary": "Dans l'épisode 5 de la saison 3 des Anneaux de pouvoir, le nom d'un dragon apparaît lors d'une discussion impliquant Sauron. Chez Tolkien, il s'agit du plus puissant dragon de la Terre du Milieu. Et son histoire a été en partie réécrite pour la série.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca64d0707be2",
+          "title": "Comment sauver son bateau dans GTA 6 s’il est bloqué sur la terre ferme ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2378749-comment-sauver-son-bateau-dans-gta-6-sil-est-bloque-sur-la-terre-ferme.html",
+          "category": "ia",
+          "published_at": "2026-11-19T12:45:00+00:00",
+          "summary": "Après avoir nettoyé la base d'un gang ennemi dans GTA 6, j'ai retrouvé mon bateau échoué sur la terre ferme. Je le pensais perdu, mais il existe un moyen de le remettre à l'eau.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "93a9331eb0a6",
+          "title": "This Indian Grammy nominee already has four Recording Academy certificates",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/this-indian-grammy-nominee-already-has-four-recording-academy-certificates/",
+          "category": "musique",
+          "published_at": "2026-11-19T12:35:26+00:00",
+          "summary": "When the Grammy nominations were announced earlier this week, there was speculation that Indian artists such as Arijit Singh — the most followed artist on Spotify — or Diljit Dosanjh [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3c4095ad6604",
+          "title": "Grand Canyon : on comprend enfin pourquoi un milliard d’années de roches manquent à l’appel",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2378479-grand-canyon-on-comprend-enfin-pourquoi-un-milliard-dannees-de-roches-manquent-a-lappel.html",
+          "category": "ia",
+          "published_at": "2026-11-19T12:30:00+00:00",
+          "summary": "Deux géologues de l’université de Wollongong, en Australie, ont publié le 4 novembre 2026 dans Nature une explication à la Grande Discordance. Cette lacune efface parfois plus d’un milliard d’années des archives rocheuses de la Terre, et elle intrigue les géologues depuis…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "508d444f4132",
+          "title": "UMG says 68% of listeners want a ‘kill switch’ for AI music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/umg-says-68-of-listeners-want-a-kill-switch-for-ai-music/",
+          "category": "musique",
+          "published_at": "2026-11-19T12:30:00+00:00",
+          "summary": "A survey published by Deezer earlier this week claimed that 41% of listeners would like to “filter out 100% AI-generated music from their music streaming platform”. However, UMG has been conducting its own research into this question, and come up with some higher numbers.\nThe…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f05027e7913b",
+          "title": "Deux failles critiques dans NGINX réclament à leur tour une mise à jour urgente",
+          "source": "Next INpact",
+          "url": "https://next.ink/268502/deux-failles-critiques-dans-nginx-reclament-a-leur-tour-une-mise-a-jour-urgente/",
+          "category": "ia",
+          "published_at": "2026-11-19T12:02:00+00:00",
+          "summary": "Deux failles critiques dans NGINX peuvent permettre de faire planter un serveur, voire d’en prendre le contrôle. L’une d’elles date même de 2015. NGINX est un serveur HTTP qui sert aussi de mandataire (proxy) inverse, de cache, de répartiteur de charge, de mandataire TCP/UDP ou…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9d48ae5b663",
+          "title": "Switzerland’s MusicBird secures up to $200M revolving credit facility arranged by Truist and Fifth Third",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/switzerlands-musicbird-secures-up-to-200m-revolving-credit-facility-arranged-by-truist-and-fifth-third/",
+          "category": "musique",
+          "published_at": "2026-11-19T12:01:50+00:00",
+          "summary": "MusicBird says the new financing will help it scale its portfolio\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9d5bdb8e9b6",
+          "title": "GTA 6 met fin à 25 ans de prostitution dans la saga, et Rockstar assume",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2378697-gta-6-met-fin-a-25-ans-de-prostitution-dans-la-saga-et-rockstar-assume.html",
+          "category": "ia",
+          "published_at": "2026-11-19T12:00:31+00:00",
+          "summary": "C’était l’un des marqueurs historiques de la saga depuis&nbsp;Grand Theft Auto 3&nbsp;en 2001 : dans&nbsp;GTA 6, il n’est plus possible de solliciter des prostituées ni de multiplier les aventures en dehors du couple. Interrogé sur cette coupe franche, Rockstar Games assume un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e06aa846ae2e",
+          "title": "SoundOn explains why ‘signal before spend’ works for TikTok campaigns",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/soundon-explains-why-signal-before-spend-works-for-tiktok-campaigns/",
+          "category": "musique",
+          "published_at": "2026-11-19T11:58:15+00:00",
+          "summary": "The days of spanking your music marketing budget on TikTok influencers with millions of followers but little impact on your artist are gone.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "81ddc8fad48b",
+          "title": "Red Chief and TribeVibe launch hip-hop talent competition ‘No Shortcuts Cypher’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/red-chief-and-tribevibe-launch-hip-hop-talent-competition-no-shortcuts-cypher/",
+          "category": "musique",
+          "published_at": "2026-11-19T11:30:34+00:00",
+          "summary": "Sneakers have been an integral part of hip-hop culture since the genre originated in the Bronx. It’s a connection that was most famously chronicled by Run DMC in their 1986 [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8fcbf06448be",
+          "title": "[MàJ] OVHcloud publie son premier modèle à poids ouverts, Olala",
+          "source": "Next INpact",
+          "url": "https://next.ink/267996/ovhcloud-donne-un-avant-gout-de-son-premier-modele-olala/",
+          "category": "justice",
+          "published_at": "2026-11-19T11:09:35+00:00",
+          "summary": "OVHcloud lève le voile sur sa première famille de LLM, baptisée Olala. Son premier représentant, Olala mini 7A1B, se présente comme un modèle compact à mélange d’experts, capable de fonctionner sur un GPU grand public. Le modèle et ses poids sont publiés sous licence Apache 2.0.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e4726f3e0338",
+          "title": "La « vulnapocalypse » annoncée par Anthropic avec Mythos n’a pas (encore) eu lieu",
+          "source": "Next INpact",
+          "url": "https://next.ink/268257/la-vulnapocalypse-annoncee-par-anthropic-avec-mythos-na-pas-encore-eu-lieu/",
+          "category": "ia",
+          "published_at": "2026-11-19T11:00:25+00:00",
+          "summary": "Sept mois après le retentissant lancement de Mythos, l&#8217;IA d&#8217;Anthropic dédiée à la cybersécurité, la baudruche semble se dégonfler. Sur les 40 000 vulnérabilités potentielles identifiées, seules 5 000 ont été rendues publiques, 217 corrigées, et 2 exploitées. Faute de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d6c375a1069",
+          "title": "Marketing agency Motive Unknown expands with retail division",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/marketing-agency-motive-unknown-expands-with-retail-division/",
+          "category": "musique",
+          "published_at": "2026-11-19T10:32:20+00:00",
+          "summary": "UK-based marketing agency Motive Unknown is expanding beyond its existing divisions focused on music and music-tech.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32ad4748351a",
+          "title": "TikTok trumpets its music impact and reveals micro-drama musical",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/tiktok-music-impact-micro-drama-musical/",
+          "category": "musique",
+          "published_at": "2026-11-19T10:28:25+00:00",
+          "summary": "TikTok has published its annual ‘Music Impact Report’ setting out its stall as a platform that can boost artists’ chart placings.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b9345b85217",
+          "title": "Datacenters : après la course à l’énergie, la bataille de l’acceptabilité",
+          "source": "Next INpact",
+          "url": "https://next.ink/268399/les-datacenters-face-au-mur-de-lacceptabilite/",
+          "category": "ia",
+          "published_at": "2026-11-19T09:49:00+00:00",
+          "summary": "La filière du datacenter se réunissait à Paris pour parler technologie et présenter ses nouveautés, dans un climat de tension et de protestation de certains, en France comme ailleurs dans le monde. Les opérateurs de datacenter ont un mot à la bouche en ce moment : acceptabilité,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a033592333f4",
+          "title": "☕️ Présidentielle : VIGINUM publie un guide à destination des équipes de campagne",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/presidentielle-viginum-publie-un-guide-a-destination-des-equipes-de-campagne/",
+          "category": "institutionnel",
+          "published_at": "2026-11-19T09:32:00+00:00",
+          "summary": "Alors que la campagne présidentielle a déjà bien commencé, VIGINUM a publié, en collaboration avec la CNIL et l&#8217;Arcom, un guide à destination des équipes des candidats pour « protéger le débat public numérique durant l&#8217;élection présidentielle 2027 ». Si son titre…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8855d90411e9",
+          "title": "PlayStation Store : Sony échappe à une demande d’indemnisation de 2 milliards de livres",
+          "source": "Next INpact",
+          "url": "https://next.ink/268364/playstation-store-sony-echappe-a-une-demande-dindemnisation-de-2-milliards-de-livres/",
+          "category": "ia",
+          "published_at": "2026-11-19T09:15:00+00:00",
+          "summary": "Le tribunal britannique de la concurrence a rejeté l’action collective qui réclamait près de 2 milliards de livres sterling à Sony. Aucune indemnisation n’a été accordée aux quelque 12,2 millions de joueurs PlayStation concernés. La position dominante de Sony dans la vente de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "96a94f8fcbb9",
+          "title": "30 ans d’April : « Notre ennemi, le manque de volonté politique de libérer la population »",
+          "source": "Next INpact",
+          "url": "https://next.ink/267582/30-ans-dapril-notre-ennemi-le-manque-de-volonte-politique-de-liberer-la-population/",
+          "category": "ia",
+          "published_at": "2026-11-19T08:42:00+00:00",
+          "summary": "Ce vendredi 20 novembre, c&#8217;est les 30 ans de l&#8217;April&#160;! À cette occasion, Next revient avec l&#8217;association de promotion et de défense du logiciel libre sur ses combats et la question qui reste encore éminemment importante de la place du logiciel libre dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eeb109a1b5df",
+          "title": "How Spotify Expanded the Music Video Experience in 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/19/how-spotify-expanded-the-music-video-experience-in-2026/",
+          "category": "musique",
+          "published_at": "2026-11-19T08:20:00+00:00",
+          "summary": "The features, artist success stories, and major music moments that defined Spotify’s year in video — and opened up new opportunities for artists and fans. \nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c064c726fa9",
+          "title": "☕️ LIDD : Unreal Tournament 2004 s’invite dans votre navigateur",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lidd-unreal-tournament-2004-sinvite-dans-votre-navigateur/",
+          "category": "ia",
+          "published_at": "2026-11-19T07:42:38+00:00",
+          "summary": "Vous n&#8217;avez pas envie de perdre votre temps à faire cuire des hamburgers dans GTA VI, mais souhaitez tout de même un petit quart d&#8217;heure de détente nostalgique ? Un développeur indépendant vient de réaliser un portage jouable directement dans le navigateur…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "16b2e4b3d475",
+          "title": "De sérieux ratés pour Muse, qui hallucine et prend des libertés avec les autorisations",
+          "source": "Next INpact",
+          "url": "https://next.ink/268379/de-serieux-rates-pour-muse-qui-hallucine-et-prend-des-libertes-avec-les-autorisations/",
+          "category": "ia",
+          "published_at": "2026-11-19T06:41:53+00:00",
+          "summary": "Hallucinations, transactions fantômes, interprétation très généreuse des autorisations d&#8217;accès : Muse, l’assistant IA censé simplifier le quotidien des utilisateurs de Meta, prend parfois des libertés avec leurs données. Muse se présente comme un assistant personnel…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0af633e29cf9",
+          "title": "OVHcloud : infrastructure IA et modèles souverains avec Qwant, Shadow et Staan",
+          "source": "Next INpact",
+          "url": "https://next.ink/268119/ovhcloud-des-modeles-et-une-infrastructure-ia-souverains-avec-qwant-shadow-et-staan/",
+          "category": "ia",
+          "published_at": "2026-11-19T06:00:00+00:00",
+          "summary": "Les entreprises de la galaxie d&#8217;Octave Klaba s&#8217;allient pour une IA « européenne et souveraine » : le moteur de recherche Qwant, le service de cloud computing Shadow, European Search Perspective (EUSP) et OVHcloud sont désormais engagés dans un partenariat…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "articles": [
+        {
+          "id": "c0f40fd40718",
+          "title": "WMG CEO Robert Kyncl to deliver CES 2027 keynote, billed as the first by a music-industry leader",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/wmg-ceo-robert-kyncl-to-deliver-ces-2027-keynote-billed-as-the-first-by-a-music-industry-leader/",
+          "category": "musique",
+          "published_at": "2026-11-18T19:27:03+00:00",
+          "summary": "CTA says Kyncl \"will preview music's next chapter of creation and interactivity\" during the session.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e17000f1d1d2",
+          "title": "UMG and Sony withdraw DistroKid subpoena motion in Suno case after distributor produces AI-detection documents",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/umg-and-sony-withdraw-distrokid-subpoena-motion-in-suno-case-after-distributor-produces-ai-detection-documents/",
+          "category": "musique",
+          "published_at": "2026-11-18T19:26:50+00:00",
+          "summary": "The labels sought data on how many DistroKid tracks were flagged as AI-generated, how many were attributed to Suno, and what they earned.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8f087888c402",
+          "title": "Michael Rapino talks Live Nation’s AI strategy, subscription ambitions for 14m-member All Access program – plus 3 other things to know from the firm’s 2026 Investor Presentation",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/michael-rapino-talks-live-nations-ai-strategy-subscription-ambitions-for-14m-member-all-access-program-plus-3-other-things-to-know-from-the-firms-2026-investor-presentatio/",
+          "category": "musique",
+          "published_at": "2026-11-18T18:01:54+00:00",
+          "summary": "The presentation came five days after Live Nation reported Q3 revenues of $10.1 billion, up 19% YoY\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32401fcdf81a",
+          "title": "Startup Aria Music bills itself as ‘Substack meets Venmo for music’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/18/aria-music-substack-venmo/",
+          "category": "ia",
+          "published_at": "2026-11-18T18:00:00+00:00",
+          "summary": "Startup Aria Music combines D2C community-building features with financial tools for artists to get paid – &#8216;Substack meets Venmo for music&#8217;.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
         {
           "id": "481fa7991bd8",
           "title": "GTA 6 : voici les 55 trophées à décrocher pour pour obtenir le platine",
@@ -382,6 +957,26 @@
           "category": "musique",
           "published_at": "2026-11-18T12:00:48+00:00",
           "summary": "Litmus' portfolio includes more than 100,000 copyrights and recordings, featuring music from Katy Perry, Benny Blanco, Randy Newman, and Keith Urban.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "615f7944ca31",
+          "title": "Le Groupe VYV et la CNIL publient « La Voix des jeunesses » : une enquête pour éclairer les usages de l’IA conversationnelle",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ia-conversationnelle-la-voix-des-jeunesses",
+          "category": "ia",
+          "published_at": "2026-11-18T12:00:00+00:00",
+          "summary": "Alors que près d’un jeune sur deux se confie à une IA sur des sujets intimes, avec le livret «&amp;nbsp;La Voix des jeunesses&amp;nbsp;», le Groupe VYV, premier acteur mutualiste de santé et de protection sociale en France, et la CNIL croisent enquête européenne, témoignages, et…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b14e79c8271d",
+          "title": "Conservation des mots de passe clients en clair : la CNIL prononce une sanction de 5 millions d’euros",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/conservation-des-mots-de-passe-sanction-5-millions-deuros",
+          "category": "cnil",
+          "published_at": "2026-11-18T12:00:00+00:00",
+          "summary": "En novembre 2026, la CNIL a infligé une sanction de 5&amp;nbsp;millions d’euros à une société en raison de l’insuffisance des mesures prises pour assurer la sécurité des données de ses clients et d’une durée excessive de conservation des données.",
           "summary_type": "extrait source"
         },
         {
