@@ -1,6 +1,471 @@
 {
-  "generated_at": "2026-11-22T16:16:41.162377+00:00",
+  "generated_at": "2026-11-23T20:14:05.292626+00:00",
   "days": [
+    {
+      "date": "2026-11-23",
+      "articles": [
+        {
+          "id": "e40b810b48b1",
+          "title": "Karol G’s ‘BbY WOW’ Leads Billboard Global Charts, ‘Christmas’ Carols Climb",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/karol-g-global-charts-number-one-seven-weeks-1236387993/",
+          "category": "musique",
+          "published_at": "2026-11-23T20:09:18+00:00",
+          "summary": "Wham!’s “Last Christmas” and Mariah Carey’s “All I Want for Christmas Is You” go on their latest chart sleigh rides.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "70fe50ab0719",
+          "title": "D’Angelo’s Estate Releases Posthumous Song ‘Kamikazi’ for ‘GTA 6’: Singer ‘Approved This Track’ Before His Death",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/dangelo-grand-theft-auto-vi-song-kamikazi-1236387838/",
+          "category": "ia",
+          "published_at": "2026-11-23T20:00:04+00:00",
+          "summary": "\"He was enthusiastic ... to have this record included in the game,\" his brother said in a statement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa57cd1cdc63",
+          "title": "Music Documentaries About Oasis, Paul McCartney, Elvis & More Eligible for 2027 Oscars",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/oasis-elvis-music-documentaries-eligible-2027-oscars-1236387948/",
+          "category": "musique",
+          "published_at": "2026-11-23T19:13:47+00:00",
+          "summary": "Morgan Neville, who won in this category in 2014 for 20 Feet From Stardom, has two films in contention.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1240ac6299f6",
+          "title": "Ariana Grande Teases Eternal Sunshine Tour Concert Film: ‘Coming Soon’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-eternal-sunshine-tour-concert-film-video-tease-1236387821/",
+          "category": "musique",
+          "published_at": "2026-11-23T18:57:12+00:00",
+          "summary": "The star also returns to the silver screen this week, starring in Focker-in-Law.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "79ef04d10003",
+          "title": "El Niño 2027 : à quoi faut-il s’attendre pour les prochains mois, selon un climatologue ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2382911-el-nino-2027-a-quoi-faut-il-sattendre-pour-les-prochains-mois-selon-un-climatologue.html",
+          "category": "ia",
+          "published_at": "2026-11-23T18:30:00+00:00",
+          "summary": "Le phénomène El Niño 2026-2027 s'annonce d'une intensité exceptionnelle. À quoi devons-nous réellement nous attendre ? Le climatologue Éric Guilyardi nous livre ses prévisions sur les perturbations climatiques à venir et démystifie les idées reçues, notamment sur les impacts en…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d892e9329e84",
+          "title": "The Longest-Leading Billboard Hot 100 No. 1s: ‘Choosin’ Texas’ & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+          "category": "musique",
+          "published_at": "2026-11-23T18:24:58+00:00",
+          "summary": "A select few hits have led the chart for at least 10 weeks — and 20-plus.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a389b201996",
+          "title": "D2C platform EVEN launches Day & Date Vinyl service, which it says cuts production timelines ‘from months to weeks’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/d2c-platform-even-launches-day-date-vinyl-service-which-it-says-cuts-production-timelines-from-months-to-weeks/",
+          "category": "musique",
+          "published_at": "2026-11-23T17:39:34+00:00",
+          "summary": "Company says the new service lets artists release vinyl alongside new and catalog albums with as little as two weeks' notice.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb5c69b80eba",
+          "title": "GTA 6 : pourquoi vos armes disparaissent (et la règle d’or pour ne plus jamais les perdre)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2383153-gta-6-pourquoi-vos-armes-disparaissent-et-la-regle-dor-pour-ne-plus-jamais-les-perdre.html",
+          "category": "ia",
+          "published_at": "2026-11-23T17:04:40+00:00",
+          "summary": "Fini l'arsenal sans fond des anciens GTA où le héros sortait un lance-roquettes de sa poche arrière. Dans GTA 6, Rockstar reprend une logique héritée de Red Dead Redemption 2 : tout ce que vous possédez vraiment ne se perd jamais, mais tout ce que vous « empruntez » dans la rue…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b771a2a8c98d",
+          "title": "DMA : la conformité de façade des géants du numérique épinglée par le BEUC",
+          "source": "Next INpact",
+          "url": "https://next.ink/269443/dma-la-conformite-de-facade-des-geants-du-numerique-epinglee-par-le-beuc/",
+          "category": "ia",
+          "published_at": "2026-11-23T16:45:15+00:00",
+          "summary": "Deux ans et demi après sa mise en route, le règlement sur les marchés numériques (DMA) a encore beaucoup de chemin à parcourir pour rééquilibrer la concurrence dans le paysage numérique européen. Les contrôleurs d&#8217;accès ont encore de sérieux problèmes de non conformité,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1dd7973ddb82",
+          "title": "Pas d’usine, des dettes et du maïs : le fiasco de la supercar chinoise Hongqi S9",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2382947-pas-dusine-des-dettes-et-du-mais-le-fiasco-de-la-supercar-chinoise-hongqi-s9.html",
+          "category": "ia",
+          "published_at": "2026-11-23T16:39:45+00:00",
+          "summary": "Cinq ans après sa présentation au salon de Shanghai, la supercar Hongqi S9, affichée à 1,45 million de dollars (environ 1,3 million d'euros), n'a pas été livrée comme prévu. Le projet se termine en liquidations judiciaires, en dettes impayées et en soupçons de fraude.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cb78943b0d3d",
+          "title": "GTA 6 reçoit sa première mise à jour depuis son lancement : quelles sont les nouveautés ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2383017-gta-6-recoit-sa-premiere-mise-a-jour-depuis-son-lancement-quelles-sont-les-nouveautes.html",
+          "category": "ia",
+          "published_at": "2026-11-23T16:32:54+00:00",
+          "summary": "Moins d'une semaine après son lancement, GTA 6 reçoit déjà une première mise à jour sur PS5, Xbox Series S et Xbox Series X. Aucune nouveauté à signaler, mais des bugs corrigés.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "374805fc3e04",
+          "title": "GTA 6 : nudistes, klaxons et pélicans : un ornithologue raconte sa traque des 60 espèces d’oiseaux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2382919-gta-6-nudistes-klaxons-et-pelicans-un-ornithologue-raconte-sa-traque-des-60-especes-doiseaux.html",
+          "category": "ia",
+          "published_at": "2026-11-23T16:30:00+00:00",
+          "summary": "Oubliez les fusillades en boîte de nuit et les courses-poursuites à cinq (maintenant 6) étoiles : dès la sortie de GTA 6, un ornithologue amateur bien réel a détourné le blockbuster de Rockstar pour le transformer en simulateur de randonnée naturaliste. Eh oui, le jeu est plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e4328f502d4",
+          "title": "Les regards se tournent vers P vs NP : après Riemann, l’IA s’attaque à une autre énigme à un million de dollars",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2382757-les-regards-se-tournent-vers-p-vs-np-apres-riemann-lia-sattaque-a-une-autre-enigme-a-un-million-de-dollars.html",
+          "category": "ia",
+          "published_at": "2026-11-23T16:25:00+00:00",
+          "summary": "Le 20 novembre 2026, un mathématicien d’Anthropic a annoncé avoir démontré avec Claude l’hypothèse de Riemann, l’une des énigmes les plus célèbres des mathématiques. À peine l’annonce faite, les regards se tournent vers P vs NP.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f434db545e32",
+          "title": "Olala : on a disséqué le modèle d’OVH",
+          "source": "Next INpact",
+          "url": "https://next.ink/268967/olala-on-a-disseque-le-modele-dovh-avec-trois-tetes-folles/",
+          "category": "ia",
+          "published_at": "2026-11-23T16:07:00+00:00",
+          "summary": "La semaine dernière, OVHcloud a présenté son premier modèle Olala mini. Il est souverain, de la conception à l’entrainement… mais un bastion résiste encore et toujours. Dans cette première partie nous analysons l’architecture du modèle, son fonctionnement et ses déconvenues…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cff93c63f0cb",
+          "title": "GTA 6 sur PC : une version pirate est en ligne, mais le jeu ne se lance pas encore",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2382377-gta-6-sur-pc-une-version-pirate-des-aujourdhui.html",
+          "category": "ia",
+          "published_at": "2026-11-23T16:06:02+00:00",
+          "summary": "Le leaker Cyberleek a tenu parole : l'exécutable manquant de la build Xbox de GTA 6 est en ligne depuis le lundi 23 novembre. En moins de deux heures, le projet open source Leonida a commencé à le faire tourner sur PC. Le jeu n'affiche encore aucune image, mais la course au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "267bd3372c3a",
+          "title": "Black Friday 2026 en direct : on a fouillé les promos pour ne garder que celles qui méritent votre argent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2382555-black-friday-week-les-meilleures-promos-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-11-23T15:54:51+00:00",
+          "summary": "Le Black Friday tombe ce vendredi 27 novembre, mais les promotions, elles, ont commencé depuis des semaines. Parmi le grand lot de proudits remisés toutes ne se valent pas. Dans ce live, on ne retient que les offres qu'on a vérifiées et qui méritent votre argent, en vérifiant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a35c049efb00",
+          "title": "GTA 6 : ne vous précipitez pas, vous pourriez le regretter",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2382855-gta-6-ne-vous-precipitez-pas-vous-pourriez-le-regretter.html",
+          "category": "ia",
+          "published_at": "2026-11-23T15:45:00+00:00",
+          "summary": "Des joueuses et des joueurs souffrent déjà d'une drôle de nostalgie sur GTA 6 après avoir terminé le premier chapitre. Ils regrettent leur petite vie tranquille dans les Keys, les habitudes de Jason et les doux moments passés avec Lucia. Un sentiment qui pousse même certains à…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a2b17d08d0b",
+          "title": "PowerShell 7 va intégrer Windows, les entreprises vont devoir vérifier sa compatibilité",
+          "source": "Next INpact",
+          "url": "https://next.ink/269400/powershell-7-va-integrer-windows-les-entreprises-vont-devoir-verifier-sa-compatibilite/",
+          "category": "ia",
+          "published_at": "2026-11-23T15:42:00+00:00",
+          "summary": "Microsoft a officiellement déprécié Windows PowerShell 5.1 le 17 novembre et intégrera PowerShell 7 à la prochaine version de Windows. Les deux moutures cohabiteront, mais PowerShell 7 n&#8217;est pas une simple mise à jour. Pour les équipes qui exploitent des milliers de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5846e276d492",
+          "title": "☕️ Apple limite l’usage de son IA et vend des quotas plus élevés avec iCloud+",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/apple-limite-lusage-de-son-ia-et-vend-des-quotas-plus-eleves-avec-icloud/",
+          "category": "ia",
+          "published_at": "2026-11-23T15:22:00+00:00",
+          "summary": "Les fonctions les plus avancées d&#8217;Apple Intelligence sont gratuites… jusqu&#8217;à un certain point. Avec les versions 27.3 de ses systèmes d&#8217;exploitation (actuellement en bêta), Apple instaure des limites à l&#8217;usage quotidien que l&#8217;on peut avoir de ces…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7a6b44cdb687",
+          "title": "La carte Avantage de la SNCF tombe en promo dès aujourd’hui pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2382351-la-carte-avantage-de-la-sncf-tombe-en-promo-des-aujourdhui-pour-le-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-23T14:45:08+00:00",
+          "summary": "La carte Avantage de la SNCF est rarement remisée, et c'est justement ce qui rend cette offre intéressante. Trainline la remet en promotion dès aujourd'hui pour le Black Friday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9be74cab8dd5",
+          "title": "Un bug permet de jouer à GTA 6 à 60 fps (mais ne testez pas)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2382573-un-bug-permet-de-jouer-a-gta-6-a-60-fps-mais-ne-testez-pas.html",
+          "category": "ia",
+          "published_at": "2026-11-23T14:39:41+00:00",
+          "summary": "Sur Xbox Series X et Series S, GTA 6 permet une manipulation qui débloque le framerate, au-delà des 30 images par seconde. On a testé, et on ne recommande pas du tout.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee7ecc759b7e",
+          "title": "‘Work it like it’s new’: making the most of catalogue in 2026",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/23/work-it-like-its-new-making-the-most-of-catalogue-in-2026/",
+          "category": "musique",
+          "published_at": "2026-11-23T14:35:17+00:00",
+          "summary": "Streaming has significantly boosted the importance of older ‘catalogue’ music. That much we all know. But the scale can still surprise.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ed125ba2fcfb",
+          "title": "Immense rebondissement : Jensen Huang redevient le patron de Nvidia",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2382845-immense-rebondissement-jensen-huang-redevient-le-patron-de-nvidia.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-23T14:14:35+00:00",
+          "summary": "À la surprise générale, le conseil d'administration de Nvidia a annoncé le 23 novembre réintégrer Jensen Huang comme CEO, président et membre du conseil d'administration. Deux semaines seulement après ses aveux et 11 jours après sa démission, l'emblématique fondateur de Nvidia…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3778f2560aa1",
+          "title": "NVIDIA réinstalle Jensen Huang à son poste de CEO !",
+          "source": "Next INpact",
+          "url": "https://next.ink/269365/nvidia-reinstalle-jensen-huang-a-son-poste-de-ceo/",
+          "category": "justice",
+          "published_at": "2026-11-23T14:09:14+00:00",
+          "summary": "Le conseil d&#8217;administration de NVIDIA a annoncé lundi 23 novembre la réintégration de Jensen Huang à son poste de CEO. La décision a été votée «&#160;à l&#8217;unanimité&#160;». Jensen is back. Le conseil d&#8217;administration de NVIDIA a signalé lundi, trente minutes…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6603a67e0a1d",
+          "title": "AirPods Pro 3 : Amazon brade les meilleurs écouteurs d’Apple pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2382741-airpods-pro-3-amazon-brade-les-meilleurs-ecouteurs-dapple-pour-le-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-23T14:01:57+00:00",
+          "summary": "[Deal du jour] Pour la Black Friday Week et à quelques jours du jour-J, Amazon fait baisser le prix des AirPods Pro 3. Les écouteurs d'Apple, lancés à 249 €, passent à 188 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b5c296e11765",
+          "title": "Impala outlines action it would like to see on streaming fraud",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/23/impala-outlines-action-it-would-like-to-see-on-streaming-fraud/",
+          "category": "musique",
+          "published_at": "2026-11-23T13:30:00+00:00",
+          "summary": "It turns out that last week was International Fraud Awareness Week. Something we were unaware of, which may or may not make us absolute frauds. Happily, indie music body Impala has jogged our memory with some thoughts on what’s needed to tackle music-streaming fraud.\nThe post is…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a89e6475f0f7",
+          "title": "Hypothèse de Riemann : une preuve générée par IA est-elle utile aux mathématiciens ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/",
+          "category": "ia",
+          "published_at": "2026-11-23T13:22:36+00:00",
+          "summary": "Deux mathématiciens ont publié des propositions de preuve d&#8217;une conjecture des plus classiques des mathématiques&#160;: l&#8217;hypothèse de Riemann. L&#8217;un, Alessandro Maria Masullo, sans l&#8217;aide de l&#8217;IA, a mis en ligne un manuscrit de 940 pages expliquant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4ec0338b07f1",
+          "title": "Belgium’s streaming pay right for artists must prevent ‘double payment,’ EU Advocate General says in Spotify and majors case",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/belgiums-streaming-pay-right-for-artists-must-prevent-double-payment-eu-advocate-general-says-in-spotify-and-majors-case/",
+          "category": "musique",
+          "published_at": "2026-11-23T12:56:30+00:00",
+          "summary": "Maciej Szpunar said the right is not, in principle, incompatible with EU law, but that some of its detailed rules breach the freedom to provide services.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2499e7146741",
+          "title": "Nicolás Jaar’s Other People – where artists retain all rights – signs worldwide distribution deal with Secretly",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/nicolas-jaars-other-people-where-artists-retain-all-rights-signs-worldwide-distribution-deal-with-secretly/",
+          "category": "ia",
+          "published_at": "2026-11-23T12:55:29+00:00",
+          "summary": "Secretly Distribution will handle physical and digital distribution, marketing, and technology support for all of the label’s releases and initiatives.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9a16bf1c5e3d",
+          "title": "☕️ CrowdStrike va racheter Zscaler pour 44 milliards de dollars",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/crowdstrike-va-racheter-zscaler-pour-44-milliards-de-dollars/",
+          "category": "ia",
+          "published_at": "2026-11-23T12:43:27+00:00",
+          "summary": "Consolidation en marche dans le secteur de la cybersécurité : l&#8217;américain CrowdStrike vient d&#8217;annoncer son intention d&#8217;acquérir son compatriote et concurrent spécialiste des réseaux, Zscaler. La transaction devrait se faire par échange d&#8217;actions. Elle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c05c0b71dfef",
+          "title": "GTA VI: $3.79bn sales, streaming activations, music-charts impact",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/23/gta-vi-3-79bn-sales-streaming-activations-music-charts-impact/",
+          "category": "musique",
+          "published_at": "2026-11-23T12:30:00+00:00",
+          "summary": "The long wait for Grand Theft Auto VI is finally over for gamers, and its launch last week brought a very-big number from developer Rockstar Games: $3.79bn of day-one retail sales. Rockstar also said that it sold 32.5m units of GTA VI pre-release.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "28f50d622082",
+          "title": "Trophées des classes 2027 - Ensemble, tous protégés sur Internet !",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/trophees-des-classes-2027",
+          "category": "cnil",
+          "published_at": "2026-11-23T12:00:00+00:00",
+          "summary": "Le ministère de l’Éducation nationale et la CNIL organisent le concours Trophées des classes dont la thématique, pour cette édition 2027, est&amp;nbsp;: «&amp;nbsp;Comment je sécurise mes données personnelles en ligne&amp;nbsp;?&amp;nbsp;».",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b6e91cfb80d",
+          "title": "Découvrez les lauréats du concours Trophées des classes 2026 « Comment je protège ma vie privée en ligne ? »",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/trophees-des-classes-2026-laureats",
+          "category": "cnil",
+          "published_at": "2026-11-23T12:00:00+00:00",
+          "summary": "La CNIL et le ministère de l’Éducation nationale dévoilent les classes gagnantes de l’édition 2026 des «&amp;nbsp;Trophées des classes&amp;nbsp;», un concours pour sensibiliser les élèves à leurs droits numériques et à la citoyenneté en ligne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c42bec61d503",
+          "title": "Microsoft fusionne ses gestions de tâches dans Planner, To Do va disparaître",
+          "source": "Next INpact",
+          "url": "https://next.ink/269199/microsoft-fusionne-ses-gestions-de-taches-dans-planner-to-do-va-disparaitre/",
+          "category": "ia",
+          "published_at": "2026-11-23T10:25:16+00:00",
+          "summary": "Microsoft va fusionner To Do avec les plans de base et premium de Planner en un service unique hébergé sur Azure. Les applications To Do seront retirées le 30 juin 2027, sans possibilité de migrer les tâches existantes. Pour les particuliers, c’est une mauvaise nouvelle, car…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a2ee61e7dc6d",
+          "title": "Eminem co-publisher Eight Mile Style adds 108 allegedly infringing AI tracks to $47.7m Suno lawsuit, calling Suno’s denials ‘false’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/eminem-co-publisher-eight-mile-style-adds-108-allegedly-infringing-ai-tracks-to-47-7m-suno-lawsuit-calling-sunos-denials-false/",
+          "category": "ia",
+          "published_at": "2026-11-23T10:19:30+00:00",
+          "summary": "The amended filing now accuses Suno of stealing Eminem's voice and likeness, but it adds no claim over them, and the damages it seeks are unchanged.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a2b13f31ee4",
+          "title": "5 things to know about Suno’s move into AI video, the DistroKid documents, and the fight over v6",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/5-things-to-know-about-sunos-move-into-ai-video-the-distrokid-documents-and-the-fight-over-v6/",
+          "category": "ia",
+          "published_at": "2026-11-23T10:17:38+00:00",
+          "summary": "Suno moved into video this week, while DistroKid handed over AI-detection documents and UMG and Sony fought to keep their second lawsuit moving.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fdbbcfd9b7b0",
+          "title": "SoundCloud cracks down on ‘AI slop, spam, and excessive uploads’ – weeks after striking AI deals with Moises and ElevenLabs",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/soundcloud-cracks-down-on-ai-slop-spam-and-excessive-uploads-weeks-after-striking-ai-deals-with-moises-and-elevenlabs/",
+          "category": "ia",
+          "published_at": "2026-11-23T10:16:46+00:00",
+          "summary": "New terms let SoundCloud withhold, reverse, or recover payouts from users who use AI to game its systems.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "64fbdf5e7c81",
+          "title": "Judge throws out Wixen’s claims over 200-plus pre-1978 songs in copyright lawsuit against Meta, lets rest of case proceed",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-throws-out-wixens-claims-over-200-plus-pre-1978-songs-in-copyright-lawsuit-against-meta-lets-rest-of-case-proceed/",
+          "category": "ia",
+          "published_at": "2026-11-23T10:16:25+00:00",
+          "summary": "The ruling strips more than a third of the 569 songs from the case, though Wixen's remaining infringement claims and its defamation claim survive.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ccaaa9943f86",
+          "title": "TikTok rolls out Likeness Detection deepfake tool globally, launches public AI-content checker",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tiktok-rolls-out-likeness-detection-deepfake-tool-globally-launches-public-ai-content-checker/",
+          "category": "ia",
+          "published_at": "2026-11-23T10:16:01+00:00",
+          "summary": "TikTok says its AI labeling tools have now helped it label more than 5 billion AI-generated videos, up from 3 billion in July.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8e13b1f84083",
+          "title": "ATC Music Group gets into rights management with £15m One Media iP deal",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/23/atc-music-group-gets-into-rights-management-with-15m-one-media-ip-deal/",
+          "category": "musique",
+          "published_at": "2026-11-23T09:45:15+00:00",
+          "summary": "ATC Music Group has made its latest expansion move: into rights management with the £15m acquisition of One Media iP.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bd846f84492d",
+          "title": "Verisign recule sur le .name, OVHcloud garde le .ovh pour son propre usage",
+          "source": "Next INpact",
+          "url": "https://next.ink/269107/verisign-recule-sur-le-name-ovhcloud-garde-le-ovh-pour-son-propre-usage/",
+          "category": "ia",
+          "published_at": "2026-11-23T09:10:19+00:00",
+          "summary": "Pour commencer la semaine, deux nouvelles sur des extensions de premier niveau. Verisign, tout d’abord, fait machine arrière et va laisser les anciens clients utiliser et renouveler leur domaine de troisième niveau en .name. De son côté, OVHcloud nous parle de son extension…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a29a01bd7a77",
+          "title": "Venture Music’s Chris Nardone: “Stop chasing growth and start building gravity’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/23/venture-musics-chris-nardone-stop-chasing-growth-and-start-building-gravity/",
+          "category": "musique",
+          "published_at": "2026-11-23T09:00:39+00:00",
+          "summary": "Streams, followers, playlist adds, views, viral moments: artist teams have never been able to measure so much. But that&#8217;s the problem&#8230;\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "59dc88cf25f4",
+          "title": "☕️ Le CHU de Guadeloupe est paralysé par une cyberattaque",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-chu-de-guadeloupe-est-paralyse-par-une-cyberattaque/",
+          "category": "ia",
+          "published_at": "2026-11-23T08:44:14+00:00",
+          "summary": "Le centre hospitalier universitaire (CHU) de Guadeloupe a activé dimanche 22 novembre son dispositif de gestion de crise, le «&#160;plan blanc&#160;», suite à une cyberattaque survenue la veille, dans la soirée. «&#160;Depuis hier soir, nous sommes victimes d’une cyberattaque de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8b08b10d3ae7",
+          "title": "Making Independents Unstoppable: What Twenty Years Has Taught Us",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/23/making-independents-unstoppable-what-twenty-years-has-taught-us/",
+          "category": "musique",
+          "published_at": "2026-11-23T07:51:00+00:00",
+          "summary": "Twenty years is a long time in music. The way people create, release, discover, and build their careers around music… all of it has evolved in ways we never imagined [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a0ac2e6353c8",
+          "title": "[MàJ] À cause d’un bug, les pilotes AMD et NVIDIA écrivent constamment sur le disque",
+          "source": "Next INpact",
+          "url": "https://next.ink/268322/a-cause-dun-bug-les-pilotes-amd-et-nvidia-ecrivent-constamment-sur-le-disque/",
+          "category": "ia",
+          "published_at": "2026-11-23T07:31:51+00:00",
+          "summary": "Des utilisateurs ont noté des comportements étranges provenant des pilotes graphiques d’AMD et NVIDIA&#160;: des écritures constantes sur le disque, parfois dans de vastes proportions. Pour les SSD, cela peut signifier une usure précoce. Mise à jour du 23 novembre à 8h32 :…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c9ad57f8960",
+          "title": "Près d’un Français sur deux habite à moins de 10 km d’un datacenter",
+          "source": "Next INpact",
+          "url": "https://next.ink/268395/pres-dun-francais-sur-deux-habite-a-moins-de-10-km-dun-datacenter/",
+          "category": "ia",
+          "published_at": "2026-11-23T06:58:00+00:00",
+          "summary": "Les datacenters sont largement implantés en France, avec une moyenne d&#8217;âge de 15 ans selon l&#8217;Arcep. Ces voisins sont de moins en moins discrets, surtout avec l’arrivée de l’IA générative. Savez-vous où se trouve le plus proche de chez vous ? Notre carte permet de le…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "articles": [
