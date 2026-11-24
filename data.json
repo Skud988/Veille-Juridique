@@ -1,9 +1,524 @@
 {
-  "generated_at": "2026-11-23T20:14:05.292626+00:00",
+  "generated_at": "2026-11-24T19:30:14.368404+00:00",
   "days": [
+    {
+      "date": "2026-11-24",
+      "articles": [
+        {
+          "id": "33dcff42dd57",
+          "title": "Will Mariah Carey’s ‘All I Want for Christmas Is You’ Be the First Christmas Song to No. 1 Again This Year?",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/mariah-carey-wham-christmas-number-one-race-1236388804/",
+          "category": "ia",
+          "published_at": "2026-11-24T18:44:33+00:00",
+          "summary": "This week's Five Burning Questions takes a look at the quickly escalating race for this holiday season's first leader on the Billboard Hot 100.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7904e9bb3bf4",
+          "title": "Ella Langley Delivers a CMA Six-Pack for the Record Books",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/country-update-ella-langley-cma-1236388925/",
+          "category": "musique",
+          "published_at": "2026-11-24T18:21:34+00:00",
+          "summary": "In this week's country update lead story, Langley kept breaking records with \"Choosin' Texas\" as she took home the most wins in a single night at the awards show.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4eac96e31d02",
+          "title": "Hip-Hop Up & Comer Errol Holden Quit the Streets Cold Turkey to Become a Rap Star: ‘Whatever It Takes to Get There Is What I’m Gonna Do’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/errol-holden-hip-hop-up-and-comer-the-manhattan-project-1236385794/",
+          "category": "musique",
+          "published_at": "2026-11-24T18:18:46+00:00",
+          "summary": "The Harlem rapper stopped by Billboard to talk about his unique style and The Manhattan Project, his collab album with Roc Marciano.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9011ea2012b1",
+          "title": "Watch Brianna Cameron and Connor Closs Drive the Studio Audience Crazy With a Killer ‘I Will Always Love You’ on ‘The Voice’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/brianna-cameron-connor-closs-i-will-always-love-you-the-voice-1236388832/",
+          "category": "ia",
+          "published_at": "2026-11-24T17:49:13+00:00",
+          "summary": "The Team Kelly and Team Adam singers soared on Monday night's (Nov. 23) Dolly Parton tribute episode.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8958e4be7c14",
+          "title": "U2, ATEEZ, Ella Langley & More: Highlights of This Week’s Billboard Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/u2-ateez-ella-langley-chart-highlights-november-28-2026/",
+          "category": "musique",
+          "published_at": "2026-11-24T17:42:18+00:00",
+          "summary": "All of Billboard’s charts update each Tuesday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6edcdec1d548",
+          "title": "6 bonnes raisons de donner sa chance à Blade Runner 2099, au même niveau que les films ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2383635-6-bonnes-raisons-de-donner-sa-chance-a-blade-runner-2099-au-meme-niveau-que-les-films.html",
+          "category": "ia",
+          "published_at": "2026-11-24T17:15:00+00:00",
+          "summary": "Chef-d’œuvre SF des années 80, Blade Runner et son univers dystopique se déclinent dans une mini-série élégante. Portée par Michelle Yeoh et Hunter Schafer, Blade Runner 2099 débarque le 25 novembre sur Prime Video. Voici six bonnes raisons de ne pas la rater.&nbsp;",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7b6e30bd100f",
+          "title": "Black Friday : les offres inratables chez Amazon, Fnac, Boulanger à J-3 du grand jour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-11-24T17:03:16+00:00",
+          "summary": "Les centres de données de l'IA ont englouti une bonne partie de la mémoire produite sur la planète, et la note a fini par atterrir dans nos rayons : smartphones, PC et même les consoles ont pris des euros cette année. À trois jours du Black Friday, nous fouillons les catalogues…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "34889d90c2cc",
+          "title": "Quelle était la grande promesse cyber du mois dernier ? Cyberguerre lance sa newsletter pour voir ce qu’il en reste",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2384009-quelle-etait-la-grande-promesse-cyber-du-mois-dernier-cyberguerre-lance-sa-newsletter-pour-voir-ce-quil-en-reste.html",
+          "category": "ia",
+          "published_at": "2026-11-24T17:02:44+00:00",
+          "summary": "Depuis dix ans, Numerama promet de « comprendre le présent pour anticiper l'avenir ». Sa rubrique Cyberguerre lance une newsletter qui prend le chemin inverse, avec pour devise « Regarder en arrière pour mieux analyser le présent ». Elle paraîtra tous les quinze jours à partir…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "171ae1e0d219",
+          "title": "GTA 6 : Rockstar a caché un très gros secret qui vient d’être découvert par les joueurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2383323-gta-6-rockstar-a-cache-un-portail-secret-qui-plaira-aux-fans-des-vieux-gta.html",
+          "category": "ia",
+          "published_at": "2026-11-24T16:45:00+00:00",
+          "summary": "Cinq jours seulement après sa sortie,&nbsp;GTA 6 n’a pas fini de révéler ce qu’il cache sous le capot. Au milieu des clins d’œil disséminés dans Vice City,&nbsp;un youtubeur australien vient de mettre la main sur un easter egg d’une tout autre ampleur :&nbsp;un portail secret…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02b5d9956b53",
+          "title": "GTA VI démarre sur PC avant même l’annonce d’un portage officiel",
+          "source": "Next INpact",
+          "url": "https://next.ink/269712/gta-vi-demarre-sur-pc-avant-meme-lannonce-dun-portage-officiel/",
+          "category": "musique",
+          "published_at": "2026-11-24T16:42:58+00:00",
+          "summary": "GTA VI sur les consoles fait saliver d&#8217;envie tous les joueurs PC. Rockstar n&#8217;a encore rien annoncé sur cette version, mais le studio serait bien avisé de ne pas trop traîner : il est d&#8217;ores et déjà possible de démarrer le jeu sur un PC grâce à une build pirate…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "90d3404fd33e",
+          "title": "☕️ Avec Claude Ship, Anthropic s’attaque à la correction automatique des pull requests",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/avec-claude-ship-anthropic-sattaque-a-la-correction-automatique-des-pull-requests/",
+          "category": "institutionnel",
+          "published_at": "2026-11-24T16:21:00+00:00",
+          "summary": "Anthropic a annoncé ce 23 novembre un nouvel outil dans sa flotte de services Claude : Ship. Il est chargé de prendre en charge ce qui se passe après l&#8217;ouverture d&#8217;une demande de fusion (pull request) sur GitHub. Sa mission est de relire le code, corriger les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "314fe98fee02",
+          "title": "Tidal bans fully AI-generated music from its platform",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/tidal-bans-fully-ai-generated-music-from-its-platform/",
+          "category": "musique",
+          "published_at": "2026-11-24T16:09:43+00:00",
+          "summary": "Streaming service says it will reject and remove \"any wholly AI-generated track that's submitted to Tidal,\" starting on December 9.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dbbafbe832c3",
+          "title": "La Virginie et l’Oregon attaquent SpaceXSI pour la génération de contenus pédocriminels",
+          "source": "Next INpact",
+          "url": "https://next.ink/269655/la-virginie-et-loregon-attaquent-spacexsi-pour-la-generation-de-contenus-pedocriminels/",
+          "category": "ia",
+          "published_at": "2026-11-24T16:03:00+00:00",
+          "summary": "Les deux États américains ont réagi face à la vague de génération de contenus pédocriminels qui a déferlé sur X via Grok en portant plainte contre SpaceXSI ce lundi 23 novembre. Dans sa plainte, le procureur général de l&#8217;État de Virginie affirme que Grok est toujours…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "71cbf6d3129e",
+          "title": "Cet accessoire PlayStation vous permet de jouer à GTA 6 sans PS5 et il tombe en promo pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2383905-cet-accessoire-playstation-vous-permet-de-jouer-a-gta-6-sans-ps5-et-il-tombe-en-promo-pour-le-black-friday.html",
+          "category": "justice",
+          "published_at": "2026-11-24T15:43:57+00:00",
+          "summary": "[Deal du jour] Depuis lundi, GTA 6 se joue en streaming cloud sur le PlayStation Portal, sans PS5 à la maison. Ça tombe bien : l'accessoire de Sony profite d'une petite remise chez Cdiscount pour le Black Friday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a3efa830b1e0",
+          "title": "☕️ Quad9 confirme la désactivation de son service en France aujourd’hui",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/quad9-confirme-la-desactivation-de-son-service-en-france-aujourdhui/",
+          "category": "justice",
+          "published_at": "2026-11-24T15:39:18+00:00",
+          "summary": "« Aujourd’hui, 24 novembre 2026, Quad9 désactivera ses services pour les utilisateurs français. Toute requête adressée à l’une des adresses de service de Quad9 sera donc refusée, et aucune résolution DNS n’aboutira », explique l&#8217;entreprise dans son communiqué.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a97bc53800f",
+          "title": "GTA 6 : grâce à la radio de Vice City, Sylvie Vartan voit ses écoutes Spotify exploser de 2 500 %",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2383783-gta-6-grace-a-la-radio-de-vice-city-sylvie-vartan-voit-ses-ecoutes-spotify-exploser-de-2-500.html",
+          "category": "musique",
+          "published_at": "2026-11-24T15:37:55+00:00",
+          "summary": "Plus de 40 ans après sa sortie, Danse ta vie de Sylvie Vartan connaît un retour inattendu. Depuis son arrivée improbable dans la bande-son de GTA 6, le morceau a vu ses écoutes bondir de plus de 2 500 % sur Spotify. Comme quoi, le jeu de la décennie a également le pouvoir de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58c992c91edc",
+          "title": "Dutch collecting society BumaStemra threatens legal action against AI background music supplier YourNeuroTune, alleging it uses Suno",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/dutch-collecting-society-bumastemra-threatens-legal-action-against-ai-background-music-supplier-yourneurotune-alleging-it-uses-suno/",
+          "category": "musique",
+          "published_at": "2026-11-24T15:33:04+00:00",
+          "summary": "YourNeuroTune is based in the Netherlands, and markets its catalog to gyms, hospitality venues, and retailers\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "938f6188dbcc",
+          "title": "[Tuto] Quad9 quitte la France, comment installer et utiliser son propre résolveur DNS",
+          "source": "Next INpact",
+          "url": "https://next.ink/260020/tuto-installer-facilement-son-propre-resolveur-dns-sur-raspberry-pi-vm-freebox-vps/",
+          "category": "ia",
+          "published_at": "2026-11-24T15:25:27+00:00",
+          "summary": "Vous n’avez plus envie de dépendre d’un résolveur DNS externe, que ce soit celui de votre FAI ou d’un géant du numérique&#160;? Alors Next vous propose un petit tuto avec unbound. Quelques lignes suffisent pour le mettre en place et le configurer sur un Raspberry Pi, une VM de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f3c1f5a92184",
+          "title": "Bientôt des BYD « made in France » ? Le géant chinois veut racheter l’usine des 4×4 Ineos",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2383677-bientot-des-byd-made-in-france-le-geant-chinois-veut-racheter-lusine-des-4x4-ineos.html",
+          "category": "ia",
+          "published_at": "2026-11-24T15:21:16+00:00",
+          "summary": "BYD a confirmé être entré en négociations exclusives avec Ineos Automotive pour racheter son usine de Hambach, en Moselle. Inauguré en 1997 pour fabriquer la Smart, le site assemble aujourd'hui moins de 10 000 véhicules par an.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48726c0d7eed",
+          "title": "Streaming service Tidal is banning fully-AI-generated music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/24/tidal-banning-ai-music/",
+          "category": "musique",
+          "published_at": "2026-11-24T15:09:56+00:00",
+          "summary": "Every music service is currently feeling the pressure to set out clear policies for how they treat AI music. Tidal&#8217;s approach: a ban.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "61e96e831e35",
+          "title": "La fusée Ariane 6 livre enfin les 36 satellites d’Amazon : voici les plus belles images du décollage",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2383831-la-fusee-ariane-6-livre-enfin-les-36-satellites-damazon-voici-les-plus-belles-images-du-decollage.html",
+          "category": "ia",
+          "published_at": "2026-11-24T15:05:08+00:00",
+          "summary": "Ariane 6 a décollé de Kourou ce mardi 24 novembre 2026 à 8h14, heure locale, avec 36 satellites Amazon Leo à bord. Le tir est parti à la dernière minute de la fenêtre de lancement, au lendemain d'un report.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "adb33d00dc72",
+          "title": "Un coup de pouce à 1 670 km/h : le secret de la Guyane française pour envoyer des fusées en orbite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2085685-un-coup-de-pouce-a-1-670-km-h-le-secret-de-la-guyane-francaise-pour-envoyer-des-fusees-en-orbite.html",
+          "category": "ia",
+          "published_at": "2026-11-24T14:40:28+00:00",
+          "summary": "La Guyane française est depuis les années 1960 la principale base spatiale de la France et de l'Europe. Un emplacement lointain par rapport au Vieux Continent, mais qui ne doit rien au hasard. Plusieurs atouts de la région ont pesé dans la balance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5313b28400a1",
+          "title": "Ariane 6 capable d’envoyer des astronautes européens d’ici 2036 : le plan existe, et la décision est pour bientôt",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2382731-ariane-6-capable-denvoyer-des-astronautes-europeens-dici-2036-le-plan-existe-et-la-decision-est-pour-bientot.html",
+          "category": "justice",
+          "published_at": "2026-11-24T14:24:05+00:00",
+          "summary": "Des astronautes européens au sommet d'une Ariane 6 vers 2036 ? Interrogé pendant la campagne du vol VA271, le directeur du programme Ariane de l'ESA renvoie la décision aux ministres, qui seront réunis à Rome le 15 décembre 2026.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e1ecd5537d27",
+          "title": "☕️ Le lancement de tous les records pour GTA VI",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-lancement-de-tous-les-records-pour-gta-vi/",
+          "category": "ia",
+          "published_at": "2026-11-24T14:21:48+00:00",
+          "summary": "Il va être compliqué d&#8217;aller chercher GTA VI, qui fait tomber les records depuis son lancement jeudi 19 novembre. Le lendemain, l&#8217;éditeur Take-Two annonçait ainsi que le jeu avait enregistré 32,5 millions de précommandes, du jamais-vu, tout comme les ventes au détail…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a168a9fac158",
+          "title": "Auchan, Leclerc, Lidl : pourquoi ces pommes de terre sont devenues naturellement toxiques",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2383753-auchan-leclerc-lidl-pourquoi-ces-pommes-de-terre-sont-devenues-naturellement-toxiques.html",
+          "category": "ia",
+          "published_at": "2026-11-24T14:21:40+00:00",
+          "summary": "Des pommes de terre rouges vendues dans toute la France chez Auchan, E.Leclerc et Lidl sont rappelées depuis le samedi 21 novembre 2026, à cause d'une teneur trop élevée en glycoalcaloïdes. Ce n'est pas un perticide. Ces substances toxiques sont en fait fabriquées par la pomme…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7f63620418a",
+          "title": "L’iPhone 17 Pro Max est aujourd’hui à un prix rarement vu pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2212189-liphone-17-pro-max-est-aujourdhui-a-un-prix-rarement-vu-pour-le-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-24T13:54:17+00:00",
+          "summary": "[Deal du jour] Le modèle Pro Max de l'iPhone 17 bénéficie en ce moment pour le Black Friday d'une belle baisse de prix. Le smartphone haut de gamme d'Apple est à moins de 1 200 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e7e3d14dd82",
+          "title": "Judge denies Designer Shoe Warehouse bid to dismiss Warner Music’s social media copyright lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/judge-denies-designer-shoe-warehouse-bid-to-dismiss-warner-musics-social-media-copyright-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-11-24T13:37:11+00:00",
+          "summary": "Warner's labels and publishers sued DSW on May 1, 2025\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54a8637922d5",
+          "title": "Ils ont plié l’iPhone Duo 634 000 fois en un mois, voici son état",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2383601-ils-ont-plie-liphone-duo-634-000-fois-en-un-mois-voici-son-etat.html",
+          "category": "ia",
+          "published_at": "2026-11-24T13:35:46+00:00",
+          "summary": "Pendant un mois, une machine a ouvert et refermé un iPhone Duo sans jamais s'arrêter. 634 000 pliages plus tard, voici ce qu'il reste du smartphone d'Apple.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2a13463f98f1",
+          "title": "Grand Theft Auto VI album gets ‘deluxe edition’ three days after release",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/24/grand-theft-auto-vi-album-gets-deluxe-edition-three-days-after-release/",
+          "category": "musique",
+          "published_at": "2026-11-24T13:30:00+00:00",
+          "summary": "The phenomenon of ‘deluxe’ editions of albums that come out a year or so after their release with extra tracks is well-established now. Here’s a sharp acceleration of that strategy though.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "796f7f7657ea",
+          "title": "Even Studio adds a ‘Day & Date Vinyl’ service for artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/24/even-studio-adds-a-day-date-vinyl-service-for-artists/",
+          "category": "musique",
+          "published_at": "2026-11-24T13:30:00+00:00",
+          "summary": "We wrote about D2C firm Even’s expansion in September with its white-label ‘Even Studio’ service. It enabled artists to use its tools on their own-brand domains for album pre-orders, merch drops and tour announcements.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a5596345403c",
+          "title": "Macy Gray is premiering her new album inside a micro-drama",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/24/macy-gray-is-premiering-her-new-album-inside-a-micro-drama/",
+          "category": "musique",
+          "published_at": "2026-11-24T13:30:00+00:00",
+          "summary": "Thrown Barefoot Into a Blizzard at Three, I Thawed the Winter King. My Cursed Merman Husband Rules the Deep. I’m a Witch, But I Just Want to Farm. My Alpha Boss Gave Me Triplets. And most importantly, My ‘Son’ is Your Baby Daddy!? But He’s Just a Dog!\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f9914bd9479",
+          "title": "Meta’s Muse AI agent crosses the Atlantic for its UK launch",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/24/metas-muse-ai-agent-crosses-the-atlantic-for-its-uk-launch/",
+          "category": "musique",
+          "published_at": "2026-11-24T13:30:00+00:00",
+          "summary": "Meta launched its Muse ‘personal AI agent’ in September, but it was only available in the US. Now it has launched in the UK, widening the access to a tool that CEO Mark Zuckerberg hopes will eventually be used by “billions of people”.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cdc215d2606e",
+          "title": "FTC and seven states ask court to throw out 10 of Live Nation and Ticketmaster’s defenses in BOTS Act lawsuit",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/ftc-and-seven-states-ask-court-to-throw-out-10-of-live-nation-and-ticketmasters-defenses-in-bots-act-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-11-24T12:35:04+00:00",
+          "summary": "The motion says Live Nation and Ticketmaster can't argue the BOTS Act is too vague after calling its language \"clear\" earlier in the case.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "812556bef7db",
+          "title": "Universal Music defeats Tuff City Records’ appeal over alleged sample in Mary J. Blige’s ‘Real Love’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-music-defeats-tuff-city-records-appeal-over-alleged-sample-in-mary-j-bliges-real-love/",
+          "category": "musique",
+          "published_at": "2026-11-24T12:33:42+00:00",
+          "summary": "The appeals court found the songs differ in lyrics, melody, genre, subject matter, and overall sound, leaving Judge Dale Ho's 2025 dismissal in place.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "afeea3c510a0",
+          "title": "Acteurs du secteur de la livraison : comment définir les responsabilités au regard du RGPD ?",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/acteurs-secteur-livraison-responsabilites",
+          "category": "cnil",
+          "published_at": "2026-11-24T12:00:00+00:00",
+          "summary": "Dans le cadre de leurs activités, les professionnels de la livraison sont amenés à traiter des données personnelles. Dans la plupart des cas, la CNIL considère que le transporteur est responsable de traitement, mais ce n’est pas systématique. Comment clarifier les rôles de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cd095d2f76ee",
+          "title": "As The MLC hits $4.4B in royalties paid to songwriters and publishers, CEO Kris Ahrend sets out its priorities for the next five years",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/as-the-mlc-hits-4-4b-in-royalties-paid-to-songwriters-and-publishers-ceo-kris-ahrend-sets-out-its-priorities-for-the-next-five-years/",
+          "category": "musique",
+          "published_at": "2026-11-24T11:56:22+00:00",
+          "summary": "Mechanical Licensing Collective CEO Kris Ahrend talks milestones, market share payouts, AI-generated music, Phonorecords V, and more\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11252fcdd47d",
+          "title": "Panne Microsoft : plus précis, le rapport final nie toute cyberattaque ou usage de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/269535/panne-microsoft-plus-precis-le-rapport-final-nie-toute-cyberattaque-ou-usage-de-lia/",
+          "category": "ia",
+          "published_at": "2026-11-24T10:55:24+00:00",
+          "summary": "Même si Microsoft a publié un rapport préliminaire le 15 novembre, la version définitive pousse plus loin dans les détails et répond à plusieurs éléments laissés en suspens, en particulier l’absence apparente de cloisonnement entre les régions. Comme l’indique Microsoft, tout a…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5ae0b34b741f",
+          "title": "On a testé Free Traduction Live : des appels traduits en direct dans 10 langues",
+          "source": "Next INpact",
+          "url": "https://next.ink/269559/on-a-teste-free-traduction-live-des-appels-traduits-en-direct-dans-10-langues/",
+          "category": "musique",
+          "published_at": "2026-11-24T10:17:19+00:00",
+          "summary": "Traduire automatiquement ses conversations téléphoniques, c’est déjà possible. Free Mobile saute le pas pour ses clients d’un forfait Max, avec un service conçu, développé et opéré en interne. Nous l’avons rapidement pris en main ; le résultat est intéressant. Free vient…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cca88f638255",
+          "title": "Associations et experts exhortent Amazon et eBay à retirer les jouets dotés de chatbots IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/269533/associations-et-experts-exhortent-amazon-et-ebay-a-retirer-les-jouets-dotes-de-chatbots-ia/",
+          "category": "ia",
+          "published_at": "2026-11-24T09:40:00+00:00",
+          "summary": "Une coalition d&#8217;associations et d&#8217;experts appelle Amazon et eBay à retirer de leurs étals virtuels les jouets pour enfants intégrant des mécaniques de conversation avec un chatbot IA, au nom du principe de précaution. Ils dénoncent la prolifération de jouets bon…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0c6ed574b30",
+          "title": "Charlie Puth, Ellie Goulding to stage debut India shows at Johnnie & Co. festival",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/24/charlie-puth-ellie-goulding-to-stage-debut-india-shows-at-johnnie-co-festival/",
+          "category": "musique",
+          "published_at": "2026-11-24T09:35:05+00:00",
+          "summary": "Johnnie Walker has announced the launch of Johnnie &#38; Co., its “flagship IP” for India that will bring together “live experiences and creative collaborations&#8221;. Johnnie &#38; Co. will be “anchored” [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "dc4b16bdd435",
+          "title": "[Màj] Hypothèse de Riemann : le chercheur d’Anthropic reconnaît une « blague »",
+          "source": "Next INpact",
+          "url": "https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/",
+          "category": "ia",
+          "published_at": "2026-11-24T09:04:45+00:00",
+          "summary": "Deux mathématiciens ont publié des propositions de preuve d&#8217;une conjecture des plus classiques des mathématiques&#160;: l&#8217;hypothèse de Riemann. L&#8217;un, Alessandro Maria Masullo, sans l&#8217;aide de l&#8217;IA, a mis en ligne un manuscrit de 940 pages expliquant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6a1d57fb03cf",
+          "title": "Avec Olala, OVH vise un « Mythos européen » et un modèle à 3 000 milliards de paramètres",
+          "source": "Next INpact",
+          "url": "https://next.ink/269175/avec-olala-ovh-vise-un-mythos-europeen-et-un-modele-a-3-000-milliards-de-parametres/",
+          "category": "ia",
+          "published_at": "2026-11-24T08:09:00+00:00",
+          "summary": "Dans la première partie de notre dossier sur Olala, le modèle « souverain » d’OVHai LLM, nous avons détaillé son architecture, son entrainement, ses galères… Dans cette seconde partie, nous parlons de la suite des événements. Octave Klaba a de grandes ambitions pour Olala,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5b4637ef2f99",
+          "title": "GLM-5.4 avec Loop Transformer : Z.ai propose un modèle pour le code plus généraliste",
+          "source": "Next INpact",
+          "url": "https://next.ink/269432/glm-5-4-avec-loop-transformer-z-ai-propose-un-modele-pour-le-code-plus-generaliste/",
+          "category": "ia",
+          "published_at": "2026-11-24T07:45:00+00:00",
+          "summary": "Après avoir titillé les plates-bandes de Mythos du côté de la cybersécurité avec son modèle GLM-5.2, l&#8217;entreprise chinoise Z.ai propose un nouveau modèle, GLM-5.4, annoncé comme étant plus généraliste concernant le code. Fin juin, Z.ai sortait GLM-5.2 sous l&#8217;angle…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2480d83908b2",
+          "title": "SpaceX gagne plus en louant ses GPU à Anthropic qu’avec Grok, « incapable de rivaliser »",
+          "source": "Next INpact",
+          "url": "https://next.ink/269521/spacex-gagne-plus-en-louant-ses-gpu-a-anthropic-quavec-grok-incapable-de-rivaliser/",
+          "category": "ia",
+          "published_at": "2026-11-24T07:20:00+00:00",
+          "summary": "L&#8217;IA développée par xAI, devenue SpaceXAI puis maintenant SpaceXSI, n&#8217;est toujours pas en mesure de concurrencer sérieusement les modèles d&#8217;OpenAI et d&#8217;Anthropic. À tel point que la filiale de SpaceX spécialisée dans l&#8217;IA générative gagne davantage…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3f4610093a09",
+          "title": "We’ve all heard about a KYC process in the fight against fraud, but EYC – Educate Your Customer – is just as important",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/24/weve-all-heard-about-a-kyc-process-in-the-fight-against-fraud-but-eyc-educate-your-customer-is-just-as-important/",
+          "category": "musique",
+          "published_at": "2026-11-24T07:08:00+00:00",
+          "summary": "Fraudulent activity has become one of the most pressing issues in music. It now sits high on the agenda for almost every music organisation, alongside AI, and the two are [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cca17cd58f6f",
+          "title": "Malgré le DMA, WebKit reste le seul moteur des rivaux de Safari en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/269516/malgre-le-dma-webkit-reste-le-seul-moteur-des-rivaux-de-safari-en-europe/",
+          "category": "ia",
+          "published_at": "2026-11-24T06:44:45+00:00",
+          "summary": "S&#8217;il est possible de changer de navigateur web par défaut sur un iPhone ou un iPad, les rivaux de Safari doivent toujours composer avec WebKit d&#8217;Apple alors que le règlement sur les marchés numériques rend possible l&#8217;utilisation d&#8217;un autre moteur web.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "130a32157919",
+          "title": "☕️ Xavier Niel reprend 60 Millions de consommateurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/xavier-niel-reprend-60-millions-de-consommateurs/",
+          "category": "ia",
+          "published_at": "2026-11-24T06:02:00+00:00",
+          "summary": "Xavier Niel va bel et bien reprendre le magazine 60 Millions de consommateurs, sept mois après la liquidation de l&#8217;INC (Institut national de la consommation), l&#8217;organisme public qui publiait le mensuel. Trois propositions étaient sur la table, dont celle de NJJ…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "articles": [
+        {
+          "id": "1e48ff87eb0a",
+          "title": "$1B from YouTube, record revenues, reduced headcount, and WMG selling assets to its Bain JV: What I learned from Warner Music Group’s annual report",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/1b-from-youtube-record-revenues-smaller-headcount-and-wmg-selling-assets-to-its-bain-jv-what-i-learned-from-warner-music-groups-fy-filings/",
+          "category": "musique",
+          "published_at": "2026-11-23T22:12:07+00:00",
+          "summary": "The latest 'Tim's Take' from Music Business Worldwide founder, Tim Ingham.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ffc8758ff708",
+          "title": "Cinq Music Group signs multi-year deal with TikTok, bringing around 600 songs to the platform’s Commercial Music Library",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/cinq-music-group-signs-multi-year-deal-with-tiktok-bringing-around-600-songs-to-the-platforms-commercial-music-library/",
+          "category": "musique",
+          "published_at": "2026-11-23T22:02:05+00:00",
+          "summary": "The GoDigital Music company says more music is on the way, including releases from its Nashville country imprint Orinda.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1dee4420405a",
+          "title": "ATC Music Group to acquire the UK’s One Media iP for $20M, secures conditional facility of up to $133M from Corrum Capital to buy more music rights",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/atc-music-group-to-acquire-the-uks-one-media-ip-for-20m-secures-conditional-facility-of-up-to-133m-from-corrum-capital-to-buy-more-music-rights/",
+          "category": "musique",
+          "published_at": "2026-11-23T21:39:33+00:00",
+          "summary": "Acquired business to be rebranded as ATC Rights; former Round Hill Music Global COO Steve Clark joining as its Managing Director\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e96c99b4b1d",
+          "title": "Super-premium tiers accounted for two-thirds of China’s net music subscriber additions last year, says Universal Music Group",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/super-premium-tiers-accounted-for-two-thirds-of-chinas-net-music-subscriber-additions-last-year-says-universal-music-group/",
+          "category": "musique",
+          "published_at": "2026-11-23T21:39:10+00:00",
+          "summary": "UMG's Michael Nash also says adoption of Tencent Music's Super VIP tier is now \"approaching or surpassing\" 20%.\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "e40b810b48b1",
           "title": "Karol G’s ‘BbY WOW’ Leads Billboard Global Charts, ‘Christmas’ Carols Climb",
@@ -332,6 +847,16 @@
           "category": "cnil",
           "published_at": "2026-11-23T12:00:00+00:00",
           "summary": "La CNIL et le ministère de l’Éducation nationale dévoilent les classes gagnantes de l’édition 2026 des «&amp;nbsp;Trophées des classes&amp;nbsp;», un concours pour sensibiliser les élèves à leurs droits numériques et à la citoyenneté en ligne.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52cd14ed1ff2",
+          "title": "Contrôles de la CNIL : une charte pour tout comprendre",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/controles-de-la-cnil-une-charte-pour-tout-comprendre",
+          "category": "cnil",
+          "published_at": "2026-11-23T12:00:00+00:00",
+          "summary": "La CNIL peut effectuer des contrôles auprès de l’ensemble des organismes qui traitent des données personnelles. Afin d’assurer une plus grande transparence sur cette activité et favoriser le bon déroulement des investigations, la CNIL présente une charte des contrôles.",
           "summary_type": "extrait source"
         },
         {
