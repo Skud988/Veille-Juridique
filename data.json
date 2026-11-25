@@ -1,6 +1,541 @@
 {
-  "generated_at": "2026-11-24T19:30:14.368404+00:00",
+  "generated_at": "2026-11-25T18:39:07.459322+00:00",
   "days": [
+    {
+      "date": "2026-11-25",
+      "articles": [
+        {
+          "id": "c18af49584fa",
+          "title": "Jay Wheeler Reveals How He’s Building a Legacy Beyond Music | Billboard Presents",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/video/jay-wheeler-reveals-how-hes-building-legacy-beyond-music/",
+          "category": "musique",
+          "published_at": "2026-11-25T18:37:42+00:00",
+          "summary": "This is partner content. Leila Cobo, Billboard&#8216;s co-chief content officer, joins Jay Wheeler at some of the most meaningful places in his life in Miami, presented by Lexus. The artist talks about the faith and family that inspire him, his beginnings and his journey to…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "770cc1c30247",
+          "title": "Randy Rainbow Dissects the Midterm Blue Wave, Decimates Trump’s Second Term On ‘He’s a Flop!’: ‘He’s the Schmo Most Hated’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/randy-rainbow-diss-trump-second-term-hes-a-flop-parody-listen-1236389571/",
+          "category": "ia",
+          "published_at": "2026-11-25T18:21:28+00:00",
+          "summary": "The singer's latest parody tune hits a ragtime mood as Rainbow ticks off all of The Donald's many low points over the past two years.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "52f08e39c678",
+          "title": "Drake Shot Future’s ‘Ya Hit’ Video Scenes at Moody Center Without Permission, Rice University Says",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rb-hip-hop/drake-ya-hit-video-film-rice-university-without-permission-1236389498/",
+          "category": "institutionnel",
+          "published_at": "2026-11-25T18:11:35+00:00",
+          "summary": "The college still welcomes the 6 God back to campus for another visit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eeed836846e6",
+          "title": "The Chicks join Jason Isbell’s class action against Suno, as amended complaint adds 16 plaintiffs and targets v6",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/the-chicks-join-jason-isbells-class-action-against-suno-as-amended-complaint-adds-16-plaintiffs-and-targets-v6/",
+          "category": "ia",
+          "published_at": "2026-11-25T17:59:34+00:00",
+          "summary": "Isbell filed the original suit on August 31 alongside David Lowery, Guy Forsyth, and Eduardo Calle\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e45aa19af607",
+          "title": "Watch Justin Timberlake & Jimmy Fallon Do the ‘Cha Cha Slide’ in Thanksgiving Special Sneak Peek",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/justin-timberlake-jimmy-fallon-cha-cha-slide-thanksgiving-1236389549/",
+          "category": "ia",
+          "published_at": "2026-11-25T17:56:30+00:00",
+          "summary": "It's a celebration!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee1b3db76394",
+          "title": "C’est quoi cette explosion qui panique les USA et les réseaux sociaux ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2384153-usa-cest-quoi-cette-explosion-qui-panique-liowa-et-les-reseaux-sociaux.html",
+          "category": "ia",
+          "published_at": "2026-11-25T17:50:00+00:00",
+          "summary": "À la veille de Thanksgiving,&nbsp;l’armée américaine va faire sauter 5 tonnes d’explosifs instables dans l’Iowa malgré les recours en justice et la crainte d’un nuage toxique chargé de plomb.&nbsp;Une opération à haut risque, qui a fait paniquer l'Iowa et les États voisins.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7d3ca7e566fb",
+          "title": "Pourquoi le premier jour rouge Tempo d’EDF tombe si tôt cette année, dès le 26 novembre ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2384971-pourquoi-le-premier-jour-rouge-tempo-dedf-tombe-si-tot-cette-annee-des-le-26-novembre.html",
+          "category": "ia",
+          "published_at": "2026-11-25T17:32:50+00:00",
+          "summary": "Ce jeudi 26 novembre 2026 sera le premier jour rouge Tempo de l'hiver, avec un kWh à 0,7295 € entre 6 heures et 22 heures. RTE n'en avait jamais placé un aussi tôt depuis qu'il choisit les couleurs, en 2014.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc42013f4110",
+          "title": "Travis Kelce Celebrates 100th Game at Arrowhead Stadium With Taylor Swift-Coded Comment: ‘It’s Pretty Awesome’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/lifestyle/travis-kelce-celebrates-100th-game-arrowhead-taylor-swift-1236389514/",
+          "category": "ia",
+          "published_at": "2026-11-25T17:23:19+00:00",
+          "summary": "The Chiefs tight end paid tribute to his professional home of 14 years while also shouting out Swift's Eras Tour show at his home stadium.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e133a7cb2d24",
+          "title": "GTA 6 fait flamber les ventes de PS5 d’occasion, et les escrocs de Vinted en profitent",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2384719-gta-6-fait-flamber-les-ventes-de-ps5-doccasion-et-les-escrocs-de-vinted-en-profitent.html",
+          "category": "ia",
+          "published_at": "2026-11-25T17:16:06+00:00",
+          "summary": "Alors que la sortie de GTA 6, le jeudi 19 novembre 2026, provoque une ruée sur les consoles et vide les rayons de PS5, les escrocs sautent sur l’occasion. Depuis quelques jours, une vieille arnaque particulièrement sournoise se propage sur Vinted.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0fe29273a19d",
+          "title": "Inside Harry Styles’ MSG Residency and Why Fans Want Experiential Concerts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/billboard-on-the-record-josephine-vaccarello/",
+          "category": "musique",
+          "published_at": "2026-11-25T17:03:31+00:00",
+          "summary": "In the latest episode of Billboard On the Record, MSG Entertainment's Josephine Vaccarello discusses booking Sphere, VIP spending and why Styles' residency was a hit.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d4d01e930ac",
+          "title": "Ariana Grande Says ‘Insane’ Backlash to ‘Petal’ Music Video Felt Like ‘Black Mirror’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/music-news/ariana-grande-petal-music-video-backlash-black-mirror-1236389456/",
+          "category": "ia",
+          "published_at": "2026-11-25T17:01:36+00:00",
+          "summary": "\"I'd put it out again today,\" she said of the visual. \"I wouldn't change a thing.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f60ac30f91a2",
+          "title": "2027 ACM Awards Changes Include New Criteria for New Artist Categories & Song of the Year",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/awards/2027-acm-awards-new-criteria-new-artist-song-1236389300/",
+          "category": "ia",
+          "published_at": "2026-11-25T17:00:00+00:00",
+          "summary": "Also, see the new category that has been added.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "226e3bd7a403",
+          "title": "Rock The Country Fest Organizer Peachtree Entertainment Reportedly Shuts Down",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/pro/rock-the-country-peachtree-entertainment-shuts-down/",
+          "category": "ia",
+          "published_at": "2026-11-25T16:57:24+00:00",
+          "summary": "Peachtree Entertainment has shuttered and laid off staff, according to reports.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f0eaf32ddf11",
+          "title": "Dernière ligne droite pour La Presse Libre à 4 euros en plus de votre abo Next",
+          "source": "Next INpact",
+          "url": "https://next.ink/270008/derniere-ligne-droite-pour-la-presse-libre-a-4-euros-en-plus-de-votre-abo-next/",
+          "category": "ia",
+          "published_at": "2026-11-25T16:39:00+00:00",
+          "summary": "Pour fêter l&#8217;arrivée de son nouveau site et de trois nouveaux médias indépendants, La Presse Libre vous propose jusqu&#8217;à vendredi de profiter de l&#8217;ensemble de son bouquet pour seulement 4 euros en complément de votre abonnement à Next. À l&#8217;heure où le web…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "17621559af03",
+          "title": "Musixmatch launches enhanced Pro for Artists platform, adding fan engagement analytics and lyric merch sales with ‘optional AI licensing coming soon’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/musixmatch-launches-enhanced-pro-for-artists-platform-adding-fan-engagement-analytics-and-lyric-merch-sales-with-optional-ai-licensing-coming-soon/",
+          "category": "ia",
+          "published_at": "2026-11-25T16:22:45+00:00",
+          "summary": "Musixmatch has launched a new version of its Musixmatch Pro for Artists platform.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c52a4fc94d8",
+          "title": "Huawei : HarmonyOS dépasse les 100 millions d’appareils et devance iOS en Chine",
+          "source": "Next INpact",
+          "url": "https://next.ink/270049/huawei-harmonyos-depasse-les-100-millions-dappareils-et-devance-ios-en-chine/",
+          "category": "ia",
+          "published_at": "2026-11-25T16:21:00+00:00",
+          "summary": "Huawei revendique plus de 100 millions d’appareils sous HarmonyOS 5, 6 ou 7. Le système devance iOS dans les ventes de smartphones en Chine, et le constructeur veut le déployer plus largement à l’international. Hasard malheureux du calendrier, le jour même de cette annonce, un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bfdf39003a10",
+          "title": "Black Friday : AirPods Pro 3, MacBook Air M5, AirTag 2… les offres Apple qui valent le coup avant Noël",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2384687-black-friday-airpods-pro-3-macbook-air-m5-airtag-2-les-offres-apple-qui-valent-le-coup-avant-noel.html",
+          "category": "ia",
+          "published_at": "2026-11-25T16:06:45+00:00",
+          "summary": "Après une année marquée par les hausses de prix, le Black Friday permet enfin de rattraper quelques produits Apple à un tarif intéressant, des AirPods Pro 3 au Mac Studio M5 Max. Voici notre sélection des meilleures offres Apple.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0a4f015f218c",
+          "title": "‘Our obsession with velocity and algorithms made the industry mistake ubiquity for legacy.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/our-obsession-with-velocity-and-algorithms-made-the-industry-mistake-ubiquity-for-legacy/",
+          "category": "musique",
+          "published_at": "2026-11-25T15:51:39+00:00",
+          "summary": "MBW's Inspiring Women series meets Yusim Aladro, General Manager of Warner Music Mexico\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "11a1c717a20a",
+          "title": "« Eau chaude, GPU froids » : OVH ne veut plus consommer d’eau dans ses datacenters",
+          "source": "Next INpact",
+          "url": "https://next.ink/269774/eau-chaude-gpu-froids-ovh-ne-veut-plus-consommer-deau-dans-ses-datacenters/",
+          "category": "ia",
+          "published_at": "2026-11-25T15:48:53+00:00",
+          "summary": "OVHcloud continue de faire monter la température dans ses datacenters, enfin plus précisément celle de son système de refroidissement. Avec de nouveaux waterblocks imprimés en cuivre pour les GPU de 1 000 watts et plus, le roubaisien va utiliser de l’eau plus chaude et un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1a003ce9b83c",
+          "title": "Pour Cyberpunk 2, CD Projekt Red ne veut pas nous faire attendre une éternité",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2384437-pour-cyberpunk-2-cd-projekt-red-ne-veut-pas-nous-faire-attendre-une-eternite.html",
+          "category": "ia",
+          "published_at": "2026-11-25T15:30:00+00:00",
+          "summary": "CD Projekt Red a fait le point sur le développement de Cyberpunk 2, la suite de Cyberpunk 2077. Le studio polonais se veut rassurant : il a l'intention de moins faire attendre les joueuses et les joueurs.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62dc0e12d294",
+          "title": "À J-2 du Black Friday, quelles sont les meilleures offres d’Amazon, Fnac et de Boulanger ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2382555-black-friday-2026-les-meilleures-offres-en-direct-ce-mercredi-25-novembre.html",
+          "category": "ia",
+          "published_at": "2026-11-25T15:23:17+00:00",
+          "summary": "J-2 avant le Black Friday 2026 : Amazon, la Fnac, Boulanger et Cdiscount multiplient les baisses de prix pendant la Black Friday Week. Nous trions en direct les meilleures offres tech, gaming et loisir.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f03ff7f34ea3",
+          "title": "L’IA générative, pompier-pyromane de l’infobésité au travail",
+          "source": "Next INpact",
+          "url": "https://next.ink/269823/lia-generative-pompier-pyromane-de-linfobesite-au-travail/",
+          "category": "ia",
+          "published_at": "2026-11-25T15:16:36+00:00",
+          "summary": "Pour l&#8217;Observatoire de l&#8217;infobésité et de la collaboration numérique, qui publie son quatrième panorama sur le sujet de l&#8217;infobésité en entreprise, l&#8217;utilisation de l&#8217;IA générative en entreprise a des « effets complexes et paradoxaux, qui peuvent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "308d8787fc84",
+          "title": "SNCF Intercités : pourquoi vous ne pouvez toujours pas réserver vos trajets en train pour le printemps",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2384713-sncf-intercites-pourquoi-vous-ne-pouvez-toujours-pas-reserver-vos-trajets-en-train-pour-le-printemps.html",
+          "category": "ia",
+          "published_at": "2026-11-25T15:10:23+00:00",
+          "summary": "Les billets Intercités pour les trajets du 1er avril au 2 juillet 2027 seront mis en vente le 27 janvier, a indiqué SNCF Voyageurs à Numerama. Les TGV INOUI de la même période sont pourtant réservables depuis le 12 novembre. Pourquoi ce délai ?",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7c3c687089f1",
+          "title": "Believe fully acquires Lili Louise Musique, parent of French indie tôt Ou tard, after buying 49% stake in 2018",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-fully-acquires-lili-louise-musique-parent-of-french-indie-tot-ou-tard-after-acquiring-49-stake-in-2018/",
+          "category": "musique",
+          "published_at": "2026-11-25T15:06:44+00:00",
+          "summary": "Founder Vincent Frèrebeau stays at the helm, eight years after Believe paid €12.3 million for its first 49% stake in the group.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6c432913c30d",
+          "title": "Le Grand Rex ouvre une salle unique au monde, avec un détail qui change tout",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2384669-le-grand-rex-ouvre-une-salle-unique-au-monde-avec-un-detail-qui-change-tout.html",
+          "category": "ia",
+          "published_at": "2026-11-25T15:00:00+00:00",
+          "summary": "Connu pour abriter la plus grande salle de cinéma d’Europe, le Grand Rex à Paris a ouvert le 18 novembre 2026 la Salle Émeraude, sa salle la plus intime. Ses 71 places sont entourées d’enceintes Devialet Phantom Ultimate en son surround. Selon le Grand Rex et Devialet, aucun…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "32fb1d631649",
+          "title": "Black Friday : mon astuce pour dénicher les meilleurs vélos électriques reconditionnés sur Upway",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2384709-black-friday-mon-astuce-pour-denicher-les-meilleurs-velos-electriques-reconditionnes-sur-upway.html",
+          "category": "ia",
+          "published_at": "2026-11-25T14:57:03+00:00",
+          "summary": "Depuis six ans, je recommande Upway à mes potes et à mes collègues, toujours avec à peu près le même lien de recherche. Cette année, j'ai enfin suivi mon propre conseil et acheté un vélo. Voici le filtre qui fait le tri à votre place, et pourquoi il fonctionne particulièrement…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da82250a39a8",
+          "title": "Dominique et Patrice Blanc-Francard, premiers lauréats du Prix La Stilla du livre de musique, pour Frères de rock",
+          "source": "SNEP",
+          "url": "https://snepmusique.com/communiques-dossiers-de-presse/dominique-et-patrice-blanc-francard-premiers-laureats-du-prix-la-stilla-du-livre-de-musique-pour-freres-de-rock/",
+          "category": "musique",
+          "published_at": "2026-11-25T14:56:52+00:00",
+          "summary": "COMMUNIQUÉ DE PRESSE Dominique et Patrice Blanc-Francard, premiers lauréats du Prix La Stilla du livre de musique, pour Frères de rock Pour sa première édition, le Prix La Stilla a été décerné à Dominique et Patrice Blanc-Francard pour Frères de rock, publié par Calmann-Levy. Le…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eaefb0d12bd7",
+          "title": "With friends like these: Suno and MiniMax team up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/with-friends-like-these-suno-and-minimax-team-up/",
+          "category": "ia",
+          "published_at": "2026-11-25T14:55:49+00:00",
+          "summary": "The following MBW op/ed comes from Victoria Furniss, Executive Director and CEO of ARIAM (the Alliance for Responsible Innovation in the Arts &#038; Media)\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "03cf73ef9f50",
+          "title": "Dans combien de bâtiments de GTA 6 peut-on vraiment entrer ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2384667-dans-combien-de-batiments-de-gta-6-peut-on-vraiment-entrer.html",
+          "category": "ia",
+          "published_at": "2026-11-25T14:45:00+00:00",
+          "summary": "D'après le décompte d'un joueur de GTA 6, on peut entrer dans plus de 1 500 bâtiments, soit près de 28 % du total. C'est plus du double des 700 intérieurs qu'annonçait une fuite en 2025.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8dd6d8b59703",
+          "title": "☕️ La panne de Microsoft a déclenché un « code rouge » en interne",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/la-panne-de-microsoft-a-declenche-un-code-rouge-en-interne/",
+          "category": "institutionnel",
+          "published_at": "2026-11-25T14:27:56+00:00",
+          "summary": "La panne historique qui s’est étalée sur les 12 et 13 novembre a déclenché autant un vent de panique qu’une brutale prise de conscience chez Microsoft, selon Reuters. Nos confrères citent des mémos internes qu’ils ont pu consulter sur le sujet. Les conséquences de la panne…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f1f5366a79d",
+          "title": "Sur le modèle de l’ISS, la Chine accueille son tout premier astronaute international",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2384395-sur-le-modele-de-liss-la-chine-accueille-son-tout-premier-astronaute-international.html",
+          "category": "ia",
+          "published_at": "2026-11-25T14:25:00+00:00",
+          "summary": "La station spatiale chinoise a accueilli son premier astronaute originaire d’un autre pays. Le pakistanais Zeeshan Ali a fait son arrivée dans Tiangong après le dernier vol habité Shenzhou-24.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c81469180727",
+          "title": "Le Black Friday permet de jouer sur smartphone comme sur console avec la manette Razer Kishi V3 Pro à prix réduit",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2384205-le-black-friday-permet-de-jouer-sur-smartphone-comme-sur-console-avec-la-manette-razer-kishi-v3-pro-a-prix-reduit.html",
+          "category": "ia",
+          "published_at": "2026-11-25T14:20:00+00:00",
+          "summary": "[Deal du jour] La semaine du Black Friday commence tôt pour les joueuses et les joueurs sur mobile. Amazon affiche la Razer Kishi V3 Pro, une manette qui se branche en USB-C sur un smartphone ou une mini-tablette, à 132,09 € au lieu de 170 €.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "50479a421494",
+          "title": "☕️ Bruxelles pourrait sanctionner quatre géants du porno pour avoir mal protégé les mineurs",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/bruxelles-pourrait-sanctionner-quatre-geants-du-porno-pour-avoir-mal-protege-les-mineurs/",
+          "category": "ia",
+          "published_at": "2026-11-25T14:03:40+00:00",
+          "summary": "La Commission européenne pourrait serrer la vis sur quatre sites pornographiques, qui n&#8217;en feraient pas suffisamment pour empêcher les internautes mineurs d&#8217;accéder à leurs contenus. Au mois de mars, Bruxelles avait estimé que Pornhub, Stripchat, XNXX et XVideos…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "135a54d9da40",
+          "title": "Roblox strikes a music-licensing deal with UK’s PRS for Music",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/25/roblox-strikes-a-music-licensing-deal-with-uks-prs-for-music/",
+          "category": "musique",
+          "published_at": "2026-11-25T13:30:00+00:00",
+          "summary": "Thus far, Roblox’s deals with music distributors have tended towards the promotional rather than direct royalty-bearing. However, collecting societies are all about the latter – and deals are being done there too.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1fc48b60c68f",
+          "title": "Believe inks deals with Tianyue Huayin and Lili Louise Musique",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/25/believe-inks-deals-with-tianyue-huayin-and-lili-louise-musique/",
+          "category": "musique",
+          "published_at": "2026-11-25T13:30:00+00:00",
+          "summary": "Believe’s dealmakers have been busy this month. The company has announced two acquisitions in the last two days: one in China and the other in its homeland of France.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d1ec3c87477c",
+          "title": "TikTok activations: Jade goes #BehindTheSong and Cortis go live",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/25/tiktok-activations-jade-goes-behindthesong-and-cortis-go-live/",
+          "category": "musique",
+          "published_at": "2026-11-25T13:30:00+00:00",
+          "summary": "British artist Jade’s ‘Angel of My Dreams came out in July 2024, but has become the latest recent-catalogue track to enjoy a viral resurgence – in this case, triggered by its use at a Victoria’s Secret fashion show while reality-star Kylie Jenner strolled down the catwalk.\nThe…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "af48cf6e6990",
+          "title": "Marketing veteran Gary Vaynerchuk launches AI ‘personal avatar’",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/25/marketing-veteran-gary-vaynerchuk-launches-ai-personal-avatar/",
+          "category": "musique",
+          "published_at": "2026-11-25T13:30:00+00:00",
+          "summary": "What’s better than a human man shouting at you about doing marketing better? An AI avatar based on the human man shouting at you about doing marketing better! Well, that’s what entrepreneur and internet personality Gary Vaynerchuk hopes.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "47abffddf919",
+          "title": "Quand les héros de GTA 6 deviennent de vrais mannequins sur les réseaux sociaux",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2384555-quand-les-heros-de-gta-6-deviennent-de-vrais-mannequins-sur-les-reseaux-sociaux.html",
+          "category": "ia",
+          "published_at": "2026-11-25T13:04:20+00:00",
+          "summary": "Quelques jours seulement après son lancement sur consoles, GTA 6 ne se contente pas d’écraser les records vidéoludiques. Sur les réseaux sociaux, une tendance inattendue prend une ampleur folle : les joueurs utilisent la personnalisation ainsi que le mode photo pour transformer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "02e5bbfb89bf",
+          "title": "Beatles attraction at former Apple Corps HQ where the band played final public concert approved by London’s Westminster City Council",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/beatles-attraction-at-former-apple-corps-hq-where-the-band-played-final-public-concert-approved-by-londons-westminster-city-council/",
+          "category": "musique",
+          "published_at": "2026-11-25T13:01:20+00:00",
+          "summary": "Draft conditions in Westminster's planning papers reportedly included a ban on live music on the rooftop terrace.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b2150d120077",
+          "title": "Australia’s AI and copyright debate heats up after new report",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/25/australias-ai-and-copyright-debate-heats-up-after-new-report/",
+          "category": "ia",
+          "published_at": "2026-11-25T12:30:00+00:00",
+          "summary": "Tensions continue to rise in Australia around how the country’s government plans to balance AI and copyright. This week, the Australian parliament’s Joint Select Committee on Artificial Intelligence published a report including some recommendations.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b88d9772fb2e",
+          "title": "La menace s’étend : le système OSINT de la CIA piraté, probablement par le même outil IA que la Commission européenne",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2384431-la-menace-setend-le-systeme-osint-de-la-cia-pirate-probablement-par-le-meme-outil-ia-que-la-commission-europeenne.html",
+          "category": "ia",
+          "published_at": "2026-11-25T12:10:00+00:00",
+          "summary": "Selon le New York Times, des pirates ont compromis un système d'analyse en sources ouvertes de la CIA. Deux autres agences de renseignement américaines auraient été touchées.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d0fc9b27d0d1",
+          "title": "Pour stopper les hybrides chinoises, l’UE invente des quotas qui gênent aussi ses propres constructeurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2384531-quotas-sur-les-voitures-hybrides-la-nouvelle-usine-a-gaz-de-leurope-qui-ratisse-plus-large-que-prevu.html",
+          "category": "ia",
+          "published_at": "2026-11-25T11:45:00+00:00",
+          "summary": "Dès le 1er décembre 2026, l’Union européenne plafonnera les importations de voitures hybrides pour 200 jours afin de freiner l’offensive chinoise. Mais elle ratisse si large qu’elle pourrait bien chambouler tout le secteur automobile jusqu’aux constructeurs européens.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b8622ea82b25",
+          "title": "PRS for Music signs Roblox licensing deal – including royalty payments for songwriters",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/prs-for-music-signs-roblox-licensing-deal/",
+          "category": "musique",
+          "published_at": "2026-11-25T11:27:11+00:00",
+          "summary": "The deal follows PRS's legal action against Steam operator Valve in March over alleged unlicensed use of its members' music in games.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "15250501cd82",
+          "title": "City of Baltimore sues Vivid Seats over alleged ‘bait-and-switch’ ticket pricing",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/city-of-baltimore-sues-vivid-seats-over-alleged-bait-and-switch-ticket-pricing/",
+          "category": "ia",
+          "published_at": "2026-11-25T11:11:01+00:00",
+          "summary": "The complaint cites a J. Cole ticket at CFG Bank Arena advertised at USD $156 that cost $238 by the final checkout screen.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "751561c5f119",
+          "title": "GrapheneOS accuse Google de vouloir sa disparition",
+          "source": "Next INpact",
+          "url": "https://next.ink/269832/grapheneos-accuse-directement-google-de-vouloir-sa-disparition/",
+          "category": "ia",
+          "published_at": "2026-11-25T11:02:55+00:00",
+          "summary": "GrapheneOS, un Android alternatif (basé sur AOSP) très axé sur la sécurité, a accusé Google le 19 novembre de vouloir le faire disparaitre par différents moyens détournés. L’équipe fustige l’entreprise pour un travail de «&#160;sabotage&#160;» auprès des OEM. GrapheneOS reproche…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fa44f2972923",
+          "title": "☕️ Le gouvernement veut précipiter le rattachement de l’IRD au CNRS pour fin mars 2027",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-gouvernement-veut-precipiter-le-rattachement-de-lird-au-cnrs-pour-fin-mars-2027/",
+          "category": "justice",
+          "published_at": "2026-11-25T10:03:08+00:00",
+          "summary": "Après avoir siphonné sa trésorerie puis imposé un plan de redressement au CNRS qui met l&#8217;organisme quasiment sous tutelle de Bercy, le gouvernement veut maintenant imposer « le rattachement » de l&#8217;IRD (Institut de recherche pour le développement) au CNRS au plus…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f9152c34225b",
+          "title": "Pop!_OS 26.04 dégaine ses Constellations et bon nombre de nouveautés",
+          "source": "Next INpact",
+          "url": "https://next.ink/269780/pop_os-26-04-degaine-ses-constellations-et-bon-nombre-de-nouveautes/",
+          "category": "ia",
+          "published_at": "2026-11-25T09:35:53+00:00",
+          "summary": "L’entreprise américaine System76 a enfin publié la version 26.04 de son système Pop!_OS. Comme son numéro de version le laisse supposer, elle est basée sur Ubuntu 26.04 LTS. C’est aussi la première fois qu’une version du système embarque l’environnement COSMIC depuis sa…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54f133ea990a",
+          "title": "☕️ Firefox 161 active son VPN site par site et simplifie l’effacement de l’historique",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/firefox-161-active-son-vpn-site-par-site-et-simplifie-leffacement-de-lhistorique/",
+          "category": "ia",
+          "published_at": "2026-11-25T08:55:25+00:00",
+          "summary": "Mozilla tient la cadence et livre cette semaine la version 161 de Firefox, datée du 24 novembre. Après l&#8217;apparition de la mini-fenêtre dans Firefox 160, cette nouvelle mouture signe, entre autres ajouts mineurs, l&#8217;arrivée d&#8217;une fonction d&#8217;activation au…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc98f4dff539",
+          "title": "Avec Shirudo, OpenAI et Cisco veulent protéger Linux en attendant les correctifs",
+          "source": "Next INpact",
+          "url": "https://next.ink/269700/avec-shirudo-openai-et-cisco-veulent-proteger-linux-en-attendant-les-correctifs/",
+          "category": "ia",
+          "published_at": "2026-11-25T08:19:00+00:00",
+          "summary": "Le 23 novembre, OpenAI et Cisco ont présenté Shirudo, un outil libre qui confie à des agents d&#8217;IA l&#8217;écriture de protections temporaires pour des serveurs Linux en production, le temps que les correctifs soient déployés. L’idée parait séduisante, mais il s’agit encore…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2374805a7867",
+          "title": "Tidal interdit les morceaux entièrement générés par IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/269736/tidal-interdit-les-morceaux-entierement-generes-par-ia/",
+          "category": "ia",
+          "published_at": "2026-11-25T07:53:00+00:00",
+          "summary": "La plateforme de streaming Tidal, noyée comme les autres par le slop IA, prend une décision radicale : interdire la musique entièrement générée par IA. Du contenu qui ne manquera pas à grand monde, puisque personne ne l&#8217;écoute vraiment. Comme de nombreux autres services de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "38e65d8bc3e5",
+          "title": "☕️ Un système de la CIA et du renseignement américain victime d’une intrusion",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/un-systeme-de-la-cia-et-du-renseignement-americain-victime-dune-intrusion/",
+          "category": "ia",
+          "published_at": "2026-11-25T07:13:49+00:00",
+          "summary": "Un système informatique utilisé par la CIA et le Bureau du directeur du renseignement national (ODNI) a été victime d&#8217;une intrusion. Selon les sources du New York Times, une brèche de sécurité a exposé des informations non classifiées sur ces deux agences fédérales…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2566a93f7cab",
+          "title": "Signal veut empêcher les agents IA de lire les messages",
+          "source": "Next INpact",
+          "url": "https://next.ink/269751/signal-veut-empecher-les-agents-ia-de-lire-les-messages/",
+          "category": "ia",
+          "published_at": "2026-11-25T06:37:27+00:00",
+          "summary": "La capacité des agents IA à lire l&#8217;écran de l&#8217;utilisateur pose problème à Signal. La messagerie a bâti sa réputation sur la confidentialité des échanges, mais l&#8217;IA agentique menace cette protection. C&#8217;est pourquoi un nouveau réglage a été implémenté dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e59372ca3500",
+          "title": "Not Bad For a Girl continues ‘We Need Some More Men In Here’ panel series",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/25/not-bad-for-a-girl-we-need-some-more-men-in-here/",
+          "category": "musique",
+          "published_at": "2026-11-25T06:00:00+00:00",
+          "summary": "In 2026, an all-male panel at a music-industry event is an embarrassment, right? Well, not always. Check &#8216;We Need Some More Men In Here&#8217;.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "articles": [
