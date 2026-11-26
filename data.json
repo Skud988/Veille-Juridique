@@ -1,9 +1,494 @@
 {
-  "generated_at": "2026-11-25T18:39:07.459322+00:00",
+  "generated_at": "2026-11-26T18:25:23.306592+00:00",
   "days": [
+    {
+      "date": "2026-11-26",
+      "articles": [
+        {
+          "id": "f0184acdd9ff",
+          "title": "Singer-songwriter Ashwin Syam bets on KiTalbums as an offering for superfans",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/26/singer-songwriter-ashwin-syam-bets-on-kitalbums-as-an-offering-for-superfans/",
+          "category": "musique",
+          "published_at": "2026-11-26T17:45:56+00:00",
+          "summary": "South Korean company KiTbetter, which manufactures KiTalbums,a hybrid physical-digital format, launched its DIY platform to enable independent artists to self-release the product in August 2025. Now, we’ve got to know [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7f3235f81798",
+          "title": "Black Friday : voici 5 jeux de société incontournables à prix cassés sur Amazon",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2385651-black-friday-voici-5-jeux-de-societe-incontournables-a-prix-casses-sur-amazon.html",
+          "category": "ia",
+          "published_at": "2026-11-26T17:16:34+00:00",
+          "summary": "Envie de renouveler vos soirées jeux ou de trouver une idée cadeau à glisser sous le sapin ? Amazon propose plusieurs jeux de société à prix réduit pour le Black Friday. Voici cinq références à découvrir, entre grands classiques, jeux de stratégie et jeux d'ambiance.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2056d10a3d9e",
+          "title": "ASML en Chine : les Pays-Bas haussent le ton face à Washington",
+          "source": "Next INpact",
+          "url": "https://next.ink/270335/asml-en-chine-les-pays-bas-haussent-le-ton-face-a-washington/",
+          "category": "loi",
+          "published_at": "2026-11-26T15:46:00+00:00",
+          "summary": "Les Pays-Bas pressent le Congrès américain de ne pas intégrer le MATCH Act à son texte annuel sur la défense. Le projet de loi durcit les restrictions sur les ventes de machines d’ASML à la Chine, mais aussi sur l’entretien de celles qui y sont déjà installées. Les Pays-Bas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2c5b129183ea",
+          "title": "FC 27 ressuscite un commentateur de foot décédé grâce à l’IA : sa voix est de retour",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2385441-fc-27-ressuscite-un-commentateur-de-foot-decede-grace-a-lia-sa-voix-est-de-retour.html",
+          "category": "ia",
+          "published_at": "2026-11-26T15:23:47+00:00",
+          "summary": "Electronic Arts ressuscite John Motson, voix historique des jeux FIFA (devenus EA Sports FC), grâce à l'IA générative. La famille du commentateur, mort en 2023, a donné son accord.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ada13ba6d7aa",
+          "title": "Avengers Doomsday : pourquoi la communication de Marvel tourne au fiasco à quelques semaines de la sortie",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2385567-avengers-doomsday-pourquoi-la-communication-de-marvel-tourne-au-fiasco-a-quelques-semaines-de-la-sortie.html",
+          "category": "ia",
+          "published_at": "2026-11-26T15:16:15+00:00",
+          "summary": "Malgré des préventes record qui laissent présager un démarrage colossal au box-office, la campagne promotionnelle d’Avengers: Doomsday suscite un malaise croissant chez une partie du public.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ebf75886e4e2",
+          "title": "Ladybird : ciel, un nouveau navigateur !",
+          "source": "Next INpact",
+          "url": "https://next.ink/270193/ladybird-ciel-un-nouveau-navigateur/",
+          "category": "ia",
+          "published_at": "2026-11-26T15:16:00+00:00",
+          "summary": "Le navigateur Ladybird est disponible depuis peu dans une première version alpha publique, capable de se mettre à jour. &#160;Ses développeurs vont devoir essayer de se faire une place au soleil, dans un marché très concurrentiel et largement dominé par Chrome et les navigateurs…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "156e3ac034b8",
+          "title": "Wu-Tang Clan Halftime Show 2026: Here’s Where to Watch Chicago Bears vs. Detroit Lions Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-chi-det-wu-tang-clan-halftime-watch-free-1236385560/",
+          "category": "musique",
+          "published_at": "2026-11-26T15:00:00+00:00",
+          "summary": "Thanksgiving Day Game: Livestream the CHI Bears taking on the DET Lions on Nov. 26. Watch Wu-Tang Clan perform at halftime.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ee944f0e4090",
+          "title": "Inside the Madcap World of Chuyín: ‘Everyone Sings About the Neverending Party. I Sing About the Hangover’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/",
+          "category": "musique",
+          "published_at": "2026-11-26T15:00:00+00:00",
+          "summary": "Meet Billboard’s Latin Up-and-Comer Artist of the Month for November.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f711767eb6e0",
+          "title": "Ces 5 vélos électriques reconditionnés avec moteur haut de gamme passent sous les 2 500 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2385443-ces-5-velos-electriques-reconditionnes-avec-moteur-haut-de-gamme-passent-sous-les-2-500-e.html",
+          "category": "ia",
+          "published_at": "2026-11-26T14:59:00+00:00",
+          "summary": "[Les vélos du jour] En pleine semaine du Black Friday, Upway et Rebike cassent les prix de leurs vélos électriques reconditionnés. On a gardé 5 modèles récents (2025), tous équipés du moteur Bosch Performance Line CX de 85 Nm, et vendus entre 1&nbsp;599 et 2&nbsp;449&nbsp;€.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "cf5d3bf988e2",
+          "title": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu’à 40 % plus vite",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html",
+          "category": "ia",
+          "published_at": "2026-11-26T14:47:30+00:00",
+          "summary": "Pendant une semaine, les nouveaux modèles d'OpenAI ont semblé étonnamment généreux. C'était une erreur. En la corrigeant, l'entreprise fait fondre les quotas de ses abonnés jusqu'à 40 % plus vite, deux jours après avoir annoncé un quota unique pour ChatGPT et Codex.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "005881ed510e",
+          "title": "☕️ Temu promet des prix plus clairs et moins de pression à l’achat en Europe",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/temu-promet-des-prix-plus-clairs-et-moins-de-pression-a-lachat-en-europe/",
+          "category": "ia",
+          "published_at": "2026-11-26T14:47:00+00:00",
+          "summary": "Temu va revoir en profondeur plusieurs de ses pratiques commerciales dans l&#8217;Union européenne. Cela va commencer par un processus de commande et de paiement plus clair : le site web de la plateforme de commerce en ligne affiche désormais un bouton de confirmation «…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4db33c61bc30",
+          "title": "Acheter sa voiture sur Amazon, ça arrive en Europe",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2385403-acheter-sa-voiture-sur-amazon-ca-arrive-en-europe.html",
+          "category": "ia",
+          "published_at": "2026-11-26T14:34:37+00:00",
+          "summary": "Amazon lancera début 2027 Amazon Autos, sa plateforme de recherche et de réservation de voitures, au Royaume-Uni, avec Hyundai et le distributeur Vertu Motors comme premiers partenaires. C'est la première fois que le service sort des États-Unis, où il existe depuis décembre 2024.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5eaf4cd63da7",
+          "title": "Effondrement de jetée, routes inondées : comment El Niño fait déborder la Californie sans tempête",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2385439-effondrement-de-jetee-routes-inondees-comment-el-nino-fait-deborder-la-californie-sans-tempete.html",
+          "category": "ia",
+          "published_at": "2026-11-26T14:20:15+00:00",
+          "summary": "La côte californienne a connu des niveaux d'eau record les 24 et 25 novembre 2026, au point qu'une partie de la jetée de Pacifica s'est effondrée. En cause, un épisode d'El Niño qui a environ 60 % de chances de devenir le plus fort mesuré depuis 1950.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "78ca994cae4c",
+          "title": "[MàJ] Assos et experts exhortent à retirer les jouets IA, New York prend les devants",
+          "source": "Next INpact",
+          "url": "https://next.ink/269533/associations-et-experts-exhortent-amazon-et-ebay-a-retirer-les-jouets-dotes-de-chatbots-ia/",
+          "category": "ia",
+          "published_at": "2026-11-26T14:17:32+00:00",
+          "summary": "Une coalition d&#8217;associations et d&#8217;experts appelle Amazon et eBay à retirer de leurs étals virtuels les jouets pour enfants intégrant des mécaniques de conversation avec un chatbot IA, au nom du principe de précaution. Ils dénoncent la prolifération de jouets bon…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "744dd6c3a7d1",
+          "title": "Infantino peut souffler : des hackers ont piraté la Fifa mais épargné son projet le plus sensible",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2385419-infantino-peut-souffler-des-hackers-ont-pirate-la-fifa-mais-epargne-son-projet-le-plus-sensible.html",
+          "category": "ia",
+          "published_at": "2026-11-26T14:11:54+00:00",
+          "summary": "La Fifa a confirmé jeudi 26 novembre avoir été victime d'une cyberattaque ayant exposé des informations personnelles et professionnelles. Un groupe de hackers, le Handsome Boy Hacking Club, revendique le vol de plus de 12 Go de fichiers.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "58ef1e567c28",
+          "title": "☕️ L’ANSM rappelle que les chatbots IA ne remplacent pas le conseil d’un médecin",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/lansm-rappelle-que-les-chatbots-ia-ne-remplacent-pas-le-conseil-dun-medecin/",
+          "category": "ia",
+          "published_at": "2026-11-26T14:06:54+00:00",
+          "summary": "Les leaders de l&#8217;IA générative ont lancé en début d&#8217;année leurs chatbots spécialisés dans la santé. Mais, en France, l&#8217;Agence nationale de sécurité du médicament et des produits de santé (ANSM) alerte les patients et leur demande de redoubler de prudence.…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "98172c307605",
+          "title": "Here’s Where to Watch The National Dog Show 2026 Online for Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/the-national-dog-show-2026-nov-watch-online-free-1236389517/",
+          "category": "ia",
+          "published_at": "2026-11-26T14:00:00+00:00",
+          "summary": "Hosted by John O'Hurley, you can stream the 25th annual dog show from Philadelphia on Thursday, Nov. 26.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cbf51eac132",
+          "title": "Après Riemann, ce chercheur de renom est « quasiment certain » que l’IA a trouvé autre chose, et ça concerne vos données",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2385329-apres-riemann-ce-chercheur-de-renom-est-quasiment-certain-que-lia-a-trouve-autre-chose-et-ca-concerne-vos-donnees.html",
+          "category": "ia",
+          "published_at": "2026-11-26T13:52:00+00:00",
+          "summary": "Hypothèse de Riemann, multiplication de matrices… Dans un billet survolté publié le 25 novembre 2026, l'informaticien Scott Aaronson raconte une semaine de percées mathématiques signées par l'IA. Avant de lâcher une phrase qui fait trembler la tech et les cryptos : les labos…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc5c7d9fd656",
+          "title": "« Le véhicule autonome n’a aucun avenir » et ne ferait pas « 3 mètres dans Paris » : non, c’est faux (on a testé)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2385409-le-vehicule-autonome-na-aucun-avenir-et-ne-ferait-pas-3-metres-dans-paris-non-cest-faux-on-a-teste.html",
+          "category": "ia",
+          "published_at": "2026-11-26T13:35:00+00:00",
+          "summary": "Invité sur le plateau de LCI, un chroniqueur automobile a affirmé avec aplomb que « le véhicule autonome n’a aucun avenir » et ne saurait même pas faire « 3 mètres dans le Marais » à Paris. Une sortie devenue virale sur X, que nos propres essais dans Paris contredisent.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "de73e18e5ef1",
+          "title": "Vous trouvez la conduite de GTA 6 particulièrement pointue ? C’est normal",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2385185-vous-trouvez-la-conduite-de-gta-6-particulierement-pointue-cest-normal.html",
+          "category": "ia",
+          "published_at": "2026-11-26T13:30:00+00:00",
+          "summary": "Rockstar Games a fait travailler un ancien finaliste mondial de Gran Turismo sur la physique des véhicules de GTA 6. D'où cette conduite pointue, et un peu punitive.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5d7d282a16ca",
+          "title": "More plaintiffs have joined artists’ class-action Suno lawsuit",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/26/more-plaintiffs-have-joined-artists-class-action-suno-lawsuit/",
+          "category": "musique",
+          "published_at": "2026-11-26T13:30:00+00:00",
+          "summary": "The Chicks, Carl Craig and Ezra Furman sounds like an unlikely musical collaboration. But no, this isn’t the latest track popping out of the Grand Theft Auto VI soundtrack.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d19a705949e8",
+          "title": "UK government to ban NDAs for harassment and discrimination",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/26/uk-government-to-ban-ndas-for-harassment-and-discrimination/",
+          "category": "musique",
+          "published_at": "2026-11-26T13:30:00+00:00",
+          "summary": "What’s that sound you can hear this morning? It may be some extremely uncomfortable shifting in their seats by certain Men Of The Music Industry in the UK, after the government announced plans to crack down on the use of NDAs in cases of harassment and discrimination in the…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6e99e722c7a8",
+          "title": "Cyanite launches its conversational Concierge for music search",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/26/cyanite-launches-its-conversational-concierge-for-music-search/",
+          "category": "musique",
+          "published_at": "2026-11-26T13:30:00+00:00",
+          "summary": "We’ve been writing about conversational AI and its use in various consumer-focused services – Spotify and more. But there are plenty of B2B uses in the music industry too. Cyanite has the latest example.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6b6d51abf823",
+          "title": "Musixmatch adds more tools to its Pro for Artists platform",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/26/musixmatch-adds-more-tools-to-its-pro-for-artists-platform/",
+          "category": "musique",
+          "published_at": "2026-11-26T13:30:00+00:00",
+          "summary": "It has been a busy few months for lyrics provider Musixmatch: launching a hub for label clients; expanding into music rights by acquiring Music Reports; and renewing its deal with distribution firm DistroKid.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b4bea078ad79",
+          "title": "Avengers: Doomsday affole déjà les compteurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2385397-avengers-doomsday-affole-deja-les-compteurs.html",
+          "category": "ia",
+          "published_at": "2026-11-26T13:26:29+00:00",
+          "summary": "À trois semaines de sa sortie en salles, le prochain mastodonte de Marvel Studios affole déjà les compteurs. Selon les informations de Deadline, Avengers: Doomsday a dépassé les 100 millions de dollars de préventes aux États-Unis.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3837c7bb1703",
+          "title": "ElevenLabs’ next funding round could see a UMG-sized valuation",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/26/elevenlabs-next-funding-round-could-see-a-umg-sized-valuation/",
+          "category": "ia",
+          "published_at": "2026-11-26T12:30:00+00:00",
+          "summary": "Nvidia may have its CEO back, but worries about an AI bubble-burst in the US haven’t died down just yet. Witness Anthropic’s bumpy start to life as a publicly-listed company, with its share price having tumbled since its IPO earlier this month.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "2e96594a3938",
+          "title": "Ordre du jour de la séance plénière du 26 novembre 2026",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-26-novembre-2026",
+          "category": "institutionnel",
+          "published_at": "2026-11-26T12:00:00+00:00",
+          "summary": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 26 novembre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "701e7be1dd88",
+          "title": "Matador secures worldwide rights to Belle and Sebastian’s complete catalog, licensing titles from the band and Bella Figura",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/matador-secures-worldwide-rights-to-belle-and-sebastians-complete-catalog-licensing-titles-from-the-band-and-bella-figura/",
+          "category": "musique",
+          "published_at": "2026-11-26T11:56:09+00:00",
+          "summary": "The Beggars Group label first released the Glasgow band's music in the US in 1998.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "da13dfed3346",
+          "title": "Universal, Warner, and the BPI back charter to tackle barriers keeping people with dementia from accessing music",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/universal-warner-and-the-bpi-back-charter-to-tackle-barriers-keeping-people-with-dementia-from-accessing-music/",
+          "category": "musique",
+          "published_at": "2026-11-26T11:55:27+00:00",
+          "summary": "Only 3 in 10 older family caregivers can stream music with the person they care for, according to Music for Dementia.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b32327a399ea",
+          "title": "LiveOne is paying its Global Music Rights licensing fees in stock. If they aren’t covered within 90 days, GMR can terminate the license.",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/liveone-is-paying-its-global-music-rights-licensing-fees-in-stock-if-they-arent-covered-within-90-days-gmr-can-terminate-the-license/",
+          "category": "musique",
+          "published_at": "2026-11-26T11:55:06+00:00",
+          "summary": "The filing landed eight days after CEO Robert Ellin told investors LiveOne was preparing for \"the biggest launch\" in its history.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6866220d73a2",
+          "title": "ElevenLabs in early talks to raise at $33B valuation – more than six times that of AI music rival Suno (report)",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/elevenlabs-in-early-talks-to-raise-at-33b-valuation-more-than-six-times-that-of-ai-music-rival-suno-report/",
+          "category": "musique",
+          "published_at": "2026-11-26T11:54:45+00:00",
+          "summary": "ElevenLabs’ annual recurring revenue has reportedly hit USD $700 million, up from $600 million in September.\nSource",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "135106cc5d8e",
+          "title": "Les Français face aux sciences et technologies : l’IA cristallise les inquiétudes",
+          "source": "Next INpact",
+          "url": "https://next.ink/270121/les-francais-face-aux-sciences-et-technologies-lia-cristallise-les-inquietudes/",
+          "category": "ia",
+          "published_at": "2026-11-26T11:00:00+00:00",
+          "summary": "La neuvième vague de l&#8217;enquête « Les Français et la science » révèle notamment une confiance toujours importante, un intérêt primordial pour la recherche médicale et un retour du soutien à la recherche fondamentale. Mais les chercheurs observent des inquiétudes sur les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "eb28b52f3d1a",
+          "title": "Le Black Friday rend enfin l’OLED abordable : l’écran MSI PRO MAX de 34″ passe sous les 700 €",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2385263-le-black-friday-rend-enfin-loled-abordable-lecran-msi-pro-max-de-34-passe-sous-les-700-e.html",
+          "category": "ia",
+          "published_at": "2026-11-26T10:46:10+00:00",
+          "summary": "[Deal du jour] Pendant le Black Friday, PC Componentes affiche l'écran MSI PRO MAX 341QPXW14G à 693,22 €. C'est un moniteur de 34 pouces au format panoramique, avec une dalle QD-OLED plate, aussi à l'aise sur la bureautique que pour le jeu.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "213c32d16773",
+          "title": "Version deux places et aileron de F1 : la Xiaomi SU7 Ultra se transforme en pistarde radicale",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2385217-version-deux-places-et-aileron-de-f1-la-xiaomi-su7-ultra-se-transforme-en-pistarde-radicale.html",
+          "category": "ia",
+          "published_at": "2026-11-26T10:43:33+00:00",
+          "summary": "Le ministère chinois de l'Industrie a publié l'homologation de la Xiaomi SU7 Ultra 2027, avec des pneus avant élargis à 295 millimètres et une série d'options aérodynamiques en carbone. La puissance reste fixée à 1&nbsp;548 ch.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "354050004c9e",
+          "title": "There’s a new music mentorship programme for UK-based south Asian women",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/26/theres-a-new-music-mentorship-programme-for-uk-based-south-asian-women/",
+          "category": "musique",
+          "published_at": "2026-11-26T09:25:05+00:00",
+          "summary": "London-based music business consultancy music:defined’s non-profit arm music:defined hub has announced The Launchpad, a mentorship programme for young South Asian women executives and creatives working in the UK’s music industry. [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67cb54387d58",
+          "title": "Man of the Merch: Fred Again.. drops India-exclusive cricket jersey",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/26/man-of-the-merch-fred-again-drops-india-exclusive-cricket-jersey/",
+          "category": "ia",
+          "published_at": "2026-11-26T09:15:12+00:00",
+          "summary": "From using an edit of his track ‘OK OK’ that featured samples of local artists to help announce his debut India tour, to working with a Delhi-based painter to reveal [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "01807d2ec935",
+          "title": "« Alerte sur les sites GenAI » arrive sur Safari et recense 20 000 sites aux contenus IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/260035/alerte-sur-les-sites-genai-disponible-sur-safari-et-recense-20-000-sites-aux-contenus-ia/",
+          "category": "ia",
+          "published_at": "2026-11-26T08:58:37+00:00",
+          "summary": "Notre extension Alerte sur les sites d&#8217;infos générés par IA (GenAI) passe en version 3.1 et débarque sur Safari pour les Mac, avec d’autres nouveautés à la clé. Plus de 20 000 sites sont désormais identifiés dans notre liste en français. Le code source de cette 3.1 est…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "54f38b9d6c8d",
+          "title": "Claude sait maintenant produire des applications à partir d’artefacts",
+          "source": "Next INpact",
+          "url": "https://next.ink/270124/claude-sait-maintenant-produire-des-applications-a-partir-dartefacts/",
+          "category": "ia",
+          "published_at": "2026-11-26T08:20:00+00:00",
+          "summary": "Dans un élan ressemblant à celui des Progressive Web Apps en son temps, Claude peut maintenant produire des applications à partir des artefacts,&#160;sur Windows et macOS pour l’instant.&#160; Elles peuvent se comporter comme des applications classiques, selon le niveau de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c871f5ba8495",
+          "title": "☕️ L’Australie impose un devoir de vigilance numérique aux grandes plateformes",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/laustralie-impose-un-devoir-de-vigilance-numerique-aux-grandes-plateformes/",
+          "category": "ia",
+          "published_at": "2026-11-26T07:56:54+00:00",
+          "summary": "Le parlement australien a voté le Digital Duty of Care Act (loi sur le devoir de vigilance numérique), équivalent local du règlement européen sur les services numériques (DSA). Comme dans l&#8217;UE, il s&#8217;agit de mettre les grandes plateformes devant leurs responsabilités…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4decad381af9",
+          "title": "Datacenter spatial : SpaceX veut multiplier par 50 le nombre de satellites en orbite",
+          "source": "Next INpact",
+          "url": "https://next.ink/270110/datacenter-spatial-spacex-veut-multiplier-par-50-le-nombre-de-satellites-en-orbite/",
+          "category": "ia",
+          "published_at": "2026-11-26T07:17:00+00:00",
+          "summary": "Elon Musk va passer un très bon Thanksgiving. La FCC, le régulateur américain des communications, a donné son feu vert à un projet gigantesque de SpaceX visant à déployer autour de la Terre une constellation allant jusqu&#8217;à 1 million de satellites. Une infrastructure…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "89362034fe09",
+          "title": "☕️ Kagi lance son propre service d’email",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/kagi-lance-son-propre-service-demail/",
+          "category": "ia",
+          "published_at": "2026-11-26T06:50:00+00:00",
+          "summary": "Après le moteur de recherche et le navigateur web Orion, la société californienne Kagi lance un nouveau service : le courriel. Disponibles en bêta publique, ces fonctions d&#8217;e-mail et de calendrier peuvent être testées pendant 60 jours gratuitement ; ensuite, il en coûtera…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9e01c7acdc74",
+          "title": "Andy Taylor Was Full of Surprises: Six Deep-Dive Career Moments",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/andy-taylor-six-deep-dive-career-moments/",
+          "category": "musique",
+          "published_at": "2026-11-26T06:27:53+00:00",
+          "summary": "Following his death at the age of 65, Billboard has highlighted some impressive, but overlooked moments from Andy Taylor’s Hall of Fame career.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ff30d46001b3",
+          "title": "☕️ Un compte GitHub compromis chez 1Password expose des données clients",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/un-compte-github-compromis-chez-1password-expose-des-donnees-clients/",
+          "category": "ia",
+          "published_at": "2026-11-26T06:18:38+00:00",
+          "summary": "L&#8217;adage selon lequel les cordonniers sont les plus mal chaussés pourrait bien s&#8217;appliquer à 1Password. L&#8217;éditeur du gestionnaire de mots de passe du même nom a été victime d&#8217;une brèche de sécurité. Le 19 novembre, une enquête a été ouverte après la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e9077904d2bf",
+          "title": "U2 Wind Back the Years With Classics, Dolly Parton Tribute for Thanksgiving Eve NFL Halftime Show",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/rock/u2-dolly-parton-tribute-thanksgiving-eve-nfl-halftime-show-1236390070/",
+          "category": "musique",
+          "published_at": "2026-11-26T03:41:38+00:00",
+          "summary": "The Rock Hall-inducted group headlined the halftime show, which streamed live late Wednesday, Nov. 25 on Netflix.",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "articles": [
+        {
+          "id": "1b4127ff069d",
+          "title": "Duran Duran’s Biggest Billboard Hits: ‘Rio,’ ‘Hungry Like the Wolf’ & More",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/duran-duran-biggest-billboard-hits/",
+          "category": "musique",
+          "published_at": "2026-11-25T23:53:32+00:00",
+          "summary": "The band sent 15 classics to the Hot 100’s top 40 in the 1980s and ‘90s.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b40c18430b1",
+          "title": "‘Hunger Games’ Series Returns to No. 1 on Soundtracks Chart After More Than a Decade",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/hunger-games-sunrise-reaping-album-tops-soundtracks-chart-1236390012/",
+          "category": "musique",
+          "published_at": "2026-11-25T23:42:43+00:00",
+          "summary": "The Hunger Games: Sunrise on the Reaping — with music by Noah Kahan, Ella Langley &#38; more — bows atop the Soundtracks chart.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "defd9c98624f",
+          "title": "U2’s ‘Carnaval de Luz’ Debuts at No. 1 on 3 Billboard Album Charts",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/chart-beat/u2-carnaval-de-luz-number-1-billboard-charts-debut-1236389982/",
+          "category": "musique",
+          "published_at": "2026-11-25T22:57:07+00:00",
+          "summary": "It arrives in the top 10 on seven charts in total, including the Billboard 200.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9d8bdd7432ed",
+          "title": "Believe acquires catalog of independent label Tianyue Huayin – its first catalog acquisition in Greater China",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/believe-acquires-catalog-of-independent-label-tianyue-huayin-its-first-catalog-acquisition-in-greater-china/",
+          "category": "musique",
+          "published_at": "2026-11-25T19:29:47+00:00",
+          "summary": "Deal arrives as Believe marks 10 years in Greater China\nSource",
+          "summary_type": "extrait source"
+        },
         {
           "id": "c18af49584fa",
           "title": "Jay Wheeler Reveals How He’s Building a Legacy Beyond Music | Billboard Presents",
@@ -112,6 +597,16 @@
           "category": "ia",
           "published_at": "2026-11-25T17:01:36+00:00",
           "summary": "\"I'd put it out again today,\" she said of the visual. \"I wouldn't change a thing.\"",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ac3bca81ff79",
+          "title": "‘If the industry is going to be disrupted, I want to be at the forefront of whatever shapes its future.’",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/if-the-industry-is-going-to-be-disrupted-i-want-to-be-at-the-forefront-of-whatever-shapes-its-future/",
+          "category": "musique",
+          "published_at": "2026-11-25T17:00:24+00:00",
+          "summary": "MBW's Trailblazers series meets Jaddan Comerford, Founder and CEO of Melbourne-headquartered independent music company UNIFIED Music Group\nSource",
           "summary_type": "extrait source"
         },
         {
