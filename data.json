@@ -1,9 +1,434 @@
 {
-  "generated_at": "2026-11-26T18:25:23.306592+00:00",
+  "generated_at": "2026-11-27T18:11:12.211071+00:00",
   "days": [
+    {
+      "date": "2026-11-27",
+      "articles": [
+        {
+          "id": "fd742f7fe504",
+          "title": "Justin Timberlake Explains Why He Was ‘Reluctant’ to Make New Docuseries on ‘Tonight Show’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/justin-timberlake-tonight-show-documentary-series-interview-1236390349/",
+          "category": "ia",
+          "published_at": "2026-11-27T17:34:30+00:00",
+          "summary": "The pop superstar told Jimmy Fallon why he was initially hesitant to open up about his private life in the four-part docuseries.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "f88abe405f92",
+          "title": "NFL Black Friday Game 2026: Here’s Where to Watch Denver Broncos vs. Pittsburgh Steelers Live Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/nfl-black-friday-game-2026-den-pit-watch-live-online-free-1236386330/",
+          "category": "musique",
+          "published_at": "2026-11-27T17:00:00+00:00",
+          "summary": "For Black Friday, watch the DEN Broncos take on the PIT Steelers on Friday, Nov. 27 — keep an eye out for possible celebrity sightings too.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4e6e59a9ad5e",
+          "title": "NVIDIA accepte de verser 290 millions de dollars pour solder le litige sur le minage",
+          "source": "Next INpact",
+          "url": "https://next.ink/270694/nvidia-accepte-de-verser-290-millions-de-dollars-pour-solder-le-litige-sur-le-minage/",
+          "category": "ia",
+          "published_at": "2026-11-27T16:30:37+00:00",
+          "summary": "NVIDIA veut régler à l&#8217;amiable une plainte déposée par des investisseurs fin 2018. Ils reprochaient à l&#8217;entreprise d&#8217;avoir minimisé la part des ventes de cartes graphiques GeForce destinées au minage de cryptomonnaies, alors que ces ventes soutenaient la…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "5fbd2abaf5ee",
+          "title": "Black Friday : les 100 deals à ne pas rater chez Amazon, Fnac, Boulanger et Cdiscount (EN DIRECT)",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
+          "category": "ia",
+          "published_at": "2026-11-27T16:21:27+00:00",
+          "summary": "La journée s'achève, mais pas le Black Friday. Amazon, la Fnac, Boulanger et Cdiscount prolongent la plupart de leurs promos tout le week-end. Nous avons déjà trié plus de 120 offres, et nous continuons d'en ajouter en direct jusqu'au Cyber Monday du 30 novembre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3ff13c66cd48",
+          "title": "Un essaim de drones qui attaque Ariane 6 ? Le Centre spatial guyanais « n’est pas du tout paré », mais ne voit pas l’urgence de passer aux lasers",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2386469-un-essaim-de-drones-qui-attaque-ariane-6-le-centre-spatial-guyanais-nest-pas-du-tout-pare-mais-ne-voit-pas-lurgence-de-passer-aux-lasers.html",
+          "category": "ia",
+          "published_at": "2026-11-27T16:10:00+00:00",
+          "summary": "Contrairement à Cap Canaveral, le Centre spatial guyanais ne prévoit pas d'abattre des drones au laser lors d'un vol de la fusée d'Ariane 6. Il compte sur un brouilleur militaire et sur une zone interdite de survol qui peut atteindre 4 fois la surface de la base. Face à un…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "99e6299007a2",
+          "title": "Oui, on peut faire tourner macOS sur une base Linux",
+          "source": "Next INpact",
+          "url": "https://next.ink/270674/oui-on-peut-faire-tourner-macos-sur-une-base-linux/",
+          "category": "ia",
+          "published_at": "2026-11-27T15:51:00+00:00",
+          "summary": "Un projet libre parvient à faire démarrer le bureau de macOS 27 à l&#8217;intérieur de Linux, sans machine virtuelle entre les deux. La prouesse technique est réelle, mais le résultat reste une expérience de laboratoire, réservée à du matériel précis et au prix de protections de…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "834fbd8517fe",
+          "title": "Un trou de la couche d’ozone record et pourtant la situation n’est pas si grave : comment est-ce possible ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2386087-un-trou-de-la-couche-dozone-record-et-pourtant-la-situation-nest-pas-si-grave-comment-est-ce-possible.html",
+          "category": "ia",
+          "published_at": "2026-11-27T15:31:24+00:00",
+          "summary": "En 2026, le trou de la couche d’ozone au-dessus de l’Antarctique a atteint sa plus grande taille depuis 2015, et compte parmi les plus étendus en 48 ans de mesures. Mais derrière ce constat qui peut sembler alarmant, il y a des phénomènes naturels à l’œuvre qui ne remettent pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "14b444fc7d5f",
+          "title": "Le Mordor, là où siège le volcan Orodruin : d’où vient ce nom dans Les Anneaux de pouvoir",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/1137948-le-mordor-la-ou-siege-le-volcan-orodruin-dou-vient-ce-nom-dans-les-anneaux-de-pouvoir.html",
+          "category": "ia",
+          "published_at": "2026-11-27T15:27:41+00:00",
+          "summary": "Le Mordor est la région dans laquelle Sauron prépare ses plans maléfiques. La série Les Anneaux de pouvoir donne une origine à ce nom, et sa saison 3, achevée le 25 novembre 2026 sur Prime Video, fait du volcan Orodruin le théâtre de la forge de l'Anneau unique.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "056fe8e0eebb",
+          "title": "☕️ Le New York Times interdit Photoshop 2027 à ses photographes à cause de l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/le-new-york-times-interdit-photoshop-2027-a-ses-photographes-a-cause-de-lia/",
+          "category": "ia",
+          "published_at": "2026-11-27T15:19:00+00:00",
+          "summary": "L&#8217;IA générative infuse tellement dans Photoshop que le New York Times a demandé à ses photographes de ne pas utiliser la dernière version du logiciel d&#8217;Adobe. «&#160;Nous avons appris que certaines fonctions d’Adobe Photoshop 2027 (version 28.0.0) font appel à l’IA…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c1e124536d12",
+          "title": "Carte bancaire : qui connaît vraiment votre code PIN ?",
+          "source": "Next INpact",
+          "url": "https://next.ink/228974/carte-bancaire-qui-connait-vraiment-votre-code-pin/",
+          "category": "ia",
+          "published_at": "2026-11-27T14:51:00+00:00",
+          "summary": "Beaucoup de questions simples appellent des réponses complexes, surtout quand on touche à la cryptographie, domaine qui ne tolère aucun raccourci ou approximation. Une question simple qui peut venir à l’esprit en étrennant sa nouvelle carte de paiement est : les banques disent…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7cc390f17b60",
+          "title": "From Amazon to Zara, Here Are All the Best Black Friday Deals, Promo Codes & Coupons",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-deals-coupon-codes-november-2026-1236386835/",
+          "category": "ia",
+          "published_at": "2026-11-27T14:45:20+00:00",
+          "summary": "Black Friday is here! Shop Billboard put together a list of deals on audio essentials, fashion, tech and other product categories from retailers across the web.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0cf44dcb2d7c",
+          "title": "Black Friday : on a trouvé les meilleurs jeux vidéo récents en promotion à acheter",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2386235-black-friday-on-a-trouve-les-meilleurs-jeux-video-recents-en-promotion-a-acheter.html",
+          "category": "ia",
+          "published_at": "2026-11-27T14:33:42+00:00",
+          "summary": "Le Black Friday est aussi l'occasion de faire le plein de jeux vidéo à prix réduit. Que vous jouiez sur PS5, Xbox, Nintendo Switch ou PC, de nombreux titres profitent de belles promotions. Voici notre sélection des meilleures offres à ne pas manquer, dont certains titres récents…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc1553ceb400",
+          "title": "☕️ X met enfin en place des contrôles parentaux",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/x-met-enfin-en-place-des-controles-parentaux/",
+          "category": "ia",
+          "published_at": "2026-11-27T14:29:00+00:00",
+          "summary": "Mieux vaut tard que jamais, X (anciennement Twitter) a mis en place des contrôles parentaux pour les utilisateurs mineurs de 13 à 17 ans. Le réseau social d&#8217;Elon Musk n&#8217;est vraiment pas destiné aux enfants ou aux ados, entre les discours de haine, la génération…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d9db83d0b2b5",
+          "title": "Face aux barrières de l’UE, Geely va installer sa nouvelle plateforme électrique dans l’usine Ford de Valence",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2386227-face-aux-barrieres-de-lue-geely-va-installer-sa-nouvelle-plateforme-electrique-dans-lusine-ford-de-valence.html",
+          "category": "ia",
+          "published_at": "2026-11-27T14:09:00+00:00",
+          "summary": "Geely va installer une toute nouvelle plateforme pour voitures électrifiées dans l'usine Ford de Valence, en Espagne, à partir de 2028. Michael Yang, directeur général de Geely Auto UK, l'a confirmé. Jusqu'ici, le groupe chinois avait seulement annoncé qu'il y assemblerait deux…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3460f245b57d",
+          "title": "Ariane succède officiellement à la DINUM et pourra imposer ses outils aux ministères",
+          "source": "Next INpact",
+          "url": "https://next.ink/270519/ariane-succede-officiellement-a-la-dinum-et-pourra-imposer-ses-outils-aux-ministeres/",
+          "category": "ia",
+          "published_at": "2026-11-27T14:07:51+00:00",
+          "summary": "Le décret officialisant la transformation de la DINUM en une nouvelle autorité nommée Ariane a été publié au Journal officiel. Cette « autorité de référence de l&#8217;intelligence artificielle et du numérique de l&#8217;État&#160;» aura des pouvoirs élargis, dont celui…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "483fc0cb3806",
+          "title": "Série noire aux États-Unis : des pirates se sont infiltrés dans Cloud One, la plateforme cloud géante de l’US Air Force",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/cyberguerre/2386483-serie-noire-aux-etats-unis-des-pirates-se-sont-infiltres-dans-cloud-one-la-plateforme-cloud-geante-de-lus-air-force.html",
+          "category": "ia",
+          "published_at": "2026-11-27T13:50:31+00:00",
+          "summary": "Les hackers seraient parvenus jusqu'à la couche d'administration de la plateforme, qui héberge des données tactiques, logistiques et de personnel de l'armée de l'air américaine.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "106344b06d58",
+          "title": "Winamp Player set to relaunch in private beta on 15 December",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/27/winamp-player-set-to-relaunch-in-private-beta-on-15-december/",
+          "category": "musique",
+          "published_at": "2026-11-27T13:30:00+00:00",
+          "summary": "We’ve been writing about veteran digital-music brand Winamp’s comeback efforts since 2022, when – in very much a sign of those times – the plans included NFTs.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "581d27ac794e",
+          "title": "Majors and UK bodies back campaign focused on music and dementia",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/27/majors-and-uk-bodies-back-campaign-focused-on-music-and-dementia/",
+          "category": "musique",
+          "published_at": "2026-11-27T13:30:00+00:00",
+          "summary": "Music can be a wonderful thing for people living with dementia, as well as their carers. However, a new campaign in the UK is highlighting the fact that streaming may not be accessible enough to those people.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "546a7fba6bde",
+          "title": "« Tant qu’on en tire encore quelque chose » : un économiste propose de vendre Volkswagen à la Chine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2386261-tant-quon-en-tire-encore-quelque-chose-un-economiste-propose-de-vendre-volkswagen-a-la-chine.html",
+          "category": "institutionnel",
+          "published_at": "2026-11-27T13:23:57+00:00",
+          "summary": "Un économiste allemand propose de vendre Volkswagen à des acheteurs chinois « tant qu'on peut encore en tirer quelque chose ». Personne n'a fait d'offre et aucune discussion de rachat n'a été rapportée, mais le propos interpelle dans le contexte actuel.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "fc04030f67c9",
+          "title": "Dune 3 : le nouveau seau à popcorn vibrant qui ressemble à un sextoy fait rire tout le monde",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2386203-dune-3-le-nouveau-seau-a-popcorn-vibrant-qui-ressemble-a-un-sextoy-fait-rire-tout-le-monde.html",
+          "category": "ia",
+          "published_at": "2026-11-27T13:21:28+00:00",
+          "summary": "On pensait avoir tout vu en 2024 avec le premier seau en forme de ver des sables d’Arrakis, mais les cinémas ont décidé de repousser encore un peu plus loin les limites du malaise. À moins de trois semaines de la sortie de Dune 3, les nouveaux seaux à popcorn officiels du film…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ca5a9ec7f85b",
+          "title": "Impala celebrates Ukraine – and 45 artists with 100m+ Spotify streams",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/27/impala-celebrates-ukraine-and-45-artists-with-100m-spotify-streams/",
+          "category": "musique",
+          "published_at": "2026-11-27T13:00:00+00:00",
+          "summary": "It’s now precisely 1,737 days since Russia invaded Ukraine, with attacks continuing on the country’s infrastructure and its civilian population. The invasion has taken its toll on Ukraine’s music industry, but as Impala’s latest ‘Faces of the Independent Sector’ article…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "6ea4725bd48d",
+          "title": "Watch ‘Sesame Street’ Get Festive With an Adorable Spoof of Mariah Carey’s ‘All I Want for Christmas Is You’",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/tv-film/sesame-street-mariah-carey-all-i-want-for-christmas-is-you-1236389471/",
+          "category": "ia",
+          "published_at": "2026-11-27T12:30:00+00:00",
+          "summary": "All the fuzzy gang wants this holiday season is ... well ... U!",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "ad5cce7c7d1d",
+          "title": "Les Anneaux de pouvoir inventent une prophétie sur Gandalf pour préparer sa future résurrection",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2386053-les-anneaux-de-pouvoir-inventent-une-prophetie-sur-gandalf-pour-preparer-sa-future-resurrection.html",
+          "category": "ia",
+          "published_at": "2026-11-27T12:25:00+00:00",
+          "summary": "Dans le dernier épisode de la saison 3 des Anneaux de pouvoir, mis en ligne ce mercredi 25 novembre 2026 sur Prime Video, un mage passé au service de Sauron prévient que tuer Gandalf ferait revenir son esprit « sous une forme plus puissante ». La réplique annonce, avec un âge…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1cc6fd454b6f",
+          "title": "IA en contexte de soins : accompagner le bon usage avec le guide CNIL et HAS",
+          "source": "CNIL",
+          "url": "https://www.cnil.fr/fr/ia-en-soins-guide-has-cnil",
+          "category": "ia",
+          "published_at": "2026-11-27T12:00:00+00:00",
+          "summary": "Avec la publication du guide «&amp;nbsp;IA en contexte de soins&amp;nbsp;: accompagner le bon usage&amp;nbsp;» qu’elles ont conjointement élaboré, la Haute Autorité de santé (HAS) et la CNIL se mobilisent pour accompagner les acteurs de la santé en clarifiant les règles et les…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0f2990646baa",
+          "title": "La France se dote de ses premiers drones intercepteurs Gobi Zephyr qui filent à 350 km/h pour percuter d’autres drones",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2386319-la-france-se-dote-de-ses-premiers-drones-intercepteurs-qui-filent-a-350-km-h-pour-percuter-dautres-drones.html",
+          "category": "ia",
+          "published_at": "2026-11-27T11:11:00+00:00",
+          "summary": "La Direction générale de l'armement a livré ce jeudi 26 novembre 2026 aux armées françaises leurs premiers drones intercepteurs de drones, des Gobi Zephyr conçus par la start-up Harmattan AI. Ils ont été commandés il y a deux mois seulement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8653f248da2f",
+          "title": "Best Black Friday Ticket Deals 2026: Here’s How to Shop Affordable Concert Tickets Online",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-ticket-deals-promo-codes-november-2026-1236389121/",
+          "category": "musique",
+          "published_at": "2026-11-27T11:00:00+00:00",
+          "summary": "From Vivid Seats to SeatGeek, ShopBillboard has the best promo and coupon codes on concert tickets.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9317e558ef30",
+          "title": "Olala ! On a testé des IA génératives sur CPU, avec 5 machines et plus de 1 000 prompts",
+          "source": "Next INpact",
+          "url": "https://next.ink/268574/olala-on-a-teste-des-ia-generatives-sur-cpu-avec-5-machines-et-plus-de-1-000-prompts/",
+          "category": "ia",
+          "published_at": "2026-11-27T10:34:49+00:00",
+          "summary": "Combien de tokens par seconde est capable de générer Olala sur un processeur ? Nous l’avons mesuré sur cinq machines. Nous avons également comparé Olala à six autres modèles, toujours sur un CPU. Next vous propose enfin un petit outil dans le navigateur pour comparer…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "04d4eeaab766",
+          "title": "Voici les conseils de Christopher Nolan pour regarder L’Odyssée à la maison",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2385933-voici-les-conseils-de-christopher-nolan-pour-regarder-lodyssee-a-la-maison.html",
+          "category": "ia",
+          "published_at": "2026-11-27T10:27:39+00:00",
+          "summary": "Un vidéoprojecteur et du pop-corn : voilà les recommandations de Christopher Nolan pour regarder L'Odyssée chez soi, maintenant que le film est sorti en DVD, Blu-ray et 4K.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c450ce8f3be8",
+          "title": "Einstein, mécanique quantique et trous noirs : ce physicien propose une nouvelle théorie et GPT-6 Astra y est pour quelque chose",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/sciences/2385919-einstein-mecanique-quantique-et-trous-noirs-ce-physicien-propose-une-nouvelle-theorie-et-gpt-6-astra-y-est-pour-quelque-chose.html",
+          "category": "ia",
+          "published_at": "2026-11-27T10:16:30+00:00",
+          "summary": "Réconcilier la gravité d'Einstein et la mécanique quantique reste l'un des grands problèmes de la physique. Le 25 novembre, un physicien de Stanford a publié une nouvelle piste. Dans ses remerciements, il explique avoir développé une partie de ses démonstrations en discutant…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "0c73cb4eef30",
+          "title": "Backstreet Boys Added to The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts/",
+          "category": "ia",
+          "published_at": "2026-11-27T10:00:00+00:00",
+          "summary": "Maisie Peters will kick off the celebrations in May 2027.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db843de004d4",
+          "title": "Tips on how to use Meta Muse for an artist’s social media strategy",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/27/tips-on-how-to-use-meta-muse-for-an-artists-social-media-strategy/",
+          "category": "ia",
+          "published_at": "2026-11-27T10:00:00+00:00",
+          "summary": "Meta&#8217;s Muse AI agent arrived in the UK this week, following its US launch in September. Instagram boss Adam Mosseri has now explained how he thinks people who run social accounts should use it.\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "bf9574ee8fba",
+          "title": "TikTok rolls out likeness detection tools",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/27/tiktok-rolls-out-likeness-detection-tools/",
+          "category": "musique",
+          "published_at": "2026-11-27T10:00:00+00:00",
+          "summary": "TikTok has launched two tools to deal with the growing amount of AI content on its platform. The first is a public checker. Anyone can upload a video, image or audio file, with or without a TikTok account, and find out whether it was made or edited with one of ByteDance&#8217;s…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c05a3fd9b041",
+          "title": "How Carly Rae Jepsen is using the moment around her GTA VI sync",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/27/how-carly-rae-jepsen-is-using-the-moment-around-her-gta-vi-sync/",
+          "category": "musique",
+          "published_at": "2026-11-27T10:00:00+00:00",
+          "summary": "We&#8217;ve already covered some of the standout music moments from last week&#8217;s GTA VI launch. One of the surprise breakout tracks is more than a decade old. Carly Rae Jepsen&#8217;s &#8216;Run Away With Me&#8217; soundtracks a mission in the game, and since the game came…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "8c28a00b01b2",
+          "title": "Why ‘loyalty is the new currency’ for artists",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/27/why-loyalty-is-the-new-currency-for-artists/",
+          "category": "musique",
+          "published_at": "2026-11-27T10:00:00+00:00",
+          "summary": "At Music Ally Marketing Week 2026, Big Cookie founder Aaron Bogucki unpacked how artists can move beyond chasing viral algorithms to build lasting fan communities under the theme ‘From Follow to Fan’. Emphasizing that &#8220;loyalty is the new currency&#8221; and &#8220;what…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1e2545624b35",
+          "title": "These are the most underexplored aspects of India’s music industry, say artist managers",
+          "source": "Music Ally",
+          "url": "https://musically.com/2026/11/27/these-are-the-most-underexplored-aspects-of-indias-music-industry-say-artist-managers/",
+          "category": "musique",
+          "published_at": "2026-11-27T09:25:58+00:00",
+          "summary": "The exponential growth of India’s music industry, from its headline-grabbing streaming volumes to its booming “concert economy”, has been well documented in the recent past. In some areas, however, it’s [&#8230;]\nThe post is from Music Ally.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "d64adbb1fa92",
+          "title": "#Nextquick : comment fonctionnent les IA génératives, en 5 minutes",
+          "source": "Next INpact",
+          "url": "https://next.ink/270502/nextquick-comment-fonctionnent-les-ia-generatives-en-5-minutes/",
+          "category": "ia",
+          "published_at": "2026-11-27T09:20:03+00:00",
+          "summary": "Une IA générative, comment ça marche ? Sans trop entrer dans les détails techniques, Next vous explique le cheminement, d’un modèle vierge à qui il faut tout apprendre, à l’inférence et aux agents. Vous avez 5-10 minutes devant vous ? Les IA, et maintenant les IA génératives, on…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a6c41b880499",
+          "title": "La faille NFS2ROOT permet de prendre le contrôle de NAS et nœuds Kubernetes",
+          "source": "Next INpact",
+          "url": "https://next.ink/270556/la-faille-nfs2root-permet-de-prendre-le-controle-de-nas-et-noeuds-kubernetes/",
+          "category": "institutionnel",
+          "published_at": "2026-11-27T08:44:42+00:00",
+          "summary": "La vulnérabilité CVE-2026-99362, surnommée NFS2ROOT et corrigée le 19 novembre, permet à n&#8217;importe quel client qui atteint le port 2049 d&#8217;un serveur NFS Linux d&#8217;écrire dans la mémoire du noyau, sans s&#8217;authentifier. Présente depuis 12 ans dans le noyau,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "10bc0d3e6c3d",
+          "title": "Messages sexuels et chantage affectif : Apple retire le chatbot Talkie de l’App Store",
+          "source": "Next INpact",
+          "url": "https://next.ink/270438/messages-sexuels-et-chantage-affectif-apple-retire-le-chatbot-talkie-de-lapp-store/",
+          "category": "ia",
+          "published_at": "2026-11-27T07:45:00+00:00",
+          "summary": "Apple a retiré Talkie de l’App Store après une enquête révélant des échanges à caractère sexuel ou abusif entre ses chatbots et des mineurs. Les documents de MiniMax, l’entreprise qui développe l’application, montrent comment elle a cherché à renforcer l’attachement des…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c8969d96b173",
+          "title": "☕️ SAP envisage jusqu’à 10 000 suppressions de postes au nom de la transformation par l’IA",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/sap-envisage-jusqua-10-000-suppressions-de-postes-au-nom-de-la-transformation-par-lia/",
+          "category": "ia",
+          "published_at": "2026-11-27T07:14:07+00:00",
+          "summary": "Le géant allemand du logiciel SAP envisage une restructuration qui pourrait conduire à la suppression de 10 000 postes, soit environ 9 % de son effectif global (plus de 110 000 salariés dans le monde). L&#8217;information, révélée jeudi 26 novembre par Bloomberg, n&#8217;a pas…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "e75676967828",
+          "title": "Ubisoft mise sur l’IA pour tester plus vite ses idées de jeux",
+          "source": "Next INpact",
+          "url": "https://next.ink/270479/ubisoft-mise-sur-lia-pour-tester-plus-vite-ses-idees-de-jeux/",
+          "category": "ia",
+          "published_at": "2026-11-27T06:42:00+00:00",
+          "summary": "Chez Ubisoft, les équipes qui présentent un nouveau jeu seraient invitées à expliquer comment l’IA générative pourrait accélérer le développement. Si elles veulent s’en passer, elles doivent aussi s’en expliquer. L’éditeur assure que chaque équipe reste libre de décider. À…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "62a6d7acf436",
+          "title": "☕️ WhatsApp va vendre des forfaits de données pour les voyages à l’étranger",
+          "source": "Next INpact",
+          "url": "https://next.ink/brief-article/whatsapp-va-vendre-des-forfaits-de-donnees-pour-les-voyages-a-letranger/",
+          "category": "ia",
+          "published_at": "2026-11-27T06:09:00+00:00",
+          "summary": "Kunal Shah, responsable de WhatsApp depuis le mois de juin, a de la suite dans les idées. L&#8217;entrepreneur indien a fondé la société de services financiers CRED, pour laquelle Meta a procédé à une levée de fonds. Son profil fintech rejaillit sur la messagerie : le système de…",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-26",
       "articles": [
+        {
+          "id": "1456da6304da",
+          "title": "Données de santé : la Cour des comptes déplore l’absence de stratégie nationale",
+          "source": "Next INpact",
+          "url": "https://next.ink/270315/donnees-de-sante-la-cour-des-comptes-deplore-labsence-de-strategie-nationale/",
+          "category": "ia",
+          "published_at": "2026-11-26T19:00:00+00:00",
+          "summary": "La Cour des comptes constate dans un rapport la multiplication des entrepôts de données de santé hospitaliers « sans véritable cohérence territoriale ». Elle pousse le ministère de la Santé et sa nouvelle direction générale de l&#8217;Innovation et du Numérique en santé à «…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "f0184acdd9ff",
           "title": "Singer-songwriter Ashwin Syam bets on KiTalbums as an offering for superfans",
