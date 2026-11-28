@@ -1,9 +1,204 @@
 {
-  "generated_at": "2026-11-27T18:11:12.211071+00:00",
+  "generated_at": "2026-11-28T16:53:23.107919+00:00",
   "days": [
+    {
+      "date": "2026-11-28",
+      "articles": [
+        {
+          "id": "3909db8cb7d3",
+          "title": "Essai McLaren Artura : l’électrique en fait une meilleure supercar, mais la marque ne veut pas aller plus loin",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2384895-essai-mclaren-artura-lelectrique-en-fait-une-meilleure-supercar-mais-la-marque-ne-veut-pas-aller-plus-loin.html",
+          "category": "ia",
+          "published_at": "2026-11-28T16:47:11+00:00",
+          "summary": "Sur la piste de Dunsfold, ancien terrain de jeu de Top Gear, nous avons testé l'Artura, la supercar hybride rechargeable de McLaren. Son moteur électrique gomme le temps de réponse des turbos et rend la voiture plus vive et plus lisible. Pourtant, selon son ingénieur en chef,…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "beb01062820c",
+          "title": "Tyla’s ‘Chanel’ & PARTYNEXTDOOR Win Fan-Voted Honors at 2026 Soul Train Awards",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/lists/soul-train-awards-2026-recap-tyla-partynextdoor/",
+          "category": "ia",
+          "published_at": "2026-11-28T16:01:24+00:00",
+          "summary": "During its celebration of \"love, peace and soul,\" BET also revealed establishment of the Chaka Khan Humanitarian Award.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7418aab5e875",
+          "title": "GTA 6 sur PC, Superintelligence et hypothèse de Riemann – le récap tech de la semaine",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2386809-gta-6-sur-pc-superintelligence-et-hypothese-de-riemann-le-recap-tech-de-la-semaine.html",
+          "category": "ia",
+          "published_at": "2026-11-28T15:13:00+00:00",
+          "summary": "Dans une semaine très axée Black Friday, le monde de la tech a fait parler de lui avec les récentes grandes découvertes de l'intelligence artificielle. En parallèle, la lutte pour faire tourner sur GTA 6 sur PC s'est accélérée : le jeu fonctionne désormais dans une version…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "48b771f3aee6",
+          "title": "Netflix : les meilleures séries comiques de la plateforme pour vous redonner le sourire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2383695-netflix-les-meilleures-series-comiques-de-la-plateforme-pour-vous-redonner-le-sourire.html",
+          "category": "ia",
+          "published_at": "2026-11-28T14:20:00+00:00",
+          "summary": "Avec l’hiver et les vacances de fin d’année qui se profilent à l’horizon, l’envie de préparer sa liste de visionnage sous le plaid commence déjà à se faire sentir. Pour vous éviter de passer vos prochaines soirées à faire défiler le catalogue sans rien lancer, voici 8 séries…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "4b6ff549300f",
+          "title": "GTA VI utilise son retour haptique dans tout le jeu, et la manette DualSense tombe à 48,99 € pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2386881-gta-vi-utilise-son-retour-haptique-dans-tout-le-jeu-et-la-manette-dualsense-tombe-a-4899-e-pour-le-black-friday.html",
+          "category": "loi",
+          "published_at": "2026-11-28T13:00:00+00:00",
+          "summary": "[Deal du jour] GTA VI est sorti sur PS5 il y a huit jours, et il exploite à fond la manette de la console. Pour le Black Friday, Joybuy vend la DualSense de Sony à 48,99 € au lieu de 74,99 € avec un code promo.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "20c8a9ee1f70",
+          "title": "Flock : Manhack Nettoyage",
+          "source": "Next INpact",
+          "url": "https://next.ink/270650/flock-manhack-nettoyage/",
+          "category": "ia",
+          "published_at": "2026-11-28T12:37:00+00:00",
+          "summary": "Connaissez-vous Manhack ? Loin d’être une pie, encore moins un perdreau, le bonhomme. Ses articles fleuves ne sont qu’une couverture et derrière sa prose se cache un homme de l’ombre à l’efficacité redoutable. À lui seul, cet homme s’est occupé de répertorier des boucheries dans…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "3445bb28097a",
+          "title": "On a (enfin) fini GTA 6 et, oui, il est extraordinaire",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2386719-on-a-enfin-fini-gta-6-et-oui-il-est-extraordinaire.html",
+          "category": "ia",
+          "published_at": "2026-11-28T12:01:00+00:00",
+          "summary": "Dans le contexte d'une industrie en crise où licenciements et fermetures de studios semblent se succéder aussi régulièrement qu'inexorablement en maltraitant ses travailleurs et travailleuses tout en allant jusqu'à engendrer des doutes quant à l'avenir d'un secteur tout…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "7e61621a72f9",
+          "title": "Après la hausse de Samsung, le Galaxy S26 Ultra tombe à un prix inespéré pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2387125-apres-la-hausse-de-samsung-le-galaxy-s26-ultra-tombe-a-un-prix-inespere-pour-le-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-28T10:01:58+00:00",
+          "summary": "Quelques semaines après une hausse de prix, le Galaxy S26 Ultra cumule une remise et une offre de remboursement de Samsung pour le Black Friday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "db82097a6c8d",
+          "title": "Paris veut faire payer le stationnement aux voitures électriques, et augmenter le tarif pour les visiteurs",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/vroom/2387081-paris-veut-faire-payer-le-stationnement-aux-voitures-electriques-et-augmenter-le-tarif-pour-les-visiteurs.html",
+          "category": "ia",
+          "published_at": "2026-11-28T09:34:07+00:00",
+          "summary": "La Ville de Paris prévoit de mettre fin, petit à petit, au stationnement gratuit des voitures électriques à partir de juillet 2027. Le même texte fait monter de 2 euros la première heure pour les visiteurs. Il doit encore être voté en décembre.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "67cf3a4e5918",
+          "title": "Where to Watch the 100th Macy’s Thanksgiving Day Parade for Free to See Queen Latifah, LL Cool J & Dolly Parton Tribute",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/how-to-watch-100th-macys-day-parade-thanksgiving-free-1236389567/",
+          "category": "justice",
+          "published_at": "2026-11-28T09:30:00+00:00",
+          "summary": "The centennial event will take place Saturday, Nov. 28, at 8:30 a.m. ET on NBC and Telemundo, but you can watch across several streaming platforms with a free trial.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "daf3d35de11a",
+          "title": "« La singularité a déjà commencé » : l’IA écrit des preuves plus vite que les mathématiciens ne peuvent les lire, et selon le cofondateur d’Anthropic ce n’est que le début",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2387031-la-singularite-a-deja-commence-lia-ecrit-des-preuves-plus-vite-que-les-mathematiciens-ne-peuvent-les-lire-et-selon-le-cofondateur-danthropic-ce-nest-que-le-debut.html",
+          "category": "ia",
+          "published_at": "2026-11-28T08:53:03+00:00",
+          "summary": "Pour Jack Clark, cofondateur d'Anthropic, le prochain défi de la science ne sera plus de découvrir, mais de comprendre ce que l'IA a découvert. Il en a tiré une courte fiction située en 2033. Un scénario que les mathématiciens, déjà submergés par les preuves générées en masse…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "a053430c09b4",
+          "title": "Si vous aviez raté le MacBook Neo avant la hausse de juin, Amazon vous offre une seconde chance pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/tech/2386701-si-vous-aviez-rate-le-macbook-neo-avant-la-hausse-de-juin-amazon-vous-offre-une-seconde-chance-pour-le-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-28T08:30:00+00:00",
+          "summary": "[Deal du jour] La pénurie de mémoire vive avait fait grimper le MacBook Neo de 100 € en juin 2026. En plein Black Friday, Amazon le ramène à 699 € au lieu de 799 €, soit son prix de lancement.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "c7ff0ecb41d8",
+          "title": "Le display de 36 boosters Pokémon Équilibre Parfait passe en promo pour le Black Friday",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2387021-le-display-de-36-boosters-pokemon-equilibre-parfait-passe-en-promo-pour-le-black-friday.html",
+          "category": "ia",
+          "published_at": "2026-11-28T07:42:38+00:00",
+          "summary": "Sortie en mars, Équilibre Parfait a fait entrer Méga-Zygarde-ex et les Méga-Évolutions de Légendes Pokémon Z-A dans le JCC Pokémon. Son display de 36 boosters est en promotion chez Philibert pour le Black Friday.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "68e115ba62dc",
+          "title": "Olivia Rodrigo Shares Second Holiday Song ‘Miss This Christmas’ on Amazon Music",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/pop/olivia-rodrigo-miss-this-christmas-amazon-music-1236390458/",
+          "category": "musique",
+          "published_at": "2026-11-28T00:41:10+00:00",
+          "summary": "The new track follows the pop star’s debut holiday song, “Take Me Home (4 Christmas).”",
+          "summary_type": "extrait source"
+        }
+      ]
+    },
     {
       "date": "2026-11-27",
       "articles": [
+        {
+          "id": "c3d62b26ef75",
+          "title": "Fuerza Regida Announces ‘Pisteando Con La Regida Vol. 4’ After Partial Legal Victory Against Rancho Humilde",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/music/latin/fuerza-regida-pisteando-con-la-regida-vol-4-rancho-humilde-1236390434/",
+          "category": "ia",
+          "published_at": "2026-11-27T23:39:37+00:00",
+          "summary": "“I’m free now they’ve finally taken their foot off the tiger’s neck,” frontman Jesús Ortiz Paz wrote in Spanish on Instagram.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "1b8c9eb5a6b8",
+          "title": "Black Friday Deal: Amazon Marks Down AMC+ Subscription to Just $1.99/Month, A 75% Savings",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/amc-plus-2026-streaming-deals-black-friday-online-1236390413/",
+          "category": "musique",
+          "published_at": "2026-11-27T22:38:16+00:00",
+          "summary": "For Black Friday, get AMC+ for cheap to stream The Walking Dead, Interview With the Vampire, Dark Winds, Gangs of London and original music programming.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "b9c36a684276",
+          "title": "Soul Train Awards 2026: Here’s Where to Watch the Awards Ceremony Online Free",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/soul-train-awards-2026-nov-how-to-watch-live-online-free-1236388588/",
+          "category": "ia",
+          "published_at": "2026-11-27T22:33:12+00:00",
+          "summary": "Hosted by Anthony Anderson, stream the 37th edition of the Soul Train Awards on Nov. 27.",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "40f803e39aad",
+          "title": "FOX One Black Friday Deal: Here’s How to Save 75% Off a Streaming Subscription",
+          "source": "Billboard",
+          "url": "https://www.billboard.com/culture/product-recommendations/fox-one-2026-streaming-deals-black-friday-online-1236390396/",
+          "category": "musique",
+          "published_at": "2026-11-27T21:01:26+00:00",
+          "summary": "Watch FOX, FOX News, FOX Sports, TMZ and original music programming for just $4.99 per month (was $19.99 per month).",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "886bf18f4408",
+          "title": "Les Anneaux de pouvoir : pourquoi Sauron a-t-il pris cette décision surprise à la fin de la saison 3 ?",
+          "source": "Numerama",
+          "url": "https://www.numerama.com/pop-culture/2386767-les-anneaux-de-pouvoir-pourquoi-sauron-a-t-il-pris-cette-decision-surprise-a-la-fin-de-la-saison-3.html",
+          "category": "justice",
+          "published_at": "2026-11-27T18:31:00+00:00",
+          "summary": "Dans le final de la saison 3 des Anneaux de pouvoir, mis en ligne ce mercredi 25 novembre sur Prime Video, Sauron retire l'Anneau unique qu'il vient de forger et s'agenouille devant Ar-Pharazôn, roi de Númenor. Cette reddition vient tout droit de Tolkien, chez qui elle conduit à…",
+          "summary_type": "extrait source"
+        },
         {
           "id": "fd742f7fe504",
           "title": "Justin Timberlake Explains Why He Was ‘Reluctant’ to Make New Docuseries on ‘Tonight Show’",
@@ -202,6 +397,16 @@
           "category": "ia",
           "published_at": "2026-11-27T13:21:28+00:00",
           "summary": "On pensait avoir tout vu en 2024 avec le premier seau en forme de ver des sables d’Arrakis, mais les cinémas ont décidé de repousser encore un peu plus loin les limites du malaise. À moins de trois semaines de la sortie de Dune 3, les nouveaux seaux à popcorn officiels du film…",
+          "summary_type": "extrait source"
+        },
+        {
+          "id": "9b28b105f9f2",
+          "title": "Warner Music’s $1B YouTube windfall, Tidal banning AI music… it’s MBW’s Weekly Round-Up",
+          "source": "Music Business Worldwide",
+          "url": "https://www.musicbusinessworldwide.com/from-warner-musics-billion-dollar-youtube-windfall-to-coachellas-walmart-lawsuit-its-mbws-weekly-round-up/",
+          "category": "musique",
+          "published_at": "2026-11-27T13:07:56+00:00",
+          "summary": "The biggest headlines from the past few days...\n\nSource",
           "summary_type": "extrait source"
         },
         {
